@@ -17,6 +17,7 @@
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
    "youtubeVideoId": "CMSh7cXR5G8",
    "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -34,6 +35,7 @@
    "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -51,6 +53,7 @@
    "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q6175024",
    "description": {
     "en": "newspaper published in Paraguay",
@@ -79,6 +82,7 @@
    "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA",
    "youtubeVideoId": "NAeft69E8U4",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q3140411",
    "description": {
     "en": "Paraguayan free-to-air television network",
@@ -110,6 +114,7 @@
    "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q523293",
    "description": {
     "en": "Paraguayan television network",

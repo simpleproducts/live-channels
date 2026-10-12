@@ -17,6 +17,7 @@
    "youtubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
    "youtubeVideoId": "5vfaDsMhCF4",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q2931014",
    "description": {
     "en": "news division of the Canadian broadcast network CBC",
@@ -61,6 +62,7 @@
    "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q5014635",
    "description": {
     "en": "news division of CTV Television Network",
@@ -93,6 +95,7 @@
    "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q5570514",
    "description": {
     "en": "Canadian news network, division of Global Television Network",
@@ -127,6 +130,7 @@
    "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -145,6 +149,7 @@
    "youtubeChannelId": "UC5aNPmKYwbudeNngDMTY3lw",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q1017576",
    "description": {
     "en": "Canadian television channel",
@@ -171,6 +176,7 @@
    "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q2931869",
    "description": {
     "en": "Canadian parliamentary broadcaster",

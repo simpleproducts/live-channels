@@ -5,13 +5,12 @@
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
-  "es.elpais",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.apunt",
   "es.tvg",
-  "es.rtvcanarias"
+  "es.rtvcanarias",
+  "es.ser"
  ],
  "channels": [
   {
@@ -24,6 +23,7 @@
    "youtubeChannelId": "UC7QZIf0dta-XPXsp9Hv4dTw",
    "youtubeVideoId": "b4tE5aKhtlg",
    "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -41,6 +41,7 @@
    "youtubeChannelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
    "youtubeVideoId": "O9mOtdZ-nSk",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -97,6 +98,7 @@
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
    "youtubeVideoId": "Hy1F2cpGbyA",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -150,6 +152,7 @@
    "youtubeChannelId": "UCKseJ43xWvnywQzl6kYbf0g",
    "youtubeVideoId": "499wgS85QKQ",
    "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -167,6 +170,7 @@
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -216,6 +220,7 @@
    "youtubeChannelId": "UChtLgH7ZJLqLGWJpBnzy9Lg",
    "youtubeVideoId": "vjRNYL_QEEA",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q2712921",
    "description": {
     "en": "public broadcaster of Andalusia, Spain",
@@ -246,6 +251,7 @@
    "youtubeChannelId": "UCOHCRQDAr9HC5d59XvziJFQ",
    "youtubeVideoId": "5nfH4RVu4fc",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q13422541",
    "description": {
     "en": "public service broadcaster of the Basque Autonomous Community's",
@@ -285,6 +291,7 @@
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
    "youtubeVideoId": "3Cs9R7286Ts",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -314,6 +321,7 @@
    "youtubeChannelId": "UCz46p3cffUXUSGUtcnw_Ouw",
    "youtubeVideoId": "-TPDdyXedgg",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q1814720",
    "description": {
     "en": "Galician television channel",
@@ -347,6 +355,7 @@
    "youtubeChannelId": "UCTQrUTmzCWIfG6h4EVCdOCQ",
    "youtubeVideoId": "DByMAYdYEmc",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q2303379",
    "description": {
     "en": "television channel",
@@ -378,6 +387,7 @@
    "youtubeChannelId": "UCT3tvU3bVxOa3ZiVD-B7h9g",
    "youtubeVideoId": "_ccgu4PHBLo",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q539149",
    "description": {
     "en": "lower house of the Cortes Generales (legislative branch of Spain's national government)",
@@ -431,6 +441,7 @@
    "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w",
    "youtubeVideoId": "tUFjAUDzaJg",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q855343",
    "description": {
     "en": "upper house of Spain's parliament, the Cortes Generales",
@@ -482,6 +493,7 @@
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
    "youtubeVideoId": "67T_SNWY8PU",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -526,6 +538,7 @@
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
    "youtubeVideoId": "tniAuKmartU",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",

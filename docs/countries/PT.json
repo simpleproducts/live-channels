@@ -16,6 +16,7 @@
    "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw",
    "youtubeVideoId": "XuZAl-ZPEcA",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -71,6 +72,7 @@
    "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q25442845",
    "description": {
     "en": "Portuguese electronic newspaper",
@@ -100,6 +102,7 @@
    "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -117,6 +120,7 @@
    "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q1509626",
    "description": {
     "en": "Radio station",

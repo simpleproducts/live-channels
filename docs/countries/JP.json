@@ -4,14 +4,14 @@
  "version": 2026101214,
  "defaultTiles": [
   "jp.ann",
-  "jp.tbs",
-  "jp.ntvnews",
   "jp.fnn",
   "jp.nhkworld",
+  "jp.tbs",
+  "jp.ntvnews",
   "jp.weathernews",
-  "jp.tvtokyobiz",
   "jp.mbs",
-  "jp.htb"
+  "jp.htb",
+  "jp.satv"
  ],
  "channels": [
   {
@@ -24,6 +24,7 @@
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
    "youtubeVideoId": "V1Oa0GYWp8w",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q843772",
    "description": {
     "en": "Japanese television network",
@@ -61,6 +62,7 @@
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
    "youtubeVideoId": "ZmgqaN9gDZY",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q16143608",
    "description": {
     "en": "Internet news website",
@@ -87,6 +89,7 @@
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
    "youtubeVideoId": "hOGlDgPuOAU",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q11504671",
    "description": {
     "en": "Japanese television news network",
@@ -114,6 +117,7 @@
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
    "youtubeVideoId": "6MVkqYNAqsg",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q124919956",
    "description": {
     "ja": "フジテレビ系FNN28局のニュースサイト"
@@ -135,6 +139,7 @@
    "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A",
    "youtubeVideoId": "IimtbuqYIE8",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q1191688",
    "description": {
     "en": "international service of the Japanese public radio-television",
@@ -186,6 +191,7 @@
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
    "youtubeVideoId": "ZMZGyeZa-Qs",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q492412",
    "description": {
     "en": "Commercial weather service company based in Chiba, Japan.",
@@ -218,6 +224,7 @@
    "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q779730",
    "description": {
     "en": "news agency",
@@ -269,6 +276,7 @@
    "youtubeChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
    "youtubeVideoId": "C_zfl4FLaOQ",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q111151900",
    "description": {
     "ja": "経済動画サービス"
@@ -288,6 +296,7 @@
    "youtubeChannelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
    "youtubeVideoId": "soT0yMSldwI",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q11231222",
    "description": {
     "ja": "毎日放送（MBSテレビ）とMBSラジオが放送しているニュース番組のタイトル・総称"
@@ -309,6 +318,7 @@
    "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
    "youtubeVideoId": "tvgbZZYS4Nk",
    "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -326,6 +336,7 @@
    "youtubeChannelId": "UCvF5vIejmf-H_XSluaBldfg",
    "youtubeVideoId": "52hB_eOFukI",
    "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

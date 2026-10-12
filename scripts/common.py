@@ -9,7 +9,7 @@ DOCS = os.path.join(ROOT, "docs")
 
 CATEGORIES = ["news", "broadcast", "economy", "regional", "government", "sports", "kids", "streaming", "radio",
               "music", "religious", "culture", "entertainment", "cameras", "other"]
-CHANNEL_KEYS = ["id", "name", "category", "youtubeChannelId", "youtubeVideoId", "embeddable", "languages", "wikidata"]
+CHANNEL_KEYS = ["id", "name", "category", "youtubeChannelId", "youtubeVideoId", "embeddable", "live", "liveSince", "languages", "wikidata"]
 UC_RE = re.compile(r"^UC[\w-]{22}$")
 VIDEO_RE = re.compile(r"^[\w-]{11}$")
 

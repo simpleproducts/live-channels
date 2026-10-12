@@ -31,9 +31,19 @@ docs/                      published output (do not edit by hand)
      capped at `SEARCH_CAP` (default 6) per run so 12 runs a day stay under the 10k daily quota.
      The workflow then runs `build.py --no-scrape`.
    - **Without a key**: `build.py` fetches `https://www.youtube.com/channel/<UC>/live` for every
-     channel. The channel is live when the canonical URL is `watch?v=<id>` and the page has
-     `"isLive":true`. The embed works when the page has `"playableInEmbed":true`.
-   - Offline channels keep their previous id. The app falls back to `live_stream?channel=`.
+     channel. The channel counts as live now only when all of these hold:
+     - the canonical URL is `watch?v=<id>`
+     - `playabilityStatus.status == "OK"` (an upcoming scheduled event shows `LIVE_STREAM_OFFLINE`)
+     - `videoDetails` has `"isLive":true`
+     - the page has `"playableInEmbed":true`
+     If `/live` shows something else, the previously pinned id is re-checked on its own watch page.
+   - In the API path, only `liveBroadcastContent == "live"` counts, never `"upcoming"`.
+   - Every channel gets a managed `"live": true|false`, plus `"liveSince"` when the start time is known.
+   - Offline or upcoming channels keep their previous id but are marked `"live": false`. The app
+     falls back to `live_stream?channel=`.
+   - **defaultTiles** in docs/ are recomputed on every build. They hold up to 9 channels that were
+     live at the last check, ordered news first, then 24/7 streams (live for 20h or more), then the
+     source's `defaultTiles` (a preference order only), then source order.
    - When a live video is not embeddable, the channel gets `"embeddable": false` and is **left out
      of docs/** until a later run finds an embeddable broadcast and sets it back to `true`.
    Pinned ids are written back into `sources/` (the build copies them), so they appear in git history.
@@ -56,7 +66,7 @@ docs/                      published output (do not edit by hand)
    - an unknown category
    - a `youtubeChannelId` that doesn't match `^UC[\w-]{22}$`
    - a malformed `youtubeVideoId` or QID
-   - a `defaultTiles` entry that isn't a channel id, or more than 9 of them
+   - a `defaultTiles` entry that isn't a channel id
 4. **Output.** Output is deterministic: source order, `ensure_ascii=False`, `indent=1`. A
    country's `version` (`yyyymmddHH`, UTC) only changes when its published content changes.
    `index.json.updated` only changes when a country changes.
@@ -94,13 +104,14 @@ One channel per line keeps diffs readable. The scripts rewrite the files in this
 |---|---|---|
 | `code` | yes | ISO 3166-1 alpha-2, uppercase, same as the file name |
 | `languages` | no | country default languages (ISO 639-1); default `["en"]` |
-| `defaultTiles` | no | up to 9 channel ids shown on first launch, best (news-first) first |
+| `defaultTiles` | no | preference order for the published defaultTiles (only live channels are used) |
 | `id` | yes | `[A-Za-z0-9_-]+`, unique within the country; published as `<cc>.<id>` |
 | `name` | yes | display name |
 | `category` | yes | one of `news, broadcast, economy, regional, government, sports, kids, streaming, radio, music, religious, culture, entertainment, cameras, other` |
 | `youtubeChannelId` | yes | the broadcaster's **official** channel (`UC` + 22 chars) |
 | `youtubeVideoId` | managed | current or last live video id, maintained by the scripts |
 | `embeddable` | managed | `false` hides the channel from docs/ |
+| `live`, `liveSince` | managed | live at the last check (status OK and embeddable), and since when |
 | `languages` (channel) | no | overrides Wikidata/country languages (for example DW Español → `["es"]`) |
 | `wikidata` | no | QID override; `null` disables the P2397 match |
 
@@ -110,7 +121,7 @@ One channel per line keeps diffs readable. The scripts rewrite the files in this
 { "schema": 2, "code": "AR", "version": 2026101214, "defaultTiles": ["ar.tn", "..."],
   "channels": [ {
     "id": "ar.tn", "name": "TN", "category": "news", "languages": ["es"],
-    "youtubeChannelId": "UC...", "youtubeVideoId": "abc123def45" | null, "embeddable": true | null,
+    "youtubeChannelId": "UC...", "youtubeVideoId": "abc123def45" | null, "embeddable": true | null, "live": true,
     "wikidata": "Q..." | null,
     "description": { "en": "...", "es": "..." },
     "wikipedia": { "en": "https://en.wikipedia.org/wiki/...", "zh-Hans": "https://zh.wikipedia.org/zh-hans/..." },

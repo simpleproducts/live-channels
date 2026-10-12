@@ -4,7 +4,6 @@
  "version": 2026101214,
  "defaultTiles": [
   "it.euronewsit",
-  "it.ilsole24ore",
   "it.camera",
   "it.senato",
   "it.radiodeejay"
@@ -20,6 +19,7 @@
    "youtubeChannelId": "UC1mX9vuLOYf8fhaXS_KcDRg",
    "youtubeVideoId": "pUcmpyynASM",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -75,6 +75,7 @@
    "youtubeChannelId": "UCCuZicOOisRgknWUSQArudg",
    "youtubeVideoId": "uOooc3zhx6Y",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q1658262",
    "description": {
     "en": "Italian financial daily newspaper",
@@ -116,6 +117,7 @@
    "youtubeChannelId": "UCwP4zsC0r9eqRQOethu5EFg",
    "youtubeVideoId": "BD4kcj6KspM",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q841424",
    "description": {
     "en": "lower house of the Italian Parliament",
@@ -169,6 +171,7 @@
    "youtubeChannelId": "UCbanqpWVQ0l4v_aPUV-j9JQ",
    "youtubeVideoId": "loiN1npW2MM",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q3955188",
    "description": {
     "en": "Italian TV channel",
@@ -192,6 +195,7 @@
    "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
    "youtubeVideoId": "K1DDKB8lBEc",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q1567359",
    "description": {
     "en": "radio station in Italy",

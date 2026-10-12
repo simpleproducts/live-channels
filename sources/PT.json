@@ -3,9 +3,9 @@
  "languages": ["pt"],
  "defaultTiles": ["euronewspt"],
  "channels": [
-  {"id": "euronewspt", "name": "Euronews em português", "category": "news", "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw", "youtubeVideoId": "XuZAl-ZPEcA", "embeddable": true},
-  {"id": "observador", "name": "Observador", "category": "news", "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg", "wikidata": "Q25442845"},
-  {"id": "canalparlamento", "name": "ARTV Canal Parlamento", "category": "government", "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A"},
-  {"id": "renascenca", "name": "Rádio Renascença", "category": "radio", "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw"}
+  {"id": "euronewspt", "name": "Euronews em português", "category": "news", "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw", "youtubeVideoId": "XuZAl-ZPEcA", "embeddable": true, "live": true, "liveSince": "2024-01-19T00:00:00Z"},
+  {"id": "observador", "name": "Observador", "category": "news", "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg", "live": false, "wikidata": "Q25442845"},
+  {"id": "canalparlamento", "name": "ARTV Canal Parlamento", "category": "government", "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A", "live": false},
+  {"id": "renascenca", "name": "Rádio Renascença", "category": "radio", "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw", "live": false}
  ]
 }

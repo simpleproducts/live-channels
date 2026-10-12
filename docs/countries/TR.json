@@ -3,15 +3,15 @@
  "code": "TR",
  "version": 2026101214,
  "defaultTiles": [
-  "tr.cnnturk",
   "tr.trthaber",
-  "tr.haberturk",
   "tr.ntv",
-  "tr.halktv",
-  "tr.sozcu",
   "tr.trtworld",
   "tr.ahaber",
-  "tr.tgrthaber"
+  "tr.haberglobal",
+  "tr.tv100",
+  "tr.24tv",
+  "tr.cnnturk",
+  "tr.haberturk"
  ],
  "channels": [
   {
@@ -24,6 +24,7 @@
    "youtubeChannelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
    "youtubeVideoId": "Idu92SO5SJg",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q2931786",
    "description": {
     "en": "Turkish news channel",
@@ -71,6 +72,7 @@
    "youtubeChannelId": "UCBgTP2LOFVPmq15W-RH-WXA",
    "youtubeVideoId": "GefoJ-LXYfc",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q535725",
    "description": {
     "en": "Turkish public broadcasting news station",
@@ -112,6 +114,7 @@
    "youtubeChannelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
    "youtubeVideoId": "l38DxP6p89U",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q6092925",
    "description": {
     "en": "Turkish news network",
@@ -139,6 +142,7 @@
    "youtubeChannelId": "UC9TDTjbOjFB9jADmPhSAPsw",
    "youtubeVideoId": "pqq5c6k70kk",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q1961596",
    "description": {
     "en": "Turkish news network",
@@ -176,6 +180,7 @@
    "youtubeChannelId": "UCf_ResXZzE-o18zACUEmyvQ",
    "youtubeVideoId": "edyqMx5JGow",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q6065965",
    "description": {
     "en": "Turkish news network",
@@ -201,6 +206,7 @@
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
    "youtubeVideoId": "gccQ6Tcr9dg",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q116775276",
    "description": {
     "tr": "Türkiye'de bir televizyon kanalı",
@@ -224,6 +230,7 @@
    "youtubeChannelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
    "youtubeVideoId": "qBe59l6p_EU",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q6063045",
    "description": {
     "en": "Turkish public radio and television broadcaster",
@@ -265,6 +272,7 @@
    "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
    "youtubeVideoId": "EyTWkmkQxJA",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q6089384",
    "description": {
     "en": "Turkish news network",
@@ -290,8 +298,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCzgrZ-CndOoylh2_e72nSBQ",
-   "youtubeVideoId": "WX29nlgdqho",
+   "youtubeVideoId": "1O3MXXnEiHE",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q6084153",
    "description": {
     "en": "Turkish news network",
@@ -317,6 +326,7 @@
    "youtubeChannelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
    "youtubeVideoId": "EqoCJ8BPxtE",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q84432980",
    "description": {
     "ar": "الخبر العالمي هي قناة إخبارية وموقع إخباري في تركيا بدأ البث في 24 سبتمبر 2018.",
@@ -342,6 +352,7 @@
    "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
    "youtubeVideoId": "4WSvLRk83-c",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q85975294",
    "description": {
     "en": "Turkish national news channel",
@@ -367,6 +378,7 @@
    "youtubeChannelId": "UCN7VYCsI4Lx1-J4_BtjoWUA",
    "youtubeVideoId": "6B-nPOdP720",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q6098008",
    "description": {
     "en": "Turkish news network",
@@ -390,6 +402,7 @@
    "youtubeChannelId": "UCApLxl6oYQafxvykuoC2uxQ",
    "youtubeVideoId": "j7B_zsL11Pw",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q6087645",
    "description": {
     "en": "Turkish news network",
@@ -411,8 +424,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCJEn13vDGcJTyqe-hdpFP-g",
-   "youtubeVideoId": null,
-   "embeddable": null,
+   "youtubeVideoId": "mhlzdHoSLQM",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q16875533",
    "description": {
     "en": "Turkish public broadcasting station",
@@ -440,6 +454,7 @@
    "youtubeChannelId": "UCUVZ7T_kwkxDOGFcDlFI-hg",
    "youtubeVideoId": "959bjt_iryU",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q423651",
    "description": {
     "en": "Turkey-based cable television channel",

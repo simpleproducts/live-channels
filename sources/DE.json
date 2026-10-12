@@ -3,14 +3,14 @@
  "languages": ["de"],
  "defaultTiles": ["welt", "phoenix", "dwnews", "euronewsde", "dwespanol"],
  "channels": [
-  {"id": "welt", "name": "WELT Nachrichtensender", "category": "news", "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA", "youtubeVideoId": "B4Q8mkZTT-M", "embeddable": true},
-  {"id": "phoenix", "name": "phoenix", "category": "news", "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg", "youtubeVideoId": "nzI58I7g-Go", "embeddable": true},
-  {"id": "tagesschau", "name": "tagesschau", "category": "news", "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA", "wikidata": "Q703907"},
-  {"id": "zdfheute", "name": "ZDFheute Nachrichten", "category": "news", "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ"},
-  {"id": "bild", "name": "BILD", "category": "news", "youtubeChannelId": "UC4zcMHyrT_xyWlgy5WGpFFQ"},
-  {"id": "dwnews", "name": "DW News", "category": "news", "youtubeChannelId": "UCknLrEdhRCp1aegoMqRaCZg", "youtubeVideoId": "LuKwFajn37U", "embeddable": true, "languages": ["en"]},
-  {"id": "euronewsde", "name": "Euronews Deutsch", "category": "news", "youtubeChannelId": "UCACdxU3VrJIJc7ujxtHWs1w", "youtubeVideoId": "CQ3KsEbsYHs", "embeddable": true},
-  {"id": "dwespanol", "name": "DW Español", "category": "news", "youtubeChannelId": "UCT4Jg8h03dD0iN3Pb5L0PMA", "youtubeVideoId": "yZh3xsFqCt8", "embeddable": true, "languages": ["es"]},
-  {"id": "bundestag", "name": "Deutscher Bundestag", "category": "government", "youtubeChannelId": "UCbh5D3EdIHP4YQA5X-eK1ug"}
+  {"id": "welt", "name": "WELT Nachrichtensender", "category": "news", "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA", "youtubeVideoId": "B4Q8mkZTT-M", "embeddable": true, "live": true, "liveSince": "2026-10-12T04:00:00Z"},
+  {"id": "phoenix", "name": "phoenix", "category": "news", "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg", "youtubeVideoId": "nzI58I7g-Go", "embeddable": true, "live": false},
+  {"id": "tagesschau", "name": "tagesschau", "category": "news", "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA", "live": false, "wikidata": "Q703907"},
+  {"id": "zdfheute", "name": "ZDFheute Nachrichten", "category": "news", "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ", "live": false},
+  {"id": "bild", "name": "BILD", "category": "news", "youtubeChannelId": "UC4zcMHyrT_xyWlgy5WGpFFQ", "live": false},
+  {"id": "dwnews", "name": "DW News", "category": "news", "youtubeChannelId": "UCknLrEdhRCp1aegoMqRaCZg", "youtubeVideoId": "LuKwFajn37U", "embeddable": true, "live": true, "liveSince": "2025-03-31T00:00:00Z", "languages": ["en"]},
+  {"id": "euronewsde", "name": "Euronews Deutsch", "category": "news", "youtubeChannelId": "UCACdxU3VrJIJc7ujxtHWs1w", "youtubeVideoId": "CQ3KsEbsYHs", "embeddable": true, "live": true, "liveSince": "2022-09-19T00:00:00Z"},
+  {"id": "dwespanol", "name": "DW Español", "category": "news", "youtubeChannelId": "UCT4Jg8h03dD0iN3Pb5L0PMA", "youtubeVideoId": "yZh3xsFqCt8", "embeddable": true, "live": true, "liveSince": "2026-04-28T00:00:00Z", "languages": ["es"]},
+  {"id": "bundestag", "name": "Deutscher Bundestag", "category": "government", "youtubeChannelId": "UCbh5D3EdIHP4YQA5X-eK1ug", "live": false}
  ]
 }

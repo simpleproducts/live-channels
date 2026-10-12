@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Build docs/ from sources/: validate, enrich from Wikidata/Wikipedia, write the published catalog.
 
+defaultTiles in docs/ are recomputed every build from the channels that were live at the last check
+(sources' "defaultTiles" is only a preference order).
+
 Usage:  python3 -I scripts/build.py [--offline] [--check] [--no-scrape]
   --offline    never hit the network (use cache / previously published enrichment only)
   --check      validate sources only, write nothing
@@ -218,6 +221,8 @@ def validate(sources):
                 errors.append("%s: invalid category %r" % (where, ch.get("category")))
             if not UC_RE.match(ch.get("youtubeChannelId") or ""):
                 errors.append("%s: youtubeChannelId must match ^UC[\\w-]{22}$" % where)
+            if ch.get("live") is not None and not isinstance(ch["live"], bool):
+                errors.append("%s: live must be true/false" % where)
             if ch.get("embeddable") is not None and not isinstance(ch["embeddable"], bool):
                 errors.append("%s: embeddable must be true/false" % where)
             vid = ch.get("youtubeVideoId")
@@ -231,12 +236,30 @@ def validate(sources):
         for t in src.get("defaultTiles", []):
             if t not in local:
                 errors.append("%s: defaultTiles entry %r is not a channel id" % (name, t))
-        if len(src.get("defaultTiles", [])) > 9:
-            errors.append("%s: at most 9 defaultTiles" % name)
     return errors
 
 
 # ---------------------------------------------------------------- build
+def pick_defaults(src, excluded, now, n=9):
+    """Up to 9 channels that were genuinely live (status OK, embeddable) at the last live check.
+    Order: news first, then 24/7 streams (live for 20h+), then the hand-written "defaultTiles"
+    preference order, then source order."""
+    pref = {t: i for i, t in enumerate(src.get("defaultTiles", []))}
+    cands = []
+    for i, ch in enumerate(src["channels"]):
+        if ch["id"] in excluded or ch.get("live") is not True:
+            continue
+        always_on = False
+        if ch.get("liveSince"):
+            try:
+                since = datetime.datetime.strptime(ch["liveSince"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=datetime.timezone.utc)
+                always_on = (now - since).total_seconds() >= 20 * 3600
+            except ValueError:
+                pass
+        cands.append((ch["category"] != "news", not always_on, pref.get(ch["id"], 999), i, ch["id"]))
+    return [c[-1] for c in sorted(cands)[:n]]
+
+
 def flag(cc):
     return "".join(chr(0x1F1E6 + ord(c) - 65) for c in cc)
 
@@ -391,6 +414,7 @@ def main():
                 "youtubeChannelId": ch["youtubeChannelId"],
                 "youtubeVideoId": ch.get("youtubeVideoId"),
                 "embeddable": ch.get("embeddable"),
+                "live": ch.get("live") is True,
                 "wikidata": enrich.get("wikidata"),
                 "description": enrich.get("description") or {},
                 "wikipedia": enrich.get("wikipedia") or {},
@@ -400,7 +424,7 @@ def main():
             })
             out_channels.append(rec)
 
-        body = {"schema": SCHEMA, "code": cc, "defaultTiles": ["%s.%s" % (cc.lower(), t) for t in s.get("defaultTiles", []) if t not in excluded],
+        body = {"schema": SCHEMA, "code": cc, "defaultTiles": ["%s.%s" % (cc.lower(), t) for t in pick_defaults(s, excluded, now)],
                 "channels": out_channels}
         prev_body = {k: v for k, v in (prev or {}).items() if k != "version"}
         if prev and prev_body == body:

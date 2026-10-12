@@ -3,11 +3,10 @@
  "code": "DE",
  "version": 2026101214,
  "defaultTiles": [
-  "de.welt",
-  "de.phoenix",
   "de.dwnews",
   "de.euronewsde",
-  "de.dwespanol"
+  "de.dwespanol",
+  "de.welt"
  ],
  "channels": [
   {
@@ -20,6 +19,7 @@
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
    "youtubeVideoId": "B4Q8mkZTT-M",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q1959672",
    "description": {
     "en": "television station",
@@ -61,6 +61,7 @@
    "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
    "youtubeVideoId": "nzI58I7g-Go",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q3381361",
    "description": {
     "en": "television station in Germany",
@@ -95,6 +96,7 @@
    "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q703907",
    "description": {
     "en": "Germany's main daily news report in television",
@@ -140,6 +142,7 @@
    "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q132108",
    "description": {
     "en": "German TV news program",
@@ -183,6 +186,7 @@
    "youtubeChannelId": "UC4zcMHyrT_xyWlgy5WGpFFQ",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q156203",
    "description": {
     "en": "German tabloid newspaper",
@@ -236,6 +240,7 @@
    "youtubeChannelId": "UCknLrEdhRCp1aegoMqRaCZg",
    "youtubeVideoId": "LuKwFajn37U",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q39055013",
    "description": {
     "en": "global English-language news and information channel from Germany's Deutsche Welle",
@@ -265,6 +270,7 @@
    "youtubeChannelId": "UCACdxU3VrJIJc7ujxtHWs1w",
    "youtubeVideoId": "CQ3KsEbsYHs",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -320,6 +326,7 @@
    "youtubeChannelId": "UCT4Jg8h03dD0iN3Pb5L0PMA",
    "youtubeVideoId": "yZh3xsFqCt8",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q3384036",
    "description": {
     "en": "news portal, affilitate of Deutsche Welle",
@@ -345,6 +352,7 @@
    "youtubeChannelId": "UCbh5D3EdIHP4YQA5X-eK1ug",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q154797",
    "description": {
     "en": "legislature of Germany; parliament",

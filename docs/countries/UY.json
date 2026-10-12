@@ -3,9 +3,7 @@
  "code": "UY",
  "version": 2026101214,
  "defaultTiles": [
-  "uy.elobservadoruy",
   "uy.ladiaria",
-  "uy.canal4",
   "uy.tnu",
   "uy.carve",
   "uy.delsol",
@@ -22,6 +20,7 @@
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
    "youtubeVideoId": "og11S7PawlY",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -55,6 +54,7 @@
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
    "youtubeVideoId": "T1hBk0GrYNg",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -84,6 +84,7 @@
    "youtubeChannelId": "UCp6X5jzfmwbOeclRArOi18g",
    "youtubeVideoId": "RHUWZzLgD9U",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q3565404",
    "description": {
     "en": "Uruguayan television channel",
@@ -121,6 +122,7 @@
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
    "youtubeVideoId": "MxsBxx-miQw",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -160,6 +162,7 @@
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -190,6 +193,7 @@
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -215,6 +219,7 @@
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
    "youtubeVideoId": "MKZMT0zR4kY",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -239,6 +244,7 @@
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
    "youtubeVideoId": "UBSPEZoH1hI",
    "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -256,6 +262,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "cbO8VDDL26Y",
    "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

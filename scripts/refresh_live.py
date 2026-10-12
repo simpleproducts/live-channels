@@ -16,6 +16,7 @@ Per run:
      Budget: 12 runs/day x (6 x 100 + ~20 videos.list) ~= 7.5k units < 10k daily quota.
 Offline channels keep their previous id (the app falls back to live_stream?channel=).
 Live videos that are not embeddable are recorded as "embeddable": false (build.py excludes them).
+Every channel also gets "live": true/false (+ "liveSince"), which build.py uses to pick defaultTiles.
 
 Usage:  YT_API_KEY=... [SEARCH_CAP=6] python3 -I scripts/refresh_live.py
 Exits 0 quietly when YT_API_KEY is not set (the workflow then lets build.py scrape instead).
@@ -58,12 +59,25 @@ def videos_info(ids, key):
     out = {}
     ids = list(dict.fromkeys(ids))
     for i in range(0, len(ids), 50):
-        res = api("videos", key, part="snippet,status", id=",".join(ids[i:i + 50]), maxResults=50)
+        res = api("videos", key, part="snippet,status,liveStreamingDetails", id=",".join(ids[i:i + 50]), maxResults=50)
         for it in (res or {}).get("items", []):
+            # only "live" counts; "upcoming" (scheduled) and "none" do not
             out[it["id"]] = {"live": it["snippet"].get("liveBroadcastContent") == "live",
+                             "since": it.get("liveStreamingDetails", {}).get("actualStartTime"),
                              "embeddable": bool(it.get("status", {}).get("embeddable", True)),
                              "channelId": it["snippet"].get("channelId")}
     return out
+
+
+def _iso(ts):
+    """'2026-10-12T09:01:02Z' or with fractions/offset -> 'YYYY-MM-DDTHH:MM:SSZ' (UTC)."""
+    if not ts:
+        return None
+    try:
+        dt = datetime.datetime.fromisoformat(ts.replace("Z", "+00:00"))
+        return dt.astimezone(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    except ValueError:
+        return None
 
 
 def rss_ids(channel_id):
@@ -90,12 +104,25 @@ def main():
     chans = [(n, ch) for n, s in sources.items() for ch in s["channels"]]
     dirty = set()
 
-    def pin(name, ch, vid, emb):
-        before = (ch.get("youtubeVideoId"), ch.get("embeddable"))
-        ch["embeddable"] = emb
-        if emb:
-            ch["youtubeVideoId"] = vid
-        if before != (ch.get("youtubeVideoId"), ch.get("embeddable")):
+    keys = ("youtubeVideoId", "embeddable", "live", "liveSince")
+
+    def pin(name, ch, vid, v):
+        """v: videos_info entry of a live video, or None = channel not live now (previous id is kept)."""
+        before = tuple(ch.get(k) for k in keys)
+        if v:
+            ch["embeddable"] = v["embeddable"]
+            ch["live"] = v["embeddable"]
+            if v["embeddable"]:
+                ch["youtubeVideoId"] = vid
+            since = _iso(v.get("since"))
+            if since and v["embeddable"]:
+                ch["liveSince"] = since
+            else:
+                ch.pop("liveSince", None)
+        else:
+            ch["live"] = False
+            ch.pop("liveSince", None)
+        if before != tuple(ch.get(k) for k in keys):
             dirty.add(name)
 
     # 1. pinned ids
@@ -105,7 +132,7 @@ def main():
     for name, ch in chans:
         v = info.get(ch.get("youtubeVideoId") or "")
         if v and v["live"]:
-            pin(name, ch, ch["youtubeVideoId"], v["embeddable"])
+            pin(name, ch, ch["youtubeVideoId"], v)
             kept += 1
         else:
             if ch.get("youtubeVideoId"):
@@ -122,7 +149,7 @@ def main():
     for name, ch in todo:
         hit = next((v for v in feed[ch["youtubeChannelId"]] if info.get(v, {}).get("live")), None)
         if hit:
-            pin(name, ch, hit, info[hit]["embeddable"])
+            pin(name, ch, hit, info[hit])
             via_rss += 1
         else:
             left.append((name, ch))
@@ -139,11 +166,17 @@ def main():
         if vid:
             found[vid] = (name, ch)
     info = videos_info(list(found), key)
+    confirmed = set()
     for vid, (name, ch) in found.items():
         v = info.get(vid)
         if v and v["live"]:
-            pin(name, ch, vid, v["embeddable"])
+            pin(name, ch, vid, v)
             via_search += 1
+            confirmed.add(id(ch))
+    # everything not confirmed live this run (including channels beyond the search cap) is not live now
+    for name, ch in left:
+        if id(ch) not in confirmed:
+            pin(name, ch, None, None)
 
     for name in sorted(dirty):
         write_source(sources[name])

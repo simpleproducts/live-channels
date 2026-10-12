@@ -3,10 +3,7 @@
  "code": "VE",
  "version": 2026101214,
  "defaultTiles": [
-  "ve.vpitv",
-  "ve.globovision",
-  "ve.venevision",
-  "ve.unionradio"
+  "ve.vpitv"
  ],
  "channels": [
   {
@@ -19,6 +16,7 @@
    "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w",
    "youtubeVideoId": "SaMzkvXN0II",
    "embeddable": true,
+   "live": true,
    "wikidata": "Q59345050",
    "description": {
     "en": "Venezuelan streaming channel",
@@ -42,6 +40,7 @@
    "youtubeChannelId": "UCTp0PrexDQCj60zQlkzAEFw",
    "youtubeVideoId": "gkEMxJBbqDE",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q5571087",
    "description": {
     "en": "24-hour television news network in Venezuela and Latin America",
@@ -69,6 +68,7 @@
    "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -86,6 +86,7 @@
    "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA",
    "youtubeVideoId": null,
    "embeddable": null,
+   "live": false,
    "wikidata": "Q65057048",
    "description": {
     "en": "Venezuelan news website",
@@ -109,6 +110,7 @@
    "youtubeChannelId": "UCKzo7oVJPgzN7FVRHo0WC-Q",
    "youtubeVideoId": "RtwI2fwMPGQ",
    "embeddable": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -126,6 +128,7 @@
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
    "youtubeVideoId": "MIOSd-3lXhM",
    "embeddable": true,
+   "live": false,
    "wikidata": "Q5770016",
    "description": {
     "en": "Venezuela",
