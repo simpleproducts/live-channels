@@ -1,0 +1,347 @@
+{
+ "schema": 2,
+ "code": "MX",
+ "version": 2026101214,
+ "defaultTiles": [
+  "mx.milenio",
+  "mx.nmas",
+  "mx.imagennoticias",
+  "mx.excelsior",
+  "mx.aztecanoticias",
+  "mx.latinus",
+  "mx.heraldo",
+  "mx.unotv",
+  "mx.adnnoticias"
+ ],
+ "channels": [
+  {
+   "id": "mx.milenio",
+   "name": "Milenio",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCFxHplbcoJK9m70c4VyTIxg",
+   "youtubeVideoId": "6fnO0-ZXRas",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "mx.nmas",
+   "name": "N+",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
+   "youtubeVideoId": "NCOloD07kjg",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "mx.imagennoticias",
+   "name": "Imagen Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
+   "youtubeVideoId": "BTabaSUXVJk",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "mx.excelsior",
+   "name": "Excélsior TV",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UClqo4ZAAZ01HQdCTlovCgkA",
+   "youtubeVideoId": "Xg2k4_2JQS4",
+   "embeddable": true,
+   "wikidata": "Q16492985",
+   "description": {
+    "en": "Television channel",
+    "es": "canal de televisión de noticias mexicano",
+    "fr": "chaîne de télévision",
+    "pt-BR": "Canal de televisão",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Exc%C3%A9lsior_TV",
+    "es": "https://es.wikipedia.org/wiki/Exc%C3%A9lsior_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Excelsior_tv-mediano.png?width=256",
+   "website": "http://www.excelsior.com.mx/tv",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.aztecanoticias",
+   "name": "Azteca Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCUP6qv-_EIL0hwTsJaKYnvw",
+   "youtubeVideoId": "0YHVbpA2K7M",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "mx.latinus",
+   "name": "Latinus",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC-FVhfqCwhzpJ4DTJOMMofA",
+   "youtubeVideoId": "DMdtcr_6fvo",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "mx.heraldo",
+   "name": "El Heraldo de México",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
+   "youtubeVideoId": "qSHNc1vtOuo",
+   "embeddable": true,
+   "wikidata": "Q65047709",
+   "description": {
+    "en": "Mexican daily newspaper",
+    "es": "El Heraldo de México es un periódico mexicano publicado en Ciudad de México.",
+    "zh-Hans": "墨西哥报纸",
+    "fr": "quotidien mexicain",
+    "zh-Hant": "墨西哥报纸",
+    "nl": "krant uit Mexico"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Heraldo_de_M%C3%A9xico",
+    "es": "https://es.wikipedia.org/wiki/El_Heraldo_de_M%C3%A9xico",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%85%88%E9%A9%85%E5%A0%B1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%85%88%E9%A9%85%E5%A0%B1"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Heraldo_de_M%C3%A9xico_Logo.svg?width=256",
+   "website": "https://heraldodemexico.com.mx/",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.unotv",
+   "name": "Uno TV",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
+   "youtubeVideoId": "lhzFffINE4o",
+   "embeddable": true,
+   "wikidata": "Q39080697",
+   "description": {
+    "es": "generador de contenidos en México"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Uno_TV"
+   },
+   "logo": null,
+   "website": "http://www.unotv.com",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.adnnoticias",
+   "name": "adn Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
+   "youtubeVideoId": "PC8nOb8cTNg",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "mx.aristegui",
+   "name": "Aristegui Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCafNntv_qTQB26AvbEQNHPw",
+   "youtubeVideoId": "5ogA_97TLNg",
+   "embeddable": true,
+   "wikidata": "Q61998946",
+   "description": {
+    "en": "Mexico online newspaper",
+    "es": "periódico digital de origen mexicano",
+    "zh-Hans": "墨西哥在线新闻",
+    "ja": "メキシコのオンライン新聞",
+    "fr": "site d'information mexicain"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "http://www.aristeguinoticias.com",
+   "city": null
+  },
+  {
+   "id": "mx.multimedios",
+   "name": "Multimedios",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCo1nfa1JKNqtcUyLjLwTiIw",
+   "youtubeVideoId": "SM864ZgPpG8",
+   "embeddable": true,
+   "wikidata": "Q11693969",
+   "description": {
+    "en": "Mexican television network",
+    "es": "canal de televisión mexicano,  operado por Grupo Multimedios",
+    "zh-Hans": "運河6 是一个可以在墨西哥东北部和美国西南部收看的西班牙语电视台。該電視台的總部位於蒙特雷。該電視台的节目内容包括本地新闻、体育、儿童节目和综艺节目。",
+    "pt-BR": "Rede de televisão mexicana, propriedade do Grupo Multimedios",
+    "zh-Hant": "運河6 是一个可以在墨西哥东北部和美国西南部收看的西班牙语电视台。該電視台的總部位於蒙特雷。該電視台的节目内容包括本地新闻、体育、儿童节目和综艺节目。"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_6_(Mexico)",
+    "es": "https://es.wikipedia.org/wiki/Canal_6_(M%C3%A9xico)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%81%8B%E6%B2%B36_(%E5%A2%A8%E8%A5%BF%E5%93%A5)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_6_(M%C3%A9xico)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%81%8B%E6%B2%B36_(%E5%A2%A8%E8%A5%BF%E5%93%A5)"
+   },
+   "logo": null,
+   "website": "http://www.multimedios.tv/",
+   "city": "Monterrey"
+  },
+  {
+   "id": "mx.canalonce",
+   "name": "Canal Once",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
+   "youtubeVideoId": "52_8CzfHc1g",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "mx.canal14",
+   "name": "Canal Catorce",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
+   "youtubeVideoId": "ONq7OH1jyCY",
+   "embeddable": true,
+   "wikidata": "Q15623489",
+   "description": {
+    "en": "Mexican public TV network",
+    "es": "canal de televisión pública mexicano",
+    "pt-BR": "Canal público de televisão mexicana"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_Catorce",
+    "es": "https://es.wikipedia.org/wiki/Canal_Catorce"
+   },
+   "logo": null,
+   "website": "http://www.canalcatorce.tv",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.imagentv",
+   "name": "Imagen Televisión",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
+   "youtubeVideoId": "Bs8Y9yiySX4",
+   "embeddable": true,
+   "wikidata": "Q27031787",
+   "description": {
+    "en": "Mexican television network",
+    "es": "cadena de televisión mexicana",
+    "fr": "chaîne de télévision",
+    "pt-BR": "Rede de televisão",
+    "ko": "텔레비전 네트워크",
+    "it": "rete televisiva",
+    "de": "Fernsehnetzwerk"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Imagen_Televisi%C3%B3n",
+    "es": "https://es.wikipedia.org/wiki/Imagen_Televisi%C3%B3n",
+    "fr": "https://fr.wikipedia.org/wiki/Imagen_Televisi%C3%B3n",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Imagen_Televisi%C3%B3n",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%A7%88%ED%97%A8_%ED%85%94%EB%A0%88%EB%B9%84%EC%8B%9C%EC%98%A8",
+    "it": "https://it.wikipedia.org/wiki/Imagen_Televisi%C3%B3n",
+    "de": "https://de.wikipedia.org/wiki/Imagen_Televisi%C3%B3n"
+   },
+   "logo": null,
+   "website": "http://www.imagentv.com",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.gobmx",
+   "name": "Gobierno de México",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w",
+   "youtubeVideoId": "v7i3ainx9yg",
+   "embeddable": true,
+   "wikidata": "Q5440529",
+   "description": {
+    "en": "national government of the United Mexican States",
+    "es": "tres ramas que conforman el gobierno federal de México",
+    "ru": "Мексика, как и большинство других стран Латинской Америки, представляет собой президентскую республику."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Federal_government_of_Mexico",
+    "es": "https://es.wikipedia.org/wiki/Poderes_de_la_Uni%C3%B3n",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B8"
+   },
+   "logo": null,
+   "website": "https://www.gob.mx/",
+   "city": "Ciudad de México"
+  }
+ ]
+}

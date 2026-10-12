@@ -1,0 +1,137 @@
+{
+ "schema": 2,
+ "code": "PY",
+ "version": 2026101214,
+ "defaultTiles": [
+  "py.abctv",
+  "py.telefuturo"
+ ],
+ "channels": [
+  {
+   "id": "py.abctv",
+   "name": "ABC TV Paraguay",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
+   "youtubeVideoId": "CMSh7cXR5G8",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "py.npy",
+   "name": "NPY",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "py.ultimahora",
+   "name": "Última Hora",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q6175024",
+   "description": {
+    "en": "newspaper published in Paraguay",
+    "es": "periódico paraguayo",
+    "fr": "journal paraguayen",
+    "ru": "Última Hora — газета утреннего выпуска в Парагвае, редакция которой находится в городе Асунсьон.",
+    "nl": "krant uit Paraguay"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/%C3%9Altima_Hora_(Paraguay)",
+    "es": "https://es.wikipedia.org/wiki/%C3%9Altima_Hora_(Paraguay)",
+    "fr": "https://fr.wikipedia.org/wiki/%C3%9Altima_Hora_(Paraguay)",
+    "ru": "https://ru.wikipedia.org/wiki/%C3%9Altima_Hora_(%D0%9F%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Uhora_logos.jpg?width=256",
+   "website": "http://www.ultimahora.com/",
+   "city": "Asunción"
+  },
+  {
+   "id": "py.telefuturo",
+   "name": "Telefuturo",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA",
+   "youtubeVideoId": "NAeft69E8U4",
+   "embeddable": true,
+   "wikidata": "Q3140411",
+   "description": {
+    "en": "Paraguayan free-to-air television network",
+    "es": "canal de televisión abierta paraguayo",
+    "fr": "Telefuturo est une chaîne de télévision paraguayenne.",
+    "pt-BR": "A Telefuturo é uma rede de televisão paraguaia localizada em Assunção, capital do Paraguai.",
+    "ko": "텔레푸투로(스페인어: Telefuturo)는 파라과이의 텔레비전 채널이다.",
+    "it": "rete televisiva paraguaiana"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Telefuturo",
+    "es": "https://es.wikipedia.org/wiki/Telefuturo",
+    "fr": "https://fr.wikipedia.org/wiki/Telefuturo",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Telefuturo",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%85%94%EB%A0%88%ED%91%B8%ED%88%AC%EB%A1%9C",
+    "it": "https://it.wikipedia.org/wiki/Telefuturo"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LogoTFFlat.png?width=256",
+   "website": "http://www.telefuturo.com.py/",
+   "city": "Asunción"
+  },
+  {
+   "id": "py.snt",
+   "name": "SNT",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q523293",
+   "description": {
+    "en": "Paraguayan television network",
+    "es": "canal de televisión paraguayo",
+    "zh-Hans": "國家電視公司 是南美洲內陸國家巴拉圭的電視台，成立並開播於1965年9月29日。原名谢罗科拉电视台。此外，国家电视公司于1999年加入阿尔巴电视集团（Albavisión）。截至2019年8月，國家電視公司的受眾為400万居民，相当于巴拉圭人口的57%。",
+    "fr": "chaîne de télévision ouverte paraguayenne",
+    "pt-BR": "rede de televisão paraguaia",
+    "ko": "파라과이의 텔레비젼 채널",
+    "zh-Hant": "國家電視公司 是南美洲內陸國家巴拉圭的電視台，成立並開播於1965年9月29日。原名谢罗科拉电视台。此外，国家电视公司于1999年加入阿尔巴电视集团（Albavisión）。截至2019年8月，國家電視公司的受眾為400万居民，相当于巴拉圭人口的57%。"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sistema_Nacional_de_Televisi%C3%B3n_(Paraguay)",
+    "es": "https://es.wikipedia.org/wiki/SNT",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%85%AC%E5%8F%B8_(%E5%B7%B4%E6%8B%89%E5%9C%AD)",
+    "fr": "https://fr.wikipedia.org/wiki/Sistema_Nacional_de_Televisi%C3%B3n",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Sistema_Nacional_de_Televisi%C3%B3n",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%8A%A4%ED%85%8C%EB%A7%88_%EB%82%98%EC%8B%9C%EC%98%A4%EB%82%A0_%EB%8D%B0_%ED%85%94%EB%A0%88%EB%B9%84%EC%8B%9C%EC%98%A8",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%9C%8B%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%85%AC%E5%8F%B8_(%E5%B7%B4%E6%8B%89%E5%9C%AD)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SNT_2013_logotype.png?width=256",
+   "website": "http://www.snt.com.py",
+   "city": "Asunción"
+  }
+ ]
+}

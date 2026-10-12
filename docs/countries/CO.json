@@ -1,0 +1,396 @@
+{
+ "schema": 2,
+ "code": "CO",
+ "version": 2026101214,
+ "defaultTiles": [
+  "co.ntn24",
+  "co.noticiascaracol",
+  "co.noticiasrcn",
+  "co.eltiempo",
+  "co.caracoltv",
+  "co.citytv",
+  "co.canalcapital",
+  "co.teleantioquianoticias",
+  "co.bluradio"
+ ],
+ "channels": [
+  {
+   "id": "co.ntn24",
+   "name": "NTN24",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCEJs1fTF3KszRJGxJY14VrA",
+   "youtubeVideoId": "I4AVxPm58S0",
+   "embeddable": true,
+   "wikidata": "Q7068596",
+   "description": {
+    "en": "Colombian television news channel",
+    "es": "canal de noticias con sede en Colombia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NTN24",
+    "es": "https://es.wikipedia.org/wiki/NTN24"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NTN24_logo.svg?width=256",
+   "website": "https://www.ntn24.com/",
+   "city": "Bogotá"
+  },
+  {
+   "id": "co.noticiascaracol",
+   "name": "Noticias Caracol",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
+   "youtubeVideoId": "XE-HAP0KALo",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.noticiasrcn",
+   "name": "Noticias RCN",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCnr6pbeXJmkNQJ9PSYle7QQ",
+   "youtubeVideoId": "nRIev0kbGQ4",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.eltiempo",
+   "name": "El Tiempo",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCe5-b0fCK3eQCpwS6MT0aNw",
+   "youtubeVideoId": "guKmOtQEv2M",
+   "embeddable": true,
+   "wikidata": "Q1324658",
+   "description": {
+    "en": "Colombian newspaper",
+    "es": "editorial periodística colombiana",
+    "zh-Hans": "哥伦比亚报纸",
+    "fr": "quotidien colombien",
+    "pt-BR": "O El Tiempo é o maior jornal da Colômbia.",
+    "it": "quotidiano colombiano",
+    "ru": "колумбийская газета, новостное издание",
+    "zh-Hant": "時代報 是一份在哥伦比亚全国发行的大报，于1911年1月30日開始发行。截至2019年，該報是哥伦比亚发行量最大的報紙。",
+    "ar": "إل تيمبو هي صحيفة يومية كولومبية.",
+    "pl": "dziennik kolumbijski",
+    "sv": "El Tiempo är en daglig morgontidning i Colombia med nationell distribution.",
+    "id": "El Tiempo adalah surat kabar harian nasional di Kolombia yang diluncurkan pada tanggal 30 Januari 1911.",
+    "de": "kolumbianische Tageszeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Tiempo_(Colombia)",
+    "es": "https://es.wikipedia.org/wiki/El_Tiempo_(Colombia)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%99%82%E4%BB%A3%E5%A0%B1_(%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E)",
+    "fr": "https://fr.wikipedia.org/wiki/El_Tiempo_(Colombie)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/El_Tiempo_(Col%C3%B4mbia)",
+    "it": "https://it.wikipedia.org/wiki/El_Tiempo_(Colombia)",
+    "ru": "https://ru.wikipedia.org/wiki/El_Tiempo",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%99%82%E4%BB%A3%E5%A0%B1_(%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%84_%D8%AA%D9%8A%D9%85%D8%A8%D9%88_(%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7)",
+    "pl": "https://pl.wikipedia.org/wiki/El_Tiempo",
+    "sv": "https://sv.wikipedia.org/wiki/El_Tiempo",
+    "id": "https://id.wikipedia.org/wiki/El_Tiempo_(Kolombia)",
+    "de": "https://de.wikipedia.org/wiki/El_Tiempo"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Tiempo_logo.svg?width=256",
+   "website": "http://www.eltiempo.com/",
+   "city": "Bogotá"
+  },
+  {
+   "id": "co.canal1",
+   "name": "Noticias Canal 1",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.rtvc",
+   "name": "RTVC Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCykAfJIwT4VSQDFdRrZ1DXA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.semana",
+   "name": "Semana",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC4oQAvXFuNlKivYjUynQKTA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.noticiasuno",
+   "name": "Noticias Uno",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC3NUgxBBl05tthfGBS6kPkA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q7063021",
+   "description": {
+    "en": "television series",
+    "es": "programa informativo de Colombia",
+    "fr": "série télévisée",
+    "it": "serie televisiva",
+    "nl": "televisieserie uit Colombia"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Noticias_Uno"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Noticias_Uno_logo.svg?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.caracoltv",
+   "name": "Caracol Televisión",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCcpE1fmG2qBZatj28bak2ng",
+   "youtubeVideoId": "HyuGqSkoeJg",
+   "embeddable": true,
+   "wikidata": "Q1035332",
+   "description": {
+    "en": "Colombian television network",
+    "es": "canal de televisión colombiano",
+    "zh-Hans": "哥伦比亚电视网",
+    "ja": "コロンビアのテレビチャンネル",
+    "fr": "chaîne de télévision colombienne",
+    "pt-BR": "rede de televisão colombiana",
+    "ko": "콜롬비아의 텔레비전 채널",
+    "it": "rete televisiva colombiana",
+    "ru": "колумбийская телекомпания",
+    "zh-Hant": "哥伦比亚电视网",
+    "ar": "قناة تلفزيونية كولومبية",
+    "tr": "Kolombiyalı televizyon kanalı",
+    "nl": "Colombiaanse televisiezender",
+    "pl": "kolumbijska stacja telewizyjna",
+    "sv": "Colombiansk TV-kanal",
+    "id": "Caracol Televisión adalah jaringan televisi terestrial Kolombia yang dimiliki oleh Caracol Medios, sebuah unit dari Grupo Valorem.",
+    "de": "kolumbianischer Fernsehsender",
+    "ms": "Rangkaian televisyen Colombia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "es": "https://es.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%A1%E6%8B%89%E7%A7%91%E5%B0%94%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%AB%E3%83%BB%E3%83%86%E3%83%AC%E3%83%93%E3%82%B7%E3%82%AA%E3%83%B3",
+    "fr": "https://fr.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%9D%BC%EC%BD%9C_%ED%85%94%EB%A0%88%EB%B9%84%EC%8B%9C%EC%98%A8",
+    "it": "https://it.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "ru": "https://ru.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%A1%E6%8B%89%E7%A7%91%E5%B0%94%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D9%83%D8%A7%D8%B1%D8%A7%D9%83%D9%88%D9%84",
+    "tr": "https://tr.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "pl": "https://pl.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "sv": "https://sv.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "id": "https://id.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "de": "https://de.wikipedia.org/wiki/Caracol_Televisi%C3%B3n",
+    "ms": "https://ms.wikipedia.org/wiki/Caracol_Televisi%C3%B3n"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CaracolTV2025.png?width=256",
+   "website": "http://www.caracoltv.com",
+   "city": "Bogotá"
+  },
+  {
+   "id": "co.citytv",
+   "name": "Citytv",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCv5Oy_TJFvGKXjeNzzJE_PQ",
+   "youtubeVideoId": "Q1CEBkYUkeM",
+   "embeddable": true,
+   "wikidata": "Q4144940",
+   "description": {
+    "en": "Television station in Bogotá, Colombia",
+    "es": "canal de televisión local colombiano",
+    "pt-BR": "Estação de TV em Bogotá, Colômbia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Citytv_(Colombia)",
+    "es": "https://es.wikipedia.org/wiki/Citytv",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Citytv_(Bogot%C3%A1)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Citytv_Bogota.svg?width=256",
+   "website": "http://www.citytv.com.co/",
+   "city": "Bogotá"
+  },
+  {
+   "id": "co.canalcapital",
+   "name": "Canal Capital",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCeSx6aU8UGIIHxGCQPbYY_A",
+   "youtubeVideoId": "tj08Nj2-bMk",
+   "embeddable": true,
+   "wikidata": "Q5030992",
+   "description": {
+    "en": "Colombian channel television",
+    "es": "Canal local de Bogotá, Colombia",
+    "pt-BR": "Canal Capital é um canal colombiano de televisão aberta, fundado no dia 3 de novembro de 1997 operado por uma empresa industrial e comercial na capital do país, Bogotá."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_Capital",
+    "es": "https://es.wikipedia.org/wiki/Canal_Capital",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_Capital"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/2020_Canal_Capital_logo.svg?width=256",
+   "website": "http://www.canalcapital.gov.co",
+   "city": "Bogotá"
+  },
+  {
+   "id": "co.teleantioquianoticias",
+   "name": "Teleantioquia Noticias",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
+   "youtubeVideoId": "o609Ysh82uc",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.bluradio",
+   "name": "Blu Radio",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
+   "youtubeVideoId": "3lURmjADlEk",
+   "embeddable": true,
+   "wikidata": "Q4672090",
+   "description": {
+    "en": "radio station in Bogotá, Colombia",
+    "es": "emisora colombiana",
+    "zh-Hans": "哥伦比亚电台",
+    "zh-Hant": "哥伦比亚电台",
+    "id": "stasiun radio",
+    "de": "Rundfunkanstalt in Kolumbien"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Blu_Radio",
+    "es": "https://es.wikipedia.org/wiki/Blu_Radio"
+   },
+   "logo": null,
+   "website": "http://bluradio.com",
+   "city": null
+  },
+  {
+   "id": "co.caracolradio",
+   "name": "Caracol Radio",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
+   "youtubeVideoId": "R7S-wQerwqE",
+   "embeddable": true,
+   "wikidata": "Q4382447",
+   "description": {
+    "en": "radio network in Colombia",
+    "es": "emisora de radio colombiana",
+    "ja": "カラコル・ラジオ は、コロンビアのラジオネットワーク。",
+    "pt-BR": "Caracol Radio ou Rádio Caracol é uma das principais cadeias radiofônicas da Colômbia.",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Caracol_Radio",
+    "es": "https://es.wikipedia.org/wiki/Caracol_Radio",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%AB%E3%83%BB%E3%83%A9%E3%82%B8%E3%82%AA",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Caracol_Radio"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Caracol_Radio_logo.svg?width=256",
+   "website": "http://caracol.com.co/",
+   "city": null
+  },
+  {
+   "id": "co.lafm",
+   "name": "La FM",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
+   "youtubeVideoId": "Lkj2Jmv5EyA",
+   "embeddable": true,
+   "wikidata": "Q2840179",
+   "description": {
+    "en": "radio station",
+    "es": "emisora propiedad de RCN Radio",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/La_FM",
+    "es": "https://es.wikipedia.org/wiki/La_FM"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_FM_logo.svg?width=256",
+   "website": "http://www.lafm.com.co/",
+   "city": null
+  }
+ ]
+}

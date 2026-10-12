@@ -1,0 +1,58 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 */2 * * *"   # every 2 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-catalog
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Wikidata / Wikipedia responses, so scheduled runs don't re-query everything every 2 hours
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: wikidata-${{ github.run_id }}
+          restore-keys: wikidata-
+
+      # With the API key: cheap quota refresh of pinned live ids, then build without scraping.
+      # Without it: build.py scrapes each channel's /live page to pin live video ids.
+      - name: Refresh live ids and build docs/
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: |
+          if [ -n "$YT_API_KEY" ]; then
+            python3 -I scripts/refresh_live.py
+            python3 -I scripts/build.py --no-scrape
+          else
+            echo "YT_API_KEY not set: scraping /live pages instead"
+            python3 -I scripts/build.py
+          fi
+
+      - name: Commit if changed
+        run: |
+          git add sources docs
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update catalog"
+            git push
+          fi

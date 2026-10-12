@@ -1,0 +1,430 @@
+{
+ "schema": 2,
+ "code": "KR",
+ "version": 2026101214,
+ "defaultTiles": [
+  "kr.ytn",
+  "kr.yonhap",
+  "kr.mbc",
+  "kr.kbs",
+  "kr.sbs",
+  "kr.jtbc",
+  "kr.channela",
+  "kr.tvchosun",
+  "kr.mbn"
+ ],
+ "channels": [
+  {
+   "id": "kr.ytn",
+   "name": "YTN",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+   "youtubeVideoId": "40meFLZstDg",
+   "embeddable": true,
+   "wikidata": "Q487590",
+   "description": {
+    "en": "South Korean news channel",
+    "es": "Canal televisivo de noticias de Corea del Sur",
+    "zh-Hans": "專業頻道",
+    "ja": "大韓民国のニュース専門放送局",
+    "pt-BR": "canal de televisão de notícias sul-coreano",
+    "ko": "대한민국의 24시간 보도전문채널",
+    "ru": "YTN — круглосуточный информационный южнокорейский телеканал.",
+    "zh-Hant": "專業頻道",
+    "ar": "واي تي إن هي قناة إخبارية تبث على مدار 24 ساعة في كوريا الجنوبية."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/YTN",
+    "es": "https://es.wikipedia.org/wiki/YTN",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/YTN",
+    "ja": "https://ja.wikipedia.org/wiki/YTN",
+    "ko": "https://ko.wikipedia.org/wiki/YTN",
+    "ru": "https://ru.wikipedia.org/wiki/YTN",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/YTN",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%88%D8%A7%D9%8A_%D8%AA%D9%8A_%D8%A5%D9%86"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/YTN_logo_2014.svg?width=256",
+   "website": "https://ytn.co.kr/",
+   "city": "마포구"
+  },
+  {
+   "id": "kr.yonhap",
+   "name": "연합뉴스TV",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+   "youtubeVideoId": "hlIzg7EMO34",
+   "embeddable": true,
+   "wikidata": "Q16162835",
+   "description": {
+    "en": "South Korean television network",
+    "zh-Hans": "韓國新聞頻道",
+    "ja": "韓国・聯合ニュースTVが運営するケーブル・衛星向け報道専門チャンネル",
+    "ko": "대한민국의 24시간 보도전문채널",
+    "zh-Hant": "韓國新聞頻道"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Yonhap_News_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%9F%A9%E8%81%94%E7%A4%BETV",
+    "ja": "https://ja.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9TV",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%9F%A9%E8%81%94%E7%A4%BETV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yonhap_News_TV_logo.png?width=256",
+   "website": "http://www.yonhapnewstv.co.kr/",
+   "city": "율곡로"
+  },
+  {
+   "id": "kr.mbc",
+   "name": "MBCNEWS",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+   "youtubeVideoId": "WF1lASJnVeY",
+   "embeddable": true,
+   "wikidata": "Q6495373",
+   "description": {
+    "en": "South Korean TV series or program",
+    "es": "MBC Newsdesk es un informativo de televisión de Corea del Sur, es emitido por MBC TV desde el 5 de octubre de 1970, diariamente a las 19:55 (KST).",
+    "zh-Hans": "韩国文化广播公司电视新闻节目",
+    "ja": "『MBCニュースデスク』 は、韓国・MBCテレビで放送されているニュース番組であり、MBCを代表する看板ニュース番組である。",
+    "pt-BR": "telejornal sul-coreano exibido pela MBC",
+    "ko": "대한민국의 문화방송 TV 개국 이래 최장수 메인뉴스 프로그램",
+    "zh-Hant": "韩国文化广播公司电视新闻节目",
+    "id": "MBC NEWSDESK adalah program televisi asal Korea Selatan",
+    "de": "MBC Newsdesk ist die wichtigste nächtliche Nachrichtensendung der Munhwa Broadcasting Corporation (MBC)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/MBC_Newsdesk",
+    "es": "https://es.wikipedia.org/wiki/MBC_Newsdesk",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/MBC%E6%96%B0%E9%97%BB%E5%B9%B3%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/MBC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%87%E3%82%B9%E3%82%AF",
+    "pt-BR": "https://pt.wikipedia.org/wiki/MBC_Newsdesk",
+    "ko": "https://ko.wikipedia.org/wiki/MBC_%EB%89%B4%EC%8A%A4%EB%8D%B0%EC%8A%A4%ED%81%AC",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/MBC%E6%96%B0%E9%97%BB%E5%B9%B3%E5%8F%B0",
+    "id": "https://id.wikipedia.org/wiki/MBC_Newsdesk",
+    "de": "https://de.wikipedia.org/wiki/MBC_Newsdesk"
+   },
+   "logo": null,
+   "website": "http://imnews.imbc.com/replay/nwdesk/",
+   "city": null
+  },
+  {
+   "id": "kr.kbs",
+   "name": "KBS News",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
+   "youtubeVideoId": "iqEUN2cnb1Q",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.sbs",
+   "name": "SBS 뉴스",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+   "youtubeVideoId": "_9WIdT_pn8I",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.jtbc",
+   "name": "JTBC News",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+   "youtubeVideoId": "2sN5hmgAaVo",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.channela",
+   "name": "채널A 뉴스",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
+   "youtubeVideoId": "vKeITAEfSU0",
+   "embeddable": true,
+   "wikidata": "Q492438",
+   "description": {
+    "en": "South Korean TV channel",
+    "es": "canal de televisión surcoreano",
+    "zh-Hans": "韓國電視台",
+    "ja": "韓国のテレビ放送局",
+    "fr": "Channel A est une chaîne de télévision par câble sud-coréenne appartenant à Dong-a Media Group.",
+    "pt-BR": "canal de TV sul-coreano",
+    "ko": "대한민국의 비지상파 종합 채널",
+    "it": "rete televisiva sudcoreana",
+    "zh-Hant": "韓國電視台",
+    "ar": "شبكة تلفزيونية في كورية الجنوبية",
+    "tr": "Channel A, Güney Kore merkezli bir özel televizyon kanalıdır.",
+    "id": "Channel A Corporation ; dikenal sebagai Channel A adalah sebuah perusahaan penyiaran umum di Korea Selatan, disumbangkan oleh The Dong-a Ilbo.",
+    "de": "südkoreanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Channel_A_(TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/Channel_A",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Channel_A",
+    "ja": "https://ja.wikipedia.org/wiki/Channel_A",
+    "fr": "https://fr.wikipedia.org/wiki/Channel_A",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Channel_A",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B1%84%EB%84%90A",
+    "it": "https://it.wikipedia.org/wiki/Channel_A",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Channel_A",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D9%86%D9%84_%D8%A3",
+    "tr": "https://tr.wikipedia.org/wiki/Channel_A",
+    "id": "https://id.wikipedia.org/wiki/Channel_A"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Channel_A_%282024%29.svg?width=256",
+   "website": "https://www.ichannela.com/",
+   "city": "종로구"
+  },
+  {
+   "id": "kr.tvchosun",
+   "name": "TV CHOSUN NEWS",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
+   "youtubeVideoId": "68B0kHJAze8",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.mbn",
+   "name": "MBN News",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+   "youtubeVideoId": "gNezATKliZ0",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.arirang",
+   "name": "Arirang TV",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.sbsbiz",
+   "name": "SBS Biz",
+   "category": "economy",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.natv",
+   "name": "국회방송 NATV",
+   "category": "government",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
+   "youtubeVideoId": "b6KjV-XDTHc",
+   "embeddable": true,
+   "wikidata": "Q83624247",
+   "description": {
+    "en": "Korean public-service television network",
+    "zh-Hans": "大韩民国的国营有线电视频道",
+    "ja": "韓国の公共ケーブルテレビ局",
+    "ko": "대한민국의 케이블 방송사, 정부 국회 방송",
+    "zh-Hant": "韓國國家公共有線電視台"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/National_Assembly_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E6%9C%83%E5%BB%A3%E6%92%AD",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BC%9A%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B5%AD%ED%9A%8C%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%9C%8B%E6%9C%83%E5%BB%A3%E6%92%AD"
+   },
+   "logo": null,
+   "website": "https://www.natv.go.kr/natv/main.do",
+   "city": null
+  },
+  {
+   "id": "kr.ktv",
+   "name": "KTV 국민방송",
+   "category": "government",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCIMOytYIzaUpoAM2bpT4JZQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q11664024",
+   "description": {
+    "en": "South Korean broadcaster",
+    "zh-Hans": "韩国的国营有线电视频道",
+    "ja": "KTV国民放送 は大韓民国政府とその傘下機関の政策を国民に分かりやすく国政関連番組を製作、放送している大韓民国（韓国）の国営放送。前身は大韓ニュース。",
+    "ko": "대한민국의 케이블 방송사, 정부 국영 방송",
+    "zh-Hant": "韩国的国营有线电视频道"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/KTV%E5%9B%BD%E6%B0%91%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/KTV%E5%9B%BD%E6%B0%91%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/KTV_%EA%B5%AD%EB%AF%BC%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/KTV%E5%9B%BD%E6%B0%91%E6%94%BE%E9%80%81"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KTV_logo.svg?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.arirangtv",
+   "name": "Arirang TV",
+   "category": "culture",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC-PHIZjV-oX8H7zD1cCN2NQ",
+   "youtubeVideoId": "hvVlyZ5GiE8",
+   "embeddable": true,
+   "wikidata": "Q167618",
+   "description": {
+    "en": "English-language television network based in Seoul, South Korea",
+    "es": "cadena de televisión internacional de Corea del Sur",
+    "zh-Hans": "韩国英语电视频道",
+    "ja": "韓国・ソウルの英語国際放送局",
+    "fr": "Arirang TV est un réseau télévisé anglophone ayant son siège à Séoul, en Corée du Sud et géré par la Korea International Broadcasting Foundation.",
+    "pt-BR": "rede de televisão em língua inglesa sediada na Coreia do Sul",
+    "ko": "대한민국의 텔레비전 네트워크 채널로 케이블TV 방송 채널과 더불어 제주도에 설치된 국제 라디오 방송사이자 공익채널로 지정된 방송사",
+    "it": "rete televisiva sudcoreana",
+    "ru": "Arirang TV — южнокорейская международная телерадиовещательная служба.",
+    "zh-Hant": "韩国英语电视频道",
+    "ar": "قناة تلفزيونية كورية",
+    "tr": "Arirang TV, Güney Kore'de 1999 yılında kurulan bir televizyon kanalıdır.",
+    "pl": "stacja telewizyjna",
+    "sv": "sydkoreansk TV-kanal",
+    "id": "Arirang TV adalah stasiun televisi internasional berbahasa Inggris yang berlokasi di Seoul, Korea Selatan.",
+    "de": "südkoreanischer Fernsehsender",
+    "ms": "Arirang TV merupakan sebuah saluran televisyen di Korea Selatan yang dioperasikan oleh The Korea International Broadcasting Foundation."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Arirang_TV",
+    "es": "https://es.wikipedia.org/wiki/Arirang_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%98%BF%E9%87%8C%E9%83%8E%E5%9C%8B%E9%9A%9B%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%83%A9%E3%83%B3%E5%9B%BD%E9%9A%9B%E6%94%BE%E9%80%81",
+    "fr": "https://fr.wikipedia.org/wiki/Arirang_TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Arirang_TV",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A6%AC%EB%9E%91%EA%B5%AD%EC%A0%9C%EB%B0%A9%EC%86%A1",
+    "it": "https://it.wikipedia.org/wiki/Arirang_TV",
+    "ru": "https://ru.wikipedia.org/wiki/Arirang_TV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%98%BF%E9%87%8C%E9%83%8E%E5%9C%8B%E9%9A%9B%E6%94%BE%E9%80%81",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A3%D8%B1%D9%8A%D8%B1%D8%A7%D9%86%D8%BA",
+    "tr": "https://tr.wikipedia.org/wiki/Arirang_TV",
+    "pl": "https://pl.wikipedia.org/wiki/Arirang_TV",
+    "sv": "https://sv.wikipedia.org/wiki/Arirang_TV",
+    "id": "https://id.wikipedia.org/wiki/Arirang_TV",
+    "de": "https://de.wikipedia.org/wiki/Arirang_TV",
+    "ms": "https://ms.wikipedia.org/wiki/Arirang_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arirang.svg?width=256",
+   "website": "https://www.arirang.com/",
+   "city": "서울특별시"
+  },
+  {
+   "id": "kr.kbsworld",
+   "name": "KBS WORLD TV",
+   "category": "entertainment",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+   "youtubeVideoId": "aHfx83ObCac",
+   "embeddable": true,
+   "wikidata": "Q484855",
+   "description": {
+    "en": "international broadcasting service",
+    "ja": "韓国KBSが運営するテレビ・ラジオ国際放送サービスの総称",
+    "pt-BR": "serviço de radiodifusão internacional sul-coreano",
+    "ko": "한국방송공사에서 운영, 방송하는 국제 위성 방송이다.",
+    "it": "rete televisiva sudcoreana internazionale",
+    "ar": "كي بي إس وورلد إذاعة دولية تم تأسيسها من قبل الحكومة الكورية الجنوبية.",
+    "tr": "KBS World Güney Kore' nin uluslararası yayın yapan televizyon kanalıdır.",
+    "id": "perusahaan asal Korea Selatan",
+    "ms": "KBS World merupakan sebuah stesen penyiaran antarabangsa Korea yang dikelola oleh Korean Broadcasting System."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KBS_World",
+    "ja": "https://ja.wikipedia.org/wiki/KBS%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89",
+    "pt-BR": "https://pt.wikipedia.org/wiki/KBS_World",
+    "ko": "https://ko.wikipedia.org/wiki/KBS_%EC%9B%94%EB%93%9C",
+    "it": "https://it.wikipedia.org/wiki/KBS_World",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%83%D9%8A_%D8%A8%D9%8A_%D8%A5%D8%B3_%D9%88%D9%88%D8%B1%D9%84%D8%AF",
+    "tr": "https://tr.wikipedia.org/wiki/KBS_World",
+    "id": "https://id.wikipedia.org/wiki/KBS_World",
+    "ms": "https://ms.wikipedia.org/wiki/KBS_World"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KBS_World_%282009%29.svg?width=256",
+   "website": "https://world.kbs.co.kr",
+   "city": null
+  }
+ ]
+}

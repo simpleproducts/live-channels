@@ -1,0 +1,416 @@
+{
+ "schema": 2,
+ "code": "BR",
+ "version": 2026101214,
+ "defaultTiles": [
+  "br.recordnews",
+  "br.cnnbrasil",
+  "br.jovempan",
+  "br.bandjornalismo",
+  "br.sbtnews",
+  "br.canalrural",
+  "br.uol",
+  "br.metropoles",
+  "br.timesbrasil"
+ ],
+ "channels": [
+  {
+   "id": "br.recordnews",
+   "name": "Record News",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+   "youtubeVideoId": "7KHY_hRfa2k",
+   "embeddable": true,
+   "wikidata": "Q3056409",
+   "description": {
+    "en": "broadcast news television network",
+    "es": "cadena de televisión brasileña",
+    "fr": "Record News est une chaîne de télévision d'information en continu brésilienne.",
+    "pt-BR": "rede de televisão aberta de notícias",
+    "id": "Record News adalah saluran televisi berita 24 jam siaran gratis di Brasil yang didirikan oleh Rede Record."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Record_News",
+    "es": "https://es.wikipedia.org/wiki/Record_News",
+    "fr": "https://fr.wikipedia.org/wiki/Record_News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Record_News",
+    "id": "https://id.wikipedia.org/wiki/Record_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Record_News_logo_2023.svg?width=256",
+   "website": "http://noticias.r7.com/record-news/",
+   "city": "São Paulo"
+  },
+  {
+   "id": "br.cnnbrasil",
+   "name": "CNN Brasil",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
+   "youtubeVideoId": "hD18zTzQBHw",
+   "embeddable": true,
+   "wikidata": "Q61037218",
+   "description": {
+    "en": "Brazilian television channel",
+    "es": "canal de televisión de pago brasileño",
+    "fr": "chaîne de télévision brésilienne",
+    "pt-BR": "canal de televisão por assinatura brasileiro",
+    "it": "rete televisiva brasiliana",
+    "ru": "Cable News Network Brazil — бразильский платный новостной телеканал.",
+    "tr": "Brezilya ödemeli TV kanalı",
+    "pl": "brazylijska stacja telewizyjna",
+    "de": "brasilianischer Pay-TV-Sender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNN_Brasil",
+    "es": "https://es.wikipedia.org/wiki/CNN_Brasil",
+    "fr": "https://fr.wikipedia.org/wiki/CNN_Br%C3%A9sil",
+    "pt-BR": "https://pt.wikipedia.org/wiki/CNN_Brasil",
+    "it": "https://it.wikipedia.org/wiki/CNN_Brasil",
+    "ru": "https://ru.wikipedia.org/wiki/CNN_Brazil",
+    "pl": "https://pl.wikipedia.org/wiki/CNN_Brasil",
+    "de": "https://de.wikipedia.org/wiki/CNN_Brasil"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNN_Brasil.svg?width=256",
+   "website": "https://cnnbrasil.com.br",
+   "city": "São Paulo"
+  },
+  {
+   "id": "br.jovempan",
+   "name": "Jovem Pan News",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCP391YRAjSOdM_bwievgaZA",
+   "youtubeVideoId": "GpjCPJpgq2Q",
+   "embeddable": true,
+   "wikidata": "Q10358223",
+   "description": {
+    "en": "Brazilian radio network in format top 40/CHR/all news",
+    "es": "Jovem Pan es una red de emisoras de radio brasileña enfocada al periodismo, entretenimiento, música y transmisión deportiva perteneciente al Grupo Jovem Pan, actualmente es la mayor red de radios de América Latina, y una de las estaciones de radio más grandes del mundo.",
+    "ja": "ブラジルのラジオ・ネットワーク",
+    "pt-BR": "rede de rádio brasileira"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Jovem_Pan",
+    "es": "https://es.wikipedia.org/wiki/Jovem_Pan",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Jovem_Pan"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jovem_Pan_logo_2018.svg?width=256",
+   "website": "https://jovempan.uol.com.br/",
+   "city": "São Paulo"
+  },
+  {
+   "id": "br.bandjornalismo",
+   "name": "Band Jornalismo",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA",
+   "youtubeVideoId": "Gqc1rQtzWUk",
+   "embeddable": true,
+   "wikidata": "Q137910166",
+   "description": {
+    "en": "Official Band Journalism channel with exclusive live streams, full news programs, expert commentary, special reports, and on-demand content from Band TV."
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://band.com.br/noticias",
+   "city": null
+  },
+  {
+   "id": "br.sbtnews",
+   "name": "SBT News",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
+   "youtubeVideoId": "BtbMJSNAoVE",
+   "embeddable": true,
+   "wikidata": "Q135520615",
+   "description": {
+    "en": "Brazilian television station",
+    "pt-BR": "emissora de televisão brasileira"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/SBT_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SBT_News_2025.svg?width=256",
+   "website": "https://sbtnews.sbt.com.br/",
+   "city": "أوساسكو"
+  },
+  {
+   "id": "br.canalrural",
+   "name": "Canal Rural",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
+   "youtubeVideoId": "n77bWKAxPVg",
+   "embeddable": true,
+   "wikidata": "Q9693797",
+   "description": {
+    "pt-BR": "emissora de televisão brasileira"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_Rural"
+   },
+   "logo": null,
+   "website": "https://www.canalrural.com.br/",
+   "city": null
+  },
+  {
+   "id": "br.uol",
+   "name": "UOL",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+   "youtubeVideoId": "H0IFJdvUjxQ",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "br.metropoles",
+   "name": "Metrópoles",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
+   "youtubeVideoId": "QV3_s_hI7aM",
+   "embeddable": true,
+   "wikidata": "Q56350071",
+   "description": {
+    "en": "Brazilian news portal",
+    "pt-BR": "portal de notícias brasileiro fundado emcom sede em Brasília"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Metr%C3%B3poles",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Metr%C3%B3poles_(portal)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Metr%C3%B3poles_logo.svg?width=256",
+   "website": "https://www.metropoles.com/",
+   "city": null
+  },
+  {
+   "id": "br.timesbrasil",
+   "name": "Times Brasil CNBC",
+   "category": "economy",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC2vs-PnhPNxACC5wti_KMTg",
+   "youtubeVideoId": "UhHUycLb_rY",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "br.tvbrasil",
+   "name": "TV Brasil",
+   "category": "broadcast",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCSv9d0kQegylHWpP83jWSQg",
+   "youtubeVideoId": "w4w-N_RSzKY",
+   "embeddable": true,
+   "wikidata": "Q1788146",
+   "description": {
+    "en": "public broadcaster in Brazil",
+    "es": "cadena de televisión pública brasileña",
+    "fr": "réseau de télévision au Brésil",
+    "pt-BR": "rede de televisão pública brasileira",
+    "sv": "brasilianskt TV-bolag",
+    "de": "brasilianischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Brasil",
+    "es": "https://es.wikipedia.org/wiki/TV_Brasil",
+    "fr": "https://fr.wikipedia.org/wiki/TV_Brasil",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Brasil",
+    "de": "https://de.wikipedia.org/wiki/TV_Brasil"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_Brasil_logo_2023.svg?width=256",
+   "website": "http://tvbrasil.ebc.com.br/",
+   "city": "Rio de Janeiro"
+  },
+  {
+   "id": "br.record",
+   "name": "RECORD",
+   "category": "broadcast",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCu_a6PAzp30Bn2mM-Ll09LA",
+   "youtubeVideoId": "NCgSX-s49to",
+   "embeddable": true,
+   "wikidata": "Q1458581",
+   "description": {
+    "en": "Brazilian commercial television network",
+    "es": "Cadena de televisión abierta de Brasil",
+    "ja": "レコール、旧称レコールTVは、ブラジルのテレビジョン放送局である。1953年9月27日に開局した。番組制作はサンパウロに、報道はリオ・デ・ジャネイロとブラジリアを拠点にしている。中南米諸国やポルトガル語圏にも数多くの番組を輸出していることでも知られている。",
+    "fr": "réseau de télévision brésilien",
+    "pt-BR": "rede de televisão comercial brasileira",
+    "ko": "헤코르드(포르투갈어: Record)는 브라질의 텔레비전 네트워크다.",
+    "it": "rete televisiva brasiliana",
+    "ar": "ريكورد تي في هي شبكة تلفزيون برازيلية، التي تأسست في عام 1953 من قبل باولو ماشادو دي كارفاليو، وهو أيضًا مؤسس راديو ريكورد.",
+    "nl": "Chileens televisienetwerk",
+    "pl": "brazylijska stacja telewizyjna",
+    "sv": "brasiliansk TV-kanal",
+    "id": "Record adalah jaringan televisi komersial free-to-air Brasil yang didirikan pada tahun 1953 oleh pengusaha dan tokoh media Paulo Machado de Carvalho, juga pendiri Rádio Record.",
+    "de": "brasilianischer kommerzieller Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Record_(TV_network)",
+    "es": "https://es.wikipedia.org/wiki/Record_(canal_de_televisi%C3%B3n_de_Brasil)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%AB",
+    "fr": "https://fr.wikipedia.org/wiki/Record_(r%C3%A9seau_de_t%C3%A9l%C3%A9vision)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Record_(rede_de_televis%C3%A3o)",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%97%A4%EC%BD%94%EB%A5%B4%EB%93%9C",
+    "it": "https://it.wikipedia.org/wiki/Record_(rete_televisiva)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D9%83%D9%88%D8%B1%D8%AF_%D8%AA%D9%8A_%D9%81%D9%8A",
+    "nl": "https://nl.wikipedia.org/wiki/Record_(televisiezender)",
+    "pl": "https://pl.wikipedia.org/wiki/Record_(stacja_telewizyjna)",
+    "sv": "https://sv.wikipedia.org/wiki/RecordTV",
+    "id": "https://id.wikipedia.org/wiki/Record_(jaringan_televisi)",
+    "de": "https://de.wikipedia.org/wiki/Record_(Fernsehnetzwerk)"
+   },
+   "logo": null,
+   "website": "https://record.r7.com/",
+   "city": "Barra Funda"
+  },
+  {
+   "id": "br.redetv",
+   "name": "RedeTV!",
+   "category": "broadcast",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
+   "youtubeVideoId": "Ddbiberf96E",
+   "embeddable": true,
+   "wikidata": "Q1090363",
+   "description": {
+    "en": "Brazilian broadcast television network",
+    "es": "cadena de televisión brasileña",
+    "fr": "RedeTV!",
+    "pt-BR": "rede de televisão comercial brasileira",
+    "it": "rete televisiva brasiliana",
+    "ru": "RedeTV!",
+    "de": "brasilianischer Privatsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RedeTV!",
+    "es": "https://es.wikipedia.org/wiki/RedeTV!",
+    "fr": "https://fr.wikipedia.org/wiki/RedeTV!",
+    "pt-BR": "https://pt.wikipedia.org/wiki/RedeTV!",
+    "it": "https://it.wikipedia.org/wiki/RedeTV!",
+    "ru": "https://ru.wikipedia.org/wiki/RedeTV!",
+    "de": "https://de.wikipedia.org/wiki/RedeTV!"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RedeTV%21_2019_logo.png?width=256",
+   "website": "http://redetv.com.br/",
+   "city": "أوساسكو"
+  },
+  {
+   "id": "br.canalgov",
+   "name": "Canal Gov",
+   "category": "government",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCjaWLFTNqLkq3ZY2BJ4NYRg",
+   "youtubeVideoId": "nqfph9USEYA",
+   "embeddable": true,
+   "wikidata": "Q120762994",
+   "description": {
+    "en": "Brazilian public television network",
+    "es": "Canal Gov es un canal de televisión brasileño de Empresa Brasil de Comunicação, el resultado de la inversión en tecnologías que permitieron la integración de la compañía en el mercado de televisión de pago.",
+    "pt-BR": "rede de televisão pública brasileira"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_Gov",
+    "es": "https://es.wikipedia.org/wiki/Canal_Gov",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_Gov"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "br.tvsenado",
+   "name": "TV Senado",
+   "category": "government",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ",
+   "youtubeVideoId": "YMmulbBmpl8",
+   "embeddable": true,
+   "wikidata": "Q7672422",
+   "description": {
+    "en": "Brazilian television network",
+    "es": "canal de televisión brasileño",
+    "pt-BR": "estação de televisão do Senado Federal do Brasil",
+    "de": "brasilianischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Senado",
+    "es": "https://es.wikipedia.org/wiki/TV_Senado_(Brasil)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Senado"
+   },
+   "logo": null,
+   "website": "http://www.senado.gov.br/tv",
+   "city": null
+  },
+  {
+   "id": "br.cbn",
+   "name": "Rádio CBN",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
+   "youtubeVideoId": "JWblMU-nxqA",
+   "embeddable": true,
+   "wikidata": "Q7385857",
+   "description": {
+    "en": "Brazilian news radio network",
+    "es": "red de emisoras radiales brasileñas",
+    "fr": "Cu",
+    "pt-BR": "rede de rádio de notícias brasileira",
+    "id": "Rádio CBN adalah jaringan radio berita Brasil, dimiliki bersama oleh Sistema Globo de Rádio."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Central_Brasileira_de_Not%C3%ADcias",
+    "es": "https://es.wikipedia.org/wiki/Central_Brasileira_de_Not%C3%ADcias",
+    "fr": "https://fr.wikipedia.org/wiki/Central_Brasileira_de_Not%C3%ADcias",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Central_Brasileira_de_Not%C3%ADcias",
+    "id": "https://id.wikipedia.org/wiki/Central_Brasileira_de_Not%C3%ADcias"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CBN_logo.svg?width=256",
+   "website": "http://cbn.globoradio.globo.com/home/HOME.htm",
+   "city": "São Paulo"
+  }
+ ]
+}

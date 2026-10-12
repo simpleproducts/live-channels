@@ -1,0 +1,267 @@
+{
+ "schema": 2,
+ "code": "UY",
+ "version": 2026101214,
+ "defaultTiles": [
+  "uy.elobservadoruy",
+  "uy.ladiaria",
+  "uy.canal4",
+  "uy.tnu",
+  "uy.carve",
+  "uy.delsol",
+  "uy.sarandi"
+ ],
+ "channels": [
+  {
+   "id": "uy.elobservadoruy",
+   "name": "El Observador",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
+   "youtubeVideoId": "og11S7PawlY",
+   "embeddable": true,
+   "wikidata": "Q892935",
+   "description": {
+    "en": "Uruguayan newspaper",
+    "es": "periódico de Uruguay",
+    "ja": "エル・オブセルバドール は、1991年10月22日に創刊された、全国的に流通しているウルグアイの新聞。発行部数は、アルゼンチンの機関であるIVCが計上している。",
+    "fr": "El Observador est un journal uruguayen fondé le 22 octobre 1991.",
+    "pt-BR": "El Observador é um jornal uruguaio, publicado pela primeira vez em 22 de outubro de 1991 e distribuído por todo o país.",
+    "it": "quotidiano",
+    "de": "uruguayische Tageszeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Observador_(Uruguay)",
+    "es": "https://es.wikipedia.org/wiki/El_Observador_(Uruguay)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%96%E3%82%BB%E3%83%AB%E3%83%90%E3%83%89%E3%83%BC%E3%83%AB",
+    "fr": "https://fr.wikipedia.org/wiki/El_Observador_(Uruguay)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/El_Observador",
+    "it": "https://it.wikipedia.org/wiki/El_Observador_(Uruguay)",
+    "de": "https://de.wikipedia.org/wiki/El_Observador"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/El-observador.svg?width=256",
+   "website": "https://www.elobservador.com.uy/",
+   "city": "Montevideo"
+  },
+  {
+   "id": "uy.ladiaria",
+   "name": "la diaria",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
+   "youtubeVideoId": "T1hBk0GrYNg",
+   "embeddable": true,
+   "wikidata": "Q1292957",
+   "description": {
+    "en": "Uruguayan newspaper",
+    "es": "diario uruguayo",
+    "fr": "journal uruguayen",
+    "it": "La Diaria è un quotidiano uruguaiano, con sede a Montevideo.",
+    "nl": "periodiek",
+    "de": "uruguayische Zeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/La_diaria",
+    "es": "https://es.wikipedia.org/wiki/La_Diaria",
+    "it": "https://it.wikipedia.org/wiki/La_Diaria",
+    "de": "https://de.wikipedia.org/wiki/La_diaria"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ladiaria-byn.png?width=256",
+   "website": "https://ladiaria.com.uy/",
+   "city": "Montevideo"
+  },
+  {
+   "id": "uy.canal4",
+   "name": "Canal 4",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCp6X5jzfmwbOeclRArOi18g",
+   "youtubeVideoId": "RHUWZzLgD9U",
+   "embeddable": true,
+   "wikidata": "Q3565404",
+   "description": {
+    "en": "Uruguayan television channel",
+    "es": "canal de televisión uruguaya",
+    "fr": "Chaîne de télévision uruguayenne",
+    "pt-BR": "Canal 4 é um canal de televisão do Uruguai, fundado por Elvira Salvo, em 1961.",
+    "ko": "몬테카를로 TV(Monte Carlo TV)는 우루과이의 텔레비전 채널로, 우루과이에서 2번째로 오래된 채널이자, 우루과이 최대 규모의 민영 방송국이다.",
+    "it": "rete televisiva uruguaiana",
+    "tr": "Kanal 4, daha önce Monte Carlo Televisión olarak bilinen, Uruguay'ın Montevideo kentinde bulunan bir televizyon istasyonudur.",
+    "pl": "urugwajska stacja telewizyjna",
+    "de": "TV-Kanal in Uruguay"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_4_(Uruguayan_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/Canal_4_(Uruguay)",
+    "fr": "https://fr.wikipedia.org/wiki/Canal_4_(Uruguay)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_4_(Uruguai)",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AA%AC%ED%85%8C%EC%B9%B4%EB%A5%BC%EB%A1%9C_TV",
+    "it": "https://it.wikipedia.org/wiki/Canal_4",
+    "tr": "https://tr.wikipedia.org/wiki/Canal_4_(Uruguay)",
+    "pl": "https://pl.wikipedia.org/wiki/Canal_4",
+    "de": "https://de.wikipedia.org/wiki/Canal_4"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal4_uy.png?width=256",
+   "website": "https://www.canal4.com.uy",
+   "city": "Departamento de Montevideo"
+  },
+  {
+   "id": "uy.tnu",
+   "name": "Canal 5 (TNU)",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
+   "youtubeVideoId": "MxsBxx-miQw",
+   "embeddable": true,
+   "wikidata": "Q1775667",
+   "description": {
+    "en": "national public television network of Uruguay",
+    "es": "canal de televisión pública de Uruguay",
+    "zh-Hans": "烏拉圭國家電視台，是烏拉圭的國家電視台，於1963年6月19日成立，總台設在首都蒙得维的亚，由烏拉圭教育文化部 管理。",
+    "fr": "TNU - Televisión Nacional Uruguay, est une chaîne de télévision uruguayenne.",
+    "pt-BR": "rede de televisão pública nacional do Uruguai",
+    "it": "rete televisiva uruguaiana",
+    "zh-Hant": "烏拉圭國家電視台，是烏拉圭的國家電視台，於1963年6月19日成立，總台設在首都蒙得维的亚，由烏拉圭教育文化部 管理。",
+    "tr": "Canal 5, Eğitim ve Kültür Bakanlığı'na ait bir Uruguay ulusal televizyon ağıdır.",
+    "pl": "Televisión Nacional Uruguay (TNU) – publiczny nadawca telewizyjny w Urugwaju.",
+    "de": "Fernsehsender in Uruguay"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_5_(Uruguay)",
+    "es": "https://es.wikipedia.org/wiki/Canal_5_(Uruguay)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%83%8F%E6%8B%89%E5%9C%AD%E5%9C%8B%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_Uruguay",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_5_(Uruguai)",
+    "it": "https://it.wikipedia.org/wiki/TNU_(rete_televisiva)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%83%8F%E6%8B%89%E5%9C%AD%E5%9C%8B%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "tr": "https://tr.wikipedia.org/wiki/Canal_5_(Uruguay)",
+    "pl": "https://pl.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_Uruguay",
+    "de": "https://de.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_Uruguay"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_5_Uruguay.png?width=256",
+   "website": "https://mediospublicos.uy/category/television/",
+   "city": null
+  },
+  {
+   "id": "uy.canal10",
+   "name": "Canal 10",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q2436756",
+   "description": {
+    "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
+    "es": "Canal de televisión abierta uruguayo",
+    "fr": "chaîne de télévision uruguayenne",
+    "pt-BR": "A Saeta TV Canal 10 é uma rede de televisão aberta do Uruguai fundada por Raúl Fontaina e Enrique De Feo, em 1956.",
+    "it": "rete televisiva uruguaiana",
+    "de": "uruguayischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_10_(Uruguay)",
+    "es": "https://es.wikipedia.org/wiki/Canal_10_(Uruguay)",
+    "fr": "https://fr.wikipedia.org/wiki/Canal_10_(Uruguay)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_10",
+    "it": "https://it.wikipedia.org/wiki/Canal_10_(Uruguay)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_10_Uruguay_Logo_1960.webp?width=256",
+   "website": "https://www.canal10.com.uy",
+   "city": "Montevideo"
+  },
+  {
+   "id": "uy.tvciudad",
+   "name": "TV Ciudad",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q17630938",
+   "description": {
+    "en": "Television channel of Montevideo",
+    "es": "televisión pública de Montevideo.",
+    "pt-BR": "TV Ciudad é uma emissora de televisão uruguaia instalada na cidade de Montevidéu, capital do país."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Ciudad",
+    "es": "https://es.wikipedia.org/wiki/TV_Ciudad",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Ciudad"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVCiudad_logo_2020.png?width=256",
+   "website": "http://www.tvciudad.uy/",
+   "city": "Montevideo"
+  },
+  {
+   "id": "uy.carve",
+   "name": "Carve Deportiva",
+   "category": "sports",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
+   "youtubeVideoId": "MKZMT0zR4kY",
+   "embeddable": true,
+   "wikidata": "Q16953379",
+   "description": {
+    "en": "radio station in Uruguay",
+    "es": "estación de radio uruguaya",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_1010_(Uruguay)",
+    "es": "https://es.wikipedia.org/wiki/Carve_Deportiva"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/1010amnuevotiempo.jpg?width=256",
+   "website": "http://www.radio1010.com.uy/",
+   "city": null
+  },
+  {
+   "id": "uy.delsol",
+   "name": "Del Sol FM",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
+   "youtubeVideoId": "UBSPEZoH1hI",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "uy.sarandi",
+   "name": "Radio Sarandí",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
+   "youtubeVideoId": "cbO8VDDL26Y",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

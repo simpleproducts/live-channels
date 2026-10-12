@@ -1,0 +1,758 @@
+{
+ "schema": 2,
+ "updated": "2026-10-12T14:36:56Z",
+ "countries": [
+  {
+   "code": "AR",
+   "flag": "🇦🇷",
+   "name": {
+    "en": "Argentina",
+    "es": "Argentina",
+    "zh-Hans": "阿根廷",
+    "ja": "アルゼンチン",
+    "fr": "Argentine",
+    "pt-BR": "Argentina",
+    "ko": "아르헨티나",
+    "it": "Argentina",
+    "ru": "Аргентина",
+    "zh-Hant": "阿根廷",
+    "ar": "الأرجنتين",
+    "tr": "Arjantin",
+    "nl": "Argentinië",
+    "pl": "Argentyna",
+    "sv": "Argentina",
+    "id": "Argentina",
+    "de": "Argentinien",
+    "ms": "Argentina"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 59,
+   "version": 2026101214,
+   "file": "countries/AR.json"
+  },
+  {
+   "code": "AU",
+   "flag": "🇦🇺",
+   "name": {
+    "en": "Australia",
+    "es": "Australia",
+    "zh-Hans": "澳大利亚",
+    "ja": "オーストラリア",
+    "fr": "Australie",
+    "pt-BR": "Austrália",
+    "ko": "오스트레일리아",
+    "it": "Australia",
+    "ru": "Австралия",
+    "zh-Hant": "澳大利亞",
+    "ar": "أستراليا",
+    "tr": "Avustralya",
+    "nl": "Australië",
+    "pl": "Australia",
+    "sv": "Australien",
+    "id": "Australia",
+    "de": "Australien",
+    "ms": "Australia"
+   },
+   "languages": [
+    "en"
+   ],
+   "channelCount": 2,
+   "version": 2026101214,
+   "file": "countries/AU.json"
+  },
+  {
+   "code": "BR",
+   "flag": "🇧🇷",
+   "name": {
+    "en": "Brazil",
+    "es": "Brasil",
+    "zh-Hans": "巴西",
+    "ja": "ブラジル",
+    "fr": "Brésil",
+    "pt-BR": "Brasil",
+    "ko": "브라질",
+    "it": "Brasile",
+    "ru": "Бразилия",
+    "zh-Hant": "巴西",
+    "ar": "البرازيل",
+    "tr": "Brezilya",
+    "nl": "Brazilië",
+    "pl": "Brazylia",
+    "sv": "Brasilien",
+    "id": "Brasil",
+    "de": "Brasilien",
+    "ms": "Brazil"
+   },
+   "languages": [
+    "pt"
+   ],
+   "channelCount": 15,
+   "version": 2026101214,
+   "file": "countries/BR.json"
+  },
+  {
+   "code": "CA",
+   "flag": "🇨🇦",
+   "name": {
+    "en": "Canada",
+    "es": "Canadá",
+    "zh-Hans": "加拿大",
+    "ja": "カナダ",
+    "fr": "Canada",
+    "pt-BR": "Canadá",
+    "ko": "캐나다",
+    "it": "Canada",
+    "ru": "Канада",
+    "zh-Hant": "加拿大",
+    "ar": "كندا",
+    "tr": "Kanada",
+    "nl": "Canada",
+    "pl": "Kanada",
+    "sv": "Kanada",
+    "id": "Kanada",
+    "de": "Kanada",
+    "ms": "Kanada"
+   },
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "channelCount": 6,
+   "version": 2026101214,
+   "file": "countries/CA.json"
+  },
+  {
+   "code": "CL",
+   "flag": "🇨🇱",
+   "name": {
+    "en": "Chile",
+    "es": "Chile",
+    "zh-Hans": "智利",
+    "ja": "チリ",
+    "fr": "Chili",
+    "pt-BR": "Chile",
+    "ko": "칠레",
+    "it": "Cile",
+    "ru": "Чили",
+    "zh-Hant": "智利",
+    "ar": "تشيلي",
+    "tr": "Şili",
+    "nl": "Chili",
+    "pl": "Chile",
+    "sv": "Chile",
+    "id": "Chili",
+    "de": "Chile",
+    "ms": "Chile"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 15,
+   "version": 2026101214,
+   "file": "countries/CL.json"
+  },
+  {
+   "code": "CO",
+   "flag": "🇨🇴",
+   "name": {
+    "en": "Colombia",
+    "es": "Colombia",
+    "zh-Hans": "哥伦比亚",
+    "ja": "コロンビア",
+    "fr": "Colombie",
+    "pt-BR": "Colômbia",
+    "ko": "콜롬비아",
+    "it": "Colombia",
+    "ru": "Колумбия",
+    "zh-Hant": "哥倫比亞",
+    "ar": "كولومبيا",
+    "tr": "Kolombiya",
+    "nl": "Colombia",
+    "pl": "Kolumbia",
+    "sv": "Colombia",
+    "id": "Kolombia",
+    "de": "Kolumbien",
+    "ms": "Colombia"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 15,
+   "version": 2026101214,
+   "file": "countries/CO.json"
+  },
+  {
+   "code": "DE",
+   "flag": "🇩🇪",
+   "name": {
+    "en": "Germany",
+    "es": "Alemania",
+    "zh-Hans": "德国",
+    "ja": "ドイツ",
+    "fr": "Allemagne",
+    "pt-BR": "Alemanha",
+    "ko": "독일",
+    "it": "Germania",
+    "ru": "Германия",
+    "zh-Hant": "德國",
+    "ar": "ألمانيا",
+    "tr": "Almanya",
+    "nl": "Duitsland",
+    "pl": "Niemcy",
+    "sv": "Tyskland",
+    "id": "Jerman",
+    "de": "Deutschland",
+    "ms": "Jerman"
+   },
+   "languages": [
+    "de"
+   ],
+   "channelCount": 9,
+   "version": 2026101214,
+   "file": "countries/DE.json"
+  },
+  {
+   "code": "ES",
+   "flag": "🇪🇸",
+   "name": {
+    "en": "Spain",
+    "es": "España",
+    "zh-Hans": "西班牙",
+    "ja": "スペイン王国",
+    "fr": "Espagne",
+    "pt-BR": "Espanha",
+    "ko": "스페인",
+    "it": "Spagna",
+    "ru": "Испания",
+    "zh-Hant": "西班牙",
+    "ar": "إسبانيا",
+    "tr": "İspanya",
+    "nl": "Spanje",
+    "pl": "Hiszpania",
+    "sv": "Spanien",
+    "id": "Spanyol",
+    "de": "Spanien",
+    "ms": "Sepanyol"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 14,
+   "version": 2026101214,
+   "file": "countries/ES.json"
+  },
+  {
+   "code": "FR",
+   "flag": "🇫🇷",
+   "name": {
+    "en": "France",
+    "es": "Francia",
+    "zh-Hans": "法国",
+    "ja": "フランス",
+    "fr": "France",
+    "pt-BR": "França",
+    "ko": "프랑스",
+    "it": "Francia",
+    "ru": "Франция",
+    "zh-Hant": "法國",
+    "ar": "فرنسا",
+    "tr": "Fransa",
+    "nl": "Frankrijk",
+    "pl": "Francja",
+    "sv": "Frankrike",
+    "id": "Prancis",
+    "de": "Frankreich",
+    "ms": "Perancis"
+   },
+   "languages": [
+    "fr"
+   ],
+   "channelCount": 13,
+   "version": 2026101214,
+   "file": "countries/FR.json"
+  },
+  {
+   "code": "GB",
+   "flag": "🇬🇧",
+   "name": {
+    "en": "United Kingdom",
+    "es": "Reino Unido",
+    "zh-Hans": "英国",
+    "ja": "イギリス",
+    "fr": "Royaume-Uni",
+    "pt-BR": "Reino Unido",
+    "ko": "영국",
+    "it": "Regno Unito",
+    "ru": "Великобритания",
+    "zh-Hant": "英國",
+    "ar": "المملكة المتحدة",
+    "tr": "Birleşik Krallık",
+    "nl": "Verenigd Koninkrijk",
+    "pl": "Wielka Brytania",
+    "sv": "Storbritannien",
+    "id": "Britania Raya",
+    "de": "Vereinigtes Königreich",
+    "ms": "United Kingdom"
+   },
+   "languages": [
+    "en"
+   ],
+   "channelCount": 13,
+   "version": 2026101214,
+   "file": "countries/GB.json"
+  },
+  {
+   "code": "IN",
+   "flag": "🇮🇳",
+   "name": {
+    "en": "India",
+    "es": "India",
+    "zh-Hans": "印度",
+    "ja": "インド",
+    "fr": "Inde",
+    "pt-BR": "Índia",
+    "ko": "인도",
+    "it": "India",
+    "ru": "Индия",
+    "zh-Hant": "印度",
+    "ar": "الهند",
+    "tr": "Hindistan",
+    "nl": "India",
+    "pl": "Indie",
+    "sv": "Indien",
+    "id": "India",
+    "de": "Indien",
+    "ms": "India"
+   },
+   "languages": [
+    "hi",
+    "en"
+   ],
+   "channelCount": 15,
+   "version": 2026101214,
+   "file": "countries/IN.json"
+  },
+  {
+   "code": "IT",
+   "flag": "🇮🇹",
+   "name": {
+    "en": "Italy",
+    "es": "Italia",
+    "zh-Hans": "意大利",
+    "ja": "イタリア",
+    "fr": "Italie",
+    "pt-BR": "Itália",
+    "ko": "이탈리아",
+    "it": "Italia",
+    "ru": "Италия",
+    "zh-Hant": "義大利",
+    "ar": "إيطاليا",
+    "tr": "İtalya",
+    "nl": "Italië",
+    "pl": "Włochy",
+    "sv": "Italien",
+    "id": "Italia",
+    "de": "Italien",
+    "ms": "Itali"
+   },
+   "languages": [
+    "it"
+   ],
+   "channelCount": 5,
+   "version": 2026101214,
+   "file": "countries/IT.json"
+  },
+  {
+   "code": "JP",
+   "flag": "🇯🇵",
+   "name": {
+    "en": "Japan",
+    "es": "Japón",
+    "zh-Hans": "日本",
+    "ja": "日本",
+    "fr": "Japon",
+    "pt-BR": "Japão",
+    "ko": "일본",
+    "it": "Giappone",
+    "ru": "Япония",
+    "zh-Hant": "日本",
+    "ar": "اليابان",
+    "tr": "Japonya",
+    "nl": "Japan",
+    "pl": "Japonia",
+    "sv": "Japan",
+    "id": "Jepang",
+    "de": "Japan",
+    "ms": "Jepun"
+   },
+   "languages": [
+    "ja"
+   ],
+   "channelCount": 11,
+   "version": 2026101214,
+   "file": "countries/JP.json"
+  },
+  {
+   "code": "KR",
+   "flag": "🇰🇷",
+   "name": {
+    "en": "South Korea",
+    "es": "Corea del Sur",
+    "zh-Hans": "大韩民国",
+    "ja": "大韓民国",
+    "fr": "Corée du Sud",
+    "pt-BR": "Coreia do Sul",
+    "ko": "대한민국",
+    "it": "Corea del Sud",
+    "ru": "Республика Корея",
+    "zh-Hant": "大韓民國",
+    "ar": "كوريا الجنوبية",
+    "tr": "Güney Kore",
+    "nl": "Zuid-Korea",
+    "pl": "Korea Południowa",
+    "sv": "Sydkorea",
+    "id": "Korea Selatan",
+    "de": "Südkorea",
+    "ms": "Korea Selatan"
+   },
+   "languages": [
+    "ko"
+   ],
+   "channelCount": 15,
+   "version": 2026101214,
+   "file": "countries/KR.json"
+  },
+  {
+   "code": "MX",
+   "flag": "🇲🇽",
+   "name": {
+    "en": "Mexico",
+    "es": "México",
+    "zh-Hans": "墨西哥",
+    "ja": "メキシコ",
+    "fr": "Mexique",
+    "pt-BR": "México",
+    "ko": "멕시코",
+    "it": "Messico",
+    "ru": "Мексика",
+    "zh-Hant": "墨西哥",
+    "ar": "المكسيك",
+    "tr": "Meksika",
+    "nl": "Mexico",
+    "pl": "Meksyk",
+    "sv": "Mexiko",
+    "id": "Meksiko",
+    "de": "Mexiko",
+    "ms": "Mexico"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 15,
+   "version": 2026101214,
+   "file": "countries/MX.json"
+  },
+  {
+   "code": "PE",
+   "flag": "🇵🇪",
+   "name": {
+    "en": "Peru",
+    "es": "Perú",
+    "zh-Hans": "秘鲁",
+    "ja": "ペルー",
+    "fr": "Pérou",
+    "pt-BR": "Peru",
+    "ko": "페루",
+    "it": "Perù",
+    "ru": "Перу",
+    "zh-Hant": "秘魯",
+    "ar": "بيرو",
+    "tr": "Peru",
+    "nl": "Peru",
+    "pl": "Peru",
+    "sv": "Peru",
+    "id": "Peru",
+    "de": "Peru",
+    "ms": "Peru"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 13,
+   "version": 2026101214,
+   "file": "countries/PE.json"
+  },
+  {
+   "code": "PK",
+   "flag": "🇵🇰",
+   "name": {
+    "en": "Pakistan",
+    "es": "Pakistán",
+    "zh-Hans": "巴基斯坦",
+    "ja": "パキスタン",
+    "fr": "Pakistan",
+    "pt-BR": "Paquistão",
+    "ko": "파키스탄",
+    "it": "Pakistan",
+    "ru": "Пакистан",
+    "zh-Hant": "巴基斯坦",
+    "ar": "باكستان",
+    "tr": "Pakistan",
+    "nl": "Pakistan",
+    "pl": "Pakistan",
+    "sv": "Pakistan",
+    "id": "Pakistan",
+    "de": "Pakistan",
+    "ms": "Pakistan"
+   },
+   "languages": [
+    "ur"
+   ],
+   "channelCount": 10,
+   "version": 2026101214,
+   "file": "countries/PK.json"
+  },
+  {
+   "code": "PT",
+   "flag": "🇵🇹",
+   "name": {
+    "en": "Portugal",
+    "es": "Portugal",
+    "zh-Hans": "葡萄牙",
+    "ja": "ポルトガル",
+    "fr": "Portugal",
+    "pt-BR": "Portugal",
+    "ko": "포르투갈",
+    "it": "Portogallo",
+    "ru": "Португалия",
+    "zh-Hant": "葡萄牙",
+    "ar": "البرتغال",
+    "tr": "Portekiz",
+    "nl": "Portugal",
+    "pl": "Portugalia",
+    "sv": "Portugal",
+    "id": "Portugal",
+    "de": "Portugal",
+    "ms": "Portugal"
+   },
+   "languages": [
+    "pt"
+   ],
+   "channelCount": 4,
+   "version": 2026101214,
+   "file": "countries/PT.json"
+  },
+  {
+   "code": "PY",
+   "flag": "🇵🇾",
+   "name": {
+    "en": "Paraguay",
+    "es": "Paraguay",
+    "zh-Hans": "巴拉圭",
+    "ja": "パラグアイ",
+    "fr": "Paraguay",
+    "pt-BR": "Paraguai",
+    "ko": "파라과이",
+    "it": "Paraguay",
+    "ru": "Парагвай",
+    "zh-Hant": "巴拉圭",
+    "ar": "باراغواي",
+    "tr": "Paraguay",
+    "nl": "Paraguay",
+    "pl": "Paragwaj",
+    "sv": "Paraguay",
+    "id": "Paraguay",
+    "de": "Paraguay",
+    "ms": "Paraguay"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 5,
+   "version": 2026101214,
+   "file": "countries/PY.json"
+  },
+  {
+   "code": "QA",
+   "flag": "🇶🇦",
+   "name": {
+    "en": "Qatar",
+    "es": "Catar",
+    "zh-Hans": "卡塔尔",
+    "ja": "カタール",
+    "fr": "Qatar",
+    "pt-BR": "Catar",
+    "ko": "카타르",
+    "it": "Qatar",
+    "ru": "Катар",
+    "zh-Hant": "卡達",
+    "ar": "قطر",
+    "tr": "Katar",
+    "nl": "Qatar",
+    "pl": "Katar",
+    "sv": "Qatar",
+    "id": "Qatar",
+    "de": "Katar",
+    "ms": "Qatar"
+   },
+   "languages": [
+    "ar"
+   ],
+   "channelCount": 5,
+   "version": 2026101214,
+   "file": "countries/QA.json"
+  },
+  {
+   "code": "SG",
+   "flag": "🇸🇬",
+   "name": {
+    "en": "Singapore",
+    "es": "Singapur",
+    "zh-Hans": "新加坡",
+    "ja": "シンガポール",
+    "fr": "Singapour",
+    "pt-BR": "Singapura",
+    "ko": "싱가포르",
+    "it": "Singapore",
+    "ru": "Сингапур",
+    "zh-Hant": "新加坡",
+    "ar": "سنغافورة",
+    "tr": "Singapur",
+    "nl": "Singapore",
+    "pl": "Singapur",
+    "sv": "Singapore",
+    "id": "Singapura",
+    "de": "Singapur",
+    "ms": "Singapura"
+   },
+   "languages": [
+    "en"
+   ],
+   "channelCount": 2,
+   "version": 2026101214,
+   "file": "countries/SG.json"
+  },
+  {
+   "code": "TR",
+   "flag": "🇹🇷",
+   "name": {
+    "en": "Turkey",
+    "es": "Turquía",
+    "zh-Hans": "土耳其",
+    "ja": "トルコ",
+    "fr": "Turquie",
+    "pt-BR": "Turquia",
+    "ko": "튀르키예",
+    "it": "Turchia",
+    "ru": "Турция",
+    "zh-Hant": "土耳其",
+    "ar": "تركيا",
+    "tr": "Türkiye",
+    "nl": "Turkije",
+    "pl": "Turcja",
+    "sv": "Turkiet",
+    "id": "Turki",
+    "de": "Türkei",
+    "ms": "Turki"
+   },
+   "languages": [
+    "tr"
+   ],
+   "channelCount": 15,
+   "version": 2026101214,
+   "file": "countries/TR.json"
+  },
+  {
+   "code": "US",
+   "flag": "🇺🇸",
+   "name": {
+    "en": "United States",
+    "es": "Estados Unidos",
+    "zh-Hans": "美国",
+    "ja": "アメリカ合衆国",
+    "fr": "États-Unis",
+    "pt-BR": "Estados Unidos",
+    "ko": "미국",
+    "it": "Stati Uniti",
+    "ru": "США",
+    "zh-Hant": "美國",
+    "ar": "الولايات المتحدة",
+    "tr": "Amerika Birleşik Devletleri",
+    "nl": "Verenigde Staten",
+    "pl": "Stany Zjednoczone",
+    "sv": "USA",
+    "id": "Amerika Serikat",
+    "de": "Vereinigte Staaten",
+    "ms": "Amerika Syarikat"
+   },
+   "languages": [
+    "en"
+   ],
+   "channelCount": 15,
+   "version": 2026101214,
+   "file": "countries/US.json"
+  },
+  {
+   "code": "UY",
+   "flag": "🇺🇾",
+   "name": {
+    "en": "Uruguay",
+    "es": "Uruguay",
+    "zh-Hans": "乌拉圭",
+    "ja": "ウルグアイ",
+    "fr": "Uruguay",
+    "pt-BR": "Uruguai",
+    "ko": "우루과이",
+    "it": "Uruguay",
+    "ru": "Уругвай",
+    "zh-Hant": "烏拉圭",
+    "ar": "الأوروغواي",
+    "tr": "Uruguay",
+    "nl": "Uruguay",
+    "pl": "Urugwaj",
+    "sv": "Uruguay",
+    "id": "Uruguay",
+    "de": "Uruguay",
+    "ms": "Uruguay"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 9,
+   "version": 2026101214,
+   "file": "countries/UY.json"
+  },
+  {
+   "code": "VE",
+   "flag": "🇻🇪",
+   "name": {
+    "en": "Venezuela",
+    "es": "Venezuela",
+    "zh-Hans": "委内瑞拉",
+    "ja": "ベネズエラ",
+    "fr": "Venezuela",
+    "pt-BR": "Venezuela",
+    "ko": "베네수엘라",
+    "it": "Venezuela",
+    "ru": "Венесуэла",
+    "zh-Hant": "委內瑞拉",
+    "ar": "فنزويلا",
+    "tr": "Venezuela",
+    "nl": "Venezuela",
+    "pl": "Wenezuela",
+    "sv": "Venezuela",
+    "id": "Venezuela",
+    "de": "Venezuela",
+    "ms": "Venezuela"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 6,
+   "version": 2026101214,
+   "file": "countries/VE.json"
+  }
+ ]
+}

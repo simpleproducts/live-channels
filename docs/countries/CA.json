@@ -1,0 +1,192 @@
+{
+ "schema": 2,
+ "code": "CA",
+ "version": 2026101214,
+ "defaultTiles": [
+  "ca.cbcnews"
+ ],
+ "channels": [
+  {
+   "id": "ca.cbcnews",
+   "name": "CBC News",
+   "category": "news",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
+   "youtubeVideoId": "5vfaDsMhCF4",
+   "embeddable": true,
+   "wikidata": "Q2931014",
+   "description": {
+    "en": "news division of the Canadian broadcast network CBC",
+    "es": "División informativo de la cadena CBC",
+    "zh-Hans": "CBC新闻 是加拿大广播公司的一个部门，负责该公司的英语新闻和新闻节目制作。CBC新聞成立于1941年，是加拿大最大的新闻广播公司。",
+    "ja": "CBCニュース は、カナダの公共放送・カナダ放送協会（CBC）の英語放送部門における報道の取材およびニュース番組制作を担当する部門であり、CBCテレビジョンやCBCラジオ、CBCニュースネットワーク、CBC.caなどのサービスを含んでいる。1941年に公共放送局によって設立されたCBCニュースは、同国最大の報道機関であり、地方・地域・全国規模の放送および放送局を展開している。また、組織上は別法人であるフランス語系のニュース部門であるラジオ＝カナダ・アンフォ と頻繁に協力している。",
+    "fr": "service d'information de la Canadian Broadcasting Corporation (CBC), en langue anglaise",
+    "pt-BR": "divisão de notícias da rede de televisão canadense CBC",
+    "ko": "CBC 뉴스(영어: CBC News)는 캐나다 방송 협회 산하의 뉴스 제작 자회사이다.",
+    "ru": "новостное подразделение канадской радиовещательной корпорации CBC",
+    "zh-Hant": "CBC新闻 是加拿大广播公司的一个部门，负责该公司的英语新闻和新闻节目制作。CBC新聞成立于1941年，是加拿大最大的新闻广播公司。",
+    "ar": "شركة كندية",
+    "tr": "CBC News, CBC Television, CBC Radio ve çevrimiçi hizmetlerdeki haber programlarını hazırlamakla ve haber toplamakla görevli olan Canadian Broadcasting Corporation departmanı.",
+    "nl": "bedrijf uit Canada",
+    "de": "Geschäftsbetrieb in Kanada"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CBC_News",
+    "es": "https://es.wikipedia.org/wiki/CBC_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/CBC%E6%96%B0%E8%81%9E",
+    "ja": "https://ja.wikipedia.org/wiki/CBC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9_(%E3%82%AB%E3%83%8A%E3%83%80)",
+    "fr": "https://fr.wikipedia.org/wiki/CBC_News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/CBC_News",
+    "ko": "https://ko.wikipedia.org/wiki/CBC_%EB%89%B4%EC%8A%A4",
+    "ru": "https://ru.wikipedia.org/wiki/CBC_News",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/CBC%E6%96%B0%E8%81%9E",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%A8%D9%8A_%D8%B3%D9%8A_%D9%86%D9%8A%D9%88%D8%B2",
+    "tr": "https://tr.wikipedia.org/wiki/CBC_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CBC_News_Logo.svg?width=256",
+   "website": "https://www.cbc.ca/news",
+   "city": "Ontario"
+  },
+  {
+   "id": "ca.ctvnews",
+   "name": "CTV News",
+   "category": "news",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q5014635",
+   "description": {
+    "en": "news division of CTV Television Network",
+    "es": "división de CTV Television Network",
+    "ja": "CTVニュース は、カナダのCTVテレビジョンネットワークのニュース部門。『CTV News』という名前は、全国のニュース部門と密接に関連している同ネットワークの直営局（O&O）での地方及び地域のニュース放送のタイトルとしても使用される。CTV 2のローカルニュース番組も『CTV News』としてブランド化されているが、殆どの場合、メインのCTVネットワークのニュース番組とは別に運営されている。",
+    "ko": "CTV 뉴스(영어: CTV News)는 캐나다의 CTV 텔레비전 네트워크 산하의 뉴스 제작 자회사이다.",
+    "ar": "شركة كندية",
+    "id": "divisi berita dari CTV Television Network",
+    "de": "kanadische Nachrichtenagentur"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CTV_News",
+    "es": "https://es.wikipedia.org/wiki/CTV_News",
+    "ja": "https://ja.wikipedia.org/wiki/CTV%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "ko": "https://ko.wikipedia.org/wiki/CTV_%EB%89%B4%EC%8A%A4",
+    "id": "https://id.wikipedia.org/wiki/CTV_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CTV_News.svg?width=256",
+   "website": "https://www.ctvnews.ca/",
+   "city": "Toronto"
+  },
+  {
+   "id": "ca.globalnews",
+   "name": "Global News",
+   "category": "news",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q5570514",
+   "description": {
+    "en": "Canadian news network, division of Global Television Network",
+    "es": "cadena de noticias canadiense, división de Global Television Network",
+    "zh-Hans": "加拿大新闻媒体",
+    "ja": "カナダのグローバルテレビジョンネットワークのニュース・時事部門",
+    "fr": "chaine de télévision canadienne",
+    "ko": "글로벌 뉴스(Global News)는 캐나다 글로벌 텔레비전 네트워크의 뉴스 및 시사 부서이다.",
+    "zh-Hant": "加拿大新闻媒体",
+    "ar": "شركة كندية",
+    "de": "kanadischer Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Global_News",
+    "es": "https://es.wikipedia.org/wiki/Global_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%92%B0%E7%90%83%E6%96%B0%E8%81%9E_(%E5%8A%A0%E6%8B%BF%E5%A4%A7)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B8%80%EB%A1%9C%EB%B2%8C_%EB%89%B4%EC%8A%A4",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%92%B0%E7%90%83%E6%96%B0%E8%81%9E_(%E5%8A%A0%E6%8B%BF%E5%A4%A7)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Global_News.svg?width=256",
+   "website": "https://globalnews.ca/",
+   "city": "Burnaby"
+  },
+  {
+   "id": "ca.noovo",
+   "name": "Noovo Info",
+   "category": "news",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ca.bnn",
+   "name": "BNN Bloomberg",
+   "category": "economy",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UC5aNPmKYwbudeNngDMTY3lw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q1017576",
+   "description": {
+    "en": "Canadian television channel",
+    "fr": "chaîne de télévision canadienne d'information financière en continu",
+    "de": "kanadischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/BNN_Bloomberg",
+    "fr": "https://fr.wikipedia.org/wiki/BNN_Bloomberg",
+    "de": "https://de.wikipedia.org/wiki/Business_News_Network"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/BNN_Bloomberg.svg?width=256",
+   "website": "https://www.bnnbloomberg.ca",
+   "city": "Toronto"
+  },
+  {
+   "id": "ca.cpac",
+   "name": "CPAC",
+   "category": "government",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q2931869",
+   "description": {
+    "en": "Canadian parliamentary broadcaster",
+    "zh-Hans": "CPAC，可譯為有線電視公共事務台，是加拿大唯一一間使用英法雙語的非牟利私營電視台，由該國的多間有線電視台合辦，1992年創立，專門直播政治新聞，并製作政經節目。",
+    "fr": "chaîne de télévision canadienne d'affaires publiques",
+    "zh-Hant": "CPAC，可譯為有線電視公共事務台，是加拿大唯一一間使用英法雙語的非牟利私營電視台，由該國的多間有線電視台合辦，1992年創立，專門直播政治新聞，并製作政經節目。"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CPAC_(TV_channel)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/CPAC_(%E9%9B%BB%E8%A6%96%E5%8F%B0)",
+    "fr": "https://fr.wikipedia.org/wiki/CPAC_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/CPAC_(%E9%9B%BB%E8%A6%96%E5%8F%B0)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/2021_CPAC_logo.svg?width=256",
+   "website": "https://www.cpac.ca/en",
+   "city": "Ottawa"
+  }
+ ]
+}

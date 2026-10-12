@@ -1,0 +1,586 @@
+{
+ "schema": 2,
+ "code": "US",
+ "version": 2026101214,
+ "defaultTiles": [
+  "us.abcnews",
+  "us.cnn",
+  "us.cbsnews",
+  "us.nbcnews",
+  "us.livenow",
+  "us.newsmax",
+  "us.scripps",
+  "us.nmasunivision",
+  "us.bloomberg"
+ ],
+ "channels": [
+  {
+   "id": "us.abcnews",
+   "name": "ABC News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+   "youtubeVideoId": "KrRZuVZXUDI",
+   "embeddable": true,
+   "wikidata": "Q287171",
+   "description": {
+    "en": "news division of the American Broadcasting Company",
+    "es": "División informativo de la cadena ABC (EEUU)",
+    "zh-Hans": "美国广播公司的新闻事业部",
+    "ja": "ABCニュース は、アメリカ合衆国のアメリカン・ブロードキャスティング・カンパニー（ウォルト・ディズニー・カンパニー）とその所有者であるディズニー・エンターテインメントのニュース番組制作子会社。",
+    "fr": "département de l'information de la chaîne ABC",
+    "pt-BR": "divisão de jornalismo da American Broadcasting Company",
+    "ko": "미국의 방송국 ABC의 방송 부서",
+    "it": "rete televisiva statunitense",
+    "ru": "подразделение American Broadcasting Company",
+    "zh-Hant": "美國廣播公司的新聞事業部",
+    "ar": "إيه بي سي نيوز هي قناة إخبارية تابعة لهيئة الإذاعة الأمريكية التابعة لشركة والت ديزني تأسست 15 يونيو 1945، ورئيسها الحالي هو بن شيروود.",
+    "tr": "ABC News, ABC'nin haber toplama ve yayımlama bölümü.",
+    "nl": "televisieprogramma",
+    "pl": "ABC News – amerykański dział informacyjny sieci ABC powstały 15 czerwca 1945 roku.",
+    "sv": "nyhetsavdelningen för American Broadcasting Company",
+    "id": "ABC News adalah divisi pemberitaan jaringan televisi dan radio ABC, Amerika Serikat.",
+    "de": "amerikanischer Fernsehsender",
+    "ms": "ABC News ialah pembahagian berita American Broadcasting Company (ABC), dimiliki oleh pembahagian Disney Media Networks, The Walt Disney Company."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ABC_News_(United_States)",
+    "es": "https://es.wikipedia.org/wiki/ABC_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/ABC%E6%96%B0%E8%81%9E",
+    "ja": "https://ja.wikipedia.org/wiki/ABC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB)",
+    "fr": "https://fr.wikipedia.org/wiki/ABC_News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/ABC_News",
+    "ko": "https://ko.wikipedia.org/wiki/ABC_%EB%89%B4%EC%8A%A4",
+    "it": "https://it.wikipedia.org/wiki/ABC_News",
+    "ru": "https://ru.wikipedia.org/wiki/ABC_News",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/ABC%E6%96%B0%E8%81%9E",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D9%87_%D8%A8%D9%8A_%D8%B3%D9%8A_%D9%86%D9%8A%D9%88%D8%B2",
+    "tr": "https://tr.wikipedia.org/wiki/ABC_News",
+    "pl": "https://pl.wikipedia.org/wiki/ABC_News",
+    "sv": "https://sv.wikipedia.org/wiki/ABC_News",
+    "id": "https://id.wikipedia.org/wiki/ABC_News",
+    "de": "https://de.wikipedia.org/wiki/ABC_News",
+    "ms": "https://ms.wikipedia.org/wiki/ABC_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ABC_News_logo_2021.svg?width=256",
+   "website": "https://abcnews.go.com/",
+   "city": "Upper West Side"
+  },
+  {
+   "id": "us.cnn",
+   "name": "CNN",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCupvZG-5ko_eiXAupbDfxWw",
+   "youtubeVideoId": "GotlA1KKWoo",
+   "embeddable": true,
+   "wikidata": "Q48340",
+   "description": {
+    "en": "American news channel",
+    "es": "canal de televisión de noticias en los Estados Unidos",
+    "zh-Hans": "美國新聞電視頻道",
+    "ja": "アメリカのニュース専門チャンネル",
+    "fr": "chaîne de télévision d'information en continu aux États-Unis",
+    "pt-BR": "canal norte-americano de notícias",
+    "ko": "미국(세계)의 뉴스 텔레비전 방송사.",
+    "it": "rete televisiva statunitense",
+    "ru": "американский новостной телеканал",
+    "zh-Hant": "美國新聞電視頻道",
+    "ar": "شبكة تلفزيونية أمريكية",
+    "tr": "Amerika merkezli haber kanalı",
+    "nl": "Amerikaanse nieuwszender",
+    "pl": "Cable News Network (CNN) – amerykańska telewizja informacyjna, założona w 1980 przez Teda Turnera i Reese Schonfelda.",
+    "sv": "amerikansk nyhetskanal",
+    "id": "saluran berita Amerika Serikat",
+    "de": "US-amerikanischer Fernsehsender",
+    "ms": "Cable News Network ialah sebuah rangkaian siaran berita yang beribupejabat di CNN Center, Atlanta, Georgia negeri Amerika Syarikat."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNN",
+    "es": "https://es.wikipedia.org/wiki/CNN",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91",
+    "ja": "https://ja.wikipedia.org/wiki/CNN",
+    "fr": "https://fr.wikipedia.org/wiki/CNN",
+    "pt-BR": "https://pt.wikipedia.org/wiki/CNN",
+    "ko": "https://ko.wikipedia.org/wiki/CNN",
+    "it": "https://it.wikipedia.org/wiki/CNN",
+    "ru": "https://ru.wikipedia.org/wiki/CNN",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%A5%D9%86_%D8%A5%D9%86",
+    "tr": "https://tr.wikipedia.org/wiki/CNN",
+    "nl": "https://nl.wikipedia.org/wiki/CNN",
+    "pl": "https://pl.wikipedia.org/wiki/CNN",
+    "sv": "https://sv.wikipedia.org/wiki/CNN",
+    "id": "https://id.wikipedia.org/wiki/CNN",
+    "de": "https://de.wikipedia.org/wiki/CNN",
+    "ms": "https://ms.wikipedia.org/wiki/CNN"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNN_Logo_%282014%29.svg?width=256",
+   "website": "https://cnn.com",
+   "city": "Atlanta"
+  },
+  {
+   "id": "us.cbsnews",
+   "name": "CBS News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
+   "youtubeVideoId": "SGGJBg6wBDc",
+   "embeddable": true,
+   "wikidata": "Q861764",
+   "description": {
+    "en": "news division of the American television and radio service CBS",
+    "es": "División informativo de la cadena CBS",
+    "zh-Hans": "美国电视台",
+    "ja": "アメリカ合衆国のテレビ・ラジオ放送局ネットワークCBSのニュース部門",
+    "fr": "CBS News est le département de l'information du réseau de télévision et de radio américain CBS.",
+    "pt-BR": "A CBS News é o departamento de jornalismo da rede de televisão estadunidense CBS.",
+    "ko": "CBS 뉴스(CBS News)는 미국 방송 네트워크 CBS의 뉴스 제작 자회사이다.",
+    "it": "CBS News è la testata giornalistica della CBS.",
+    "ru": "новостное подразделение американской телерадиослужбы CBS",
+    "zh-Hant": "美国电视台",
+    "ar": "سي بي إس نيوز بالإنجليزية هي شركة إذاعة أخبار أمريكية منبثقة عن شركة سي بي اس الأم.",
+    "tr": "CBS News, CBS Corporation'a bağlı olarak Amerika Birleşik Devletleri'nde faaliyet gösteren televizyon ve radyo ağı CBS'in haber bölümüdür.",
+    "nl": "CBS News is de nieuwsdivisie van het Amerikaanse mediabedrijf CBS.",
+    "pl": "dział informacyjny amerykańskiego serwisu telewizyjnego i radiowego CBS",
+    "sv": "landstäckande nyhetsredaktion för TV-bolaget CBS i USA",
+    "id": "CBS News adalah sebuah divisi berita dari jaringan televisi dan radio Amerika CBS.",
+    "de": "Nachrichtenabteilung des amerikanischen Fernseh- und Hörfunksenders CBS",
+    "ms": "CBS News ialah pembahagian berita perkhidmatan televisyen dan radio Amerika Syarikat, CBS."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CBS_News",
+    "es": "https://es.wikipedia.org/wiki/CBS_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/CBS%E6%96%B0%E8%81%9E",
+    "ja": "https://ja.wikipedia.org/wiki/CBS%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "fr": "https://fr.wikipedia.org/wiki/CBS_News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/CBS_News",
+    "ko": "https://ko.wikipedia.org/wiki/CBS_%EB%89%B4%EC%8A%A4",
+    "it": "https://it.wikipedia.org/wiki/CBS_News",
+    "ru": "https://ru.wikipedia.org/wiki/CBS_News",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/CBS%E6%96%B0%E8%81%9E",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%A8%D9%8A_%D8%A5%D8%B3_%D9%86%D9%8A%D9%88%D8%B2",
+    "tr": "https://tr.wikipedia.org/wiki/CBS_News",
+    "nl": "https://nl.wikipedia.org/wiki/CBS_News",
+    "pl": "https://pl.wikipedia.org/wiki/CBS_News",
+    "sv": "https://sv.wikipedia.org/wiki/CBS_News",
+    "id": "https://id.wikipedia.org/wiki/CBS_News",
+    "de": "https://de.wikipedia.org/wiki/CBS_News",
+    "ms": "https://ms.wikipedia.org/wiki/CBS_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CBS_News_2020_%28Stacked_II%29.svg?width=256",
+   "website": "https://cbsnews.com",
+   "city": "Manhattan"
+  },
+  {
+   "id": "us.nbcnews",
+   "name": "NBC News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
+   "youtubeVideoId": "jeJ4kdpSCJk",
+   "embeddable": true,
+   "wikidata": "Q2877626",
+   "description": {
+    "en": "news division of NBC",
+    "es": "división informativo de la cadena NBC",
+    "zh-Hans": "美国全国广播公司新闻部",
+    "ja": "NBCニュース は、アメリカ・NBC傘下のニュース制作子会社。",
+    "fr": "NBC News est le département de l'information du réseau de télévision américain NBC.",
+    "pt-BR": "A NBC News é a divisão de jornalismo da rede de televisão norte-americana NBC.",
+    "ko": "NBC 뉴스(영어: NBC News)는 미국 NBC 산하의 뉴스 제작 자회사이다.",
+    "ru": "телевизионный канал",
+    "zh-Hant": "美国全国广播公司新闻部",
+    "ar": "قسم الأخبار في شبكة إن بي سي الإعلامية",
+    "tr": "NBC News, Amerikan yayın ağı NBC'nin haber bölümü.",
+    "pl": "NBC News – amerykańska telewizyjna sieć informacyjna powstała 21 lutego 1940 roku.",
+    "id": "saluran berita",
+    "de": "Nachrichtenabteilung des US-amerikanischen Fernsehsenders NBC",
+    "ms": "NBC News adalah saluran berita yang dioperasikan oleh NBC."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NBC_News",
+    "es": "https://es.wikipedia.org/wiki/NBC_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/NBC%E6%96%B0%E8%81%9E",
+    "ja": "https://ja.wikipedia.org/wiki/NBC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "fr": "https://fr.wikipedia.org/wiki/NBC_News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/NBC_News",
+    "ko": "https://ko.wikipedia.org/wiki/NBC_%EB%89%B4%EC%8A%A4",
+    "ru": "https://ru.wikipedia.org/wiki/NBC_News",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/NBC%E6%96%B0%E8%81%9E",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86_%D8%A8%D9%8A_%D8%B3%D9%8A_%D9%86%D9%8A%D9%88%D8%B2",
+    "tr": "https://tr.wikipedia.org/wiki/NBC_News",
+    "pl": "https://pl.wikipedia.org/wiki/NBC_News",
+    "id": "https://id.wikipedia.org/wiki/NBC_News",
+    "de": "https://de.wikipedia.org/wiki/NBC_News",
+    "ms": "https://ms.wikipedia.org/wiki/NBC_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NBC_News_%282023%29.svg?width=256",
+   "website": "https://www.nbcnews.com/",
+   "city": "New York City"
+  },
+  {
+   "id": "us.livenow",
+   "name": "LiveNOW from FOX",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+   "youtubeVideoId": "PUfWupzOZxA",
+   "embeddable": true,
+   "wikidata": "Q121917610",
+   "description": {
+    "en": "FAST TV channel and news service"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/LiveNow_from_Fox"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LiveNOW_from_FOX.png?width=256",
+   "website": "https://www.livenowfox.com/",
+   "city": null
+  },
+  {
+   "id": "us.newsmax",
+   "name": "Newsmax",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg",
+   "youtubeVideoId": "pBrwGLSB9yc",
+   "embeddable": true,
+   "wikidata": "Q18353130",
+   "description": {
+    "en": "American news channel",
+    "zh-Hans": "美国电视台",
+    "ko": "뉴스맥스 TV는 뉴스맥스가 소유한 미국의 텔레비전 채널로, 보수주의, 친트럼프, 우익, 및 극우 성향으로 묘사된다.",
+    "zh-Hant": "美国电视台",
+    "de": "Newsmax TV ist ein rechtskonservativer US-Fernsehsender."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Newsmax_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%A4%A7%E5%85%A8%E6%96%B0%E8%81%9E%E9%9B%BB%E8%A6%96",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%8A%A4%EB%A7%A5%EC%8A%A4_TV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%A4%A7%E5%85%A8%E6%96%B0%E8%81%9E%E9%9B%BB%E8%A6%96",
+    "de": "https://de.wikipedia.org/wiki/Newsmax_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Newsmax_logo.svg?width=256",
+   "website": "https://www.newsmaxtv.com",
+   "city": null
+  },
+  {
+   "id": "us.scripps",
+   "name": "Scripps News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
+   "youtubeVideoId": "mj5byHvNQOs",
+   "embeddable": true,
+   "wikidata": "Q16957649",
+   "description": {
+    "en": "United States news network",
+    "ja": "Newsy（ニューズィー）は、アメリカ・ジョージア州アトランタに本社を置くニュースネットワークで、E・W・スクリップス・カンパニーが所有している。Roku、Apple TV、Amazon Fire TVなどのストリーミングデバイスに加えて、スマートテレビアプリ、The Roku Channel、Xumo、ヘイスタックニュース、Samsung TV Plusを介して、Pluto TV などのOTTプラットフォームで無料で利用でき、2021年10月現在、地上波放送局でも無料で利用できる。国際的には、カナダでVMediaが所有するリバーTVによってチャンネル26で放送されている。",
+    "fr": "chaîne d'information en continu américaine",
+    "nl": "website"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Scripps_News",
+    "ja": "https://ja.wikipedia.org/wiki/Newsy"
+   },
+   "logo": null,
+   "website": "http://www.newsy.com",
+   "city": "Columbia"
+  },
+  {
+   "id": "us.nmasunivision",
+   "name": "N+ Univision",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC32TdiIsh_5X8tKr_9rKQyA",
+   "youtubeVideoId": "V4C7VNfRATA",
+   "embeddable": true,
+   "wikidata": "Q22023487",
+   "description": {
+    "en": "news division of Univision",
+    "es": "división de noticias de Univisión"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/N%2B_Univision",
+    "es": "https://es.wikipedia.org/wiki/N%2B_Univision"
+   },
+   "logo": null,
+   "website": "http://noticias.univision.com/",
+   "city": null
+  },
+  {
+   "id": "us.telemundo",
+   "name": "Noticias Telemundo",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCRwA1NUcUnwsly35ikGhp0A",
+   "youtubeVideoId": "3ewRHqZdF1A",
+   "embeddable": true,
+   "wikidata": "Q17513179",
+   "description": {
+    "en": "television series",
+    "es": "noticiario",
+    "fr": "série télévisée",
+    "pt-BR": "Noticias Telemundo é o principal telejornal diário da agência Noticias Telemundo, programa da Telemundo, rede de televisão nos Estados Unidos.",
+    "it": "serie televisiva",
+    "nl": "televisieserie uit Verenigde Staten van Amerika"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Noticias_Telemundo_(TV_program)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Noticias_Telemundo"
+   },
+   "logo": null,
+   "website": "http://www.telemundo.com/noticias/noticias-telemundo",
+   "city": null
+  },
+  {
+   "id": "us.cnnee",
+   "name": "CNN en Español",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC_lEiu6917IJz03TnntWUaQ",
+   "youtubeVideoId": "Qr61waJ6AZg",
+   "embeddable": true,
+   "wikidata": "Q2931785",
+   "description": {
+    "en": "American television station",
+    "es": "canal de televisión de noticias",
+    "zh-Hans": "有线电视新闻网西班牙语频道 是于1997年3月17日开播，由華納媒體运营的一个美洲西班牙语付费新闻频道。",
+    "ja": "CNNエスパニョール は、スカイダンス・コーポレーション傘下のCNNワールドワイドが開設した、スペイン語放送によるニュース専門チャンネルである。1997年3月17日放送開始。アトランタにあるCNN放送センターを本拠とし、ここからアメリカ合衆国とラテンアメリカに向けてニュースを発信する。テレビ・ラジオ・インターネットでの展開の他、シリウス・サテライト・ラジオやXMサテライト・ラジオなどの衛星ラジオからも聴取可能。",
+    "fr": "station de télévision américaine",
+    "pt-BR": "canal de TV por assinatura",
+    "it": "emittente televisiva",
+    "zh-Hant": "有线电视新闻网西班牙语频道 是于1997年3月17日开播，由華納媒體运营的一个美洲西班牙语付费新闻频道。",
+    "id": "CNN en Español adalah saluran berita berbahasa Spanyol Pan-Amerika, dimiliki oleh CNN Worldwide, divisi berita untuk Warner Bros.",
+    "de": "US-amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNN_en_Espa%C3%B1ol",
+    "es": "https://es.wikipedia.org/wiki/CNN_en_Espa%C3%B1ol",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E9%A2%91%E9%81%93",
+    "ja": "https://ja.wikipedia.org/wiki/CNN%E3%82%A8%E3%82%B9%E3%83%91%E3%83%8B%E3%83%A7%E3%83%BC%E3%83%AB",
+    "fr": "https://fr.wikipedia.org/wiki/CNN_en_Espa%C3%B1ol",
+    "pt-BR": "https://pt.wikipedia.org/wiki/CNN_en_Espa%C3%B1ol",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E9%A2%91%E9%81%93",
+    "id": "https://id.wikipedia.org/wiki/CNN_en_Espa%C3%B1ol"
+   },
+   "logo": null,
+   "website": "https://cnnespanol.cnn.com/",
+   "city": "Atlanta"
+  },
+  {
+   "id": "us.foxweather",
+   "name": "FOX Weather",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC1FbPiXx59_ltnFVx7IxWow",
+   "youtubeVideoId": "wt6SIE7BXS8",
+   "embeddable": true,
+   "wikidata": "Q107431409",
+   "description": {
+    "en": "American streaming television network"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Fox_Weather"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fox-weather-logo-stacked-color.svg?width=256",
+   "website": "https://www.foxweather.com/",
+   "city": "Manhattan"
+  },
+  {
+   "id": "us.bloomberg",
+   "name": "Bloomberg Television",
+   "category": "economy",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+   "youtubeVideoId": "QB5BNdBFujE",
+   "embeddable": true,
+   "wikidata": "Q13975",
+   "description": {
+    "en": "financial and business cable news channel",
+    "es": "servicio de televisión",
+    "zh-Hans": "电视台",
+    "ja": "ブルームバーグテレビジョンは、経済専門通信社のブルームバーグが運営する経済専門の衛星テレビジョン放送局である。",
+    "fr": "chaîne de télévision internationale spécialisée dans la finance et le commerce",
+    "pt-BR": "Bloomberg Television, identificada no ar como Bloomberg, é um canal norte-americano de notícias de negócios voltado a empresas e mercados de capitais, pertencente à empresa privada de informação e mídia Bloomberg L.P.",
+    "it": "gruppo di canali statunitensi internazionali",
+    "ru": "Bloomberg Television — круглосуточный международный телеканал, мировой лидер деловой и финансовой информации и новостей.",
+    "zh-Hant": "金融和商業有線電視新聞頻道",
+    "tr": "Bloomberg Television, bir borsa kanalı.",
+    "sv": "Bloomberg Television är en 24-timmars global TV-nätverk som sänder affärs- och finansnyheter.",
+    "id": "Bloomberg Television adalah jaringan berita yang mengoptimalkan bisnis dan finansial.",
+    "de": "internationale Nachrichtensendergruppe",
+    "ms": "Bloomberg Television merupakan sebuah saluran televisyen berbayar berita 24 jam di Amerika Syarikat berkisar perniagaan dan kewangan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Bloomberg_Television",
+    "es": "https://es.wikipedia.org/wiki/Bloomberg_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%BD%AD%E5%8D%9A%E9%9B%BB%E8%A6%96",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%90%E3%83%BC%E3%82%B0%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3",
+    "fr": "https://fr.wikipedia.org/wiki/Bloomberg_TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Bloomberg_Television",
+    "it": "https://it.wikipedia.org/wiki/Bloomberg_Television",
+    "ru": "https://ru.wikipedia.org/wiki/Bloomberg_Television",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%BD%AD%E5%8D%9A%E9%9B%BB%E8%A6%96",
+    "tr": "https://tr.wikipedia.org/wiki/Bloomberg_Television",
+    "sv": "https://sv.wikipedia.org/wiki/Bloomberg_Television",
+    "id": "https://id.wikipedia.org/wiki/Bloomberg_Television",
+    "de": "https://de.wikipedia.org/wiki/Bloomberg_Television",
+    "ms": "https://ms.wikipedia.org/wiki/Bloomberg_Television"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bloomberg_Television_2016.png?width=256",
+   "website": "http://www.bloomberg.com/tv/",
+   "city": "Midtown Manhattan"
+  },
+  {
+   "id": "us.yahoofinance",
+   "name": "Yahoo Finance",
+   "category": "economy",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+   "youtubeVideoId": "KQp-e_XQnDE",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "us.cspan",
+   "name": "C-SPAN",
+   "category": "government",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCb--64Gl51jIEVE-GLDAVTg",
+   "youtubeVideoId": "VnRJlQYEOow",
+   "embeddable": true,
+   "wikidata": "Q1022311",
+   "description": {
+    "en": "American television channel",
+    "es": "canal de televisión por suscripción estadounidense",
+    "zh-Hans": "美國有線和衛星電視網絡",
+    "ja": "合衆国議会を中心に、政治を専門に扱うアメリカのケーブルテレビ",
+    "fr": "chaîne de télévision payante américaine",
+    "pt-BR": "canal de televisão por assinatura estadounidense",
+    "ko": "C-SPAN(Cable-Satellite Public Affairs Network)은 미국의 비영리 공공방송이자 1979년 시작된 케이블 텔레비전 네트워크이다.",
+    "it": "rete televisiva statunitense",
+    "ru": "Cable-Satellite Public Affairs Network (C-SPAN) — американская сеть кабельного и спутникового телевидения, которая была создана в 1979 году отраслью кабельного телевидения в качестве некоммерческой общественной службы.",
+    "zh-Hant": "美國有線和衛星電視網絡",
+    "ar": "شبكة تلفزيونية أمريكية",
+    "tr": "Cable-Satellite Public Affairs Network (C-SPAN), 1979 yılında kablolu televizyon sektöründe kâr amacı gütmeyen bir kamu hizmeti olarak kurulan bir Amerikan kablolu ve uydu televizyon ağıdır.",
+    "nl": "Amerikaans televisienetwerk",
+    "sv": "amerikanskt sändningsnätverk",
+    "id": "C-SPAN, akronim untuk Cable-Satellite Public Affairs Network, adalah saluran televisi 24 jam Amerika Serikat yang menayangkan informasi seputar parlemen Amerika Serikat.",
+    "de": "US-amerikanischer Fernsehsender",
+    "ms": "Cable-Satellite Public Affairs Network ialah sebuah rangkaian televisyen kabel dan satelit Amerika yang diwujudkan pada tahun 1979 oleh industri televisyen kabel sebagai tujuan perkhidmatan awam bukan untung."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/C-SPAN",
+    "es": "https://es.wikipedia.org/wiki/C-SPAN",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/C-SPAN",
+    "ja": "https://ja.wikipedia.org/wiki/C-SPAN",
+    "fr": "https://fr.wikipedia.org/wiki/C-Span",
+    "pt-BR": "https://pt.wikipedia.org/wiki/C-SPAN",
+    "ko": "https://ko.wikipedia.org/wiki/C-SPAN",
+    "it": "https://it.wikipedia.org/wiki/C-SPAN",
+    "ru": "https://ru.wikipedia.org/wiki/C-SPAN",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/C-SPAN",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A-%D8%B3%D8%A8%D8%A7%D9%86",
+    "tr": "https://tr.wikipedia.org/wiki/C-SPAN",
+    "nl": "https://nl.wikipedia.org/wiki/C-SPAN",
+    "sv": "https://sv.wikipedia.org/wiki/C-Span",
+    "id": "https://id.wikipedia.org/wiki/C-SPAN",
+    "de": "https://de.wikipedia.org/wiki/C-SPAN",
+    "ms": "https://ms.wikipedia.org/wiki/C-SPAN"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/C-SPAN_Logo_%282019%29.svg?width=256",
+   "website": "https://www.c-span.org/",
+   "city": "Washington, D.C."
+  },
+  {
+   "id": "us.nasa",
+   "name": "NASA",
+   "category": "culture",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+   "youtubeVideoId": "M3HKLzjvKPc",
+   "embeddable": true,
+   "wikidata": "Q23548",
+   "description": {
+    "en": "American space and aeronautics agency",
+    "es": "agencia espacial independiente del Gobierno Federal de los Estados Unidos",
+    "zh-Hans": "美國負責航空事業的政府機構",
+    "ja": "アメリカ合衆国政府の宇宙関連機関",
+    "fr": "agence fédérale indépendante des États-Unis responsable de l'exploration spatiale",
+    "pt-BR": "agência governamental dos Estados Unidos relacionada aos programas espaciais",
+    "ko": "미국 정부의 항공학 및 우주에 관한 연구기관",
+    "it": "agenzia spaziale degli Stati Uniti d'America",
+    "ru": "аэрокосмическое агентство США",
+    "zh-Hant": "美國聯邦政府機構",
+    "ar": "وكالة فضاء تابعة للولايات المتحدة الأمريكية",
+    "tr": "ABD'de uzay programı çalışmalarından sorumlu kurum",
+    "nl": "Amerikaanse ruimtevaartorganisatie",
+    "pl": "amerykańska agencja kosmiczna",
+    "sv": "amerikansk myndighet för luft- och rymdfart",
+    "id": "perusahaan asal Amerika Serikat",
+    "de": "Luft- und Raumfahrtbehörde der USA",
+    "ms": "Pentadbiran Aeronautik dan Angkasa Lepas Kebangsaan Amerika atau singkatannya NASA merupakan badan pemerintah Amerika Syarikat yang bertanggungjawab mengelola dan mentadbir program angkasa lepas dijalankan di negara tersebut."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NASA",
+    "es": "https://es.wikipedia.org/wiki/NASA",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%B1%80",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%B1%80",
+    "fr": "https://fr.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
+    "pt-BR": "https://pt.wikipedia.org/wiki/NASA",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD_%ED%95%AD%EA%B3%B5_%EC%9A%B0%EC%A3%BC%EA%B5%AD",
+    "it": "https://it.wikipedia.org/wiki/NASA",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%90%D0%A1%D0%90",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%B1%80",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%86%D8%A7%D8%B3%D8%A7",
+    "tr": "https://tr.wikipedia.org/wiki/NASA",
+    "nl": "https://nl.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
+    "pl": "https://pl.wikipedia.org/wiki/NASA",
+    "sv": "https://sv.wikipedia.org/wiki/NASA",
+    "id": "https://id.wikipedia.org/wiki/Badan_Penerbangan_dan_Antariksa",
+    "de": "https://de.wikipedia.org/wiki/NASA",
+    "ms": "https://ms.wikipedia.org/wiki/Pentadbiran_Aeronautik_dan_Angkasa_Kebangsaan"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NASA_logo.svg?width=256",
+   "website": "https://www.nasa.gov/",
+   "city": "Washington, D.C."
+  }
+ ]
+}

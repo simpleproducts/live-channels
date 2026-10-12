@@ -1,0 +1,13 @@
+{
+ "code": "CA",
+ "languages": ["en", "fr"],
+ "defaultTiles": ["cbcnews"],
+ "channels": [
+  {"id": "cbcnews", "name": "CBC News", "category": "news", "youtubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA", "youtubeVideoId": "5vfaDsMhCF4", "embeddable": true},
+  {"id": "ctvnews", "name": "CTV News", "category": "news", "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg"},
+  {"id": "globalnews", "name": "Global News", "category": "news", "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg"},
+  {"id": "noovo", "name": "Noovo Info", "category": "news", "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg", "languages": ["fr"]},
+  {"id": "bnn", "name": "BNN Bloomberg", "category": "economy", "youtubeChannelId": "UC5aNPmKYwbudeNngDMTY3lw"},
+  {"id": "cpac", "name": "CPAC", "category": "government", "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ", "languages": ["en", "fr"]}
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "schema": 2,
+ "code": "AU",
+ "version": 2026101214,
+ "defaultTiles": [
+  "au.abcnews",
+  "au.aph"
+ ],
+ "channels": [
+  {
+   "id": "au.abcnews",
+   "name": "ABC News (Australia)",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
+   "youtubeVideoId": "vOTiJkg1voo",
+   "embeddable": true,
+   "wikidata": "Q4650197",
+   "description": {
+    "en": "news service by the Australian Broadcasting Corporation",
+    "zh-Hans": "澳大利亚广播公司新闻部",
+    "ja": "ABCニュース は、オーストラリアの公共ニュース配信サービス。オーストラリア放送協会が運営している。",
+    "fr": "Service d'information de l'Australian Broadcasting Corporation",
+    "it": "telegiornale australiano",
+    "zh-Hant": "澳大利亚广播公司新闻部",
+    "ar": "هي خدمة إخبارية عامة تنتجها هيئة البث الأسترالية. تغطي الخدمة الأمور المحلية والعالمية، وتبث على المستوى الوطني تحت اسم أيه بي سي نيوز، وفي جميع أنحاء منطقة آسيا والمحيط الهادئ تحت عنوان أيه بي سي أستراليا.",
+    "tr": "ABC News, Australian Broadcasting Corporation'ın haber servisi bölümüdür.",
+    "nl": "nieuwprogramma uit Australië",
+    "id": "ABC News, atau ABC News and Current Affairs, adalah layanan berita publik yang diproduksi oleh Australian Broadcasting Corporation.",
+    "ms": "ABC News, juga dikenali sebagai ABC News and Current Affairs dan di luar negara sebagai ABC Australia, ialah perkhidmatan berita awam yang diterbitkan oleh Australian Broadcasting Corporation."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ABC_News_(Australia)",
+    "ja": "https://ja.wikipedia.org/wiki/ABC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9_(%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2)",
+    "fr": "https://fr.wikipedia.org/wiki/ABC_News_(Australie)",
+    "it": "https://it.wikipedia.org/wiki/ABC_News_(Australia)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D9%8A%D9%87_%D8%A8%D9%8A_%D8%B3%D9%8A_%D9%86%D9%8A%D9%88%D8%B2_%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7",
+    "tr": "https://tr.wikipedia.org/wiki/ABC_News_(Avustralya)",
+    "id": "https://id.wikipedia.org/wiki/ABC_News_(Australia)",
+    "ms": "https://ms.wikipedia.org/wiki/ABC_News_(Australia)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ABC_News_%282017%29.svg?width=256",
+   "website": "https://www.abc.net.au/news",
+   "city": "Sydney"
+  },
+  {
+   "id": "au.aph",
+   "name": "Parliament of Australia",
+   "category": "government",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCzx6ti0rql6Q2Dc2zSAPmuA",
+   "youtubeVideoId": "O8Tk9AZAgZM",
+   "embeddable": true,
+   "wikidata": "Q382118",
+   "description": {
+    "en": "bicameral national legislature of Australia",
+    "es": "órgano legislativo de Australia",
+    "zh-Hans": "澳大利亚立法机构",
+    "ja": "オーストラリアの立法府",
+    "fr": "parlement bicaméral de l'Australie",
+    "pt-BR": "legislativo do governo da Austrália",
+    "ko": "오스트레일리아의 입법부이다.",
+    "it": "organo legislativo australiano",
+    "ru": "Законодательный орган Австралии",
+    "zh-Hant": "澳洲立法機構",
+    "ar": "برلمان أستراليا هو الفرع التشريعي لحكومة أستراليا.",
+    "tr": "Avustralya Parlamentosu Avustralya hükûmeti ve meclisinin yasama ve yürütme hizmetlerini gerçekleştirdiği binadır.",
+    "nl": "Het Parlement van Australië is de wetgevende macht in Australië.",
+    "pl": "Parlament Australii – główny organ władzy ustawodawczej na szczeblu federalnym w Australii.",
+    "sv": "Federal lagstiftande församling för Australien",
+    "id": "Parlemen Australia adalah badan legislatif Australia.",
+    "de": "legislatives Organ des Commonwealth of Australia",
+    "ms": "Parlimen Australia, yang dinamakan Parlimen Persekutuan dalam Perlembagaan Australia dan turut dikenali sebagai Parlimen Komanwel, ialah badan perundangan persekutuan Australia."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Parliament_of_Australia",
+    "es": "https://es.wikipedia.org/wiki/Parlamento_de_Australia",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%9B%BD%E4%BC%9A",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E9%80%A3%E9%82%A6%E8%AD%B0%E4%BC%9A",
+    "fr": "https://fr.wikipedia.org/wiki/Parlement_d'Australie",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Parlamento_da_Austr%C3%A1lia",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%98%A4%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%BC%EB%A6%AC%EC%95%84_%EC%9D%98%ED%9A%8C",
+    "it": "https://it.wikipedia.org/wiki/Parlamento_federale_(Australia)",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B8",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%9B%BD%E4%BC%9A",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7",
+    "tr": "https://tr.wikipedia.org/wiki/Avustralya_Parlamentosu",
+    "nl": "https://nl.wikipedia.org/wiki/Parlement_van_Australi%C3%AB",
+    "pl": "https://pl.wikipedia.org/wiki/Parlament_Australii",
+    "sv": "https://sv.wikipedia.org/wiki/Australiens_parlament",
+    "id": "https://id.wikipedia.org/wiki/Parlemen_Australia",
+    "de": "https://de.wikipedia.org/wiki/Australisches_Parlament",
+    "ms": "https://ms.wikipedia.org/wiki/Parlimen_Australia"
+   },
+   "logo": null,
+   "website": "https://www.aph.gov.au/",
+   "city": "Canberra"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "schema": 2,
+ "code": "JP",
+ "version": 2026101214,
+ "defaultTiles": [
+  "jp.ann",
+  "jp.tbs",
+  "jp.ntvnews",
+  "jp.fnn",
+  "jp.nhkworld",
+  "jp.weathernews",
+  "jp.tvtokyobiz",
+  "jp.mbs",
+  "jp.htb"
+ ],
+ "channels": [
+  {
+   "id": "jp.ann",
+   "name": "ANNnewsCH",
+   "category": "news",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
+   "youtubeVideoId": "V1Oa0GYWp8w",
+   "embeddable": true,
+   "wikidata": "Q843772",
+   "description": {
+    "en": "Japanese television network",
+    "zh-Hans": "日本电视台",
+    "ja": "日本のテレビ放送網兼ニュース系列（テレ朝系列）",
+    "fr": "réseau de télévision commercial japonais",
+    "ko": "일본의 TV 아사히(키국)와 아사히방송(준키국) 뉴스 가맹국",
+    "it": "rete televisiva giapponese",
+    "zh-Hant": "日本電視聯播網",
+    "ar": "شبكة أخبار أولنيبون أو ANN هي شبكة تلفزيون إخبارية في اليابان تنشر بواسطة شركة تلفزيون أساهي.",
+    "id": "All-Nippon News Network , atau ANN, adalah jaringan televisi komersial Jepang yang dijalankan oleh TV Asahi Corporation."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/All-Nippon_News_Network",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%85%A8%E6%97%A5%E6%9C%AC%E6%96%B0%E8%81%9E%E7%B6%B2",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF",
+    "fr": "https://fr.wikipedia.org/wiki/All-Nippon_News_Network",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%98%AC_%EB%8B%9B%ED%8F%B0_%EB%89%B4%EC%8A%A4_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC",
+    "it": "https://it.wikipedia.org/wiki/All-Nippon_News_Network",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%85%A8%E6%97%A5%E6%9C%AC%E6%96%B0%E8%81%9E%E7%B6%B2",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%83%D8%A9_%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A3%D9%88%D9%84%D9%86%D9%8A%D8%A8%D9%88%D9%86",
+    "id": "https://id.wikipedia.org/wiki/All-Nippon_News_Network"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ANN_logo.svg?width=256",
+   "website": "https://news.tv-asahi.co.jp/",
+   "city": "港区"
+  },
+  {
+   "id": "jp.tbs",
+   "name": "TBS NEWS DIG",
+   "category": "news",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
+   "youtubeVideoId": "ZmgqaN9gDZY",
+   "embeddable": true,
+   "wikidata": "Q16143608",
+   "description": {
+    "en": "Internet news website",
+    "zh-Hans": "日本新闻网站",
+    "ja": "TBSが運営するニュースサイト",
+    "zh-Hant": "日本新闻网站"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/TBS_NEWS_DIG",
+    "ja": "https://ja.wikipedia.org/wiki/TBS_NEWS_DIG",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/TBS_NEWS_DIG"
+   },
+   "logo": null,
+   "website": "https://newsdig.tbs.co.jp/",
+   "city": null
+  },
+  {
+   "id": "jp.ntvnews",
+   "name": "日テレNEWS",
+   "category": "news",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
+   "youtubeVideoId": "hOGlDgPuOAU",
+   "embeddable": true,
+   "wikidata": "Q11504671",
+   "description": {
+    "en": "Japanese television news network",
+    "zh-Hans": "NTV NEWS24 是日本電視台運營的新聞頻道和新聞網站。該頻道舊名「ncn 」、「NNN24」，自2005年改為現名。NTV NEWS24自1987年10月1日開始播出，是日本第一家專業新聞頻道。NTV NEWS24的早间新闻节目《Oha!4 NEWS LIVE》也在日本電視台等NNN成员台播出。",
+    "ja": "日テレ（日本テレビ）のニュース専門放送局/ニュースサイト",
+    "zh-Hant": "NTV NEWS24 是日本電視台運營的新聞頻道和新聞網站。該頻道舊名「ncn 」、「NNN24」，自2005年改為現名。NTV NEWS24自1987年10月1日開始播出，是日本第一家專業新聞頻道。NTV NEWS24的早间新闻节目《Oha!4 NEWS LIVE》也在日本電視台等NNN成员台播出。"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NTV_News24",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/NTV_NEWS24",
+    "ja": "https://ja.wikipedia.org/wiki/%E6%97%A5%E3%83%86%E3%83%ACNEWS24",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/NTV_NEWS24"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NEWS24NTV_live-logo.svg?width=256",
+   "website": "https://news.ntv.co.jp/",
+   "city": "東京都"
+  },
+  {
+   "id": "jp.fnn",
+   "name": "FNNプライムオンライン",
+   "category": "news",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
+   "youtubeVideoId": "6MVkqYNAqsg",
+   "embeddable": true,
+   "wikidata": "Q124919956",
+   "description": {
+    "ja": "フジテレビ系FNN28局のニュースサイト"
+   },
+   "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/FNN%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3"
+   },
+   "logo": null,
+   "website": "https://www.fnn.jp/",
+   "city": null
+  },
+  {
+   "id": "jp.nhkworld",
+   "name": "NHK WORLD-JAPAN",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A",
+   "youtubeVideoId": "IimtbuqYIE8",
+   "embeddable": true,
+   "wikidata": "Q1191688",
+   "description": {
+    "en": "international service of the Japanese public radio-television",
+    "es": "Servicio de radiodifusión internacional de Japón",
+    "zh-Hans": "NHK的对外广播电视服务",
+    "ja": "NHKのテレビ、ラジオ、インターネットによる国際放送",
+    "fr": "service exterieur de la radio-télévision japonaise",
+    "pt-BR": "serviço internacional da emissora pública japonesa NHK",
+    "ko": "일본방송협회 국제 위성 채널",
+    "it": "NHK World-Japan è il braccio internazionale della emittente pubblica NHK giapponese.",
+    "ru": "NHK World — японский общественный телеканал.",
+    "zh-Hant": "NHK的对外广播电视服务",
+    "ar": "إن إتش كي وورلد أو ''إن إتش كي وورلد اليابان'' هي الخدمات الإذاعية والتلفزيونية الموجهة إلى خارج اليابان والتي تقدمها هيئة الإذاعة والتلفزيون اليابانية NHK.",
+    "tr": "Haber kanalı",
+    "nl": "Japanse televisiezender",
+    "pl": "NHK World-Japan – japoński państwowy, międzynarodowy kanał telewizyjny i radiowy należący do NHK.",
+    "id": "stasiun radio",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NHK_World-Japan",
+    "es": "https://es.wikipedia.org/wiki/NHK_World",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/NHK%E6%97%A5%E6%9C%AC%E5%9B%BD%E9%99%85%E4%BC%A0%E5%AA%92",
+    "ja": "https://ja.wikipedia.org/wiki/NHK%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_JAPAN",
+    "fr": "https://fr.wikipedia.org/wiki/NHK_World-Japan",
+    "pt-BR": "https://pt.wikipedia.org/wiki/NHK_World-Japan",
+    "ko": "https://ko.wikipedia.org/wiki/NHK_%EC%9B%94%EB%93%9C_%EC%9E%AC%ED%8C%AC",
+    "it": "https://it.wikipedia.org/wiki/NHK_World-Japan",
+    "ru": "https://ru.wikipedia.org/wiki/NHK_World",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/NHK%E6%97%A5%E6%9C%AC%E5%9B%BD%E9%99%85%E4%BC%A0%E5%AA%92",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86_%D8%A5%D8%AA%D8%B4_%D9%83%D9%8A_%D9%88%D9%88%D8%B1%D9%84%D8%AF",
+    "tr": "https://tr.wikipedia.org/wiki/NHK_World-Japan",
+    "nl": "https://nl.wikipedia.org/wiki/NHK_World",
+    "pl": "https://pl.wikipedia.org/wiki/NHK_World-Japan",
+    "id": "https://id.wikipedia.org/wiki/NHK_World",
+    "de": "https://de.wikipedia.org/wiki/NHK_World-Japan"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NHK_World.svg?width=256",
+   "website": "http://www.nhk.or.jp/nhkworld/",
+   "city": null
+  },
+  {
+   "id": "jp.weathernews",
+   "name": "ウェザーニュース",
+   "category": "news",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
+   "youtubeVideoId": "ZMZGyeZa-Qs",
+   "embeddable": true,
+   "wikidata": "Q492412",
+   "description": {
+    "en": "Commercial weather service company based in Chiba, Japan.",
+    "zh-Hans": "日本公司",
+    "ja": "日本の気象情報会社",
+    "ko": "웨더뉴스(Weathernews INC, WNI)는 미국과 일본에 글로벌센터를 운영하는 기상 정보 회사이다.",
+    "zh-Hant": "日本公司",
+    "ar": "شركة يابانية",
+    "nl": "bedrijf uit Japan",
+    "de": "Unternehmen in Japan"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Weathernews_Inc.",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B0%A3%E8%B1%A1%E6%96%B0%E8%81%9E%E5%85%AC%E5%8F%B8",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9B%A8%EB%8D%94%EB%89%B4%EC%8A%A4",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B0%A3%E8%B1%A1%E6%96%B0%E8%81%9E%E5%85%AC%E5%8F%B8"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Weathernews_logo.svg?width=256",
+   "website": "https://jp.weathernews.com/",
+   "city": "美浜区"
+  },
+  {
+   "id": "jp.kyodo",
+   "name": "共同通信",
+   "category": "news",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q779730",
+   "description": {
+    "en": "news agency",
+    "es": "noticiario japonés",
+    "zh-Hans": "總部位於日本東京的通訊社",
+    "ja": "日本の通信社",
+    "fr": "agence de presse japonaise",
+    "pt-BR": "Kyodo News é uma agência de notícias cooperativa sem fins lucrativos, com sede em Minato, Tóquio, no Japão, fundada a 1 de novembro de 1945.",
+    "ko": "일본의 뉴스 제공 서비스",
+    "it": "Kyodo News è un'agenzia di stampa; si tratta di una società cooperativa senza scopo di lucro con sede a Minato, Tokyo.",
+    "ru": "Киодо Цусин (яп.",
+    "zh-Hant": "總部位於日本東京的通訊社",
+    "tr": "Japon haber ajansı",
+    "nl": "Kyodo News is een non-profit coöperatief persbureau uit Minato, Tokio.",
+    "pl": "Kyodo – japońska agencja prasowa non-profit, działająca od listopada 1945 r.",
+    "id": "perusahaan asal Jepang",
+    "de": "Nachrichtenagentur",
+    "ms": "agensi berita Jepun"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Kyodo_News",
+    "es": "https://es.wikipedia.org/wiki/Kyodo_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%85%B1%E5%90%8C%E9%80%9A%E8%AE%AF%E7%A4%BE",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E7%A4%BE",
+    "fr": "https://fr.wikipedia.org/wiki/Kyodo_News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Kyodo_News",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B5%90%EB%8F%84_%ED%86%B5%EC%8B%A0%EC%82%AC",
+    "it": "https://it.wikipedia.org/wiki/Kyodo_News",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BE%D0%B4%D0%BE_%D0%A6%D1%83%D1%81%D0%B8%D0%BD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%85%B1%E5%90%8C%E9%80%9A%E8%AE%AF%E7%A4%BE",
+    "tr": "https://tr.wikipedia.org/wiki/Kyodo_News",
+    "nl": "https://nl.wikipedia.org/wiki/Kyodo_News",
+    "pl": "https://pl.wikipedia.org/wiki/Kyodo",
+    "id": "https://id.wikipedia.org/wiki/Kyodo_News",
+    "de": "https://de.wikipedia.org/wiki/Ky%C5%8Dd%C5%8D_Ts%C5%ABshinsha",
+    "ms": "https://ms.wikipedia.org/wiki/Kyodo_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyodo_News_logo.svg?width=256",
+   "website": "https://www.kyodonews.jp/",
+   "city": "港区"
+  },
+  {
+   "id": "jp.tvtokyobiz",
+   "name": "テレ東BIZ",
+   "category": "economy",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+   "youtubeVideoId": "C_zfl4FLaOQ",
+   "embeddable": true,
+   "wikidata": "Q111151900",
+   "description": {
+    "ja": "経済動画サービス"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://txbiz.tv-tokyo.co.jp",
+   "city": null
+  },
+  {
+   "id": "jp.mbs",
+   "name": "MBSニュース",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
+   "youtubeVideoId": "soT0yMSldwI",
+   "embeddable": true,
+   "wikidata": "Q11231222",
+   "description": {
+    "ja": "毎日放送（MBSテレビ）とMBSラジオが放送しているニュース番組のタイトル・総称"
+   },
+   "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/MBS%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9"
+   },
+   "logo": null,
+   "website": "https://newsdig.tbs.co.jp/list/mbs/",
+   "city": null
+  },
+  {
+   "id": "jp.htb",
+   "name": "HTB北海道ニュース",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
+   "youtubeVideoId": "tvgbZZYS4Nk",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.satv",
+   "name": "静岡朝日テレビニュース",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCvF5vIejmf-H_XSluaBldfg",
+   "youtubeVideoId": "52hB_eOFukI",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

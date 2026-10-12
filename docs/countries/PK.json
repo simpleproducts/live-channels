@@ -1,0 +1,255 @@
+{
+ "schema": 2,
+ "code": "PK",
+ "version": 2026101214,
+ "defaultTiles": [
+  "pk.samaa",
+  "pk.geonews",
+  "pk.arynews",
+  "pk.dunyanews",
+  "pk.expressnews",
+  "pk.92news",
+  "pk.dawnnews",
+  "pk.ptvnews",
+  "pk.humnews"
+ ],
+ "channels": [
+  {
+   "id": "pk.samaa",
+   "name": "Samaa TV",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
+   "youtubeVideoId": "ulHIuDuicwc",
+   "embeddable": true,
+   "wikidata": "Q7388622",
+   "description": {
+    "en": "Pakistani TV network",
+    "id": "Samaa TV merupakan saluran televisi berita dari Pakistan yang dimiliki oleh Aleem Khan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Samaa_TV",
+    "id": "https://id.wikipedia.org/wiki/Samaa_TV"
+   },
+   "logo": null,
+   "website": "http://www.samaa.tv",
+   "city": "کراچی"
+  },
+  {
+   "id": "pk.geonews",
+   "name": "Geo News",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
+   "youtubeVideoId": "t3fvgmDDmdc",
+   "embeddable": true,
+   "wikidata": "Q5513202",
+   "description": {
+    "en": "Pakistani pay television news channel",
+    "ar": "جيو نيوز هي قناة إخبارية باكستانية خاصة.",
+    "id": "Geo News merupakan stasiun televisi berita dari Pakistan milik Jang Media Group."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Geo_News",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AC%D9%8A%D9%88_%D9%86%D9%8A%D9%88%D8%B2",
+    "id": "https://id.wikipedia.org/wiki/GEO_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/GEO_News_logo_in_Urdu.png?width=256",
+   "website": "https://www.geo.tv/",
+   "city": "کراچی"
+  },
+  {
+   "id": "pk.arynews",
+   "name": "ARY News",
+   "category": "news",
+   "languages": [
+    "en",
+    "ur"
+   ],
+   "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
+   "youtubeVideoId": "73UT_57r-vM",
+   "embeddable": true,
+   "wikidata": "Q4653979",
+   "description": {
+    "en": "Pakistani news channel",
+    "es": "canal de noticias Pakistaní",
+    "ar": "قناة اخبارية باكستانية",
+    "id": "Stasiun televisi berita asal Pakistan"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ARY_News",
+    "es": "https://es.wikipedia.org/wiki/ARY_News",
+    "id": "https://id.wikipedia.org/wiki/ARY_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arynews.jpg?width=256",
+   "website": "https://arynews.tv/",
+   "city": "کراچی"
+  },
+  {
+   "id": "pk.dunyanews",
+   "name": "Dunya News",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UCnMBV5Iw4WqKILKue1nP6Hg",
+   "youtubeVideoId": "U97a4VmHJPk",
+   "embeddable": true,
+   "wikidata": "Q5315817",
+   "description": {
+    "en": "television channel",
+    "fr": "station de télévision pakistanaise",
+    "id": "Dunya News merupakan stasiun televisi berita dari Pakistan yang bersiaran menggunakan bahasa Urdu selama 24 jam sehari."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Dunya_News",
+    "id": "https://id.wikipedia.org/wiki/Dunya_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunya_News_Logo.svg?width=256",
+   "website": "https://dunyanews.tv/",
+   "city": null
+  },
+  {
+   "id": "pk.expressnews",
+   "name": "Express News",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UCTur7oM6mLL0rM2k0znuZpQ",
+   "youtubeVideoId": "KNvaWHgOBMw",
+   "embeddable": true,
+   "wikidata": "Q2787411",
+   "description": {
+    "en": "Pakistan private TV Channel",
+    "id": "Express News merupakan stasiun televisi berita dari Pakistan milik Lakson Group, yang mengelola surat kabar \"Daily Express\"."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Express_News_(TV_channel)",
+    "id": "https://id.wikipedia.org/wiki/Express_News_(saluran_televisi)"
+   },
+   "logo": null,
+   "website": "https://www.express.pk/",
+   "city": null
+  },
+  {
+   "id": "pk.92news",
+   "name": "92 News HD",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UCsgC5cbz3DE2Shh34gNKiog",
+   "youtubeVideoId": "kZK2BiSdC68",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pk.dawnnews",
+   "name": "Dawn News",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+   "youtubeVideoId": "CxtDizYfoQE",
+   "embeddable": true,
+   "wikidata": "Q5242486",
+   "description": {
+    "en": "Pakistani Urdu-language television channel",
+    "zh-Hans": "巴基斯坦电视频道",
+    "zh-Hant": "巴基斯坦电视频道",
+    "id": "Dawn News merupakan stasiun televisi berita dari Pakistan milik Pakistan Herald Publications Limited (PHPL)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Dawn_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%BB%8E%E6%98%8E%E6%96%B0%E9%97%BB",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%BB%8E%E6%98%8E%E6%96%B0%E9%97%BB",
+    "id": "https://id.wikipedia.org/wiki/Dawn_News"
+   },
+   "logo": null,
+   "website": "https://www.dawnnews.tv/",
+   "city": "کراچی"
+  },
+  {
+   "id": "pk.ptvnews",
+   "name": "PTV News",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UC5RvV_LtR1dxPCVFGw6dxXA",
+   "youtubeVideoId": "EYzDPf85IBg",
+   "embeddable": true,
+   "wikidata": "Q6583157",
+   "description": {
+    "en": "Pakistani News channel",
+    "zh-Hans": "巴基斯坦的一个新闻频道",
+    "zh-Hant": "巴基斯坦的一个新闻频道"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/PTV_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/PTV_News_logo.jpg?width=256",
+   "website": "http://news.ptv.com.pk/",
+   "city": "اسلام آباد"
+  },
+  {
+   "id": "pk.humnews",
+   "name": "Hum News",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UC0Um3pnZ2WGBEeoA3BX2sKw",
+   "youtubeVideoId": "cleNtpjod6Q",
+   "embeddable": true,
+   "wikidata": "Q56278122",
+   "description": {
+    "en": "Pakistani news channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Hum_News"
+   },
+   "logo": null,
+   "website": "http://www.humnews.pk/",
+   "city": "اسلام آباد"
+  },
+  {
+   "id": "pk.gnn",
+   "name": "GNN",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UC35KuZBNIj4S5Ls0yjY-UHQ",
+   "youtubeVideoId": "Pzv58lUgiVo",
+   "embeddable": true,
+   "wikidata": "Q5013089",
+   "description": {
+    "en": "News channel",
+    "es": "G News Network, comúnmente conocida como GNN, es un canal de televisión pakistaní de noticias y asuntos actuales de 24 horas con sede en Lahore, Pakistán.",
+    "id": "perusahaan asal Amerika Serikat",
+    "ms": "GNN adalah stesen televisyen berkabel Pakistan yang merupakan affliasi dari CNBC Asia, saluran konsumen berita dan urusniaga di Asia."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/GNN_(Pakistani_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/GNN_(canal_de_noticias)",
+    "id": "https://id.wikipedia.org/wiki/Gourmet_News_Network",
+    "ms": "https://ms.wikipedia.org/wiki/CNBC_Pakistan"
+   },
+   "logo": null,
+   "website": "http://www.gnnhd.tv/",
+   "city": "لاہور"
+  }
+ ]
+}

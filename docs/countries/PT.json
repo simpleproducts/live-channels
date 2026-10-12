@@ -1,0 +1,141 @@
+{
+ "schema": 2,
+ "code": "PT",
+ "version": 2026101214,
+ "defaultTiles": [
+  "pt.euronewspt"
+ ],
+ "channels": [
+  {
+   "id": "pt.euronewspt",
+   "name": "Euronews em português",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw",
+   "youtubeVideoId": "XuZAl-ZPEcA",
+   "embeddable": true,
+   "wikidata": "Q8478",
+   "description": {
+    "en": "pan-European news television channel",
+    "es": "emisora de televisión de noticias europea",
+    "zh-Hans": "欧洲电视台",
+    "ja": "ヨーロッパのニュース専門放送局",
+    "fr": "chaîne de télévision européenne",
+    "pt-BR": "estação televisiva da França",
+    "ko": "유로뉴스(영어: Euronews)는 여러 언어(영어, 독일어, 스페인어, 러시아어, 아랍어, 프랑스어, 이탈리아어, 페르시아어, 폴란드어, 포르투갈어, 튀르키예어, 우크라이나어)로 시청 가능한 방송되는 국제적 TV 채널이다.",
+    "it": "rete televisiva paneuropea",
+    "ru": "европейский телеканал",
+    "zh-Hant": "欧洲电视台",
+    "ar": "قناة تلفزيونية اخبارية اوروبية",
+    "tr": "Avrupa ağırlıklı yayın yapmakta olan çok dilli haber kanalı",
+    "nl": "Europese televisiezender",
+    "pl": "stacja telewizyjna",
+    "sv": "Euronews är en paneuropeisk nyhetskanal som sänds i flera olika språkversioner.",
+    "id": "Saluran televisi berita Pan-Eropa",
+    "de": "paneuropäischer Fernsehsender",
+    "ms": "Euronews merupakan sebuah saluran televisyen berita yang dilancarkan pada 1 Januari 1993."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Euronews",
+    "es": "https://es.wikipedia.org/wiki/Euronews",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%AC%A7%E6%B4%B2%E6%96%B0%E9%97%BB%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "fr": "https://fr.wikipedia.org/wiki/Euronews",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Euronews",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%A1%9C%EB%89%B4%EC%8A%A4",
+    "it": "https://it.wikipedia.org/wiki/Euronews",
+    "ru": "https://ru.wikipedia.org/wiki/Euronews",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%AC%A7%E6%B4%B2%E6%96%B0%E9%97%BB%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D8%B1%D9%88%D9%86%D9%8A%D9%88%D8%B2",
+    "tr": "https://tr.wikipedia.org/wiki/Euronews",
+    "nl": "https://nl.wikipedia.org/wiki/Euronews",
+    "pl": "https://pl.wikipedia.org/wiki/Euronews",
+    "sv": "https://sv.wikipedia.org/wiki/Euronews",
+    "id": "https://id.wikipedia.org/wiki/Euronews",
+    "de": "https://de.wikipedia.org/wiki/Euronews",
+    "ms": "https://ms.wikipedia.org/wiki/Euronews"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Euronews_2022.svg?width=256",
+   "website": "http://www.euronews.com/",
+   "city": "Lyon"
+  },
+  {
+   "id": "pt.observador",
+   "name": "Observador",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q25442845",
+   "description": {
+    "en": "Portuguese electronic newspaper",
+    "es": "periódico electrónico portugués",
+    "fr": "site web d'information portugais",
+    "pt-BR": "jornal online português",
+    "ar": "صحيفة يمينية برتغالية",
+    "sv": "portugisisk daglig nättidning"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Observador",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Observador_(jornal)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%A8%D8%B3%D9%8A%D8%B1%D9%81%D8%A7%D8%AF%D9%88%D8%B1",
+    "sv": "https://sv.wikipedia.org/wiki/Observador"
+   },
+   "logo": null,
+   "website": "https://observador.pt/",
+   "city": null
+  },
+  {
+   "id": "pt.canalparlamento",
+   "name": "ARTV Canal Parlamento",
+   "category": "government",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pt.renascenca",
+   "name": "Rádio Renascença",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q1509626",
+   "description": {
+    "en": "Radio station",
+    "es": "Rádio Renascença es una cadena de radio de Portugal que está gestionada por la Iglesia católica, a través del Patriarcado de Lisboa.",
+    "fr": "Rádio Renascença ou Radio Renaissance est une radio portugaise appartenant à l'Église catholique.",
+    "pt-BR": "Emissora Católica Portuguesa",
+    "id": "stasiun radio",
+    "de": "private Hörfunksender in Portugal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/R%C3%A1dio_Renascen%C3%A7a",
+    "es": "https://es.wikipedia.org/wiki/R%C3%A1dio_Renascen%C3%A7a",
+    "fr": "https://fr.wikipedia.org/wiki/R%C3%A1dio_Renascen%C3%A7a",
+    "pt-BR": "https://pt.wikipedia.org/wiki/R%C3%A1dio_Renascen%C3%A7a",
+    "de": "https://de.wikipedia.org/wiki/R%C3%A1dio_Renascen%C3%A7a"
+   },
+   "logo": null,
+   "website": "http://rr.sapo.pt/",
+   "city": "Lisboa"
+  }
+ ]
+}

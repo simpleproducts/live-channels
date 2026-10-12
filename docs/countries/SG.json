@@ -1,0 +1,75 @@
+{
+ "schema": 2,
+ "code": "SG",
+ "version": 2026101214,
+ "defaultTiles": [
+  "sg.cna"
+ ],
+ "channels": [
+  {
+   "id": "sg.cna",
+   "name": "CNA",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC83jt4dlz1Gjl58fzQrrKZg",
+   "youtubeVideoId": "XWq5kBlakcQ",
+   "embeddable": true,
+   "wikidata": "Q40238",
+   "description": {
+    "en": "English language Asia-Pacific news channel based in Singapore",
+    "zh-Hans": "新加坡电视新闻频道",
+    "ja": "シンガポール拠点のアジア太平洋地域の英文ニュースチャンネル",
+    "fr": "réseau d'information de langue anglaise basé à Singapour",
+    "ko": "채널 뉴스아시아(영어: Channel NewsAsia, CNA, 문화어: 아시아 소식 통로)는 싱가포르의 방송이다.",
+    "ru": "сингапурский новостной канал",
+    "zh-Hant": "新加坡电视新闻频道",
+    "pl": "singapurski kanał telewizyjny",
+    "id": "CNA adalah stasiun televisi berita yang berbasis di Singapura.",
+    "de": "singapurischer Nachrichtensender",
+    "ms": "Saluran berita Asia berbahasa Inggeris dari MediaCorp"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNA_(TV_network)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/CNA_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B1%84%EB%84%90_%EB%89%B4%EC%8A%A4%EC%95%84%EC%8B%9C%EC%95%84",
+    "ru": "https://ru.wikipedia.org/wiki/Channel_NewsAsia",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB%E5%8F%B0",
+    "pl": "https://pl.wikipedia.org/wiki/CNA_(singapurski_kana%C5%82_telewizyjny)",
+    "id": "https://id.wikipedia.org/wiki/CNA_(saluran_berita)",
+    "de": "https://de.wikipedia.org/wiki/Channel_NewsAsia",
+    "ms": "https://ms.wikipedia.org/wiki/CNA"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Channel_NewsAsia_logo_%28shape_only%29.svg?width=256",
+   "website": "https://www.channelnewsasia.com",
+   "city": null
+  },
+  {
+   "id": "sg.8world",
+   "name": "8world",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCUqUtr0w-K8W4AfpbHiYSaQ",
+   "youtubeVideoId": "qZsyZ03n340",
+   "embeddable": true,
+   "wikidata": "Q15940701",
+   "description": {
+    "en": "Chinese-language news department based in Singapore",
+    "zh-Hans": "新加坡新聞節目",
+    "zh-Hant": "新加坡新聞節目"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/8world",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/8%E8%A7%86%E7%95%8C%E6%96%B0%E9%97%BB",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/8%E8%A7%86%E7%95%8C%E6%96%B0%E9%97%BB"
+   },
+   "logo": null,
+   "website": "http://www.channel8news.sg/",
+   "city": null
+  }
+ ]
+}

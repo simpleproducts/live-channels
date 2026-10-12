@@ -1,0 +1,1381 @@
+{
+ "schema": 2,
+ "code": "AR",
+ "version": 2026101214,
+ "defaultTiles": [
+  "ar.tn",
+  "ar.c5n",
+  "ar.lnmas",
+  "ar.a24",
+  "ar.canal26",
+  "ar.cronica",
+  "ar.tvpublica",
+  "ar.telefe",
+  "ar.eltrece"
+ ],
+ "channels": [
+  {
+   "id": "ar.tn",
+   "name": "TN",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+   "youtubeVideoId": "cb12KmMMDJA",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.c5n",
+   "name": "C5N",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCFgk2Q2mVO1BklRQhSv6p0w",
+   "youtubeVideoId": "j6oh4Kqz3UM",
+   "embeddable": true,
+   "wikidata": "Q5030977",
+   "description": {
+    "en": "Argentine news television channel",
+    "es": "canal de noticias de Argentina",
+    "pt-BR": "Canal de televisão argentino da notícias",
+    "it": "rete televisiva argentina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_5_Noticias",
+    "es": "https://es.wikipedia.org/wiki/C5N",
+    "pt-BR": "https://pt.wikipedia.org/wiki/C5N",
+    "it": "https://it.wikipedia.org/wiki/C5N"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/C5N_2017_Alternate.svg?width=256",
+   "website": "https://www.c5n.com/",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.lnmas",
+   "name": "LN+",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCba3hpU7EFBSk817y9qZkiA",
+   "youtubeVideoId": "FEWZjXJ7M0c",
+   "embeddable": true,
+   "wikidata": "Q27478538",
+   "description": {
+    "en": "Argentine news television channel",
+    "es": "canal de noticias de Argentina",
+    "it": "rete televisiva argentina"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/La_Naci%C3%B3n_%2B",
+    "it": "https://it.wikipedia.org/wiki/La_Naci%C3%B3n_%2B"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Naci%C3%B3n_%2B.png?width=256",
+   "website": "https://lnmas.lanacion.com.ar/",
+   "city": "Vicente López"
+  },
+  {
+   "id": "ar.a24",
+   "name": "A24",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCR9120YBAqMfntqgRTKmkjQ",
+   "youtubeVideoId": "ArKbAx1K-2U",
+   "embeddable": true,
+   "wikidata": "Q4749624",
+   "description": {
+    "en": "Argentine news cable TV channel",
+    "es": "canal de noticias argentino",
+    "fr": "chaîne câblée d'information argentine",
+    "it": "televisione via cavo argentina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Am%C3%A9rica_24",
+    "es": "https://es.wikipedia.org/wiki/A24",
+    "fr": "https://fr.wikipedia.org/wiki/Am%C3%A9rica_24"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/A24_%282025%29.svg?width=256",
+   "website": "https://www.a24.com/",
+   "city": null
+  },
+  {
+   "id": "ar.canal26",
+   "name": "Canal 26",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
+   "youtubeVideoId": "jYSINm_PhBk",
+   "embeddable": true,
+   "wikidata": "Q389108",
+   "description": {
+    "en": "Argentine news television channel",
+    "es": "canal de noticias de Argentina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_26_(Argentina)",
+    "es": "https://es.wikipedia.org/wiki/Canal_26_(Argentina)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_26_logo_%282022%29.svg?width=256",
+   "website": "https://www.canal26.com/",
+   "city": null
+  },
+  {
+   "id": "ar.cronica",
+   "name": "Crónica TV",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
+   "youtubeVideoId": "hw4uHyct4vg",
+   "embeddable": true,
+   "wikidata": "Q1142564",
+   "description": {
+    "en": "television station",
+    "es": "Canal de noticias de Argentina",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Cr%C3%B3nica_TV",
+    "es": "https://es.wikipedia.org/wiki/Cr%C3%B3nica_Televisi%C3%B3n",
+    "de": "https://de.wikipedia.org/wiki/Cr%C3%B3nica_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Infobae_logo.svg?width=256",
+   "website": "http://www.cronica.com.ar/",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.canalrural",
+   "name": "Canal Rural",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCPumJ2ayrr-JDsA9JDCUDDQ",
+   "youtubeVideoId": "w78Zr0J-dIs",
+   "embeddable": true,
+   "wikidata": "Q5746724",
+   "description": {
+    "es": "Canal de televisión por cable de Argentina",
+    "pt-BR": "Canal Rural é um canal de televisão por cabo argentino para América Latina dedicado à produção do campo, agroindustrial e alimentar.",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Canal_Rural",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_Rural_(Argentina)"
+   },
+   "logo": null,
+   "website": "http://www.elrural.com",
+   "city": null
+  },
+  {
+   "id": "ar.infobae",
+   "name": "Infobae",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
+   "youtubeVideoId": "zC1LOZ-kOBI",
+   "embeddable": true,
+   "wikidata": "Q5915760",
+   "description": {
+    "en": "Argentine newspaper",
+    "es": "diario argentino por internet",
+    "zh-Hans": "阿根廷新闻网站",
+    "fr": "journal numérique argentin",
+    "pt-BR": "site de notícias",
+    "zh-Hant": "阿根廷線上報紙",
+    "nl": "website"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Infobae",
+    "es": "https://es.wikipedia.org/wiki/Infobae",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%B8%83%E7%9C%81%E8%B3%87%E8%A8%8A%E5%A0%B1",
+    "fr": "https://fr.wikipedia.org/wiki/Infobae",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Infobae",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%B8%83%E7%9C%81%E8%B3%87%E8%A8%8A%E5%A0%B1"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Infobae_logo.svg?width=256",
+   "website": "https://www.infobae.com",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.telefe",
+   "name": "Telefe",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCHc3el42hXKKhjs_1vzWk9A",
+   "youtubeVideoId": "JmPZ7jJsU2E",
+   "embeddable": true,
+   "wikidata": "Q1143518",
+   "description": {
+    "en": "Argentine television network",
+    "es": "Cadena de televisión argentina",
+    "zh-Hans": "阿根廷電視頻道",
+    "ja": "アルゼンチンのテレビ局",
+    "fr": "chaîne de télévision argentine",
+    "pt-BR": "rede de televisão argentina",
+    "ko": "아르헨티나의 텔레비전 네트워크",
+    "it": "rete televisiva argentina",
+    "ru": "аргентинский телеканал",
+    "zh-Hant": "阿根廷電視頻道",
+    "ar": "محطة تلفزيون أرجنتينية",
+    "tr": "Arjantin televizyon kanalı",
+    "nl": "argentijnse televisiezender",
+    "pl": "argentyński kanał telewizyjny",
+    "sv": "argentinsk TV-kanal",
+    "id": "Jaringan televisi Argentina",
+    "de": "argentinischer Fernsehsender",
+    "ms": "Rangkaian televisyen Argentina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Telefe",
+    "es": "https://es.wikipedia.org/wiki/Telefe",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%89%B9%E8%90%8A%E8%B2%BB",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%95%E3%82%A7",
+    "fr": "https://fr.wikipedia.org/wiki/Telefe",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Telefe",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%85%94%EB%A0%88%ED%8E%98",
+    "it": "https://it.wikipedia.org/wiki/Telefe",
+    "ru": "https://ru.wikipedia.org/wiki/Telefe",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%89%B9%E8%90%8A%E8%B2%BB",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D9%84%D9%8A%D9%81%D9%8A",
+    "tr": "https://tr.wikipedia.org/wiki/Telefe",
+    "nl": "https://nl.wikipedia.org/wiki/Telefe",
+    "pl": "https://pl.wikipedia.org/wiki/Telefe",
+    "sv": "https://sv.wikipedia.org/wiki/Telefe",
+    "id": "https://id.wikipedia.org/wiki/Telefe",
+    "de": "https://de.wikipedia.org/wiki/Telefe",
+    "ms": "https://ms.wikipedia.org/wiki/Telefe"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Televisi%C3%B3n_Federal_Logo.svg?width=256",
+   "website": "https://mitelefe.com/",
+   "city": "Área metropolitana de Buenos Aires"
+  },
+  {
+   "id": "ar.eltrece",
+   "name": "El Trece",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC0DM_mHV2u6dj8ig51GkQwg",
+   "youtubeVideoId": "0hF3sZCIv8I",
+   "embeddable": true,
+   "wikidata": "Q1032473",
+   "description": {
+    "en": "Argentine free-to-air television network",
+    "es": "canal de televisión argentino",
+    "ja": "アルゼンチンのテレビ局",
+    "fr": "chaîne de télévision d'accès libre argentine",
+    "pt-BR": "canal de televisão argentino",
+    "ko": "운하 드 텔레비전 아르헨티나",
+    "it": "canale televisivo argentino",
+    "ru": "Аргентинский телевизионный канал",
+    "tr": "arjantin televizyon kanalı",
+    "nl": "argentino tv-kanalen",
+    "pl": "kanał telewizyjny argentyński",
+    "id": "kanal de televisi argentino",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Trece",
+    "es": "https://es.wikipedia.org/wiki/Canal_13_(Buenos_Aires)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB13_(%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3)",
+    "fr": "https://fr.wikipedia.org/wiki/El_Trece",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_13_(Argentina)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%82%A0_13_(%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EC%B1%84%EB%84%90)",
+    "it": "https://it.wikipedia.org/wiki/Canal_13_(rete_televisiva_argentina)",
+    "ru": "https://ru.wikipedia.org/wiki/Canal_13_(%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0)",
+    "pl": "https://pl.wikipedia.org/wiki/Canal_13_(Argentyna)",
+    "id": "https://id.wikipedia.org/wiki/El_Trece",
+    "de": "https://de.wikipedia.org/wiki/Canal_13_(Argentinien)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Canal_13_200_8.png?width=256",
+   "website": "http://www.eltrecetv.com.ar",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.tvpublica",
+   "name": "TV Pública",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCs231K71Bnu5295_x0MB5Pg",
+   "youtubeVideoId": "iyG7hGUYGRs",
+   "embeddable": true,
+   "wikidata": "Q1032483",
+   "description": {
+    "en": "Argentine public television channel",
+    "es": "canal de televisión de Argentina",
+    "ja": "アルゼンチン公共放送テレビ は、アルゼンチンの公共放送機関である。運営資金は政府からの交付金と広告料によって賄われている。",
+    "fr": "chaîne de télévision en Argentine",
+    "pt-BR": "Televisión Pública conhecido pela sigla TVP é uma rede pública de televisão nacional da Argentina.",
+    "it": "rete televisiva argentina",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica",
+    "es": "https://es.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica_(Argentina)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AB7",
+    "fr": "https://fr.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica_Argentina",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica_(Argentina)",
+    "it": "https://it.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica_Argentina",
+    "de": "https://de.wikipedia.org/wiki/Canal_7_(Argentinien)"
+   },
+   "logo": null,
+   "website": "https://tvpublica.com.ar/",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.america",
+   "name": "América",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC6NVDkuzY2exMOVFw4i9oHw",
+   "youtubeVideoId": "zcWXboTnous",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.elnueve",
+   "name": "El Nueve",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCUT4NmGqjrVpKf2JyiS_bbA",
+   "youtubeVideoId": "e4VpCP8KWLY",
+   "embeddable": true,
+   "wikidata": "Q1032491",
+   "description": {
+    "en": "Argentinian television station",
+    "es": "canal de televisión de Argentina",
+    "fr": "elnueve, chaîne de télévision privée d'Argentine",
+    "pt-BR": "SEFCTAP TV anteriormente conhecido comercialmente como Canal 9 como El Nueve, é uma emissora de televisão Argentina localizada em Buenos Aires.",
+    "ko": "엘 누에베(스페인어: El Nueve)는 아르헨티나의 텔레비전 네트워크다.",
+    "it": "rete televisiva argentina",
+    "ru": "аргентинский телеканал",
+    "id": "El Nueve adalah salah satu nama merek bagi perusahaan Kanal 9.",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Nueve",
+    "es": "https://es.wikipedia.org/wiki/Canal_9_(Buenos_Aires)",
+    "fr": "https://fr.wikipedia.org/wiki/Canal_9_(Argentine)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_9_(Argentina)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%97%98_%EB%88%84%EC%97%90%EB%B2%A0",
+    "it": "https://it.wikipedia.org/wiki/Canal_9_(rete_televisiva_argentina)",
+    "ru": "https://ru.wikipedia.org/wiki/El_Nueve",
+    "id": "https://id.wikipedia.org/wiki/El_Nueve",
+    "de": "https://de.wikipedia.org/wiki/Canal_9_(Argentinien)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_9_2015.png?width=256",
+   "website": "https://www.elnueve.com.ar/",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.rava",
+   "name": "Rava Bursátil",
+   "category": "economy",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCD83EL-fvAhaZ8_fKfefunw",
+   "youtubeVideoId": "3_UPvFIrJ6w",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.canal10cba",
+   "name": "Canal 10 Córdoba",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCUzonpa3XKurQVycdMY70XQ",
+   "youtubeVideoId": "tKhsTMHR0H8",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.eldoce",
+   "name": "El Doce (Córdoba)",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCiaePeoCqpU8hBHiNrgkzrA",
+   "youtubeVideoId": "nndzeKDSjuc",
+   "embeddable": true,
+   "wikidata": "Q5821762",
+   "description": {
+    "en": "television channel from Córdoba, Argentina",
+    "es": "canal de televisión de Córdoba, Argentina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Doce",
+    "es": "https://es.wikipedia.org/wiki/Canal_12_(C%C3%B3rdoba)"
+   },
+   "logo": null,
+   "website": "https://eldoce.tv",
+   "city": "Córdoba"
+  },
+  {
+   "id": "ar.elonce",
+   "name": "Elonce (Entre Ríos)",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCWzsoIEZLGLinhYrm66VD4Q",
+   "youtubeVideoId": "JoVB9K7QSEU",
+   "embeddable": true,
+   "wikidata": "Q82053717",
+   "description": {
+    "en": "television channel Paraná, province of Entre Ríos, Argentina",
+    "es": "canal de televisión Paraná, provincia de Entre Ríos, Argentina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ELONCE",
+    "es": "https://es.wikipedia.org/wiki/Canal_11_(Paran%C3%A1)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_elonce_tv_2019.jpg?width=256",
+   "website": "https://www.elonce.com/",
+   "city": "Paraná"
+  },
+  {
+   "id": "ar.canal4jujuy",
+   "name": "Canal 4 Jujuy",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
+   "youtubeVideoId": "WoNfin_vbPM",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.elsiete",
+   "name": "El Siete (Mendoza)",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC64ZNqX0FQHabP8iIkmnR3A",
+   "youtubeVideoId": "Vh8xmLBJtR8",
+   "embeddable": true,
+   "wikidata": "Q5072364",
+   "description": {
+    "en": "television channel from Mendoza, Argentina,",
+    "es": "canal de televisión de Mendoza, Argentina",
+    "zh-Hans": "门多萨第七频道，或简称第七频道，是阿根廷的一家以门多萨省为主要播出地区的电视台，隶属于美洲集团，该电视台总部位于门多萨省拉斯埃拉斯，开播于1961年2月7日。",
+    "zh-Hant": "门多萨第七频道，或简称第七频道，是阿根廷的一家以门多萨省为主要播出地区的电视台，隶属于美洲集团，该电视台总部位于门多萨省拉斯埃拉斯，开播于1961年2月7日。",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Channel_7_(Mendoza,_Argentina)",
+    "es": "https://es.wikipedia.org/wiki/Canal_7_(Mendoza)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%AC%AC%E4%B8%83%E9%A2%91%E9%81%93_(%E9%97%A8%E5%A4%9A%E8%90%A8)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%AC%AC%E4%B8%83%E9%A2%91%E9%81%93_(%E9%97%A8%E5%A4%9A%E8%90%A8)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Elsiete.webp?width=256",
+   "website": "http://www.elsietetv.com.ar/",
+   "city": null
+  },
+  {
+   "id": "ar.eltres",
+   "name": "El Tres (Rosario)",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q5072300",
+   "description": {
+    "en": "television channel from Rosario, Santa Fe province, Argentina",
+    "es": "canal de televisión de Rosario, provincia de Santa Fe, Argentina",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Channel_3_(Rosario,_Argentina)",
+    "es": "https://es.wikipedia.org/wiki/Canal_3_(Rosario)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eltres_RGB-grad_%28positivo%29.png?width=256",
+   "website": "https://www.rosario3.com/",
+   "city": "Rosario"
+  },
+  {
+   "id": "ar.canal13sj",
+   "name": "Canal 13 San Juan",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCuJvDPQIaUhvdHiH275WjNA",
+   "youtubeVideoId": "uqUSmqJg0ds",
+   "embeddable": true,
+   "wikidata": "Q16490085",
+   "description": {
+    "es": "Canal de noticias de la ciudad de San Juan, Argentina"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Canal_13_(San_Juan)"
+   },
+   "logo": null,
+   "website": "https://www.canal13sanjuan.com",
+   "city": "Departamento Capital"
+  },
+  {
+   "id": "ar.canal8sj",
+   "name": "Canal 8 San Juan",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
+   "youtubeVideoId": "V49JSc0SXY4",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.canalciudad",
+   "name": "Canal de la Ciudad",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCOV_Vx1baZJY9Tfvgm-UI3w",
+   "youtubeVideoId": "AMiVAF_tuJ4",
+   "embeddable": true,
+   "wikidata": "Q5770754",
+   "description": {
+    "es": "canal de televisión abierta argentino, exclusivo para Buenos Aires",
+    "pt-BR": "canal de televisão"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Canal_de_la_Ciudad",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_de_la_Ciudad"
+   },
+   "logo": null,
+   "website": "http://www.buenosaires.gob.ar/canaldelaciudad",
+   "city": null
+  },
+  {
+   "id": "ar.diputados",
+   "name": "Diputados TV",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC1h8_HKc5wScqeRw1HV6a6w",
+   "youtubeVideoId": "_SH6DL3AGig",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.senado",
+   "name": "Senado TV",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCStm2uvQKowSXrnCzTWAn6Q",
+   "youtubeVideoId": "HPAZDW5fFKo",
+   "embeddable": true,
+   "wikidata": "Q2118303",
+   "description": {
+    "en": "upper house of Argentina Congress",
+    "es": "cámara alta del poder legislativo de Argentina",
+    "zh-Hans": "阿根廷国家参议院 是阿根廷国会的上议院。其设立及权力基于阿根廷宪法。参议院是高级联邦机关，每名参议员代表其所在联邦省。副总统任参议院议长主持会议，除了在平局的特殊情形外没有投票权。会议地点在阿根廷国会宫的南翼。",
+    "ja": "アルゼンチン上院",
+    "fr": "chambre haute du Congrès de la nation argentine",
+    "pt-BR": "câmara alta do Congresso Nacional da Argentina",
+    "ko": "아르헨티나 국가 상원(스페인어: Senado de la Nación Argentina)은 아르헨티나 국민의회의 상원이다.",
+    "it": "camera alta del Parlamento argentino",
+    "ru": "верхняя палата парламента Аргентины",
+    "zh-Hant": "阿根廷国家参议院 是阿根廷国会的上议院。其设立及权力基于阿根廷宪法。参议院是高级联邦机关，每名参议员代表其所在联邦省。副总统任参议院议长主持会议，除了在平局的特殊情形外没有投票权。会议地点在阿根廷国会宫的南翼。",
+    "ar": "مجلس الشيوخ الأرجنتيني ، هو مجلس شيوخ دولة الأرجنتين، ويتكون من 72 مقعداً، وهو المجلس الأعلى في الجمعية الوطنية للأرجنتين ‏.",
+    "tr": "Arjantin Ulusu Onursal Senatosu, Arjantin Ulusal Kongresi'nin üst meclisi olan yasama organıdır.",
+    "pl": "izba wyższa parlamentu Argentyny",
+    "sv": "Argentinas senat, officiellt Argentinska nationens ärade senaten, är den ena av de två kamrarna i Argentinas nationalkongress.",
+    "id": "Senat Argentina adalah majelis tinggi dari Kongres Nasional Argentina.",
+    "de": "Der Senado de la Nación Argentina, der Senat der argentinischen Nation, ist das Oberhaus des Argentinischen Nationalkongress."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Argentine_Senate",
+    "es": "https://es.wikipedia.org/wiki/Senado_de_la_Naci%C3%B3n_Argentina",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%AE%B6%E5%8F%82%E8%AE%AE%E9%99%A2",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%85%83%E8%80%81%E9%99%A2_(%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3)",
+    "fr": "https://fr.wikipedia.org/wiki/S%C3%A9nat_(Argentine)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Senado_da_Na%C3%A7%C3%A3o_Argentina",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98_%EC%83%81%EC%9B%90",
+    "it": "https://it.wikipedia.org/wiki/Senato_(Argentina)",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%B0%D1%82_%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D1%8B",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%AE%B6%E5%8F%82%E8%AE%AE%E9%99%A2",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%84%D8%B3_%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE_%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86%D9%8A",
+    "tr": "https://tr.wikipedia.org/wiki/Senato_(Arjantin)",
+    "pl": "https://pl.wikipedia.org/wiki/Senat_(Argentyna)",
+    "sv": "https://sv.wikipedia.org/wiki/Argentinas_senat",
+    "id": "https://id.wikipedia.org/wiki/Senat_Argentina",
+    "de": "https://de.wikipedia.org/wiki/Senado_de_la_Naci%C3%B3n_Argentina"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_del_Senado_de_Argentina.svg?width=256",
+   "website": "https://www.senado.gob.ar/",
+   "city": null
+  },
+  {
+   "id": "ar.baprovincia",
+   "name": "Provincia de Buenos Aires",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCRuY8kHZHaiqAAdjcgobsNw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q44754",
+   "description": {
+    "en": "province of Argentina",
+    "es": "provincia de Argentina",
+    "zh-Hans": "阿根廷第一级行政区划",
+    "ja": "アルゼンチンの州",
+    "fr": "province de l'Argentine",
+    "pt-BR": "província da Argentina",
+    "ko": "부에노스아이레스주(스페인어: Provincia de Buenos Aires)는 아르헨티나 동부에 있는 주이다.",
+    "it": "provincia argentina",
+    "ru": "провинция в Аргентине",
+    "zh-Hant": "阿根廷第一级行政区划",
+    "ar": "مقاطعة أرجنتينية",
+    "tr": "Buenos Aires eyaleti, 2007 yılı tahminlerine göre on beş milyona yaklaşan nüfusuyla Arjantin'in en kalabalık eyaletidir.",
+    "nl": "provincie van Argentinië",
+    "pl": "prowincja Argentyny",
+    "sv": "provins i Argentina",
+    "id": "Provinsi Buenos Aires, adalah sebuah provinsi di Argentina yang memiliki luas wilayah 307.571 km² dan populasi 13.827.203 jiwa (2001).",
+    "de": "Provinz Argentiniens"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
+    "es": "https://es.wikipedia.org/wiki/Provincia_de_Buenos_Aires",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%B8%83%E5%AE%9C%E8%AF%BA%E6%96%AF%E8%89%BE%E5%88%A9%E6%96%AF%E7%9C%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A8%E3%83%8E%E3%82%B9%E3%82%A2%E3%82%A4%E3%83%AC%E3%82%B9%E5%B7%9E",
+    "fr": "https://fr.wikipedia.org/wiki/Province_de_Buenos_Aires",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Buenos_Aires_(prov%C3%ADncia)",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%97%90%EB%85%B8%EC%8A%A4%EC%95%84%EC%9D%B4%EB%A0%88%EC%8A%A4%EC%A3%BC",
+    "it": "https://it.wikipedia.org/wiki/Provincia_di_Buenos_Aires",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%8D%D0%BD%D0%BE%D1%81-%D0%90%D0%B9%D1%80%D0%B5%D1%81_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%B8%83%E5%AE%9C%E8%AF%BA%E6%96%AF%E8%89%BE%E5%88%A9%E6%96%AF%E7%9C%81",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%8A%D9%86%D8%B3_%D8%A2%D9%8A%D8%B1%D8%B3_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/Buenos_Aires_(eyalet)",
+    "nl": "https://nl.wikipedia.org/wiki/Buenos_Aires_(provincie)",
+    "pl": "https://pl.wikipedia.org/wiki/Buenos_Aires_(prowincja)",
+    "sv": "https://sv.wikipedia.org/wiki/Buenos_Aires_(provins)",
+    "id": "https://id.wikipedia.org/wiki/Provinsi_Buenos_Aires",
+    "de": "https://de.wikipedia.org/wiki/Provinz_Buenos_Aires"
+   },
+   "logo": null,
+   "website": "https://www.gba.gob.ar/",
+   "city": null
+  },
+  {
+   "id": "ar.voceria",
+   "name": "Vocería Presidencial",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCCSbOixo2xpZc_oToqeq2jQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q124935653",
+   "description": {
+    "en": "subdivision of a government agency in Argentina",
+    "es": "organismo estatal argentino"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Subsecretar%C3%ADa_de_Vocer%C3%ADa_y_Comunicaci%C3%B3n_de_Gobierno"
+   },
+   "logo": null,
+   "website": "https://www.argentina.gob.ar/voceria",
+   "city": null
+  },
+  {
+   "id": "ar.encuentro",
+   "name": "Encuentro",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC1zLDoKL-eKmd_K7qkUZ-ow",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q5375623",
+   "description": {
+    "en": "Argentine educational TV channel",
+    "es": "canal de televisión educativo argentino",
+    "pt-BR": "Encuentro é um canal de televisão aberta argentino com conteúdo cultural e educativo, lançado em 5 de março de 2007.",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Encuentro",
+    "es": "https://es.wikipedia.org/wiki/Encuentro_(canal_de_televisi%C3%B3n)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Encuentro_(canal_de_televis%C3%A3o)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_del_canal_Encuentro.svg?width=256",
+   "website": "http://encuentro.gob.ar",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.pakapaka",
+   "name": "Pakapaka",
+   "category": "kids",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCVVNYxncuD4EfHpKDlPIYcQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q7125434",
+   "description": {
+    "en": "Argentine television channel and website",
+    "es": "canal de televisión infantil de Argentina",
+    "pt-BR": "canal de televisão para o público infantil"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Pakapaka",
+    "es": "https://es.wikipedia.org/wiki/Pakapaka_(canal_de_televisi%C3%B3n)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Pakapaka_(canal_de_televis%C3%A3o)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Paka-Paka-2025.svg?width=256",
+   "website": "http://www.pakapaka.gob.ar",
+   "city": null
+  },
+  {
+   "id": "ar.deportv",
+   "name": "DeporTV",
+   "category": "sports",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCSmh3DFxBwFurMttT60PQ1g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q5803101",
+   "description": {
+    "en": "Argentine television channel",
+    "es": "canal de televisión deportivo de Argentina",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DeporTV",
+    "es": "https://es.wikipedia.org/wiki/DeporTV_(Argentina)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Deportv.svg?width=256",
+   "website": "http://www.deportv.gov.ar",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.bocatv",
+   "name": "Boca (Canal Oficial)",
+   "category": "sports",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCPlRurmY1Vn_lfwn-vKX6BQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.luzu",
+   "name": "Luzu TV",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
+   "youtubeVideoId": "IUkLU7wu6Pk",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.olga",
+   "name": "Olga",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.blender",
+   "name": "Blender",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC6pJGaMdx5Ter_8zYbLoRgA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.gelatina",
+   "name": "Gelatina",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.carajo",
+   "name": "Carajo",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.futurock",
+   "name": "Futurock",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
+   "youtubeVideoId": "Hrl7CQ90zog",
+   "embeddable": true,
+   "wikidata": "Q42912634",
+   "description": {
+    "en": "Argentine radio station",
+    "es": "estación de radio argentina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Futurock",
+    "es": "https://es.wikipedia.org/wiki/Futurock"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_de_Futurock.jpg?width=256",
+   "website": "http://futurock.fm",
+   "city": null
+  },
+  {
+   "id": "ar.cenital",
+   "name": "Cenital",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCxHSIJgKZ8xVXwLGaGZEmKg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.azz",
+   "name": "AZZ",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
+   "youtubeVideoId": "EIzNyTbCTKQ",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.lacasa",
+   "name": "La Casa",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.republicaz",
+   "name": "Republica Z",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCmk9kjghfkM3k8I6jioDr3g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.vodcast",
+   "name": "Vodcast",
+   "category": "streaming",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCxM_tp9qm5Pyk30mRGr43pg",
+   "youtubeVideoId": "HKIu_StKI1s",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.cadena3",
+   "name": "Cadena 3",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCNxohbqfDp8YxW_Mji2XMHA",
+   "youtubeVideoId": "k9bMyNGsmhU",
+   "embeddable": true,
+   "wikidata": "Q5738884",
+   "description": {
+    "en": "radio station in Argentina",
+    "es": "estación de radio argentina",
+    "fr": "station de radio d'Argentine",
+    "id": "stasiun radio di Argentina",
+    "de": "argentinischer Hörfunksender"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Cadena_3_Argentina"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cadena_3.png?width=256",
+   "website": "https://www.cadena3.com/",
+   "city": null
+  },
+  {
+   "id": "ar.mitre",
+   "name": "Radio Mitre",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCYvINPByAdCcpA0sWrF3I_w",
+   "youtubeVideoId": "gLRijRdfkjU",
+   "embeddable": true,
+   "wikidata": "Q3416744",
+   "description": {
+    "en": "radio station",
+    "es": "estación de radio argentina",
+    "fr": "LR6 Radio Mitre est une station de radio d’Argentine fondée en 1925 sous le nom LOZ Broadcasting La Nación.",
+    "it": "stazione radiofonica Argentina",
+    "id": "stasiun radio di Argentina",
+    "de": "argentinischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_Mitre",
+    "es": "https://es.wikipedia.org/wiki/Radio_Mitre",
+    "fr": "https://fr.wikipedia.org/wiki/Radio_Mitre",
+    "it": "https://it.wikipedia.org/wiki/Radio_Mitre"
+   },
+   "logo": null,
+   "website": "http://radiomitre.cienradios.com/",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.radio10",
+   "name": "Radio 10",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCJozD5RVug7EZdTjqkGISYQ",
+   "youtubeVideoId": "jOKmBKi9Flg",
+   "embeddable": true,
+   "wikidata": "Q7280604",
+   "description": {
+    "en": "Argentine talk radio",
+    "es": "emisora de radio Argentina",
+    "id": "stasiun radio",
+    "de": "argentinischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_10_(Argentina)",
+    "es": "https://es.wikipedia.org/wiki/Radio_10"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_10_logo.svg?width=256",
+   "website": "http://shoppingba.infobae.com/radio10/",
+   "city": null
+  },
+  {
+   "id": "ar.rivadavia",
+   "name": "Rivadavia",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCLAj5TzCrNbqe3LosSKHLcQ",
+   "youtubeVideoId": "4ZWFeE4CVL4",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.lared",
+   "name": "La Red",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCs1U5lRXvUJHn0CgXI6oXAw",
+   "youtubeVideoId": "1oDRHCaKh4U",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.delplata",
+   "name": "Del Plata",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
+   "youtubeVideoId": "klYrakTCOjE",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.radionacional",
+   "name": "Radio Nacional",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
+   "youtubeVideoId": "kXHtYklSa74",
+   "embeddable": true,
+   "wikidata": "Q5961729",
+   "description": {
+    "en": "Public AM radio station in Buenos Aires",
+    "es": "Estación de radio AM pública en Buenos Aires",
+    "de": "argentinischer Hörfunksender"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Radio_Nacional_Buenos_Aires"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LRA1_Nacional_AM_870.png?width=256",
+   "website": null,
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.conVos",
+   "name": "Radio con Vos",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.urbana",
+   "name": "Urbana Play",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
+   "youtubeVideoId": "iS2jdHMuPVI",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.la100",
+   "name": "La 100",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
+   "youtubeVideoId": "LSxdyylpbTI",
+   "embeddable": true,
+   "wikidata": "Q5961871",
+   "description": {
+    "en": "radio station in Argentina",
+    "es": "La 100 es una estación de radio argentina, que se transmite en la FM 99.9 desde la Ciudad de Buenos Aires, y está al aire desde el 17 de agosto de 1985."
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/La_100"
+   },
+   "logo": null,
+   "website": "https://la100.cienradios.com/",
+   "city": null
+  },
+  {
+   "id": "ar.pop",
+   "name": "Pop 101.5",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCtc_WjDRwCrZSEq2WEwD7XQ",
+   "youtubeVideoId": "B3UccrSiWms",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.mega",
+   "name": "Mega 98.3",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCtloZ7xFNO9O114pkoV9a5g",
+   "youtubeVideoId": "MGSqMTMpDgw",
+   "embeddable": true,
+   "wikidata": "Q6008984",
+   "description": {
+    "en": "Emisora de radio de Argentina",
+    "es": "emisora de radio de Argentina",
+    "id": "stasiun radio di Argentina",
+    "de": "argentinischer Hörfunksender"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Mega_98.3"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.vale",
+   "name": "Vale 97.5",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC1Oa7gHuqzGHB90FPb0ssPA",
+   "youtubeVideoId": "Oqj8dVOdwOk",
+   "embeddable": true,
+   "wikidata": "Q17274875",
+   "description": {
+    "en": "radio station in Argentina",
+    "es": "Vale 97.5 es una estación de radio argentina que transmite desde la Ciudad de Buenos Aires.",
+    "id": "stasiun radio",
+    "de": "argentinischer Hörfunksender"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Vale_97.5"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.elobservador",
+   "name": "El Observador",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
+   "youtubeVideoId": "sWWu6TN3cos",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.lnmusica",
+   "name": "LN+ Música",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCwFdmeWekV3uGthAJENUu7A",
+   "youtubeVideoId": "45nwTjTZ4jk",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.pinamar",
+   "name": "Pinamar en vivo",
+   "category": "cameras",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCjeImUhRB1SLqN-svqDRJJw",
+   "youtubeVideoId": "KLjgHG8253c",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ar.ushuaia",
+   "name": "Ushuaia en vivo",
+   "category": "cameras",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC6NTD1HmdaZMbe9K5qADOvw",
+   "youtubeVideoId": "aweQQwQgvdE",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

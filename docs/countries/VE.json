@@ -1,0 +1,142 @@
+{
+ "schema": 2,
+ "code": "VE",
+ "version": 2026101214,
+ "defaultTiles": [
+  "ve.vpitv",
+  "ve.globovision",
+  "ve.venevision",
+  "ve.unionradio"
+ ],
+ "channels": [
+  {
+   "id": "ve.vpitv",
+   "name": "VPItv",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w",
+   "youtubeVideoId": "SaMzkvXN0II",
+   "embeddable": true,
+   "wikidata": "Q59345050",
+   "description": {
+    "en": "Venezuelan streaming channel",
+    "es": "canal por streaming informativo venezolano"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/VPItv",
+    "es": "https://es.wikipedia.org/wiki/VPItv"
+   },
+   "logo": null,
+   "website": "http://www.vpitv.com/",
+   "city": "Caracas"
+  },
+  {
+   "id": "ve.globovision",
+   "name": "Globovisión",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCTp0PrexDQCj60zQlkzAEFw",
+   "youtubeVideoId": "gkEMxJBbqDE",
+   "embeddable": true,
+   "wikidata": "Q5571087",
+   "description": {
+    "en": "24-hour television news network in Venezuela and Latin America",
+    "es": "canal de televisión privado venezolano que transmite noticias las 24 horas.",
+    "fr": "chaîne de télévision vénézuélienne",
+    "pt-BR": "Globovisión é uma estação de televisão venezuelana sediada em Caracas, Distrito Capital."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Globovisi%C3%B3n",
+    "es": "https://es.wikipedia.org/wiki/Globovisi%C3%B3n",
+    "fr": "https://fr.wikipedia.org/wiki/Globovisi%C3%B3n",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Globovisi%C3%B3n"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-Globovisi%C3%B3n.png?width=256",
+   "website": "http://www.globovision.com/",
+   "city": "Caracas"
+  },
+  {
+   "id": "ve.evtv",
+   "name": "EVTV",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ve.elpitazo",
+   "name": "El Pitazo",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q65057048",
+   "description": {
+    "en": "Venezuelan news website",
+    "es": "sitio web de noticias venezolano"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Pitazo",
+    "es": "https://es.wikipedia.org/wiki/El_Pitazo"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/El_pitazo_logo.png?width=256",
+   "website": "https://elpitazo.net",
+   "city": null
+  },
+  {
+   "id": "ve.venevision",
+   "name": "Venevisión",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCKzo7oVJPgzN7FVRHo0WC-Q",
+   "youtubeVideoId": "RtwI2fwMPGQ",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ve.unionradio",
+   "name": "Unión Radio",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
+   "youtubeVideoId": "MIOSd-3lXhM",
+   "embeddable": true,
+   "wikidata": "Q5770016",
+   "description": {
+    "en": "Venezuela",
+    "es": "grupo de circuitos de radio en AM y FM de Venezuela"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Circuito_Uni%C3%B3n_Radio"
+   },
+   "logo": null,
+   "website": "https://mundour.com/",
+   "city": "Caracas"
+  }
+ ]
+}

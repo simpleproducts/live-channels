@@ -1,0 +1,394 @@
+{
+ "schema": 2,
+ "code": "DE",
+ "version": 2026101214,
+ "defaultTiles": [
+  "de.welt",
+  "de.phoenix",
+  "de.dwnews",
+  "de.euronewsde",
+  "de.dwespanol"
+ ],
+ "channels": [
+  {
+   "id": "de.welt",
+   "name": "WELT Nachrichtensender",
+   "category": "news",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
+   "youtubeVideoId": "B4Q8mkZTT-M",
+   "embeddable": true,
+   "wikidata": "Q1959672",
+   "description": {
+    "en": "television station",
+    "es": "Welt es un canal de televisión privado alemán de carácter informativo propiedad del grupo WeltN24 GmbH.",
+    "zh-Hans": "Welt（譯為“世界”），是由德國WeltN24 GmbH所擁有的電視新聞頻道，原頻道名稱為N24。其節目除新聞外，還会播出資訊娛樂、記錄片、財經资讯等节目。Welt也是RTL集團旗下的N-tv之主要競爭者。",
+    "fr": "chaîne de télévision",
+    "ru": "Welt — бесплатный специализированный коммерческий телеканал Германии информационно-новостной тематики, осуществляющий вещание с 2000 года.",
+    "zh-Hant": "Welt（譯為“世界”），是由德國WeltN24 GmbH所擁有的電視新聞頻道，原頻道名稱為N24。其節目除新聞外，還会播出資訊娛樂、記錄片、財經资讯等节目。Welt也是RTL集團旗下的N-tv之主要競爭者。",
+    "ar": "قناة إخبارية ألمانية",
+    "nl": "televisiezender",
+    "pl": "niemiecka stacja telewizyjna",
+    "sv": "Welt är en tysk nyhetskanal som började sända 24 januari 2000.",
+    "de": "deutscher Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Welt_(TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/Welt_(canal_de_televisi%C3%B3n)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Welt",
+    "fr": "https://fr.wikipedia.org/wiki/Welt_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "ru": "https://ru.wikipedia.org/wiki/Welt_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Welt",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%84%D8%AA",
+    "nl": "https://nl.wikipedia.org/wiki/Welt_(televisiezender)",
+    "pl": "https://pl.wikipedia.org/wiki/Welt_(stacja_telewizyjna)",
+    "sv": "https://sv.wikipedia.org/wiki/Welt_(nyhetskanal)",
+    "de": "https://de.wikipedia.org/wiki/Welt_(Fernsehsender)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Welt_TV_Logo_2016.svg?width=256",
+   "website": "https://www.welt.de/",
+   "city": "Berlin"
+  },
+  {
+   "id": "de.phoenix",
+   "name": "phoenix",
+   "category": "news",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
+   "youtubeVideoId": "nzI58I7g-Go",
+   "embeddable": true,
+   "wikidata": "Q3381361",
+   "description": {
+    "en": "television station in Germany",
+    "ja": "テレビの公共放送局（1997年-、ドイツ）",
+    "fr": "chaîne de télévision",
+    "ru": "«Phoenix» — немецкая специализированная (парламентская) телепрограмма, совместная телепрограмма организаций всех немецких земель и Второго германского телевидения, координируемая Западно-Германским радио",
+    "nl": "televisiezender",
+    "pl": "Phoenix – kanał informacyjny i dokumentalny niemieckich nadawców publicznych ARD i ZDF.",
+    "sv": "Phoenix är en offentligt ägd TV-kanal i Tyskland.",
+    "de": "deutscher Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Phoenix_(German_TV_channel)",
+    "fr": "https://fr.wikipedia.org/wiki/Phoenix_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision_allemande)",
+    "ru": "https://ru.wikipedia.org/wiki/Phoenix_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "nl": "https://nl.wikipedia.org/wiki/Phoenix_(televisiezender)",
+    "pl": "https://pl.wikipedia.org/wiki/Phoenix_(stacja_telewizyjna)",
+    "sv": "https://sv.wikipedia.org/wiki/Phoenix_(TV-kanal)",
+    "de": "https://de.wikipedia.org/wiki/Phoenix_(Fernsehsender)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Phoenix-logo-2018.svg?width=256",
+   "website": "https://www.phoenix.de/",
+   "city": "Bonn"
+  },
+  {
+   "id": "de.tagesschau",
+   "name": "tagesschau",
+   "category": "news",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q703907",
+   "description": {
+    "en": "Germany's main daily news report in television",
+    "es": "Noticiero de la Primera Televisión de Alemania (Das Erste)",
+    "zh-Hans": "德国电视新闻",
+    "ja": "ドイツのテレビ報道番組",
+    "fr": "émission d'information allemand",
+    "ko": "tagesschau(타게스샤우)는 독일의 공영 방송 ARD의 뉴스 프로그램이다.",
+    "it": "telegiornale tedesco",
+    "zh-Hant": "德国的一档电视新闻节目",
+    "ar": "برنامج أخبار ألماني",
+    "nl": "ARD",
+    "pl": "Niemiecki telewizyjny serwis informacyjny",
+    "sv": "Tagesschau är en tysk nyhetssändning i ARD som produceras av ARD-aktuell och som visas flera gånger dagligen i tv-kanalen Das Erste.",
+    "de": "deutsche Nachrichtensendung der ARD im Fernsehen"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Tagesschau_(German_TV_programme)",
+    "es": "https://es.wikipedia.org/wiki/Tagesschau_(ARD)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E_(%E5%BE%B7%E5%9C%8B)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%82%B2%E3%82%B9%E3%82%B7%E3%83%A3%E3%82%A6",
+    "fr": "https://fr.wikipedia.org/wiki/Tagesschau",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EA%B2%8C%EC%8A%A4%EC%83%A4%EC%9A%B0_(ARD)",
+    "it": "https://it.wikipedia.org/wiki/Tagesschau_(ARD)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E_(%E5%BE%B7%E5%9C%8B)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%BA%D8%B3%D8%B4%D8%A7%D9%88",
+    "nl": "https://nl.wikipedia.org/wiki/Tagesschau",
+    "pl": "https://pl.wikipedia.org/wiki/Tagesschau",
+    "sv": "https://sv.wikipedia.org/wiki/Tagesschau",
+    "de": "https://de.wikipedia.org/wiki/Tagesschau_(ARD)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tagesschau_Logo_2015.svg?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "de.zdfheute",
+   "name": "ZDFheute Nachrichten",
+   "category": "news",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q132108",
+   "description": {
+    "en": "German TV news program",
+    "es": "Heute es un programa informativo alemán de la cadena alemana ZDF con las noticias de actualidad, el cual pueden incluir economía, ciencia, cultura, sociedad, deportes y clima.",
+    "zh-Hans": "今天 是德國ZDF的一個電視新聞節目，在每天19點播出，3sat电视台也会同步转播。節目重點內容包括德國、歐洲和世界的政治新聞，以及文化、生活、娛樂和體育新聞。在大約19:22時会在播出一段廣告之後播出天氣預報。節目在開始之前會有一個報時畫面，同时以摩尔斯电码“heute” 作为开场音乐的一部分。今天和ARD的今日新聞並為德國的兩大代表性晚間新聞節目。今天開始播出於1963年4月1日，這一天也是ZDF開播的日子。開播時今天在每天19:30至20:00播出。1973年開始，今天(heute)改為在現在的時間(19:00)播出。",
+    "ja": "ドイツの公共放送ZDFのニュース番組",
+    "fr": "Le heute est le journal télévisé de la deuxième chaîne de télévision ZDF depuis le 1er avril 1963.",
+    "ko": "ZDF의 뉴스 프로그램",
+    "it": "heute è il telegiornale della rete televisiva tedesca ZDF.",
+    "zh-Hant": "今天 是德國ZDF的一個電視新聞節目，在每天19點播出，3sat电视台也会同步转播。節目重點內容包括德國、歐洲和世界的政治新聞，以及文化、生活、娛樂和體育新聞。在大約19:22時会在播出一段廣告之後播出天氣預報。節目在開始之前會有一個報時畫面，同时以摩尔斯电码“heute” 作为开场音乐的一部分。今天和ARD的今日新聞並為德國的兩大代表性晚間新聞節目。今天開始播出於1963年4月1日，這一天也是ZDF開播的日子。開播時今天在每天19:30至20:00播出。1973年開始，今天(heute)改為在現在的時間(19:00)播出。",
+    "nl": "televisieprogramma uit Duitsland",
+    "pl": "Niemiecki program informacyjny, odpowiednik polskiej Panoramy",
+    "sv": "Heute är ett nyhetsprogram i den tyska TV-kanalen ZDF.",
+    "de": "Nachrichtensendung des ZDF"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Heute",
+    "es": "https://es.wikipedia.org/wiki/Heute",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%BB%8A%E5%A4%A9_(%E5%BE%B7%E5%9C%8B)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A4%E3%83%86",
+    "fr": "https://fr.wikipedia.org/wiki/Heute",
+    "ko": "https://ko.wikipedia.org/wiki/ZDF_%ED%98%B8%EC%9D%B4%ED%85%8C",
+    "it": "https://it.wikipedia.org/wiki/Heute_(programma_televisivo)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%BB%8A%E5%A4%A9_(%E5%BE%B7%E5%9C%8B)",
+    "nl": "https://nl.wikipedia.org/wiki/ZDF_heute",
+    "pl": "https://pl.wikipedia.org/wiki/Heute",
+    "sv": "https://sv.wikipedia.org/wiki/Heute",
+    "de": "https://de.wikipedia.org/wiki/Heute_(Fernsehsendung)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ZDF_heute_Logo_2021.svg?width=256",
+   "website": "https://www.zdfheute.de/",
+   "city": null
+  },
+  {
+   "id": "de.bild",
+   "name": "BILD",
+   "category": "news",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UC4zcMHyrT_xyWlgy5WGpFFQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q156203",
+   "description": {
+    "en": "German tabloid newspaper",
+    "es": "diario alemán",
+    "zh-Hans": "德国报纸",
+    "ja": "ドイツのタブロイド紙",
+    "fr": "journal allemand",
+    "pt-BR": "O Bild é um jornal tabloide da Alemanha.",
+    "ko": "빌트(독일어: Bild, 자사 표기 BILD)는 악셀 슈프링어 AG에 의해 출간되는 독일 타블로이드식의(신문보다 조금 작은) 신문이다.",
+    "it": "rivista",
+    "ru": "немецкий журнал",
+    "zh-Hant": "德国日报",
+    "ar": "صحيفة ألمانية",
+    "tr": "tabloid formatta günlük Alman gazetesi",
+    "nl": "Duits dagblad",
+    "pl": "niemiecki dziennik bulwarowy",
+    "sv": "tysk tidning",
+    "id": "Bild merupakan sebuah surat kabar Jerman yang diterbitkan oleh Axel Springer AG.",
+    "de": "überregionale deutsche Boulevardzeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Bild",
+    "es": "https://es.wikipedia.org/wiki/Bild",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%9B%BE%E7%89%87%E6%8A%A5",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AB%E3%83%88_(%E6%96%B0%E8%81%9E)",
+    "fr": "https://fr.wikipedia.org/wiki/Bild",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Bild",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B9%8C%ED%8A%B8",
+    "it": "https://it.wikipedia.org/wiki/Bild",
+    "ru": "https://ru.wikipedia.org/wiki/Bild",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%9B%BE%E7%89%87%E6%8A%A5",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D9%84%D8%AF",
+    "tr": "https://tr.wikipedia.org/wiki/Bild",
+    "nl": "https://nl.wikipedia.org/wiki/Bild",
+    "pl": "https://pl.wikipedia.org/wiki/Bild",
+    "sv": "https://sv.wikipedia.org/wiki/Bild_(tidning)",
+    "id": "https://id.wikipedia.org/wiki/Bild",
+    "de": "https://de.wikipedia.org/wiki/Bild_(Zeitung)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_BILD.svg?width=256",
+   "website": "https://bild.de",
+   "city": "Berlin"
+  },
+  {
+   "id": "de.dwnews",
+   "name": "DW News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCknLrEdhRCp1aegoMqRaCZg",
+   "youtubeVideoId": "LuKwFajn37U",
+   "embeddable": true,
+   "wikidata": "Q39055013",
+   "description": {
+    "en": "global English-language news and information channel from Germany's Deutsche Welle",
+    "zh-Hans": "德国之声英语新闻频道",
+    "zh-Hant": "德国之声英语新闻频道",
+    "nl": "televisieprogramma uit Duitsland",
+    "id": "DW News adalah acara berita dan informasi global berbahasa Inggris dari penyiar internasional Jerman, Deutsche Welle.",
+    "de": "Nachrichten der Deutschen Welle in englischer Sprache"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DW_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E6%96%B0%E9%97%BB",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E6%96%B0%E9%97%BB",
+    "id": "https://id.wikipedia.org/wiki/DW_News"
+   },
+   "logo": null,
+   "website": "http://www.dw.com/en/tv/dw-news/s-3232",
+   "city": null
+  },
+  {
+   "id": "de.euronewsde",
+   "name": "Euronews Deutsch",
+   "category": "news",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UCACdxU3VrJIJc7ujxtHWs1w",
+   "youtubeVideoId": "CQ3KsEbsYHs",
+   "embeddable": true,
+   "wikidata": "Q8478",
+   "description": {
+    "en": "pan-European news television channel",
+    "es": "emisora de televisión de noticias europea",
+    "zh-Hans": "欧洲电视台",
+    "ja": "ヨーロッパのニュース専門放送局",
+    "fr": "chaîne de télévision européenne",
+    "pt-BR": "estação televisiva da França",
+    "ko": "유로뉴스(영어: Euronews)는 여러 언어(영어, 독일어, 스페인어, 러시아어, 아랍어, 프랑스어, 이탈리아어, 페르시아어, 폴란드어, 포르투갈어, 튀르키예어, 우크라이나어)로 시청 가능한 방송되는 국제적 TV 채널이다.",
+    "it": "rete televisiva paneuropea",
+    "ru": "европейский телеканал",
+    "zh-Hant": "欧洲电视台",
+    "ar": "قناة تلفزيونية اخبارية اوروبية",
+    "tr": "Avrupa ağırlıklı yayın yapmakta olan çok dilli haber kanalı",
+    "nl": "Europese televisiezender",
+    "pl": "stacja telewizyjna",
+    "sv": "Euronews är en paneuropeisk nyhetskanal som sänds i flera olika språkversioner.",
+    "id": "Saluran televisi berita Pan-Eropa",
+    "de": "paneuropäischer Fernsehsender",
+    "ms": "Euronews merupakan sebuah saluran televisyen berita yang dilancarkan pada 1 Januari 1993."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Euronews",
+    "es": "https://es.wikipedia.org/wiki/Euronews",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%AC%A7%E6%B4%B2%E6%96%B0%E9%97%BB%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "fr": "https://fr.wikipedia.org/wiki/Euronews",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Euronews",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%A1%9C%EB%89%B4%EC%8A%A4",
+    "it": "https://it.wikipedia.org/wiki/Euronews",
+    "ru": "https://ru.wikipedia.org/wiki/Euronews",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%AC%A7%E6%B4%B2%E6%96%B0%E9%97%BB%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D8%B1%D9%88%D9%86%D9%8A%D9%88%D8%B2",
+    "tr": "https://tr.wikipedia.org/wiki/Euronews",
+    "nl": "https://nl.wikipedia.org/wiki/Euronews",
+    "pl": "https://pl.wikipedia.org/wiki/Euronews",
+    "sv": "https://sv.wikipedia.org/wiki/Euronews",
+    "id": "https://id.wikipedia.org/wiki/Euronews",
+    "de": "https://de.wikipedia.org/wiki/Euronews",
+    "ms": "https://ms.wikipedia.org/wiki/Euronews"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Euronews_2022.svg?width=256",
+   "website": "http://www.euronews.com/",
+   "city": "Lyon"
+  },
+  {
+   "id": "de.dwespanol",
+   "name": "DW Español",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCT4Jg8h03dD0iN3Pb5L0PMA",
+   "youtubeVideoId": "yZh3xsFqCt8",
+   "embeddable": true,
+   "wikidata": "Q3384036",
+   "description": {
+    "en": "news portal, affilitate of Deutsche Welle",
+    "es": "portal de noticias, afiliado de Deutsche Welle",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DW_Espa%C3%B1ol",
+    "es": "https://es.wikipedia.org/wiki/DW_Espa%C3%B1ol",
+    "de": "https://de.wikipedia.org/wiki/DW_(Espa%C3%B1ol)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutsche_Welle_symbol_2012.svg?width=256",
+   "website": "https://www.dw.com/es/",
+   "city": null
+  },
+  {
+   "id": "de.bundestag",
+   "name": "Deutscher Bundestag",
+   "category": "government",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UCbh5D3EdIHP4YQA5X-eK1ug",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q154797",
+   "description": {
+    "en": "legislature of Germany; parliament",
+    "es": "Parlamento de la República Federal de Alemania",
+    "zh-Hans": "德國聯邦國會下議院",
+    "ja": "ドイツ連邦共和国の下院議会",
+    "fr": "chambre basse du pouvoir législatif de l'Allemagne",
+    "pt-BR": "parlamento da Alemanha",
+    "ko": "독일연방공화국 의회의 하원",
+    "it": "parlamento della Repubblica Federale di Germania",
+    "ru": "парламент Германии",
+    "zh-Hant": "德國聯邦國會下議院",
+    "ar": "الهيئة التشريعية في ألمانيا، البرلمان.",
+    "tr": "Almanya parlamentosunun alt kanadı",
+    "nl": "parlement van Duitsland",
+    "pl": "parlament Niemiec",
+    "sv": "Tysklands lagstiftande parlament",
+    "id": "Legislatur Jerman, parlemen",
+    "de": "Volksvertretung und gesetzgebendes Organ der Bundesrepublik Deutschland",
+    "ms": "Bundestag ialah parlimen negara Jerman yang bersidang di Berlin."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Bundestag",
+    "es": "https://es.wikipedia.org/wiki/Bundestag",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%BE%B7%E5%9B%BD%E8%81%94%E9%82%A6%E8%AE%AE%E9%99%A2",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E8%AD%B0%E4%BC%9A",
+    "fr": "https://fr.wikipedia.org/wiki/Bundestag",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Bundestag",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8F%85%EC%9D%BC_%EC%97%B0%EB%B0%A9%EC%9D%98%ED%9A%8C",
+    "it": "https://it.wikipedia.org/wiki/Bundestag",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BD%D0%B4%D0%B5%D1%81%D1%82%D0%B0%D0%B3",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%BE%B7%E5%9B%BD%E8%81%94%E9%82%A6%E8%AE%AE%E9%99%A2",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%86%D8%AF%D8%B3%D8%AA%D8%A7%D8%BA",
+    "tr": "https://tr.wikipedia.org/wiki/Alman_Federal_Meclisi",
+    "nl": "https://nl.wikipedia.org/wiki/Bondsdag",
+    "pl": "https://pl.wikipedia.org/wiki/Bundestag",
+    "sv": "https://sv.wikipedia.org/wiki/F%C3%B6rbundsdagen",
+    "id": "https://id.wikipedia.org/wiki/Bundestag",
+    "de": "https://de.wikipedia.org/wiki/Deutscher_Bundestag",
+    "ms": "https://ms.wikipedia.org/wiki/Bundestag"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutscher_Bundestag_logo.svg?width=256",
+   "website": "https://www.bundestag.de/",
+   "city": "Bezirk Mitte"
+  }
+ ]
+}

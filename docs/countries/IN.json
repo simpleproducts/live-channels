@@ -1,0 +1,443 @@
+{
+ "schema": 2,
+ "code": "IN",
+ "version": 2026101214,
+ "defaultTiles": [
+  "in.indiatv",
+  "in.aajtak",
+  "in.ndtvindia",
+  "in.ndtv",
+  "in.republicworld",
+  "in.timesnow",
+  "in.abpnews",
+  "in.zeenews",
+  "in.wion"
+ ],
+ "channels": [
+  {
+   "id": "in.indiatv",
+   "name": "India TV",
+   "category": "news",
+   "languages": [
+    "en",
+    "hi"
+   ],
+   "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ",
+   "youtubeVideoId": "2RmpZhfEBdw",
+   "embeddable": true,
+   "wikidata": "Q6019415",
+   "description": {
+    "en": "News in English: Latest News, Breaking News, Live Updates - IndiaTV News",
+    "es": "India TV es un canal de noticias nacional hindi con sede en Noida, Uttar Pradesh, India.",
+    "zh-Hans": "印度電視頻道 是總部位於印度北方邦諾伊達的印地語電視新聞頻道。該頻道由拉傑特·夏馬與妻子瑞圖·達瓦 於2004年5月20日開播。該頻道是獨立新聞社 的子公司，獨立新聞服務由夏馬和達瓦於1997年共同創立。該頻道於2022年2月進行了品牌重塑。",
+    "zh-Hant": "印度電視頻道 是總部位於印度北方邦諾伊達的印地語電視新聞頻道。該頻道由拉傑特·夏馬與妻子瑞圖·達瓦 於2004年5月20日開播。該頻道是獨立新聞社 的子公司，獨立新聞服務由夏馬和達瓦於1997年共同創立。該頻道於2022年2月進行了品牌重塑。",
+    "id": "India TV adalah sebuah saluran berita Hindi nasional yang berbasis di Noida, Uttar Pradesh, India."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/India_TV",
+    "es": "https://es.wikipedia.org/wiki/India_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%B0%E5%BA%A6%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%B0%E5%BA%A6%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93",
+    "id": "https://id.wikipedia.org/wiki/India_TV"
+   },
+   "logo": null,
+   "website": "https://www.indiatvnews.com/",
+   "city": null
+  },
+  {
+   "id": "in.aajtak",
+   "name": "Aaj Tak",
+   "category": "news",
+   "languages": [
+    "hi"
+   ],
+   "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+   "youtubeVideoId": "ZdmMJE4zUvY",
+   "embeddable": true,
+   "wikidata": "Q3396358",
+   "description": {
+    "en": "Hindi news channel",
+    "ja": "ヒンディー語のニューステレビチャンネル",
+    "id": "Aaj Tak adalah sebuah kanal berita berbahasa Hindi India yang dimiliki oleh Living Media Group."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Aaj_Tak",
+    "id": "https://id.wikipedia.org/wiki/Aaj_Tak"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aaj_tak_logo.png?width=256",
+   "website": "https://www.aajtak.in",
+   "city": "नोएडा"
+  },
+  {
+   "id": "in.ndtvindia",
+   "name": "NDTV India",
+   "category": "news",
+   "languages": [
+    "hi",
+    "en"
+   ],
+   "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
+   "youtubeVideoId": "yOrVn6rxuHw",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "in.ndtv",
+   "name": "NDTV",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+   "youtubeVideoId": "ZZwjtl_LuT0",
+   "embeddable": true,
+   "wikidata": "Q2985356",
+   "description": {
+    "en": "Indian news network",
+    "es": "New Delhi Television Limited (NDTV) es una empresa de medios de televisión india fundada en 1988 por Radhika Roy, una periodista.",
+    "zh-Hans": "印度电视台",
+    "fr": "réseau de télévision indien",
+    "pt-BR": "rede de televisão indiana",
+    "ru": "Индийская телекомпания",
+    "zh-Hant": "印度电视台",
+    "ar": "إن دي تي في ، والتي تأسست في عام 1988، هي شركة تلفزيونية خاصة تقع في دولة الهند.",
+    "nl": "New Delhi Television Ltd (NDTV) is een Indiaas mediabedrijf dat zich richt op het uitzenden en digitaal publiceren van nieuws.",
+    "pl": "New Delhi Television Ltd – indyjskie przedsiębiorstwo mediowe założone w 1988 roku.",
+    "id": "New Delhi Television Limited (NDTV), dibangun pada tahun 1988, merupakan rumah produksi televisi terbesar di India.",
+    "de": "indischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NDTV",
+    "es": "https://es.wikipedia.org/wiki/NDTV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%96%B0%E5%BE%B7%E9%87%8C%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/NDTV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/NDTV_(%C3%8Dndia)",
+    "ru": "https://ru.wikipedia.org/wiki/NDTV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%96%B0%E5%BE%B7%E9%87%8C%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86_%D8%AF%D9%8A_%D8%AA%D9%8A_%D9%81%D9%8A",
+    "nl": "https://nl.wikipedia.org/wiki/NDTV",
+    "pl": "https://pl.wikipedia.org/wiki/NDTV",
+    "id": "https://id.wikipedia.org/wiki/NDTV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NDTV_logo.svg?width=256",
+   "website": "https://ndtv.in",
+   "city": "नई दिल्ली"
+  },
+  {
+   "id": "in.republicworld",
+   "name": "Republic World",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+   "youtubeVideoId": "KvRjEci4FKQ",
+   "embeddable": true,
+   "wikidata": "Q28180276",
+   "description": {
+    "en": "Indian news channel",
+    "zh-Hans": "印度新闻频道",
+    "zh-Hant": "印度新闻频道",
+    "id": "Republic TV adalah sebuah saluran berita India bebas untuk mengudara yang diluncurkan pada Mei 2017."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Republic_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Republic_TV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Republic_TV",
+    "id": "https://id.wikipedia.org/wiki/Republic_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Republic_TV.svg?width=256",
+   "website": "https://www.republicworld.com/",
+   "city": "मुम्बई"
+  },
+  {
+   "id": "in.timesnow",
+   "name": "Times Now",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
+   "youtubeVideoId": "4SGMa9IjnfA",
+   "embeddable": true,
+   "wikidata": "Q7806547",
+   "description": {
+    "en": "English News Channel of India",
+    "zh-Hans": "印度英语频道",
+    "fr": "chaine indienne anglophone",
+    "zh-Hant": "印度英語頻道",
+    "ar": "منظمة هندية",
+    "id": "saluran berita India berbahasa Inggris"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Times_Now",
+    "id": "https://id.wikipedia.org/wiki/Times_Now"
+   },
+   "logo": null,
+   "website": "https://www.timesnownews.com/",
+   "city": null
+  },
+  {
+   "id": "in.abpnews",
+   "name": "ABP News",
+   "category": "news",
+   "languages": [
+    "hi"
+   ],
+   "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
+   "youtubeVideoId": "eVv_Ta1CAkw",
+   "embeddable": true,
+   "wikidata": "Q3630156",
+   "description": {
+    "en": "Indian news channel",
+    "es": "canal de televisión de la India",
+    "zh-Hans": "ABP News，是印度ABP集團旗下的印地語免費電視新聞頻道。該頻道最初於1998年以星空傳媒旗下频道Star News的名稱推出。",
+    "ru": "индийский новостной телеканал",
+    "zh-Hant": "ABP News，是印度ABP集團旗下的印地語免費電視新聞頻道。該頻道最初於1998年以星空傳媒旗下频道Star News的名稱推出。",
+    "id": "Star News adalah stasiun televisi yang berdiri pada tahun 1998.",
+    "ms": "ABP News merupakan stesen televisyen yang beroperasi pada tahun 1998."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ABP_News",
+    "es": "https://es.wikipedia.org/wiki/ABP_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/ABP_News",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/ABP_News",
+    "id": "https://id.wikipedia.org/wiki/STAR_News",
+    "ms": "https://ms.wikipedia.org/wiki/ABP_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ABP_News_logo.svg?width=256",
+   "website": "https://www.abplive.com/",
+   "city": "नोएडा"
+  },
+  {
+   "id": "in.zeenews",
+   "name": "Zee News",
+   "category": "news",
+   "languages": [
+    "hi"
+   ],
+   "youtubeChannelId": "UCIvaYmXn910QMdemBG3v1pQ",
+   "youtubeVideoId": "Jv6lEt3PLQI",
+   "embeddable": true,
+   "wikidata": "Q5287969",
+   "description": {
+    "en": "news channel of Zee Media",
+    "es": "canal de televisión indio en hindi",
+    "fr": "chaîne d'information de Zee Media",
+    "it": "Zee News è un telegiornale in hindī di proprietà di Essel Group.",
+    "ar": "قناة إخبارية هندية",
+    "id": "Zee News adalah saluran televisi berita dan urusan publik 24-jam berbahasa Hindi pertama di India, diluncurkan pada tahun 1992."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Zee_News",
+    "es": "https://es.wikipedia.org/wiki/Zee_News",
+    "fr": "https://fr.wikipedia.org/wiki/Zee_News",
+    "it": "https://it.wikipedia.org/wiki/Zee_News",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B2%D9%8A_%D9%86%D9%8A%D9%88%D8%B2",
+    "id": "https://id.wikipedia.org/wiki/Zee_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zee_News_2025.svg?width=256",
+   "website": "http://zeenews.india.com",
+   "city": null
+  },
+  {
+   "id": "in.wion",
+   "name": "WION",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+   "youtubeVideoId": "7VeobdL8ceE",
+   "embeddable": true,
+   "wikidata": "Q23058781",
+   "description": {
+    "en": "Indian television news channel",
+    "es": "WION es un canal de noticias internacional con sede en Nueva Delhi.",
+    "zh-Hans": "印度新闻电视台",
+    "fr": "chaine d'information indienne",
+    "zh-Hant": "印度新闻电视台",
+    "ar": "العالم هو أخبار واحدة (وي أون) هي قناة إخبارية هندية متعددة الجنسياتباللغة الانجليزية ومقرها في نيودلهي.",
+    "nl": "WION is een Indiaas Engelstalig nieuwskanaal met hoofdkantoor in Noida, Delhi.",
+    "sv": "Indisk TV-nyhetskanal",
+    "id": "WION (World is One News) adalah sebuah saluran televisi berbayar berbasis berita berbahasa Inggris di India milik Essel Group.",
+    "de": "Indischer Nachrichtensender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WION",
+    "es": "https://es.wikipedia.org/wiki/WION",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E4%B8%80%E9%AB%94%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/WION",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%96%E7%95%8C%E4%B8%80%E9%AB%94%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%88%D9%8A_%D8%A3%D9%88%D9%86_(%D9%82%D9%86%D8%A7%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D8%A9)",
+    "nl": "https://nl.wikipedia.org/wiki/WION_(nieuwszender)",
+    "id": "https://id.wikipedia.org/wiki/WION_(saluran_televisi)",
+    "de": "https://de.wikipedia.org/wiki/WION_World_is_One_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WION_news_Logo.svg?width=256",
+   "website": "https://www.wionews.com/",
+   "city": "नोएडा"
+  },
+  {
+   "id": "in.indiatoday",
+   "name": "India Today",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+   "youtubeVideoId": "Unr9smxfGOw",
+   "embeddable": true,
+   "wikidata": "Q5689808",
+   "description": {
+    "en": "24-hour English language television network based in India",
+    "zh-Hans": "印度电视频道",
+    "zh-Hant": "印度电视频道",
+    "de": "indischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/India_Today_(TV_channel)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/India_Today_TV_Channel_logo.jpg?width=256",
+   "website": "http://intoday.in/",
+   "city": "नोएडा"
+  },
+  {
+   "id": "in.ddnews",
+   "name": "DD News",
+   "category": "news",
+   "languages": [
+    "en",
+    "hi"
+   ],
+   "youtubeChannelId": "UCKwucPzHZ7zCUIf7If-Wo1g",
+   "youtubeVideoId": "S3vxHoHspgo",
+   "embeddable": true,
+   "wikidata": "Q349806",
+   "description": {
+    "en": "Indian Government News Channel",
+    "pl": "DD News – indyjski kanał informacyjny, nadający 24 godziny.",
+    "id": "DD Metro yang juga dikenal sebagai DD 2 adalah saluran hiburan utama berbahasa Hindi milik Doordarshan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DD_News",
+    "pl": "https://pl.wikipedia.org/wiki/DD_News",
+    "id": "https://id.wikipedia.org/wiki/DD_Metro"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dd-news_logo.png?width=256",
+   "website": "https://ddnews.gov.in/",
+   "city": "नई दिल्ली"
+  },
+  {
+   "id": "in.news18india",
+   "name": "News18 India",
+   "category": "news",
+   "languages": [
+    "hi",
+    "en"
+   ],
+   "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
+   "youtubeVideoId": "7aHAqM61IaE",
+   "embeddable": true,
+   "wikidata": "Q19891764",
+   "description": {
+    "en": "News Channel",
+    "id": "News18 India adalah saluran televisi berbahasa Hindi dari India yang dimiliki oleh Network18 Group.",
+    "de": "indischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/News18_India",
+    "id": "https://id.wikipedia.org/wiki/News18_India"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/News_18_India.png?width=256",
+   "website": "https://hindi.news18.com/",
+   "city": "नई दिल्ली"
+  },
+  {
+   "id": "in.cnnnews18",
+   "name": "CNN-News18",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
+   "youtubeVideoId": "r0XA_jDLkFs",
+   "embeddable": true,
+   "wikidata": "Q1023924",
+   "description": {
+    "en": "Indian English-language news television channel",
+    "es": "CNN-News18 es un canal de noticias 24 horas en inglés de la India.",
+    "zh-Hans": "印度英语电视频道",
+    "fr": "chaîne de télévision d'information en continu de langue anglaise",
+    "it": "CNN-News18 è un telegiornale in inglese indiano fondato da Raghav Bahl, con sede a Noida, Uttar Pradesh e di proprietà Network 18/WarnerMedia.",
+    "ru": "CNN-News18 — индийский англоязычный новостной телевизионный канал.",
+    "zh-Hant": "印度英语电视频道",
+    "ar": "قناة تلفزيونية أخبارية هندية تبث برامجها باللغة الإنجليزية",
+    "id": "CNN News18 adalah sebuah saluran televisi urusan terkini dan berita berbahasa Inggris yang berbasis di Noida, Gautam Buddh Nagar, Uttar Pradesh.",
+    "de": "englischsprachiger indischer Nachrichtensender",
+    "ms": "CNN-News18 ialah saluran berita bahasa Inggeris India diasaskan oleh Rajdeep Sardesai terletak di Noida, Uttar Pradesh."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNN-News18",
+    "es": "https://es.wikipedia.org/wiki/CNN-News18",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/CNN%E6%96%B0%E9%97%BB18%E9%A2%91%E9%81%93",
+    "fr": "https://fr.wikipedia.org/wiki/CNN-News18",
+    "it": "https://it.wikipedia.org/wiki/CNN-News18",
+    "ru": "https://ru.wikipedia.org/wiki/CNN-News18",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/CNN%E6%96%B0%E9%97%BB18%E9%A2%91%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%A5%D9%86_%D8%A5%D9%86_%D9%86%D9%8A%D9%88%D8%B2_18",
+    "id": "https://id.wikipedia.org/wiki/CNN-News18",
+    "de": "https://de.wikipedia.org/wiki/CNN-News18",
+    "ms": "https://ms.wikipedia.org/wiki/CNN-News18"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNN-News18_logo.png?width=256",
+   "website": "https://www.news18.com/",
+   "city": "नोएडा"
+  },
+  {
+   "id": "in.tv9bharatvarsh",
+   "name": "TV9 Bharatvarsh",
+   "category": "news",
+   "languages": [
+    "hi"
+   ],
+   "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+   "youtubeVideoId": "xJjDH9YzqSU",
+   "embeddable": true,
+   "wikidata": "Q65042846",
+   "description": {
+    "en": "television station in India",
+    "sv": "hindispråkig nyhetskanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV9_Bharatvarsh",
+    "sv": "https://sv.wikipedia.org/wiki/TV9_Bharatvarsh"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "in.timesnowworld",
+   "name": "Times Now World",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+   "youtubeVideoId": "m5L888cGKoI",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

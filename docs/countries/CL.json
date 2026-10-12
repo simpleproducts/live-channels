@@ -1,0 +1,542 @@
+{
+ "schema": 2,
+ "code": "CL",
+ "version": 2026101214,
+ "defaultTiles": [
+  "cl.meganoticias",
+  "cl.24horas",
+  "cl.chvnoticias",
+  "cl.t13",
+  "cl.cnnchile",
+  "cl.tvn",
+  "cl.chilevision",
+  "cl.mega",
+  "cl.canal13"
+ ],
+ "channels": [
+  {
+   "id": "cl.meganoticias",
+   "name": "Meganoticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
+   "youtubeVideoId": "SH9q01HFyFY",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "cl.24horas",
+   "name": "24 Horas (TVN)",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCTXNz3gjAypWp3EhlIATEJQ",
+   "youtubeVideoId": "dO-acZ6aWpo",
+   "embeddable": true,
+   "wikidata": "Q2935885",
+   "description": {
+    "en": "24 horas is the brand that identifies the gathering and broadcasting of news in the Chilean public broadcaster Televisión Nacional de Chile.",
+    "es": "canal de televisión de Chile",
+    "fr": "24 Horas est une chaîne de télévision nationale publique chilienne d'information en continu.",
+    "de": "Fernsehkanal aus Chile"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/24_Horas_(Chilean_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/24_Horas_(canal_de_televisi%C3%B3n_de_Chile)",
+    "fr": "https://fr.wikipedia.org/wiki/24_Horas_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision_chilienne)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/24_Horas_TVN_logo.png?width=256",
+   "website": "http://www.24horas.cl/",
+   "city": "Providencia"
+  },
+  {
+   "id": "cl.chvnoticias",
+   "name": "CHV Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
+   "youtubeVideoId": "O1T_8xoATTI",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "cl.t13",
+   "name": "T13",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
+   "youtubeVideoId": "oy1dvCRd42s",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "cl.cnnchile",
+   "name": "CNN Chile",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
+   "youtubeVideoId": "jDXc51mQANA",
+   "embeddable": true,
+   "wikidata": "Q2931771",
+   "description": {
+    "en": "Chilean television news channel",
+    "es": "canal de televisión chileno",
+    "zh-Hans": "有线电视新闻网智利频道 是于2008年12月4日在智利开播的付费新闻频道。该台的运用商最初为VTR Chile和华纳媒体的合资企业。频道这部位于智利圣地亚哥。",
+    "fr": "CNN Chile est la chaîne chilienne d'information lancée conjointement par CNN et VTR.",
+    "pt-BR": "canal de notícias da televisão chilena",
+    "zh-Hant": "有线电视新闻网智利频道 是于2008年12月4日在智利开播的付费新闻频道。该台的运用商最初为VTR Chile和华纳媒体的合资企业。频道这部位于智利圣地亚哥。",
+    "de": "chilenischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNN_Chile",
+    "es": "https://es.wikipedia.org/wiki/CNN_Chile",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91%E6%99%BA%E5%88%A9%E9%A2%91%E9%81%93",
+    "fr": "https://fr.wikipedia.org/wiki/CNN_Chile",
+    "pt-BR": "https://pt.wikipedia.org/wiki/CNN_Chile",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91%E6%99%BA%E5%88%A9%E9%A2%91%E9%81%93",
+    "de": "https://de.wikipedia.org/wiki/CNN_Chile"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNN_Chile_logo_2017.svg?width=256",
+   "website": "http://www.cnnchile.com/",
+   "city": "Santiago de Chile"
+  },
+  {
+   "id": "cl.biobio",
+   "name": "BioBioChile",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
+   "youtubeVideoId": "az5vu1j6t7o",
+   "embeddable": true,
+   "wikidata": "Q6096198",
+   "description": {
+    "en": "Chilean radio station",
+    "es": "estación de radio chilena",
+    "fr": "Radio chilienne",
+    "pt-BR": "estação de rádio chilena",
+    "it": "stazione radiofonica cilena",
+    "id": "stasiun radio di Chili",
+    "de": "chilenischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_B%C3%ADo-B%C3%ADo",
+    "es": "https://es.wikipedia.org/wiki/Radio_B%C3%ADo-B%C3%ADo",
+    "fr": "https://fr.wikipedia.org/wiki/Radio_B%C3%ADo-B%C3%ADo",
+    "de": "https://de.wikipedia.org/wiki/Radio_B%C3%ADo-B%C3%ADo"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Estudios_Radio_B%C3%ADo-B%C3%ADo%2C_Providencia%2C_Santiago_20210905_40.jpg?width=256",
+   "website": "http://www.biobiochile.cl/",
+   "city": "Concepción"
+  },
+  {
+   "id": "cl.tvn",
+   "name": "TVN",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
+   "youtubeVideoId": "nP1eJUIMEpY",
+   "embeddable": true,
+   "wikidata": "Q597933",
+   "description": {
+    "en": "Chilean public service broadcaster",
+    "es": "televisión pública de Chile",
+    "zh-Hans": "智利公共电视网",
+    "ja": "チリの公共テレビ局",
+    "fr": "entreprise audiovisuelle publique chilienne",
+    "pt-BR": "rede de televisão do Governo do Chile",
+    "ko": "칠레의 공영 텔레비전 방송국",
+    "it": "ente televisivo pubblico cileno",
+    "ru": "чилийская государственная телевизионная станция",
+    "zh-Hant": "智利的電視網絡頻道",
+    "ar": "خدمة التلفزيون العامة التشيلية",
+    "tr": "Şili kamu televizyon istasyonu",
+    "nl": "Chileens televisienetwerk",
+    "pl": "chilijska telewizja publiczna",
+    "sv": "chilensk offentlig TV-kanal",
+    "id": "Stasiun televisi publik Chili",
+    "de": "Öffentlicher TV-Rundfunk in Chile",
+    "ms": "Stesen televisyen awam Chile"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "es": "https://es.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%99%BA%E5%88%A9%E5%9B%BD%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%93%E3%82%B7%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%8A%E3%82%B7%E3%82%AA%E3%83%8A%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%83%81%E3%83%AC",
+    "fr": "https://fr.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%85%94%EB%A0%88%EB%B9%84%EC%8B%9C%EC%98%A8_%EB%82%98%EC%8B%9C%EC%98%A4%EB%82%A0_%EB%8D%B0_%EC%B9%A0%EB%A0%88",
+    "it": "https://it.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A7%D0%B8%D0%BB%D0%B8",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%99%BA%E5%88%A9%E5%9B%BD%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D9%86%D8%A7%D8%B3%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AF_%D8%AA%D8%B4%D9%8A%D9%84%D9%8A",
+    "tr": "https://tr.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "nl": "https://nl.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "pl": "https://pl.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "sv": "https://sv.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "id": "https://id.wikipedia.org/wiki/Televisi_Nasional_Chili",
+    "de": "https://de.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile",
+    "ms": "https://ms.wikipedia.org/wiki/Televisi%C3%B3n_Nacional_de_Chile"
+   },
+   "logo": null,
+   "website": "http://www.tvn.cl",
+   "city": "Providencia"
+  },
+  {
+   "id": "cl.chilevision",
+   "name": "Chilevisión",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
+   "youtubeVideoId": "t36ce52KhzM",
+   "embeddable": true,
+   "wikidata": "Q600815",
+   "description": {
+    "en": "Chilean television channel",
+    "es": "canal de televisión abierta chileno",
+    "fr": "chaîne de télévision chilienne",
+    "pt-BR": "canal de televisão chileno",
+    "ko": "칠레비시온(스페인어: Chilevisión)은 칠레의 텔레비전 채널이다.",
+    "it": "rete televisiva cilena",
+    "ar": "قناة تلفزيونية تشيلية تابعة لنظام تيرنر للبث",
+    "tr": "Chilevisión, Şili merkezli bir televizyon kanalıdır.",
+    "pl": "Chilevisión – chilijska stacja telewizyjna, założona w 1960 roku.",
+    "id": "Chilevisión adalah jaringan televisi Chili tertua ketiga.",
+    "de": "chilenischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Chilevisi%C3%B3n",
+    "es": "https://es.wikipedia.org/wiki/Chilevisi%C3%B3n",
+    "fr": "https://fr.wikipedia.org/wiki/Chilevisi%C3%B3n",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Chilevisi%C3%B3n",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%A0%EB%A0%88%EB%B9%84%EC%8B%9C%EC%98%A8",
+    "it": "https://it.wikipedia.org/wiki/Chilevisi%C3%B3n",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D9%8A%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86",
+    "tr": "https://tr.wikipedia.org/wiki/Chilevisi%C3%B3n",
+    "pl": "https://pl.wikipedia.org/wiki/Chilevisi%C3%B3n",
+    "id": "https://id.wikipedia.org/wiki/Chilevisi%C3%B3n",
+    "de": "https://de.wikipedia.org/wiki/Chilevisi%C3%B3n"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_Principal_de_Chilevisi%C3%B3n.svg?width=256",
+   "website": "http://www.chilevision.cl/",
+   "city": "Santiago de Chile"
+  },
+  {
+   "id": "cl.mega",
+   "name": "Mega",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
+   "youtubeVideoId": "bLhcnrG_vpI",
+   "embeddable": true,
+   "wikidata": "Q597946",
+   "description": {
+    "en": "Chilean private television network",
+    "es": "cadena de televisión chilena",
+    "zh-Hans": "美佳电视网 是一家总部设在圣地亚哥的智利私人电视网络。",
+    "ja": "メガ(MEGA)は、サンティアゴに本部を置くチリの無料テレビ放送網です。",
+    "fr": "chaine de télévision chilienne",
+    "pt-BR": "rede de televisão chilena",
+    "ko": "메가(Mega)는 칠레의 텔레비전 네트워크다.",
+    "it": "rete televisiva cilena",
+    "ru": "чилийский телеканал",
+    "zh-Hant": "美佳电视网 是一家总部设在圣地亚哥的智利私人电视网络。",
+    "ar": "قناة تلفزيونية تشيلية",
+    "tr": "Mega, Şili merkezli bir özel televizyon kanalıdır.",
+    "pl": "chilijska stacja telewizyjna",
+    "sv": "Mega är en chilensk TV-kanal, som ägs av Grupo Bethia och Discovery, Inc.",
+    "id": "Mega adalah jaringan televisi Chili yang bermarkas di Santiago de Chile.",
+    "de": "chilenischer Fernsehsender",
+    "ms": "Red Televisiva Megavisión (MEGA) adalah rangkaian televisyen swasta Chile yang beribu pejabat di Santiago."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Mega_(Chilean_TV_network)",
+    "es": "https://es.wikipedia.org/wiki/Mega_(canal_de_televisi%C3%B3n_de_Chile)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%BE%8E%E4%BD%B3%E7%94%B5%E8%A7%86%E7%BD%91",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AC_(%E3%83%81%E3%83%AA%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB)",
+    "fr": "https://fr.wikipedia.org/wiki/Mega_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Mega_(rede_de_televis%C3%A3o)",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%A9%94%EA%B0%80_(%EC%B9%A0%EB%A0%88%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)",
+    "it": "https://it.wikipedia.org/wiki/Mega_(rete_televisiva_cilena)",
+    "ru": "https://ru.wikipedia.org/wiki/Mega_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB,_%D0%A7%D0%B8%D0%BB%D0%B8)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%BE%8E%E4%BD%B3%E7%94%B5%E8%A7%86%E7%BD%91",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D8%AC%D8%A7_(%D8%AA%D8%B4%D9%8A%D9%84%D9%8A)",
+    "tr": "https://tr.wikipedia.org/wiki/Mega_(televizyon_kanal%C4%B1)",
+    "pl": "https://pl.wikipedia.org/wiki/Mega_(stacja_telewizyjna)",
+    "sv": "https://sv.wikipedia.org/wiki/Mega_(chilensk_TV-kanal)",
+    "id": "https://id.wikipedia.org/wiki/Mega_(saluran_televisi_Chili)",
+    "de": "https://de.wikipedia.org/wiki/Mega_(Fernsehsender)",
+    "ms": "https://ms.wikipedia.org/wiki/Mega_(saluran_TV_Chile)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_de_Mega_%282020-%29.svg?width=256",
+   "website": "http://www.mega.cl",
+   "city": "Santiago"
+  },
+  {
+   "id": "cl.canal13",
+   "name": "Canal 13",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
+   "youtubeVideoId": "VoUf_OHUJkA",
+   "embeddable": true,
+   "wikidata": "Q600805",
+   "description": {
+    "en": "Chilean media network",
+    "es": "canal de televisión chileno",
+    "zh-Hans": "13频道 是智利的一家地面电视频道，1959年8月21日由智利天主教大学的工程师创办。是智利第二古老的电视台。曾由智利天主教大学管理，该电视台由卢克希奇集团持有，其总部位于圣地亚哥。",
+    "ja": "チャンネル13 は、チリのテレビチャンネルである。",
+    "fr": "chaîne de télévision chilienne",
+    "pt-BR": "rede de televisão do Chile",
+    "ko": "카날 13(스페인어: Canal 13)는 칠레의 텔레비전 네트워크로, 칠레에서 두번째로 오래된 텔레비전 방송국이다.",
+    "it": "rete televisiva cilena",
+    "ru": "чилийский телеканал",
+    "zh-Hant": "13频道 是智利的一家地面电视频道，1959年8月21日由智利天主教大学的工程师创办。是智利第二古老的电视台。曾由智利天主教大学管理，该电视台由卢克希奇集团持有，其总部位于圣地亚哥。",
+    "ar": "قناة تلفزيونية تشيلية",
+    "tr": "Şilili televizyon kanalı",
+    "pl": "Canal 13 – chilijska stacja telewizyjna.",
+    "sv": "Canal 13 är den näst äldsta TV-kanalen i Chile, och började sändas den 21 augusti 1959.",
+    "id": "Canal 13 adalah saluran televisi Chili.",
+    "de": "chilenischer Fernsehsender",
+    "ms": "Canal 13 adalah saluran televisyen bebas udara Chile."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_13_(Chilean_TV_network)",
+    "es": "https://es.wikipedia.org/wiki/Canal_13_(Chile)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%99%BA%E5%88%A913%E9%A2%91%E9%81%93",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB13_(%E3%83%81%E3%83%AA)",
+    "fr": "https://fr.wikipedia.org/wiki/Canal_13_(Chili)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_13_(Chile)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%82%A0_13_(%EC%B9%A0%EB%A0%88%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EC%B1%84%EB%84%90)",
+    "it": "https://it.wikipedia.org/wiki/Canal_13_(rete_televisiva_cilena)",
+    "ru": "https://ru.wikipedia.org/wiki/Canal_13_(%D0%A7%D0%B8%D0%BB%D0%B8)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%99%BA%E5%88%A913%E9%A2%91%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_13_(%D8%AA%D8%B4%D9%8A%D9%84%D9%8A)",
+    "tr": "https://tr.wikipedia.org/wiki/Canal_13_(%C5%9Eili)",
+    "pl": "https://pl.wikipedia.org/wiki/Canal_13_(Chile)",
+    "sv": "https://sv.wikipedia.org/wiki/Canal_13_(chilensk_TV-kanal)",
+    "id": "https://id.wikipedia.org/wiki/Canal_13_(Chili)",
+    "de": "https://de.wikipedia.org/wiki/Canal_13_(Chile)",
+    "ms": "https://ms.wikipedia.org/wiki/Canal_13_(saluran_TV_Chile)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_13_2025.svg?width=256",
+   "website": "http://www.13.cl",
+   "city": "Santiago de Chile"
+  },
+  {
+   "id": "cl.lared",
+   "name": "La Red",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCO_X-fuUzKLzm-AAVjU5nrA",
+   "youtubeVideoId": "Slia5zB6b7k",
+   "embeddable": true,
+   "wikidata": "Q369153",
+   "description": {
+    "en": "Chilean television channel",
+    "es": "canal de televisión de Chile",
+    "zh-Hans": "智利電視網 是智利的私人電視頻道。",
+    "ja": "ラ・レッド(La Red)は、アルバビシオンが所有するチリの地上波テレビチャンネル。1991年5月12日に発売されました。",
+    "fr": "chaîne de télévision chilienne",
+    "pt-BR": "La Red é uma rede de televisão chilena fundada em 12 de maio de 1991.",
+    "ko": "라 레드(스페인어: La Red)는 칠레의 텔레비전 채널이다.",
+    "it": "rete televisiva cilena",
+    "zh-Hant": "智利電視網 是智利的私人電視頻道。",
+    "ar": "قناة تلفزيونية تشيلية",
+    "tr": "La Red, Şili merkezli bir özel televizyon kanalıdır.",
+    "pl": "chilijska stacja telewizyjna",
+    "sv": "La Red är en privat chilensk TV-kanal.",
+    "de": "chilenischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/La_Red_(Chilean_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/La_Red_(canal_de_televisi%C3%B3n_de_Chile)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%99%BA%E5%88%A9%E9%9B%BB%E8%A6%96%E7%B6%B2",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%AC%E3%83%83%E3%83%89",
+    "fr": "https://fr.wikipedia.org/wiki/La_Red_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/La_Red",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%9D%BC_%EB%A0%88%EB%93%9C",
+    "it": "https://it.wikipedia.org/wiki/La_Red",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%99%BA%E5%88%A9%E9%9B%BB%E8%A6%96%E7%B6%B2",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%84%D8%A7_%D8%B1%D9%8A%D8%AF_(%D9%82%D9%86%D8%A7%D8%A9_%D8%AA%D8%B4%D9%8A%D9%84%D9%8A%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/La_Red",
+    "pl": "https://pl.wikipedia.org/wiki/La_Red",
+    "sv": "https://sv.wikipedia.org/wiki/La_Red_(TV-kanal)",
+    "de": "https://de.wikipedia.org/wiki/La_Red"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Red_Logotipo_2021.svg?width=256",
+   "website": "http://www.lared.cl/",
+   "city": "Santiago de Chile"
+  },
+  {
+   "id": "cl.senado",
+   "name": "Senado de Chile",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC4GJ43VNn4AYfiYa0RBCHQg",
+   "youtubeVideoId": "ScMO3oncXdM",
+   "embeddable": true,
+   "wikidata": "Q2119458",
+   "description": {
+    "en": "Upper house of Chile's National Congress",
+    "es": "cámara alta del Congreso Nacional de Chile",
+    "zh-Hans": "智利共和国参议院 是按照《智利憲法》设立的兩院制智利国会的上議院。",
+    "ja": "元老院 は、チリ共和国の議会を構成する議院のひとつで、上院に相当する。",
+    "fr": "chambre haute du Congrès national du Chili",
+    "pt-BR": "câmara alta do Congresso Nacional do Chile",
+    "it": "camera alta del Congresso nazionale cileno",
+    "ru": "верхняя палата Национального конгресса Чили",
+    "zh-Hant": "智利共和国参议院 是按照《智利憲法》设立的兩院制智利国会的上議院。",
+    "tr": "Şili Cumhuriyeti Senatosu, Şili Ulusal Kongresi'nin üst meclisi olan yasama organıdır.",
+    "nl": "De Senado de Chile is het hogerhuis van het Congreso Nacional de Chile.",
+    "pl": "Senat – izba wyższa chilijskiego Kongresu Narodowego z siedzibą w Valparaíso.",
+    "de": "Oberhaus des chilenischen Parlaments"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Senate_of_Chile",
+    "es": "https://es.wikipedia.org/wiki/Senado_de_Chile",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%99%BA%E5%88%A9%E5%8F%82%E8%AE%AE%E9%99%A2",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%85%83%E8%80%81%E9%99%A2_(%E3%83%81%E3%83%AA)",
+    "fr": "https://fr.wikipedia.org/wiki/S%C3%A9nat_(Chili)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Senado_do_Chile",
+    "it": "https://it.wikipedia.org/wiki/Senato_(Cile)",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%B0%D1%82_%D0%A7%D0%B8%D0%BB%D0%B8",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%99%BA%E5%88%A9%E5%8F%82%E8%AE%AE%E9%99%A2",
+    "tr": "https://tr.wikipedia.org/wiki/Senato_(%C5%9Eili)",
+    "nl": "https://nl.wikipedia.org/wiki/Senaat_(Chili)",
+    "pl": "https://pl.wikipedia.org/wiki/Senat_(Chile)",
+    "de": "https://de.wikipedia.org/wiki/Senat_(Chile)"
+   },
+   "logo": null,
+   "website": "https://www.senado.cl/",
+   "city": null
+  },
+  {
+   "id": "cl.camara",
+   "name": "Cámara de Diputados de Chile",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA",
+   "youtubeVideoId": "97YFyeLSavY",
+   "embeddable": true,
+   "wikidata": "Q2119518",
+   "description": {
+    "en": "Lower house of Chile's National Congress",
+    "es": "cámara baja del Congreso Nacional de Chile",
+    "zh-Hans": "智利众议院是智利国会两院中的下议院，自2017年開始通过汉狄法開放名單比例代表制选举产生。",
+    "ja": "代議院 は、チリ共和国の議会を構成する議院のひとつで、下院に相当する。",
+    "fr": "chambre basse du Congrès national du Chili",
+    "pt-BR": "A Câmara dos Deputados do Chile é uma das dos câmaras que integram o Congresso Nacional.",
+    "it": "camera bassa del Congresso nazionale cileno",
+    "ru": "нижняя палата Национального Конгресса Чили",
+    "zh-Hant": "智利众议院是智利国会两院中的下议院，自2017年開始通过汉狄法開放名單比例代表制选举产生。",
+    "ar": "مجلس نواب تشيلي هو الهيئة التشريعية في دولة تشيلي، ويتكون من 120 ، و155 مقعداً، وتبلغ عدد دوائره الانتخابية 28 دائرة، وهو المجلس الأدنى في National Congress of Chile ‏.",
+    "tr": "Temsilciler Meclisi, Şili Ulusal Kongresi'nin alt meclisi olan yasama organıdır.",
+    "nl": "De Cámara de Diputados de Chile is het lagerhuis van het Congreso Nacional de Chile.",
+    "pl": "izba niższa chilijskiego Kongresu Narodowego",
+    "de": "Die Abgeordnetenkammer ist das Unterhaus und eine der beiden Kammern der chilenischen Legislative."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Chile",
+    "es": "https://es.wikipedia.org/wiki/C%C3%A1mara_de_Diputadas_y_Diputados_de_Chile",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%99%BA%E5%88%A9%E7%9C%BE%E8%AD%B0%E9%99%A2",
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BB%A3%E8%AD%B0%E9%99%A2_(%E3%83%81%E3%83%AA)",
+    "fr": "https://fr.wikipedia.org/wiki/Chambre_des_d%C3%A9put%C3%A9s_(Chili)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/C%C3%A2mara_dos_Deputados_do_Chile",
+    "it": "https://it.wikipedia.org/wiki/Camera_dei_deputati_(Cile)",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D0%B0_%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%A7%D0%B8%D0%BB%D0%B8",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%99%BA%E5%88%A9%E7%9C%BE%E8%AD%B0%E9%99%A2",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%84%D8%B3_%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8_(%D8%AA%D8%B4%D9%8A%D9%84%D9%8A)",
+    "tr": "https://tr.wikipedia.org/wiki/Temsilciler_Meclisi_(%C5%9Eili)",
+    "nl": "https://nl.wikipedia.org/wiki/Kamer_van_Afgevaardigden_(Chili)",
+    "pl": "https://pl.wikipedia.org/wiki/Izba_Deputowanych_(Chile)",
+    "de": "https://de.wikipedia.org/wiki/Abgeordnetenkammer_(Chile)"
+   },
+   "logo": null,
+   "website": "http://www.camara.cl",
+   "city": null
+  },
+  {
+   "id": "cl.adn",
+   "name": "ADN Radio Chile",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
+   "youtubeVideoId": "75JiOPOwH6c",
+   "embeddable": true,
+   "wikidata": "Q5653556",
+   "description": {
+    "en": "radio station in Chile",
+    "es": "estación de radio chilena",
+    "it": "stazione radiofonica cilena",
+    "id": "stasiun radio di Chili",
+    "de": "chilenischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ADN_Radio",
+    "es": "https://es.wikipedia.org/wiki/Radio_ADN"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ADN_Radio_Chile.svg?width=256",
+   "website": "http://www.adnradio.cl",
+   "city": null
+  },
+  {
+   "id": "cl.t13radio",
+   "name": "T13 Radio",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

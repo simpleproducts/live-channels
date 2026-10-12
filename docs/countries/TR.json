@@ -1,0 +1,481 @@
+{
+ "schema": 2,
+ "code": "TR",
+ "version": 2026101214,
+ "defaultTiles": [
+  "tr.cnnturk",
+  "tr.trthaber",
+  "tr.haberturk",
+  "tr.ntv",
+  "tr.halktv",
+  "tr.sozcu",
+  "tr.trtworld",
+  "tr.ahaber",
+  "tr.tgrthaber"
+ ],
+ "channels": [
+  {
+   "id": "tr.cnnturk",
+   "name": "CNN Türk",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
+   "youtubeVideoId": "Idu92SO5SJg",
+   "embeddable": true,
+   "wikidata": "Q2931786",
+   "description": {
+    "en": "Turkish news channel",
+    "es": "CNN Türk es la versión en turco del popular canal de noticias CNN, propiedad compartida entre Warner Bros.",
+    "zh-Hans": "有线电视新闻网土耳其语频道 是美国特纳广播公司（CNN的母公司）与土耳其Doğan Media Group合资成立的一家电视台，也是土耳其最大的私营电视台。",
+    "fr": "CNN Türk est la version locale en Turquie de CNN, la chaîne d'information internationale en continu originaire des États-Unis.",
+    "pt-BR": "canal de notícias por assinatura turco",
+    "it": "rete televisiva turca",
+    "ru": "CNN Türk — турецкая версия американского новостного телеканала CNN.",
+    "zh-Hant": "有线电视新闻网土耳其语频道 是美国特纳广播公司（CNN的母公司）与土耳其Doğan Media Group合资成立的一家电视台，也是土耳其最大的私营电视台。",
+    "ar": "قناة تلفزيونية تركية",
+    "tr": "Türkiye merkezli ulusal haber kanalı",
+    "nl": "CNN Türk is een Turkse nieuwszender die gelanceerd is op 11 oktober 1999 als de gelokaliseerde variant van het Amerikaanse CNN.",
+    "pl": "turecka stacja telewizyjna",
+    "id": "CNN Türk adalah sebuah versi Turki dari saluran berita kabel populer CNN.",
+    "de": "türkische Version des Nachrichtensenders CNN mit Sitz in Istanbul"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "es": "https://es.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91%E5%9C%9F%E8%80%B3%E5%85%B6%E8%AF%AD%E9%A2%91%E9%81%93",
+    "fr": "https://fr.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "pt-BR": "https://pt.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "it": "https://it.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "ru": "https://ru.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91%E5%9C%9F%E8%80%B3%E5%85%B6%E8%AF%AD%E9%A2%91%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%A3%D9%86_%D8%A3%D9%86_%D8%AA%D9%88%D8%B1%D9%83",
+    "tr": "https://tr.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "nl": "https://nl.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "pl": "https://pl.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "id": "https://id.wikipedia.org/wiki/CNN_T%C3%BCrk",
+    "de": "https://de.wikipedia.org/wiki/CNN_T%C3%BCrk"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNN_T%C3%BCrk_logo.svg?width=256",
+   "website": "https://www.cnnturk.com/",
+   "city": "İstanbul"
+  },
+  {
+   "id": "tr.trthaber",
+   "name": "TRT Haber",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCBgTP2LOFVPmq15W-RH-WXA",
+   "youtubeVideoId": "GefoJ-LXYfc",
+   "embeddable": true,
+   "wikidata": "Q535725",
+   "description": {
+    "en": "Turkish public broadcasting news station",
+    "es": "TRT Haber es un canal de televisión público turco.",
+    "zh-Hans": "土耳其廣播電視公司新聞頻道 是土耳其廣播電視公司一條於2010年開播的電視頻道，主要播放各類新聞和時事節目。這條頻道跟公司其他電視頻道一樣均為每日24小時不停播放，並在2013年11月18日正式開播高清電視訊號。",
+    "fr": "chaîne de télévision turque",
+    "it": "rete televisiva turca",
+    "ru": "TRT Haber — турецкий новостной канал, основанный TRT 18 марта 2010 года, когда он начал вещание на предыдущей частоте TRT 2.",
+    "zh-Hant": "土耳其廣播電視公司新聞頻道 是土耳其廣播電視公司一條於2010年開播的電視頻道，主要播放各類新聞和時事節目。這條頻道跟公司其他電視頻道一樣均為每日24小時不停播放，並在2013年11月18日正式開播高清電視訊號。",
+    "ar": "تي أر تي هابير هي قناة إخبارية تابعة لهيئة الإذاعة والتلفزيون التركية، بدأت بثها على مدار 24 ساعة في 10 مارس 2010م.",
+    "tr": "Türk ulusal devlet haber kanalı",
+    "pl": "turecki kanał telewizyjny",
+    "de": "türkischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TRT_Haber",
+    "es": "https://es.wikipedia.org/wiki/TRT_Haber",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%A6%96%E5%85%AC%E5%8F%B8%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93",
+    "fr": "https://fr.wikipedia.org/wiki/TRT_Haber",
+    "it": "https://it.wikipedia.org/wiki/TRT_Haber",
+    "ru": "https://ru.wikipedia.org/wiki/TRT_Haber",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%A6%96%E5%85%AC%E5%8F%B8%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A_%D8%A3%D8%B1_%D8%AA%D9%8A_%D9%87%D8%A7%D8%A8%D9%8A%D8%B1",
+    "tr": "https://tr.wikipedia.org/wiki/TRT_Haber",
+    "pl": "https://pl.wikipedia.org/wiki/TRT_Haber",
+    "de": "https://de.wikipedia.org/wiki/TRT-Haber"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg?width=256",
+   "website": "http://www.trthaber.com/",
+   "city": "Ankara"
+  },
+  {
+   "id": "tr.haberturk",
+   "name": "Habertürk",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
+   "youtubeVideoId": "l38DxP6p89U",
+   "embeddable": true,
+   "wikidata": "Q6092925",
+   "description": {
+    "en": "Turkish news network",
+    "ru": "Habertürk TV — турецкий телеканал, входящий в медиагруппу Ciner Yayın Holding.",
+    "tr": "Türkiye merkezli ulusal haber kanalı",
+    "de": "türkischer Nachrichtensender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Habert%C3%BCrk_TV",
+    "ru": "https://ru.wikipedia.org/wiki/Habert%C3%BCrk_TV",
+    "tr": "https://tr.wikipedia.org/wiki/Habert%C3%BCrk_TV",
+    "de": "https://de.wikipedia.org/wiki/Habert%C3%BCrk_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Habert%C3%BCrktv.jpg?width=256",
+   "website": "https://tv.haberturk.com",
+   "city": "İstanbul"
+  },
+  {
+   "id": "tr.ntv",
+   "name": "NTV",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UC9TDTjbOjFB9jADmPhSAPsw",
+   "youtubeVideoId": "pqq5c6k70kk",
+   "embeddable": true,
+   "wikidata": "Q1961596",
+   "description": {
+    "en": "Turkish news network",
+    "es": "NTV es un canal de televisión turco de noticias, propiedad de Doğuş Media Group.",
+    "ja": "NTVは、トルコの全国テレビ・ニュース・チャンネル。2000年から2014年にかけては、MSNBCと提携していた。国内ニュース、国際ニュースに加え、ドキュメンタリーや、金融、芸術・文化、ライフスタイル、スポーツに関する番組も交えて編成されている。",
+    "fr": "Chaîne de télévision turque créée en 1996",
+    "it": "rete televisiva turca",
+    "ru": "турецкий телеканал",
+    "tr": "Türkiye merkezli ulusal haber kanalı",
+    "id": "NTV adalah sebuah saluran berita televisi seluruh negeri Turki.",
+    "de": "türkischer Nachrichtensender der Doğuş Holding"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NTV_(Turkish_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/NTV_(Turqu%C3%ADa)",
+    "ja": "https://ja.wikipedia.org/wiki/NTV_(%E3%83%88%E3%83%AB%E3%82%B3)",
+    "fr": "https://fr.wikipedia.org/wiki/NTV_(Turquie)",
+    "it": "https://it.wikipedia.org/wiki/NTV_(Turchia)",
+    "ru": "https://ru.wikipedia.org/wiki/NTV_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB,_%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F)",
+    "tr": "https://tr.wikipedia.org/wiki/NTV",
+    "id": "https://id.wikipedia.org/wiki/NTV_(Turki)",
+    "de": "https://de.wikipedia.org/wiki/NTV_(T%C3%BCrkei)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NTV_%28Turkey%29_logo.svg?width=256",
+   "website": "https://ntv.com.tr",
+   "city": "Maslak"
+  },
+  {
+   "id": "tr.halktv",
+   "name": "Halk TV",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCf_ResXZzE-o18zACUEmyvQ",
+   "youtubeVideoId": "edyqMx5JGow",
+   "embeddable": true,
+   "wikidata": "Q6065965",
+   "description": {
+    "en": "Turkish news network",
+    "tr": "Türkiye merkezli ulusal haber kanalı",
+    "de": "türkischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Halk_TV",
+    "tr": "https://tr.wikipedia.org/wiki/Halk_TV",
+    "de": "https://de.wikipedia.org/wiki/Halk_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Halk_TV_logo.png?width=256",
+   "website": "http://halktv.com.tr/",
+   "city": "Ankara"
+  },
+  {
+   "id": "tr.sozcu",
+   "name": "Sözcü TV",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
+   "youtubeVideoId": "gccQ6Tcr9dg",
+   "embeddable": true,
+   "wikidata": "Q116775276",
+   "description": {
+    "tr": "Türkiye'de bir televizyon kanalı",
+    "de": "türkischer privater Nachrichtensender"
+   },
+   "wikipedia": {
+    "tr": "https://tr.wikipedia.org/wiki/S%C3%B6zc%C3%BC_TV",
+    "de": "https://de.wikipedia.org/wiki/S%C3%B6zc%C3%BC_TV"
+   },
+   "logo": null,
+   "website": "https://szctv.com.tr/",
+   "city": null
+  },
+  {
+   "id": "tr.trtworld",
+   "name": "TRT World",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+   "youtubeVideoId": "qBe59l6p_EU",
+   "embeddable": true,
+   "wikidata": "Q6063045",
+   "description": {
+    "en": "Turkish public radio and television broadcaster",
+    "es": "canal de televisión turca en inglés",
+    "zh-Hans": "土耳其廣播電視公司國際頻道 是土耳其广播电视公司一条24小时播放的英语国际新闻频道，于2015年5月18日试播以及在6月30日正式开播，並通过卫星电视、有线电视和网络电视向全球播出。这条频道的总部位于土耳其伊斯坦布尔，並在美国华盛顿、英国伦敦以及新加坡设有演播室。",
+    "fr": "chaine de télévision turque",
+    "zh-Hant": "土耳其廣播電視公司國際頻道 是土耳其广播电视公司一条24小时播放的英语国际新闻频道，于2015年5月18日试播以及在6月30日正式开播，並通过卫星电视、有线电视和网络电视向全球播出。这条频道的总部位于土耳其伊斯坦布尔，並在美国华盛顿、英国伦敦以及新加坡设有演播室。",
+    "ar": "قناة تلفزيونية تركية",
+    "tr": "Türk ulusal devlet televizyon kanalı",
+    "nl": "TRT World is een Turkse publieke omroep die 24 uur per dag uitzendt, in het Turks, Engels, Arabisch, Azerbeidzjaans en Koerdisch.",
+    "id": "TRT World adalah stasiun televisi berita internasional 24-jam berbahasa Inggris yang berbasis di Istanbul, Turki.",
+    "de": "türkischer Fernsehsender",
+    "ms": "stesen penyiaran awam Turki"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TRT_World",
+    "es": "https://es.wikipedia.org/wiki/TRT_World",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%85%AC%E5%8F%B8%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93",
+    "fr": "https://fr.wikipedia.org/wiki/TRT_World",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%85%AC%E5%8F%B8%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A_%D8%A2%D8%B1_%D8%AA%D9%8A_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
+    "tr": "https://tr.wikipedia.org/wiki/TRT_World",
+    "nl": "https://nl.wikipedia.org/wiki/TRT_World",
+    "id": "https://id.wikipedia.org/wiki/TRT_World",
+    "de": "https://de.wikipedia.org/wiki/TRT_World",
+    "ms": "https://ms.wikipedia.org/wiki/TRT_World"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TRT_World.svg?width=256",
+   "website": "http://www.trtworld.com/",
+   "city": "Ankara"
+  },
+  {
+   "id": "tr.ahaber",
+   "name": "A Haber",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
+   "youtubeVideoId": "EyTWkmkQxJA",
+   "embeddable": true,
+   "wikidata": "Q6089384",
+   "description": {
+    "en": "Turkish news network",
+    "fr": "a HBR ou a Haber est une chaîne de télévision turque fondée en 2011.",
+    "tr": "Türk haber kanalı",
+    "de": "türkischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/A_Haber",
+    "fr": "https://fr.wikipedia.org/wiki/A_HBR",
+    "tr": "https://tr.wikipedia.org/wiki/A_Haber",
+    "de": "https://de.wikipedia.org/wiki/A_Haber"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ahaber_Logo.png?width=256",
+   "website": "https://ahaber.com.tr",
+   "city": "İstanbul"
+  },
+  {
+   "id": "tr.tgrthaber",
+   "name": "TGRT Haber",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCzgrZ-CndOoylh2_e72nSBQ",
+   "youtubeVideoId": "WX29nlgdqho",
+   "embeddable": true,
+   "wikidata": "Q6084153",
+   "description": {
+    "en": "Turkish news network",
+    "tr": "Türkiye merkezli ulusal haber kanalı",
+    "de": "türkischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TGRT_Haber",
+    "tr": "https://tr.wikipedia.org/wiki/TGRT_Haber",
+    "de": "https://de.wikipedia.org/wiki/TGRT_Haber"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TGRT_Haber_logosu.png?width=256",
+   "website": "https://www.tgrthaber.com/",
+   "city": "Yenibosna Merkez"
+  },
+  {
+   "id": "tr.haberglobal",
+   "name": "Haber Global",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
+   "youtubeVideoId": "EqoCJ8BPxtE",
+   "embeddable": true,
+   "wikidata": "Q84432980",
+   "description": {
+    "ar": "الخبر العالمي هي قناة إخبارية وموقع إخباري في تركيا بدأ البث في 24 سبتمبر 2018.",
+    "tr": "Türkiye merkezli ulusal haber kanalı",
+    "de": "Haber Global ist ein türkischer privater Nachrichtensender der Global Media A.Ş."
+   },
+   "wikipedia": {
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AE%D8%A8%D8%B1_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A_(%D9%82%D9%86%D8%A7%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/Haber_Global",
+    "de": "https://de.wikipedia.org/wiki/Haber_Global"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Haber_Global_logo.svg?width=256",
+   "website": "https://www.haberglobal.com.tr/",
+   "city": "Sarıyer"
+  },
+  {
+   "id": "tr.tv100",
+   "name": "tv100",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
+   "youtubeVideoId": "4WSvLRk83-c",
+   "embeddable": true,
+   "wikidata": "Q85975294",
+   "description": {
+    "en": "Turkish national news channel",
+    "fr": "chaîne d'information nationale basée en Turquie",
+    "tr": "Türkiye merkezli ulusal haber kanalı",
+    "de": "In der Türkei ansässiger nationaler Nachrichtensender"
+   },
+   "wikipedia": {
+    "tr": "https://tr.wikipedia.org/wiki/TV100",
+    "de": "https://de.wikipedia.org/wiki/TV100"
+   },
+   "logo": null,
+   "website": "https://www.tv100.com",
+   "city": null
+  },
+  {
+   "id": "tr.24tv",
+   "name": "24 TV",
+   "category": "news",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCN7VYCsI4Lx1-J4_BtjoWUA",
+   "youtubeVideoId": "6B-nPOdP720",
+   "embeddable": true,
+   "wikidata": "Q6098008",
+   "description": {
+    "en": "Turkish news network",
+    "tr": "Türkiye merkezli ulusal haber kanalı",
+    "de": "Fernsehsender"
+   },
+   "wikipedia": {
+    "tr": "https://tr.wikipedia.org/wiki/24_(televizyon_kanal%C4%B1)"
+   },
+   "logo": null,
+   "website": "https://www.yirmidort.tv/",
+   "city": "İstanbul"
+  },
+  {
+   "id": "tr.bloomberght",
+   "name": "Bloomberg HT",
+   "category": "economy",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCApLxl6oYQafxvykuoC2uxQ",
+   "youtubeVideoId": "j7B_zsL11Pw",
+   "embeddable": true,
+   "wikidata": "Q6087645",
+   "description": {
+    "en": "Turkish news network",
+    "tr": "Türkiye merkezli ulusal ekonomi kanalı",
+    "de": "türkischer Fernsehsender"
+   },
+   "wikipedia": {
+    "tr": "https://tr.wikipedia.org/wiki/Bloomberg_HT"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bloomberg_HT_logo.svg?width=256",
+   "website": "http://www.bloomberght.com/",
+   "city": "İstanbul"
+  },
+  {
+   "id": "tr.tbmm",
+   "name": "TBMM TV",
+   "category": "government",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCJEn13vDGcJTyqe-hdpFP-g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q16875533",
+   "description": {
+    "en": "Turkish public broadcasting station",
+    "zh-Hans": "土耳其大國民議會電視台 是土耳其廣播電視公司一條於1994年開播的電視頻道，主要用作轉播土耳其大國民議會內部開會情況，並與土耳其廣播電視公司第三台共用一條頻道播放。儘管這條頻道不允許審查任何議員言論，不過在野黨派議員的發言時常會以“技術故障”为由不能夠透過頻道播出。",
+    "zh-Hant": "土耳其大國民議會電視台 是土耳其廣播電視公司一條於1994年開播的電視頻道，主要用作轉播土耳其大國民議會內部開會情況，並與土耳其廣播電視公司第三台共用一條頻道播放。儘管這條頻道不允許審查任何議員言論，不過在野黨派議員的發言時常會以“技術故障”为由不能夠透過頻道播出。",
+    "tr": "Türk ulusal devlet televizyon kanalı"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TBMM_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A4%A7%E5%9C%8B%E6%B0%91%E8%AD%B0%E6%9C%83%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A4%A7%E5%9C%8B%E6%B0%91%E8%AD%B0%E6%9C%83%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "tr": "https://tr.wikipedia.org/wiki/TBMM_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TBMM_TV_logo.svg?width=256",
+   "website": "http://tv.tbmm.gov.tr/",
+   "city": null
+  },
+  {
+   "id": "tr.atv",
+   "name": "atv",
+   "category": "entertainment",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCUVZ7T_kwkxDOGFcDlFI-hg",
+   "youtubeVideoId": "959bjt_iryU",
+   "embeddable": true,
+   "wikidata": "Q423651",
+   "description": {
+    "en": "Turkey-based cable television channel",
+    "es": "ATV es un canal de televisión turco de señal abierta que fue lanzado en julio de 1993.",
+    "fr": "station de télévision turque",
+    "pt-BR": "ATV é um canal de televisão nacional na Turquia que começou a transmitir em setembro de 1993.",
+    "ko": "터키 텔레비전 방송국",
+    "it": "rete televisiva turca",
+    "ru": "ATV — турецкий телеканал.",
+    "ar": "قتاة تلفزيونية في تركيا",
+    "tr": "Türkiye'de faaliyetlerini sürdüren televizyon kanalı",
+    "nl": "Turkse televisiezender",
+    "pl": "aTV – turecka stacja telewizyjna, założona w 1993 roku przez Dinça Bilgina.",
+    "sv": "ATV är en turkisk privat TV-kanal grundad 1994.",
+    "id": "ATV adalah sebuah saluran TV seluruh negeri di Turki, yang memulai penyiaran pada September 1993.",
+    "de": "türkischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ATV_(Turkish_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/ATV_(Turqu%C3%ADa)",
+    "fr": "https://fr.wikipedia.org/wiki/Atv_(Turquie)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/ATV_(Turquia)",
+    "ko": "https://ko.wikipedia.org/wiki/ATV_(%ED%8A%80%EB%A5%B4%ED%82%A4%EC%98%88%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)",
+    "it": "https://it.wikipedia.org/wiki/ATV_(rete_televisiva_turca)",
+    "ru": "https://ru.wikipedia.org/wiki/ATV_(%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D9%8A_%D8%AA%D9%8A_%D9%81%D9%8A_(%D9%82%D9%86%D8%A7%D8%A9_%D8%AA%D8%B1%D9%83%D9%8A%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/Atv_(T%C3%BCrkiye)",
+    "nl": "https://nl.wikipedia.org/wiki/ATV_(Turkse_televisiezender)",
+    "pl": "https://pl.wikipedia.org/wiki/ATV_(Turcja)",
+    "sv": "https://sv.wikipedia.org/wiki/ATV_(turkisk_TV-kanal)",
+    "id": "https://id.wikipedia.org/wiki/ATV_(Turki)",
+    "de": "https://de.wikipedia.org/wiki/ATV_(T%C3%BCrkei)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Atv_logo_2010.svg?width=256",
+   "website": "http://www.atv.com.tr/",
+   "city": "İstanbul"
+  }
+ ]
+}

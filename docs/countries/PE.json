@@ -1,0 +1,358 @@
+{
+ "schema": 2,
+ "code": "PE",
+ "version": 2026101214,
+ "defaultTiles": [
+  "pe.pbo",
+  "pe.larepublica",
+  "pe.rpp",
+  "pe.latina",
+  "pe.willax",
+  "pe.tvperunoticias",
+  "pe.atv",
+  "pe.panamericana",
+  "pe.congreso"
+ ],
+ "channels": [
+  {
+   "id": "pe.pbo",
+   "name": "PBO",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
+   "youtubeVideoId": "BC4Dp7v89Gw",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pe.larepublica",
+   "name": "La República",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
+   "youtubeVideoId": "yTbtHkJ_hss",
+   "embeddable": true,
+   "wikidata": "Q1330217",
+   "description": {
+    "en": "Peruvian newspaper",
+    "es": "diario peruano",
+    "fr": "quotidien péruvien",
+    "pt-BR": "jornal peruano com sede em Lima",
+    "it": "quotidiano peruviano",
+    "nl": "periodiek",
+    "de": "linksliberale peruanische Tageszeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/La_Rep%C3%BAblica",
+    "es": "https://es.wikipedia.org/wiki/La_Rep%C3%BAblica_(Per%C3%BA)",
+    "fr": "https://fr.wikipedia.org/wiki/La_Rep%C3%BAblica_(P%C3%A9rou)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/La_Rep%C3%BAblica",
+    "nl": "https://nl.wikipedia.org/wiki/La_Rep%C3%BAblica_(Peru)",
+    "de": "https://de.wikipedia.org/wiki/La_Rep%C3%BAblica_(Peru)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Rep%C3%BAblica_Logo.svg?width=256",
+   "website": "https://larepublica.pe/",
+   "city": "Lima"
+  },
+  {
+   "id": "pe.rpp",
+   "name": "RPP",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
+   "youtubeVideoId": "56iXFlGgT2A",
+   "embeddable": true,
+   "wikidata": "Q3090686",
+   "description": {
+    "en": "Peruvian radio network",
+    "es": "cadena de radio peruana",
+    "it": "stazione radiofonica peruviana",
+    "ru": "Radio Programas del Perú — коммерческая перуанская радиовещательная и телевещательная компания, входящая в состав медиахолдинга Grupo RPP.",
+    "id": "stasiun radio di Peru",
+    "de": "peruanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_Programas_del_Per%C3%BA",
+    "es": "https://es.wikipedia.org/wiki/RPP",
+    "ru": "https://ru.wikipedia.org/wiki/Radio_Programas_del_Per%C3%BA",
+    "de": "https://de.wikipedia.org/wiki/Radio_Programas_del_Per%C3%BA"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Programas_del_Per%C3%BA_logo.svg?width=256",
+   "website": "https://rpp.pe",
+   "city": null
+  },
+  {
+   "id": "pe.latina",
+   "name": "Latina Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
+   "youtubeVideoId": "-9aGehhElh8",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pe.willax",
+   "name": "Willax",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
+   "youtubeVideoId": "67pQSKybPBc",
+   "embeddable": true,
+   "wikidata": "Q24038962",
+   "description": {
+    "en": "Peruvian free-to-air television channel",
+    "es": "canal de televisión abierta peruano",
+    "fr": "Willax Televisión est une chaîne de télévision péruvienne appartenant à Corporación EW, propriété du millionnaire Erasmo Wong (en)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Willax_Televisi%C3%B3n",
+    "es": "https://es.wikipedia.org/wiki/Willax_Televisi%C3%B3n",
+    "fr": "https://fr.wikipedia.org/wiki/Willax_Televisi%C3%B3n"
+   },
+   "logo": null,
+   "website": "http://www.willax.tv",
+   "city": "Lima"
+  },
+  {
+   "id": "pe.tvperunoticias",
+   "name": "TV Perú Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
+   "youtubeVideoId": "LT-AMZbpEJQ",
+   "embeddable": true,
+   "wikidata": "Q17630941",
+   "description": {
+    "en": "Peruvian news television channel",
+    "es": "canal de noticias público de Perú",
+    "de": "chilenischer Fernsehsender"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/TV_Per%C3%BA_Noticias_(canal_de_televisi%C3%B3n)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_Per%C3%BA_Noticias_-_2019_logo.png?width=256",
+   "website": "https://www.tvperu.gob.pe/noticias",
+   "city": null
+  },
+  {
+   "id": "pe.atv",
+   "name": "ATV Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
+   "youtubeVideoId": "h48MJI-80FU",
+   "embeddable": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pe.panorama",
+   "name": "Panorama",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCBiq92lt_ufNO-ktZigVXgg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q5493503",
+   "description": {
+    "en": "Peruvian TV program",
+    "es": "programa de análisis e investigación periodístico del Perú",
+    "nl": "televisieprogramma uit Peru",
+    "de": "Fernsehsendung in Peru"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Panorama_(programa_de_televisi%C3%B3n_de_Per%C3%BA)"
+   },
+   "logo": null,
+   "website": "https://panamericana.pe/panorama",
+   "city": null
+  },
+  {
+   "id": "pe.panamericana",
+   "name": "Panamericana",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q586523",
+   "description": {
+    "en": "Peruvian free-to-air television station",
+    "es": "canal de televisión abierta peruano",
+    "fr": "chaîne de télévision terrestre peruvienne",
+    "pt-BR": "Canal de televisão aberta peruano",
+    "ko": "판아메리카나 텔레비시온(스페인어: Panamericana Televisión)는 페루의 텔레비전 채널이다.",
+    "it": "rete televisiva peruviana",
+    "de": "peruanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Panamericana_Televisi%C3%B3n",
+    "es": "https://es.wikipedia.org/wiki/Panamericana_Televisi%C3%B3n",
+    "fr": "https://fr.wikipedia.org/wiki/Panamericana_Televisi%C3%B3n",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Panamericana_Televisi%C3%B3n",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%8C%90%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%82%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%8B%9C%EC%98%A8",
+    "it": "https://it.wikipedia.org/wiki/Panamericana_Televisi%C3%B3n"
+   },
+   "logo": null,
+   "website": "http://www.panamericana.pe/",
+   "city": "Lima"
+  },
+  {
+   "id": "pe.tvperu",
+   "name": "TV Perú",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q3076196",
+   "description": {
+    "en": "Peruvian State-owned television broadcaster, owned by the government",
+    "es": "canal de televisión abierta del Estado peruano",
+    "fr": "TV Perú est une chaîne de télévision publique péruvienne, dépendant directement de l'Institut national de radio et de télévision (IRTP).",
+    "pt-BR": "TV Perú é uma rede de televisão estatal do Peru.",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Per%C3%BA",
+    "es": "https://es.wikipedia.org/wiki/TV_Per%C3%BA",
+    "fr": "https://fr.wikipedia.org/wiki/TV_Per%C3%BA",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Per%C3%BA"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg?width=256",
+   "website": "http://www.tvperu.gob.pe",
+   "city": "Lima"
+  },
+  {
+   "id": "pe.latinatv",
+   "name": "Latina Televisión",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC3rDtLrcgr3JS3_3JOW4BAw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "wikidata": "Q967752",
+   "description": {
+    "en": "Peruvian free-to-air television network",
+    "es": "canal de televisión abierta peruano",
+    "fr": "Latina Televisión est une chaîne de télévision péruvienne.",
+    "pt-BR": "Latina Televisión é uma rede de televisão peruana que transmite seu sinal desde 1983, e é uma das mais vistas e importantes deste país.",
+    "ko": "페루의 TV 네트워크",
+    "it": "rete televisiva peruviana",
+    "de": "peruanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Latina_Televisi%C3%B3n",
+    "es": "https://es.wikipedia.org/wiki/Latina_Televisi%C3%B3n",
+    "fr": "https://fr.wikipedia.org/wiki/Latina_Televisi%C3%B3n",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Latina_Televisi%C3%B3n",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%9D%BC%ED%8B%B0%EB%82%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%8B%9C%EC%98%A8",
+    "it": "https://it.wikipedia.org/wiki/Latina_Televisi%C3%B3n"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Latina_Television_-_Logotipo.png?width=256",
+   "website": "http://www.latina.pe/",
+   "city": "Lima"
+  },
+  {
+   "id": "pe.congreso",
+   "name": "Congreso del Perú",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
+   "youtubeVideoId": "__ikA2OV6n0",
+   "embeddable": true,
+   "wikidata": "Q1357543",
+   "description": {
+    "en": "unicameral body that has assumed legislative power in Peru from 1995 to 2026",
+    "es": "parlamento bicameral del Perú",
+    "zh-Hans": "秘鲁国家立法机关",
+    "fr": "parlement monocaméral du Pérou de 1995 à 2026",
+    "pt-BR": "órgão unicameral que exerce o poder legislativo no Peru desde 1995",
+    "ko": "페루의 입법부",
+    "it": "Il Congresso della Repubblica è stato il parlamento unicamerale del Perù dal 1992 al 2026.",
+    "ru": "законодательный орган Перу",
+    "zh-Hant": "秘鲁国家立法机关",
+    "ar": "مجلس شيوخ بيرو هو الهيئة التشريعية في بيرو، ويتكون من 130 مقعداً، يقع المقر الرئيسي له في Legislative Palace (Peru) ‏.",
+    "tr": "Peru’da yasama gücü olan tek meclis organı",
+    "nl": "Het Congres van de Republiek Peru is het parlement dat de wetgevende macht van Peru vertegenwoordigt.",
+    "pl": "parlament Peru",
+    "id": "Kongres Republik Peru adalah badan unikameral yang mengambil alih kekuasaan legislatif di Peru.",
+    "de": "Parlament Perus 1995–2026"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/Congr%C3%A8s_de_la_R%C3%A9publique_(1995-2026)",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%8E%98%EB%A3%A8_%EA%B3%B5%ED%99%94%EA%B5%AD_%EC%9D%98%ED%9A%8C",
+    "it": "https://it.wikipedia.org/wiki/Congresso_della_Repubblica_del_Per%C3%B9_(1992-2026)",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%84%D8%B3_%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE_(%D8%A8%D9%8A%D8%B1%D9%88)",
+    "nl": "https://nl.wikipedia.org/wiki/Peruviaans_congres",
+    "id": "https://id.wikipedia.org/wiki/Kongres_Republik_Peru",
+    "de": "https://de.wikipedia.org/wiki/Kongress_der_Republik_Peru"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_del_Congreso_%28Per%C3%BA%29.png?width=256",
+   "website": "http://www.congreso.gob.pe/",
+   "city": "Provincia de Lima"
+  },
+  {
+   "id": "pe.exitosa",
+   "name": "Exitosa",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
+   "youtubeVideoId": "7qZiw7beFQw",
+   "embeddable": true,
+   "wikidata": "Q24035627",
+   "description": {
+    "en": "Peruvian radio station",
+    "es": "emisora de radio peruana de noticias"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_Exitosa",
+    "es": "https://es.wikipedia.org/wiki/Radio_Exitosa"
+   },
+   "logo": null,
+   "website": "https://exitosanoticias.pe",
+   "city": null
+  }
+ ]
+}
