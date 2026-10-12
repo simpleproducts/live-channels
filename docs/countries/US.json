@@ -1,18 +1,8 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026101214,
- "defaultTiles": [
-  "us.cnn",
-  "us.nmasunivision",
-  "us.cnnee",
-  "us.foxweather",
-  "us.abcnews",
-  "us.cbsnews",
-  "us.nbcnews",
-  "us.livenow",
-  "us.newsmax"
- ],
+ "version": 2026101215,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "us.abcnews",
@@ -24,7 +14,7 @@
    "youtubeChannelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
    "youtubeVideoId": "KrRZuVZXUDI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q287171",
    "description": {
     "en": "news division of the American Broadcasting Company",
@@ -79,7 +69,7 @@
    "youtubeChannelId": "UCupvZG-5ko_eiXAupbDfxWw",
    "youtubeVideoId": "GotlA1KKWoo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q48340",
    "description": {
     "en": "American news channel",
@@ -135,7 +125,7 @@
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
    "youtubeVideoId": "SGGJBg6wBDc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",
@@ -191,7 +181,7 @@
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
    "youtubeVideoId": "jeJ4kdpSCJk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2877626",
    "description": {
     "en": "news division of NBC",
@@ -241,7 +231,7 @@
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
    "youtubeVideoId": "PUfWupzOZxA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q121917610",
    "description": {
     "en": "FAST TV channel and news service"
@@ -263,7 +253,7 @@
    "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg",
    "youtubeVideoId": "pBrwGLSB9yc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q18353130",
    "description": {
     "en": "American news channel",
@@ -293,7 +283,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "mj5byHvNQOs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -319,7 +309,7 @@
    "youtubeChannelId": "UC32TdiIsh_5X8tKr_9rKQyA",
    "youtubeVideoId": "V4C7VNfRATA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q22023487",
    "description": {
     "en": "news division of Univision",
@@ -343,7 +333,7 @@
    "youtubeChannelId": "UCRwA1NUcUnwsly35ikGhp0A",
    "youtubeVideoId": "3ewRHqZdF1A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17513179",
    "description": {
     "en": "television series",
@@ -371,7 +361,7 @@
    "youtubeChannelId": "UC_lEiu6917IJz03TnntWUaQ",
    "youtubeVideoId": "Qr61waJ6AZg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2931785",
    "description": {
     "en": "American television station",
@@ -409,7 +399,7 @@
    "youtubeChannelId": "UC1FbPiXx59_ltnFVx7IxWow",
    "youtubeVideoId": "wt6SIE7BXS8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q107431409",
    "description": {
     "en": "American streaming television network"
@@ -431,7 +421,7 @@
    "youtubeChannelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
    "youtubeVideoId": "QB5BNdBFujE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13975",
    "description": {
     "en": "financial and business cable news channel",
@@ -479,7 +469,7 @@
    "youtubeChannelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
    "youtubeVideoId": "KQp-e_XQnDE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -551,7 +541,7 @@
    "youtubeChannelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
    "youtubeVideoId": "M3HKLzjvKPc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q23548",
    "description": {
     "en": "American space and aeronautics agency",

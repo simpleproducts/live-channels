@@ -1,18 +1,8 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026101214,
- "defaultTiles": [
-  "fr.france24",
-  "fr.franceinfo",
-  "fr.bfmtv",
-  "fr.euronewsfr",
-  "fr.france24en",
-  "fr.euronews",
-  "fr.france24es",
-  "fr.france24ar",
-  "fr.rfi"
- ],
+ "version": 2026101215,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "fr.france24",
@@ -24,7 +14,7 @@
    "youtubeChannelId": "UCCCPCZNChQdGa9EkATeye4g",
    "youtubeVideoId": "a47ckXKZjxI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166180",
    "description": {
     "en": "French state-owned international news television network based in Paris",
@@ -80,7 +70,7 @@
    "youtubeChannelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
    "youtubeVideoId": "HvZt-nh9sGg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166180",
    "description": {
     "en": "French state-owned international news television network based in Paris",
@@ -136,7 +126,7 @@
    "youtubeChannelId": "UCUdOoVWuWmgo1wByzcsyKDQ",
    "youtubeVideoId": "zTv0hCakAhg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166180",
    "description": {
     "en": "French state-owned international news television network based in Paris",
@@ -192,7 +182,7 @@
    "youtubeChannelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
    "youtubeVideoId": "pykpO5kQJ98",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -248,7 +238,7 @@
    "youtubeChannelId": "UCW2QcKZiU8aUGg4yxCIditg",
    "youtubeVideoId": "NiRIbKwAejk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -304,7 +294,7 @@
    "youtubeChannelId": "UCO6K_kkdP-lnSCiO3tPx7WA",
    "youtubeVideoId": "NG7ZX42nZKc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q26085276",
    "description": {
     "en": "French television news channel",
@@ -342,7 +332,7 @@
    "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g",
    "youtubeVideoId": "C15czQgHSrE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q517444",
    "description": {
     "en": "French news channel",
@@ -386,7 +376,7 @@
    "youtubeChannelId": "UCdTyuXgmJkG_O8_75eqej-w",
    "youtubeVideoId": "93g513Uth98",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166180",
    "description": {
     "en": "French state-owned international news television network based in Paris",
@@ -497,7 +487,7 @@
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
    "youtubeVideoId": "LAudeKDolDc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -562,7 +552,7 @@
    "youtubeChannelId": "UCm4fSpMpPIZ9z6KHoezLUAg",
    "youtubeVideoId": "OAoLGxrlBPY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q19912",
    "description": {
     "en": "French international radio broadcaster",

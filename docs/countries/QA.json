@@ -1,13 +1,8 @@
 {
  "schema": 2,
  "code": "QA",
- "version": 2026101214,
- "defaultTiles": [
-  "qa.aje",
-  "qa.aja",
-  "qa.mubasher",
-  "qa.alaraby"
- ],
+ "version": 2026101215,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "qa.aje",
@@ -19,7 +14,7 @@
    "youtubeChannelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
    "youtubeVideoId": "gCNeDWCI0vo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4296040",
    "description": {
     "en": "Qatari international English-language news channel",
@@ -65,7 +60,7 @@
    "youtubeChannelId": "UCfiwzLy-8yKzIbsmZTzxDgw",
    "youtubeVideoId": "N8xxOD0nT1Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13477",
    "description": {
     "en": "Qatari international television channel",
@@ -121,7 +116,7 @@
    "youtubeChannelId": "UCCv1Pd24oPErw5S7zJWltnQ",
    "youtubeVideoId": "NNnZLWHRmd4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3497537",
    "description": {
     "en": "public affairs television network launched by Al Jazeera Media Network originally on April 15, 2005",
@@ -154,7 +149,7 @@
    "youtubeChannelId": "UC65i3Fyq91uiUkIS0i5GLNQ",
    "youtubeVideoId": "xWoUWTZgchc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q25453791",
    "description": {
     "en": "Pan Arab general television channel headquartered in Qatar",

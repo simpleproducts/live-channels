@@ -3,10 +3,10 @@
  "languages": ["it"],
  "defaultTiles": ["euronewsit", "ilsole24ore", "camera", "senato", "radiodeejay"],
  "channels": [
-  {"id": "euronewsit", "name": "Euronews Italiano", "category": "news", "youtubeChannelId": "UC1mX9vuLOYf8fhaXS_KcDRg", "youtubeVideoId": "pUcmpyynASM", "embeddable": true, "live": true, "liveSince": "2022-09-19T00:00:00Z"},
+  {"id": "euronewsit", "name": "Euronews Italiano", "category": "news", "youtubeChannelId": "UC1mX9vuLOYf8fhaXS_KcDRg", "youtubeVideoId": "pUcmpyynASM", "embeddable": true, "live": false},
   {"id": "ilsole24ore", "name": "Il Sole 24 Ore", "category": "economy", "youtubeChannelId": "UCCuZicOOisRgknWUSQArudg", "youtubeVideoId": "uOooc3zhx6Y", "embeddable": true, "live": false, "wikidata": "Q1658262"},
-  {"id": "camera", "name": "Camera dei Deputati", "category": "government", "youtubeChannelId": "UCwP4zsC0r9eqRQOethu5EFg", "youtubeVideoId": "BD4kcj6KspM", "embeddable": true, "live": true, "liveSince": "2026-08-27T00:00:00Z"},
-  {"id": "senato", "name": "Senato della Repubblica", "category": "government", "youtubeChannelId": "UCbanqpWVQ0l4v_aPUV-j9JQ", "youtubeVideoId": "loiN1npW2MM", "embeddable": true, "live": true, "liveSince": "2023-10-10T00:00:00Z"},
-  {"id": "radiodeejay", "name": "Radio Deejay", "category": "radio", "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg", "youtubeVideoId": "K1DDKB8lBEc", "embeddable": true, "live": true, "liveSince": "2026-10-12T14:00:00Z"}
+  {"id": "camera", "name": "Camera dei Deputati", "category": "government", "youtubeChannelId": "UCwP4zsC0r9eqRQOethu5EFg", "youtubeVideoId": "BD4kcj6KspM", "embeddable": true, "live": false},
+  {"id": "senato", "name": "Senato della Repubblica", "category": "government", "youtubeChannelId": "UCbanqpWVQ0l4v_aPUV-j9JQ", "youtubeVideoId": "loiN1npW2MM", "embeddable": true, "live": false},
+  {"id": "radiodeejay", "name": "Radio Deejay", "category": "radio", "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg", "youtubeVideoId": "K1DDKB8lBEc", "embeddable": true, "live": false}
  ]
 }

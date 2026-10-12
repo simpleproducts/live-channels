@@ -1,18 +1,8 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026101214,
- "defaultTiles": [
-  "mx.adnnoticias",
-  "mx.milenio",
-  "mx.nmas",
-  "mx.imagennoticias",
-  "mx.excelsior",
-  "mx.aztecanoticias",
-  "mx.heraldo",
-  "mx.unotv",
-  "mx.aristegui"
- ],
+ "version": 2026101215,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "mx.milenio",
@@ -24,7 +14,7 @@
    "youtubeChannelId": "UCFxHplbcoJK9m70c4VyTIxg",
    "youtubeVideoId": "6fnO0-ZXRas",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -42,7 +32,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "NCOloD07kjg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -60,7 +50,7 @@
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
    "youtubeVideoId": "BTabaSUXVJk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -78,7 +68,7 @@
    "youtubeChannelId": "UClqo4ZAAZ01HQdCTlovCgkA",
    "youtubeVideoId": "Xg2k4_2JQS4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16492985",
    "description": {
     "en": "Television channel",
@@ -105,7 +95,7 @@
    "youtubeChannelId": "UCUP6qv-_EIL0hwTsJaKYnvw",
    "youtubeVideoId": "0YHVbpA2K7M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -141,7 +131,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "qSHNc1vtOuo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -171,7 +161,7 @@
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
    "youtubeVideoId": "lhzFffINE4o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -193,7 +183,7 @@
    "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
    "youtubeVideoId": "PC8nOb8cTNg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -211,7 +201,7 @@
    "youtubeChannelId": "UCafNntv_qTQB26AvbEQNHPw",
    "youtubeVideoId": "5ogA_97TLNg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q61998946",
    "description": {
     "en": "Mexico online newspaper",
@@ -235,7 +225,7 @@
    "youtubeChannelId": "UCo1nfa1JKNqtcUyLjLwTiIw",
    "youtubeVideoId": "SM864ZgPpG8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11693969",
    "description": {
     "en": "Mexican television network",
@@ -265,7 +255,7 @@
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
    "youtubeVideoId": "52_8CzfHc1g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -283,7 +273,7 @@
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
    "youtubeVideoId": "ONq7OH1jyCY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -308,7 +298,7 @@
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
    "youtubeVideoId": "Bs8Y9yiySX4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -342,7 +332,7 @@
    "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w",
    "youtubeVideoId": "v7i3ainx9yg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5440529",
    "description": {
     "en": "national government of the United Mexican States",

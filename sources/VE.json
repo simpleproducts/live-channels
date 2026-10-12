@@ -3,7 +3,7 @@
  "languages": ["es"],
  "defaultTiles": ["vpitv", "globovision", "venevision", "unionradio"],
  "channels": [
-  {"id": "vpitv", "name": "VPItv", "category": "news", "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w", "youtubeVideoId": "SaMzkvXN0II", "embeddable": true, "live": true, "liveSince": "2026-10-09T00:00:00Z"},
+  {"id": "vpitv", "name": "VPItv", "category": "news", "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w", "youtubeVideoId": "SaMzkvXN0II", "embeddable": true, "live": false},
   {"id": "globovision", "name": "Globovisión", "category": "news", "youtubeChannelId": "UCTp0PrexDQCj60zQlkzAEFw", "youtubeVideoId": "gkEMxJBbqDE", "embeddable": true, "live": false},
   {"id": "evtv", "name": "EVTV", "category": "news", "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g", "live": false, "languages": ["es"]},
   {"id": "elpitazo", "name": "El Pitazo", "category": "news", "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA", "live": false},

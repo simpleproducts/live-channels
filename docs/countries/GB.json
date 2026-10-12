@@ -1,18 +1,8 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026101214,
- "defaultTiles": [
-  "gb.bbcnewsarabic",
-  "gb.skynews",
-  "gb.gbnews",
-  "gb.talktv",
-  "gb.telegraph",
-  "gb.guardian",
-  "gb.itvnews",
-  "gb.timesradio",
-  "gb.lbc"
- ],
+ "version": 2026101215,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "gb.skynews",
@@ -24,7 +14,7 @@
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
    "youtubeVideoId": "WyETM5B-SsE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -135,7 +125,7 @@
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
    "youtubeVideoId": "MGqPjzSlx3M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q100300992",
    "description": {
     "en": "British television news channel",
@@ -230,7 +220,7 @@
    "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
    "youtubeVideoId": "rKie_f6y_K4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q108760651",
    "description": {
     "en": "British television channel",
@@ -253,7 +243,7 @@
    "youtubeChannelId": "UCelk6aHijZq-GJBBB9YpReA",
    "youtubeVideoId": "O1pGmVtj2Y8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q973341",
    "description": {
     "en": "television channel",
@@ -300,7 +290,7 @@
    "youtubeChannelId": "UCPgLNge0xqQHWM5B5EFH9Cg",
    "youtubeVideoId": "SKmOp6p7OKs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q192621",
    "description": {
     "en": "British daily broadsheet newspaper",
@@ -356,7 +346,7 @@
    "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA",
    "youtubeVideoId": "C1XlKxN2VwU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5614018",
    "description": {
     "en": "British news website",
@@ -392,7 +382,7 @@
    "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A",
    "youtubeVideoId": "tipoCsxASzc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4189762",
    "description": {
     "en": "British broadcaster ITV's branded news programming",
@@ -542,7 +532,7 @@
    "youtubeChannelId": "UCF-VP3b3oH0XASqsLI5rnLw",
    "youtubeVideoId": "3EaWrWqt7dk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -560,7 +550,7 @@
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
    "youtubeVideoId": "E-98INJDWBk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

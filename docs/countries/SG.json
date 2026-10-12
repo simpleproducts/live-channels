@@ -1,10 +1,8 @@
 {
  "schema": 2,
  "code": "SG",
- "version": 2026101214,
- "defaultTiles": [
-  "sg.cna"
- ],
+ "version": 2026101215,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "sg.cna",
@@ -16,7 +14,7 @@
    "youtubeChannelId": "UC83jt4dlz1Gjl58fzQrrKZg",
    "youtubeVideoId": "XWq5kBlakcQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40238",
    "description": {
     "en": "English language Asia-Pacific news channel based in Singapore",

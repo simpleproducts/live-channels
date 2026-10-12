@@ -1,13 +1,8 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026101214,
- "defaultTiles": [
-  "de.dwnews",
-  "de.euronewsde",
-  "de.dwespanol",
-  "de.welt"
- ],
+ "version": 2026101215,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "de.welt",
@@ -19,7 +14,7 @@
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
    "youtubeVideoId": "B4Q8mkZTT-M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1959672",
    "description": {
     "en": "television station",
@@ -240,7 +235,7 @@
    "youtubeChannelId": "UCknLrEdhRCp1aegoMqRaCZg",
    "youtubeVideoId": "LuKwFajn37U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39055013",
    "description": {
     "en": "global English-language news and information channel from Germany's Deutsche Welle",
@@ -270,7 +265,7 @@
    "youtubeChannelId": "UCACdxU3VrJIJc7ujxtHWs1w",
    "youtubeVideoId": "CQ3KsEbsYHs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -326,7 +321,7 @@
    "youtubeChannelId": "UCT4Jg8h03dD0iN3Pb5L0PMA",
    "youtubeVideoId": "yZh3xsFqCt8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3384036",
    "description": {
     "en": "news portal, affilitate of Deutsche Welle",

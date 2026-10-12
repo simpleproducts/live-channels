@@ -1,10 +1,8 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026101214,
- "defaultTiles": [
-  "ca.cbcnews"
- ],
+ "version": 2026101215,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "ca.cbcnews",
@@ -17,7 +15,7 @@
    "youtubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
    "youtubeVideoId": "5vfaDsMhCF4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2931014",
    "description": {
     "en": "news division of the Canadian broadcast network CBC",
