@@ -1,0 +1,153 @@
+{
+ "schema": 2,
+ "code": "NL",
+ "version": 2026101319,
+ "defaultTiles": [
+  "nl.nhnieuws",
+  "nl.rtvoost",
+  "nl.rtvnoord",
+  "nl.omroepzeeland",
+  "nl.nporadio1",
+  "nl.nossport"
+ ],
+ "channels": [
+  {
+   "id": "nl.nhnieuws",
+   "name": "NH Nieuws",
+   "category": "regional",
+   "languages": [
+    "nl"
+   ],
+   "youtubeChannelId": "UCSpctzQgGRJV84At2dV73qg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2799755",
+   "description": {
+    "en": "Dutch broadcasting company",
+    "fr": "NH, auparavant RTV Noord-Holland, est une entreprise néerlandaise, basée à Amsterdam qui regroupe une station de radio et une chaîne de télévision généralistes locales.",
+    "nl": "regionale omroep in Noord-Holland",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NH_(broadcaster)",
+    "fr": "https://fr.wikipedia.org/wiki/NH_(soci%C3%A9t%C3%A9_de_m%C3%A9dias)",
+    "nl": "https://nl.wikipedia.org/wiki/NH_(omroep)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WIki_logo_NH.jpg?width=256",
+   "website": "http://www.nhnieuws.nl/",
+   "city": "Amsterdam"
+  },
+  {
+   "id": "nl.rtvoost",
+   "name": "RTV Oost",
+   "category": "regional",
+   "languages": [
+    "nl"
+   ],
+   "youtubeChannelId": "UCM3TveAh-hbBBRj0FBGhUdg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2622712",
+   "description": {
+    "en": "Dutch radio and television station",
+    "nl": "regionale omroep van de provincie Overijssel"
+   },
+   "wikipedia": {
+    "nl": "https://nl.wikipedia.org/wiki/RTV_Oost"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_oost.svg?width=256",
+   "website": "https://www.rtvoost.nl/",
+   "city": null
+  },
+  {
+   "id": "nl.rtvnoord",
+   "name": "RTV Noord",
+   "category": "regional",
+   "languages": [
+    "nl"
+   ],
+   "youtubeChannelId": "UC-8skX7WFHAjxvBl7p1DdAA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2484017",
+   "description": {
+    "en": "Dutch regional radio en television broadcaster",
+    "nl": "regionale omroep van de provincie Groningen",
+    "de": "niederländische Rundfunkanstalt"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RTV_Noord",
+    "nl": "https://nl.wikipedia.org/wiki/RTV_Noord",
+    "de": "https://de.wikipedia.org/wiki/RTV_Noord"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RTV_Noord.png?width=256",
+   "website": "https://www.rtvnoord.nl/",
+   "city": "Groningen"
+  },
+  {
+   "id": "nl.omroepzeeland",
+   "name": "Omroep Zeeland",
+   "category": "regional",
+   "languages": [
+    "nl"
+   ],
+   "youtubeChannelId": "UCcN4ENZcg3rB2iBexNRuz2A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2479307",
+   "description": {
+    "en": "Dutch regional television station",
+    "fr": "Omroep Zeeland est une société néerlandaise de radiodiffusion publique régionale de la province de Zélande, créée le 13 juillet 1988.",
+    "nl": "Nederlandse regionale omroep"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Omroep_Zeeland",
+    "fr": "https://fr.wikipedia.org/wiki/Omroep_Zeeland",
+    "nl": "https://nl.wikipedia.org/wiki/Omroep_Zeeland"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "nl.nossport",
+   "name": "NOS Sport",
+   "category": "sports",
+   "languages": [
+    "nl"
+   ],
+   "youtubeChannelId": "UCT4oPufBQa0f6C67Fw_HXNg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "nl.nporadio1",
+   "name": "NPO Radio 1",
+   "category": "radio",
+   "languages": [
+    "nl"
+   ],
+   "youtubeChannelId": "UClRJ0fR9SrsdDSp0_na5Wew",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

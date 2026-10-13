@@ -1,0 +1,154 @@
+{
+ "schema": 2,
+ "code": "SA",
+ "version": 2026101320,
+ "defaultTiles": [
+  "sa.alekhbariya",
+  "sa.asharq",
+  "sa.asharqbusiness",
+  "sa.quran",
+  "sa.sunnah",
+  "sa.ksasports"
+ ],
+ "channels": [
+  {
+   "id": "sa.alekhbariya",
+   "name": "Al Ekhbariya",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCV01ajGl6nt09h40iDoHDNg",
+   "youtubeVideoId": "iw0YDBYgaUU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4703778",
+   "description": {
+    "en": "Saudi news channel based in Riyadh, Saudi Arabia",
+    "pt-BR": "Al Ekhbariya é um canal de televisão por satélite saudita, dedicado a notícias e atualidades, sediado em Riade, Arábia Saudita.",
+    "ar": "قناة إخبارية سعودية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al_Ekhbariya",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Al_Ekhbariya",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9.jpg?width=256",
+   "website": "https://www.alekhbariya.net/",
+   "city": "الرياض"
+  },
+  {
+   "id": "sa.asharq",
+   "name": "Asharq News",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCRJUVYt9gjg8MnlGacySUdg",
+   "youtubeVideoId": "f6VpkfV7m4Y",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q104765389",
+   "description": {
+    "en": "Arabic-language television channel",
+    "es": "Asharq News es un canal de televisión y servicio informativo multiplataforma saudí en lengua árabe, propiedad de Saudi Research and Media Group (SRMG).",
+    "ar": "مجموعة إعلامية سعودية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Asharq_News",
+    "es": "https://es.wikipedia.org/wiki/Asharq_News",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%B1%D9%82_%D9%84%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/AsharqNewsLogo.png?width=256",
+   "website": "https://asharq.com/",
+   "city": null
+  },
+  {
+   "id": "sa.asharqbusiness",
+   "name": "Asharq Bloomberg",
+   "category": "economy",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCxjpGbfoLy6oodYdiyzQE4g",
+   "youtubeVideoId": "ntCQbyvAKG0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q109299592",
+   "description": {
+    "ar": "الشرق بلومبرغ هي أحد الخدمات الإخبارية الناطقة بالعربية والمتخصصة بتوفير الأخبار والقصص الاقتصادية من حول العالم، والتي تتبع الشرق للأخبار التي انطلقت في 11 نوفمبر 2020 لتقديم تغطيات إخبارية من حول العالم باللغة العربية."
+   },
+   "wikipedia": {
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%B1%D9%82_%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%D8%BA"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Asharq-Bloomberg_Logo.png?width=256",
+   "website": "https://asharqbusiness.com",
+   "city": "الرياض"
+  },
+  {
+   "id": "sa.ksasports",
+   "name": "KSA Sports",
+   "category": "sports",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCLo2xigvxv9ksxp78AyCBTw",
+   "youtubeVideoId": "t8ckx2uDi-8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "sa.quran",
+   "name": "Saudi Quran TV (Makkah)",
+   "category": "religious",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCos52azQNBgW63_9uDJoPDA",
+   "youtubeVideoId": "eC4LfEVxvKg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q16120292",
+   "description": {
+    "ar": "قناة دينية"
+   },
+   "wikipedia": {
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg?width=256",
+   "website": "https://www.aloula.sa/",
+   "city": null
+  },
+  {
+   "id": "sa.sunnah",
+   "name": "Saudi Sunnah TV (Madinah)",
+   "category": "religious",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCROKYPep-UuODNwyipe6JMw",
+   "youtubeVideoId": "Rs7St51oDDc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q16120241",
+   "description": {
+    "en": "A Saudi television channel broadcasting from Medina 24 hours a day",
+    "ko": "위키미디어 목록 항목",
+    "ar": "قناة تلفزيونية سعودية تبث من المدينة المنورة على مدار 24 ساعه",
+    "tr": "Vikimedya liste maddesi"
+   },
+   "wikipedia": {
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D9%86%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

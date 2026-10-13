@@ -1,0 +1,302 @@
+{
+ "schema": 2,
+ "code": "PL",
+ "version": 2026101320,
+ "defaultTiles": [
+  "pl.tvpinfo",
+  "pl.republika",
+  "pl.wpolsce24",
+  "pl.tvpworld",
+  "pl.kanalzero"
+ ],
+ "channels": [
+  {
+   "id": "pl.tvpinfo",
+   "name": "TVP Info",
+   "category": "news",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCzQZbOb86WvhOPoR7jgAfsA",
+   "youtubeVideoId": "3jKb-uThfrg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1724518",
+   "description": {
+    "en": "Polish television channel",
+    "es": "TVP Info es un canal de televisión público de Polonia, perteneciente a TVP.",
+    "zh-Hans": "波蘭電視台資訊頻道 是波蘭電視台一條於2007年開播的電視頻道，主要播放各類新聞和時事節目。這條頻道的播放時間為每日早上六時至淩晨十二時，並自2015年起逐漸加強其親政府立場。",
+    "fr": "TVP Info est une chaîne de télévision d'information en continu polonaise appartenant au groupe public Telewizja Polska.",
+    "it": "rete televisiva polacca",
+    "ru": "TVP Info — польский информационный телеканал, заменивший TVP3, который несколькими годами позже был восстановлен в качестве нового отдельного канала.",
+    "zh-Hant": "波蘭電視台資訊頻道 是波蘭電視台一條於2007年開播的電視頻道，主要播放各類新聞和時事節目。這條頻道的播放時間為每日早上六時至淩晨十二時，並自2015年起逐漸加強其親政府立場。",
+    "pl": "polski publiczny kanał informacyjny",
+    "id": "TVP Info adalah saluran televisi berita 24 jam Polandia.",
+    "de": "polnischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TVP_Info",
+    "es": "https://es.wikipedia.org/wiki/TVP_Info",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E8%98%AD%E9%9B%BB%E8%A6%96%E5%8F%B0%E8%B3%87%E8%A8%8A%E9%A0%BB%E9%81%93",
+    "fr": "https://fr.wikipedia.org/wiki/TVP_Info",
+    "it": "https://it.wikipedia.org/wiki/TVP_Info",
+    "ru": "https://ru.wikipedia.org/wiki/TVP_Info",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B3%A2%E8%98%AD%E9%9B%BB%E8%A6%96%E5%8F%B0%E8%B3%87%E8%A8%8A%E9%A0%BB%E9%81%93",
+    "pl": "https://pl.wikipedia.org/wiki/TVP_Info",
+    "id": "https://id.wikipedia.org/wiki/TVP_Info",
+    "de": "https://de.wikipedia.org/wiki/TVP_Info"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVP_INFO_logo_2024.svg?width=256",
+   "website": "http://www.tvp.info/",
+   "city": "Warszawa"
+  },
+  {
+   "id": "pl.polsatnews",
+   "name": "Polsat News",
+   "category": "news",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCb7O4-iI4pEO5UZPlOBr0Ug",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pl.republika",
+   "name": "Telewizja Republika",
+   "category": "news",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCc282c_TN8xIba_Z6GaDnQw",
+   "youtubeVideoId": "dzntyCTgJMQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q11836859",
+   "description": {
+    "en": "Polish television station",
+    "ja": "Telewizja Republika – は、2013年に開局したポーランドのニュース専門保守系テレビ放送局である。.",
+    "fr": "chaine privée de télévision polonaise",
+    "pl": "polska stacja telewizyjna",
+    "de": "polnischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Telewizja_Republika",
+    "ja": "https://ja.wikipedia.org/wiki/TV_Republika",
+    "fr": "https://fr.wikipedia.org/wiki/Telewizja_Republika",
+    "pl": "https://pl.wikipedia.org/wiki/Telewizja_Republika",
+    "de": "https://de.wikipedia.org/wiki/Telewizja_Republika"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Telewizji_Republiki.png?width=256",
+   "website": "http://telewizjarepublika.pl/",
+   "city": "Warszawa"
+  },
+  {
+   "id": "pl.wpolsce24",
+   "name": "wPolsce24",
+   "category": "news",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCPiu4CZlknkTworskK79CPg",
+   "youtubeVideoId": "lx56Ajgrmw8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q60978063",
+   "description": {
+    "pl": "polska stacja telewizyjna"
+   },
+   "wikipedia": {
+    "pl": "https://pl.wikipedia.org/wiki/WPolsce24"
+   },
+   "logo": null,
+   "website": "http://wpolsce.pl/",
+   "city": null
+  },
+  {
+   "id": "pl.tvpworld",
+   "name": "TVP World",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCBjUPsHj7bXt24SUWNoZ0zA",
+   "youtubeVideoId": "tvXWIgsWuK0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q109637211",
+   "description": {
+    "en": "Polish television channel",
+    "pl": "polska stacja telewizyjna",
+    "de": "TVP World ist der englischsprachige internationale Nachrichten- und Informationssender der Telewizja Polska."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TVP_World",
+    "pl": "https://pl.wikipedia.org/wiki/TVP_World",
+    "de": "https://de.wikipedia.org/wiki/TVP_World"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVP_World_%282021%29.svg?width=256",
+   "website": "https://tvpworld.com/",
+   "city": "Warszawa"
+  },
+  {
+   "id": "pl.sejm",
+   "name": "Sejm RP",
+   "category": "government",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCN5seY_Oy_GiJRhF06GfRlw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q98964",
+   "description": {
+    "en": "lower house of Polish parliament",
+    "es": "cámara baja del Parlamento de Polonia",
+    "zh-Hans": "波蘭國會的下議院",
+    "ja": "ポーランドの下院議会",
+    "fr": "chambre basse du pouvoir législatif de Pologne",
+    "pt-BR": "câmara baixa do parlamento polonês",
+    "ko": "폴란드의 입법부인 국민의회를 구성함",
+    "it": "camera bassa del parlamento polacco",
+    "ru": "нижняя палата польского парламента",
+    "zh-Hant": "波蘭國會的下議院",
+    "ar": "منظمة في وارسو، بولندا",
+    "tr": "Polonya Parlamentosu'nun alt kanadı",
+    "nl": "Polen",
+    "pl": "izba niższa polskiego parlamentu",
+    "sv": "en av den polska nationalförsamlingens två kamrar",
+    "id": "Sejm Republik Polandia adalah majelis rendah Parlemen Polandia.",
+    "de": "Parlament der Republik Polen",
+    "ms": "Sejm [séim] Republik Poland (Poland: Sejm Rzeczypospolitej Polskiej merupakan dewan rendah Parlimen negara tersebut."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sejm",
+    "es": "https://es.wikipedia.org/wiki/Sejm",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%BC%97%E8%AE%AE%E9%99%A2_(%E6%B3%A2%E5%85%B0)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%8B%E9%99%A2",
+    "fr": "https://fr.wikipedia.org/wiki/Di%C3%A8te_de_la_r%C3%A9publique_de_Pologne",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Sejm",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%9E%80%EB%93%9C_%ED%95%98%EC%9B%90",
+    "it": "https://it.wikipedia.org/wiki/Sejm",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D0%BC_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%BC%97%E8%AE%AE%E9%99%A2_(%E6%B3%A2%E5%85%B0)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%85_(%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A8%D9%88%D9%84%D9%86%D8%AF%D8%A7)",
+    "tr": "https://tr.wikipedia.org/wiki/Sejm",
+    "nl": "https://nl.wikipedia.org/wiki/Sejm_(Polen)",
+    "pl": "https://pl.wikipedia.org/wiki/Sejm_Rzeczypospolitej_Polskiej",
+    "sv": "https://sv.wikipedia.org/wiki/Sejm",
+    "id": "https://id.wikipedia.org/wiki/Sejm",
+    "de": "https://de.wikipedia.org/wiki/Sejm",
+    "ms": "https://ms.wikipedia.org/wiki/Sejm"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sejm_RP_logo_and_wordmark.svg?width=256",
+   "website": "https://sejm.gov.pl",
+   "city": "Śródmieście"
+  },
+  {
+   "id": "pl.kanalzero",
+   "name": "Kanał Zero",
+   "category": "streaming",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg",
+   "youtubeVideoId": "yy7zgCDEPXA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q124607345",
+   "description": {
+    "en": "Polish online general-interest channel",
+    "pl": "polski kanał na YouTube założony przez Krzysztofa Stanowskiego"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Kana%C5%82_Zero",
+    "pl": "https://pl.wikipedia.org/wiki/Kana%C5%82_Zero"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kana%C5%82_Zero_logo_2024.jpg?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pl.rmf24",
+   "name": "RMF24",
+   "category": "radio",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCkC9YgH_FlqOhOIoTDFt4CA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pl.radiozet",
+   "name": "Radio ZET",
+   "category": "radio",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCvHFbkohgX29NhaUtmkzLmg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pl.tokfm",
+   "name": "TOK FM",
+   "category": "radio",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCUlZzs-r5LDqARiq1xPkQlw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "pl.polskieradio24",
+   "name": "Polskie Radio 24",
+   "category": "radio",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCTKxkwZp-aWyNsV3vdV2EpA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

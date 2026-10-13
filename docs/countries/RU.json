@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "RU",
- "version": 2026101312,
+ "version": 2026101319,
  "defaultTiles": [
   "ru.currenttime",
   "ru.euronewsru"
@@ -114,6 +114,106 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Euronews_2016_logo.svg?width=256",
    "website": "https://ru.euronews.com/",
    "city": "Лион"
+  },
+  {
+   "id": "ru.popularpolitics",
+   "name": "Популярная политика",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UC7Elc-kLydl-NAV4g204pDQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q113048544",
+   "description": {
+    "en": "Russian-language online media",
+    "es": "medio de comunicación en línea en ruso",
+    "ru": "русскоязычное онлайн-СМИ"
+   },
+   "wikipedia": {
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0"
+   },
+   "logo": null,
+   "website": "https://friends.politica.media/",
+   "city": "Вильнюс"
+  },
+  {
+   "id": "ru.rtvi",
+   "name": "RTVI",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCPU28A9z_ka_R5dQfecHJlA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1474706",
+   "description": {
+    "en": "international Russian-language media",
+    "es": "RTVI es una red internacional de televisión privada en idioma ruso, con sede en Moscú, estudios en Nueva York y Tel-Aviv, así como oficinas en Washington D.",
+    "fr": "chaîne de télévision internationale russe",
+    "ru": "Собственное производство «Телекомпания НТВ» и «ТНТ-Телесеть»",
+    "de": "russischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RTVI",
+    "es": "https://es.wikipedia.org/wiki/RTVi",
+    "fr": "https://fr.wikipedia.org/wiki/RTVI",
+    "ru": "https://ru.wikipedia.org/wiki/RTVI",
+    "de": "https://de.wikipedia.org/wiki/RTVi"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RTVI_Logo_magenta_fill_2021.png?width=256",
+   "website": "https://rtvi.com/",
+   "city": "Москва"
+  },
+  {
+   "id": "ru.zhivoygvozd",
+   "name": "Живой гвоздь",
+   "category": "radio",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCWAIvx2yYLK_xTYD4F2mUNw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q749928",
+   "description": {
+    "en": "Russian radio station",
+    "zh-Hans": "俄国广播电台",
+    "ja": "モスクワのこだま は、モスクワに拠点を置くロシアのラジオ局である。多くのロシアの都市や旧ソ連圏（地方のラジオ局との提携）で放送されており、インターネット配信も行われている。現在の編集長はアレクセイ・ヴェネディクトフ。2022年3月3日の取締役会で解散が決定したが、編集サイドはSNS上での活動継続を表明している。",
+    "fr": "station de radio russe",
+    "ko": "모스크바 공감(러시아어: Эхо Москвы 예호 모스크비[*])은 모스크바에 위치한 러시아 라디오 방송국이다.",
+    "it": "stazione radiofonica russa",
+    "ru": "российская радиостанция",
+    "zh-Hant": "俄罗斯广播电台",
+    "ar": "محطة إذاعية روسية",
+    "tr": "Eko Moskova, Moskova merkezli radyo istasyonuydu.",
+    "pl": "rosyjska rozgłośnia radiowa (siedziba: Moskwa; zał. 1990)",
+    "sv": "tidigare rysk radiostation",
+    "id": "stasiun radio di Rusia",
+    "de": "russischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Echo_of_Moscow",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%8E%AB%E6%96%AF%E7%A7%91%E8%BF%B4%E8%81%B2",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B9%E3%82%AF%E3%83%AF%E3%81%AE%E3%81%93%E3%81%A0%E3%81%BE",
+    "fr": "https://fr.wikipedia.org/wiki/%C3%89cho_de_Moscou",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AA%A8%EC%8A%A4%ED%81%AC%EB%B0%94_%EA%B3%B5%EA%B0%90",
+    "it": "https://it.wikipedia.org/wiki/Eco_di_Mosca",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%AD%D1%85%D0%BE_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%8E%AB%E6%96%AF%E7%A7%91%E8%BF%B4%E8%81%B2",
+    "tr": "https://tr.wikipedia.org/wiki/Eko_Moskova",
+    "pl": "https://pl.wikipedia.org/wiki/Echo_Moskwy",
+    "sv": "https://sv.wikipedia.org/wiki/Echo_Moskvy",
+    "de": "https://de.wikipedia.org/wiki/Echo_Moskwy"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Echo_of_moscow_logo.svg?width=256",
+   "website": "https://echofm.online/",
+   "city": "Москва"
   }
  ]
 }

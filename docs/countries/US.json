@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "us.cnn",
   "us.newsmax",
@@ -11,7 +11,7 @@
   "us.nbcnews",
   "us.livenow",
   "us.scripps",
-  "us.pbsnewshour"
+  "us.newsnation"
  ],
  "channels": [
   {
@@ -317,7 +317,7 @@
     "es"
    ],
    "youtubeChannelId": "UC32TdiIsh_5X8tKr_9rKQyA",
-   "youtubeVideoId": "V4C7VNfRATA",
+   "youtubeVideoId": "7YsZWBvLohw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q22023487",
@@ -341,7 +341,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRwA1NUcUnwsly35ikGhp0A",
-   "youtubeVideoId": "vGGn6CZbFaQ",
+   "youtubeVideoId": "c660thEPeeY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17513179",
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "RdjqffqqmFw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "ExkdHF0iEak",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "b6wiFPuxkR0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -707,7 +707,7 @@
     "en"
    ],
    "youtubeChannelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
-   "youtubeVideoId": "KQp-e_XQnDE",
+   "youtubeVideoId": "yktKz9DWuSg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -990,6 +990,42 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Trump_2026_White_House_typeface.svg?width=256",
    "website": "https://www.whitehouse.gov",
    "city": "Washington, D.C."
+  },
+  {
+   "id": "us.wtop",
+   "name": "WTOP News",
+   "category": "radio",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "us.wnyc",
+   "name": "WNYC",
+   "category": "radio",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCbysmY4hyViQAAYEzOR-uCQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
   },
   {
    "id": "us.nasa",

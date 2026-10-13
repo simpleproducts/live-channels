@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "SG",
- "version": 2026101312,
+ "version": 2026101319,
  "defaultTiles": [
   "sg.cna",
-  "sg.cnainsider"
+  "sg.cnainsider",
+  "sg.mediacorp"
  ],
  "channels": [
   {
@@ -57,6 +58,24 @@
    ],
    "youtubeChannelId": "UC_Lnb8ZHqqgLbp-7hltuT9w",
    "youtubeVideoId": "fSUMKrxPEd8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "sg.mediacorp",
+   "name": "Mediacorp Entertainment",
+   "category": "entertainment",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCQrvzGHFkNkVBlqqe46kuYQ",
+   "youtubeVideoId": "ipqTkEH3mhE",
    "embeddable": true,
    "live": true,
    "wikidata": null,

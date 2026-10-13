@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026101314,
+ "version": 2026101319,
  "defaultTiles": [
   "it.euronewsit",
   "it.camera",
@@ -193,7 +193,7 @@
     "it"
    ],
    "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
-   "youtubeVideoId": "t_hXr6iAYx0",
+   "youtubeVideoId": "D90dDoHfZDc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1567359",
@@ -248,6 +248,36 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RTL_102.5_logo.svg?width=256",
    "website": "http://www.rtl.it/",
    "city": "Cologno Monzese"
+  },
+  {
+   "id": "it.radio24",
+   "name": "Radio 24",
+   "category": "radio",
+   "languages": [
+    "it"
+   ],
+   "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3416540",
+   "description": {
+    "en": "Italian private all-news radio, owned by the newspaper Il Sole 24 Ore",
+    "fr": "Radio 24 est la principale station de radio italienne privée d'information en continu.",
+    "it": "stazione radiofonica italiana nazionale",
+    "tr": "Radyo İstasyonu",
+    "id": "stasiun radio",
+    "de": "italienischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_24_(Italy)",
+    "fr": "https://fr.wikipedia.org/wiki/Radio_24",
+    "it": "https://it.wikipedia.org/wiki/Radio_24",
+    "tr": "https://tr.wikipedia.org/wiki/Radio_24"
+   },
+   "logo": null,
+   "website": "http://www.radio24.it/",
+   "city": null
   }
  ]
 }

@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
-  "il.i24he",
   "il.c14",
-  "il.i24en",
-  "il.i24ar"
+  "il.i24he"
  ],
  "channels": [
   {
@@ -19,48 +17,6 @@
    "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg",
    "youtubeVideoId": "rS1uXqApZSI",
    "embeddable": true,
-   "live": true,
-   "wikidata": "Q13612085",
-   "description": {
-    "en": "International television news channel",
-    "es": "canal de televisión israelí",
-    "zh-Hans": "i24news是一個報導國際與時事新聞的電視頻道，其總部設於以色列特拉維夫之雅法港，以英語，法語，阿拉伯語播出，所有人為Patrick Drahi，而執行長為Frank Melloul。",
-    "fr": "chaîne de télévision israélienne d'information en continu",
-    "pt-BR": "i24NEWS é um canal de televisão internacional de notícias e atualidades 24 horas com sede em Israel, localizado no Porto de Jaffa, Tel Aviv, Israel.",
-    "it": "rete televisiva israeliana",
-    "ru": "Израильский телеканал",
-    "zh-Hant": "i24news是一個報導國際與時事新聞的電視頻道，其總部設於以色列特拉維夫之雅法港，以英語，法語，阿拉伯語播出，所有人為Patrick Drahi，而執行長為Frank Melloul。",
-    "ar": "قناة إخبارية",
-    "id": "i24news adalah saluran televisi berita internasional 24 jam yang berkantor pusat di Jaffa Port, Tel Aviv, Israel.",
-    "de": "i24news ist ein privater internationaler TV-Nachrichtensender aus Tel Aviv, Israel."
-   },
-   "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/I24NEWS_(Israeli_TV_channel)",
-    "es": "https://es.wikipedia.org/wiki/I24news",
-    "zh-Hans": "https://zh.wikipedia.org/zh-hans/I24news",
-    "fr": "https://fr.wikipedia.org/wiki/I24News",
-    "pt-BR": "https://pt.wikipedia.org/wiki/I24NEWS",
-    "it": "https://it.wikipedia.org/wiki/I24news",
-    "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_i24_(%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C)",
-    "zh-Hant": "https://zh.wikipedia.org/zh-hant/I24news",
-    "ar": "https://ar.wikipedia.org/wiki/%D8%A2%D9%8A_24_%D9%86%D9%8A%D9%88%D8%B2",
-    "id": "https://id.wikipedia.org/wiki/I24news",
-    "de": "https://de.wikipedia.org/wiki/I24news"
-   },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_i24NEWS.png?width=256",
-   "website": "https://www.i24news.tv/en",
-   "city": "Tel Aviv"
-  },
-  {
-   "id": "il.i24fr",
-   "name": "i24NEWS Français",
-   "category": "news",
-   "languages": [
-    "fr"
-   ],
-   "youtubeChannelId": "UCgPYsPyGhhQJQ9zOUQDWDMA",
-   "youtubeVideoId": null,
-   "embeddable": null,
    "live": false,
    "wikidata": "Q13612085",
    "description": {
@@ -103,7 +59,7 @@
    "youtubeChannelId": "UC4LYR3v6kOIgEjrVARODP3w",
    "youtubeVideoId": "-Hrs-Wn2Tho",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",

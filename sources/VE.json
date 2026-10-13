@@ -4,8 +4,11 @@
  "defaultTiles": ["vpitv", "unionradio"],
  "channels": [
   {"id": "vpitv", "name": "VPItv", "category": "news", "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w", "youtubeVideoId": "SaMzkvXN0II", "embeddable": true, "live": true, "liveSince": "2026-10-09T00:00:00Z"},
-  {"id": "evtv", "name": "EVTV", "category": "news", "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g", "live": false, "languages": ["es"]},
+  {"id": "evtv", "name": "EVTV", "category": "news", "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g", "youtubeVideoId": "vsTHJOnNP6E", "embeddable": true, "live": true, "liveSince": "2026-10-13T18:00:00Z", "languages": ["es"]},
   {"id": "elpitazo", "name": "El Pitazo", "category": "news", "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA", "live": false},
-  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "7Mx6Ke_fBoI", "embeddable": true, "live": true, "liveSince": "2026-10-13T13:00:00Z", "wikidata": "Q5770016"}
+  {"id": "noticiasvenevision", "name": "Noticias Venevisión", "category": "news", "youtubeChannelId": "UCR1tLg8fy9dklmhZPf0qCWQ", "youtubeVideoId": "gXvpQS1NO8Q", "embeddable": true, "live": true, "liveSince": "2026-10-13T19:00:00Z", "languages": ["es"]},
+  {"id": "telesurenglish", "name": "teleSUR English", "category": "news", "youtubeChannelId": "UCmuTmpLY35O3csvhyA6vrkg", "youtubeVideoId": "Kp06LuyyKfM", "embeddable": true, "live": true, "liveSince": "2026-10-07T00:00:00Z", "languages": ["en"]},
+  {"id": "vtv", "name": "VTV", "category": "broadcast", "youtubeChannelId": "UC_8sCVycu3FXidPNoZwOHqA", "youtubeVideoId": "laqhpVjw_KY", "embeddable": true, "live": true, "liveSince": "2026-10-13T19:00:00Z", "languages": ["es"]},
+  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "rIeuP7E3I8w", "embeddable": true, "live": true, "liveSince": "2026-10-13T19:00:00Z", "wikidata": "Q5770016"}
  ]
 }

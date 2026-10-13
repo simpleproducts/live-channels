@@ -1,0 +1,13 @@
+{
+ "code": "NL",
+ "languages": ["nl"],
+ "defaultTiles": ["nhnieuws", "rtvoost", "rtvnoord", "omroepzeeland", "nporadio1", "nossport"],
+ "channels": [
+  {"id": "nhnieuws", "name": "NH Nieuws", "category": "regional", "youtubeChannelId": "UCSpctzQgGRJV84At2dV73qg", "live": false, "languages": ["nl"]},
+  {"id": "rtvoost", "name": "RTV Oost", "category": "regional", "youtubeChannelId": "UCM3TveAh-hbBBRj0FBGhUdg", "live": false, "languages": ["nl"]},
+  {"id": "rtvnoord", "name": "RTV Noord", "category": "regional", "youtubeChannelId": "UC-8skX7WFHAjxvBl7p1DdAA", "live": false, "languages": ["nl"]},
+  {"id": "omroepzeeland", "name": "Omroep Zeeland", "category": "regional", "youtubeChannelId": "UCcN4ENZcg3rB2iBexNRuz2A", "live": false, "languages": ["nl"]},
+  {"id": "nossport", "name": "NOS Sport", "category": "sports", "youtubeChannelId": "UCT4oPufBQa0f6C67Fw_HXNg", "live": false, "languages": ["nl"]},
+  {"id": "nporadio1", "name": "NPO Radio 1", "category": "radio", "youtubeChannelId": "UClRJ0fR9SrsdDSp0_na5Wew", "live": false, "languages": ["nl"]}
+ ]
+}

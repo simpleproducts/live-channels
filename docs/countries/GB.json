@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "gb.skynews",
-  "gb.bbcnews",
   "gb.gbnews",
-  "gb.reuters",
   "gb.talktv",
   "gb.guardian",
   "gb.bbcnewsarabic",
   "gb.timesradio",
-  "gb.parliament"
+  "gb.talksport",
+  "gb.lbc"
  ],
  "channels": [
   {
@@ -22,7 +21,7 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "8CG0aWT2BMs",
+   "youtubeVideoId": "5Q6G6fWqVYA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q217228",
@@ -80,7 +79,7 @@
    "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
    "youtubeVideoId": "9knrm-QS41I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1160945",
    "description": {
     "en": "news division of the publicly funded British Broadcasting Corporation",
@@ -133,7 +132,7 @@
     "en"
    ],
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-   "youtubeVideoId": "Vhn5yIys_2o",
+   "youtubeVideoId": "fW3HYUQF2Xo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q100300992",
@@ -174,7 +173,7 @@
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
    "youtubeVideoId": "Hpj1gJIaHOo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -228,7 +227,7 @@
     "en"
    ],
    "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
-   "youtubeVideoId": "Ezsyi9lEZ2o",
+   "youtubeVideoId": "q3Powgpn_X8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q108760651",
@@ -251,7 +250,7 @@
     "ar"
    ],
    "youtubeChannelId": "UCelk6aHijZq-GJBBB9YpReA",
-   "youtubeVideoId": "j-I_e5aWdn4",
+   "youtubeVideoId": "O1pGmVtj2Y8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q973341",
@@ -486,7 +485,7 @@
    "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g",
    "youtubeVideoId": "lk2erhREN6c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11010",
    "description": {
     "en": "supreme legislative body of the United Kingdom",
@@ -558,7 +557,7 @@
     "en"
    ],
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
-   "youtubeVideoId": "CFsWuk8hyoU",
+   "youtubeVideoId": "nutGALXNOrU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6457273",
@@ -583,6 +582,42 @@
    },
    "logo": null,
    "website": "https://www.lbc.co.uk/",
+   "city": null
+  },
+  {
+   "id": "gb.talksport",
+   "name": "talkSPORT",
+   "category": "radio",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCWw6scNyopJ0yjMu1SyOEyw",
+   "youtubeVideoId": "uLWEssCrXYc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7679885",
+   "description": {
+    "en": "radio station in the UK and Ireland",
+    "zh-Hans": "talkSPORT是英国的一家体育广播电台，也是是英超联赛全球官方音频合作伙伴，目前为Wireless Group 旗下电台。",
+    "fr": "Talksport, est une radio britannique privée diffusant des commentaires sportifs à partir de Londres.",
+    "ko": "토크스포츠(talkSPORTS)는 와일레스 그룹 소유의는 영국과 아일랜드 공화국의 스포츠 라디오 방송국이다.",
+    "it": "stazione radiofonica britannica",
+    "ru": "Talksport — британская и ирландская спортивная радиостанция, принадлежащая Wireless Group и запущенная в 1995 году.",
+    "zh-Hant": "talkSPORT是英国的一家体育广播电台，也是是英超联赛全球官方音频合作伙伴，目前为Wireless Group 旗下电台。",
+    "id": "stasiun radio di Britania Raya",
+    "de": "britischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Talksport",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/TalkSPORT",
+    "fr": "https://fr.wikipedia.org/wiki/Talksport",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%86%A0%ED%81%AC%EC%8A%A4%ED%8F%AC%EC%B8%A0",
+    "it": "https://it.wikipedia.org/wiki/TalkSPORT",
+    "ru": "https://ru.wikipedia.org/wiki/Talksport",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/TalkSPORT"
+   },
+   "logo": null,
+   "website": "https://talksport.com/",
    "city": null
   }
  ]

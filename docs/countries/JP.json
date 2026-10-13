@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "Hwz9zXCRzlw",
+   "youtubeVideoId": "NzhETTSalEs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "yciAAiQ6Xik",
+   "youtubeVideoId": "maYSFuHhpOA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "KTJpLy_stus",
+   "youtubeVideoId": "AkGgrkdXdcw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "iBmB7Sm2u-Y",
+   "youtubeVideoId": "Z-hEwTtWdX0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -293,6 +293,56 @@
    "city": "東京都"
   },
   {
+   "id": "jp.sankei",
+   "name": "Sankei News",
+   "category": "news",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UC1zYGo1jIIjMVDTLL3dydow",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1197261",
+   "description": {
+    "en": "Japanese newspaper",
+    "es": "periódico japonés",
+    "zh-Hans": "日本报纸",
+    "ja": "日本の新聞",
+    "fr": "journal quotidien japonais fondé en 1933",
+    "ko": "일본의 후지산케이그룹의 종합 신문사",
+    "it": "Sankei Shimbun , nome completo Sangyō Keizai Shimbun , è un quotidiano giapponese fondato nel 1933.",
+    "ru": "японская газета",
+    "zh-Hant": "日本報章",
+    "ar": "صحيفة يابانية يومية وطنية تُعدّ من بين أكبر خمس صحف من حيث الانتشار في اليابان",
+    "tr": "Sankei Shimbun, Japonya'da beş ana ulusal gazeteden biridir.",
+    "pl": "Sankei Shimbun – japoński dziennik wydawany przez Sankei Shimbun Co., Ltd.",
+    "sv": "Sankei Shimbun är en japansk dagstidning grundad 1933.",
+    "id": "Sankei Shimbun (産経新聞) atau nama lengkap: Sangyō Keizai Shimbun (産業経済新聞) adalah surat kabar nasional Jepang yang diterbitkan oleh penerbit Sankei Shimbun Company dari Fujisankei Communications Group.",
+    "de": "japanische Tageszeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Sankei_Shimbun",
+    "es": "https://es.wikipedia.org/wiki/Sankei_Shimbun",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%94%A2%E7%B6%93%E6%96%B0%E8%81%9E",
+    "ja": "https://ja.wikipedia.org/wiki/%E7%94%A3%E7%B5%8C%E6%96%B0%E8%81%9E",
+    "fr": "https://fr.wikipedia.org/wiki/Sankei_shinbun",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%82%B0%EC%BC%80%EC%9D%B4_%EC%8B%A0%EB%AC%B8",
+    "it": "https://it.wikipedia.org/wiki/Sankei_Shimbun",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%8D%D0%B9_%D1%81%D0%B8%D0%BC%D0%B1%D1%83%D0%BD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%94%A2%E7%B6%93%E6%96%B0%E8%81%9E",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%D9%83%D9%8A_%D8%B4%D9%8A%D9%85%D8%A8%D9%88%D9%86",
+    "tr": "https://tr.wikipedia.org/wiki/Sankei_Shimbun",
+    "pl": "https://pl.wikipedia.org/wiki/Sankei_Shimbun",
+    "sv": "https://sv.wikipedia.org/wiki/Sankei_Shimbun",
+    "id": "https://id.wikipedia.org/wiki/Sankei_Shimbun",
+    "de": "https://de.wikipedia.org/wiki/Sankei_Shimbun"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Media_sb_Sankei_shimbun-300x75.png?width=256",
+   "website": "https://www.sankei.com/",
+   "city": "大阪市"
+  },
+  {
    "id": "jp.tvtokyobiz",
    "name": "テレ東BIZ",
    "category": "economy",
@@ -369,6 +419,221 @@
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "jp.ytv",
+   "name": "Yomiuri TV News",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCv7_krlrre3GQi79d4guxHQ",
+   "youtubeVideoId": "1V-rE4Z1ZZQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.ktv",
+   "name": "Kansai TV News",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCQhaZjODkIjuv38d-i5TVRw",
+   "youtubeVideoId": "09m1PXSGFS0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.abctv",
+   "name": "ABC TV News (Osaka)",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCPW-5qfYGNR8XYrvESrqJKA",
+   "youtubeVideoId": "LJtlWB1LXjU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.chukyo",
+   "name": "Chukyo TV News",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCxiRdfyH0FtFCRZTRfRsdsA",
+   "youtubeVideoId": "Ke5xJ7nzzO4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.tokaitv",
+   "name": "Tokai TV News ONE",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCUQ0AtI3k10_CyLYcu4WRVA",
+   "youtubeVideoId": "hgogqv0lZpE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.kbc",
+   "name": "KBC Kyushu Asahi News",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCS8ZQejq2CL-nZcnRWZCA5Q",
+   "youtubeVideoId": "8RyR0J8zbbU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.rkb",
+   "name": "RKB Mainichi News",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
+   "youtubeVideoId": "0Kkfo50w-n0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.hbc",
+   "name": "HBC Hokkaido News",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
+   "youtubeVideoId": "e3kX3RbKI8k",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.stv",
+   "name": "STV News Hokkaido",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCOZv-6MiXqJdLpmYtR431Ow",
+   "youtubeVideoId": "3MBdJPHR8lg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.tokyomx",
+   "name": "TOKYO MX News",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCJf85jSgFayOSsZfJ051ZKw",
+   "youtubeVideoId": "CS9Nv_ncHqc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "jp.tbsradio",
+   "name": "TBS Radio",
+   "category": "radio",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q843448",
+   "description": {
+    "en": "radio station in Tokyo",
+    "zh-Hans": "以關東地方為廣播範圍的日本廣播電台",
+    "ja": "関東広域圏のラジオ放送局、JRN系列基幹局",
+    "ko": "주식회사 TBS 라디오(일본어: 株式会社ティービーエス ラジオ, TBS Radio)는 1951년에 설립된 간토 광역권을 대상으로 방송하는 일본의 라디오방송사이다.",
+    "it": "stazione radiofonica giapponese",
+    "zh-Hant": "以關東地方為廣播範圍的日本廣播電台",
+    "ar": "شركة يابانية",
+    "id": "stasiun radio",
+    "de": "japanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TBS_Radio",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/TBS%E9%9B%BB%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/TBS%E3%83%A9%E3%82%B8%E3%82%AA",
+    "ko": "https://ko.wikipedia.org/wiki/TBS_%EB%9D%BC%EB%94%94%EC%98%A4",
+    "it": "https://it.wikipedia.org/wiki/TBS_Radio_%26_Communications",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/TBS%E9%9B%BB%E5%8F%B0"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TBS_Radio_2020_logo.svg?width=256",
+   "website": "https://www.tbsradio.jp/",
+   "city": "港区"
   }
  ]
 }

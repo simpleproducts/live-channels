@@ -1,7 +1,37 @@
 {
  "schema": 2,
- "updated": "2026-10-13T14:41:18Z",
+ "updated": "2026-10-13T20:10:48Z",
  "countries": [
+  {
+   "code": "AE",
+   "flag": "🇦🇪",
+   "name": {
+    "en": "United Arab Emirates",
+    "es": "Emiratos Árabes Unidos",
+    "zh-Hans": "阿拉伯联合酋长国",
+    "ja": "アラブ首長国連邦",
+    "fr": "Émirats arabes unis",
+    "pt-BR": "Emirados Árabes Unidos",
+    "ko": "아랍에미리트",
+    "it": "Emirati Arabi Uniti",
+    "ru": "Объединённые Арабские Эмираты",
+    "zh-Hant": "阿拉伯聯合大公國",
+    "ar": "الإمارات العربية المتحدة",
+    "tr": "Birleşik Arap Emirlikleri",
+    "nl": "Verenigde Arabische Emiraten",
+    "pl": "Zjednoczone Emiraty Arabskie",
+    "sv": "Förenade arabemiraten",
+    "id": "Uni Emirat Arab",
+    "de": "Vereinigte Arabische Emirate",
+    "ms": "Emiriah Arab Bersatu"
+   },
+   "languages": [
+    "ar"
+   ],
+   "channelCount": 9,
+   "version": 2026101320,
+   "file": "countries/AE.json"
+  },
   {
    "code": "AR",
    "flag": "🇦🇷",
@@ -29,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026101314,
+   "version": 2026101320,
    "file": "countries/AR.json"
   },
   {
@@ -88,8 +118,8 @@
    "languages": [
     "pt"
    ],
-   "channelCount": 19,
-   "version": 2026101314,
+   "channelCount": 22,
+   "version": 2026101320,
    "file": "countries/BR.json"
   },
   {
@@ -120,7 +150,7 @@
     "fr"
    ],
    "channelCount": 9,
-   "version": 2026101314,
+   "version": 2026101320,
    "file": "countries/CA.json"
   },
   {
@@ -149,8 +179,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 15,
-   "version": 2026101314,
+   "channelCount": 22,
+   "version": 2026101320,
    "file": "countries/CL.json"
   },
   {
@@ -180,7 +210,7 @@
     "zh"
    ],
    "channelCount": 9,
-   "version": 2026101312,
+   "version": 2026101320,
    "file": "countries/CN.json"
   },
   {
@@ -209,8 +239,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 20,
-   "version": 2026101314,
+   "channelCount": 26,
+   "version": 2026101320,
    "file": "countries/CO.json"
   },
   {
@@ -239,9 +269,39 @@
    "languages": [
     "de"
    ],
-   "channelCount": 10,
-   "version": 2026101314,
+   "channelCount": 11,
+   "version": 2026101320,
    "file": "countries/DE.json"
+  },
+  {
+   "code": "EG",
+   "flag": "🇪🇬",
+   "name": {
+    "en": "Egypt",
+    "es": "Egipto",
+    "zh-Hans": "埃及",
+    "ja": "エジプト",
+    "fr": "Égypte",
+    "pt-BR": "Egito",
+    "ko": "이집트",
+    "it": "Egitto",
+    "ru": "Египет",
+    "zh-Hant": "埃及",
+    "ar": "مصر",
+    "tr": "Mısır",
+    "nl": "Egypte",
+    "pl": "Egipt",
+    "sv": "Egypten",
+    "id": "Mesir",
+    "de": "Ägypten",
+    "ms": "Mesir"
+   },
+   "languages": [
+    "ar"
+   ],
+   "channelCount": 5,
+   "version": 2026101320,
+   "file": "countries/EG.json"
   },
   {
    "code": "ES",
@@ -270,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026101314,
+   "version": 2026101320,
    "file": "countries/ES.json"
   },
   {
@@ -299,8 +359,8 @@
    "languages": [
     "fr"
    ],
-   "channelCount": 15,
-   "version": 2026101314,
+   "channelCount": 19,
+   "version": 2026101320,
    "file": "countries/FR.json"
   },
   {
@@ -329,8 +389,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 13,
-   "version": 2026101314,
+   "channelCount": 14,
+   "version": 2026101320,
    "file": "countries/GB.json"
   },
   {
@@ -360,7 +420,7 @@
     "zh"
    ],
    "channelCount": 5,
-   "version": 2026101312,
+   "version": 2026101320,
    "file": "countries/HK.json"
   },
   {
@@ -390,7 +450,7 @@
     "id"
    ],
    "channelCount": 8,
-   "version": 2026101314,
+   "version": 2026101319,
    "file": "countries/ID.json"
   },
   {
@@ -419,8 +479,8 @@
    "languages": [
     "he"
    ],
-   "channelCount": 7,
-   "version": 2026101314,
+   "channelCount": 6,
+   "version": 2026101320,
    "file": "countries/IL.json"
   },
   {
@@ -451,7 +511,7 @@
     "en"
    ],
    "channelCount": 24,
-   "version": 2026101314,
+   "version": 2026101320,
    "file": "countries/IN.json"
   },
   {
@@ -480,8 +540,8 @@
    "languages": [
     "it"
    ],
-   "channelCount": 6,
-   "version": 2026101314,
+   "channelCount": 7,
+   "version": 2026101319,
    "file": "countries/IT.json"
   },
   {
@@ -510,9 +570,40 @@
    "languages": [
     "ja"
    ],
-   "channelCount": 12,
-   "version": 2026101314,
+   "channelCount": 24,
+   "version": 2026101320,
    "file": "countries/JP.json"
+  },
+  {
+   "code": "KE",
+   "flag": "🇰🇪",
+   "name": {
+    "en": "Kenya",
+    "es": "Kenia",
+    "zh-Hans": "肯尼亚",
+    "ja": "ケニア",
+    "fr": "Kenya",
+    "pt-BR": "Quênia",
+    "ko": "케냐",
+    "it": "Kenya",
+    "ru": "Кения",
+    "zh-Hant": "肯尼亞",
+    "ar": "كينيا",
+    "tr": "Kenya",
+    "nl": "Kenia",
+    "pl": "Kenia",
+    "sv": "Kenya",
+    "id": "Kenya",
+    "de": "Kenia",
+    "ms": "Kenya"
+   },
+   "languages": [
+    "en",
+    "sw"
+   ],
+   "channelCount": 11,
+   "version": 2026101320,
+   "file": "countries/KE.json"
   },
   {
    "code": "KR",
@@ -540,8 +631,8 @@
    "languages": [
     "ko"
    ],
-   "channelCount": 16,
-   "version": 2026101314,
+   "channelCount": 31,
+   "version": 2026101320,
    "file": "countries/KR.json"
   },
   {
@@ -570,8 +661,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 21,
-   "version": 2026101314,
+   "channelCount": 25,
+   "version": 2026101320,
    "file": "countries/MX.json"
   },
   {
@@ -601,8 +692,38 @@
     "en"
    ],
    "channelCount": 6,
-   "version": 2026101314,
+   "version": 2026101320,
    "file": "countries/NG.json"
+  },
+  {
+   "code": "NL",
+   "flag": "🇳🇱",
+   "name": {
+    "en": "Kingdom of the Netherlands",
+    "es": "Reino de los Países Bajos",
+    "zh-Hans": "荷兰王国",
+    "ja": "オランダ王国",
+    "fr": "Royaume des Pays-Bas",
+    "pt-BR": "Reino dos Países Baixos",
+    "ko": "네덜란드 왕국",
+    "it": "Regno dei Paesi Bassi",
+    "ru": "Королевство Нидерландов",
+    "zh-Hant": "荷蘭王國",
+    "ar": "مملكة هولندا",
+    "tr": "Hollanda Krallığı",
+    "nl": "Koninkrijk der Nederlanden",
+    "pl": "Królestwo Niderlandów",
+    "sv": "Konungariket Nederländerna",
+    "id": "Kerajaan Belanda",
+    "de": "Königreich der Niederlande",
+    "ms": "Kerajaan Belanda"
+   },
+   "languages": [
+    "nl"
+   ],
+   "channelCount": 6,
+   "version": 2026101319,
+   "file": "countries/NL.json"
   },
   {
    "code": "PE",
@@ -630,9 +751,40 @@
    "languages": [
     "es"
    ],
-   "channelCount": 14,
-   "version": 2026101314,
+   "channelCount": 16,
+   "version": 2026101320,
    "file": "countries/PE.json"
+  },
+  {
+   "code": "PH",
+   "flag": "🇵🇭",
+   "name": {
+    "en": "Philippines",
+    "es": "Filipinas",
+    "zh-Hans": "菲律宾",
+    "ja": "フィリピン",
+    "fr": "Philippines",
+    "pt-BR": "Filipinas",
+    "ko": "필리핀",
+    "it": "Filippine",
+    "ru": "Филиппины",
+    "zh-Hant": "菲律賓",
+    "ar": "الفلبين",
+    "tr": "Filipinler",
+    "nl": "Filipijnen",
+    "pl": "Filipiny",
+    "sv": "Filippinerna",
+    "id": "Filipina",
+    "de": "Philippinen",
+    "ms": "Filipina"
+   },
+   "languages": [
+    "tl",
+    "en"
+   ],
+   "channelCount": 16,
+   "version": 2026101320,
+   "file": "countries/PH.json"
   },
   {
    "code": "PK",
@@ -661,8 +813,38 @@
     "ur"
    ],
    "channelCount": 10,
-   "version": 2026101314,
+   "version": 2026101319,
    "file": "countries/PK.json"
+  },
+  {
+   "code": "PL",
+   "flag": "🇵🇱",
+   "name": {
+    "en": "Poland",
+    "es": "Polonia",
+    "zh-Hans": "波兰",
+    "ja": "ポーランド",
+    "fr": "Pologne",
+    "pt-BR": "Polônia",
+    "ko": "폴란드",
+    "it": "Polonia",
+    "ru": "Польша",
+    "zh-Hant": "波蘭",
+    "ar": "بولندا",
+    "tr": "Polonya",
+    "nl": "Polen",
+    "pl": "Polska",
+    "sv": "Polen",
+    "id": "Polandia",
+    "de": "Polen",
+    "ms": "Poland"
+   },
+   "languages": [
+    "pl"
+   ],
+   "channelCount": 11,
+   "version": 2026101320,
+   "file": "countries/PL.json"
   },
   {
    "code": "PT",
@@ -721,7 +903,7 @@
     "es"
    ],
    "channelCount": 7,
-   "version": 2026101314,
+   "version": 2026101319,
    "file": "countries/PY.json"
   },
   {
@@ -750,8 +932,8 @@
    "languages": [
     "ar"
    ],
-   "channelCount": 4,
-   "version": 2026101314,
+   "channelCount": 7,
+   "version": 2026101319,
    "file": "countries/QA.json"
   },
   {
@@ -780,9 +962,39 @@
    "languages": [
     "ru"
    ],
-   "channelCount": 3,
-   "version": 2026101312,
+   "channelCount": 6,
+   "version": 2026101319,
    "file": "countries/RU.json"
+  },
+  {
+   "code": "SA",
+   "flag": "🇸🇦",
+   "name": {
+    "en": "Saudi Arabia",
+    "es": "Arabia Saudí",
+    "zh-Hans": "沙特阿拉伯",
+    "ja": "サウジアラビア",
+    "fr": "Arabie saoudite",
+    "pt-BR": "Arábia Saudita",
+    "ko": "사우디아라비아",
+    "it": "Arabia Saudita",
+    "ru": "Саудовская Аравия",
+    "zh-Hant": "沙烏地阿拉伯",
+    "ar": "السعودية",
+    "tr": "Suudi Arabistan",
+    "nl": "Saoedi-Arabië",
+    "pl": "Arabia Saudyjska",
+    "sv": "Saudiarabien",
+    "id": "Arab Saudi",
+    "de": "Saudi-Arabien",
+    "ms": "Arab Saudi"
+   },
+   "languages": [
+    "ar"
+   ],
+   "channelCount": 6,
+   "version": 2026101320,
+   "file": "countries/SA.json"
   },
   {
    "code": "SG",
@@ -810,9 +1022,39 @@
    "languages": [
     "en"
    ],
-   "channelCount": 2,
-   "version": 2026101312,
+   "channelCount": 3,
+   "version": 2026101319,
    "file": "countries/SG.json"
+  },
+  {
+   "code": "TH",
+   "flag": "🇹🇭",
+   "name": {
+    "en": "Thailand",
+    "es": "Tailandia",
+    "zh-Hans": "泰国",
+    "ja": "タイ王国",
+    "fr": "Thaïlande",
+    "pt-BR": "Tailândia",
+    "ko": "태국",
+    "it": "Tailandia",
+    "ru": "Таиланд",
+    "zh-Hant": "泰國",
+    "ar": "تايلاند",
+    "tr": "Tayland",
+    "nl": "Thailand",
+    "pl": "Tajlandia",
+    "sv": "Thailand",
+    "id": "Thailand",
+    "de": "Thailand",
+    "ms": "Thailand"
+   },
+   "languages": [
+    "th"
+   ],
+   "channelCount": 15,
+   "version": 2026101319,
+   "file": "countries/TH.json"
   },
   {
    "code": "TR",
@@ -840,8 +1082,8 @@
    "languages": [
     "tr"
    ],
-   "channelCount": 18,
-   "version": 2026101314,
+   "channelCount": 19,
+   "version": 2026101320,
    "file": "countries/TR.json"
   },
   {
@@ -871,7 +1113,7 @@
     "uk"
    ],
    "channelCount": 11,
-   "version": 2026101314,
+   "version": 2026101320,
    "file": "countries/UA.json"
   },
   {
@@ -900,8 +1142,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 27,
-   "version": 2026101314,
+   "channelCount": 29,
+   "version": 2026101320,
    "file": "countries/US.json"
   },
   {
@@ -930,8 +1172,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 11,
-   "version": 2026101314,
+   "channelCount": 12,
+   "version": 2026101320,
    "file": "countries/UY.json"
   },
   {
@@ -960,9 +1202,39 @@
    "languages": [
     "es"
    ],
-   "channelCount": 4,
-   "version": 2026101314,
+   "channelCount": 7,
+   "version": 2026101320,
    "file": "countries/VE.json"
+  },
+  {
+   "code": "VN",
+   "flag": "🇻🇳",
+   "name": {
+    "en": "Vietnam",
+    "es": "Vietnam",
+    "zh-Hans": "越南",
+    "ja": "ベトナム",
+    "fr": "Vietnam",
+    "pt-BR": "Vietnã",
+    "ko": "베트남",
+    "it": "Vietnam",
+    "ru": "Вьетнам",
+    "zh-Hant": "越南",
+    "ar": "فيتنام",
+    "tr": "Vietnam",
+    "nl": "Vietnam",
+    "pl": "Wietnam",
+    "sv": "Vietnam",
+    "id": "Vietnam",
+    "de": "Vietnam",
+    "ms": "Vietnam"
+   },
+   "languages": [
+    "vi"
+   ],
+   "channelCount": 8,
+   "version": 2026101319,
+   "file": "countries/VN.json"
   },
   {
    "code": "ZA",
@@ -991,8 +1263,183 @@
     "en"
    ],
    "channelCount": 5,
-   "version": 2026101314,
+   "version": 2026101319,
    "file": "countries/ZA.json"
+  }
+ ],
+ "walls": [
+  {
+   "id": "world-english",
+   "title": {
+    "en": "World news in English",
+    "es": "Noticias del mundo en inglés",
+    "zh-Hans": "英语国际新闻",
+    "ja": "英語の世界ニュース",
+    "fr": "Infos du monde en anglais",
+    "pt-BR": "Notícias do mundo em inglês",
+    "ko": "영어 세계 뉴스",
+    "it": "Notizie dal mondo in inglese",
+    "ru": "Мировые новости на английском",
+    "zh-Hant": "英語國際新聞",
+    "ar": "أخبار العالم بالإنجليزية",
+    "tr": "İngilizce dünya haberleri",
+    "nl": "Wereldnieuws in het Engels",
+    "pl": "Wiadomości ze świata po angielsku",
+    "sv": "Världsnyheter på engelska",
+    "id": "Berita dunia berbahasa Inggris",
+    "de": "Weltnachrichten auf Englisch",
+    "ms": "Berita dunia dalam bahasa Inggeris"
+   },
+   "tiles": [
+    "qa.aje",
+    "de.dwnews",
+    "fr.france24en",
+    "gb.skynews",
+    "fr.euronews",
+    "sg.cna",
+    "jp.nhkworld",
+    "tr.trtworld",
+    "au.abcnews"
+   ],
+   "featured": true
+  },
+  {
+   "id": "noticias-espanol",
+   "title": {
+    "en": "News in Spanish",
+    "es": "Noticias en español",
+    "zh-Hans": "西班牙语新闻",
+    "ja": "スペイン語ニュース",
+    "fr": "Infos en espagnol",
+    "pt-BR": "Notícias em espanhol",
+    "ko": "스페인어 뉴스",
+    "it": "Notizie in spagnolo",
+    "ru": "Новости на испанском",
+    "zh-Hant": "西班牙語新聞",
+    "ar": "أخبار بالإسبانية",
+    "tr": "İspanyolca haberler",
+    "nl": "Nieuws in het Spaans",
+    "pl": "Wiadomości po hiszpańsku",
+    "sv": "Nyheter på spanska",
+    "id": "Berita berbahasa Spanyol",
+    "de": "Nachrichten auf Spanisch",
+    "ms": "Berita dalam bahasa Sepanyol"
+   },
+   "tiles": [
+    "us.cnnee",
+    "de.dwespanol",
+    "fr.france24es",
+    "es.euronewses",
+    "es.rtve24h",
+    "ar.tn",
+    "mx.nmas",
+    "co.ntn24",
+    "us.telemundo"
+   ],
+   "featured": true
+  },
+  {
+   "id": "business-markets",
+   "title": {
+    "en": "Business & markets",
+    "es": "Economía y mercados",
+    "zh-Hans": "财经与市场",
+    "ja": "ビジネス・マーケット",
+    "fr": "Économie et marchés",
+    "pt-BR": "Economia e mercados",
+    "ko": "경제·증시",
+    "it": "Economia e mercati",
+    "ru": "Бизнес и рынки",
+    "zh-Hant": "財經與市場",
+    "ar": "الأعمال والأسواق",
+    "tr": "Ekonomi ve piyasalar",
+    "nl": "Economie en markten",
+    "pl": "Biznes i rynki",
+    "sv": "Ekonomi och marknader",
+    "id": "Bisnis & pasar",
+    "de": "Wirtschaft & Märkte",
+    "ms": "Perniagaan & pasaran"
+   },
+   "tiles": [
+    "us.bloomberg",
+    "us.cnbc",
+    "us.yahoofinance",
+    "in.cnbctv18",
+    "in.etnow"
+   ],
+   "featured": true
+  },
+  {
+   "id": "us-midterms-2026",
+   "title": {
+    "en": "US midterm election night 2026",
+    "es": "Noche electoral: midterms de EE. UU. 2026",
+    "zh-Hans": "2026 美国中期选举之夜",
+    "ja": "2026年 米中間選挙 開票速報",
+    "fr": "Midterms américaines 2026 : soirée électorale",
+    "pt-BR": "Noite eleitoral: midterms dos EUA 2026",
+    "ko": "2026 미국 중간선거 개표 방송",
+    "it": "Notte elettorale: midterm USA 2026",
+    "ru": "Ночь промежуточных выборов в США 2026",
+    "zh-Hant": "2026 美國期中選舉之夜",
+    "ar": "ليلة الانتخابات النصفية الأمريكية 2026",
+    "tr": "2026 ABD ara seçim gecesi",
+    "nl": "Verkiezingsnacht: Amerikaanse midterms 2026",
+    "pl": "Wieczór wyborczy: wybory połówkowe w USA 2026",
+    "sv": "Valnatt: mellanårsvalet i USA 2026",
+    "id": "Malam pemilu sela AS 2026",
+    "de": "US-Zwischenwahlen 2026: die Wahlnacht",
+    "ms": "Malam pilihan raya pertengahan penggal AS 2026"
+   },
+   "tiles": [
+    "us.abcnews",
+    "us.cbsnews",
+    "us.nbcnews",
+    "us.cnn",
+    "us.livenow",
+    "us.newsnation"
+   ],
+   "countries": [
+    "US"
+   ],
+   "start": "2026-11-03T22:00:00Z",
+   "end": "2026-11-05T06:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "arabic-news",
+   "title": {
+    "en": "Arabic news",
+    "es": "Noticias en árabe",
+    "zh-Hans": "阿拉伯语新闻",
+    "ja": "アラビア語ニュース",
+    "fr": "Infos en arabe",
+    "pt-BR": "Notícias em árabe",
+    "ko": "아랍어 뉴스",
+    "it": "Notizie in arabo",
+    "ru": "Новости на арабском",
+    "zh-Hant": "阿拉伯語新聞",
+    "ar": "أخبار بالعربية",
+    "tr": "Arapça haberler",
+    "nl": "Nieuws in het Arabisch",
+    "pl": "Wiadomości po arabsku",
+    "sv": "Nyheter på arabiska",
+    "id": "Berita berbahasa Arab",
+    "de": "Nachrichten auf Arabisch",
+    "ms": "Berita dalam bahasa Arab"
+   },
+   "tiles": [
+    "qa.aja",
+    "ae.alarabiya",
+    "ae.skynewsarabia",
+    "ae.alhadath",
+    "sa.asharq",
+    "gb.bbcnewsarabic",
+    "fr.france24ar",
+    "eg.alqahera",
+    "qa.alaraby"
+   ],
+   "featured": true
   }
  ]
 }

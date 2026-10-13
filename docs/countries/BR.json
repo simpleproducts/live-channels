@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "br.canalrural",
   "br.recordnews",
@@ -9,9 +9,9 @@
   "br.jovempan",
   "br.sbtnews",
   "br.uol",
+  "br.metropoles",
   "br.canalgov",
-  "br.tvsenado",
-  "br.tvcamara"
+  "br.gaucha"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "ElSCdSGJ228",
+   "youtubeVideoId": "pWqq2aUwlpY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3056409",
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "CtofIQGrnck",
+   "youtubeVideoId": "_BuvNm-0AOM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -89,7 +89,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCP391YRAjSOdM_bwievgaZA",
-   "youtubeVideoId": "FHWalMWzDVw",
+   "youtubeVideoId": "nb4WGNkBNU8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10358223",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "W9PdXUvQhI4",
+   "youtubeVideoId": "byKYylib92k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -181,7 +181,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-   "youtubeVideoId": "Da3EYM9fE44",
+   "youtubeVideoId": "QMGyGZSllfk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -199,9 +199,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "jTpdbrzGBoY",
+   "youtubeVideoId": "8bsaJ0p3Svk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -241,9 +241,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCSv9d0kQegylHWpP83jWSQg",
-   "youtubeVideoId": "w4w-N_RSzKY",
+   "youtubeVideoId": "xe4Q0ia8D-s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1788146",
    "description": {
     "en": "public broadcaster in Brazil",
@@ -318,9 +318,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
-   "youtubeVideoId": "kFZhiD4oUvY",
+   "youtubeVideoId": "zQ4VaITNgJ8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1090363",
    "description": {
     "en": "Brazilian broadcast television network",
@@ -411,7 +411,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ",
-   "youtubeVideoId": "Ch8lDhzA0_o",
+   "youtubeVideoId": "MWe4J9BePEY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7672422",
@@ -438,7 +438,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC-ZkSRh-7UEuwXJQ9UMCFJA",
-   "youtubeVideoId": "bOi96x0iH8w",
+   "youtubeVideoId": "AMjF3zHSTiI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6137650",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "8lHQp6LnrgI",
+   "youtubeVideoId": "t-o5m71wmzU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "3ARMYScFCkQ",
+   "youtubeVideoId": "NJUvi4n_8qY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "KFdZBvKElk4",
+   "youtubeVideoId": "kjyZhYm6-7Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -538,6 +538,69 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A1dio_Itatiaia_logo_2022.svg?width=256",
    "website": "https://www.itatiaia.com.br/",
    "city": "Belo Horizonte"
+  },
+  {
+   "id": "br.bandeirantes",
+   "name": "Rádio Bandeirantes",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
+   "youtubeVideoId": "kUffPODPtNI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7385855",
+   "description": {
+    "en": "Brazilian radio network",
+    "es": "Radio Bandeirantes es una red de emisoras de radio del Brasil, perteneciente al Grupo Bandeirantes de Comunicação, con sede en São Paulo.",
+    "pt-BR": "rede de rádio brasileira",
+    "it": "stazione radiofonica brasiliana"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Bandeirantes_(radio_network)",
+    "es": "https://es.wikipedia.org/wiki/R%C3%A1dio_Bandeirantes",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Bandeirantes_(rede_de_r%C3%A1dio)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A1dio_Bandeirantes_logo_2021.png?width=256",
+   "website": "http://radiobandeirantes.band.uol.com.br/",
+   "city": "São Paulo"
+  },
+  {
+   "id": "br.gaucha",
+   "name": "Rádio Gaúcha",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCRC3upGcj_decdPi7JXT7Bg",
+   "youtubeVideoId": "hAEXNkLjH_s",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "br.guaiba",
+   "name": "Rádio Guaíba",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w",
+   "youtubeVideoId": "RWS2oExAVxQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
   }
  ]
 }

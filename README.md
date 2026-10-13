@@ -7,13 +7,18 @@ The catalog is served from `docs/` at **https://getskywall.app/channels/**. A Ve
 that path to `raw.githubusercontent.com/simpleproducts/live-channels/main/docs/`, so anything
 committed to `main` is live within the cache window (`vercel.json`: 5 minutes, CORS `*` on JSON):
 
-- `https://getskywall.app/channels/index.json`: the list of countries
+- `https://getskywall.app/channels/index.json`: the list of countries, plus the featured walls
 - `https://getskywall.app/channels/countries/<CC>.json`: one file per country
+
+## Countries
+
+42 countries, 575 published channels (channel counts as of the last build): AE United Arab Emirates (9), AR Argentina (57), AU Australia (4), BR Brazil (22), CA Canada (9), CL Chile (22), CN People's Republic of China (9), CO Colombia (26), DE Germany (11), EG Egypt (5), ES Spain (20), FR France (19), GB United Kingdom (14), HK Hong Kong (5), ID Indonesia (8), IL Israel (6), IN India (24), IT Italy (7), JP Japan (24), KE Kenya (11), KR South Korea (31), MX Mexico (25), NG Nigeria (6), NL Kingdom of the Netherlands (6), PE Peru (16), PH Philippines (16), PK Pakistan (10), PL Poland (11), PT Portugal (7), PY Paraguay (7), QA Qatar (7), RU Russia (6), SA Saudi Arabia (6), SG Singapore (3), TH Thailand (15), TR Turkey (19), UA Ukraine (11), US United States (29), UY Uruguay (12), VE Venezuela (7), VN Vietnam (8), ZA South Africa (5).
 
 ## Layout
 
 ```
 sources/<CC>.json          hand-edited source of truth, one file per country (ISO 3166-1 alpha-2)
+sources/walls.json         featured / event walls (curated multi-country tile sets), published in index.json
 scripts/build.py           sources/ -> docs/ (live pinning, Wikidata enrichment, validation)
 scripts/refresh_live.py    refreshes pinned live video ids with the YouTube Data API (YT_API_KEY)
 scripts/live.py            key-less live detection (scrapes /channel/<UC>/live), used by build.py
@@ -47,7 +52,9 @@ docs/                      published output (do not edit by hand), served at htt
      falls back to `live_stream?channel=`.
    - **defaultTiles** in docs/ are recomputed on every build. They hold up to 9 channels that were
      live at the last check, ordered news first, then 24/7 streams (live for 20h or more), then the
-     source's `defaultTiles` (a preference order only), then source order.
+     source's `defaultTiles` (a preference order only), then source order. When nothing in a country
+     was live at the last check (night there, or broadcasters that only stream events), the list falls
+     back to the source's `defaultTiles`, then its news channels, so it is never empty.
    - When a live video is not embeddable, the channel gets `"embeddable": false` and is **left out
      of docs/** until a later run finds an embeddable broadcast and sets it back to `true`.
    Pinned ids are written back into `sources/` (the build copies them), so they appear in git history.
@@ -71,6 +78,7 @@ docs/                      published output (do not edit by hand), served at htt
    - a `youtubeChannelId` that doesn't match `^UC[\w-]{22}$`
    - a malformed `youtubeVideoId` or QID
    - a `defaultTiles` entry that isn't a channel id
+   - a malformed wall in `sources/walls.json` (see below), or a wall tile that isn't a catalog channel id
 4. **Output.** Output is deterministic: source order, `ensure_ascii=False`, `indent=1`. A
    country's `version` (`yyyymmddHH`, UTC) only changes when its published content changes.
    `index.json.updated` only changes when a country changes.
@@ -143,8 +151,41 @@ zh-Hans, ja, fr, pt-BR, ko, it, ru, zh-Hant, ar, tr, nl, pl, sv, id, de, ms.
 ```json
 { "schema": 2, "updated": "2026-10-12T14:22:02Z",
   "countries": [ { "code": "AR", "flag": "🇦🇷", "name": { "en": "Argentina", "...": "..." },
-                   "languages": ["es"], "channelCount": 59, "version": 2026101214, "file": "countries/AR.json" } ] }
+                   "languages": ["es"], "channelCount": 59, "version": 2026101214, "file": "countries/AR.json" } ],
+  "walls": [ { "id": "world-english", "title": { "en": "World news in English", "...": "..." },
+               "tiles": ["qa.aje", "de.dwnews", "..."], "featured": true } ] }
 ```
+
+## Featured walls (`sources/walls.json`)
+
+Curated walls that mix channels from several countries ("World news in English", an election night…).
+The app offers them next to the country lists. Source format:
+
+```json
+{ "walls": [ {
+  "id": "us-midterms-2026",
+  "title": { "en": "US midterm election night 2026", "es": "...", "...": "all 18 app locales" },
+  "tiles": ["us.abcnews", "us.cbsnews", "us.nbcnews"],
+  "countries": ["US"],
+  "start": "2026-11-03T22:00:00Z",
+  "end": "2026-11-05T06:00:00Z",
+  "featured": true
+} ] }
+```
+
+| field | required | notes |
+|---|---|---|
+| `id` | yes | `[a-z0-9-]+`, unique |
+| `title` | yes | one string for each of the 18 locales: en, es, zh-Hans, ja, fr, pt-BR, ko, it, ru, zh-Hant, ar, tr, nl, pl, sv, id, de, ms |
+| `tiles` | yes | 1-9 global channel ids (`<cc>.<id>`) in display order; each must exist in the catalog |
+| `countries` | no | ISO codes where the wall is offered; omitted or `[]` means everywhere |
+| `start`, `end` | no | ISO 8601 UTC (`Z`); the app shows the wall in that window |
+| `featured` | no | `true` to highlight it; default `false` |
+
+On every build, tiles whose channel is not live (or not published) are dropped, keeping the order.
+A wall that ends up with fewer than 2 tiles, or whose `end` is in the past, is left out. The result
+goes into `docs/index.json` as a top-level `"walls"` array with the same fields (`countries` only
+when non-empty). The `schema` number stays 2: `walls` is a new optional key.
 
 ## Adding a channel
 

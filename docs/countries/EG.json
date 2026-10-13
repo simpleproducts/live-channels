@@ -1,0 +1,126 @@
+{
+ "schema": 2,
+ "code": "EG",
+ "version": 2026101320,
+ "defaultTiles": [
+  "eg.alghad",
+  "eg.alqahera",
+  "eg.extranews",
+  "eg.alnahar"
+ ],
+ "channels": [
+  {
+   "id": "eg.alqahera",
+   "name": "Al Qahera News",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCktyejXTxWaKfrgp1Oq7CMQ",
+   "youtubeVideoId": "POfhEp45MaE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q114785261",
+   "description": {
+    "en": "Egyptian news television channel",
+    "ar": "قناة تلفزيونية إخبارية مصرية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al-Qahera_News",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Qahera_News_Logo.svg?width=256",
+   "website": "https://alqaheranews.net/",
+   "city": "مدينة السادس من أكتوبر"
+  },
+  {
+   "id": "eg.extranews",
+   "name": "eXtra news",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw",
+   "youtubeVideoId": "NSZSpVy-liM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "eg.alghad",
+   "name": "Alghad TV",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCH4UNKBHSNwstan99YDoCVg",
+   "youtubeVideoId": "5K41xRA37Bw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q16126159",
+   "description": {
+    "ar": "الغد هي قناة عربية تلفزيونية فضائية إخبارية تبث باللغة العربية، انطلقت في البداية من لندن في المملكة المتحدة، ثم نقلت عمليات البث الرئيسية إلى القاهرة في مصر، حيث تبث حاليًا من هناك.",
+    "sv": "TV-kanal"
+   },
+   "wikipedia": {
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%BA%D8%AF"
+   },
+   "logo": null,
+   "website": "https://www.alghad.tv",
+   "city": null
+  },
+  {
+   "id": "eg.sadaelbalad",
+   "name": "Sada El Balad",
+   "category": "broadcast",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCJWuV-EkLmRrGZ4afwUBenw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q63121712",
+   "description": {
+    "en": "Egyptian news website and satellite television channel",
+    "ar": "موقع إخباري وقناة تلفزيونية مصرية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sada_El-Balad",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B5%D8%AF%D9%89_%D8%A7%D9%84%D8%A8%D9%84%D8%AF"
+   },
+   "logo": null,
+   "website": "https://elbaladtv.net/",
+   "city": "القاهرة"
+  },
+  {
+   "id": "eg.alnahar",
+   "name": "Al Nahar TV",
+   "category": "broadcast",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCtpL6HyBK-z16GbJguHf3JQ",
+   "youtubeVideoId": "QRzAip-mfrQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3547019",
+   "description": {
+    "en": "Egyptian television channel",
+    "ar": "قناة تلفزيونية مصرية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al-Nahar_(TV_network)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%83%D8%A9_%D8%AA%D9%84%D9%8A%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1"
+   },
+   "logo": null,
+   "website": null,
+   "city": "القاهرة"
+  }
+ ]
+}

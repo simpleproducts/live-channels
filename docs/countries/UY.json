@@ -1,13 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
+  "uy.elobservadoruy",
   "uy.ladiaria",
   "uy.tnu",
   "uy.carve",
   "uy.delsol",
-  "uy.sarandi"
+  "uy.sarandi",
+  "uy.tvciudad"
  ],
  "channels": [
   {
@@ -18,9 +20,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "og11S7PawlY",
+   "youtubeVideoId": "Y9CXi8ygj40",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -82,7 +84,7 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "xw9BlQ0jEww",
+   "youtubeVideoId": "HgJxS6OXWpo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1775667",
@@ -209,9 +211,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "XPhn0cQs3R0",
+   "youtubeVideoId": "ZMl7YSzA8Gs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -283,7 +285,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "zS3Jx7b1onE",
+   "youtubeVideoId": "L6ZL_Ixlde8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -308,7 +310,7 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "p5ZYgmVE_rs",
+   "youtubeVideoId": "4OVxHIED_Xs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -329,6 +331,24 @@
    "youtubeVideoId": "Q0-xtmAygew",
    "embeddable": true,
    "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "uy.universal",
+   "name": "970 Universal",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

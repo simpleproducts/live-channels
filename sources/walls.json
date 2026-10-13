@@ -1,0 +1,37 @@
+{
+ "walls": [
+  {
+   "id": "world-english",
+   "title": {"en": "World news in English", "es": "Noticias del mundo en inglés", "zh-Hans": "英语国际新闻", "ja": "英語の世界ニュース", "fr": "Infos du monde en anglais", "pt-BR": "Notícias do mundo em inglês", "ko": "영어 세계 뉴스", "it": "Notizie dal mondo in inglese", "ru": "Мировые новости на английском", "zh-Hant": "英語國際新聞", "ar": "أخبار العالم بالإنجليزية", "tr": "İngilizce dünya haberleri", "nl": "Wereldnieuws in het Engels", "pl": "Wiadomości ze świata po angielsku", "sv": "Världsnyheter på engelska", "id": "Berita dunia berbahasa Inggris", "de": "Weltnachrichten auf Englisch", "ms": "Berita dunia dalam bahasa Inggeris"},
+   "tiles": ["qa.aje", "de.dwnews", "fr.france24en", "gb.skynews", "fr.euronews", "sg.cna", "jp.nhkworld", "tr.trtworld", "au.abcnews"],
+   "featured": true
+  },
+  {
+   "id": "noticias-espanol",
+   "title": {"en": "News in Spanish", "es": "Noticias en español", "zh-Hans": "西班牙语新闻", "ja": "スペイン語ニュース", "fr": "Infos en espagnol", "pt-BR": "Notícias em espanhol", "ko": "스페인어 뉴스", "it": "Notizie in spagnolo", "ru": "Новости на испанском", "zh-Hant": "西班牙語新聞", "ar": "أخبار بالإسبانية", "tr": "İspanyolca haberler", "nl": "Nieuws in het Spaans", "pl": "Wiadomości po hiszpańsku", "sv": "Nyheter på spanska", "id": "Berita berbahasa Spanyol", "de": "Nachrichten auf Spanisch", "ms": "Berita dalam bahasa Sepanyol"},
+   "tiles": ["us.cnnee", "de.dwespanol", "fr.france24es", "es.euronewses", "es.rtve24h", "ar.tn", "mx.nmas", "co.ntn24", "us.telemundo"],
+   "featured": true
+  },
+  {
+   "id": "business-markets",
+   "title": {"en": "Business & markets", "es": "Economía y mercados", "zh-Hans": "财经与市场", "ja": "ビジネス・マーケット", "fr": "Économie et marchés", "pt-BR": "Economia e mercados", "ko": "경제·증시", "it": "Economia e mercati", "ru": "Бизнес и рынки", "zh-Hant": "財經與市場", "ar": "الأعمال والأسواق", "tr": "Ekonomi ve piyasalar", "nl": "Economie en markten", "pl": "Biznes i rynki", "sv": "Ekonomi och marknader", "id": "Bisnis & pasar", "de": "Wirtschaft & Märkte", "ms": "Perniagaan & pasaran"},
+   "tiles": ["us.bloomberg", "us.cnbc", "us.yahoofinance", "us.foxbusiness", "us.cnbcintl", "us.cnbctv", "ca.bnn", "in.cnbctv18", "in.etnow"],
+   "featured": true
+  },
+  {
+   "id": "us-midterms-2026",
+   "title": {"en": "US midterm election night 2026", "es": "Noche electoral: midterms de EE. UU. 2026", "zh-Hans": "2026 美国中期选举之夜", "ja": "2026年 米中間選挙 開票速報", "fr": "Midterms américaines 2026 : soirée électorale", "pt-BR": "Noite eleitoral: midterms dos EUA 2026", "ko": "2026 미국 중간선거 개표 방송", "it": "Notte elettorale: midterm USA 2026", "ru": "Ночь промежуточных выборов в США 2026", "zh-Hant": "2026 美國期中選舉之夜", "ar": "ليلة الانتخابات النصفية الأمريكية 2026", "tr": "2026 ABD ara seçim gecesi", "nl": "Verkiezingsnacht: Amerikaanse midterms 2026", "pl": "Wieczór wyborczy: wybory połówkowe w USA 2026", "sv": "Valnatt: mellanårsvalet i USA 2026", "id": "Malam pemilu sela AS 2026", "de": "US-Zwischenwahlen 2026: die Wahlnacht", "ms": "Malam pilihan raya pertengahan penggal AS 2026"},
+   "tiles": ["us.abcnews", "us.cbsnews", "us.nbcnews", "us.cnn", "us.foxnews", "us.pbsnewshour", "us.livenow", "us.newsnation", "us.ap"],
+   "countries": ["US"],
+   "start": "2026-11-03T22:00:00Z",
+   "end": "2026-11-05T06:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "arabic-news",
+   "title": {"en": "Arabic news", "es": "Noticias en árabe", "zh-Hans": "阿拉伯语新闻", "ja": "アラビア語ニュース", "fr": "Infos en arabe", "pt-BR": "Notícias em árabe", "ko": "아랍어 뉴스", "it": "Notizie in arabo", "ru": "Новости на арабском", "zh-Hant": "阿拉伯語新聞", "ar": "أخبار بالعربية", "tr": "Arapça haberler", "nl": "Nieuws in het Arabisch", "pl": "Wiadomości po arabsku", "sv": "Nyheter på arabiska", "id": "Berita berbahasa Arab", "de": "Nachrichten auf Arabisch", "ms": "Berita dalam bahasa Arab"},
+   "tiles": ["qa.aja", "ae.alarabiya", "ae.skynewsarabia", "ae.alhadath", "sa.asharq", "gb.bbcnewsarabic", "fr.france24ar", "eg.alqahera", "qa.alaraby"],
+   "featured": true
+  }
+ ]
+}

@@ -1,9 +1,12 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026101314,
+ "version": 2026101319,
  "defaultTiles": [
-  "za.sabcnews"
+  "za.sabcnews",
+  "za.enca",
+  "za.newzroom",
+  "za.news24"
  ],
  "channels": [
   {
@@ -16,7 +19,7 @@
    "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
    "youtubeVideoId": "phhhvymM8uw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q48767445",
    "description": {
     "en": "news channel owned by the South African Broadcasting Corporation",

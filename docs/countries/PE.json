@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
-  "pe.pbo",
+  "pe.latina",
   "pe.larepublica",
   "pe.rpp",
-  "pe.latina",
   "pe.willax",
   "pe.tvperunoticias",
-  "pe.atv",
   "pe.congreso",
-  "pe.exitosa"
+  "pe.exitosa",
+  "pe.radionacional"
  ],
  "channels": [
   {
@@ -24,7 +23,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "JHv-5lYjcHg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -40,7 +39,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "zzTUYXiRDJE",
+   "youtubeVideoId": "W1tJIIKsHI8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1330217",
@@ -73,7 +72,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "yqm5YAQrub4",
+   "youtubeVideoId": "aMarYMkiGGY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -103,7 +102,7 @@
     "es"
    ],
    "youtubeChannelId": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
-   "youtubeVideoId": "QjXF6QP4ItY",
+   "youtubeVideoId": "sLzfveqNEJc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -121,7 +120,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "G4BGSzlGBNU",
+   "youtubeVideoId": "P2ojKKJGIhc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -147,7 +146,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "MXYv-25UnlQ",
+   "youtubeVideoId": "Ig0XX9sYwuU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -173,7 +172,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "RtiJOJFqWE4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -214,7 +213,7 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "zTyIpPl9aKI",
+   "youtubeVideoId": "14apB7Z1RbY",
    "embeddable": true,
    "live": false,
    "wikidata": "Q586523",
@@ -361,7 +360,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
-   "youtubeVideoId": "s3EGAcpYP4s",
+   "youtubeVideoId": "LHKZfhvMlEU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1357543",
@@ -403,7 +402,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "ABudEAOf0is",
+   "youtubeVideoId": "FgCAfNlPHNY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -417,6 +416,52 @@
    },
    "logo": null,
    "website": "https://exitosanoticias.pe",
+   "city": null
+  },
+  {
+   "id": "pe.radionacional",
+   "name": "Radio Nacional",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
+   "youtubeVideoId": "kOw-wawzg9w",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q6096493",
+   "description": {
+    "en": "radio station",
+    "es": "cadena de radio pública del Perú",
+    "fr": "station de radio péruvienne",
+    "pt-BR": "emissora de rádio pública peruana",
+    "id": "stasiun radio di Peru",
+    "de": "peruanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_Nacional_del_Per%C3%BA",
+    "es": "https://es.wikipedia.org/wiki/Radio_Nacional_del_Per%C3%BA"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Nacional_del_Per%C3%BA_%282021%29.svg?width=256",
+   "website": "https://www.radionacional.gob.pe/",
+   "city": null
+  },
+  {
+   "id": "pe.lazona",
+   "name": "La Zona",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCycOAX62Pwuo-g_OSbh5hyw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
    "city": null
   }
  ]

@@ -1,0 +1,263 @@
+{
+ "schema": 2,
+ "code": "AE",
+ "version": 2026101320,
+ "defaultTiles": [
+  "ae.alarabiya",
+  "ae.skynewsarabia",
+  "ae.alhadath",
+  "ae.almashhad",
+  "ae.cnbcarabia",
+  "ae.alarabiyabusiness",
+  "ae.alarabiyafm"
+ ],
+ "channels": [
+  {
+   "id": "ae.alarabiya",
+   "name": "Al Arabiya",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCahpxixMCwoANAftn6IxkTg",
+   "youtubeVideoId": "n7eQejkXbnM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q310172",
+   "description": {
+    "en": "Saudi Arabian television news channel launched in 2003",
+    "es": "canal de televisión de los EAU",
+    "zh-Hans": "沙特阿拉伯国际新闻电视台",
+    "ja": "アル＝アラビーヤ は、アラブ首長国連邦のドバイに本部を置くアラビア語国際ニュース衛星放送。2003年設立。",
+    "fr": "chaîne de télévision d'information",
+    "ko": "알 아라비야(아랍어: العربية)는 사우디아라비아의 텔레비전 채널이다.",
+    "it": "rete televisiva emiratina",
+    "ru": "арабоязычный телеканал, вещающий из Дубая, ОАЭ",
+    "zh-Hant": "沙特阿拉伯国际新闻电视台",
+    "ar": "قناة تلفزيونية سعودية إخبارية عالمية",
+    "tr": "El-Arabiye, merkezi Dubai, Birleşik Arap Emirlikleri'nde bulunan MBC'ye bağlı faaliyet gösteren ve yalnızca haber programları yayımlayan bir televizyon kanalıdır.",
+    "nl": "Saoedi-Arabische televisiezender",
+    "pl": "Al-Arabijja – saudyjska arabskojęzyczna stacja telewizyjna nadająca programy informacyjne.",
+    "sv": "Al-Arabiya är en arabiskspråkig nyhetskanal baserad i Dubai, Förenade arabemiraten.",
+    "id": "Al Arabiya, juga dikenal sebagai Al Arabiya News Channel adalah saluran televisi berita 24 jam dari Uni Emirat Arab yang didirikan pada 3 Maret 2003.",
+    "de": "arabischsprachiger Nachrichtensender aus Dubai",
+    "ms": "Al Arabiya ialah saluran."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al_Arabiya",
+    "es": "https://es.wikipedia.org/wiki/Al-Arabiya",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%98%BF%E6%8B%89%E4%BC%AF%E5%8D%AB%E6%98%9F%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%EF%BC%9D%E3%82%A2%E3%83%A9%E3%83%93%E3%83%BC%E3%83%A4",
+    "fr": "https://fr.wikipedia.org/wiki/Al-Arabiya",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%8C_%EC%95%84%EB%9D%BC%EB%B9%84%EC%95%BC",
+    "it": "https://it.wikipedia.org/wiki/Al_Arabiya",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C-%D0%90%D1%80%D0%B0%D0%B1%D0%B8%D1%8F",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%98%BF%E6%8B%89%E4%BC%AF%E5%8D%AB%E6%98%9F%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+    "tr": "https://tr.wikipedia.org/wiki/El-Arabiye",
+    "nl": "https://nl.wikipedia.org/wiki/Al_Arabiya",
+    "pl": "https://pl.wikipedia.org/wiki/Al-Arabijja",
+    "sv": "https://sv.wikipedia.org/wiki/Al-Arabiya",
+    "id": "https://id.wikipedia.org/wiki/Al_Arabiya",
+    "de": "https://de.wikipedia.org/wiki/Al-Arabiya",
+    "ms": "https://ms.wikipedia.org/wiki/Al-Arabiya"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Al-Arabiya_new_logo.svg?width=256",
+   "website": "https://www.alarabiya.net/",
+   "city": "الرياض"
+  },
+  {
+   "id": "ae.alhadath",
+   "name": "Al Hadath",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCrj5BGAhtWxDfqbza9T9hqA",
+   "youtubeVideoId": "au8t81S0tag",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q12190107",
+   "description": {
+    "en": "Saudi Arabian television channel launched in 2012",
+    "fr": "station de télévision saoudienne",
+    "ar": "قناة إخبارية سعودية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al_Hadath",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AD%D8%AF%D8%AB"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Hadath_TV_logo_2023.svg?width=256",
+   "website": "https://www.alhadath.net/",
+   "city": "الرياض"
+  },
+  {
+   "id": "ae.skynewsarabia",
+   "name": "Sky News Arabia",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCIJXOvggjKtCagMfxvcCzAA",
+   "youtubeVideoId": "ppgTP8xQQsM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2201035",
+   "description": {
+    "en": "Arabic-language rolling news channel",
+    "fr": "chaîne d'information en continu arabophone",
+    "it": "rete televisiva emiratina",
+    "ar": "قناة تلفزيونية إخبارية إماراتية موجهة للعرب",
+    "nl": "Sky News Arabia is een nieuwszender die 6 mei 2012 gelanceerd werd.",
+    "id": "Sky News Arabia adalah saluran televisi berita 24 jam dari Uni Emirat Arab.",
+    "de": "TV-Nachrichtensender in arabischer Sprache"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sky_News_Arabia",
+    "fr": "https://fr.wikipedia.org/wiki/Sky_News_Arabia",
+    "it": "https://it.wikipedia.org/wiki/Sky_News_Arabia",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%83%D8%A7%D9%8A_%D9%86%D9%8A%D9%88%D8%B2_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+    "nl": "https://nl.wikipedia.org/wiki/Sky_News_Arabia",
+    "id": "https://id.wikipedia.org/wiki/Sky_News_Arabia",
+    "de": "https://de.wikipedia.org/wiki/Sky_News_Arabia"
+   },
+   "logo": null,
+   "website": "https://www.skynewsarabia.com/",
+   "city": "أبو ظبي"
+  },
+  {
+   "id": "ae.almashhad",
+   "name": "Al Mashhad",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCWnBTuzUUDpKhJPGuDQMynA",
+   "youtubeVideoId": "fvYBSnXrdEA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q125496844",
+   "description": {
+    "en": "TV channel",
+    "ar": "قناة تلفزيونية ومنصة رقمية إماراتية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al_Mashhad_Media",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF_(%D9%82%D9%86%D8%A7%D8%A9_%D9%88%D9%85%D9%86%D8%B5%D8%A9)"
+   },
+   "logo": null,
+   "website": "https://www.almashhad.com/",
+   "city": "دبي"
+  },
+  {
+   "id": "ae.abudhabitv",
+   "name": "Abu Dhabi TV",
+   "category": "broadcast",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCZ33NIO6rgl291T88-9jreQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ae.cnbcarabia",
+   "name": "CNBC Arabia",
+   "category": "economy",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCsHdPPJXT-yKVTLGkn3DSvQ",
+   "youtubeVideoId": "OLbqCS3OrPM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4115920",
+   "description": {
+    "en": "Business News Channel",
+    "ar": "قناة تلفزيونية أمريكية",
+    "id": "perusahaan asal Amerika Serikat",
+    "ms": "CNBC Arabiya ialah saluran televisyen yang diadaptasi dari CNBC Asia."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNBC_Arabia",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%A5%D9%86_%D8%A8%D9%8A_%D8%B3%D9%8A_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+    "id": "https://id.wikipedia.org/wiki/CNBC_Arabiya",
+    "ms": "https://ms.wikipedia.org/wiki/CNBC_Arabiya"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNBC-Logo_1024x1024-1.png?width=256",
+   "website": "https://www.cnbcarabia.com/",
+   "city": "دبي"
+  },
+  {
+   "id": "ae.alarabiyabusiness",
+   "name": "Al Arabiya Business",
+   "category": "economy",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UC0mthbFRIm_uYkkzMX09sJw",
+   "youtubeVideoId": "27TJ45U-HJ8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ae.adsports",
+   "name": "AD Sports",
+   "category": "sports",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCF8Fpc7bPHC8Jrflci-mUiQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2055675",
+   "description": {
+    "en": "Abu Dhabi Arabic language sports TV channel",
+    "it": "gruppo di reti televisive emiratino",
+    "ar": "مجموعة قنوات رياضية إماراتية",
+    "ms": "Sukan Abu Dhabi atau Sukan AD."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Abu_Dhabi_Sports",
+    "it": "https://it.wikipedia.org/wiki/Abu_Dhabi_Sports_Channel",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9",
+    "ms": "https://ms.wikipedia.org/wiki/AD_Sports"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Abu_Dhabi_Sports_logo_2023.svg?width=256",
+   "website": "https://adsports.ae/",
+   "city": null
+  },
+  {
+   "id": "ae.alarabiyafm",
+   "name": "Al Arabiya FM",
+   "category": "radio",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCTOvu90eQGG8pmTyqDW33uQ",
+   "youtubeVideoId": "cS_qMo8Quqg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

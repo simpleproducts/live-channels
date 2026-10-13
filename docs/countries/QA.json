@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "QA",
- "version": 2026101314,
+ "version": 2026101319,
  "defaultTiles": [
   "qa.aja",
   "qa.mubasher",
   "qa.alaraby",
-  "qa.aje"
+  "qa.aje",
+  "qa.qatartv"
  ],
  "channels": [
   {
@@ -171,6 +172,80 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ALARABY_ARABIC.png?width=256",
    "website": "https://www.alaraby.com",
    "city": "بلدية الضعاين"
+  },
+  {
+   "id": "qa.qatartv",
+   "name": "Qatar TV",
+   "category": "broadcast",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UC2EJXBsWR_5BTCy6R4kIO3A",
+   "youtubeVideoId": "d020NL_oFAY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q18643752",
+   "description": {
+    "en": "television channel of Qatar",
+    "es": "Qatar Televisión, abreviado como Qatar TV o QTV, es un servicio público de televisión nacional propiedad del Gobierno de Catar, y está gestionado por el organismo Catar Media Corporation.",
+    "fr": "Qatar Television est une chaîne de télévision publique qatarie.",
+    "ar": "التلفزيون الحكومي الرسمي لدولة قطر",
+    "id": "Qatar Television, ; disingkat Qatar TV atau QTV), adalah sebuah saluran televisi nasional layanan publik milik Pemerintah Qatar di Qatar yang dimiliki dan dijalankan oleh Qatar General Broadcasting and Television Corporation."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Qatar_Television",
+    "es": "https://es.wikipedia.org/wiki/Qatar_Television",
+    "fr": "https://fr.wikipedia.org/wiki/Qatar_Television",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D9%82%D8%B7%D8%B1",
+    "id": "https://id.wikipedia.org/wiki/Qatar_Television"
+   },
+   "logo": null,
+   "website": "http://www.qtv.qa/",
+   "city": "الدوحة"
+  },
+  {
+   "id": "qa.alrayyan",
+   "name": "Al Rayyan TV",
+   "category": "broadcast",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCK8LcweIXy4BGzTqjoj01DA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "qa.alkass",
+   "name": "Alkass",
+   "category": "sports",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCS_yHXNb5w5S74KQL_TK8Yw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4702673",
+   "description": {
+    "en": "Qatari sports television network",
+    "fr": "Al-Kass Sports Channel (en arabe قناة الدوري والكأس, est une chaîne de télévision satellitaire qatarienne qui émet en arabe, en anglais.",
+    "ar": "قنوات رياضية قطرية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Alkass_Sports_Channels",
+    "fr": "https://fr.wikipedia.org/wiki/Al-Kass_Sports_Channel",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A7%D8%B3_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A7%D8%B3_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.svg?width=256",
+   "website": "http://www.alkass.net",
+   "city": "الدوحة"
   }
  ]
 }

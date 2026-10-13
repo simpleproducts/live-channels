@@ -1,0 +1,308 @@
+{
+ "schema": 2,
+ "code": "TH",
+ "version": 2026101319,
+ "defaultTiles": [
+  "th.thaipbs",
+  "th.thairath",
+  "th.ch7news",
+  "th.ch3news",
+  "th.tnn",
+  "th.pptv",
+  "th.amarin",
+  "th.nation",
+  "th.workpoint"
+ ],
+ "channels": [
+  {
+   "id": "th.thaipbs",
+   "name": "Thai PBS",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2603792",
+   "description": {
+    "en": "Thai public service broadcaster",
+    "zh-Hans": "泰国公共电视台，是泰国的公共广播机构，2008年根据相关法案成立，同年1月15日正式开播。其前身为私营电视台iTV及TITV。旗下拥有ALTV4频道，用于播放教育节目及纪录片。",
+    "ko": "타이의 방송국",
+    "zh-Hant": "泰国公共电视台，是泰国的公共广播机构，2008年根据相关法案成立，同年1月15日正式开播。其前身为私营电视台iTV及TITV。旗下拥有ALTV4频道，用于播放教育节目及纪录片。",
+    "de": "thailändische Rundfunkanstalt"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Thai_Public_Broadcasting_Service",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B3%B0%E5%9B%BD%E5%85%AC%E5%85%B1%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%9C%EA%B5%AD_%EA%B3%B5%EC%98%81%EB%B0%A9%EC%86%A1%EC%82%AC",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B3%B0%E5%9B%BD%E5%85%AC%E5%85%B1%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "de": "https://de.wikipedia.org/wiki/Thai_PBS"
+   },
+   "logo": null,
+   "website": "https://www.thaipbs.or.th/",
+   "city": "Lak Si"
+  },
+  {
+   "id": "th.thaipbsnews",
+   "name": "Thai PBS News",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCOFvLl4bKwCIZg0r4EBQLug",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.thairath",
+   "name": "Thairath TV",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.ch3news",
+   "name": "Khao 3 (Ch3)",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCirZPTc9IoKM_DsA9aKbc4g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.ch7news",
+   "name": "Ch7HD News",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.tnn",
+   "name": "TNN16",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.pptv",
+   "name": "PPTV HD 36",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16306127",
+   "description": {
+    "en": "Thai television station",
+    "ja": "タイのTV局",
+    "id": "PPTV, dikenal sebagai PPTV HD atau PPTV HD 36 adalah salah satu saluran televisi digital yang berasal dari Thailand milik perusahaan Bangkok Media & Broadcasting Co., Ltd..",
+    "de": "thailändischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/PPTV_HD_36",
+    "id": "https://id.wikipedia.org/wiki/PPTV_HD_36"
+   },
+   "logo": null,
+   "website": "https://www.pptvhd36.com/",
+   "city": null
+  },
+  {
+   "id": "th.amarin",
+   "name": "Amarin TV",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.nation",
+   "name": "Nation TV",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.workpoint",
+   "name": "Workpoint News",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.topnews",
+   "name": "TOP NEWS",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.tnamcot",
+   "name": "TNA MCOT",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UC3SaG2jCoWuI50eC41OJ53Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.thestandard",
+   "name": "THE STANDARD",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCk1v3FzlMu3r34LYgoHpH2w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.today",
+   "name": "TODAY",
+   "category": "news",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCQ2ABjf4gcrF0-zfDLQhWFQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "th.tpchannel",
+   "name": "TP Channel (Parliament)",
+   "category": "government",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

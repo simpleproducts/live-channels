@@ -1,10 +1,14 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "ve.vpitv",
-  "ve.unionradio"
+  "ve.evtv",
+  "ve.noticiasvenevision",
+  "ve.telesurenglish",
+  "ve.unionradio",
+  "ve.vtv"
  ],
  "channels": [
   {
@@ -39,9 +43,9 @@
     "es"
    ],
    "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "vsTHJOnNP6E",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -74,6 +78,66 @@
    "city": null
   },
   {
+   "id": "ve.noticiasvenevision",
+   "name": "Noticias Venevisión",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCR1tLg8fy9dklmhZPf0qCWQ",
+   "youtubeVideoId": "gXvpQS1NO8Q",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q5825366",
+   "description": {
+    "es": "Noticiero venezolano emitido por el canal Venevisión.",
+    "pt-BR": "Venevisión é uma rede de televisão aberta venezuelana pertencente ao Grupo Cisneros."
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Noticias_Venevisi%C3%B3n",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Noticias_Venevisi%C3%B3n"
+   },
+   "logo": null,
+   "website": "http://www.noticierovenevision.net",
+   "city": null
+  },
+  {
+   "id": "ve.telesurenglish",
+   "name": "teleSUR English",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCmuTmpLY35O3csvhyA6vrkg",
+   "youtubeVideoId": "Kp06LuyyKfM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ve.vtv",
+   "name": "VTV",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC_8sCVycu3FXidPNoZwOHqA",
+   "youtubeVideoId": "laqhpVjw_KY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
    "id": "ve.unionradio",
    "name": "Unión Radio",
    "category": "radio",
@@ -81,7 +145,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-   "youtubeVideoId": "7Mx6Ke_fBoI",
+   "youtubeVideoId": "rIeuP7E3I8w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5770016",

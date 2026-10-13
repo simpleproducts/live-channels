@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.phoenix",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -18,7 +17,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "rG-ldQnGsB8",
+   "youtubeVideoId": "_0Fs_6dvXR4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -62,7 +61,7 @@
    "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
    "youtubeVideoId": "4H4eFxyuJlo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3381361",
    "description": {
     "en": "television station in Germany",
@@ -416,6 +415,36 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutscher_Bundestag_logo.svg?width=256",
    "website": "https://www.bundestag.de/",
    "city": "Bezirk Mitte"
+  },
+  {
+   "id": "de.radioeins",
+   "name": "radioeins",
+   "category": "radio",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UC-ZMxS-psFAo2NahWdE3I5g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1308457",
+   "description": {
+    "en": "German radio station",
+    "fr": "station de radio allemande",
+    "it": "stazione radiofonica tedesca",
+    "pl": "niemiecka stacja radiowa",
+    "sv": "radiokanal av Rundfunk Berlin-Brandenburg (RBB)",
+    "id": "stasiun radio di Jerman",
+    "de": "Hörfunkprogramm des Rundfunk Berlin-Brandenburg (RBB)"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radioeins",
+    "fr": "https://fr.wikipedia.org/wiki/Radio_Eins",
+    "de": "https://de.wikipedia.org/wiki/Radio_Eins"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rbb_radioeins_Logo_2021.svg?width=256",
+   "website": "https://www.radioeins.de/",
+   "city": null
   }
  ]
 }

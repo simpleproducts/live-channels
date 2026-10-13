@@ -1,0 +1,230 @@
+{
+ "schema": 2,
+ "code": "VN",
+ "version": 2026101319,
+ "defaultTiles": [
+  "vn.antv",
+  "vn.vov"
+ ],
+ "channels": [
+  {
+   "id": "vn.antv",
+   "name": "ANTV",
+   "category": "news",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
+   "youtubeVideoId": "mZwJsnd_Wyc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "vn.qpvn",
+   "name": "QPVN",
+   "category": "news",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "vn.thanhnien",
+   "name": "Báo Thanh Niên",
+   "category": "news",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7710368",
+   "description": {
+    "en": "Vietnamese newspaper",
+    "zh-Hans": "越南报纸",
+    "ja": "タインニエン の 公式紙であり、社会的な問題を多く取り上げている。",
+    "pt-BR": "Thanh Nien News é um jornal em língua inglesa e vietnamita publicado na cidade de Ho Chi Minh no Vietnã.",
+    "ko": "베트남의 언론 기관 신문사",
+    "zh-Hant": "越南報紙",
+    "nl": "periodiek"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Thanh_Ni%C3%AAn",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%9D%92%E5%B9%B4%E6%8A%A5_(%E8%B6%8A%E5%8D%97)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%8B%E3%82%A8%E3%83%B3",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Thanh_Nien_News",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%83%80%EC%9D%B8%EB%8B%88%EC%97%94",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%9D%92%E5%B9%B4%E6%8A%A5_(%E8%B6%8A%E5%8D%97)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Thanh_Ni%C3%AAn_logo.svg?width=256",
+   "website": "https://thanhnien.vn/",
+   "city": "Ho Chi Minh City"
+  },
+  {
+   "id": "vn.tuoitre",
+   "name": "Báo Tuổi Trẻ",
+   "category": "news",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UC47WI-kZXFf0H_f7pvaNCEQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7853413",
+   "description": {
+    "en": "daily newspaper in Vietnam",
+    "zh-Hans": "越南报纸",
+    "ja": "ベトナムの新聞",
+    "fr": "quotidien vietnamien",
+    "ko": "뚜오이째(베트남어: Tuổi Trẻ)는 베트남 호찌민 시를 중심으로 간행되는 신문이다.",
+    "ru": "одна из крупнейших газет Вьетнама",
+    "zh-Hant": "越南报纸",
+    "nl": "periodiek",
+    "pl": "wietnamska gazeta"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Tu%E1%BB%95i_Tr%E1%BA%BB",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%82%AA%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC",
+    "fr": "https://fr.wikipedia.org/wiki/Tu%E1%BB%95i_Tr%E1%BA%BB",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%9A%9C%EC%98%A4%EC%9D%B4%EC%A7%B8",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BE%D0%B9%D1%87%D0%B5",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%A0%B1"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tu%E1%BB%95i_Tr%E1%BA%BB_Logo.svg?width=256",
+   "website": "https://tuoitre.vn/",
+   "city": null
+  },
+  {
+   "id": "vn.vtcnews",
+   "name": "VTC News",
+   "category": "news",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q108492472",
+   "description": {},
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/VTC_News_logo.svg?width=256",
+   "website": "https://vtcnews.vn/",
+   "city": null
+  },
+  {
+   "id": "vn.htvnews",
+   "name": "HTV Tin Tức",
+   "category": "regional",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "vn.hanoitv",
+   "name": "Hanoi Radio Television",
+   "category": "regional",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5649326",
+   "description": {
+    "en": "Vietnamese radio and television network",
+    "zh-Hans": "河内广播电视台，是一家位於越南河内市的国营廣播電視播出機構，以河内市为主要播出地区。",
+    "zh-Hant": "河内广播电视台，是一家位於越南河内市的国营廣播電視播出機構，以河内市为主要播出地区。",
+    "ar": "إذاعة وتلفزيون هانوي ، هي شبكة الإذاعة والتلفزيون الرسمية في هانوي ، فيتنام.",
+    "id": "Hanoi Radio Television adalah jaringan televisi dan radio resmi Hanoi, Vietnam.",
+    "ms": "Hanoi Radio Television, secara rasmi Penyiaran Radio & Televisyen Hanoi, adalah rangkaian radio dan televisyen rasmi Hanoi, Vietnam."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Hanoi_Radio_Television",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B2%B3%E5%86%85%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B2%B3%E5%86%85%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9_%D9%88%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D9%87%D8%A7%D9%86%D9%88%D9%8A",
+    "id": "https://id.wikipedia.org/wiki/Hanoi_Radio_Television",
+    "ms": "https://ms.wikipedia.org/wiki/Hanoi_Radio_Television"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg?width=256",
+   "website": "https://hanoionline.vn/",
+   "city": null
+  },
+  {
+   "id": "vn.vov",
+   "name": "VOV",
+   "category": "radio",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg",
+   "youtubeVideoId": "Qj5WMBPt7tI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1141479",
+   "description": {
+    "en": "national radio broadcaster of Vietnam",
+    "es": "servicio de radiodifusión internacional de Vietnam",
+    "zh-Hans": "越南广播电台",
+    "ja": "ベトナムの声放送局 とは、ベトナム社会主義共和国の国営ラテ兼営局である。所在地はベトナムの首都、ハノイ市。",
+    "fr": "La Voix du Vietnam est l'entreprise de radiodiffusion publique de la République socialiste du Vietnam.",
+    "ko": "베트남의 소리(베트남어: Đài Tiếng nói Việt Nam, Voice of Vietnam 약칭 VOV)는 베트남의 국영방송국이다.",
+    "ru": "«Голос Вьетнама» — вьетнамская государственная радиокомпания.",
+    "zh-Hant": "越南广播电台",
+    "ar": "صوت فيتنام أو اختصارًا (VOV) هي محطة الإذاعة العامة الوطنية الفيتنامية.",
+    "tr": "Vietnam'ın Sesi Vietnam'ın ulusal radyo yayın servisidir.",
+    "id": "stasiun radio di Vietnam",
+    "de": "Auslandshörfunk der Sozialistichen Republik Vietnam",
+    "ms": "Voice of Vietnam Radio, merupakan sebuah stesen radio nasional di bawah pemerintahan Vietnam, dengan misi \"mempromosikan garis panduan dan dasar Parti serta undang-undang Negara dan Negara, dalam upaya untuk berkontribusi pada peningkatan pengetahuan masyarakat dan melayani kehidupan rohani rakyat.\""
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Voice_of_Vietnam",
+    "es": "https://es.wikipedia.org/wiki/La_Voz_de_Vietnam",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%B6%8A%E5%8D%97%E4%B9%8B%E8%81%B2%E5%BB%A3%E6%92%AD%E9%9B%BB%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E5%A3%B0%E6%94%BE%E9%80%81%E5%B1%80",
+    "fr": "https://fr.wikipedia.org/wiki/Voix_du_Vietnam",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B2%A0%ED%8A%B8%EB%82%A8%EC%9D%98_%EC%86%8C%EB%A6%AC",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D1%81_%D0%92%D1%8C%D0%B5%D1%82%D0%BD%D0%B0%D0%BC%D0%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%B6%8A%E5%8D%97%E4%B9%8B%E8%81%B2%E5%BB%A3%E6%92%AD%E9%9B%BB%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B5%D9%88%D8%AA_%D9%81%D9%8A%D8%AA%D9%86%D8%A7%D9%85",
+    "tr": "https://tr.wikipedia.org/wiki/Vietnam'%C4%B1n_Sesi",
+    "id": "https://id.wikipedia.org/wiki/Voice_of_Vietnam",
+    "de": "https://de.wikipedia.org/wiki/Stimme_Vietnams",
+    "ms": "https://ms.wikipedia.org/wiki/Stesen_Suara_Vietnam"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_VOV.svg?width=256",
+   "website": "https://vov.vn/",
+   "city": "Hanoi"
+  }
+ ]
+}

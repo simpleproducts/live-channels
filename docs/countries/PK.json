@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026101314,
+ "version": 2026101319,
  "defaultTiles": [
+  "pk.geonews",
   "pk.dunyanews",
+  "pk.expressnews",
+  "pk.92news",
   "pk.dawnnews",
-  "pk.ptvnews",
   "pk.humnews",
   "pk.gnn",
   "pk.samaa",
-  "pk.geonews",
-  "pk.arynews",
-  "pk.expressnews"
+  "pk.arynews"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ur"
    ],
    "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-   "youtubeVideoId": "Z_mKzlJLpV0",
+   "youtubeVideoId": "XGJ7EyT7Wkw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7388622",
@@ -46,7 +46,7 @@
     "ur"
    ],
    "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
-   "youtubeVideoId": "ekzLheCvQ_Q",
+   "youtubeVideoId": "t3fvgmDDmdc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513202",
@@ -73,7 +73,7 @@
     "ur"
    ],
    "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-   "youtubeVideoId": "rY6aO3GEjT0",
+   "youtubeVideoId": "yrVfZwBDjzo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4653979",
@@ -125,7 +125,7 @@
     "ur"
    ],
    "youtubeChannelId": "UCTur7oM6mLL0rM2k0znuZpQ",
-   "youtubeVideoId": "NJy2gNrsOjQ",
+   "youtubeVideoId": "KNvaWHgOBMw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2787411",
@@ -149,7 +149,7 @@
     "ur"
    ],
    "youtubeChannelId": "UCsgC5cbz3DE2Shh34gNKiog",
-   "youtubeVideoId": "rVq7cy9ND9g",
+   "youtubeVideoId": "kZK2BiSdC68",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -195,7 +195,7 @@
     "ur"
    ],
    "youtubeChannelId": "UC5RvV_LtR1dxPCVFGw6dxXA",
-   "youtubeVideoId": "EYzDPf85IBg",
+   "youtubeVideoId": "zDt8Caqpq2g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6583157",

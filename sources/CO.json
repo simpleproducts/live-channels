@@ -20,8 +20,14 @@
   {"id": "telecaribe", "name": "Telecaribe", "category": "regional", "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw", "live": false, "wikidata": "Q5547733"},
   {"id": "telepacifico", "name": "Telepacífico", "category": "regional", "youtubeChannelId": "UC_AZE6OOfsr7CxzPfkjnM9A", "live": false},
   {"id": "bluradio", "name": "Blu Radio", "category": "radio", "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg", "youtubeVideoId": "KE6yMjt9JvQ", "embeddable": true, "live": true, "liveSince": "2026-10-13T09:00:00Z", "wikidata": "Q4672090"},
-  {"id": "caracolradio", "name": "Caracol Radio", "category": "radio", "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw", "youtubeVideoId": "R7S-wQerwqE", "embeddable": true, "live": false, "wikidata": "Q4382447"},
-  {"id": "lafm", "name": "La FM", "category": "radio", "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g", "youtubeVideoId": "N4-QOj8kjGY", "embeddable": true, "live": true, "liveSince": "2026-10-13T10:00:00Z", "wikidata": "Q2840179"},
-  {"id": "radionacional", "name": "Radio Nacional de Colombia", "category": "radio", "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A", "live": false, "wikidata": "Q5843056"}
+  {"id": "caracolradio", "name": "Caracol Radio", "category": "radio", "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw", "youtubeVideoId": "dZJFMkDP2DI", "embeddable": true, "live": true, "liveSince": "2026-10-13T18:00:00Z", "wikidata": "Q4382447"},
+  {"id": "lafm", "name": "La FM", "category": "radio", "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g", "youtubeVideoId": "N4-QOj8kjGY", "embeddable": true, "live": false, "wikidata": "Q2840179"},
+  {"id": "radionacional", "name": "Radio Nacional de Colombia", "category": "radio", "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A", "live": false, "wikidata": "Q5843056"},
+  {"id": "rcnradio", "name": "RCN Radio", "category": "radio", "youtubeChannelId": "UCnj2A_LNDcHHQCB38y1Btwg", "youtubeVideoId": "VXwwhOw4j2w", "embeddable": true, "live": true, "liveSince": "2026-08-27T00:00:00Z", "languages": ["es"]},
+  {"id": "los40", "name": "Los 40 Colombia", "category": "radio", "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag", "live": false, "languages": ["es"]},
+  {"id": "tropicana", "name": "Tropicana", "category": "radio", "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ", "live": false, "languages": ["es"]},
+  {"id": "lakalle", "name": "La Kalle", "category": "radio", "youtubeChannelId": "UClAlbNsawVywJF99roh7qvA", "live": false, "languages": ["es"]},
+  {"id": "olimpica", "name": "Olímpica Stereo", "category": "radio", "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A", "live": false, "languages": ["es"]},
+  {"id": "lamega", "name": "La Mega", "category": "radio", "youtubeChannelId": "UCiVHAfsq_UPsw8cm0sylDRw", "live": false, "languages": ["es"]}
  ]
 }

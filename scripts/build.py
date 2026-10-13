@@ -9,6 +9,9 @@ Usage:  python3 -I scripts/build.py [--offline] [--check] [--no-scrape]
   --check      validate sources only, write nothing
   --no-scrape  skip the key-less live scrape (use when refresh_live.py with YT_API_KEY already ran)
 
+Featured walls: sources/walls.json is validated and published in docs/index.json as "walls" (tiles that
+are not live are dropped, walls with fewer than 2 live tiles or an end in the past are left out).
+
 Live pinning: unless --no-scrape/--offline, every channel's /live page is fetched; when it is live and
 embeddable its video id is written to sources/<CC>.json as "youtubeVideoId" (+ "embeddable"). Offline
 channels keep their previous id. Channels whose live video is not embeddable ("embeddable": false) are
@@ -42,6 +45,9 @@ CACHE = os.environ.get("BUILD_CACHE") or os.path.join(ROOT, ".cache")
 TTL = float(os.environ.get("CACHE_TTL_DAYS", "7")) * 86400
 OFFLINE = "--offline" in sys.argv
 SCHEMA = 2
+WALLS = os.path.join(ROOT, "sources", "walls.json")
+WALL_TILES_MAX = 9
+ISO_UTC = "%Y-%m-%dT%H:%M:%SZ"
 DEGRADED = False  # set when Wikidata could not be reached; previously published enrichment is reused
 
 # App locales -> Wikidata language-code fallback chain
@@ -244,6 +250,83 @@ def validate(sources):
     return errors
 
 
+def read_walls():
+    if not os.path.exists(WALLS):
+        return []
+    with open(WALLS, encoding="utf-8") as f:
+        return json.load(f).get("walls", [])
+
+
+def parse_utc(v):
+    return datetime.datetime.strptime(v, ISO_UTC).replace(tzinfo=datetime.timezone.utc)
+
+
+def validate_walls(walls, sources):
+    """sources/walls.json: every tile must be a channel id (<cc>.<id>) of the catalog."""
+    errors = []
+    gids = {"%s.%s" % (s["code"].lower(), ch["id"]) for s in sources.values() for ch in s.get("channels", [])}
+    codes = {s["code"] for s in sources.values()}
+    seen = set()
+    allowed = {"id", "title", "tiles", "countries", "start", "end", "featured"}
+    for i, w in enumerate(walls):
+        where = "walls.json wall #%d (%s)" % (i + 1, w.get("id"))
+        wid = w.get("id")
+        if not wid or not re.match(r"^[a-z0-9-]+$", wid):
+            errors.append("%s: id must be [a-z0-9-]+" % where)
+        if wid in seen:
+            errors.append("%s: duplicate id" % where)
+        seen.add(wid)
+        extra = set(w) - allowed
+        if extra:
+            errors.append("%s: unknown keys %s" % (where, sorted(extra)))
+        title = w.get("title")
+        if not isinstance(title, dict) or set(title) != set(LOCALES) or not all(isinstance(v, str) and v.strip() for v in title.values()):
+            errors.append("%s: title must have a non-empty string for each of the %d locales" % (where, len(LOCALES)))
+        tiles = w.get("tiles")
+        if not isinstance(tiles, list) or not tiles or len(tiles) > WALL_TILES_MAX or len(set(tiles)) != len(tiles):
+            errors.append("%s: tiles must be 1-%d distinct channel ids" % (where, WALL_TILES_MAX))
+        for t in tiles or []:
+            if t not in gids:
+                errors.append("%s: tile %r is not a channel id" % (where, t))
+        for cc in w.get("countries", []):
+            if cc not in codes:
+                errors.append("%s: country %r has no source" % (where, cc))
+        for k in ("start", "end"):
+            if k in w:
+                try:
+                    parse_utc(w[k])
+                except (TypeError, ValueError):
+                    errors.append("%s: %s must be ISO UTC like 2026-11-03T22:00:00Z" % (where, k))
+        if "start" in w and "end" in w and not errors and parse_utc(w["start"]) >= parse_utc(w["end"]):
+            errors.append("%s: start must be before end" % where)
+        if "featured" in w and not isinstance(w["featured"], bool):
+            errors.append("%s: featured must be true/false" % where)
+    return errors
+
+
+def build_walls(walls, live_gids, now):
+    """Published walls: tiles in order, non-live (or unpublished) channels dropped; walls that ended or keep
+    fewer than 2 live tiles are left out."""
+    out = []
+    for w in walls:
+        if "end" in w and parse_utc(w["end"]) <= now:
+            print("  wall %s left out: ended" % w["id"], file=sys.stderr)
+            continue
+        tiles = [t for t in w["tiles"] if t in live_gids]
+        if len(tiles) < 2:
+            print("  wall %s left out: only %d live tiles" % (w["id"], len(tiles)), file=sys.stderr)
+            continue
+        rec = {"id": w["id"], "title": {loc: w["title"][loc] for loc in LOCALES}, "tiles": tiles}
+        if w.get("countries"):
+            rec["countries"] = w["countries"]
+        for k in ("start", "end"):
+            if k in w:
+                rec[k] = w[k]
+        rec["featured"] = w.get("featured", False)
+        out.append(rec)
+    return out
+
+
 # ---------------------------------------------------------------- build
 def pick_defaults(src, excluded, now, langs, n=9):
     """Up to 9 channels that were genuinely live (status OK, embeddable) at the last live check.
@@ -263,6 +346,12 @@ def pick_defaults(src, excluded, now, langs, n=9):
             except ValueError:
                 pass
         cands.append((ch["category"] != "news", main_lang not in langs.get(ch["id"], [main_lang]), not always_on, pref.get(ch["id"], 999), i, ch["id"]))
+    if not cands:
+        # nothing live at the last check (night in that time zone, or a country whose broadcasters only
+        # stream events): fall back to the preference order, then news channels, so the list is never empty
+        ids = [t for t in src.get("defaultTiles", []) if t not in excluded]
+        ids += [ch["id"] for ch in src["channels"] if ch["category"] == "news" and ch["id"] not in excluded and ch["id"] not in ids]
+        return ids[:n]
     return [c[-1] for c in sorted(cands)[:n]]
 
 
@@ -287,12 +376,13 @@ def write_json(path, data):
 
 def main():
     sources = {n: read_source(n) for n in source_files()}
-    errors = validate(sources)
+    walls = read_walls()
+    errors = validate(sources) + validate_walls(walls, sources)
     if errors:
         print("Validation failed:\n  " + "\n  ".join(errors), file=sys.stderr)
         sys.exit(1)
     if "--check" in sys.argv:
-        print("OK: %d countries valid" % len(sources))
+        print("OK: %d countries, %d walls valid" % (len(sources), len(walls)))
         return
     if not OFFLINE and "--no-scrape" not in sys.argv:
         _live, _changed, files = live.scrape_sources(sources)
@@ -359,6 +449,7 @@ def main():
     index_countries = []
     any_changed = False
     stats = []
+    live_gids = set()
     for name in sorted(sources):
         s = sources[name]
         cc = s["code"]
@@ -429,6 +520,8 @@ def main():
                 "city": enrich.get("city"),
             })
             out_channels.append(rec)
+            if rec["live"]:
+                live_gids.add(gid)
 
         body = {"schema": SCHEMA, "code": cc, "defaultTiles": ["%s.%s" % (cc.lower(), t) for t in pick_defaults(s, excluded, now, {c["id"].split(".", 1)[1]: c["languages"] for c in out_channels})],
                 "channels": out_channels}
@@ -454,12 +547,14 @@ def main():
                                 "file": "countries/%s.json" % cc})
         stats.append((cc, len(out_channels), matched))
 
+    out_walls = build_walls(walls, live_gids, now)
     prev_index = _prev_index()
     updated = prev_index.get("updated")
     prev_countries = prev_index.get("countries")
-    if any_changed or prev_countries != index_countries or not updated:
+    if any_changed or prev_countries != index_countries or prev_index.get("walls") != out_walls or not updated:
         updated = now.strftime("%Y-%m-%dT%H:%M:%SZ")
-    write_json(os.path.join(DOCS, "index.json"), {"schema": SCHEMA, "updated": updated, "countries": index_countries})
+    write_json(os.path.join(DOCS, "index.json"), {"schema": SCHEMA, "updated": updated, "countries": index_countries,
+                                                  "walls": out_walls})
     # remove published files for countries that no longer have a source
     for f in os.listdir(os.path.join(DOCS, "countries")):
         if f.endswith(".json") and f not in sources:
@@ -467,7 +562,9 @@ def main():
     open(os.path.join(DOCS, ".nojekyll"), "a").close()
 
     total = sum(n for _, n, _ in stats)
-    print("Built %d countries, %d channels" % (len(stats), total))
+    print("Built %d countries, %d channels, %d walls" % (len(stats), total, len(out_walls)))
+    for w in out_walls:
+        print("  wall %s: %d tiles" % (w["id"], len(w["tiles"])))
     for cc, n, m in stats:
         print("  %s %3d channels, Wikidata %3d (%d%%)" % (cc, n, m, round(100 * m / n) if n else 0))
 

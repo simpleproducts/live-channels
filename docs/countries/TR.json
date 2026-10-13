@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "tr.trthaber",
   "tr.ntv",
-  "tr.ahaber",
-  "tr.haberglobal",
-  "tr.tv100",
   "tr.24tv",
   "tr.cnnturk",
   "tr.haberturk",
-  "tr.halktv"
+  "tr.halktv",
+  "tr.sozcu",
+  "tr.ahaber",
+  "tr.tgrthaber"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
-   "youtubeVideoId": "oqTV3cXZCeQ",
+   "youtubeVideoId": "0IMzjZDFIVs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2931786",
@@ -112,7 +112,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
-   "youtubeVideoId": "Ld6BrA-Sn_k",
+   "youtubeVideoId": "5YOsc6SxlA0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6092925",
@@ -178,7 +178,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCf_ResXZzE-o18zACUEmyvQ",
-   "youtubeVideoId": "c6JrbS7klQU",
+   "youtubeVideoId": "jfldvJ0fcZs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6065965",
@@ -204,7 +204,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
-   "youtubeVideoId": "fJjv9RNsfLM",
+   "youtubeVideoId": "su1o0M4HgIU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q116775276",
@@ -270,7 +270,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
-   "youtubeVideoId": "EyTWkmkQxJA",
+   "youtubeVideoId": "lyU5wPHb4_k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6089384",
@@ -298,7 +298,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCzgrZ-CndOoylh2_e72nSBQ",
-   "youtubeVideoId": "dhMGQkez1bk",
+   "youtubeVideoId": "xcCfjAOBMfI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6084153",
@@ -324,7 +324,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
-   "youtubeVideoId": "EqoCJ8BPxtE",
+   "youtubeVideoId": "RRG_MTH876M",
    "embeddable": true,
    "live": true,
    "wikidata": "Q84432980",
@@ -350,7 +350,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
-   "youtubeVideoId": "4WSvLRk83-c",
+   "youtubeVideoId": "WtKu8Xzj19A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q85975294",
@@ -580,6 +580,24 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TBMM_TV_logo.svg?width=256",
    "website": "http://tv.tbmm.gov.tr/",
+   "city": null
+  },
+  {
+   "id": "tr.rockfm",
+   "name": "Rock FM",
+   "category": "radio",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCx3H_0xNy6vB_RUtG-_7Hhw",
+   "youtubeVideoId": "njqkg8o4C84",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
    "city": null
   },
   {

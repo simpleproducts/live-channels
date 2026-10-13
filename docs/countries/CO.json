@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -9,8 +9,9 @@
   "co.eltiempo",
   "co.caracoltv",
   "co.citytv",
+  "co.rcnradio",
   "co.bluradio",
-  "co.lafm"
+  "co.caracolradio"
  ],
  "channels": [
   {
@@ -454,9 +455,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "R7S-wQerwqE",
+   "youtubeVideoId": "dZJFMkDP2DI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -485,7 +486,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "N4-QOj8kjGY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -523,6 +524,119 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Nacional_de_Colombia_Logo_2.svg?width=256",
    "website": "https://www.radionacional.co/",
+   "city": null
+  },
+  {
+   "id": "co.rcnradio",
+   "name": "RCN Radio",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCnj2A_LNDcHHQCB38y1Btwg",
+   "youtubeVideoId": "VXwwhOw4j2w",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.los40",
+   "name": "Los 40 Colombia",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.tropicana",
+   "name": "Tropicana",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.lakalle",
+   "name": "La Kalle",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UClAlbNsawVywJF99roh7qvA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.olimpica",
+   "name": "Olímpica Stereo",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.lamega",
+   "name": "La Mega",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCiVHAfsq_UPsw8cm0sylDRw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5964328",
+   "description": {
+    "en": "Colombian radio station",
+    "es": "cadena de radio colombiana"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/La_Mega_(Colombia)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Mega_%28Colombia%29_logo.svg?width=256",
+   "website": "http://www.lamega.com.co",
    "city": null
   }
  ]

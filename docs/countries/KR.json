@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "SlBRWe2QlUA",
+   "youtubeVideoId": "GS-s3c6BoZU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -89,7 +89,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "TJRI0BcEXO0",
+   "youtubeVideoId": "s4H4-GToXhk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6495373",
@@ -127,7 +127,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "piCdhrLhJME",
+   "youtubeVideoId": "Y-ozOBkptGE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -330,9 +330,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "i9OuAEnBPuk",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q7388983",
    "description": {
     "en": "news channel in South Korea",
@@ -357,6 +357,168 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SBS_CNBC_CI.svg?width=256",
    "website": "http://sbscnbc.sbs.co.kr/",
    "city": "마포구"
+  },
+  {
+   "id": "kr.yonhapeconomy",
+   "name": "Yonhap News Economy TV",
+   "category": "economy",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UC6kZpTl39-_SqfBrF1-N2oQ",
+   "youtubeVideoId": "yhpbioCP6nA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.wowtv",
+   "name": "Korea Economic TV",
+   "category": "economy",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCF8AeLlUbEpKju6v1H6p8Eg",
+   "youtubeVideoId": "VlaCnp1fxI8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.mbn_economy",
+   "name": "Maeil Business TV",
+   "category": "economy",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+   "youtubeVideoId": "s9xL1DpBsfQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.seouleconomy",
+   "name": "Seoul Economic TV",
+   "category": "economy",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UC3p-0EWA8OXko2EUDUXAy5w",
+   "youtubeVideoId": "ciA-0rInLwQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.edaily",
+   "name": "Edaily TV",
+   "category": "economy",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UC8Sv6O3Ux8ePVqorx8aOBMg",
+   "youtubeVideoId": "5cFoz90FUMk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.mtn",
+   "name": "MTN Money Today",
+   "category": "economy",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UClErHbdZKUnD1NyIUeQWvuQ",
+   "youtubeVideoId": "lb1oB2feqkQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.knn",
+   "name": "KNN News (Busan)",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UC1ifSsWUG241rRfK0ezYCgA",
+   "youtubeVideoId": "daygAzDaZMw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.tbc",
+   "name": "TBC News (Daegu)",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCREjdu30qQ0Mfrbz9t-gt9A",
+   "youtubeVideoId": "uERFiq1h0hQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.gwangjumbc",
+   "name": "Gwangju MBC News",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
+   "youtubeVideoId": "ZdoE5855wd8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
   },
   {
    "id": "kr.natv",
@@ -416,6 +578,108 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KTV_logo.svg?width=256",
    "website": null,
    "city": null
+  },
+  {
+   "id": "kr.kbs1radio",
+   "name": "KBS 1Radio",
+   "category": "radio",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A",
+   "youtubeVideoId": "HOHh38-9Re0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.ytnradio",
+   "name": "YTN Radio",
+   "category": "radio",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCwRljhjVWtLqAKbsWGPU_OA",
+   "youtubeVideoId": "SMQJyQ0UMvI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.sbsradio",
+   "name": "SBS Radio",
+   "category": "radio",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCAmff0euQRf6RwVlbB8PLMw",
+   "youtubeVideoId": "F6rrT3OHCoU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.tbsefm",
+   "name": "TBS eFM",
+   "category": "radio",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCHjDAeTbO4fQilomLD-kaXg",
+   "youtubeVideoId": "GHUlg63raJo",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.arirangradio",
+   "name": "Arirang Radio",
+   "category": "radio",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCUSSnoEQ8DSRK-gnWS0vfyA",
+   "youtubeVideoId": "P1fX2GGdVS0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q16165885",
+   "description": {
+    "en": "English-language radio station based in Seoul, Korea",
+    "zh-Hans": "韩国首尔的英语广播电台",
+    "ja": "アリランラジオ は、韓国のソウル特別市にある韓国国際放送交流財団の英語国際放送局である。ニュース、文化、ドキュメンタリー、娯楽番組を網羅している。名前は、韓国の民謡であるアリランから由来している。",
+    "ko": "대한민국의 라디오 네트워크 채널로 케이블라디오 방송 채널과 더불어 제주도에 설치된 국제방송사이자 공익채널로 지정된 방송사",
+    "zh-Hant": "韩国首尔的英语广播电台",
+    "id": "stasiun radio di Korea Selatan",
+    "de": "südkoreanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Arirang_Radio",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%A9%E3%82%B8%E3%82%AA",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A6%AC%EB%9E%91_%EB%9D%BC%EB%94%94%EC%98%A4"
+   },
+   "logo": null,
+   "website": "http://www.arirangradio.com/",
+   "city": "서울특별시"
   },
   {
    "id": "kr.arirangtv",
@@ -507,6 +771,24 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KBS_World_%282009%29.svg?width=256",
    "website": "https://world.kbs.co.kr",
+   "city": null
+  },
+  {
+   "id": "kr.ytnscience",
+   "name": "YTN Science",
+   "category": "culture",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
+   "youtubeVideoId": "82C8aX3AB60",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
    "city": null
   }
  ]

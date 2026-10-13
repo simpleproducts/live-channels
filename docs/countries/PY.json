@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026101314,
+ "version": 2026101319,
  "defaultTiles": [
-  "py.abctv",
-  "py.telefuturo"
+  "py.abctv"
  ],
  "channels": [
   {
@@ -15,7 +14,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
-   "youtubeVideoId": "H85Z2Sc0lmY",
+   "youtubeVideoId": "oZWu_aZoUqg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -100,7 +99,7 @@
    "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA",
    "youtubeVideoId": "T7elanBlGr4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3140411",
    "description": {
     "en": "Paraguayan free-to-air television network",

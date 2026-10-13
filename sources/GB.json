@@ -3,18 +3,19 @@
  "languages": ["en"],
  "defaultTiles": ["skynews", "bbcnews", "gbnews", "reuters", "talktv", "bbcnewsarabic", "telegraph", "parliament", "timesradio"],
  "channels": [
-  {"id": "skynews", "name": "Sky News", "category": "news", "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ", "youtubeVideoId": "8CG0aWT2BMs", "embeddable": true, "live": true, "liveSince": "2026-10-13T12:00:00Z"},
-  {"id": "bbcnews", "name": "BBC News", "category": "news", "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA", "youtubeVideoId": "9knrm-QS41I", "embeddable": true, "live": true, "liveSince": "2026-10-13T13:00:00Z"},
-  {"id": "gbnews", "name": "GB News", "category": "news", "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ", "youtubeVideoId": "Vhn5yIys_2o", "embeddable": true, "live": true, "liveSince": "2026-10-13T13:00:00Z"},
-  {"id": "reuters", "name": "Reuters", "category": "news", "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ", "youtubeVideoId": "Hpj1gJIaHOo", "embeddable": true, "live": true, "liveSince": "2026-10-13T14:00:00Z"},
-  {"id": "talktv", "name": "TalkTV", "category": "news", "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA", "youtubeVideoId": "Ezsyi9lEZ2o", "embeddable": true, "live": true, "liveSince": "2026-10-13T12:00:00Z"},
-  {"id": "bbcnewsarabic", "name": "BBC News Arabic", "category": "news", "youtubeChannelId": "UCelk6aHijZq-GJBBB9YpReA", "youtubeVideoId": "j-I_e5aWdn4", "embeddable": true, "live": true, "liveSince": "2026-10-13T13:00:00Z", "languages": ["ar"], "wikidata": "Q973341"},
+  {"id": "skynews", "name": "Sky News", "category": "news", "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ", "youtubeVideoId": "5Q6G6fWqVYA", "embeddable": true, "live": true, "liveSince": "2026-10-13T19:00:00Z"},
+  {"id": "bbcnews", "name": "BBC News", "category": "news", "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA", "youtubeVideoId": "9knrm-QS41I", "embeddable": true, "live": false},
+  {"id": "gbnews", "name": "GB News", "category": "news", "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ", "youtubeVideoId": "fW3HYUQF2Xo", "embeddable": true, "live": true, "liveSince": "2026-10-13T19:00:00Z"},
+  {"id": "reuters", "name": "Reuters", "category": "news", "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ", "youtubeVideoId": "Hpj1gJIaHOo", "embeddable": true, "live": false},
+  {"id": "talktv", "name": "TalkTV", "category": "news", "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA", "youtubeVideoId": "q3Powgpn_X8", "embeddable": true, "live": true, "liveSince": "2026-10-13T17:00:00Z"},
+  {"id": "bbcnewsarabic", "name": "BBC News Arabic", "category": "news", "youtubeChannelId": "UCelk6aHijZq-GJBBB9YpReA", "youtubeVideoId": "O1pGmVtj2Y8", "embeddable": true, "live": true, "liveSince": "2026-01-08T00:00:00Z", "languages": ["ar"], "wikidata": "Q973341"},
   {"id": "telegraph", "name": "The Telegraph", "category": "news", "youtubeChannelId": "UCPgLNge0xqQHWM5B5EFH9Cg", "youtubeVideoId": "SKmOp6p7OKs", "embeddable": true, "live": false},
   {"id": "guardian", "name": "The Guardian", "category": "news", "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA", "youtubeVideoId": "TbsfKdObOd4", "embeddable": true, "live": true, "liveSince": "2026-10-13T13:00:00Z", "wikidata": "Q5614018"},
   {"id": "itvnews", "name": "ITV News", "category": "news", "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A", "youtubeVideoId": "tipoCsxASzc", "embeddable": true, "live": false},
   {"id": "independent", "name": "The Independent", "category": "news", "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ", "live": false, "wikidata": "Q11149"},
-  {"id": "parliament", "name": "UK Parliament", "category": "government", "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g", "youtubeVideoId": "lk2erhREN6c", "embeddable": true, "live": true, "liveSince": "2026-10-13T14:00:00Z"},
+  {"id": "parliament", "name": "UK Parliament", "category": "government", "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g", "youtubeVideoId": "lk2erhREN6c", "embeddable": true, "live": false},
   {"id": "timesradio", "name": "Times Radio", "category": "radio", "youtubeChannelId": "UCF-VP3b3oH0XASqsLI5rnLw", "youtubeVideoId": "3EaWrWqt7dk", "embeddable": true, "live": true, "liveSince": "2026-08-27T00:00:00Z"},
-  {"id": "lbc", "name": "LBC", "category": "radio", "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw", "youtubeVideoId": "CFsWuk8hyoU", "embeddable": true, "live": true, "liveSince": "2026-10-13T13:00:00Z", "wikidata": "Q6457273"}
+  {"id": "lbc", "name": "LBC", "category": "radio", "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw", "youtubeVideoId": "nutGALXNOrU", "embeddable": true, "live": true, "liveSince": "2026-10-13T17:00:00Z", "wikidata": "Q6457273"},
+  {"id": "talksport", "name": "talkSPORT", "category": "radio", "youtubeChannelId": "UCWw6scNyopJ0yjMu1SyOEyw", "youtubeVideoId": "uLWEssCrXYc", "embeddable": true, "live": true, "liveSince": "2026-05-27T00:00:00Z", "languages": ["en"]}
  ]
 }

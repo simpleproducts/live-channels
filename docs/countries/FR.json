@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026101314,
+ "version": 2026101320,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
-  "fr.bfmtv",
   "fr.euronewsfr",
+  "fr.bfmtv",
   "fr.france24en",
   "fr.euronews",
   "fr.france24es",
@@ -340,7 +340,7 @@
     "fr"
    ],
    "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g",
-   "youtubeVideoId": "C15czQgHSrE",
+   "youtubeVideoId": "xoKI4cSewGY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q517444",
@@ -522,7 +522,7 @@
     "fr"
    ],
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
-   "youtubeVideoId": "2PWk7YdcBdg",
+   "youtubeVideoId": "N_FGR7WemH4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -542,7 +542,7 @@
    "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ",
    "youtubeVideoId": "Q-K906fnPYs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3205960",
    "description": {
     "en": "French National Assembly TV channel",
@@ -630,6 +630,166 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RFI_logo_2013.svg?width=256",
    "website": "http://www.rfi.fr/",
    "city": "Issy-les-Moulineaux"
+  },
+  {
+   "id": "fr.franceinter",
+   "name": "France Inter",
+   "category": "radio",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCJldRgT_D7Am-ErRHQZ90uw",
+   "youtubeVideoId": "dv3gNGnmqwE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q19905",
+   "description": {
+    "en": "French public radio channel",
+    "es": "emisora de radio francesa",
+    "fr": "station de radio publique française (groupe Radio France)",
+    "pt-BR": "France Inter é uma cadeia francesa de rádio generalista pertencente ao grupo Radio France que é composta por France Inter, France Info, France Culture, France Bleu e France Musique.",
+    "ko": "프랑스 앵테르(프랑스어: France Inter)는 프랑스 공영 라디오 방송 라디오 프랑스의 종합 채널로, 뉴스와 오락, 음악 프로그램을 적절히 섞어서 방송하고 있다.",
+    "it": "stazione radiofonica francese",
+    "ru": "France Inter - французский общественный радиоканал и часть Radio France.",
+    "ar": "قناة إذاعية حكومية فرنسية",
+    "nl": "France Inter is de eerste Franse publieke radiozender van de omroep Radio France.",
+    "pl": "francuska publiczna rozgłośnia radiowa",
+    "id": "stasiun radio di Perancis",
+    "de": "französischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/France_Inter",
+    "es": "https://es.wikipedia.org/wiki/France_Inter",
+    "fr": "https://fr.wikipedia.org/wiki/France_Inter",
+    "pt-BR": "https://pt.wikipedia.org/wiki/France_Inter",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%91%EC%8A%A4_%EC%95%B5%ED%85%8C%EB%A5%B4",
+    "it": "https://it.wikipedia.org/wiki/France_Inter",
+    "ru": "https://ru.wikipedia.org/wiki/France_Inter",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%D8%B3_%D8%A5%D9%86%D8%AA%D8%B1",
+    "nl": "https://nl.wikipedia.org/wiki/France_Inter",
+    "pl": "https://pl.wikipedia.org/wiki/France_Inter",
+    "de": "https://de.wikipedia.org/wiki/France_Inter"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/France_Inter_logo_2021.svg?width=256",
+   "website": "https://www.radiofrance.fr/franceinter",
+   "city": null
+  },
+  {
+   "id": "fr.sudradio",
+   "name": "Sud Radio",
+   "category": "radio",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ",
+   "youtubeVideoId": "kvafTghfrEo",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q372375",
+   "description": {
+    "en": "French radio station",
+    "es": "Sud Radio es una estación de radio privada francesa, fundada en 1958.",
+    "fr": "radio généraliste française",
+    "it": "stazione radiofonica francese",
+    "nl": "Sud Radio is een Frans commercieel radiostation gevestigd in Labège, een voorstad van Toulouse.",
+    "id": "stasiun radio di Perancis",
+    "de": "französischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sud_Radio",
+    "es": "https://es.wikipedia.org/wiki/Sud_Radio",
+    "fr": "https://fr.wikipedia.org/wiki/Sud_Radio_(France)",
+    "nl": "https://nl.wikipedia.org/wiki/Sud_Radio_(Frankrijk)",
+    "de": "https://de.wikipedia.org/wiki/Sud_Radio"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sud_Radio_%282014%29.png?width=256",
+   "website": "http://www.sudradio.fr",
+   "city": "Labège"
+  },
+  {
+   "id": "fr.rmc",
+   "name": "RMC",
+   "category": "radio",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCgGb7tN3tIH5_Kk05D1J_bA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q686375",
+   "description": {
+    "en": "French-Monegasque radio station",
+    "es": "radio monegasca y francesa",
+    "zh-Hans": "RMC，全称为蒙特卡洛广播电台，是一家总部位于法国巴黎的广播电台，主要服务法国和摩纳哥的听众。",
+    "fr": "chaîne de radio franco-monégasque",
+    "pt-BR": "A RMC é uma rádio franco-monegasca que visa atingir um público bastante popular.",
+    "it": "Nome di sei emittenti radiofoniche",
+    "zh-Hant": "RMC，全称为蒙特卡洛广播电台，是一家总部位于法国巴黎的广播电台，主要服务法国和摩纳哥的听众。",
+    "nl": "RMC is een Frans-Monegaskische private radiozender opgericht in 1943.",
+    "id": "stasiun radio di Monako",
+    "de": "französisch-monegassischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RMC_(France)",
+    "es": "https://es.wikipedia.org/wiki/RMC",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/RMC",
+    "fr": "https://fr.wikipedia.org/wiki/RMC",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Radio_Monte_Carlo",
+    "it": "https://it.wikipedia.org/wiki/RMC_(emittente_radiofonica_francese)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/RMC",
+    "nl": "https://nl.wikipedia.org/wiki/RMC_(Frankrijk)",
+    "de": "https://de.wikipedia.org/wiki/RMC_(H%C3%B6rfunksender)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_RMC_2002.svg?width=256",
+   "website": "https://rmc.bfmtv.com",
+   "city": "commune de Monaco"
+  },
+  {
+   "id": "fr.nrj",
+   "name": "NRJ",
+   "category": "radio",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A",
+   "youtubeVideoId": "KI-T1-_eq78",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1961361",
+   "description": {
+    "en": "French radio station",
+    "es": "estación de radio francesa",
+    "zh-Hans": "NRJ 是一家总部位于法国巴黎的广播电台，成立于1981年7月15日。该电台主要播放流行音乐，是全法收听率较高的广播电台之一。",
+    "ja": "NRJ（エネルジー）はフランスの音楽専門ラジオ局。1981年7月15日に開局。NRJグループの企業。",
+    "fr": "station de radio française",
+    "pt-BR": "NRJ é uma estação de rádio francesa sediada em Paris.",
+    "it": "stazione radiofonica francese",
+    "ru": "французская радиостанция",
+    "zh-Hant": "NRJ 是一家总部位于法国巴黎的广播电台，成立于1981年7月15日。该电台主要播放流行音乐，是全法收听率较高的广播电台之一。",
+    "ar": "محطة إذاعية فرنسية خاصة",
+    "nl": "Commerciële Franse radiozender",
+    "sv": "kommersiell radiostation",
+    "id": "stasiun radio di Perancis",
+    "de": "französischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NRJ",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/NRJ",
+    "ja": "https://ja.wikipedia.org/wiki/NRJ",
+    "fr": "https://fr.wikipedia.org/wiki/NRJ",
+    "pt-BR": "https://pt.wikipedia.org/wiki/NRJ",
+    "it": "https://it.wikipedia.org/wiki/NRJ",
+    "ru": "https://ru.wikipedia.org/wiki/NRJ",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/NRJ",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D9%86_%D8%A3%D8%B1_%D8%AC%D9%8A",
+    "nl": "https://nl.wikipedia.org/wiki/NRJ",
+    "sv": "https://sv.wikipedia.org/wiki/NRJ",
+    "de": "https://de.wikipedia.org/wiki/NRJ_(Frankreich)"
+   },
+   "logo": null,
+   "website": "https://www.nrj.fr/",
+   "city": "Paris"
   },
   {
    "id": "fr.arte",

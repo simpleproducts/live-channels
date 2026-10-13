@@ -1,0 +1,238 @@
+{
+ "schema": 2,
+ "code": "KE",
+ "version": 2026101320,
+ "defaultTiles": [
+  "ke.citizentv",
+  "ke.ktn",
+  "ke.k24",
+  "ke.ntv",
+  "ke.ramogi",
+  "ke.inooro"
+ ],
+ "channels": [
+  {
+   "id": "ke.citizentv",
+   "name": "Citizen TV",
+   "category": "news",
+   "languages": [
+    "en",
+    "sw"
+   ],
+   "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g",
+   "youtubeVideoId": "1Vm7lAjpZZM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ke.ntv",
+   "name": "NTV Kenya",
+   "category": "news",
+   "languages": [
+    "en",
+    "sw"
+   ],
+   "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg",
+   "youtubeVideoId": "TEew2QWWKXE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ke.ktn",
+   "name": "KTN News",
+   "category": "news",
+   "languages": [
+    "en",
+    "sw"
+   ],
+   "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg",
+   "youtubeVideoId": "vu0UxDF5N6Q",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ke.k24",
+   "name": "K24 TV",
+   "category": "news",
+   "languages": [
+    "en",
+    "sw"
+   ],
+   "youtubeChannelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+   "youtubeVideoId": "xY7WoqLQbXg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ke.tv47",
+   "name": "TV47",
+   "category": "news",
+   "languages": [
+    "en",
+    "sw"
+   ],
+   "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ke.kbc",
+   "name": "KBC Channel 1",
+   "category": "broadcast",
+   "languages": [
+    "en",
+    "sw"
+   ],
+   "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg",
+   "youtubeVideoId": "51QF9Qr5w1I",
+   "embeddable": true,
+   "live": false,
+   "wikidata": "Q6392548",
+   "description": {
+    "en": "state-run media organisation of Kenya",
+    "zh-Hans": "肯尼亚广播公司，或简称KBC，是肯尼亚的国营广播电视播出机构，由肯尼亚政府主管，其前身为开播于1928年的英国东非广播公司，肯尼亚独立后长期主导该国广播电视产业，也是该国最主要的广播电视业者。",
+    "ja": "ケニア放送公社 は、ケニア共和国の国営放送局である。同国ナイロビに本部を置く。",
+    "fr": "La Kenya Broadcasting Corporation (KBC) est le média technique de service public du Kenya.",
+    "ko": "케냐의 방송국",
+    "it": "ente radiotelevisivo pubblico keniano",
+    "zh-Hant": "肯尼亚广播公司，或简称KBC，是肯尼亚的国营广播电视播出机构，由肯尼亚政府主管，其前身为开播于1928年的英国东非广播公司，肯尼亚独立后长期主导该国广播电视产业，也是该国最主要的广播电视业者。",
+    "de": "Die Kenya Broadcasting Corporation (KBC) ist eine staatliche Medienorganisation in Kenia."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Kenya_Broadcasting_Corporation",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%B9%BF%E6%92%AD%E5%85%AC%E5%8F%B8",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8B%E3%82%A2%E6%94%BE%E9%80%81%E5%85%AC%E7%A4%BE",
+    "fr": "https://fr.wikipedia.org/wiki/Kenya_Broadcasting_Corporation",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%BC%80%EB%83%90%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC",
+    "it": "https://it.wikipedia.org/wiki/Kenya_Broadcasting_Corporation",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%B9%BF%E6%92%AD%E5%85%AC%E5%8F%B8",
+    "de": "https://de.wikipedia.org/wiki/Kenya_Broadcasting_Corporation"
+   },
+   "logo": null,
+   "website": "https://www.kbc.co.ke/",
+   "city": "Nairobi"
+  },
+  {
+   "id": "ke.inooro",
+   "name": "Inooro TV",
+   "category": "regional",
+   "languages": [
+    "ki"
+   ],
+   "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw",
+   "youtubeVideoId": "P84XAgGs4Vg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ke.ramogi",
+   "name": "Ramogi TV",
+   "category": "regional",
+   "languages": [
+    "en",
+    "sw"
+   ],
+   "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ",
+   "youtubeVideoId": "XBHeGGcvtwo",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ke.parliament",
+   "name": "Parliament of Kenya",
+   "category": "government",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCXuseB7juWB7DIgTJcwtHFQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ke.radiojambo",
+   "name": "Radio Jambo",
+   "category": "radio",
+   "languages": [
+    "sw"
+   ],
+   "youtubeChannelId": "UCOsHyjujol57SIFR0imyEKQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ke.radiocitizen",
+   "name": "Radio Citizen",
+   "category": "radio",
+   "languages": [
+    "sw"
+   ],
+   "youtubeChannelId": "UCd5mKY1HUcDBySXgK1lYUvg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}
