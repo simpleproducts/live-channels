@@ -1,8 +1,11 @@
 {
  "schema": 2,
  "code": "RU",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "ru.currenttime",
+  "ru.euronewsru"
+ ],
  "channels": [
   {
    "id": "ru.tvrain",
@@ -63,7 +66,7 @@
    "youtubeChannelId": "UCBG57608Hukev3d0d-gvLhQ",
    "youtubeVideoId": "t9Ilev-uk4w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q55663942",
    "description": {
     "en": "Russian-language television channel",
@@ -100,7 +103,7 @@
    "youtubeChannelId": "UCFzJjgVicCtFxJ5B0P_ei8A",
    "youtubeVideoId": "lwYzwdBiaho",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q106823021",
    "description": {
     "ru": "русская версия телеканала"

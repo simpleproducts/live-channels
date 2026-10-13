@@ -3,7 +3,7 @@
  "languages": ["en", "fr"],
  "defaultTiles": ["cbcnews"],
  "channels": [
-  {"id": "cbcnews", "name": "CBC News", "category": "news", "youtubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA", "youtubeVideoId": "5vfaDsMhCF4", "embeddable": true, "live": false},
+  {"id": "cbcnews", "name": "CBC News", "category": "news", "youtubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA", "youtubeVideoId": "5vfaDsMhCF4", "embeddable": true, "live": true, "liveSince": "2025-04-10T00:00:00Z"},
   {"id": "ctvnews", "name": "CTV News", "category": "news", "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg", "live": false},
   {"id": "globalnews", "name": "Global News", "category": "news", "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg", "live": false},
   {"id": "noovo", "name": "Noovo Info", "category": "news", "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg", "live": false, "languages": ["fr"]},

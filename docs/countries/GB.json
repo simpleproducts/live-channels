@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101314,
+ "defaultTiles": [
+  "gb.skynews",
+  "gb.bbcnews",
+  "gb.gbnews",
+  "gb.reuters",
+  "gb.talktv",
+  "gb.guardian",
+  "gb.bbcnewsarabic",
+  "gb.timesradio",
+  "gb.parliament"
+ ],
  "channels": [
   {
    "id": "gb.skynews",
@@ -12,9 +22,9 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "zqmqcXFCdu4",
+   "youtubeVideoId": "8CG0aWT2BMs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -68,9 +78,9 @@
     "en"
    ],
    "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
-   "youtubeVideoId": "zzdQU1JVpIQ",
+   "youtubeVideoId": "9knrm-QS41I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1160945",
    "description": {
     "en": "news division of the publicly funded British Broadcasting Corporation",
@@ -123,9 +133,9 @@
     "en"
    ],
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-   "youtubeVideoId": "hqVMQfchC6U",
+   "youtubeVideoId": "Vhn5yIys_2o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q100300992",
    "description": {
     "en": "British television news channel",
@@ -162,9 +172,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "0zTXsiTkdcM",
+   "youtubeVideoId": "Hpj1gJIaHOo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -220,7 +230,7 @@
    "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
    "youtubeVideoId": "Ezsyi9lEZ2o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q108760651",
    "description": {
     "en": "British television channel",
@@ -241,9 +251,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCelk6aHijZq-GJBBB9YpReA",
-   "youtubeVideoId": "O1pGmVtj2Y8",
+   "youtubeVideoId": "j-I_e5aWdn4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q973341",
    "description": {
     "en": "television channel",
@@ -344,9 +354,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA",
-   "youtubeVideoId": "9ob2MGCZptQ",
+   "youtubeVideoId": "TbsfKdObOd4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5614018",
    "description": {
     "en": "British news website",
@@ -474,9 +484,9 @@
     "en"
    ],
    "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g",
-   "youtubeVideoId": "LlGNBPJW8Ww",
+   "youtubeVideoId": "lk2erhREN6c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11010",
    "description": {
     "en": "supreme legislative body of the United Kingdom",
@@ -532,7 +542,7 @@
    "youtubeChannelId": "UCF-VP3b3oH0XASqsLI5rnLw",
    "youtubeVideoId": "3EaWrWqt7dk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -548,9 +558,9 @@
     "en"
    ],
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
-   "youtubeVideoId": "E-98INJDWBk",
+   "youtubeVideoId": "CFsWuk8hyoU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

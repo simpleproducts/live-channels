@@ -1,8 +1,11 @@
 {
  "schema": 2,
  "code": "SG",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "sg.cna",
+  "sg.cnainsider"
+ ],
  "channels": [
   {
    "id": "sg.cna",
@@ -14,7 +17,7 @@
    "youtubeChannelId": "UC83jt4dlz1Gjl58fzQrrKZg",
    "youtubeVideoId": "XWq5kBlakcQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40238",
    "description": {
     "en": "English language Asia-Pacific news channel based in Singapore",
@@ -55,7 +58,7 @@
    "youtubeChannelId": "UC_Lnb8ZHqqgLbp-7hltuT9w",
    "youtubeVideoId": "fSUMKrxPEd8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

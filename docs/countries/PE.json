@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101314,
+ "defaultTiles": [
+  "pe.pbo",
+  "pe.larepublica",
+  "pe.rpp",
+  "pe.latina",
+  "pe.willax",
+  "pe.tvperunoticias",
+  "pe.atv",
+  "pe.congreso",
+  "pe.exitosa"
+ ],
  "channels": [
   {
    "id": "pe.pbo",
@@ -14,7 +24,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "JHv-5lYjcHg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -30,9 +40,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "yTbtHkJ_hss",
+   "youtubeVideoId": "zzTUYXiRDJE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -63,9 +73,9 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "pgKogbvt9lU",
+   "youtubeVideoId": "yqm5YAQrub4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -93,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
-   "youtubeVideoId": "gdZyJ6DWYos",
+   "youtubeVideoId": "QjXF6QP4ItY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -111,9 +121,9 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "RnH14hR5gv4",
+   "youtubeVideoId": "G4BGSzlGBNU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -137,9 +147,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "LxHEJW930MA",
+   "youtubeVideoId": "MXYv-25UnlQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -163,7 +173,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "RtiJOJFqWE4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -351,9 +361,9 @@
     "es"
    ],
    "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
-   "youtubeVideoId": "ewB6C---yEA",
+   "youtubeVideoId": "s3EGAcpYP4s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1357543",
    "description": {
     "en": "unicameral body that has assumed legislative power in Peru from 1995 to 2026",
@@ -393,9 +403,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "hAjH7BECPS8",
+   "youtubeVideoId": "ABudEAOf0is",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",

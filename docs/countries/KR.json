@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101314,
+ "defaultTiles": [
+  "kr.ytn",
+  "kr.yonhap",
+  "kr.mbc",
+  "kr.kbs",
+  "kr.sbs",
+  "kr.jtbc",
+  "kr.channela",
+  "kr.tvchosun",
+  "kr.mbn"
+ ],
  "channels": [
   {
    "id": "kr.ytn",
@@ -12,9 +22,9 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "GS-s3c6BoZU",
+   "youtubeVideoId": "SlBRWe2QlUA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q487590",
    "description": {
     "en": "South Korean news channel",
@@ -49,9 +59,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "yN3a3VKssiA",
+   "youtubeVideoId": "1C4oD7ZoCos",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16162835",
    "description": {
     "en": "South Korean television network",
@@ -79,9 +89,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "UA8FPSvQQFo",
+   "youtubeVideoId": "TJRI0BcEXO0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6495373",
    "description": {
     "en": "South Korean TV series or program",
@@ -117,9 +127,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "l18sw8SE0A4",
+   "youtubeVideoId": "piCdhrLhJME",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -137,7 +147,7 @@
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
    "youtubeVideoId": "4HxQp53GiWk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -153,9 +163,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-   "youtubeVideoId": "VKqcV0YE8eA",
+   "youtubeVideoId": "7n7y2W_Kgj8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -173,7 +183,7 @@
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
    "youtubeVideoId": "8bhxPDzijj8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q492438",
    "description": {
     "en": "South Korean TV channel",
@@ -218,7 +228,7 @@
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
    "youtubeVideoId": "K_5rI2-KU8I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -236,7 +246,7 @@
    "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
    "youtubeVideoId": "yB3hg1zcVbE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -417,7 +427,7 @@
    "youtubeChannelId": "UC-PHIZjV-oX8H7zD1cCN2NQ",
    "youtubeVideoId": "hvVlyZ5GiE8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q167618",
    "description": {
     "en": "English-language television network based in Seoul, South Korea",
@@ -471,7 +481,7 @@
    "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig",
    "youtubeVideoId": "aHfx83ObCac",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q484855",
    "description": {
     "en": "international broadcasting service",

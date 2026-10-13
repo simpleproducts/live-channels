@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101314,
+ "defaultTiles": [
+  "ua.suspilne",
+  "ua.5kanal",
+  "ua.united24",
+  "ua.tsn",
+  "ua.faktyictv",
+  "ua.espreso",
+  "ua.kyiv24",
+  "ua.pryamiy",
+  "ua.freedom"
+ ],
  "channels": [
   {
    "id": "ua.suspilne",
@@ -14,7 +24,7 @@
    "youtubeChannelId": "UCPY6gj8G7dqwPxg9KwHrj5Q",
    "youtubeVideoId": "EHiuKvFUr2w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q113241842",
    "description": {
     "fr": "Suspilne Novyny est un média en ligne ukrainien faisant partie de la Suspilne.",
@@ -35,9 +45,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-   "youtubeVideoId": "3H_LXRVIaTE",
+   "youtubeVideoId": "aHXaQNH1Kwc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4449066",
    "description": {
     "en": "news division of the Ukrainian television network 1+1",
@@ -69,7 +79,7 @@
    "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA",
    "youtubeVideoId": "t9lsBZUgFqw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4041002",
    "description": {
     "en": "Ukrainian broadcast television network",
@@ -100,9 +110,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w",
-   "youtubeVideoId": "TbFWWSyczgw",
+   "youtubeVideoId": "XIgAYdgl2ms",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q15689802",
    "description": {
     "en": "Ukrainian TV channel",
@@ -137,7 +147,7 @@
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
    "youtubeVideoId": "shDMKVHLlAQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -155,7 +165,7 @@
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
    "youtubeVideoId": "lmUf3KpU6HA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27638992",
    "description": {
     "en": "Ukrainian television channel in Russian language",
@@ -183,7 +193,7 @@
    "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA",
    "youtubeVideoId": "bzljM5Y5roY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q38633974",
    "description": {
     "en": "Ukrainian TV channel",
@@ -207,9 +217,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
-   "youtubeVideoId": "kCPDAp2_3l4",
+   "youtubeVideoId": "ScVaZUkA2kE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2987894",
    "description": {
     "en": "Ukrainian television network",
@@ -272,7 +282,7 @@
    "youtubeChannelId": "UCX-xHRN9CnoXto5gcPskANA",
    "youtubeVideoId": "NTmuCD_hZwI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q111841082",
    "description": {
     "en": "Fundraising initiative in support of Ukraine",
@@ -310,7 +320,7 @@
    "youtubeChannelId": "UC5V8mErVFOpcQXEb3y9IMZw",
    "youtubeVideoId": "Ot4LfpCiBp8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7279927",
    "description": {
     "en": "official television channel of the Ukrainian parliament",

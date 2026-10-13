@@ -1,8 +1,10 @@
 {
  "schema": 2,
  "code": "PT",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "pt.euronewspt"
+ ],
  "channels": [
   {
    "id": "pt.euronewspt",
@@ -14,7 +16,7 @@
    "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw",
    "youtubeVideoId": "XuZAl-ZPEcA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",

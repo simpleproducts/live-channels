@@ -3,9 +3,9 @@
  "languages": ["ar"],
  "defaultTiles": ["aje", "aja", "mubasher", "alaraby"],
  "channels": [
-  {"id": "aje", "name": "Al Jazeera English", "category": "news", "youtubeChannelId": "UCNye-wNBqNL5ZzHSJj3l8Bg", "youtubeVideoId": "gCNeDWCI0vo", "embeddable": true, "live": false, "languages": ["en"]},
-  {"id": "aja", "name": "Al Jazeera Arabic", "category": "news", "youtubeChannelId": "UCfiwzLy-8yKzIbsmZTzxDgw", "youtubeVideoId": "N8xxOD0nT1Y", "embeddable": true, "live": false, "languages": ["ar"]},
-  {"id": "mubasher", "name": "Al Jazeera Mubasher", "category": "news", "youtubeChannelId": "UCCv1Pd24oPErw5S7zJWltnQ", "youtubeVideoId": "NNnZLWHRmd4", "embeddable": true, "live": false, "languages": ["ar"]},
-  {"id": "alaraby", "name": "Al Araby TV", "category": "news", "youtubeChannelId": "UC65i3Fyq91uiUkIS0i5GLNQ", "youtubeVideoId": "gOT7gmJdi4E", "embeddable": true, "live": false, "languages": ["ar"]}
+  {"id": "aje", "name": "Al Jazeera English", "category": "news", "youtubeChannelId": "UCNye-wNBqNL5ZzHSJj3l8Bg", "youtubeVideoId": "gCNeDWCI0vo", "embeddable": true, "live": true, "liveSince": "2023-03-09T00:00:00Z", "languages": ["en"]},
+  {"id": "aja", "name": "Al Jazeera Arabic", "category": "news", "youtubeChannelId": "UCfiwzLy-8yKzIbsmZTzxDgw", "youtubeVideoId": "N8xxOD0nT1Y", "embeddable": true, "live": true, "liveSince": "2026-04-11T00:00:00Z", "languages": ["ar"]},
+  {"id": "mubasher", "name": "Al Jazeera Mubasher", "category": "news", "youtubeChannelId": "UCCv1Pd24oPErw5S7zJWltnQ", "youtubeVideoId": "NNnZLWHRmd4", "embeddable": true, "live": true, "liveSince": "2026-04-11T00:00:00Z", "languages": ["ar"]},
+  {"id": "alaraby", "name": "Al Araby TV", "category": "news", "youtubeChannelId": "UC65i3Fyq91uiUkIS0i5GLNQ", "youtubeVideoId": "gOT7gmJdi4E", "embeddable": true, "live": true, "liveSince": "2026-10-13T12:00:00Z", "languages": ["ar"]}
  ]
 }

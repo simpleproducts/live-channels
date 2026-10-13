@@ -1,8 +1,14 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "cn.cgtn",
+  "cn.cgtnes",
+  "cn.cgtnfr",
+  "cn.cgtnru",
+  "cn.cgtneurope"
+ ],
  "channels": [
   {
    "id": "cn.cgtn",
@@ -14,7 +20,7 @@
    "youtubeChannelId": "UCgrNz-aDmcr2uuto8_DL2jg",
    "youtubeVideoId": "0i7n3r01L2U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28089296",
    "description": {
     "en": "Chinese international state-media organization",
@@ -60,7 +66,7 @@
    "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
    "youtubeVideoId": "GgEjdn0BZ0E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q97238770",
    "description": {
     "en": "television news channel",
@@ -91,7 +97,7 @@
    "youtubeChannelId": "UCd94YCD7yp6d-YZSRYWyeFA",
    "youtubeVideoId": "0t5RT9FYCF8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1442139",
    "description": {
     "en": "television channel",
@@ -138,7 +144,7 @@
    "youtubeChannelId": "UCcfLuU0NFT0ZRoQy4jk6GdA",
    "youtubeVideoId": "oPLa1msqG7E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1442151",
    "description": {
     "en": "French language entertainment and news channel of China Global Television Network",
@@ -182,7 +188,7 @@
    "youtubeChannelId": "UCA2WHG4EpVqul3TYjAF0k2A",
    "youtubeVideoId": "C3BKx6JxCQU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2944607",
    "description": {
     "en": "Russian language international news, entertainment, and education television channel owned by China Central Television",

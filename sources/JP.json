@@ -3,17 +3,17 @@
  "languages": ["ja"],
  "defaultTiles": ["ann", "tbs", "ntvnews", "fnn", "nhkworld", "weathernews", "tvtokyobiz", "mbs", "htb"],
  "channels": [
-  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "Hwz9zXCRzlw", "embeddable": true, "live": false},
-  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "yciAAiQ6Xik", "embeddable": true, "live": false},
-  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "6IjQ0SKSa-M", "embeddable": true, "live": false},
-  {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "6MVkqYNAqsg", "embeddable": true, "live": false},
-  {"id": "nhkworld", "name": "NHK WORLD-JAPAN", "category": "news", "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A", "youtubeVideoId": "IimtbuqYIE8", "embeddable": true, "live": false, "languages": ["en"]},
-  {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "QXjbyUVJdUw", "embeddable": true, "live": false},
+  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "Hwz9zXCRzlw", "embeddable": true, "live": true, "liveSince": "2026-10-13T11:00:00Z"},
+  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "yciAAiQ6Xik", "embeddable": true, "live": true, "liveSince": "2026-10-13T12:00:00Z"},
+  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "KTJpLy_stus", "embeddable": true, "live": true, "liveSince": "2026-10-13T13:00:00Z"},
+  {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "6MVkqYNAqsg", "embeddable": true, "live": true, "liveSince": "2026-10-07T00:00:00Z"},
+  {"id": "nhkworld", "name": "NHK WORLD-JAPAN", "category": "news", "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A", "youtubeVideoId": "IimtbuqYIE8", "embeddable": true, "live": true, "liveSince": "2026-09-01T00:00:00Z", "languages": ["en"]},
+  {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "iBmB7Sm2u-Y", "embeddable": true, "live": true, "liveSince": "2026-10-13T13:00:00Z"},
   {"id": "kyodo", "name": "共同通信", "category": "news", "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw", "live": false},
   {"id": "abemanews", "name": "ABEMAニュース", "category": "news", "youtubeChannelId": "UCk5a240pQsTVT9CWPnTyIJw", "live": false},
   {"id": "tvtokyobiz", "name": "テレ東BIZ", "category": "economy", "youtubeChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg", "youtubeVideoId": "C_zfl4FLaOQ", "embeddable": true, "live": false},
-  {"id": "mbs", "name": "MBSニュース", "category": "regional", "youtubeChannelId": "UCkKJhKO73xF1pK5h9R82ZGQ", "youtubeVideoId": "soT0yMSldwI", "embeddable": true, "live": false},
-  {"id": "htb", "name": "HTB北海道ニュース", "category": "regional", "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A", "youtubeVideoId": "tvgbZZYS4Nk", "embeddable": true, "live": false},
-  {"id": "satv", "name": "静岡朝日テレビニュース", "category": "regional", "youtubeChannelId": "UCvF5vIejmf-H_XSluaBldfg", "youtubeVideoId": "52hB_eOFukI", "embeddable": true, "live": false}
+  {"id": "mbs", "name": "MBSニュース", "category": "regional", "youtubeChannelId": "UCkKJhKO73xF1pK5h9R82ZGQ", "youtubeVideoId": "soT0yMSldwI", "embeddable": true, "live": true, "liveSince": "2026-10-03T00:00:00Z"},
+  {"id": "htb", "name": "HTB北海道ニュース", "category": "regional", "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A", "youtubeVideoId": "tvgbZZYS4Nk", "embeddable": true, "live": true, "liveSince": "2025-12-08T00:00:00Z"},
+  {"id": "satv", "name": "静岡朝日テレビニュース", "category": "regional", "youtubeChannelId": "UCvF5vIejmf-H_XSluaBldfg", "youtubeVideoId": "52hB_eOFukI", "embeddable": true, "live": true, "liveSince": "2026-01-29T00:00:00Z"}
  ]
 }

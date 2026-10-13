@@ -129,13 +129,20 @@ def scrape_sources(sources, workers=8):
     now = datetime.datetime.now(datetime.timezone.utc)
     with ThreadPoolExecutor(workers) as ex:
         results = list(ex.map(lambda j: check_channel(j[1]["youtubeChannelId"], j[1].get("youtubeVideoId"), now), jobs))
+    live = sum(1 for r in results if r and r["state"] == "live")
+    was_live = sum(1 for _, ch in jobs if ch.get("live") is True)
+    if was_live >= 20 and live < was_live * 0.3:
+        # YouTube serves datacenter IPs (CI runners) a consent / bot-check page with no live data.
+        # Applying that would mark every channel offline and empty every defaultTiles list.
+        print("live scrape: only %d live vs %d before, looks blocked; keeping previous live data"
+              % (live, was_live), file=sys.stderr)
+        return 0, 0, set()
     changed = 0
     files = set()
     for (name, ch), res in zip(jobs, results):
         if apply(ch, res):
             changed += 1
             files.add(name)
-    live = sum(1 for r in results if r and r["state"] == "live")
     noembed = sum(1 for r in results if r and r["state"] == "noembed")
     failed = sum(r is None for r in results)
     print("live scrape: %d channels, %d live now, %d live-but-not-embeddable, %d updated, %d fetch failures"

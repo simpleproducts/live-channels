@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101314,
+ "defaultTiles": [
+  "es.rtve24h",
+  "es.euronewses",
+  "es.libertaddigital",
+  "es.elmundo",
+  "es.3cat324",
+  "es.canalsur",
+  "es.eitb",
+  "es.rtvcanarias",
+  "es.telemadrid"
+ ],
  "channels": [
   {
    "id": "es.rtve24h",
@@ -14,7 +24,7 @@
    "youtubeChannelId": "UC7QZIf0dta-XPXsp9Hv4dTw",
    "youtubeVideoId": "b4tE5aKhtlg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -32,7 +42,7 @@
    "youtubeChannelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
    "youtubeVideoId": "O9mOtdZ-nSk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -143,7 +153,7 @@
    "youtubeChannelId": "UCKseJ43xWvnywQzl6kYbf0g",
    "youtubeVideoId": "499wgS85QKQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -161,7 +171,7 @@
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
    "youtubeVideoId": "FTnUSj8wWf8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -288,7 +298,7 @@
    "youtubeChannelId": "UCUS73_bjTYwBFAfXbvIjM8Q",
    "youtubeVideoId": "lnGAjJK8Vqw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3101925",
    "description": {
     "en": "advocacy journalism online newspaper edited in Madrid, Spain",
@@ -316,7 +326,7 @@
    "youtubeChannelId": "UChtLgH7ZJLqLGWJpBnzy9Lg",
    "youtubeVideoId": "vjRNYL_QEEA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2712921",
    "description": {
     "en": "public broadcaster of Andalusia, Spain",
@@ -347,7 +357,7 @@
    "youtubeChannelId": "UCOHCRQDAr9HC5d59XvziJFQ",
    "youtubeVideoId": "5nfH4RVu4fc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13422541",
    "description": {
     "en": "public service broadcaster of the Basque Autonomous Community's",
@@ -417,7 +427,7 @@
    "youtubeChannelId": "UCz46p3cffUXUSGUtcnw_Ouw",
    "youtubeVideoId": "-TPDdyXedgg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1814720",
    "description": {
     "en": "Galician television channel",
@@ -451,7 +461,7 @@
    "youtubeChannelId": "UCTQrUTmzCWIfG6h4EVCdOCQ",
    "youtubeVideoId": "DByMAYdYEmc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2303379",
    "description": {
     "en": "television channel",
@@ -483,7 +493,7 @@
    "youtubeChannelId": "UCv2BcgqxHSrl2QQfIkjR5Eg",
    "youtubeVideoId": "UcAfvsNRiPY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q279413",
    "description": {
     "en": "regional television channel of the Community of Madrid",
@@ -630,7 +640,7 @@
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
    "youtubeVideoId": "R-_T6R_dMnM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",

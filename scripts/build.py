@@ -245,11 +245,12 @@ def validate(sources):
 
 
 # ---------------------------------------------------------------- build
-def pick_defaults(src, excluded, now, n=9):
+def pick_defaults(src, excluded, now, langs, n=9):
     """Up to 9 channels that were genuinely live (status OK, embeddable) at the last live check.
-    Order: news first, then 24/7 streams (live for 20h+), then the hand-written "defaultTiles"
+    Order: news first, then channels in the country's main language, then 24/7 streams (live for 20h+), then the hand-written "defaultTiles"
     preference order, then source order."""
     pref = {t: i for i, t in enumerate(src.get("defaultTiles", []))}
+    main_lang = (src.get("languages") or ["en"])[0]
     cands = []
     for i, ch in enumerate(src["channels"]):
         if ch["id"] in excluded or ch.get("live") is not True:
@@ -261,7 +262,7 @@ def pick_defaults(src, excluded, now, n=9):
                 always_on = (now - since).total_seconds() >= 20 * 3600
             except ValueError:
                 pass
-        cands.append((ch["category"] != "news", not always_on, pref.get(ch["id"], 999), i, ch["id"]))
+        cands.append((ch["category"] != "news", main_lang not in langs.get(ch["id"], [main_lang]), not always_on, pref.get(ch["id"], 999), i, ch["id"]))
     return [c[-1] for c in sorted(cands)[:n]]
 
 
@@ -429,7 +430,7 @@ def main():
             })
             out_channels.append(rec)
 
-        body = {"schema": SCHEMA, "code": cc, "defaultTiles": ["%s.%s" % (cc.lower(), t) for t in pick_defaults(s, excluded, now)],
+        body = {"schema": SCHEMA, "code": cc, "defaultTiles": ["%s.%s" % (cc.lower(), t) for t in pick_defaults(s, excluded, now, {c["id"].split(".", 1)[1]: c["languages"] for c in out_channels})],
                 "channels": out_channels}
         prev_body = {k: v for k, v in (prev or {}).items() if k != "version"}
         if prev and prev_body == body:

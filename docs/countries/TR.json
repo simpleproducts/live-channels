@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026101313,
- "defaultTiles": [],
+ "version": 2026101314,
+ "defaultTiles": [
+  "tr.trthaber",
+  "tr.ntv",
+  "tr.ahaber",
+  "tr.haberglobal",
+  "tr.tv100",
+  "tr.24tv",
+  "tr.cnnturk",
+  "tr.haberturk",
+  "tr.halktv"
+ ],
  "channels": [
   {
    "id": "tr.cnnturk",
@@ -14,7 +24,7 @@
    "youtubeChannelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
    "youtubeVideoId": "oqTV3cXZCeQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931786",
    "description": {
     "en": "Turkish news channel",
@@ -62,7 +72,7 @@
    "youtubeChannelId": "UCBgTP2LOFVPmq15W-RH-WXA",
    "youtubeVideoId": "GefoJ-LXYfc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q535725",
    "description": {
     "en": "Turkish public broadcasting news station",
@@ -102,9 +112,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
-   "youtubeVideoId": "XJPmhfdF0OA",
+   "youtubeVideoId": "Ld6BrA-Sn_k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6092925",
    "description": {
     "en": "Turkish news network",
@@ -132,7 +142,7 @@
    "youtubeChannelId": "UC9TDTjbOjFB9jADmPhSAPsw",
    "youtubeVideoId": "pqq5c6k70kk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1961596",
    "description": {
     "en": "Turkish news network",
@@ -168,9 +178,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCf_ResXZzE-o18zACUEmyvQ",
-   "youtubeVideoId": "31c__wrPzAM",
+   "youtubeVideoId": "c6JrbS7klQU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6065965",
    "description": {
     "en": "Turkish news network",
@@ -194,9 +204,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
-   "youtubeVideoId": "_15Oifmoqu4",
+   "youtubeVideoId": "fJjv9RNsfLM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q116775276",
    "description": {
     "tr": "Türkiye'de bir televizyon kanalı",
@@ -220,7 +230,7 @@
    "youtubeChannelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
    "youtubeVideoId": "qBe59l6p_EU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6063045",
    "description": {
     "en": "Turkish public radio and television broadcaster",
@@ -262,7 +272,7 @@
    "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
    "youtubeVideoId": "EyTWkmkQxJA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6089384",
    "description": {
     "en": "Turkish news network",
@@ -288,9 +298,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCzgrZ-CndOoylh2_e72nSBQ",
-   "youtubeVideoId": "WX29nlgdqho",
+   "youtubeVideoId": "dhMGQkez1bk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6084153",
    "description": {
     "en": "Turkish news network",
@@ -316,7 +326,7 @@
    "youtubeChannelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
    "youtubeVideoId": "EqoCJ8BPxtE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q84432980",
    "description": {
     "ar": "الخبر العالمي هي قناة إخبارية وموقع إخباري في تركيا بدأ البث في 24 سبتمبر 2018.",
@@ -342,7 +352,7 @@
    "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
    "youtubeVideoId": "4WSvLRk83-c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q85975294",
    "description": {
     "en": "Turkish national news channel",
@@ -368,7 +378,7 @@
    "youtubeChannelId": "UCN7VYCsI4Lx1-J4_BtjoWUA",
    "youtubeVideoId": "6B-nPOdP720",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6098008",
    "description": {
     "en": "Turkish news network",
@@ -392,7 +402,7 @@
    "youtubeChannelId": "UCApLxl6oYQafxvykuoC2uxQ",
    "youtubeVideoId": "j7B_zsL11Pw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6087645",
    "description": {
     "en": "Turkish news network",
@@ -416,7 +426,7 @@
    "youtubeChannelId": "UC9JMe_We017gYrRc7kZHgmg",
    "youtubeVideoId": "cbgKyiqOljQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2006738",
    "description": {
     "en": "Turkey's national TV Broadcaster",
@@ -460,7 +470,7 @@
    "youtubeChannelId": "UCFoe1tg8MuHjRzmqXtV816A",
    "youtubeVideoId": "b94j0fwsPGQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1723591",
    "description": {
     "en": "Turkey-based cable television channel",
@@ -506,7 +516,7 @@
    "youtubeChannelId": "UCsFINj3y7SjBaeUxiSdRjlA",
    "youtubeVideoId": "82O6yOy_XwE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2067812",
    "description": {
     "en": "Turkey-based cable television channel",
@@ -582,7 +592,7 @@
    "youtubeChannelId": "UCUVZ7T_kwkxDOGFcDlFI-hg",
    "youtubeVideoId": "959bjt_iryU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q423651",
    "description": {
     "en": "Turkey-based cable television channel",

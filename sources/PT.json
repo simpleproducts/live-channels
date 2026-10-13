@@ -3,7 +3,7 @@
  "languages": ["pt"],
  "defaultTiles": ["euronewspt"],
  "channels": [
-  {"id": "euronewspt", "name": "Euronews em português", "category": "news", "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw", "youtubeVideoId": "XuZAl-ZPEcA", "embeddable": true, "live": false},
+  {"id": "euronewspt", "name": "Euronews em português", "category": "news", "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw", "youtubeVideoId": "XuZAl-ZPEcA", "embeddable": true, "live": true, "liveSince": "2024-01-19T00:00:00Z"},
   {"id": "observador", "name": "Observador", "category": "news", "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg", "live": false, "wikidata": "Q25442845"},
   {"id": "rtp", "name": "RTP Notícias", "category": "news", "youtubeChannelId": "UCIM-wfyv9hg2oEiA81mQc2A", "live": false, "wikidata": "Q3415778"},
   {"id": "cmtv", "name": "CMTV", "category": "news", "youtubeChannelId": "UCpiCOeyRdCLh8vKXYQZjOeA", "live": false, "wikidata": "Q18363883"},

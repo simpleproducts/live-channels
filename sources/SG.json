@@ -3,7 +3,7 @@
  "languages": ["en"],
  "defaultTiles": ["cna"],
  "channels": [
-  {"id": "cna", "name": "CNA", "category": "news", "youtubeChannelId": "UC83jt4dlz1Gjl58fzQrrKZg", "youtubeVideoId": "XWq5kBlakcQ", "embeddable": true, "live": false, "languages": ["en"]},
-  {"id": "cnainsider", "name": "CNA Insider", "category": "news", "youtubeChannelId": "UC_Lnb8ZHqqgLbp-7hltuT9w", "youtubeVideoId": "fSUMKrxPEd8", "embeddable": true, "live": false, "languages": ["en"]}
+  {"id": "cna", "name": "CNA", "category": "news", "youtubeChannelId": "UC83jt4dlz1Gjl58fzQrrKZg", "youtubeVideoId": "XWq5kBlakcQ", "embeddable": true, "live": true, "liveSince": "2020-04-21T00:00:00Z", "languages": ["en"]},
+  {"id": "cnainsider", "name": "CNA Insider", "category": "news", "youtubeChannelId": "UC_Lnb8ZHqqgLbp-7hltuT9w", "youtubeVideoId": "fSUMKrxPEd8", "embeddable": true, "live": true, "liveSince": "2024-05-14T00:00:00Z", "languages": ["en"]}
  ]
 }
