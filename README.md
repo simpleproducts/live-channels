@@ -3,10 +3,12 @@
 The channel catalog for the live-TV multi-screen app (iPhone, iPad, Mac, Vision Pro). The app plays
 only broadcasters' **official YouTube live streams** through YouTube's official IFrame embed.
 
-GitHub Pages serves `docs/`:
+The catalog is served from `docs/` at **https://getskywall.app/channels/**. A Vercel rewrite points
+that path to `raw.githubusercontent.com/simpleproducts/live-channels/main/docs/`, so anything
+committed to `main` is live within the cache window (`vercel.json`: 5 minutes, CORS `*` on JSON):
 
-- `https://<user>.github.io/live-channels/index.json`: the list of countries
-- `https://<user>.github.io/live-channels/countries/<CC>.json`: one file per country
+- `https://getskywall.app/channels/index.json`: the list of countries
+- `https://getskywall.app/channels/countries/<CC>.json`: one file per country
 
 ## Layout
 
@@ -17,7 +19,7 @@ scripts/refresh_live.py    refreshes pinned live video ids with the YouTube Data
 scripts/live.py            key-less live detection (scrapes /channel/<UC>/live), used by build.py
 scripts/common.py          shared helpers (stable source-file formatting)
 .github/workflows/build.yml  on push to main and every 2 hours: refresh, build, commit docs/ if changed
-docs/                      published output (do not edit by hand)
+docs/                      published output (do not edit by hand), served at https://getskywall.app/channels/
 ```
 
 ## How the pipeline works
@@ -37,6 +39,8 @@ docs/                      published output (do not edit by hand)
      - `videoDetails` has `"isLive":true`
      - the page has `"playableInEmbed":true`
      If `/live` shows something else, the previously pinned id is re-checked on its own watch page.
+   - Before giving up on a channel, the 3 newest RSS feed entries are checked too, because `/live`
+     sometimes shows an upcoming event while another broadcast is live.
    - In the API path, only `liveBroadcastContent == "live"` counts, never `"upcoming"`.
    - Every channel gets a managed `"live": true|false`, plus `"liveSince"` when the start time is known.
    - Offline or upcoming channels keep their previous id but are marked `"live": false`. The app
@@ -155,6 +159,12 @@ zh-Hans, ja, fr, pt-BR, ko, it, ru, zh-Hant, ar, tr, nl, pl, sv, id, de, ms.
 5. Run `python3 -I scripts/build.py`, check the channel in `docs/countries/<CC>.json`, and commit.
    If Wikidata matched the wrong item, set `"wikidata"` to the right QID or to `null`.
 
+## Pruning
+
+Channels with no live broadcast in the last 30 days are removed by hand. Check the /streams tab
+("Streamed N days ago") or the RSS feed plus the watch pages. Event-based channels (parliaments, and
+broadcasters that stream daily shows) stay as long as they streamed within 30 days.
+
 ## Adding a country
 
 1. Create `sources/<CC>.json` with `code`, `languages`, `defaultTiles` and `channels`.
@@ -163,7 +173,6 @@ zh-Hans, ja, fr, pt-BR, ko, it, ru, zh-Hant, ar, tr, nl, pl, sv, id, de, ms.
 
 ## GitHub setup
 
-- Pages: Settings → Pages → deploy from branch `main`, folder `/docs`.
 - Optional secret `YT_API_KEY`: a YouTube Data API v3 key. Without it, the workflow uses the
   key-less scrape.
 - The workflow needs `contents: write` (already declared) to commit `docs/` and `sources/`.

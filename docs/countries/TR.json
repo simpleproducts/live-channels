@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "tr.trthaber",
+  "tr.ntv",
+  "tr.trtworld",
+  "tr.ahaber",
+  "tr.tgrthaber",
+  "tr.haberglobal",
+  "tr.tv100",
+  "tr.24tv",
+  "tr.cnnturk"
+ ],
  "channels": [
   {
    "id": "tr.cnnturk",
@@ -12,9 +22,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
-   "youtubeVideoId": "Idu92SO5SJg",
+   "youtubeVideoId": "oqTV3cXZCeQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931786",
    "description": {
     "en": "Turkish news channel",
@@ -62,7 +72,7 @@
    "youtubeChannelId": "UCBgTP2LOFVPmq15W-RH-WXA",
    "youtubeVideoId": "GefoJ-LXYfc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q535725",
    "description": {
     "en": "Turkish public broadcasting news station",
@@ -102,9 +112,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
-   "youtubeVideoId": "l38DxP6p89U",
+   "youtubeVideoId": "XJPmhfdF0OA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6092925",
    "description": {
     "en": "Turkish news network",
@@ -132,7 +142,7 @@
    "youtubeChannelId": "UC9TDTjbOjFB9jADmPhSAPsw",
    "youtubeVideoId": "pqq5c6k70kk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1961596",
    "description": {
     "en": "Turkish news network",
@@ -168,9 +178,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCf_ResXZzE-o18zACUEmyvQ",
-   "youtubeVideoId": "edyqMx5JGow",
+   "youtubeVideoId": "31c__wrPzAM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6065965",
    "description": {
     "en": "Turkish news network",
@@ -194,9 +204,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
-   "youtubeVideoId": "gccQ6Tcr9dg",
+   "youtubeVideoId": "_15Oifmoqu4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q116775276",
    "description": {
     "tr": "Türkiye'de bir televizyon kanalı",
@@ -220,7 +230,7 @@
    "youtubeChannelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
    "youtubeVideoId": "qBe59l6p_EU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6063045",
    "description": {
     "en": "Turkish public radio and television broadcaster",
@@ -262,7 +272,7 @@
    "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
    "youtubeVideoId": "EyTWkmkQxJA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6089384",
    "description": {
     "en": "Turkish news network",
@@ -288,9 +298,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCzgrZ-CndOoylh2_e72nSBQ",
-   "youtubeVideoId": "1O3MXXnEiHE",
+   "youtubeVideoId": "WX29nlgdqho",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6084153",
    "description": {
     "en": "Turkish news network",
@@ -316,7 +326,7 @@
    "youtubeChannelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
    "youtubeVideoId": "EqoCJ8BPxtE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q84432980",
    "description": {
     "ar": "الخبر العالمي هي قناة إخبارية وموقع إخباري في تركيا بدأ البث في 24 سبتمبر 2018.",
@@ -342,7 +352,7 @@
    "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
    "youtubeVideoId": "4WSvLRk83-c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q85975294",
    "description": {
     "en": "Turkish national news channel",
@@ -368,7 +378,7 @@
    "youtubeChannelId": "UCN7VYCsI4Lx1-J4_BtjoWUA",
    "youtubeVideoId": "6B-nPOdP720",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6098008",
    "description": {
     "en": "Turkish news network",
@@ -392,7 +402,7 @@
    "youtubeChannelId": "UCApLxl6oYQafxvykuoC2uxQ",
    "youtubeVideoId": "j7B_zsL11Pw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6087645",
    "description": {
     "en": "Turkish news network",
@@ -404,6 +414,144 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bloomberg_HT_logo.svg?width=256",
    "website": "http://www.bloomberght.com/",
+   "city": "İstanbul"
+  },
+  {
+   "id": "tr.showtv",
+   "name": "Show TV",
+   "category": "broadcast",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UC9JMe_We017gYrRc7kZHgmg",
+   "youtubeVideoId": "cbgKyiqOljQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2006738",
+   "description": {
+    "en": "Turkey's national TV Broadcaster",
+    "es": "Show TV es un canal de televisión a nivel nacional de Turquía, propiedad de Ciner Media Group.",
+    "fr": "Show TV est une chaîne de télévision turque créée le 1er mars 1991 par Mehmet Emin Karamehmet.",
+    "pt-BR": "Show TV é um canal de televisão turco, que faz parte da Ciner Media Group.",
+    "ko": "터키 텔레비전 방송국",
+    "it": "rete televisiva turca",
+    "ru": "Show TV — турецкий национальный телеканал.",
+    "ar": "قناة تلفزيونية تركية",
+    "tr": "Türk televizyon kanalı",
+    "sv": "turkisk TV-kanal",
+    "id": "SHOW TV adalah sebuah saluran televisi seluruh negeri di Turki yang dimiliki oleh Ciner Media Group.",
+    "de": "türkischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Show_TV",
+    "es": "https://es.wikipedia.org/wiki/Show_TV",
+    "fr": "https://fr.wikipedia.org/wiki/Show_TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Show_TV",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%87%BC_TV",
+    "it": "https://it.wikipedia.org/wiki/Show_TV",
+    "ru": "https://ru.wikipedia.org/wiki/Show_TV",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B4%D9%88_%D8%AA%D9%8A_%D9%81%D9%8A",
+    "tr": "https://tr.wikipedia.org/wiki/Show_TV",
+    "sv": "https://sv.wikipedia.org/wiki/Show_TV",
+    "id": "https://id.wikipedia.org/wiki/Show_TV",
+    "de": "https://de.wikipedia.org/wiki/Show_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Show_TV_logo.svg?width=256",
+   "website": "http://www.showtv.com.tr/",
+   "city": "İstanbul"
+  },
+  {
+   "id": "tr.kanald",
+   "name": "Kanal D",
+   "category": "broadcast",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCFoe1tg8MuHjRzmqXtV816A",
+   "youtubeVideoId": "b94j0fwsPGQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1723591",
+   "description": {
+    "en": "Turkey-based cable television channel",
+    "es": "canal de televisión turco",
+    "ja": "カナルD(Kanal D)は、1993年に発売されたトルコのテレビチャンネルである。チャンネルは2018年以来デミローレン・グループによって所有されている。",
+    "fr": "Kanal D est une chaîne de télévision hertzienne privée turque.",
+    "pt-BR": "Kanal D é um canal de televisão nacional na Turquia e parte do Demirören Holding.",
+    "ko": "카날 D(Kanal D)는 터키의 텔레비전 채널이다.",
+    "it": "rete televisiva turca",
+    "ru": "турецкий телеканал",
+    "ar": "قناة تلفزيونية تركية",
+    "tr": "Türkiye merkezli ulusal televizyon kanalı",
+    "pl": "Kanal D – turecka stacja telewizyjna, nadająca regularny program od 19 grudnia 1993, od 2018 stanowiąca część grupy Demirören Holding.",
+    "id": "Kanal D adalah sebuah saluran televisi seluruh negeri di Turki dan bagian dari Doğan Media Group yang dimiliki oleh tikon media Turki Aydın Doğan.",
+    "de": "türkischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Kanal_D",
+    "es": "https://es.wikipedia.org/wiki/Kanal_D",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%ABD",
+    "fr": "https://fr.wikipedia.org/wiki/Kanal_D",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Kanal_D",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%82%A0_D",
+    "it": "https://it.wikipedia.org/wiki/Kanal_D",
+    "ru": "https://ru.wikipedia.org/wiki/Kanal_D",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D9%86%D8%A7%D9%84_%D8%AF%D9%8A",
+    "tr": "https://tr.wikipedia.org/wiki/Kanal_D",
+    "pl": "https://pl.wikipedia.org/wiki/Kanal_D",
+    "id": "https://id.wikipedia.org/wiki/Kanal_D",
+    "de": "https://de.wikipedia.org/wiki/Kanal_D"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanal_D_%281991-1994%29.png?width=256",
+   "website": "https://kanald.com.tr",
+   "city": "İstanbul"
+  },
+  {
+   "id": "tr.startv",
+   "name": "Star TV",
+   "category": "broadcast",
+   "languages": [
+    "tr"
+   ],
+   "youtubeChannelId": "UCsFINj3y7SjBaeUxiSdRjlA",
+   "youtubeVideoId": "82O6yOy_XwE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2067812",
+   "description": {
+    "en": "Turkey-based cable television channel",
+    "es": "canal de televisión Turco",
+    "ja": "スターTV(Star TV)は、1989年に発売されたトルコのテレビチャンネルである。チャンネルは2011年以来ドゥース・メディア・グループによって所有されている。",
+    "fr": "Star TV est la première chaîne de télévision privée turque, créée par Cem Uzan et Ahmet Özal en 1989.",
+    "pt-BR": "Star TV é um canal de televisão turco, que faz parte da Doğuş Media Group.",
+    "ko": "터키 텔레비전 방송국",
+    "it": "rete televisiva turca",
+    "ru": "Star TV — турецкий телеканал.",
+    "zh-Hant": "土耳其的電視頻道",
+    "ar": "قناة تلفزيونية تركية",
+    "tr": "Türkiye merkezli ulusal televizyon kanalı",
+    "pl": "Star TV – pierwsza turecka komercyjna stacja telewizyjna, założona w 1989 przez Cema Uzana i Ahmeta Özala jako Magic Box.",
+    "id": "Saluran Televisi di Turki",
+    "de": "türkischer Fernsehsender",
+    "ms": "Saluran televisyen kabel yang berpangkalan di Turki"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Star_TV_(Turkey)",
+    "es": "https://es.wikipedia.org/wiki/Star_TV_(Turqu%C3%ADa)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BCTV_(%E3%83%88%E3%83%AB%E3%82%B3)",
+    "fr": "https://fr.wikipedia.org/wiki/Star_TV_(Turquie)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Star_TV_(canal_de_televis%C3%A3o_turco)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%83%80_TV_(%ED%8A%80%EB%A5%B4%ED%82%A4%EC%98%88%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EC%B1%84%EB%84%90)",
+    "it": "https://it.wikipedia.org/wiki/Star_TV",
+    "ru": "https://ru.wikipedia.org/wiki/Star_TV_(%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D8%AA%D8%A7%D8%B1_%D8%AA%D9%8A_%D9%81%D9%8A",
+    "tr": "https://tr.wikipedia.org/wiki/Star_TV",
+    "pl": "https://pl.wikipedia.org/wiki/Star_TV_(Turcja)",
+    "id": "https://id.wikipedia.org/wiki/Star_TV_(Turki)",
+    "de": "https://de.wikipedia.org/wiki/Star_TV_(T%C3%BCrkei)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Star_TV_%282011-2017%29.svg?width=256",
+   "website": "http://www.startv.com.tr/",
    "city": "İstanbul"
   },
   {
@@ -444,7 +592,7 @@
    "youtubeChannelId": "UCUVZ7T_kwkxDOGFcDlFI-hg",
    "youtubeVideoId": "959bjt_iryU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q423651",
    "description": {
     "en": "Turkey-based cable television channel",

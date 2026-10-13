@@ -1,8 +1,13 @@
 {
  "schema": 2,
  "code": "QA",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "qa.aje",
+  "qa.aja",
+  "qa.mubasher",
+  "qa.alaraby"
+ ],
  "channels": [
   {
    "id": "qa.aje",
@@ -14,7 +19,7 @@
    "youtubeChannelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
    "youtubeVideoId": "gCNeDWCI0vo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4296040",
    "description": {
     "en": "Qatari international English-language news channel",
@@ -60,7 +65,7 @@
    "youtubeChannelId": "UCfiwzLy-8yKzIbsmZTzxDgw",
    "youtubeVideoId": "N8xxOD0nT1Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13477",
    "description": {
     "en": "Qatari international television channel",
@@ -116,7 +121,7 @@
    "youtubeChannelId": "UCCv1Pd24oPErw5S7zJWltnQ",
    "youtubeVideoId": "NNnZLWHRmd4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3497537",
    "description": {
     "en": "public affairs television network launched by Al Jazeera Media Network originally on April 15, 2005",
@@ -147,9 +152,9 @@
     "ar"
    ],
    "youtubeChannelId": "UC65i3Fyq91uiUkIS0i5GLNQ",
-   "youtubeVideoId": "xWoUWTZgchc",
+   "youtubeVideoId": "gOT7gmJdi4E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q25453791",
    "description": {
     "en": "Pan Arab general television channel headquartered in Qatar",
@@ -166,24 +171,6 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ALARABY_ARABIC.png?width=256",
    "website": "https://www.alaraby.com",
    "city": "بلدية الضعاين"
-  },
-  {
-   "id": "qa.qatartv",
-   "name": "Qatar TV",
-   "category": "broadcast",
-   "languages": [
-    "ar"
-   ],
-   "youtubeChannelId": "UChZSfKdqAgAf_pp07Cqgzfg",
-   "youtubeVideoId": "HbUqHMv6qLY",
-   "embeddable": true,
-   "live": false,
-   "wikidata": null,
-   "description": {},
-   "wikipedia": {},
-   "logo": null,
-   "website": null,
-   "city": null
   }
  ]
 }

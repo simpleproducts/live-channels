@@ -1,0 +1,134 @@
+{
+ "schema": 2,
+ "code": "NG",
+ "version": 2026101312,
+ "defaultTiles": [
+  "ng.channelstv",
+  "ng.arisenews",
+  "ng.tvcnews",
+  "ng.ntalive",
+  "ng.ait",
+  "ng.nta"
+ ],
+ "channels": [
+  {
+   "id": "ng.channelstv",
+   "name": "Channels Television",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCEXGDNclvmg6RW0vipJYsTQ",
+   "youtubeVideoId": "d4zDorDl5UE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ng.arisenews",
+   "name": "Arise News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCyEJX-kSj0kOOCS7Qlq2G7g",
+   "youtubeVideoId": "wqAwGhKnkjc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ng.tvcnews",
+   "name": "TVC News Nigeria",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCgp4A6I8LCWrhUzn-5SbKvA",
+   "youtubeVideoId": "wIPhskriRwM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q28401298",
+   "description": {
+    "en": "Nigerian 24-hour television news channel",
+    "de": "nigerianischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TVC_News"
+   },
+   "logo": null,
+   "website": "https://www.tvcnews.tv/",
+   "city": "Lagos"
+  },
+  {
+   "id": "ng.ntalive",
+   "name": "NTA Live",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg",
+   "youtubeVideoId": "Mnr6quPjlYE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ng.ait",
+   "name": "Africa Independent Television",
+   "category": "broadcast",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g",
+   "youtubeVideoId": "6dPrHUTybm4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q979027",
+   "description": {
+    "en": "broadcast network",
+    "fr": "Africa Independent Television (AIT) est une chaîne de télévision privée du Nigeria."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Africa_Independent_Television",
+    "fr": "https://fr.wikipedia.org/wiki/Africa_Independent_Television"
+   },
+   "logo": null,
+   "website": "https://ait.live/",
+   "city": "Abuja"
+  },
+  {
+   "id": "ng.nta",
+   "name": "NTA Network",
+   "category": "broadcast",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g",
+   "youtubeVideoId": "zfL2-oaSLCg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

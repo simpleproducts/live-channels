@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "pe.pbo",
+  "pe.rpp",
+  "pe.latina",
+  "pe.willax",
+  "pe.tvperunoticias",
+  "pe.atv",
+  "pe.panamericana",
+  "pe.congreso",
+  "pe.exitosa"
+ ],
  "channels": [
   {
    "id": "pe.pbo",
@@ -12,9 +22,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "BC4Dp7v89Gw",
+   "youtubeVideoId": "JHv-5lYjcHg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -63,9 +73,9 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "56iXFlGgT2A",
+   "youtubeVideoId": "pgKogbvt9lU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -93,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
-   "youtubeVideoId": "-9aGehhElh8",
+   "youtubeVideoId": "gdZyJ6DWYos",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -111,9 +121,9 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "67pQSKybPBc",
+   "youtubeVideoId": "RnH14hR5gv4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -137,9 +147,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "LT-AMZbpEJQ",
+   "youtubeVideoId": "LxHEJW930MA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -161,9 +171,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "h48MJI-80FU",
+   "youtubeVideoId": "RtiJOJFqWE4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -204,9 +214,9 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "zTyIpPl9aKI",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -292,6 +302,58 @@
    "city": "Lima"
   },
   {
+   "id": "pe.americatv",
+   "name": "América Televisión",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCPhm2I2wk4vqjENwhn3px8A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2530659",
+   "description": {
+    "en": "Peruvian free-to-air television channel",
+    "es": "cadena de televisión abierta peruana",
+    "zh-Hans": "美洲電視網 是秘魯的主要電視台之一，隸屬於複數電視集團。",
+    "ja": "アメリカ・テレビシオン は、ペルーのテレビネットワークである。",
+    "fr": "América Televisión est une chaîne de télévision généraliste péruvienne privée qui diffuse depuis 1958.",
+    "pt-BR": "América Televisión é uma rede de televisão aberta do Peru.",
+    "ko": "아메리카 텔레비시온(스페인어: América Televisión)는 페루의 텔레비전 채널이다.",
+    "it": "rete televisiva peruviana",
+    "ru": "«América Televisión» — перуанский телеканал, владелецем телеканала является «Grupo Plural TV».",
+    "zh-Hant": "美洲電視網 是秘魯的主要電視台之一，隸屬於複數電視集團。",
+    "ar": "شبكة تلفزيونية",
+    "tr": "America Television ya da, daha çok bilinen ismiyle America-TV, Peru televizyon kanalı.",
+    "nl": "televisiezender uit Peru",
+    "pl": "América Televisión – peruwiańska stacja telewizyjna, założony w 1958 roku.",
+    "id": "Jaringan Televisi di Peru",
+    "de": "Fernsehen in Peru"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n",
+    "es": "https://es.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n_(Per%C3%BA)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%BE%8E%E6%B4%B2%E9%9B%BB%E8%A6%96%E7%B6%B2",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%BB%E3%83%86%E3%83%AC%E3%83%93%E3%82%B7%E3%82%AA%E3%83%B3_(%E3%83%9A%E3%83%AB%E3%83%BC)",
+    "fr": "https://fr.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n_(Peru)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4_%ED%85%94%EB%A0%88%EB%B9%84%EC%8B%9C%EC%98%A8",
+    "it": "https://it.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n",
+    "ru": "https://ru.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%BE%8E%E6%B4%B2%E9%9B%BB%E8%A6%96%E7%B6%B2",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7",
+    "tr": "https://tr.wikipedia.org/wiki/Am%C3%A9rica_TV",
+    "nl": "https://nl.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n",
+    "pl": "https://pl.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n",
+    "id": "https://id.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n",
+    "de": "https://de.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Am%C3%A9rica_Televisi%C3%B3n.svg?width=256",
+   "website": "http://www.americatv.com.pe/",
+   "city": "Lima"
+  },
+  {
    "id": "pe.congreso",
    "name": "Congreso del Perú",
    "category": "government",
@@ -299,9 +361,9 @@
     "es"
    ],
    "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
-   "youtubeVideoId": "__ikA2OV6n0",
+   "youtubeVideoId": "ewB6C---yEA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1357543",
    "description": {
     "en": "unicameral body that has assumed legislative power in Peru from 1995 to 2026",
@@ -341,9 +403,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "7qZiw7beFQw",
+   "youtubeVideoId": "hAjH7BECPS8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",

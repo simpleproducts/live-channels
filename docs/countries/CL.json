@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "cl.t13",
+  "cl.meganoticias",
+  "cl.24horas",
+  "cl.chvnoticias",
+  "cl.cnnchile",
+  "cl.biobio",
+  "cl.senado",
+  "cl.tvn",
+  "cl.chilevision"
+ ],
  "channels": [
   {
    "id": "cl.meganoticias",
@@ -12,9 +22,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "SH9q01HFyFY",
+   "youtubeVideoId": "3EVYFMTqt_c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -30,9 +40,9 @@
     "es"
    ],
    "youtubeChannelId": "UCTXNz3gjAypWp3EhlIATEJQ",
-   "youtubeVideoId": "dO-acZ6aWpo",
+   "youtubeVideoId": "nnubB8tf_K0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2935885",
    "description": {
     "en": "24 horas is the brand that identifies the gathering and broadcasting of news in the Chilean public broadcaster Televisión Nacional de Chile.",
@@ -57,9 +67,9 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "O1T_8xoATTI",
+   "youtubeVideoId": "KxcmHi43DwM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -77,7 +87,7 @@
    "youtubeChannelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
    "youtubeVideoId": "oy1dvCRd42s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -93,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
-   "youtubeVideoId": "jDXc51mQANA",
+   "youtubeVideoId": "7Xkfncls6C4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931771",
    "description": {
     "en": "Chilean television news channel",
@@ -127,9 +137,9 @@
     "es"
    ],
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
-   "youtubeVideoId": "az5vu1j6t7o",
+   "youtubeVideoId": "rQkf0DNoE3Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -158,9 +168,9 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "nP1eJUIMEpY",
+   "youtubeVideoId": "v6U_7nli2o4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597933",
    "description": {
     "en": "Chilean public service broadcaster",
@@ -214,9 +224,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "t36ce52KhzM",
+   "youtubeVideoId": "_orNTL3v3e0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -256,9 +266,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "bLhcnrG_vpI",
+   "youtubeVideoId": "q712rxGtjHY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -310,9 +320,9 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "VoUf_OHUJkA",
+   "youtubeVideoId": "5ef4tBwwrtU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -357,52 +367,40 @@
    "city": "Santiago de Chile"
   },
   {
-   "id": "cl.lared",
-   "name": "La Red",
+   "id": "cl.tvmas",
+   "name": "TV+",
    "category": "broadcast",
    "languages": [
     "es"
    ],
-   "youtubeChannelId": "UCO_X-fuUzKLzm-AAVjU5nrA",
-   "youtubeVideoId": "Slia5zB6b7k",
-   "embeddable": true,
+   "youtubeChannelId": "UCZnboDa_k5jxFCGp6jVhpUQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
    "live": false,
-   "wikidata": "Q369153",
+   "wikidata": "Q3547157",
    "description": {
-    "en": "Chilean television channel",
-    "es": "canal de televisión de Chile",
-    "zh-Hans": "智利電視網 是智利的私人電視頻道。",
-    "ja": "ラ・レッド(La Red)は、アルバビシオンが所有するチリの地上波テレビチャンネル。1991年5月12日に発売されました。",
+    "en": "Chilean television channel, formerly known as UCV Televisión",
+    "es": "canal de televisión chileno, conocido anteriormente como UCV Televisión",
     "fr": "chaîne de télévision chilienne",
-    "pt-BR": "La Red é uma rede de televisão chilena fundada em 12 de maio de 1991.",
-    "ko": "라 레드(스페인어: La Red)는 칠레의 텔레비전 채널이다.",
+    "pt-BR": "TV+ é uma rede de televisão chilena criada em 1957 com sede em Viña del Mar.",
+    "ko": "Corporación de Televisión de la Pontificia Universidad Católica de Valparaíso 또는 UCV 텔레비시온(스페인어: UCV Televisión, UCV TV)는 칠레의 텔레비전 네트워크로, 1957년 10월 5일에 설립된 칠레에서 가장 오래된 텔레비전 방송국이다.",
     "it": "rete televisiva cilena",
-    "zh-Hant": "智利電視網 是智利的私人電視頻道。",
-    "ar": "قناة تلفزيونية تشيلية",
-    "tr": "La Red, Şili merkezli bir özel televizyon kanalıdır.",
-    "pl": "chilijska stacja telewizyjna",
-    "sv": "La Red är en privat chilensk TV-kanal.",
+    "ar": "قناة تلفزيونية تشيلية ، تابعة للجامعة البابوية الكاثوليكية في فالبارايسو ، وتنتمي حاليًا إلى شركة ميديا 23 سبا",
     "de": "chilenischer Fernsehsender"
    },
    "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/La_Red_(Chilean_TV_channel)",
-    "es": "https://es.wikipedia.org/wiki/La_Red_(canal_de_televisi%C3%B3n_de_Chile)",
-    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%99%BA%E5%88%A9%E9%9B%BB%E8%A6%96%E7%B6%B2",
-    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%AC%E3%83%83%E3%83%89",
-    "fr": "https://fr.wikipedia.org/wiki/La_Red_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
-    "pt-BR": "https://pt.wikipedia.org/wiki/La_Red",
-    "ko": "https://ko.wikipedia.org/wiki/%EB%9D%BC_%EB%A0%88%EB%93%9C",
-    "it": "https://it.wikipedia.org/wiki/La_Red",
-    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%99%BA%E5%88%A9%E9%9B%BB%E8%A6%96%E7%B6%B2",
-    "ar": "https://ar.wikipedia.org/wiki/%D9%84%D8%A7_%D8%B1%D9%8A%D8%AF_(%D9%82%D9%86%D8%A7%D8%A9_%D8%AA%D8%B4%D9%8A%D9%84%D9%8A%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D8%A9)",
-    "tr": "https://tr.wikipedia.org/wiki/La_Red",
-    "pl": "https://pl.wikipedia.org/wiki/La_Red",
-    "sv": "https://sv.wikipedia.org/wiki/La_Red_(TV-kanal)",
-    "de": "https://de.wikipedia.org/wiki/La_Red"
+    "en": "https://en.wikipedia.org/wiki/TV%2B_(Chile)",
+    "es": "https://es.wikipedia.org/wiki/TV%2B",
+    "fr": "https://fr.wikipedia.org/wiki/TV%2B_(Chili)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV%2B_(Chile)",
+    "ko": "https://ko.wikipedia.org/wiki/TV%2B",
+    "it": "https://it.wikipedia.org/wiki/TV%2B",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%2B_(%D8%AA%D8%B4%D9%8A%D9%84%D9%8A)",
+    "de": "https://de.wikipedia.org/wiki/TV%2B"
    },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Red_Logotipo_2021.svg?width=256",
-   "website": "http://www.lared.cl/",
-   "city": "Santiago de Chile"
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TV%2B_%282018%29.png?width=256",
+   "website": "http://www.tvmas.tv",
+   "city": "Viña del Mar"
   },
   {
    "id": "cl.senado",
@@ -414,7 +412,7 @@
    "youtubeChannelId": "UC4GJ43VNn4AYfiYa0RBCHQg",
    "youtubeVideoId": "ScMO3oncXdM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2119458",
    "description": {
     "en": "Upper house of Chile's National Congress",
@@ -506,9 +504,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "75JiOPOwH6c",
+   "youtubeVideoId": "iHxCqrkPa7k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -533,9 +531,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "AFnTOuioW4A",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

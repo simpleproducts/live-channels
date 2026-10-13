@@ -1,8 +1,11 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "py.abctv",
+  "py.telefuturo"
+ ],
  "channels": [
   {
    "id": "py.abctv",
@@ -12,9 +15,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
-   "youtubeVideoId": "CMSh7cXR5G8",
+   "youtubeVideoId": "J4D36vk72ik",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -70,6 +73,24 @@
    "city": "Asunción"
   },
   {
+   "id": "py.gen",
+   "name": "GEN",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
    "id": "py.telefuturo",
    "name": "Telefuturo",
    "category": "broadcast",
@@ -77,9 +98,9 @@
     "es"
    ],
    "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA",
-   "youtubeVideoId": "NAeft69E8U4",
+   "youtubeVideoId": "4f4rCqlbYLI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3140411",
    "description": {
     "en": "Paraguayan free-to-air television network",
@@ -133,6 +154,33 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SNT_2013_logotype.png?width=256",
    "website": "http://www.snt.com.py",
+   "city": "Asunción"
+  },
+  {
+   "id": "py.unicanal",
+   "name": "Unicanal",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCT9-9nG-go0cQGn9rVBzaxA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3549937",
+   "description": {
+    "en": "Paraguayan digital television network",
+    "es": "Canal de TV Abierta Digital y Cable en Paraguay",
+    "fr": "chaîne de télévision paraguayenne",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Unicanal",
+    "es": "https://es.wikipedia.org/wiki/Unicanal_(Paraguay)",
+    "fr": "https://fr.wikipedia.org/wiki/Unicanal"
+   },
+   "logo": null,
+   "website": "http://www.unicanal.com.py/",
    "city": "Asunción"
   }
  ]

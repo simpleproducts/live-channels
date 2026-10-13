@@ -1,0 +1,119 @@
+{
+ "schema": 2,
+ "code": "RU",
+ "version": 2026101312,
+ "defaultTiles": [
+  "ru.currenttime",
+  "ru.euronewsru"
+ ],
+ "channels": [
+  {
+   "id": "ru.tvrain",
+   "name": "Дождь (TV Rain)",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCdubelOloxR3wzwJG9x8YqQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q155172",
+   "description": {
+    "en": "Russian-language television channel",
+    "es": "Cadena de televisión rusa independiente fundada en 2008",
+    "zh-Hans": "雨電視，俄羅斯私營獨立媒體，主要業務是电视节目和在线出版。其亦被视为俄罗斯反对派媒体。",
+    "ja": "ロシアのテレビ放送局",
+    "fr": "chaîne de télévision russe indépendante",
+    "pt-BR": "Dozhd ), também conhecido como TV Chuva, é um canal de televisão independente russo.",
+    "it": "rete televisiva russa",
+    "ru": "русскоязычный информационный телеканал",
+    "zh-Hant": "雨電視，俄羅斯私營獨立媒體，主要業務是电视节目和在线出版。其亦被视为俄罗斯反对派媒体。",
+    "ar": "قناة تلفزيونية باللغة الروسية",
+    "nl": "Russischtalig televisiekanaal",
+    "pl": "rosyjska stacja telewizyjna",
+    "sv": "rysk oberoende TV-kanal. Tillfälligt(?) nedstängd av Kreml.",
+    "id": "Dozhd, juga dikenal sebagai TV Rain, adalah sebuah saluran televisi independen Rusia dengan fokus pada berita, diskusi, budaya, politik, laporan bisnis, dan dokumenter.",
+    "de": "russischsprachiger Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Rain",
+    "es": "https://es.wikipedia.org/wiki/Dozhd",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%9B%A8%E9%9B%BB%E8%A6%96",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%82%B7%E3%83%81",
+    "fr": "https://fr.wikipedia.org/wiki/Dojd",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Dozhd",
+    "it": "https://it.wikipedia.org/wiki/Do%C5%BEd'",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B6%D0%B4%D1%8C_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%9B%A8%E9%9B%BB%E8%A6%96",
+    "nl": "https://nl.wikipedia.org/wiki/Dozhd",
+    "pl": "https://pl.wikipedia.org/wiki/Do%C5%BCd%C2%B4",
+    "sv": "https://sv.wikipedia.org/wiki/Dozjd",
+    "id": "https://id.wikipedia.org/wiki/Dozhd",
+    "de": "https://de.wikipedia.org/wiki/Doschd"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tvrain-slashes.svg?width=256",
+   "website": "https://tvrain.tv/",
+   "city": "Амстердам"
+  },
+  {
+   "id": "ru.currenttime",
+   "name": "Настоящее Время (Current Time)",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCBG57608Hukev3d0d-gvLhQ",
+   "youtubeVideoId": "t9Ilev-uk4w",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q55663942",
+   "description": {
+    "en": "Russian-language television channel",
+    "zh-Hans": "Current Time 是美国广播理事会的两家下属媒体——自由欧洲电台/自由电台（RFE/RL）和美国之音（VOA）共同开办的一个俄语电视新闻频道。",
+    "fr": "chaîne de télévision américaine en russe",
+    "it": "rete televisiva ceca",
+    "ru": "русскоязычный телеканал",
+    "zh-Hant": "Current Time 是美国广播理事会的两家下属媒体——自由欧洲电台/自由电台（RFE/RL）和美国之音（VOA）共同开办的一个俄语电视新闻频道。",
+    "nl": "\"Настоящее время\" is een Russischtalig televisiekanaal met een redactie in Praag, opgericht door de mediacorporatie \"Radio Free Europe/Radio Liberty\" met de deelname van \"Voice of America\".",
+    "id": "Nastoyashcheye Vremya adalah stasiun televisi berbahasa Rusia yang berkantor pusat di Praha, didirikan oleh perusahaan media Radio Free Europe/Radio Liberty dengan partisipasi dari Voice of America.",
+    "de": "russischsprachiger Fernsehnachrichtensender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Current_Time_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Current_Time",
+    "it": "https://it.wikipedia.org/wiki/Nastoja%C5%A1%C4%8Dee_Vremja",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Current_Time",
+    "nl": "https://nl.wikipedia.org/wiki/Current_Time",
+    "id": "https://id.wikipedia.org/wiki/Nastoyashcheye_Vremya",
+    "de": "https://de.wikipedia.org/wiki/Current_Time_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Current_Time_TV_logo.svg?width=256",
+   "website": "http://currenttime.tv",
+   "city": "Прага"
+  },
+  {
+   "id": "ru.euronewsru",
+   "name": "Euronews по-русски",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCFzJjgVicCtFxJ5B0P_ei8A",
+   "youtubeVideoId": "lwYzwdBiaho",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q106823021",
+   "description": {
+    "ru": "русская версия телеканала"
+   },
+   "wikipedia": {
+    "ru": "https://ru.wikipedia.org/wiki/Euronews_(%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Euronews_2016_logo.svg?width=256",
+   "website": "https://ru.euronews.com/",
+   "city": "Лион"
+  }
+ ]
+}

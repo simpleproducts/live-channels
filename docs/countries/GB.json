@@ -1,8 +1,16 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "gb.bbcnewsarabic",
+  "gb.skynews",
+  "gb.gbnews",
+  "gb.reuters",
+  "gb.talktv",
+  "gb.guardian",
+  "gb.timesradio"
+ ],
  "channels": [
   {
    "id": "gb.skynews",
@@ -12,9 +20,9 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "WyETM5B-SsE",
+   "youtubeVideoId": "zqmqcXFCdu4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -123,9 +131,9 @@
     "en"
    ],
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-   "youtubeVideoId": "MGqPjzSlx3M",
+   "youtubeVideoId": "hqVMQfchC6U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q100300992",
    "description": {
     "en": "British television news channel",
@@ -162,9 +170,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "ObH0YNm8H0Y",
+   "youtubeVideoId": "0zTXsiTkdcM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -218,9 +226,9 @@
     "en"
    ],
    "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
-   "youtubeVideoId": "rKie_f6y_K4",
+   "youtubeVideoId": "Ezsyi9lEZ2o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q108760651",
    "description": {
     "en": "British television channel",
@@ -243,7 +251,7 @@
    "youtubeChannelId": "UCelk6aHijZq-GJBBB9YpReA",
    "youtubeVideoId": "O1pGmVtj2Y8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q973341",
    "description": {
     "en": "television channel",
@@ -344,9 +352,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA",
-   "youtubeVideoId": "C1XlKxN2VwU",
+   "youtubeVideoId": "9ob2MGCZptQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5614018",
    "description": {
     "en": "British news website",
@@ -532,7 +540,7 @@
    "youtubeChannelId": "UCF-VP3b3oH0XASqsLI5rnLw",
    "youtubeVideoId": "3EaWrWqt7dk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

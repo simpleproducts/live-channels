@@ -1,0 +1,156 @@
+{
+ "schema": 2,
+ "code": "ZA",
+ "version": 2026101312,
+ "defaultTiles": [
+  "za.sabcnews"
+ ],
+ "channels": [
+  {
+   "id": "za.sabcnews",
+   "name": "SABC News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
+   "youtubeVideoId": "2b2waUCl7Lk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q48767445",
+   "description": {
+    "en": "news channel owned by the South African Broadcasting Corporation",
+    "zh-Hans": "南非广播公司新闻频道",
+    "zh-Hant": "南非广播公司新闻频道"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/SABC_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SABC_News_logo_2018.jpg?width=256",
+   "website": "http://www.sabcnews.com/",
+   "city": null
+  },
+  {
+   "id": "za.enca",
+   "name": "eNCA",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5323690",
+   "description": {
+    "en": "24-hour television news broadcaster owned by e.tv",
+    "fr": "chaîne de télévision sud-africaine"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ENCA"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ENCA_logo.svg?width=256",
+   "website": "https://www.enca.com/",
+   "city": "Johannesburg"
+  },
+  {
+   "id": "za.newzroom",
+   "name": "Newzroom Afrika",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "za.news24",
+   "name": "News24",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2909223",
+   "description": {
+    "en": "English-language South African online news publication",
+    "ja": "英語版のオンライン報道媒体（南アフリカ）",
+    "fr": "site d'actualité sud-africain",
+    "nl": "website"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/News24_(website)",
+    "fr": "https://fr.wikipedia.org/wiki/News24",
+    "nl": "https://nl.wikipedia.org/wiki/Netwerk24"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/News24_%28website%29_logo.svg?width=256",
+   "website": "https://www.news24.com/",
+   "city": null
+  },
+  {
+   "id": "za.parliament",
+   "name": "Parliament of South Africa",
+   "category": "government",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2185780",
+   "description": {
+    "en": "legislative body of South Africa",
+    "es": "El Parlamento de Sudáfrica es el órgano legislativo nacional de la República de Sudáfrica y uno de los tres poderes del Estado según la Constitución de 1996.",
+    "zh-Hans": "南非共和國國會，通稱南非國會，是南非的立法機關；根據現行《南非憲法》，國會採用兩院制，並由國民議會（下議院）以及全國省級事務委員會（上議院）組成。",
+    "ja": "南アフリカ共和国議会 は、南アフリカ共和国の立法府。全国州評議会（上院）と国民議会（下院）で構成される二院制議会である。",
+    "fr": "parlement bicaméral de l'Afrique du Sud",
+    "pt-BR": "legislativo da África do Sul",
+    "ko": "남아프리카 공화국의 입법부",
+    "it": "Il Parlamento del Sudafrica è l'organo legislativo dello stato africano di Sudafrica.",
+    "ru": "Высший законодательны орган ЮАР",
+    "zh-Hant": "南非共和國國會，通稱南非國會，是南非的立法機關；根據現行《南非憲法》，國會採用兩院制，並由國民議會（下議院）以及全國省級事務委員會（上議院）組成。",
+    "ar": "برلمان جنوب أفريقيا هو المجلس التشريعي لجنوب أفريقيا، وحسب الدستور الحالي للبلاد فهو يتألف من الجمعية الوطنية والمجلس الوطني للمقاطعات.",
+    "tr": "Güney Afrika Parlamentosu, Güney Afrika'nın yasama organıdır; Mevcut Güney Afrika Anayasası uyarına göre, iki taraflı Parlamento bir Ulusal Meclis ve Ulusal İller Konseyi'nden oluşur.",
+    "nl": "Het parlement van Zuid-Afrika is het nationale parlement van Zuid-Afrika en bestaat uit twee kamers:Lagerhuis: Nationale Vergadering (National Assembly) bestaande uit 400 leden.",
+    "pl": "Parlament Południowej Afryki - główny organ władzy ustawodawczej na szczeblu federalnym w Południowej Afryce (RPA).",
+    "sv": "lagstiftande församling i Sydafrika",
+    "id": "badan legislatif Afrika Selatan",
+    "de": "Zweikammerparlament in Südafrika"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Parliament_of_South_Africa",
+    "es": "https://es.wikipedia.org/wiki/Parlamento_de_Sud%C3%A1frica",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%97%E9%9D%9E%E8%AE%AE%E4%BC%9A",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AE%E8%AD%B0%E4%BC%9A",
+    "fr": "https://fr.wikipedia.org/wiki/Parlement_d'Afrique_du_Sud",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Parlamento_da_%C3%81frica_do_Sul",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%A8%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4_%EA%B3%B5%ED%99%94%EA%B5%AD_%EC%9D%98%ED%9A%8C",
+    "it": "https://it.wikipedia.org/wiki/Parlamento_del_Sudafrica",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%AE%D0%90%D0%A0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%97%E9%9D%9E%E8%AE%AE%E4%BC%9A",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%AC%D9%86%D9%88%D8%A8_%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
+    "tr": "https://tr.wikipedia.org/wiki/G%C3%BCney_Afrika_Parlamentosu",
+    "nl": "https://nl.wikipedia.org/wiki/Parlement_van_Zuid-Afrika",
+    "pl": "https://pl.wikipedia.org/wiki/Parlament_Po%C5%82udniowej_Afryki",
+    "sv": "https://sv.wikipedia.org/wiki/Sydafrikas_parlament",
+    "id": "https://id.wikipedia.org/wiki/Parlemen_Afrika_Selatan",
+    "de": "https://de.wikipedia.org/wiki/Parlament_von_S%C3%BCdafrika"
+   },
+   "logo": null,
+   "website": "https://www.parliament.gov.za/",
+   "city": "Cape Town"
+  }
+ ]
+}

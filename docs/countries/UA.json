@@ -1,0 +1,342 @@
+{
+ "schema": 2,
+ "code": "UA",
+ "version": 2026101312,
+ "defaultTiles": [
+  "ua.suspilne",
+  "ua.united24",
+  "ua.tsn",
+  "ua.faktyictv",
+  "ua.espreso",
+  "ua.kyiv24",
+  "ua.freedom",
+  "ua.pryamiy",
+  "ua.5kanal"
+ ],
+ "channels": [
+  {
+   "id": "ua.suspilne",
+   "name": "Суспільне Новини",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCPY6gj8G7dqwPxg9KwHrj5Q",
+   "youtubeVideoId": "EHiuKvFUr2w",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q113241842",
+   "description": {
+    "fr": "Suspilne Novyny est un média en ligne ukrainien faisant partie de la Suspilne.",
+    "ar": "شركة"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/Suspilne_Novyny"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Suspilne_Novyny_%282022%29.svg?width=256",
+   "website": "https://suspilne.media/",
+   "city": null
+  },
+  {
+   "id": "ua.tsn",
+   "name": "ТСН",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
+   "youtubeVideoId": "3H_LXRVIaTE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4449066",
+   "description": {
+    "en": "news division of the Ukrainian television network 1+1",
+    "zh-Hans": "TSN，正式名稱為电视新闻服务，是烏克蘭1+1频道的每日新闻节目，由1+1媒体集团制作，自2013年起从位于基辅波迪爾频道总部的电视演播室播出。在2022年俄罗斯全面入侵乌克兰之前，TSN每周都会播出最多8个版本（具体取决于星期几），並在周六和周日各播出一个版本。TSN的主节目在晚上7:30開始播出。",
+    "fr": "service de nouvelles de télévision en Ukraine",
+    "ru": "ежедневная программа новостей канала 1+1, выходит в прямом эфире",
+    "zh-Hant": "TSN，正式名稱為电视新闻服务，是烏克蘭1+1频道的每日新闻节目，由1+1媒体集团制作，自2013年起从位于基辅波迪爾频道总部的电视演播室播出。在2022年俄罗斯全面入侵乌克兰之前，TSN每周都会播出最多8个版本（具体取决于星期几），並在周六和周日各播出一个版本。TSN的主节目在晚上7:30開始播出。",
+    "nl": "televisieprogramma",
+    "pl": "dział informacyjny ukraińskiej sieci telewizyjnej 1 1"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Television_News_Service",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E6%9C%8D%E5%8B%99",
+    "fr": "https://fr.wikipedia.org/wiki/TSN_(Ukraine)",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%A1%D0%9D_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0,_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E6%9C%8D%E5%8B%99"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TSN_logo2008.svg?width=256",
+   "website": "https://tsn.ua",
+   "city": null
+  },
+  {
+   "id": "ua.faktyictv",
+   "name": "Факти ICTV",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA",
+   "youtubeVideoId": "t9lsBZUgFqw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4041002",
+   "description": {
+    "en": "Ukrainian broadcast television network",
+    "ja": "ウクライナのテレビ放送ネットワーク",
+    "fr": "chaîne de télévision ukrainienne",
+    "it": "rete televisiva ucraina",
+    "ru": "украинский телеканал",
+    "pl": "ICTV – ukraiński prywatny kanał telewizyjny uruchomiony 15 czerwca 1992 roku, będący włanością StarLightMedia.",
+    "de": "Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ICTV_(Ukraine)",
+    "fr": "https://fr.wikipedia.org/wiki/ICTV_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "it": "https://it.wikipedia.org/wiki/ICTV_(Ucraina)",
+    "ru": "https://ru.wikipedia.org/wiki/ICTV_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "pl": "https://pl.wikipedia.org/wiki/ICTV",
+    "de": "https://de.wikipedia.org/wiki/ICTV_(Fernsehsender)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ICTV_2017_horizontal.svg?width=256",
+   "website": "http://www.ictv.ua/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.espreso",
+   "name": "Еспресо",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w",
+   "youtubeVideoId": "TbFWWSyczgw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q15689802",
+   "description": {
+    "en": "Ukrainian TV channel",
+    "fr": "chaîne de télé ukrainienne",
+    "it": "emittente televisiva",
+    "ru": "украинский телеканал",
+    "nl": "Espreso TV is een internettelevisiestation in Oekraïne.",
+    "pl": "Espreso TV – ukraińska prywatna telewizja internetowa, uruchomiona 25 listopada 2013 roku.",
+    "de": "private Fernsehstation in der Ukraine",
+    "ms": "saluran TV Ukraine"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Espreso_TV",
+    "fr": "https://fr.wikipedia.org/wiki/Espresso_TV",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%BE_TV",
+    "nl": "https://nl.wikipedia.org/wiki/Espreso_TV",
+    "pl": "https://pl.wikipedia.org/wiki/Espreso_TV",
+    "de": "https://de.wikipedia.org/wiki/Espreso_TV",
+    "ms": "https://ms.wikipedia.org/wiki/Espreso_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Espreso_TV_%282023%29.svg?width=256",
+   "website": "https://espreso.tv/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.kyiv24",
+   "name": "Київ24",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
+   "youtubeVideoId": "shDMKVHLlAQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ua.freedom",
+   "name": "FREEДOM",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
+   "youtubeVideoId": "lmUf3KpU6HA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q27638992",
+   "description": {
+    "en": "Ukrainian television channel in Russian language",
+    "ru": "русскоязычный канал государственного иновещания Украины",
+    "ar": "قناة فضائية أوكرانية",
+    "sv": "FREEДОМ är en statsägd ukrainsk tv-kanal som sedan 2015 drivs av Ukrinform som visar de senaste nyheterna från Ukraina."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/FREE%D0%94%D0%9E%D0%9C",
+    "ru": "https://ru.wikipedia.org/wiki/Free%D0%94%D0%BE%D0%BC",
+    "ar": "https://ar.wikipedia.org/wiki/UATV_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+    "sv": "https://sv.wikipedia.org/wiki/Freedom_(TV-kanal)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/FreeDOMUAlogo.svg?width=256",
+   "website": "https://tvfreedom.io/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.pryamiy",
+   "name": "Прямий",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA",
+   "youtubeVideoId": "bzljM5Y5roY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q38633974",
+   "description": {
+    "en": "Ukrainian TV channel",
+    "fr": "Pryarmiy est une chaîne de télévision ukrainienne privée, créée en 1989 sous le nom de Tonis.",
+    "ru": "украинский телеканал"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Priamyi",
+    "fr": "https://fr.wikipedia.org/wiki/Pryamiy",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D1%8F%D0%BC%D0%BE%D0%B9"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ua.5kanal",
+   "name": "5 канал",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
+   "youtubeVideoId": "kCPDAp2_3l4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2987894",
+   "description": {
+    "en": "Ukrainian television network",
+    "zh-Hans": "乌克兰的一个电视频道",
+    "fr": "Station de télévision ukrainienne",
+    "ru": "украинский информационный телеканал",
+    "zh-Hant": "乌克兰的一个电视频道",
+    "pl": "ukraiński prywatny kanał telewizyjny",
+    "sv": "ukrainsk TV-station",
+    "de": "ukrainischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/5_Kanal",
+    "fr": "https://fr.wikipedia.org/wiki/5_Kanal_(Ukraine)",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_(%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0)",
+    "pl": "https://pl.wikipedia.org/wiki/5_kana%C5%82",
+    "sv": "https://sv.wikipedia.org/wiki/5_Kanal",
+    "de": "https://de.wikipedia.org/wiki/5_Kanal"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_5_Channel.svg?width=256",
+   "website": "https://www.5.ua/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.24kanal",
+   "name": "24 Канал",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4030314",
+   "description": {
+    "en": "Ukrainian 24-hour news TV channel",
+    "pt-BR": "Canal 24 é um canal de TV ucraniano 24 horas por dia, 7 dias por semana.",
+    "ru": "Первый всеукраинский круглосуточный канал новостей",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/24_Kanal",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_24_(Ucr%C3%A2nia)",
+    "ru": "https://ru.wikipedia.org/wiki/24_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_(%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0)",
+    "de": "https://de.wikipedia.org/wiki/24_Kanal"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/24_Kanal_logo.svg?width=256",
+   "website": "https://24tv.ua/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.united24",
+   "name": "UNITED24",
+   "category": "news",
+   "languages": [
+    "en",
+    "uk"
+   ],
+   "youtubeChannelId": "UCX-xHRN9CnoXto5gcPskANA",
+   "youtubeVideoId": "NTmuCD_hZwI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q111841082",
+   "description": {
+    "en": "Fundraising initiative in support of Ukraine",
+    "es": "iniciativa de recaudación de fondos en apoyo de Ucrania",
+    "zh-Hans": "United24 是烏克蘭政府于2022年5月5日推出的平台，旨在为乌克兰在俄乌战争中筹集资金。",
+    "ja": "UNITED24 は、ウクライナ政府が運営する、ウクライナ紛争におけるウクライナの戦費調達を目的としたプラットフォームである。2022年5月5日に立ち上げられた。",
+    "fr": "United24 est une plateforme de donation gérée par le gouvernement ukrainien lancée le 5 mai 2022 pour collecter des fonds en faveur de l'Ukraine dans le cadre de l'invasion de l'Ukraine par la Russie.",
+    "ru": "United24 — это глобальная инициатива в поддержку Украины, запущенная 5 мая 2022 года украинскими властями во время российского вторжения в Украину.",
+    "zh-Hant": "United24 是烏克蘭政府于2022年5月5日推出的平台，旨在为乌克兰在俄乌战争中筹集资金。",
+    "nl": "United24 is een door de Oekraïense overheid gerund platform.",
+    "id": "United24 adalah suatu platform yang dibentuk pemerintah Ukraina."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/United24",
+    "es": "https://es.wikipedia.org/wiki/United24",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/United24",
+    "ja": "https://ja.wikipedia.org/wiki/UNITED24",
+    "fr": "https://fr.wikipedia.org/wiki/United24",
+    "ru": "https://ru.wikipedia.org/wiki/United24",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/United24",
+    "nl": "https://nl.wikipedia.org/wiki/United24",
+    "id": "https://id.wikipedia.org/wiki/United24"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/UNITED24_logo.svg?width=256",
+   "website": "https://u24.gov.ua",
+   "city": null
+  },
+  {
+   "id": "ua.rada",
+   "name": "Телеканал Рада",
+   "category": "government",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UC5V8mErVFOpcQXEb3y9IMZw",
+   "youtubeVideoId": "Ot4LfpCiBp8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7279927",
+   "description": {
+    "en": "official television channel of the Ukrainian parliament",
+    "zh-Hans": "乌克兰国营的电视频道",
+    "fr": "chaîne de télévision publique ukrainienne",
+    "ru": "Украинский парламентский телеканал",
+    "zh-Hant": "乌克兰国营的电视频道"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Rada_TV",
+    "fr": "https://fr.wikipedia.org/wiki/Rada_TV",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rada_TV_%282021%29.svg?width=256",
+   "website": "http://tv.rada.gov.ua/",
+   "city": "Kyiv"
+  }
+ ]
+}

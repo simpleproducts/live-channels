@@ -1,13 +1,11 @@
 {
  "code": "VE",
  "languages": ["es"],
- "defaultTiles": ["vpitv", "globovision", "venevision", "unionradio"],
+ "defaultTiles": ["vpitv", "unionradio"],
  "channels": [
-  {"id": "vpitv", "name": "VPItv", "category": "news", "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w", "youtubeVideoId": "SaMzkvXN0II", "embeddable": true, "live": false},
-  {"id": "globovision", "name": "Globovisión", "category": "news", "youtubeChannelId": "UCTp0PrexDQCj60zQlkzAEFw", "youtubeVideoId": "gkEMxJBbqDE", "embeddable": true, "live": false},
+  {"id": "vpitv", "name": "VPItv", "category": "news", "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w", "youtubeVideoId": "SaMzkvXN0II", "embeddable": true, "live": true, "liveSince": "2026-10-09T00:00:00Z"},
   {"id": "evtv", "name": "EVTV", "category": "news", "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g", "live": false, "languages": ["es"]},
   {"id": "elpitazo", "name": "El Pitazo", "category": "news", "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA", "live": false},
-  {"id": "venevision", "name": "Venevisión", "category": "broadcast", "youtubeChannelId": "UCKzo7oVJPgzN7FVRHo0WC-Q", "youtubeVideoId": "RtwI2fwMPGQ", "embeddable": true, "live": false},
-  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "MIOSd-3lXhM", "embeddable": true, "live": false, "wikidata": "Q5770016"}
+  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "6hKUqF2Pgx0", "embeddable": true, "live": true, "liveSince": "2026-10-13T10:00:00Z", "wikidata": "Q5770016"}
  ]
 }

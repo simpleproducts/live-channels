@@ -1,0 +1,252 @@
+{
+ "schema": 2,
+ "code": "IL",
+ "version": 2026101312,
+ "defaultTiles": [
+  "il.i24en",
+  "il.i24he",
+  "il.c14"
+ ],
+ "channels": [
+  {
+   "id": "il.i24en",
+   "name": "i24NEWS English",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg",
+   "youtubeVideoId": "rS1uXqApZSI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q13612085",
+   "description": {
+    "en": "International television news channel",
+    "es": "canal de televisión israelí",
+    "zh-Hans": "i24news是一個報導國際與時事新聞的電視頻道，其總部設於以色列特拉維夫之雅法港，以英語，法語，阿拉伯語播出，所有人為Patrick Drahi，而執行長為Frank Melloul。",
+    "fr": "chaîne de télévision israélienne d'information en continu",
+    "pt-BR": "i24NEWS é um canal de televisão internacional de notícias e atualidades 24 horas com sede em Israel, localizado no Porto de Jaffa, Tel Aviv, Israel.",
+    "it": "rete televisiva israeliana",
+    "ru": "Израильский телеканал",
+    "zh-Hant": "i24news是一個報導國際與時事新聞的電視頻道，其總部設於以色列特拉維夫之雅法港，以英語，法語，阿拉伯語播出，所有人為Patrick Drahi，而執行長為Frank Melloul。",
+    "ar": "قناة إخبارية",
+    "id": "i24news adalah saluran televisi berita internasional 24 jam yang berkantor pusat di Jaffa Port, Tel Aviv, Israel.",
+    "de": "i24news ist ein privater internationaler TV-Nachrichtensender aus Tel Aviv, Israel."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/I24NEWS_(Israeli_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/I24news",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/I24news",
+    "fr": "https://fr.wikipedia.org/wiki/I24News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/I24NEWS",
+    "it": "https://it.wikipedia.org/wiki/I24news",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_i24_(%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/I24news",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A2%D9%8A_24_%D9%86%D9%8A%D9%88%D8%B2",
+    "id": "https://id.wikipedia.org/wiki/I24news",
+    "de": "https://de.wikipedia.org/wiki/I24news"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_i24NEWS.png?width=256",
+   "website": "https://www.i24news.tv/en",
+   "city": "Tel Aviv"
+  },
+  {
+   "id": "il.i24fr",
+   "name": "i24NEWS Français",
+   "category": "news",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCgPYsPyGhhQJQ9zOUQDWDMA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q13612085",
+   "description": {
+    "en": "International television news channel",
+    "es": "canal de televisión israelí",
+    "zh-Hans": "i24news是一個報導國際與時事新聞的電視頻道，其總部設於以色列特拉維夫之雅法港，以英語，法語，阿拉伯語播出，所有人為Patrick Drahi，而執行長為Frank Melloul。",
+    "fr": "chaîne de télévision israélienne d'information en continu",
+    "pt-BR": "i24NEWS é um canal de televisão internacional de notícias e atualidades 24 horas com sede em Israel, localizado no Porto de Jaffa, Tel Aviv, Israel.",
+    "it": "rete televisiva israeliana",
+    "ru": "Израильский телеканал",
+    "zh-Hant": "i24news是一個報導國際與時事新聞的電視頻道，其總部設於以色列特拉維夫之雅法港，以英語，法語，阿拉伯語播出，所有人為Patrick Drahi，而執行長為Frank Melloul。",
+    "ar": "قناة إخبارية",
+    "id": "i24news adalah saluran televisi berita internasional 24 jam yang berkantor pusat di Jaffa Port, Tel Aviv, Israel.",
+    "de": "i24news ist ein privater internationaler TV-Nachrichtensender aus Tel Aviv, Israel."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/I24NEWS_(Israeli_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/I24news",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/I24news",
+    "fr": "https://fr.wikipedia.org/wiki/I24News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/I24NEWS",
+    "it": "https://it.wikipedia.org/wiki/I24news",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_i24_(%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/I24news",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A2%D9%8A_24_%D9%86%D9%8A%D9%88%D8%B2",
+    "id": "https://id.wikipedia.org/wiki/I24news",
+    "de": "https://de.wikipedia.org/wiki/I24news"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_i24NEWS.png?width=256",
+   "website": "https://www.i24news.tv/en",
+   "city": "Tel Aviv"
+  },
+  {
+   "id": "il.i24ar",
+   "name": "i24NEWS Arabic",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UC4LYR3v6kOIgEjrVARODP3w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q13612085",
+   "description": {
+    "en": "International television news channel",
+    "es": "canal de televisión israelí",
+    "zh-Hans": "i24news是一個報導國際與時事新聞的電視頻道，其總部設於以色列特拉維夫之雅法港，以英語，法語，阿拉伯語播出，所有人為Patrick Drahi，而執行長為Frank Melloul。",
+    "fr": "chaîne de télévision israélienne d'information en continu",
+    "pt-BR": "i24NEWS é um canal de televisão internacional de notícias e atualidades 24 horas com sede em Israel, localizado no Porto de Jaffa, Tel Aviv, Israel.",
+    "it": "rete televisiva israeliana",
+    "ru": "Израильский телеканал",
+    "zh-Hant": "i24news是一個報導國際與時事新聞的電視頻道，其總部設於以色列特拉維夫之雅法港，以英語，法語，阿拉伯語播出，所有人為Patrick Drahi，而執行長為Frank Melloul。",
+    "ar": "قناة إخبارية",
+    "id": "i24news adalah saluran televisi berita internasional 24 jam yang berkantor pusat di Jaffa Port, Tel Aviv, Israel.",
+    "de": "i24news ist ein privater internationaler TV-Nachrichtensender aus Tel Aviv, Israel."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/I24NEWS_(Israeli_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/I24news",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/I24news",
+    "fr": "https://fr.wikipedia.org/wiki/I24News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/I24NEWS",
+    "it": "https://it.wikipedia.org/wiki/I24news",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_i24_(%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/I24news",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A2%D9%8A_24_%D9%86%D9%8A%D9%88%D8%B2",
+    "id": "https://id.wikipedia.org/wiki/I24news",
+    "de": "https://de.wikipedia.org/wiki/I24news"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_i24NEWS.png?width=256",
+   "website": "https://www.i24news.tv/en",
+   "city": "Tel Aviv"
+  },
+  {
+   "id": "il.i24he",
+   "name": "i24NEWS עברית",
+   "category": "news",
+   "languages": [
+    "he"
+   ],
+   "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
+   "youtubeVideoId": "JVh4JgooELE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q136932915",
+   "description": {},
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_i24NEWS.png?width=256",
+   "website": "https://www.i24news.tv/he",
+   "city": null
+  },
+  {
+   "id": "il.c14",
+   "name": "ערוץ 14",
+   "category": "news",
+   "languages": [
+    "he"
+   ],
+   "youtubeChannelId": "UCKEImtWikw9usC1pl_9m1nQ",
+   "youtubeVideoId": "52m7aCvvhJI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q16341431",
+   "description": {
+    "en": "Israeli television channel",
+    "es": "canal de televisión israelí",
+    "fr": "chaîne de télévision israélienne d'extrême droite",
+    "pt-BR": "Agora 14, coloquialmente conhecido como Canal 14, é um canal de televisão comercial e site de notícias israelense de direita e conservador.",
+    "ru": "Израильский телеканал",
+    "ar": "قناة تلفزيونية إسرائيلية",
+    "tr": "Now 14, İsrailli sağcı bir televizyon kanalıdır."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Channel_14_(Israel)",
+    "es": "https://es.wikipedia.org/wiki/Canal_14_(Israel)",
+    "fr": "https://fr.wikipedia.org/wiki/Channel_14",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_14",
+    "ru": "https://ru.wikipedia.org/wiki/14_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_(%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C)",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_14",
+    "tr": "https://tr.wikipedia.org/wiki/Channel_14_(%C4%B0srail)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Noamperetz-now14logo.png?width=256",
+   "website": "https://www.c14.co.il/",
+   "city": null
+  },
+  {
+   "id": "il.kan11",
+   "name": "כאן 11",
+   "category": "broadcast",
+   "languages": [
+    "he"
+   ],
+   "youtubeChannelId": "UCKqFqiCe1dCUxRe0_YNZ6gg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q29946049",
+   "description": {
+    "en": "Israeli Public Broadcasting television channel",
+    "es": "Kan 11 es el primer canal de televisión público de Israel.",
+    "fr": "Kan 11 est une chaîne de télévision publique appartenant à la Société de radiodiffusion publique israélienne (KAN).",
+    "pt-BR": "Kan 11 é um canal de televisão estatal de sinal aberto em Israel.",
+    "it": "rete televisiva israeliana",
+    "ru": "«Кан-11» — израильский общественный телеканал, начавший вещание 15 мая 2017 года.",
+    "ar": "كان 11 هي قناة حكومية مجانية إسرائيلية تدار من قبل هيئة البث الإسرائيلي، تم إطلاقها في 15 مايو 2017 لتحل محل القناة الإسرائيلية الأولى.",
+    "pl": "izraelska stacja telewizyjna",
+    "de": "israelischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Kan_11",
+    "es": "https://es.wikipedia.org/wiki/Kan_11",
+    "fr": "https://fr.wikipedia.org/wiki/Kan_11",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Kan_11",
+    "it": "https://it.wikipedia.org/wiki/Kan_11",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD_11",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D9%86_11",
+    "pl": "https://pl.wikipedia.org/wiki/Kan_11",
+    "de": "https://de.wikipedia.org/wiki/Kan_11"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kan11Logo.svg?width=256",
+   "website": "https://www.kan.org.il/",
+   "city": null
+  },
+  {
+   "id": "il.knesset",
+   "name": "ערוץ הכנסת",
+   "category": "government",
+   "languages": [
+    "he"
+   ],
+   "youtubeChannelId": "UCpjNXONNE-JUz7QACB1Cgcw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q279320",
+   "description": {
+    "en": "Israeli television channel",
+    "ru": "Общественный израильский наземный канал"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Knesset_Channel",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%D0%9A%D0%BD%D0%B5%D1%81%D1%81%D0%B5%D1%82%D0%B0"
+   },
+   "logo": null,
+   "website": "https://knesset.tv",
+   "city": "Jerusalem"
+  }
+ ]
+}

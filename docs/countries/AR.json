@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "ar.tn",
+  "ar.c5n",
+  "ar.lnmas",
+  "ar.a24",
+  "ar.cronica",
+  "ar.canalrural",
+  "ar.canal26",
+  "ar.infobae",
+  "ar.tvpublica"
+ ],
  "channels": [
   {
    "id": "ar.tn",
@@ -14,7 +24,7 @@
    "youtubeChannelId": "UCj6PcyLvpnIRT_2W_mwa9Aw",
    "youtubeVideoId": "cb12KmMMDJA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -32,7 +42,7 @@
    "youtubeChannelId": "UCFgk2Q2mVO1BklRQhSv6p0w",
    "youtubeVideoId": "j6oh4Kqz3UM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5030977",
    "description": {
     "en": "Argentine news television channel",
@@ -60,7 +70,7 @@
    "youtubeChannelId": "UCba3hpU7EFBSk817y9qZkiA",
    "youtubeVideoId": "FEWZjXJ7M0c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27478538",
    "description": {
     "en": "Argentine news television channel",
@@ -85,7 +95,7 @@
    "youtubeChannelId": "UCR9120YBAqMfntqgRTKmkjQ",
    "youtubeVideoId": "ArKbAx1K-2U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4749624",
    "description": {
     "en": "Argentine news cable TV channel",
@@ -110,9 +120,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "jYSINm_PhBk",
+   "youtubeVideoId": "jzUh1i-VjHI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q389108",
    "description": {
     "en": "Argentine news television channel",
@@ -136,7 +146,7 @@
    "youtubeChannelId": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
    "youtubeVideoId": "hw4uHyct4vg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1142564",
    "description": {
     "en": "television station",
@@ -162,7 +172,7 @@
    "youtubeChannelId": "UCPumJ2ayrr-JDsA9JDCUDDQ",
    "youtubeVideoId": "w78Zr0J-dIs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746724",
    "description": {
     "es": "Canal de televisión por cable de Argentina",
@@ -185,9 +195,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "zC1LOZ-kOBI",
+   "youtubeVideoId": "3NUR-5bPd6w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -320,7 +330,7 @@
    "youtubeChannelId": "UCs231K71Bnu5295_x0MB5Pg",
    "youtubeVideoId": "iyG7hGUYGRs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1032483",
    "description": {
     "en": "Argentine public television channel",
@@ -354,7 +364,7 @@
    "youtubeChannelId": "UC6NVDkuzY2exMOVFw4i9oHw",
    "youtubeVideoId": "zcWXboTnous",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -372,7 +382,7 @@
    "youtubeChannelId": "UCUT4NmGqjrVpKf2JyiS_bbA",
    "youtubeVideoId": "e4VpCP8KWLY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1032491",
    "description": {
     "en": "Argentinian television station",
@@ -410,7 +420,7 @@
    "youtubeChannelId": "UCD83EL-fvAhaZ8_fKfefunw",
    "youtubeVideoId": "3_UPvFIrJ6w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -428,7 +438,7 @@
    "youtubeChannelId": "UCUzonpa3XKurQVycdMY70XQ",
    "youtubeVideoId": "tKhsTMHR0H8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -446,7 +456,7 @@
    "youtubeChannelId": "UCiaePeoCqpU8hBHiNrgkzrA",
    "youtubeVideoId": "nndzeKDSjuc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5821762",
    "description": {
     "en": "television channel from Córdoba, Argentina",
@@ -470,7 +480,7 @@
    "youtubeChannelId": "UCWzsoIEZLGLinhYrm66VD4Q",
    "youtubeVideoId": "JoVB9K7QSEU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q82053717",
    "description": {
     "en": "television channel Paraná, province of Entre Ríos, Argentina",
@@ -492,9 +502,9 @@
     "es"
    ],
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
-   "youtubeVideoId": "WoNfin_vbPM",
+   "youtubeVideoId": "aa0O-BGYz5s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -512,7 +522,7 @@
    "youtubeChannelId": "UC64ZNqX0FQHabP8iIkmnR3A",
    "youtubeVideoId": "Vh8xmLBJtR8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5072364",
    "description": {
     "en": "television channel from Mendoza, Argentina,",
@@ -539,9 +549,9 @@
     "es"
    ],
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "J-r7P5ix-AQ",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -566,7 +576,7 @@
    "youtubeChannelId": "UCuJvDPQIaUhvdHiH275WjNA",
    "youtubeVideoId": "uqUSmqJg0ds",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16490085",
    "description": {
     "es": "Canal de noticias de la ciudad de San Juan, Argentina"
@@ -588,7 +598,7 @@
    "youtubeChannelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
    "youtubeVideoId": "V49JSc0SXY4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -606,7 +616,7 @@
    "youtubeChannelId": "UCOV_Vx1baZJY9Tfvgm-UI3w",
    "youtubeVideoId": "AMiVAF_tuJ4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5770754",
    "description": {
     "es": "canal de televisión abierta argentino, exclusivo para Buenos Aires",
@@ -630,7 +640,7 @@
    "youtubeChannelId": "UC1h8_HKc5wScqeRw1HV6a6w",
    "youtubeVideoId": "_SH6DL3AGig",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -768,59 +778,6 @@
    "city": null
   },
   {
-   "id": "ar.encuentro",
-   "name": "Encuentro",
-   "category": "government",
-   "languages": [
-    "es"
-   ],
-   "youtubeChannelId": "UC1zLDoKL-eKmd_K7qkUZ-ow",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
-   "wikidata": "Q5375623",
-   "description": {
-    "en": "Argentine educational TV channel",
-    "es": "canal de televisión educativo argentino",
-    "pt-BR": "Encuentro é um canal de televisão aberta argentino com conteúdo cultural e educativo, lançado em 5 de março de 2007.",
-    "de": "argentinischer Fernsehsender"
-   },
-   "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/Encuentro",
-    "es": "https://es.wikipedia.org/wiki/Encuentro_(canal_de_televisi%C3%B3n)",
-    "pt-BR": "https://pt.wikipedia.org/wiki/Encuentro_(canal_de_televis%C3%A3o)"
-   },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_del_canal_Encuentro.svg?width=256",
-   "website": "http://encuentro.gob.ar",
-   "city": "Buenos Aires"
-  },
-  {
-   "id": "ar.pakapaka",
-   "name": "Pakapaka",
-   "category": "kids",
-   "languages": [
-    "es"
-   ],
-   "youtubeChannelId": "UCVVNYxncuD4EfHpKDlPIYcQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
-   "wikidata": "Q7125434",
-   "description": {
-    "en": "Argentine television channel and website",
-    "es": "canal de televisión infantil de Argentina",
-    "pt-BR": "canal de televisão para o público infantil"
-   },
-   "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/Pakapaka",
-    "es": "https://es.wikipedia.org/wiki/Pakapaka_(canal_de_televisi%C3%B3n)",
-    "pt-BR": "https://pt.wikipedia.org/wiki/Pakapaka_(canal_de_televis%C3%A3o)"
-   },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Paka-Paka-2025.svg?width=256",
-   "website": "http://www.pakapaka.gob.ar",
-   "city": null
-  },
-  {
    "id": "ar.deportv",
    "name": "DeporTV",
    "category": "sports",
@@ -871,9 +828,9 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "IUkLU7wu6Pk",
+   "youtubeVideoId": "zYoH4N2Nxl0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -889,9 +846,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "ftWF4k7c-5g",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -925,9 +882,9 @@
     "es"
    ],
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "dzUnMyW4c9I",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -961,9 +918,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "Hrl7CQ90zog",
+   "youtubeVideoId": "R9xHLF2Eymo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -1021,9 +978,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "pjlTUykynKA",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1077,7 +1034,7 @@
    "youtubeChannelId": "UCNxohbqfDp8YxW_Mji2XMHA",
    "youtubeVideoId": "k9bMyNGsmhU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5738884",
    "description": {
     "en": "radio station in Argentina",
@@ -1103,7 +1060,7 @@
    "youtubeChannelId": "UCYvINPByAdCcpA0sWrF3I_w",
    "youtubeVideoId": "gLRijRdfkjU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3416744",
    "description": {
     "en": "radio station",
@@ -1133,7 +1090,7 @@
    "youtubeChannelId": "UCJozD5RVug7EZdTjqkGISYQ",
    "youtubeVideoId": "jOKmBKi9Flg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7280604",
    "description": {
     "en": "Argentine talk radio",
@@ -1159,7 +1116,7 @@
    "youtubeChannelId": "UCLAj5TzCrNbqe3LosSKHLcQ",
    "youtubeVideoId": "4ZWFeE4CVL4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1177,7 +1134,7 @@
    "youtubeChannelId": "UCs1U5lRXvUJHn0CgXI6oXAw",
    "youtubeVideoId": "1oDRHCaKh4U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1193,9 +1150,9 @@
     "es"
    ],
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
-   "youtubeVideoId": "klYrakTCOjE",
+   "youtubeVideoId": "rNuLJr8Kb74",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1211,9 +1168,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "kXHtYklSa74",
+   "youtubeVideoId": "j0So_YMDbL0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961729",
    "description": {
     "en": "Public AM radio station in Buenos Aires",
@@ -1235,9 +1192,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "SKkmsRGaJa8",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1253,9 +1210,9 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "iS2jdHMuPVI",
+   "youtubeVideoId": "VOAGahbIB_o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1271,9 +1228,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
-   "youtubeVideoId": "LSxdyylpbTI",
+   "youtubeVideoId": "KiGiwPQToBE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961871",
    "description": {
     "en": "radio station in Argentina",
@@ -1296,7 +1253,7 @@
    "youtubeChannelId": "UCtc_WjDRwCrZSEq2WEwD7XQ",
    "youtubeVideoId": "B3UccrSiWms",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1314,7 +1271,7 @@
    "youtubeChannelId": "UCtloZ7xFNO9O114pkoV9a5g",
    "youtubeVideoId": "MGSqMTMpDgw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6008984",
    "description": {
     "en": "Emisora de radio de Argentina",
@@ -1339,7 +1296,7 @@
    "youtubeChannelId": "UC1Oa7gHuqzGHB90FPb0ssPA",
    "youtubeVideoId": "Oqj8dVOdwOk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17274875",
    "description": {
     "en": "radio station in Argentina",
@@ -1362,9 +1319,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "sWWu6TN3cos",
+   "youtubeVideoId": "24wmaUVGVhM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1380,9 +1337,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwFdmeWekV3uGthAJENUu7A",
-   "youtubeVideoId": "45nwTjTZ4jk",
+   "youtubeVideoId": "gmsUZjWboYU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1400,7 +1357,7 @@
    "youtubeChannelId": "UCjeImUhRB1SLqN-svqDRJJw",
    "youtubeVideoId": "KLjgHG8253c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1418,7 +1375,7 @@
    "youtubeChannelId": "UC6NTD1HmdaZMbe9K5qADOvw",
    "youtubeVideoId": "aweQQwQgvdE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

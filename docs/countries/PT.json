@@ -1,8 +1,10 @@
 {
  "schema": 2,
  "code": "PT",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "pt.euronewspt"
+ ],
  "channels": [
   {
    "id": "pt.euronewspt",
@@ -14,7 +16,7 @@
    "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw",
    "youtubeVideoId": "XuZAl-ZPEcA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -89,6 +91,127 @@
    "logo": null,
    "website": "https://observador.pt/",
    "city": null
+  },
+  {
+   "id": "pt.rtp",
+   "name": "RTP Notícias",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCIM-wfyv9hg2oEiA81mQc2A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3415778",
+   "description": {
+    "en": "Portuguese television news channel",
+    "es": "canal de televisión portugués",
+    "zh-Hans": "葡萄牙廣播電視台新聞頻道 是葡萄牙廣播電視台一條於2001年開播的電視頻道，主要播放各類新聞資訊節目以及少量體育節目。這條頻道自2008年起實行24小時全日廣播，並由2009年中旬開始透過有線電視方式向佛得角、安哥拉和莫桑比克等前殖民地播出。",
+    "fr": "RTP Notícias, anciennement RTP Informação, puis RTP3, est une chaîne de télévision publique portugaise d'information en continu.",
+    "pt-BR": "canal de televisão de notícias português",
+    "it": "rete televisiva portoghese",
+    "zh-Hant": "葡萄牙廣播電視台新聞頻道 是葡萄牙廣播電視台一條於2001年開播的電視頻道，主要播放各類新聞資訊節目以及少量體育節目。這條頻道自2008年起實行24小時全日廣播，並由2009年中旬開始透過有線電視方式向佛得角、安哥拉和莫桑比克等前殖民地播出。",
+    "pl": "RTP Notícias – trzeci program Portugalskiej Telewizji Publicznej RTP o profilu informacyjnym."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RTP_Not%C3%ADcias",
+    "es": "https://es.wikipedia.org/wiki/RTP_Not%C3%ADcias",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%91%A1%E8%90%84%E7%89%99%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%A6%96%E5%8F%B0%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93",
+    "fr": "https://fr.wikipedia.org/wiki/RTP_Not%C3%ADcias",
+    "pt-BR": "https://pt.wikipedia.org/wiki/RTP_Not%C3%ADcias",
+    "it": "https://it.wikipedia.org/wiki/RTP_Not%C3%ADcias",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%91%A1%E8%90%84%E7%89%99%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%A6%96%E5%8F%B0%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93",
+    "pl": "https://pl.wikipedia.org/wiki/RTP_Not%C3%ADcias"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RTP_Not%C3%ADcias_2025.svg?width=256",
+   "website": "https://www.rtp.pt/noticias/",
+   "city": "Lisboa"
+  },
+  {
+   "id": "pt.cmtv",
+   "name": "CMTV",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCpiCOeyRdCLh8vKXYQZjOeA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q18363883",
+   "description": {
+    "en": "Portuguese news channel",
+    "pt-BR": "Canal de noticias português",
+    "ru": "португальский частный круглосуточный телеканал новостей",
+    "ar": "مانها هي قناة برتغالية خاصة عامة، تُركز بشكل كبير على الأخبار، وخاصةً الجرائم والمواضيع المثيرة ، وكرة القدم.",
+    "id": "Correio da Manhã TV (CMTV) adalah saluran televisi umum swasta Portugal dengan fokus kuat pada berita."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CMTV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/CMTV",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D9%83%D9%88%D8%B1%D9%8A%D9%88",
+    "id": "https://id.wikipedia.org/wiki/CMTV"
+   },
+   "logo": null,
+   "website": "https://www.cm-tv.pt",
+   "city": null
+  },
+  {
+   "id": "pt.rtp1",
+   "name": "RTP",
+   "category": "broadcast",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCWPpeeDOykyH5ducPITCDPw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q649618",
+   "description": {
+    "en": "Portuguese public broadcasting company",
+    "es": "Radio y televisión nacional de Portugal",
+    "zh-Hans": "葡萄牙廣播電視台 是葡萄牙的國家廣播電視台。它设有4个地面电视频道和三个国家电台频道，以及一些卫星和电缆产品。",
+    "ja": "ポルトガル国営放送 はポルトガルの国営放送。",
+    "fr": "service public de radio et de télévision portugaise",
+    "pt-BR": "empresa pública de radiodifusão portuguesa",
+    "ko": "포르투갈의 공공 방송사",
+    "it": "ente radiotelevisivo pubblico portoghese",
+    "ru": "Rádio e Televisão de Portugal — португальская компания общественного теле- и радиовещания, крупнейшее СМИ Португалии.",
+    "zh-Hant": "葡萄牙廣播電視台 是葡萄牙的國家廣播電視台。它设有4个地面电视频道和三个国家电台频道，以及一些卫星和电缆产品。",
+    "ar": "إذاعة وتلفزيون البرتغال هي هيئة لخدمة البث العامة في البرتغال.",
+    "tr": "Rádio e Televisão de Portugal veya RTP Portekiz'in 1935'te kurulmuş devlet radyo ve televizyon kurumudur.",
+    "nl": "Portugese publieke omroep",
+    "pl": "sieć radiowa oraz telewizyjna w Portugalii",
+    "sv": "Portugals public service-radio och television",
+    "id": "Stasiun Televisi dan Radio di Portugal",
+    "de": "öffentlich-rechtliche Rundfunkanstalt Portugals",
+    "ms": "Rádio e Televisão de Portugal dibentuk pada tahun 1957."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal",
+    "es": "https://es.wikipedia.org/wiki/Radio_y_Televisi%C3%B3n_de_Portugal",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%91%A1%E8%90%84%E7%89%99%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E5%9B%BD%E5%96%B6%E6%94%BE%E9%80%81",
+    "fr": "https://fr.wikipedia.org/wiki/Radio-t%C3%A9l%C3%A9vision_du_Portugal",
+    "pt-BR": "https://pt.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%8F%AC%EB%A5%B4%ED%88%AC%EA%B0%88_%EA%B3%B5%EC%98%81%EB%B0%A9%EC%86%A1",
+    "it": "https://it.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE_%D0%B8_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D0%B8",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%91%A1%E8%90%84%E7%89%99%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9_%D9%88%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84",
+    "tr": "https://tr.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal",
+    "nl": "https://nl.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal",
+    "pl": "https://pl.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal",
+    "sv": "https://sv.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal",
+    "id": "https://id.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal",
+    "de": "https://de.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal",
+    "ms": "https://ms.wikipedia.org/wiki/R%C3%A1dio_e_Televis%C3%A3o_de_Portugal"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RTP_2026_%28wordmark%29.svg?width=256",
+   "website": "http://www.rtp.pt",
+   "city": "Lisboa"
   },
   {
    "id": "pt.canalparlamento",

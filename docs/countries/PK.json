@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "pk.samaa",
+  "pk.geonews",
+  "pk.expressnews",
+  "pk.92news",
+  "pk.dawnnews",
+  "pk.ptvnews",
+  "pk.humnews",
+  "pk.gnn",
+  "pk.arynews"
+ ],
  "channels": [
   {
    "id": "pk.samaa",
@@ -12,9 +22,9 @@
     "ur"
    ],
    "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-   "youtubeVideoId": "ulHIuDuicwc",
+   "youtubeVideoId": "MLDQM0QL_-4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7388622",
    "description": {
     "en": "Pakistani TV network",
@@ -38,7 +48,7 @@
    "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g",
    "youtubeVideoId": "t3fvgmDDmdc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513202",
    "description": {
     "en": "Pakistani pay television news channel",
@@ -63,9 +73,9 @@
     "ur"
    ],
    "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-   "youtubeVideoId": "73UT_57r-vM",
+   "youtubeVideoId": "rY6aO3GEjT0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4653979",
    "description": {
     "en": "Pakistani news channel",
@@ -90,9 +100,9 @@
     "ur"
    ],
    "youtubeChannelId": "UCnMBV5Iw4WqKILKue1nP6Hg",
-   "youtubeVideoId": "U97a4VmHJPk",
+   "youtubeVideoId": "kEihxXW-6ww",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5315817",
    "description": {
     "en": "television channel",
@@ -117,7 +127,7 @@
    "youtubeChannelId": "UCTur7oM6mLL0rM2k0znuZpQ",
    "youtubeVideoId": "KNvaWHgOBMw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2787411",
    "description": {
     "en": "Pakistan private TV Channel",
@@ -141,7 +151,7 @@
    "youtubeChannelId": "UCsgC5cbz3DE2Shh34gNKiog",
    "youtubeVideoId": "kZK2BiSdC68",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -159,7 +169,7 @@
    "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
    "youtubeVideoId": "CxtDizYfoQE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5242486",
    "description": {
     "en": "Pakistani Urdu-language television channel",
@@ -187,7 +197,7 @@
    "youtubeChannelId": "UC5RvV_LtR1dxPCVFGw6dxXA",
    "youtubeVideoId": "EYzDPf85IBg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6583157",
    "description": {
     "en": "Pakistani News channel",
@@ -211,7 +221,7 @@
    "youtubeChannelId": "UC0Um3pnZ2WGBEeoA3BX2sKw",
    "youtubeVideoId": "cleNtpjod6Q",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q56278122",
    "description": {
     "en": "Pakistani news channel"
@@ -233,7 +243,7 @@
    "youtubeChannelId": "UC35KuZBNIj4S5Ls0yjY-UHQ",
    "youtubeVideoId": "Pzv58lUgiVo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5013089",
    "description": {
     "en": "News channel",

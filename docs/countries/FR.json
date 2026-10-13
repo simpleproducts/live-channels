@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "fr.france24",
+  "fr.franceinfo",
+  "fr.bfmtv",
+  "fr.euronewsfr",
+  "fr.france24en",
+  "fr.euronews",
+  "fr.france24es",
+  "fr.france24ar",
+  "fr.rfi"
+ ],
  "channels": [
   {
    "id": "fr.france24",
@@ -14,7 +24,7 @@
    "youtubeChannelId": "UCCCPCZNChQdGa9EkATeye4g",
    "youtubeVideoId": "a47ckXKZjxI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166180",
    "description": {
     "en": "French state-owned international news television network based in Paris",
@@ -70,7 +80,7 @@
    "youtubeChannelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
    "youtubeVideoId": "HvZt-nh9sGg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166180",
    "description": {
     "en": "French state-owned international news television network based in Paris",
@@ -126,7 +136,7 @@
    "youtubeChannelId": "UCUdOoVWuWmgo1wByzcsyKDQ",
    "youtubeVideoId": "zTv0hCakAhg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166180",
    "description": {
     "en": "French state-owned international news television network based in Paris",
@@ -182,7 +192,7 @@
    "youtubeChannelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
    "youtubeVideoId": "pykpO5kQJ98",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -238,7 +248,7 @@
    "youtubeChannelId": "UCW2QcKZiU8aUGg4yxCIditg",
    "youtubeVideoId": "NiRIbKwAejk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -294,7 +304,7 @@
    "youtubeChannelId": "UCO6K_kkdP-lnSCiO3tPx7WA",
    "youtubeVideoId": "NG7ZX42nZKc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q26085276",
    "description": {
     "en": "French television news channel",
@@ -332,7 +342,7 @@
    "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g",
    "youtubeVideoId": "C15czQgHSrE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q517444",
    "description": {
     "en": "French news channel",
@@ -376,7 +386,7 @@
    "youtubeChannelId": "UCdTyuXgmJkG_O8_75eqej-w",
    "youtubeVideoId": "93g513Uth98",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166180",
    "description": {
     "en": "French state-owned international news television network based in Paris",
@@ -478,6 +488,33 @@
    "city": "Paris"
   },
   {
+   "id": "fr.bfmbusiness",
+   "name": "BFM Business",
+   "category": "economy",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCUsBMOIUl_ad6JUOC16DpmQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2877016",
+   "description": {
+    "en": "French TV station",
+    "fr": "station de radio et chaîne de télévision privées françaises",
+    "it": "stazione radiofonica francese",
+    "id": "stasiun radio di Perancis",
+    "de": "französischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/BFM_Business",
+    "fr": "https://fr.wikipedia.org/wiki/BFM_Business"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_BFM_Business_2020.svg?width=256",
+   "website": "http://www.bfmbusiness.com",
+   "city": null
+  },
+  {
    "id": "fr.assemblee",
    "name": "Assemblée nationale",
    "category": "government",
@@ -503,9 +540,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Q-K906fnPYs",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q3205960",
    "description": {
     "en": "French National Assembly TV channel",
@@ -552,7 +589,7 @@
    "youtubeChannelId": "UCm4fSpMpPIZ9z6KHoezLUAg",
    "youtubeVideoId": "OAoLGxrlBPY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q19912",
    "description": {
     "en": "French international radio broadcaster",
@@ -593,6 +630,62 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RFI_logo_2013.svg?width=256",
    "website": "http://www.rfi.fr/",
    "city": "Issy-les-Moulineaux"
+  },
+  {
+   "id": "fr.arte",
+   "name": "ARTE",
+   "category": "culture",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCwI-JbGNsojunnHbFAc0M4Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q8073",
+   "description": {
+    "en": "Franco-German television channel and network",
+    "es": "canal de televisión",
+    "zh-Hans": "德法公共电视台 是一個于1992年由法国、德国合資建立的公共電視频道，總部位于斯特拉斯堡和巴登巴登，宗旨是推廣優質節目與世界藝術文化，節目多以法语和德语播出，並在線提供西班牙语、波兰语、意大利语字幕。arte由法國與德國各出資50%，董事會成員比例为法德各半并輪流擔任董事長與總裁。預算主要來自德法兩國視聽稅而非廣告收入，會透過合製方式與世界各地團隊製作優質文化節目。",
+    "ja": "西ヨーロッパのテレビ局",
+    "fr": "chaîne de service public franco-allemande",
+    "pt-BR": "arte é um canal franco-alemão de serviço público e de vocação cultural europeia com sede em Estrasburgo, fundado a 30 de abril de 1991.",
+    "ko": "유럽의 방송국",
+    "it": "rete televisiva franco-tedesca",
+    "ru": "французско-немецкий кабельный телеканал",
+    "zh-Hant": "德法公共电视台 是一個于1992年由法国、德国合資建立的公共電視频道，總部位于斯特拉斯堡和巴登巴登，宗旨是推廣優質節目與世界藝術文化，節目多以法语和德语播出，並在線提供西班牙语、波兰语、意大利语字幕。arte由法國與德國各出資50%，董事會成員比例为法德各半并輪流擔任董事長與總裁。預算主要來自德法兩國視聽稅而非廣告收入，會透過合製方式與世界各地團隊製作優質文化節目。",
+    "ar": "منظمة في فرنسا",
+    "tr": "Arte, bir Fransız-Alman ortak yapımı televizyon kanalıdır.",
+    "nl": "Frans-Duits televisienetwerk",
+    "pl": "Niemiecko-francuski kanał telewizyjny",
+    "sv": "Arte är en fransk-tysk tv-kanal lanserad 1992.",
+    "id": "Arte merupakan sebuah jaringan TV Prancis-Jerman.",
+    "de": "französisch-deutscher Fernsehsender",
+    "ms": "ARTE ialah rangkaian televisyen ke-udara percuma Perancis-Jerman yang mempromosikan rancangan kebudayaan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Arte",
+    "es": "https://es.wikipedia.org/wiki/Arte_(canal_de_televisi%C3%B3n)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%BE%B7%E6%B3%95%E5%85%AC%E5%85%B1%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%86_(%E3%83%86%E3%83%AC%E3%83%93%E5%B1%80)",
+    "fr": "https://fr.wikipedia.org/wiki/Arte",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Arte_(canal_de_televis%C3%A3o)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%A5%B4%ED%85%8C",
+    "it": "https://it.wikipedia.org/wiki/Arte_(rete_televisiva)",
+    "ru": "https://ru.wikipedia.org/wiki/Arte",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%BE%B7%E6%B3%95%E5%85%AC%E5%85%B1%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D8%B1%D8%AA%D9%8A%D9%88",
+    "tr": "https://tr.wikipedia.org/wiki/Arte",
+    "nl": "https://nl.wikipedia.org/wiki/ARTE",
+    "pl": "https://pl.wikipedia.org/wiki/Arte",
+    "sv": "https://sv.wikipedia.org/wiki/Arte",
+    "id": "https://id.wikipedia.org/wiki/Arte",
+    "de": "https://de.wikipedia.org/wiki/Arte",
+    "ms": "https://ms.wikipedia.org/wiki/Arte"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arte_Logo_2026.svg?width=256",
+   "website": "https://www.arte.tv/",
+   "city": "Strasbourg"
   }
  ]
 }

@@ -1,8 +1,11 @@
 {
  "schema": 2,
  "code": "SG",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "sg.cna",
+  "sg.cnainsider"
+ ],
  "channels": [
   {
    "id": "sg.cna",
@@ -14,7 +17,7 @@
    "youtubeChannelId": "UC83jt4dlz1Gjl58fzQrrKZg",
    "youtubeVideoId": "XWq5kBlakcQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40238",
    "description": {
     "en": "English language Asia-Pacific news channel based in Singapore",
@@ -46,29 +49,21 @@
    "city": null
   },
   {
-   "id": "sg.8world",
-   "name": "8world",
+   "id": "sg.cnainsider",
+   "name": "CNA Insider",
    "category": "news",
    "languages": [
-    "zh"
+    "en"
    ],
-   "youtubeChannelId": "UCUqUtr0w-K8W4AfpbHiYSaQ",
-   "youtubeVideoId": "qZsyZ03n340",
+   "youtubeChannelId": "UC_Lnb8ZHqqgLbp-7hltuT9w",
+   "youtubeVideoId": "fSUMKrxPEd8",
    "embeddable": true,
-   "live": false,
-   "wikidata": "Q15940701",
-   "description": {
-    "en": "Chinese-language news department based in Singapore",
-    "zh-Hans": "新加坡新聞節目",
-    "zh-Hant": "新加坡新聞節目"
-   },
-   "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/8world",
-    "zh-Hans": "https://zh.wikipedia.org/zh-hans/8%E8%A7%86%E7%95%8C%E6%96%B0%E9%97%BB",
-    "zh-Hant": "https://zh.wikipedia.org/zh-hant/8%E8%A7%86%E7%95%8C%E6%96%B0%E9%97%BB"
-   },
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
    "logo": null,
-   "website": "http://www.channel8news.sg/",
+   "website": null,
    "city": null
   }
  ]

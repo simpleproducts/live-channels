@@ -1,8 +1,11 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "ve.vpitv",
+  "ve.unionradio"
+ ],
  "channels": [
   {
    "id": "ve.vpitv",
@@ -14,7 +17,7 @@
    "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w",
    "youtubeVideoId": "SaMzkvXN0II",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q59345050",
    "description": {
     "en": "Venezuelan streaming channel",
@@ -26,34 +29,6 @@
    },
    "logo": null,
    "website": "http://www.vpitv.com/",
-   "city": "Caracas"
-  },
-  {
-   "id": "ve.globovision",
-   "name": "Globovisión",
-   "category": "news",
-   "languages": [
-    "es"
-   ],
-   "youtubeChannelId": "UCTp0PrexDQCj60zQlkzAEFw",
-   "youtubeVideoId": "gkEMxJBbqDE",
-   "embeddable": true,
-   "live": false,
-   "wikidata": "Q5571087",
-   "description": {
-    "en": "24-hour television news network in Venezuela and Latin America",
-    "es": "canal de televisión privado venezolano que transmite noticias las 24 horas.",
-    "fr": "chaîne de télévision vénézuélienne",
-    "pt-BR": "Globovisión é uma estação de televisão venezuelana sediada em Caracas, Distrito Capital."
-   },
-   "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/Globovisi%C3%B3n",
-    "es": "https://es.wikipedia.org/wiki/Globovisi%C3%B3n",
-    "fr": "https://fr.wikipedia.org/wiki/Globovisi%C3%B3n",
-    "pt-BR": "https://pt.wikipedia.org/wiki/Globovisi%C3%B3n"
-   },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-Globovisi%C3%B3n.png?width=256",
-   "website": "http://www.globovision.com/",
    "city": "Caracas"
   },
   {
@@ -99,24 +74,6 @@
    "city": null
   },
   {
-   "id": "ve.venevision",
-   "name": "Venevisión",
-   "category": "broadcast",
-   "languages": [
-    "es"
-   ],
-   "youtubeChannelId": "UCKzo7oVJPgzN7FVRHo0WC-Q",
-   "youtubeVideoId": "RtwI2fwMPGQ",
-   "embeddable": true,
-   "live": false,
-   "wikidata": null,
-   "description": {},
-   "wikipedia": {},
-   "logo": null,
-   "website": null,
-   "city": null
-  },
-  {
    "id": "ve.unionradio",
    "name": "Unión Radio",
    "category": "radio",
@@ -124,9 +81,9 @@
     "es"
    ],
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-   "youtubeVideoId": "MIOSd-3lXhM",
+   "youtubeVideoId": "6hKUqF2Pgx0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5770016",
    "description": {
     "en": "Venezuela",

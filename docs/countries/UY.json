@@ -1,8 +1,14 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026101306,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "uy.ladiaria",
+  "uy.carve",
+  "uy.delsol",
+  "uy.sarandi",
+  "uy.tvciudad"
+ ],
  "channels": [
   {
    "id": "uy.elobservadoruy",
@@ -46,9 +52,9 @@
     "es"
    ],
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
-   "youtubeVideoId": "T1hBk0GrYNg",
+   "youtubeVideoId": "fuQKw6A3qNQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -67,44 +73,6 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ladiaria-byn.png?width=256",
    "website": "https://ladiaria.com.uy/",
    "city": "Montevideo"
-  },
-  {
-   "id": "uy.canal4",
-   "name": "Canal 4",
-   "category": "broadcast",
-   "languages": [
-    "es"
-   ],
-   "youtubeChannelId": "UCp6X5jzfmwbOeclRArOi18g",
-   "youtubeVideoId": "RHUWZzLgD9U",
-   "embeddable": true,
-   "live": false,
-   "wikidata": "Q3565404",
-   "description": {
-    "en": "Uruguayan television channel",
-    "es": "canal de televisión uruguaya",
-    "fr": "Chaîne de télévision uruguayenne",
-    "pt-BR": "Canal 4 é um canal de televisão do Uruguai, fundado por Elvira Salvo, em 1961.",
-    "ko": "몬테카를로 TV(Monte Carlo TV)는 우루과이의 텔레비전 채널로, 우루과이에서 2번째로 오래된 채널이자, 우루과이 최대 규모의 민영 방송국이다.",
-    "it": "rete televisiva uruguaiana",
-    "tr": "Kanal 4, daha önce Monte Carlo Televisión olarak bilinen, Uruguay'ın Montevideo kentinde bulunan bir televizyon istasyonudur.",
-    "pl": "urugwajska stacja telewizyjna",
-    "de": "TV-Kanal in Uruguay"
-   },
-   "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/Canal_4_(Uruguayan_TV_channel)",
-    "es": "https://es.wikipedia.org/wiki/Canal_4_(Uruguay)",
-    "fr": "https://fr.wikipedia.org/wiki/Canal_4_(Uruguay)",
-    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_4_(Uruguai)",
-    "ko": "https://ko.wikipedia.org/wiki/%EB%AA%AC%ED%85%8C%EC%B9%B4%EB%A5%BC%EB%A1%9C_TV",
-    "it": "https://it.wikipedia.org/wiki/Canal_4",
-    "tr": "https://tr.wikipedia.org/wiki/Canal_4_(Uruguay)",
-    "pl": "https://pl.wikipedia.org/wiki/Canal_4",
-    "de": "https://de.wikipedia.org/wiki/Canal_4"
-   },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal4_uy.png?width=256",
-   "website": "https://www.canal4.com.uy",
-   "city": "Departamento de Montevideo"
   },
   {
    "id": "uy.tnu",
@@ -178,6 +146,62 @@
    "city": "Montevideo"
   },
   {
+   "id": "uy.teledoce",
+   "name": "Teledoce",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCimPJKAbuM6z6b6DPZz86Mw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3982807",
+   "description": {
+    "en": "Uruguayan television network",
+    "es": "canal de televisión por aire de Uruguay",
+    "fr": "chaîne de télévision uruguayenne",
+    "pt-BR": "rede de televisão uruguaia",
+    "ko": "텔레도세(스페인어: Teledoce)는 우루과이의 텔레비전 채널이다.",
+    "it": "rete televisiva uruguaiana",
+    "tr": "Teledoce, aynı zamanda Kanal 12 veya La Tele olarak da bilinir, Uruguay'ın başkenti Montevideo'da bulunan ücretsiz bir televizyon ağıdır.",
+    "pl": "Teledoce – urugwajska stacja telewizyjna, założona w 1962 roku.",
+    "de": "uruguayischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Teledoce",
+    "es": "https://es.wikipedia.org/wiki/Teledoce",
+    "fr": "https://fr.wikipedia.org/wiki/Teledoce",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Teledoce",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%85%94%EB%A0%88%EB%8F%84%EC%84%B8",
+    "it": "https://it.wikipedia.org/wiki/Teledoce",
+    "tr": "https://tr.wikipedia.org/wiki/Teledoce",
+    "pl": "https://pl.wikipedia.org/wiki/Teledoce",
+    "de": "https://de.wikipedia.org/wiki/Teledoce"
+   },
+   "logo": null,
+   "website": "http://www.teledoce.com",
+   "city": null
+  },
+  {
+   "id": "uy.vtv",
+   "name": "VTV",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCA4VRT895OOPPHq-pc2V2CQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
    "id": "uy.tvciudad",
    "name": "TV Ciudad",
    "category": "regional",
@@ -185,9 +209,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "9OtUbtXisvk",
+   "youtubeVideoId": "XPhn0cQs3R0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -204,6 +228,54 @@
    "city": "Montevideo"
   },
   {
+   "id": "uy.parlamento",
+   "name": "Parlamento del Uruguay",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCvy9D0ZwbNmvNfyQUl3RQnQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1501988",
+   "description": {
+    "en": "Bicameral legislature of Uruguay",
+    "es": "órgano que ejerce el poder legislativo de Uruguay",
+    "zh-Hans": "国会 是乌拉圭的国家立法机关。国会实行两院制，由乌拉圭参议院和乌拉圭众议院组成。参、众两院分别由31名参议员和99名众议员组成，任期五年，可连选连任。其中国会主席兼参议长由副总统兼任。众议长由众议员选举产生，任期一年。每年3月15日至12月15日为国会会期。闭会期间，由参、众两院组成常设委员会主持日常工作。",
+    "ja": "ウルグアイ議会 は、ウルグアイの立法府である。",
+    "fr": "parlement bicaméral de l'Uruguay",
+    "pt-BR": "Assembleia Geral do Uruguai é o principal órgão legislativo da República Oriental do Uruguai.",
+    "it": "L'Assemblea generale è l'organo legislativo della Repubblica Orientale dell'Uruguay costituito dalla Camera dei rappresentanti e dalla Camera dei senatori.",
+    "ru": "двухпалатный парламент Уругвая",
+    "zh-Hant": "国会 是乌拉圭的国家立法机关。国会实行两院制，由乌拉圭参议院和乌拉圭众议院组成。参、众两院分别由31名参议员和99名众议员组成，任期五年，可连选连任。其中国会主席兼参议长由副总统兼任。众议长由众议员选举产生，任期一年。每年3月15日至12月15日为国会会期。闭会期间，由参、众两院组成常设委员会主持日常工作。",
+    "ar": "الجمعية العامة في أوروغواي هي الهيئة التشريعية في أوروغواي، تتكون من المجلس الأعلى مجلس شيوخ أوروغواي الذي يضم 30 مقعداً، والمجلس الأدنى Chamber of Representatives of Uruguay ‏ الذي يضم 99 مقعداً.",
+    "pl": "Zgromadzenie Powszechne – dwuizbowy parlament w Urugwaju.",
+    "id": "badan legislatif Uruguay",
+    "de": "Die Generalversammlung von Uruguay ist das Legislativ-Organ des Staates Uruguay.",
+    "ms": "Perhimpunan Agung Uruguay atau parlimen ialah cabang perundangan kerajaan Uruguay, dan terdiri daripada dua dewan: Dewan Senator dan Dewan Perwakilan Rakyat."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/General_Assembly_of_Uruguay",
+    "es": "https://es.wikipedia.org/wiki/Asamblea_General_de_Uruguay",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%83%8F%E6%8B%89%E5%9C%AD%E5%9C%8B%E6%9C%83",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BC%9A_(%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4)",
+    "fr": "https://fr.wikipedia.org/wiki/Assembl%C3%A9e_g%C3%A9n%C3%A9rale_de_l'Uruguay",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Assembleia_Geral_do_Uruguai",
+    "it": "https://it.wikipedia.org/wiki/Assemblea_generale_dell'Uruguay",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%8F_%D0%A3%D1%80%D1%83%D0%B3%D0%B2%D0%B0%D1%8F",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%83%8F%E6%8B%89%E5%9C%AD%E5%9C%8B%E6%9C%83",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9_%D9%81%D9%8A_%D8%A3%D9%88%D8%B1%D9%88%D8%BA%D9%88%D8%A7%D9%8A",
+    "pl": "https://pl.wikipedia.org/wiki/Zgromadzenie_Powszechne",
+    "id": "https://id.wikipedia.org/wiki/Majelis_Umum_Uruguay",
+    "de": "https://de.wikipedia.org/wiki/Generalversammlung_von_Uruguay",
+    "ms": "https://ms.wikipedia.org/wiki/Perhimpunan_Agung_Uruguay"
+   },
+   "logo": null,
+   "website": "https://parlamento.gub.uy/",
+   "city": "Municipio B"
+  },
+  {
    "id": "uy.carve",
    "name": "Carve Deportiva",
    "category": "sports",
@@ -211,9 +283,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "MKZMT0zR4kY",
+   "youtubeVideoId": "zS3Jx7b1onE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -236,9 +308,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "UBSPEZoH1hI",
+   "youtubeVideoId": "p5ZYgmVE_rs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -254,9 +326,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "cbO8VDDL26Y",
+   "youtubeVideoId": "Q0-xtmAygew",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

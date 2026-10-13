@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "in.indiatv",
+  "in.aajtak",
+  "in.ndtvindia",
+  "in.ndtv",
+  "in.republicworld",
+  "in.timesnow",
+  "in.abpnews",
+  "in.zeenews",
+  "in.wion"
+ ],
  "channels": [
   {
    "id": "in.indiatv",
@@ -13,9 +23,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ",
-   "youtubeVideoId": "bSi-UTcU-Gw",
+   "youtubeVideoId": "BSOMezdKaC8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6019415",
    "description": {
     "en": "News in English: Latest News, Breaking News, Live Updates - IndiaTV News",
@@ -43,9 +53,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-   "youtubeVideoId": "ZdmMJE4zUvY",
+   "youtubeVideoId": "-07O27wfn-M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3396358",
    "description": {
     "en": "Hindi news channel",
@@ -69,9 +79,9 @@
     "en"
    ],
    "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
-   "youtubeVideoId": "yOrVn6rxuHw",
+   "youtubeVideoId": "UVScfZiIXbw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -87,9 +97,9 @@
     "en"
    ],
    "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-   "youtubeVideoId": "ZZwjtl_LuT0",
+   "youtubeVideoId": "34_iEZaeudY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2985356",
    "description": {
     "en": "Indian news network",
@@ -130,9 +140,9 @@
     "en"
    ],
    "youtubeChannelId": "UCwqusr8YDwM-3mEYTDeJHzw",
-   "youtubeVideoId": "KvRjEci4FKQ",
+   "youtubeVideoId": "Jru9mQ7LtEY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28180276",
    "description": {
     "en": "Indian news channel",
@@ -158,9 +168,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
-   "youtubeVideoId": "4SGMa9IjnfA",
+   "youtubeVideoId": "50U0VyxyUL8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7806547",
    "description": {
     "en": "English News Channel of India",
@@ -186,9 +196,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
-   "youtubeVideoId": "eVv_Ta1CAkw",
+   "youtubeVideoId": "8wy-KmwX8gU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3630156",
    "description": {
     "en": "Indian news channel",
@@ -219,9 +229,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCIvaYmXn910QMdemBG3v1pQ",
-   "youtubeVideoId": "mDJZGwyNd0U",
+   "youtubeVideoId": "rNsbdiKhR0A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5287969",
    "description": {
     "en": "news channel of Zee Media",
@@ -251,9 +261,9 @@
     "en"
    ],
    "youtubeChannelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-   "youtubeVideoId": "7VeobdL8ceE",
+   "youtubeVideoId": "hpbyFqsV_-Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q23058781",
    "description": {
     "en": "Indian television news channel",
@@ -290,9 +300,9 @@
     "en"
    ],
    "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-   "youtubeVideoId": "Unr9smxfGOw",
+   "youtubeVideoId": "1IgAketWV_c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5689808",
    "description": {
     "en": "24-hour English language television network based in India",
@@ -316,9 +326,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCKwucPzHZ7zCUIf7If-Wo1g",
-   "youtubeVideoId": "S3vxHoHspgo",
+   "youtubeVideoId": "8vZ48VN-i_k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q349806",
    "description": {
     "en": "Indian Government News Channel",
@@ -343,9 +353,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
-   "youtubeVideoId": "qrhdycN-wBM",
+   "youtubeVideoId": "bx6ResPigrg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q19891764",
    "description": {
     "en": "News Channel",
@@ -368,9 +378,9 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "r0XA_jDLkFs",
+   "youtubeVideoId": "dAHTDxnG5Ck",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1023924",
    "description": {
     "en": "Indian English-language news television channel",
@@ -410,9 +420,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
-   "youtubeVideoId": "xJjDH9YzqSU",
+   "youtubeVideoId": "I0uvUFtpr6U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65042846",
    "description": {
     "en": "television station in India",
@@ -434,15 +444,259 @@
     "en"
    ],
    "youtubeChannelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
-   "youtubeVideoId": "x_Sz0COMVWQ",
+   "youtubeVideoId": "mk7hDo0VBnA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "in.mirrornow",
+   "name": "Mirror Now",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+   "youtubeVideoId": "sNoQrqdzCH4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q20647988",
+   "description": {
+    "en": "Indian, English-language news channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Mirror_Now"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mirror_Now.svg?width=256",
+   "website": "http://www.mirrornow.in/",
+   "city": "मुम्बई"
+  },
+  {
+   "id": "in.firstpost",
+   "name": "Firstpost",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCz8QaiQxApLq8sLNcszYyJw",
+   "youtubeVideoId": "w7V4NLr72jI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q5453524",
+   "description": {
+    "en": "Indian news organization",
+    "es": "organización de noticias de la India",
+    "zh-Hans": "印度网站",
+    "ja": "ファーストポスト（Firstpost）は、インドのニュースサイト。リライアンス・インダストリーズの子会社グループであるニュース18グループが運営している。",
+    "fr": "organisation d'actualités indiennes",
+    "pt-BR": "Firstpost é um site de notícias indiano de propriedade do Network18 Group, que também administra a CNN-News18 e a CNBC TV18.",
+    "zh-Hant": "印度报纸",
+    "id": "Firstpost adalah sebuah situs web berita dan media India."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Firstpost",
+    "es": "https://es.wikipedia.org/wiki/Firstpost",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%AC%AC%E4%B8%80%E9%82%AE%E6%8A%A5",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%9D%E3%82%B9%E3%83%88",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Firstpost",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%AC%AC%E4%B8%80%E9%82%AE%E6%8A%A5",
+    "id": "https://id.wikipedia.org/wiki/Firstpost"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Firstpost.com_Logo.svg?width=256",
+   "website": "http://www.firstpost.com/",
+   "city": "मुम्बई"
+  },
+  {
+   "id": "in.ani",
+   "name": "ANI News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
+   "youtubeVideoId": "4e0Zknef2dU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2613165",
+   "description": {
+    "en": "Indian news agency",
+    "zh-Hans": "印度通讯社",
+    "ja": "インドの通信社",
+    "fr": "agence de presse indienne",
+    "ru": "информационное агентство",
+    "zh-Hant": "印度通讯社",
+    "ar": "وكالة أنباء هندية",
+    "tr": "Hint haber ajansı",
+    "pl": "Asian News International (ANI) – indyjska agencja informacyjna.",
+    "id": "Asian News International (ANI) adalah sebuah agensi berita India yang berbasis di New Delhi yang menyediakan umpan berita media jamak tersindikasi ke banyak biro-berita di India dan luar negeri.",
+    "de": "indische Propaganda-Agentur | Cancelling"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Asian_News_International",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%BA%9E%E6%B4%B2%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E",
+    "fr": "https://fr.wikipedia.org/wiki/Asian_News_International",
+    "ru": "https://ru.wikipedia.org/wiki/Asian_News_International",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%BA%9E%E6%B4%B2%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%A8%D8%A7%D8%A1_%D8%A2%D8%B3%D9%8A%D8%A7_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+    "pl": "https://pl.wikipedia.org/wiki/Asian_News_International",
+    "id": "https://id.wikipedia.org/wiki/Asian_News_International",
+    "de": "https://de.wikipedia.org/wiki/Asian_News_International"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Asian_News_International.svg?width=256",
+   "website": "https://aninews.in/",
+   "city": "नई दिल्ली"
+  },
+  {
+   "id": "in.cnbctv18",
+   "name": "CNBC-TV18",
+   "category": "economy",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+   "youtubeVideoId": "QDk6HblRt6Y",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3631483",
+   "description": {
+    "en": "Indian pay television news channel owned by CNBC",
+    "id": "perusahaan asal Amerika Serikat",
+    "ms": "CNBC TV-18 adalah salah satu urusniaga terkemuka India."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNBC_TV18",
+    "id": "https://id.wikipedia.org/wiki/CNBC_TV18",
+    "ms": "https://ms.wikipedia.org/wiki/CNBC-TV18"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNBC_TV18_logo.png?width=256",
+   "website": "https://www.cnbctv18.com/",
+   "city": "मुम्बई"
+  },
+  {
+   "id": "in.etnow",
+   "name": "ET Now",
+   "category": "economy",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCI_mwTKUhicNzFrhm33MzBQ",
+   "youtubeVideoId": "vlTdDYsFBOY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q5324510",
+   "description": {
+    "en": "Indian business television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ET_Now"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ET_NOW_220px.png?width=256",
+   "website": "http://www.etnow.tv/",
+   "city": "मुम्बई"
+  },
+  {
+   "id": "in.ndtvprofit",
+   "name": "NDTV Profit",
+   "category": "economy",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC3uJIdRFTGgLWrUziaHbzrg",
+   "youtubeVideoId": "tV14PB08API",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q6953329",
+   "description": {
+    "en": "Indian Business tv channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NDTV_BQ_Prime"
+   },
+   "logo": null,
+   "website": "http://www.ndtvprofit.com",
+   "city": "नई दिल्ली"
+  },
+  {
+   "id": "in.cnbcawaaz",
+   "name": "CNBC Awaaz",
+   "category": "economy",
+   "languages": [
+    "hi"
+   ],
+   "youtubeChannelId": "UCQIycDaLsBpMKjOCeaKUYVg",
+   "youtubeVideoId": "xnSzODVUN_U",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q5013075",
+   "description": {
+    "en": "Indian television channel",
+    "zh-Hans": "CNBC Awaaz是印度印地语付费电视商业新闻频道，由位于总部位于新德里的CNBC和TV18所有。",
+    "fr": "CNBC Awaaz est une chaîne indienne diffusant des nouvelles financières lancée conjointement par CNBC, et Network18 Group.",
+    "zh-Hant": "CNBC Awaaz是印度印地语付费电视商业新闻频道，由位于总部位于新德里的CNBC和TV18所有。",
+    "ar": "سي إن بي سي أواز هي قناة أخبار اقتصادية هندية مدفوعة، تملكها سي إن بي سي ومقرها في نيودلهي.",
+    "ms": "CNBC Awaaz merupakan usahasama CNBC dan Television Eighteen India Limited (TV18)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNBC_Awaaz",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/CNBC_Awaaz",
+    "fr": "https://fr.wikipedia.org/wiki/CNBC_Awaaz",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/CNBC_Awaaz",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%A5%D9%86_%D8%A8%D9%8A_%D8%B3%D9%8A_%D8%A3%D9%88%D8%A7%D8%B2",
+    "ms": "https://ms.wikipedia.org/wiki/CNBC_Awaaz"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNBC_Awaaz_logo.png?width=256",
+   "website": "http://hindi.moneycontrol.com/tv/",
+   "city": "मुम्बई"
+  },
+  {
+   "id": "in.zeebusiness",
+   "name": "Zee Business",
+   "category": "economy",
+   "languages": [
+    "hi"
+   ],
+   "youtubeChannelId": "UCkXopQ3ubd-rnXnStZqCl2w",
+   "youtubeVideoId": "buovmJbbBc4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q8068393",
+   "description": {
+    "en": "Zee Media Corporation Limited is an Indian mass media and news broadcasting company based in Mumbai."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Zee_Business"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Zee_Business_2025.svg?width=256",
+   "website": "http://biz.zeenews.com/",
+   "city": null
+  },
+  {
+   "id": "in.sansadtv",
+   "name": "Sansad TV",
+   "category": "government",
+   "languages": [
+    "hi",
+    "en"
+   ],
+   "youtubeChannelId": "UCISgnSNwqQ2i8lhCun3KtQg",
+   "youtubeVideoId": "MbEP8mEKpRc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q106253885",
+   "description": {
+    "en": "Indian television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sansad_TV"
+   },
+   "logo": null,
+   "website": "http://sansadtv.nic.in/",
+   "city": "दिल्ली"
   }
  ]
 }

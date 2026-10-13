@@ -1,0 +1,397 @@
+{
+ "schema": 2,
+ "code": "CN",
+ "version": 2026101312,
+ "defaultTiles": [
+  "cn.cgtn",
+  "cn.cgtnes",
+  "cn.cgtnfr",
+  "cn.cgtnru",
+  "cn.cgtneurope"
+ ],
+ "channels": [
+  {
+   "id": "cn.cgtn",
+   "name": "CGTN",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCgrNz-aDmcr2uuto8_DL2jg",
+   "youtubeVideoId": "0i7n3r01L2U",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q28089296",
+   "description": {
+    "en": "Chinese international state-media organization",
+    "es": "China Global Television Network (CGTN) es la división internacional de la organización de medios estatales de la Televisión Central de China (CCTV), cuya sede se encuentra en Beijing, China.",
+    "zh-Hans": "中国央视的全球电视网",
+    "ja": "中国中央電視台が所有、運営する多言語テレビチャンネルのテレビネットワーク",
+    "fr": "organisation internationale des médias d'État chinois",
+    "pt-BR": "Empresa Internacional de Mídia Estatal Chinesa",
+    "ko": "중국국제텔레비전(중국어 간체: 中国环球电视网)은 중화인민공화국의 국가라디오영화텔레비전총부(廣播電影電視部) 소속 국영 방송 텔레비전 방송국인 중국중앙텔레비전(中國中央電視台)의 국제방송 텔레비전 방송국이다.",
+    "it": "emittente",
+    "zh-Hant": "中國央視的全球電視網",
+    "ar": "شبكة تلفزيون الصين الدولية سابقًا سي سي تي في الدولية هي مجموعة من ست قنوات تلفزيونية دولية متعددة اللغات يملكها ويشغلها تلفزيون الصين المركزي وهي إحدى وسائل الإعلام الحكومية الصينية.",
+    "tr": "Çin Merkezi Televizyon'un sahip olduğu altı uluslararası çok dilli televizyon kanalı grubu",
+    "id": "China Global Television Network, sebelumnya bernama CCTV International, merupakan kelompok dari 6 saluran televisi berbahasa non-Mandarin yang dimiliki dan dioperasikan oleh China Central Television (CCTV).",
+    "de": "chinisescher Staatssender für die Berichterstattung im Ausland",
+    "ms": "Rangkaian Televisyen Global China atau bahasa Inggeris:China Global Television Network, sebelumnya bernama CCTV Antarabangsa, merupakan kelompok dari 6 saluran televisyen dalam bahasa non-Mandarin yang dimiliki dan dioperasikan oleh Televisyen Pusat China (CCTV)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/China_Global_Television_Network",
+    "es": "https://es.wikipedia.org/wiki/China_Global_Television_Network",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91",
+    "ja": "https://ja.wikipedia.org/wiki/CGTN_(%E6%94%BE%E9%80%81%E4%BA%8B%E6%A5%AD%E8%80%85)",
+    "fr": "https://fr.wikipedia.org/wiki/China_Global_Television_Network",
+    "pt-BR": "https://pt.wikipedia.org/wiki/China_Global_Television_Network",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EA%B5%AD%EC%A0%9C%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%83%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B5%D9%8A%D9%86_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+    "tr": "https://tr.wikipedia.org/wiki/%C3%87in_K%C3%BCresel_Televizyon_A%C4%9F%C4%B1",
+    "id": "https://id.wikipedia.org/wiki/China_Global_Television_Network",
+    "ms": "https://ms.wikipedia.org/wiki/Rangkaian_Televisyen_Global_China"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CGTN-2.svg?width=256",
+   "website": "https://www.cgtn.com",
+   "city": "北京市"
+  },
+  {
+   "id": "cn.cgtneurope",
+   "name": "CGTN Europe",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
+   "youtubeVideoId": "GgEjdn0BZ0E",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q97238770",
+   "description": {
+    "en": "television news channel",
+    "zh-Hans": "中央广播电视总台旗下国际频道中国环球电视网第三个海外分台",
+    "ko": "CGTN 유럽(CGTN Europe, 중국어: 中国环球电视网欧洲分台)은 중국국제텔레비전의 텔레비전 채널 중 하나이다.",
+    "zh-Hant": "中央广播电视总台旗下国际频道中国环球电视网第三个海外分台",
+    "ar": "سي جي تي إن أوروبا هي النسخة الأمريكية من سي جي تي إن وهي مجموعة من القنوات الإخبارية باللغة الدولية تديرها China Media Group.",
+    "nl": "CGTN Europe is een televisiezender van de Chinese publieke omroep China Central Television."
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E6%AC%A7%E6%B4%B2%E5%88%86%E5%8F%B0",
+    "ko": "https://ko.wikipedia.org/wiki/CGTN_%EC%9C%A0%EB%9F%BD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E6%AC%A7%E6%B4%B2%E5%88%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%AC%D9%8A_%D8%AA%D9%8A_%D8%A5%D9%86_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
+    "nl": "https://nl.wikipedia.org/wiki/CGTN_Europe"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CGTN_Europe_Logo.png?width=256",
+   "website": "https://www.cgtn.com/europe",
+   "city": null
+  },
+  {
+   "id": "cn.cgtnes",
+   "name": "CGTN Español",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCd94YCD7yp6d-YZSRYWyeFA",
+   "youtubeVideoId": "0t5RT9FYCF8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1442139",
+   "description": {
+    "en": "television channel",
+    "es": "red de medios televisivos de China",
+    "zh-Hans": "媒体",
+    "ja": "CGTNスペイン語 は中華人民共和国の国営テレビ局中国中央電視台の中国国際電視台のスペイン語による国際ニュース放送チャンネルである。24時間放送を行なっている。かつては「CCTV-Español」「CCTV-E」として知られていた。",
+    "fr": "chaîne de télévision",
+    "ko": "CGTN 스페인어(CGTN-Español, 중국어: 中国环球电视网西班牙语频道)은 중국국제텔레비전의 텔레비전 채널 중 하나이다.",
+    "it": "rete televisiva cinese",
+    "zh-Hant": "媒体",
+    "ar": "قناة تلفزيونية",
+    "nl": "Chinese televisiezender",
+    "pl": "CGTN Spanish – kanał telewizyjny należący do Chińskiej Telewizji Centralnej, nadawany w języku hiszpańskim.",
+    "id": "CGTN bahasa Spanyol, sebelumnya CCTV-E, adalah saluran hiburan dan berita berbahasa Spanyol yang terfokus pada jaringan televisi, CGTN di Republik Rakyat Tiongkok.",
+    "de": "Fernsehkanal",
+    "ms": "CGTN Sepanyol ialah sebuah saluran hiburan dan berita berbahasa Sepanyol dimiliki oleh Televisyen Pusat China (CCTV) yang berasal dari China, dan merupakan sebahagian daripada Kementerian Penerangan Kerajaan China."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CGTN_Spanish",
+    "es": "https://es.wikipedia.org/wiki/CGTN_Espa%C3%B1ol",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E9%A2%91%E9%81%93",
+    "ja": "https://ja.wikipedia.org/wiki/CGTN%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E8%AA%9E",
+    "fr": "https://fr.wikipedia.org/wiki/CGTN-Espa%C3%B1ol",
+    "ko": "https://ko.wikipedia.org/wiki/CGTN_%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4",
+    "it": "https://it.wikipedia.org/wiki/CGTN-Espa%C3%B1ol",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E9%A2%91%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%AC%D9%8A_%D8%AA%D9%8A_%D8%A5%D9%86_%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9",
+    "nl": "https://nl.wikipedia.org/wiki/CCTV-Espa%C3%B1ol",
+    "pl": "https://pl.wikipedia.org/wiki/CGTN_Spanish",
+    "id": "https://id.wikipedia.org/wiki/CGTN_bahasa_Spanyol",
+    "ms": "https://ms.wikipedia.org/wiki/CGTN_Sepanyol"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CGTN_Espanol.png?width=256",
+   "website": "https://espanol.cgtn.com",
+   "city": "北京市"
+  },
+  {
+   "id": "cn.cgtnfr",
+   "name": "CGTN Français",
+   "category": "news",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCcfLuU0NFT0ZRoQy4jk6GdA",
+   "youtubeVideoId": "oPLa1msqG7E",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1442151",
+   "description": {
+    "en": "French language entertainment and news channel of China Global Television Network",
+    "es": "CGTN-Français es un canal de televisión de la CCTV que emite las 24 horas sólo en francés.",
+    "zh-Hans": "媒体",
+    "ja": "CGTNフランス語 は中華人民共和国の国営テレビ局中国中央電視台の中国国際電視台のフランス語による国際ニュース放送チャンネルである。24時間放送を行なっている。かつては「CCTV-Français」「CCTV-F」として知られていた。",
+    "fr": "chaîne de télévision",
+    "ko": "CGTN 프랑스어(CGTN-Français, 중국어: 中国环球电视网法语频道)은 중국국제텔레비전의 텔레비전 채널 중 하나이다.",
+    "it": "rete televisiva cinese",
+    "zh-Hant": "媒体",
+    "ar": "CCTV بالفرنسية هي قناة تلفزيونية وطنية لجمهورية الصين الشعبية.",
+    "nl": "zender van de Chinese publieke omroep",
+    "pl": "CGTN-F (CGTN-Français) – niekodowany (FTA) kanał telewizji satelitarnej w języku francuskim należący do Centralnej Telewizji Chińskiej.",
+    "id": "CGTN bahasa Prancis, sebelumnya CCTV-F, adalah saluran hiburan dan berita berbahasa Prancis yang terfokus pada jaringan televisi, CGTN di Republik Rakyat Tiongkok."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CGTN_French",
+    "es": "https://es.wikipedia.org/wiki/CGTN_en_franc%C3%A9s",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E6%B3%95%E8%AF%AD%E9%A2%91%E9%81%93",
+    "ja": "https://ja.wikipedia.org/wiki/CGTN%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E",
+    "fr": "https://fr.wikipedia.org/wiki/CGTN-Fran%C3%A7ais",
+    "ko": "https://ko.wikipedia.org/wiki/CGTN_%ED%94%84%EB%9E%91%EC%8A%A4%EC%96%B4",
+    "it": "https://it.wikipedia.org/wiki/CGTN-Fran%C3%A7ais",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E6%B3%95%E8%AF%AD%E9%A2%91%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%AC%D9%8A_%D8%AA%D9%8A_%D8%A5%D9%86_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9",
+    "nl": "https://nl.wikipedia.org/wiki/CCTV-Fran%C3%A7ais",
+    "pl": "https://pl.wikipedia.org/wiki/CGTN-F",
+    "id": "https://id.wikipedia.org/wiki/CGTN_bahasa_Prancis"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CGTN_-_fran%C3%A7ais.png?width=256",
+   "website": "https://francais.cgtn.com",
+   "city": "北京市"
+  },
+  {
+   "id": "cn.cgtnru",
+   "name": "CGTN на русском",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCA2WHG4EpVqul3TYjAF0k2A",
+   "youtubeVideoId": "C3BKx6JxCQU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2944607",
+   "description": {
+    "en": "Russian language international news, entertainment, and education television channel owned by China Central Television",
+    "es": "CGTN en ruso(en chino:中国国际电视台俄语频道, en idioma local como CGTN-Русский) es un canal de televisión en idioma ruso de noticias internacionales, entretenimiento y educación.",
+    "zh-Hans": "媒体",
+    "ja": "CGTNロシア語 は中華人民共和国の国営テレビ局中国中央電視台の中国国際電視台のロシア語による国際ニュース放送チャンネルである。24時間放送を行なっている。かつては「CCTV-Pусский」として知られていた。",
+    "ko": "CGTN 러시아어(CGTN-Pусский, 중국어: 中国环球电视网俄语频道)은 중국국제텔레비전의 텔레비전 채널 중 하나이다.",
+    "ru": "CGTN-Русский — международный телеканал «Центрального телевидения Китая», вещающий на русском языке.",
+    "zh-Hant": "媒体",
+    "ar": "سي جي تي إن الروسية هي قناة تلفزيونية وطنية لجمهورية الصين الشعبية.",
+    "pl": "CGTN-R – niekodowany (FTA) kanał telewizji satelitarnej w języku rosyjskim należący do Centralnej Telewizji Chińskiej.",
+    "id": "CGTN bahasa Rusia adalah saluran televisi berita internasional, hiburan, dan pendidikan berbahasa Rusia yang terfokus pada jaringan televisi, CGTN di Republik Rakyat Tiongkok.",
+    "de": "Fernsehkanal",
+    "ms": "CGTN Rusia adalah saluran berita, hiburan, dan pendidikan antarabangsa bahasa Rusia yang dimiliki oleh China Central Television."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CGTN_Russian",
+    "es": "https://es.wikipedia.org/wiki/CGTN_en_ruso",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E4%BF%84%E8%AF%AD%E9%A2%91%E9%81%93",
+    "ja": "https://ja.wikipedia.org/wiki/CGTN%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E",
+    "ko": "https://ko.wikipedia.org/wiki/CGTN_%EB%9F%AC%EC%8B%9C%EC%95%84%EC%96%B4",
+    "ru": "https://ru.wikipedia.org/wiki/CGTN-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E4%BF%84%E8%AF%AD%E9%A2%91%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%AC%D9%8A_%D8%AA%D9%8A_%D8%A5%D9%86_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9",
+    "pl": "https://pl.wikipedia.org/wiki/CGTN-R",
+    "id": "https://id.wikipedia.org/wiki/CGTN_bahasa_Rusia",
+    "ms": "https://ms.wikipedia.org/wiki/CGTN_Rusia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CGTN_Russian.png?width=256",
+   "website": "https://russian.cgtn.com/",
+   "city": null
+  },
+  {
+   "id": "cn.cgtnafrica",
+   "name": "CGTN Africa",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCMeYPU1YfXjxsUa6QXWsfjg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10872818",
+   "description": {
+    "en": "television channel",
+    "zh-Hans": "媒体",
+    "ko": "CGTN 아프리카(CGTN Africa, 중국어: 中国环球电视网非洲分台)은 중국국제텔레비전의 텔레비전 채널 중 하나이다.",
+    "zh-Hant": "媒体",
+    "ar": "قناة صينية",
+    "nl": "Keniaanse televisiezender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CGTN_Africa",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E9%9D%9E%E6%B4%B2%E5%88%86%E5%8F%B0",
+    "ko": "https://ko.wikipedia.org/wiki/CGTN_%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E9%9D%9E%E6%B4%B2%E5%88%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%AC%D9%8A_%D8%AA%D9%8A_%D8%A5%D9%86_%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
+    "nl": "https://nl.wikipedia.org/wiki/CGTN_Africa"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CGTN_Africa.png?width=256",
+   "website": "https://www.cgtn.com/africa",
+   "city": null
+  },
+  {
+   "id": "cn.cctvvna",
+   "name": "CCTV Video News Agency",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCmv5DbNpxH8X2eQxJBqEjKQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q39048616",
+   "description": {
+    "en": "video news agency specializing in video on demand based in Beijing belonging to the state-owned China Central Television televised news network",
+    "zh-Hans": "中央广播电视总台下属唯一视频通讯社",
+    "fr": "agence de presse télévisée Chinoise",
+    "zh-Hant": "中央广播电视总台下属唯一视频通讯社"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CCTV%2B",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/CCTV%2B",
+    "fr": "https://fr.wikipedia.org/wiki/CCTV%2B",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/CCTV%2B"
+   },
+   "logo": null,
+   "website": "http://www.cctvplus.com/",
+   "city": null
+  },
+  {
+   "id": "cn.newchinatv",
+   "name": "New China TV (Xinhua)",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCHBDXQDmqnaqIEPdEapEFVQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q204839",
+   "description": {
+    "en": "official press agency of the People's Republic of China",
+    "es": "agencia de noticias de China",
+    "zh-Hans": "中国官方通讯社",
+    "ja": "中華人民共和国の国営通信社",
+    "fr": "agence de presse nationale chinoise",
+    "pt-BR": "A Xinhua ou Nova China é a agência de notícias estatal oficial do governo da República Popular da China, sendo a maior agência de notícias do país.",
+    "ko": "중화인민공화국의 관영 통신사",
+    "it": "agenzia di stampa ufficiale cinese",
+    "ru": "китайское информационное агентство",
+    "zh-Hant": "中國官方通訊社",
+    "ar": "وكالة أنباء شينخوا هي وكالة الأنباء الرسميَّة لجمهورية الصين الشعبية.",
+    "tr": "Çin Halk Cumhuriyeti'nin resmî haber ajansı",
+    "nl": "Xinhua of Xinhua News Agency is de officiële staatspers van de Volksrepubliek China (VRC) en het grootste centrum in het land dat informatie verzamelt voor persconferenties.",
+    "pl": "Agencja Informacyjna Xinhua – państwowa agencja prasowa Chińskiej Republiki Ludowej i najważniejsza w Chinach instytucja zajmująca się zbieraniem i obróbką informacji prasowych, a także organizacją konferencji z udziałem polityków i instytucji rządowych.",
+    "sv": "Xinhua eller Nya Kina är den officiella nyhetsbyrån för den kinesiska regeringen och står direkt under Kinas kommunistiska partis avdelning för samhällsinformation.",
+    "id": "Xinhua adalah kantor berita resmi pemerintah Republik Rakyat Tiongkok dan merupakan yang terbesar di negara tersebut.",
+    "de": "Nachrichtenagentur der Regierung der Volksrepublik China",
+    "ms": "Agensi Berita Xinhua ialah agensi akhbar rasmi kerajaan Republik Rakyat China (PRC) dan pusat pengumpulan maklumat dan persidangan akhbar terbesar di RRC."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Xinhua_News_Agency",
+    "es": "https://es.wikipedia.org/wiki/Xinhua",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%96%B0%E5%8D%8E%E7%A4%BE",
+    "ja": "https://ja.wikipedia.org/wiki/%E6%96%B0%E8%8F%AF%E7%A4%BE",
+    "fr": "https://fr.wikipedia.org/wiki/Xinhua",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Xinhua",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8B%A0%ED%99%94%ED%86%B5%EC%8B%A0%EC%82%AC",
+    "it": "https://it.wikipedia.org/wiki/Agenzia_Nuova_Cina",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%8C%D1%85%D1%83%D0%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%96%B0%E5%8D%8E%E7%A4%BE",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%88%D9%83%D8%A7%D9%84%D8%A9_%D8%A3%D9%86%D8%A8%D8%A7%D8%A1_%D8%B4%D9%8A%D9%86%D8%AE%D9%88%D8%A7",
+    "tr": "https://tr.wikipedia.org/wiki/Xinhua_Tongxunshe",
+    "nl": "https://nl.wikipedia.org/wiki/Persbureau_Xinhua",
+    "pl": "https://pl.wikipedia.org/wiki/Xinhua",
+    "sv": "https://sv.wikipedia.org/wiki/Nya_Kina",
+    "id": "https://id.wikipedia.org/wiki/Xinhua",
+    "de": "https://de.wikipedia.org/wiki/Xinhua",
+    "ms": "https://ms.wikipedia.org/wiki/Agensi_Berita_Xinhua"
+   },
+   "logo": null,
+   "website": "https://www.news.cn",
+   "city": "北京市"
+  },
+  {
+   "id": "cn.cctv",
+   "name": "CCTV中国中央电视台",
+   "category": "broadcast",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCcLK3j-XWdGBnt5bR9NJHaQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q207936",
+   "description": {
+    "en": "Chinese media organization providing a Communist Party-run propaganda channel network",
+    "es": "servicio publico de televisión de la república Popular China",
+    "zh-Hans": "中华人民共和国国家电视台",
+    "ja": "中国の国営テレビ局",
+    "fr": "groupe audiovisuel public chinois",
+    "pt-BR": "emissora estatal da República Popular da China",
+    "ko": "중화인민공화국의 국영 텔레비전 방송사",
+    "it": "ente radiotelevisivo pubblico cinese",
+    "ru": "основной телевещатель на территории материкового Китая",
+    "zh-Hant": "中華人民共和國國家電視台",
+    "ar": "التلفزيون والاذاعة الرئيسية الرسمية في الصين",
+    "tr": "Çin Merkez Televizyonu veya yaygın kısaltma ile CCTV, Çin Halk Cumhuriyeti Devlet Konseyi'ne doğrudan bağlı, bakanlık düzeyinde bir kamu kuruluşu olan Çin Medya Grubu bünyesindeki ulusal devlet televizyonudur.",
+    "nl": "bedrijf in Volksrepubliek China",
+    "pl": "Centralna Telewizja Chińska, CCTV – telewizja publiczna w Chinach uruchomiona 2 września 1958 roku.",
+    "sv": "Public Service-nätverk i Kina",
+    "id": "Jaringan Televisi di Tiongkok",
+    "de": "chinesischer Fernsehsender",
+    "ms": "Televisyen Pusat China merupakan penyiar televisyen utama di Tanah Besar China."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/China_Central_Television",
+    "es": "https://es.wikipedia.org/wiki/Televisi%C3%B3n_Central_de_China",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%A4%AE%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision_centrale_de_Chine",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Televis%C3%A3o_Central_da_China",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EC%A4%91%EC%95%99%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84",
+    "it": "https://it.wikipedia.org/wiki/CCTV_(azienda)",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9A%D0%B8%D1%82%D0%B0%D1%8F",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B5%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A",
+    "tr": "https://tr.wikipedia.org/wiki/%C3%87in_Merkez_Televizyonu",
+    "nl": "https://nl.wikipedia.org/wiki/China_Central_Television",
+    "pl": "https://pl.wikipedia.org/wiki/Centralna_Telewizja_Chi%C5%84ska",
+    "sv": "https://sv.wikipedia.org/wiki/China_Central_Television",
+    "id": "https://id.wikipedia.org/wiki/China_Central_Television",
+    "de": "https://de.wikipedia.org/wiki/China_Central_Television",
+    "ms": "https://ms.wikipedia.org/wiki/Televisyen_Pusat_China"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CCTVNewLogo.svg?width=256",
+   "website": "https://www.cctv.com/",
+   "city": "朝阳区"
+  }
+ ]
+}

@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "jp.fnn",
+  "jp.nhkworld",
+  "jp.ann",
+  "jp.tbs",
+  "jp.ntvnews",
+  "jp.weathernews",
+  "jp.mbs",
+  "jp.htb",
+  "jp.satv"
+ ],
  "channels": [
   {
    "id": "jp.ann",
@@ -12,9 +22,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "V1Oa0GYWp8w",
+   "youtubeVideoId": "Hwz9zXCRzlw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q843772",
    "description": {
     "en": "Japanese television network",
@@ -50,9 +60,9 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "ZmgqaN9gDZY",
+   "youtubeVideoId": "yciAAiQ6Xik",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16143608",
    "description": {
     "en": "Internet news website",
@@ -77,9 +87,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "hOGlDgPuOAU",
+   "youtubeVideoId": "6IjQ0SKSa-M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11504671",
    "description": {
     "en": "Japanese television news network",
@@ -107,7 +117,7 @@
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
    "youtubeVideoId": "6MVkqYNAqsg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q124919956",
    "description": {
     "ja": "フジテレビ系FNN28局のニュースサイト"
@@ -129,7 +139,7 @@
    "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A",
    "youtubeVideoId": "IimtbuqYIE8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1191688",
    "description": {
     "en": "international service of the Japanese public radio-television",
@@ -179,9 +189,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "ZMZGyeZa-Qs",
+   "youtubeVideoId": "QXjbyUVJdUw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q492412",
    "description": {
     "en": "Commercial weather service company based in Chiba, Japan.",
@@ -257,6 +267,32 @@
    "city": "港区"
   },
   {
+   "id": "jp.abemanews",
+   "name": "ABEMAニュース",
+   "category": "news",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCk5a240pQsTVT9CWPnTyIJw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q28688104",
+   "description": {
+    "zh-Hans": "AbemaNews股份有限公司 是Cyber Agent和朝日電視台共同出資設立的網路新聞頻道，以及新聞節目的製作企業。ABEMA新闻频道 在2016年4月11日正式開播。",
+    "ja": "ニュース専門チャンネル",
+    "zh-Hant": "AbemaNews股份有限公司 是Cyber Agent和朝日電視台共同出資設立的網路新聞頻道，以及新聞節目的製作企業。ABEMA新闻频道 在2016年4月11日正式開播。"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/AbemaNews",
+    "ja": "https://ja.wikipedia.org/wiki/ABEMA_NEWS",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/AbemaNews"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ABEMANEWS2019.jpg?width=256",
+   "website": "http://abemanews.co.jp/",
+   "city": "東京都"
+  },
+  {
    "id": "jp.tvtokyobiz",
    "name": "テレ東BIZ",
    "category": "economy",
@@ -286,7 +322,7 @@
    "youtubeChannelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
    "youtubeVideoId": "soT0yMSldwI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11231222",
    "description": {
     "ja": "毎日放送（MBSテレビ）とMBSラジオが放送しているニュース番組のタイトル・総称"
@@ -308,7 +344,7 @@
    "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
    "youtubeVideoId": "tvgbZZYS4Nk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -326,7 +362,7 @@
    "youtubeChannelId": "UCvF5vIejmf-H_XSluaBldfg",
    "youtubeVideoId": "52hB_eOFukI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

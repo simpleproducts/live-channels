@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "es.rtve24h",
+  "es.euronewses",
+  "es.3cat324",
+  "es.libertaddigital",
+  "es.elpais",
+  "es.elmundo",
+  "es.canalsur",
+  "es.eitb",
+  "es.tvg"
+ ],
  "channels": [
   {
    "id": "es.rtve24h",
@@ -14,7 +24,7 @@
    "youtubeChannelId": "UC7QZIf0dta-XPXsp9Hv4dTw",
    "youtubeVideoId": "b4tE5aKhtlg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -32,7 +42,7 @@
    "youtubeChannelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
    "youtubeVideoId": "O9mOtdZ-nSk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q8478",
    "description": {
     "en": "pan-European news television channel",
@@ -87,9 +97,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "Hy1F2cpGbyA",
+   "youtubeVideoId": "L3h1JWBPgWk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -143,7 +153,7 @@
    "youtubeChannelId": "UCKseJ43xWvnywQzl6kYbf0g",
    "youtubeVideoId": "499wgS85QKQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -159,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "FTnUSj8wWf8",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -202,6 +212,111 @@
    "city": "Madrid"
   },
   {
+   "id": "es.lasexta",
+   "name": "laSexta",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCh1OgMIWOlDBhFEYL3DHWjQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1165360",
+   "description": {
+    "en": "Spanish private television channel",
+    "es": "canal de televisión privado español",
+    "ja": "ラ・セクスタはスペインの民間テレビ局。主にアメリカのテレビドラマやリーガ・エスパニョーラなどのスポーツ中継が中心。",
+    "fr": "chaîne de télévision privée espagnole",
+    "pt-BR": "laSexta é um canal de televisão espanhol de âmbito nacional e em aberto, que emite através da televisão terrestre, tanto em analógico como em digital.",
+    "it": "rete televisiva spagnola",
+    "ru": "«laSexta» — испанский частный телеканал общенационального эфирного вещания.",
+    "tr": "Televizyon kanalı",
+    "nl": "LaSexta is een Spaanse televisiezender die op 1 april 2001 werd gelanceerd als Beca TV, welke op 21 juli 2003 wegens faillissement werd gesloten.",
+    "sv": "spansk TV-kanal",
+    "de": "Fernsehsender in Spanien"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/LaSexta",
+    "es": "https://es.wikipedia.org/wiki/La_Sexta",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%82%BB%E3%82%AF%E3%82%B9%E3%82%BF",
+    "fr": "https://fr.wikipedia.org/wiki/La_Sexta",
+    "pt-BR": "https://pt.wikipedia.org/wiki/LaSexta",
+    "it": "https://it.wikipedia.org/wiki/La_Sexta",
+    "ru": "https://ru.wikipedia.org/wiki/LaSexta",
+    "tr": "https://tr.wikipedia.org/wiki/LaSexta",
+    "nl": "https://nl.wikipedia.org/wiki/LaSexta",
+    "sv": "https://sv.wikipedia.org/wiki/La_Sexta",
+    "de": "https://de.wikipedia.org/wiki/LaSexta"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LaSexta_2024_Logo.svg?width=256",
+   "website": "https://www.lasexta.com/",
+   "city": "Madrid"
+  },
+  {
+   "id": "es.europapress",
+   "name": "Europa Press",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCh_chnQ7OJPQ8mZ7vbXFpIQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3060712",
+   "description": {
+    "en": "Spanish news agency",
+    "es": "Agencia de noticias española",
+    "ja": "ヨーロッパ・プレス は、スペイン・マドリードに本社を置く民間通信社。新聞・テレビ・ラジオ・その他のデジタルメディアにニュースを配信している。すべての自治州に拠点を置き、すべての県都に特派員を配置している。",
+    "fr": "agence de presse privée espagnole fondée en 1953",
+    "pt-BR": "agência notícias",
+    "ar": "وكالة أنباء إسبانية",
+    "nl": "Europa Press is een Spaans persbureau, opgericht in 1953, door meerdere hoogwaardigheidsbekleders uit het regime van Francisco Franco.",
+    "id": "kantor berita Spanyol"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Europa_Press",
+    "es": "https://es.wikipedia.org/wiki/Europa_Press",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9",
+    "fr": "https://fr.wikipedia.org/wiki/Europa_Press",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Europa_Press",
+    "nl": "https://nl.wikipedia.org/wiki/Europa_Press",
+    "id": "https://id.wikipedia.org/wiki/Europa_Press"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Europa_press_logo.svg?width=256",
+   "website": "http://www.europapress.es/",
+   "city": "Madrid"
+  },
+  {
+   "id": "es.libertaddigital",
+   "name": "Libertad Digital",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCUS73_bjTYwBFAfXbvIjM8Q",
+   "youtubeVideoId": "lnGAjJK8Vqw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3101925",
+   "description": {
+    "en": "advocacy journalism online newspaper edited in Madrid, Spain",
+    "es": "publicación digital de España",
+    "fr": "Libertad Digital est un journal numérique édité intégralement en espagnol depuis le 8 mars 2000.",
+    "it": "quotidiano online in lingua spagnola",
+    "nl": "periodiek"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Libertad_Digital",
+    "es": "https://es.wikipedia.org/wiki/Libertad_Digital",
+    "fr": "https://fr.wikipedia.org/wiki/Libertad_Digital"
+   },
+   "logo": null,
+   "website": "http://www.libertaddigital.com/",
+   "city": "Madrid"
+  },
+  {
    "id": "es.canalsur",
    "name": "Canal Sur",
    "category": "regional",
@@ -211,7 +326,7 @@
    "youtubeChannelId": "UChtLgH7ZJLqLGWJpBnzy9Lg",
    "youtubeVideoId": "vjRNYL_QEEA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2712921",
    "description": {
     "en": "public broadcaster of Andalusia, Spain",
@@ -242,7 +357,7 @@
    "youtubeChannelId": "UCOHCRQDAr9HC5d59XvziJFQ",
    "youtubeVideoId": "5nfH4RVu4fc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13422541",
    "description": {
     "en": "public service broadcaster of the Basque Autonomous Community's",
@@ -312,7 +427,7 @@
    "youtubeChannelId": "UCz46p3cffUXUSGUtcnw_Ouw",
    "youtubeVideoId": "-TPDdyXedgg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1814720",
    "description": {
     "en": "Galician television channel",
@@ -346,7 +461,7 @@
    "youtubeChannelId": "UCTQrUTmzCWIfG6h4EVCdOCQ",
    "youtubeVideoId": "DByMAYdYEmc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2303379",
    "description": {
     "en": "television channel",
@@ -367,6 +482,47 @@
    "logo": null,
    "website": "http://www.rtvc.es/television/tvcanaria.aspx",
    "city": "Santa Cruz de Tenerife"
+  },
+  {
+   "id": "es.telemadrid",
+   "name": "Telemadrid",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCv2BcgqxHSrl2QQfIkjR5Eg",
+   "youtubeVideoId": "UcAfvsNRiPY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q279413",
+   "description": {
+    "en": "regional television channel of the Community of Madrid",
+    "es": "canal de televisión autonómico de la Comunidad de Madrid",
+    "zh-Hans": "马德里自治区地区电视频道",
+    "ja": "マドリード地域の地方テレビチャンネル",
+    "fr": "chaîne de télévision régionale de la Communauté de Madrid",
+    "pt-BR": "canal de televisão regional da Comunidade de Madrid",
+    "ko": "마드리드 커뮤니티의 지역 텔레비전 채널",
+    "it": "Rete TV. mn",
+    "zh-Hant": "马德里自治区地区电视频道",
+    "ar": "قناة تلفزيونية إقليمية لمجتمع مدريد",
+    "nl": "regionale televisiezender van de Gemeenschap van Madrid",
+    "id": "saluran televisi regional Komunitas Madrid",
+    "de": "regionaler Fernsehsender der Autonomen Gemeinschaft Madrid"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Telemadrid",
+    "es": "https://es.wikipedia.org/wiki/Telemadrid",
+    "fr": "https://fr.wikipedia.org/wiki/Telemadrid",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Telemadrid",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%85%94%EB%A0%88%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D9%84%D9%8A_%D9%85%D8%AF%D8%B1%D9%8A%D8%AF",
+    "id": "https://id.wikipedia.org/wiki/Telemadrid",
+    "de": "https://de.wikipedia.org/wiki/Telemadrid"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TeleMadrid.svg?width=256",
+   "website": "http://www.telemadrid.es",
+   "city": "Pozuelo de Alarcón"
   },
   {
    "id": "es.congreso",
@@ -482,9 +638,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "67T_SNWY8PU",
+   "youtubeVideoId": "R-_T6R_dMnM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -551,6 +707,68 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Onda_Cero_logo.svg?width=256",
    "website": "http://www.ondacero.es",
    "city": "Madrid"
+  },
+  {
+   "id": "es.cope",
+   "name": "COPE",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2748488",
+   "description": {
+    "en": "the Spanish private national radio of the Spanish Catholic Church",
+    "es": "cadena de radio española",
+    "fr": "station de radio espagnole",
+    "pt-BR": "COPE é uma das principais cadeias nacionais de rádio da Espanha.",
+    "ar": "كوبي، شبكة موجات الراديو الشعبية في إسبانيا التي كانت تسمى سابقًا الراديو الشعبي، هي محطة إذاعية إسبانية.",
+    "id": "stasiun radio",
+    "de": "spanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Cadena_COPE",
+    "es": "https://es.wikipedia.org/wiki/COPE",
+    "fr": "https://fr.wikipedia.org/wiki/COPE_(radio)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Cadena_de_Ondas_Populares_Espa%C3%B1olas",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D9%83%D9%88%D8%A8%D9%8A",
+    "de": "https://de.wikipedia.org/wiki/Cadena_COPE"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_de_la_Cadena_COPE.svg?width=256",
+   "website": "https://www.cope.es/",
+   "city": null
+  },
+  {
+   "id": "es.esradio",
+   "name": "esRadio",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
+   "youtubeVideoId": "2ChAQbF4AiE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3390195",
+   "description": {
+    "en": "network of private radio stations",
+    "es": "red de emisoras de radio privada",
+    "fr": "réseau de stations de radio privées",
+    "pt-BR": "rede de estações de rádio privadas",
+    "it": "rete di stazioni radio private",
+    "pl": "sieć prywatnych stacji radiowych",
+    "de": "Netzwerk privater Radiosender"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/EsRadio",
+    "fr": "https://fr.wikipedia.org/wiki/EsRadio"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/EsRadio_logo.svg?width=256",
+   "website": "https://esradio.libertaddigital.com/",
+   "city": null
   }
  ]
 }

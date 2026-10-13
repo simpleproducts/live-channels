@@ -5,8 +5,9 @@ Used by build.py (bootstrap / no YT_API_KEY). A channel is live now only when AL
   * ytInitialPlayerResponse.playabilityStatus.status == "OK"   (upcoming events are "LIVE_STREAM_OFFLINE")
   * videoDetails has "isLive":true
   * "playableInEmbed":true                                      (else the channel is marked embeddable=false)
-When /live shows something else (an upcoming event, nothing), the previously pinned id is re-checked on its
-own watch page: a channel can run a 24/7 stream while /live advertises a scheduled one.
+When /live shows something else (an upcoming event, nothing), the previously pinned id and the 3 newest
+RSS feed entries are re-checked on their watch pages: a channel can be live while /live advertises a
+scheduled event.
 """
 import datetime
 import re
@@ -15,6 +16,7 @@ import time
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
+RSS_FALLBACK = 3  # newest feed entries checked when /live is not live
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh) Safari/605", "Accept-Language": "en-US"}
 _UNITS = {"second": 1, "minute": 60, "hour": 3600, "day": 86400, "week": 604800, "month": 2592000, "year": 31536000}
 
@@ -75,13 +77,27 @@ def check_channel(uc, prev_vid=None, now=None):
         return None
     p = parse_watch(html, now)
     state = evaluate(p)
-    if state != "live" and prev_vid and prev_vid != p["videoId"]:
-        h2 = fetch("https://www.youtube.com/watch?v=%s" % prev_vid)
-        if h2:
-            p2 = parse_watch(h2, now)
-            if evaluate(p2) == "live":
-                return {"state": "live", "videoId": prev_vid, "since": p2["since"]}
+    if state != "live":
+        # /live may advertise an upcoming event while another broadcast is live: try the previous pin,
+        # then the newest uploads from the channel's RSS feed.
+        tried = {p["videoId"]}
+        extra = [prev_vid] if prev_vid else []
+        extra += rss_ids(uc)[:RSS_FALLBACK]
+        for vid in extra:
+            if not vid or vid in tried:
+                continue
+            tried.add(vid)
+            h2 = fetch("https://www.youtube.com/watch?v=%s" % vid)
+            if h2:
+                p2 = parse_watch(h2, now)
+                if evaluate(p2) == "live":
+                    return {"state": "live", "videoId": vid, "since": p2["since"]}
     return {"state": state, "videoId": p["videoId"], "since": p["since"]}
+
+
+def rss_ids(uc):
+    xml = fetch("https://www.youtube.com/feeds/videos.xml?channel_id=%s" % uc)
+    return re.findall(r"<yt:videoId>([\w-]{11})</yt:videoId>", xml or "")
 
 
 def apply(channel, res):

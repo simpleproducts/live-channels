@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "br.canalrural",
+  "br.recordnews",
+  "br.cnnbrasil",
+  "br.jovempan",
+  "br.sbtnews",
+  "br.metropoles",
+  "br.canalgov",
+  "br.redetv",
+  "br.tvsenado"
+ ],
  "channels": [
   {
    "id": "br.recordnews",
@@ -12,9 +22,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "7KHY_hRfa2k",
+   "youtubeVideoId": "ElSCdSGJ228",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3056409",
    "description": {
     "en": "broadcast news television network",
@@ -42,9 +52,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "hD18zTzQBHw",
+   "youtubeVideoId": "CtofIQGrnck",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q61037218",
    "description": {
     "en": "Brazilian television channel",
@@ -79,9 +89,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCP391YRAjSOdM_bwievgaZA",
-   "youtubeVideoId": "GpjCPJpgq2Q",
+   "youtubeVideoId": "tl9x1b4sHpU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q10358223",
    "description": {
     "en": "Brazilian radio network in format top 40/CHR/all news",
@@ -126,9 +136,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "BtbMJSNAoVE",
+   "youtubeVideoId": "kiCkRq29VY4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q135520615",
    "description": {
     "en": "Brazilian television station",
@@ -149,9 +159,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
-   "youtubeVideoId": "n77bWKAxPVg",
+   "youtubeVideoId": "OiBOXN-gTQo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -189,9 +199,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "QV3_s_hI7aM",
+   "youtubeVideoId": "jTpdbrzGBoY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -308,9 +318,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
-   "youtubeVideoId": "Ddbiberf96E",
+   "youtubeVideoId": "kFZhiD4oUvY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1090363",
    "description": {
     "en": "Brazilian broadcast television network",
@@ -335,6 +345,39 @@
    "city": "أوساسكو"
   },
   {
+   "id": "br.tvcultura",
+   "name": "TV Cultura",
+   "category": "broadcast",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCjOJvvYe6tyEHY21OD33h8A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3069919",
+   "description": {
+    "en": "Brazilian public television network",
+    "es": "TV Cultura es una cadena de televisión de Brasil especialiazada en contenidos culturales y artísticos.",
+    "ja": "TVクルトゥーラ または単にクルトゥーラは、 サンパウロに本社を置くブラジルの無料テレビネットワークで、フンダサオ・パードレ・アンシエタの一部。",
+    "fr": "TV Cultura est un réseau de télévision public brésilien.",
+    "pt-BR": "rede de televisão pública brasileira",
+    "it": "rete televisiva brasiliana",
+    "sv": "brasiliansk TV-kanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Cultura",
+    "es": "https://es.wikipedia.org/wiki/TV_Cultura",
+    "ja": "https://ja.wikipedia.org/wiki/TV%E3%82%AF%E3%83%AB%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A9",
+    "fr": "https://fr.wikipedia.org/wiki/TV_Cultura",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Cultura",
+    "it": "https://it.wikipedia.org/wiki/TV_Cultura"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cultura_logo_2013.svg?width=256",
+   "website": "https://cultura.uol.com.br/",
+   "city": "São Paulo"
+  },
+  {
    "id": "br.canalgov",
    "name": "Canal Gov",
    "category": "government",
@@ -344,7 +387,7 @@
    "youtubeChannelId": "UCjaWLFTNqLkq3ZY2BJ4NYRg",
    "youtubeVideoId": "nqfph9USEYA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q120762994",
    "description": {
     "en": "Brazilian public television network",
@@ -370,7 +413,7 @@
    "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ",
    "youtubeVideoId": "YMmulbBmpl8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7672422",
    "description": {
     "en": "Brazilian television network",
@@ -388,6 +431,32 @@
    "city": null
   },
   {
+   "id": "br.tvcamara",
+   "name": "TV Câmara",
+   "category": "government",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC-ZkSRh-7UEuwXJQ9UMCFJA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6137650",
+   "description": {
+    "en": "Brazilian legislative television network",
+    "es": "TV Câmara es un canal de televisión abierta brasileño que emite los debates de la Cámara de Diputados de Brasil, junto con programas informativos, culturales, películas de producción independiente y documentales.",
+    "pt-BR": "estação de televisão da Câmara dos Deputados do Brasil"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_C%C3%A2mara",
+    "es": "https://es.wikipedia.org/wiki/TV_C%C3%A2mara",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_C%C3%A2mara"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marca_TV_C%C3%A2mara_-_2018.png?width=256",
+   "website": "https://www.camara.leg.br/tv",
+   "city": null
+  },
+  {
    "id": "br.cbn",
    "name": "Rádio CBN",
    "category": "radio",
@@ -395,9 +464,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "JWblMU-nxqA",
+   "youtubeVideoId": "IT_Wb_HEFrU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7385857",
    "description": {
     "en": "Brazilian news radio network",
@@ -416,6 +485,59 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CBN_logo.svg?width=256",
    "website": "http://cbn.globoradio.globo.com/home/HOME.htm",
    "city": "São Paulo"
+  },
+  {
+   "id": "br.bandnewsfm",
+   "name": "BandNews FM",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
+   "youtubeVideoId": "eXJhQPDWFFw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4854200",
+   "description": {
+    "en": "Brazilian all news radio network",
+    "pt-BR": "rede de rádio brasileira all news",
+    "it": "stazione radiofonica brasiliana",
+    "id": "stasiun radio di Brasil",
+    "de": "brasilianischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/BandNews_FM",
+    "pt-BR": "https://pt.wikipedia.org/wiki/BandNews_FM"
+   },
+   "logo": null,
+   "website": "http://www.bandnewsfm.com.br",
+   "city": "São Paulo"
+  },
+  {
+   "id": "br.itatiaia",
+   "name": "Rádio Itatiaia",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
+   "youtubeVideoId": "SNY4vDOCBr8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10365899",
+   "description": {
+    "en": "Brazilian radio station in Minas Gerais",
+    "pt-BR": "estação de rádio brasileira de Belo Horizonte, MG",
+    "id": "stasiun radio di Brasil",
+    "de": "brasilianischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/R%C3%A1dio_Itatiaia",
+    "pt-BR": "https://pt.wikipedia.org/wiki/R%C3%A1dio_Itatiaia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A1dio_Itatiaia_logo_2022.svg?width=256",
+   "website": "https://www.itatiaia.com.br/",
+   "city": "Belo Horizonte"
   }
  ]
 }

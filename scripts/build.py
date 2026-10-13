@@ -130,12 +130,17 @@ def match_youtube_ids(ucs):
 
 def country_items(codes):
     """{ISO alpha-2: QID} via P297."""
-    q = ("SELECT ?code ?c WHERE { VALUES ?code { %s } ?c wdt:P297 ?code ; wdt:P31 wd:Q6256 . }"
-         % " ".join('"%s"' % c for c in sorted(codes)))
-    out = {}
+    # sovereign states first; territories such as Hong Kong (no Q6256) fall back to any P297 holder
+    q = ("SELECT ?code ?c ?sovereign WHERE { VALUES ?code { %s } ?c wdt:P297 ?code . "
+         "FILTER NOT EXISTS { ?c wdt:P576 [] } "
+         "BIND(EXISTS { ?c wdt:P31 wd:Q6256 } AS ?sovereign) }" % " ".join('"%s"' % c for c in sorted(codes)))
+    best = {}
     for b in sparql(q) or []:
-        out.setdefault(b["code"]["value"], b["c"]["value"].rsplit("/", 1)[1])
-    return out
+        code, qid = b["code"]["value"], b["c"]["value"].rsplit("/", 1)[1]
+        rank = (b["sovereign"]["value"] != "true", int(qid[1:]))
+        if code not in best or rank < best[code][0]:
+            best[code] = (rank, qid)
+    return {k: v[1] for k, v in best.items()}
 
 
 def get_entities(qids, props):

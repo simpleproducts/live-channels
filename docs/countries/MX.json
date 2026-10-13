@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "mx.milenio",
+  "mx.adnnoticias",
+  "mx.nmas",
+  "mx.imagennoticias",
+  "mx.aztecanoticias",
+  "mx.multimedios",
+  "mx.canalonce",
+  "mx.imagentv",
+  "mx.radioformula"
+ ],
  "channels": [
   {
    "id": "mx.milenio",
@@ -12,9 +22,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFxHplbcoJK9m70c4VyTIxg",
-   "youtubeVideoId": "6fnO0-ZXRas",
+   "youtubeVideoId": "oPy8a-TCjzA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -30,9 +40,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "NCOloD07kjg",
+   "youtubeVideoId": "J8OIZygkHik",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -48,9 +58,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
-   "youtubeVideoId": "BTabaSUXVJk",
+   "youtubeVideoId": "_MIegtoxy9o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -93,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUP6qv-_EIL0hwTsJaKYnvw",
-   "youtubeVideoId": "0YHVbpA2K7M",
+   "youtubeVideoId": "1vircyQIO3w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -183,7 +193,7 @@
    "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
    "youtubeVideoId": "PC8nOb8cTNg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -216,6 +226,32 @@
    "city": null
   },
   {
+   "id": "mx.elfinanciero",
+   "name": "El Financiero",
+   "category": "economy",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCHEZcUuC5ulaAFDq1LDqdTw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q42911288",
+   "description": {
+    "en": "Mexican daily newspaper",
+    "es": "periódico mexicano especializado en economía y finanzas",
+    "fr": "périodique mexicain",
+    "nl": "Mexicaanse krant"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Financiero",
+    "es": "https://es.wikipedia.org/wiki/El_Financiero"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Financiero_Logo.svg?width=256",
+   "website": "http://www.elfinanciero.com.mx/",
+   "city": "provincia de Roma"
+  },
+  {
    "id": "mx.multimedios",
    "name": "Multimedios",
    "category": "broadcast",
@@ -225,7 +261,7 @@
    "youtubeChannelId": "UCo1nfa1JKNqtcUyLjLwTiIw",
    "youtubeVideoId": "SM864ZgPpG8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11693969",
    "description": {
     "en": "Mexican television network",
@@ -253,9 +289,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "52_8CzfHc1g",
+   "youtubeVideoId": "NtvM-SKY66c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -296,9 +332,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "Bs8Y9yiySX4",
+   "youtubeVideoId": "y7kJMDs5Xg4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -320,6 +356,78 @@
    },
    "logo": null,
    "website": "http://www.imagentv.com",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.tvazteca",
+   "name": "TV Azteca",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCNVrBkfp4_TG9x4h5kvLeAQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "mx.lasestrellas",
+   "name": "Las Estrellas",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCZGYvP6WnVWGM5F0QEAyoyg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q80478",
+   "description": {
+    "en": "Mexican television channel",
+    "es": "canal de televisión privada de México, propiedad de Grupo Televisa.",
+    "zh-Hans": "明星频道 是墨西哥的一个地面电视频道，隶属特莱维萨集团，于1951年3月27日开播。该频道通过特莱维萨的电视联播网，向墨西哥全国的129个转播台、2个附属台及1个数字子频道转播台播出。",
+    "ja": "ラス・エストレージャス(スペイン語:Las Estrellas, スター)は、メキシコのテレビチャンネルである。正式名称はカナル・デ・ラス・エストレージャス(スペイン語:Canal de Las Estrellas)。",
+    "fr": "réseau de télévision mexicain",
+    "pt-BR": "rede de televisão aberta mexicana pertencente a Televisa",
+    "ko": "라스 에스트레야스(Las Estrellas)는 멕시코의 방송 텔레비사에 속해 있는 텔레비전 네트워크의 하나이다.",
+    "it": "rete televisiva messicana",
+    "ru": "«Las Estrellas» — мексиканский телеканал, входящий в состав телекомпании Televisa.",
+    "zh-Hant": "明星频道 是墨西哥的一个地面电视频道，隶属特莱维萨集团，于1951年3月27日开播。该频道通过特莱维萨的电视联播网，向墨西哥全国的129个转播台、2个附属台及1个数字子频道转播台播出。",
+    "ar": "قناة النجوم قناة تلفزيونية مكسيكية، إحدى قنوات تيلفيزا، تبثّ في جميع أنحاء المكسيك، الولايات المتحدة، أمريكا اللاتينية وأوربا.",
+    "tr": "Las Estrellas, Televisa'nın sahibi olduğu bir Meksikalı TV kanalıdır.",
+    "pl": "Las Estrellas – meksykańska stacja telewizyjna, założona 21 marca 1951.",
+    "sv": "Las Estrellas, tidigare Galavisión, är en spanskspråkig TV-kanal tillhörande Televisa i Mexiko.",
+    "id": "Las Estrellas (Bintang-bintang) adalah salah satu jaringan televisi utama dari Televisa yang memiliki stasiun-stasiun afiliasi di seluruh Meksiko, dengan stasiun televisi utamanya, XEW-TV di Mexico City.",
+    "de": "Lateinamerikanischer Fernsehsender",
+    "ms": "Las Estrellas adalah salah satu rangkaian landasan Televisa, dengan stesen gabungan di seluruh Mexico, yang menjadi tumpuan utama di XEW-TDT di Bandar Raya Mexico."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Las_Estrellas",
+    "es": "https://es.wikipedia.org/wiki/Las_Estrellas",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%98%8E%E6%98%9F%E9%A2%91%E9%81%93",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8%E3%83%A3%E3%82%B9",
+    "fr": "https://fr.wikipedia.org/wiki/Las_Estrellas",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Las_Estrellas",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%8A%A4_%EC%97%90%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%95%BC%EC%8A%A4",
+    "it": "https://it.wikipedia.org/wiki/Las_Estrellas",
+    "ru": "https://ru.wikipedia.org/wiki/Las_Estrellas",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%98%8E%E6%98%9F%E9%A2%91%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85",
+    "tr": "https://tr.wikipedia.org/wiki/Las_Estrellas",
+    "pl": "https://pl.wikipedia.org/wiki/Las_Estrellas",
+    "sv": "https://sv.wikipedia.org/wiki/Las_Estrellas",
+    "id": "https://id.wikipedia.org/wiki/Las_Estrellas",
+    "de": "https://de.wikipedia.org/wiki/Las_Estrellas",
+    "ms": "https://ms.wikipedia.org/wiki/Las_Estrellas"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Estrellas_logo_%282016%29.svg?width=256",
+   "website": "https://www.lasestrellas.tv",
    "city": "Ciudad de México"
   },
   {
@@ -346,6 +454,77 @@
    },
    "logo": null,
    "website": "https://www.gob.mx/",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.canalcongreso",
+   "name": "Canal del Congreso",
+   "category": "government",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5746883",
+   "description": {
+    "en": "Mexican television channel covering congressional proceedings",
+    "es": "Canal de televisión mexicano del poder legislativo"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_del_Congreso",
+    "es": "https://es.wikipedia.org/wiki/Canal_del_Congreso_(M%C3%A9xico)"
+   },
+   "logo": null,
+   "website": "http://www.canaldelcongreso.gob.mx",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.radioformula",
+   "name": "Radio Fórmula",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
+   "youtubeVideoId": "RTmp7mLNCTA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q20847624",
+   "description": {
+    "en": "Mexican news/talk radio network",
+    "es": "cadena de radio mexicana",
+    "ar": "شبكة أنباء وحوار مكسيكية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_F%C3%B3rmula",
+    "es": "https://es.wikipedia.org/wiki/Radio_F%C3%B3rmula"
+   },
+   "logo": null,
+   "website": "http://www.radioformula.com.mx/",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.canal22",
+   "name": "Canal 22",
+   "category": "culture",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q42908534",
+   "description": {
+    "es": "canal de televisión abierta y pública en México"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Canal_22_(M%C3%A9xico)"
+   },
+   "logo": null,
+   "website": "http://www.canal22.org.mx/",
    "city": "Ciudad de México"
   }
  ]

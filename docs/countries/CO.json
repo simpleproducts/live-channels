@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "co.ntn24",
+  "co.noticiascaracol",
+  "co.noticiasrcn",
+  "co.eltiempo",
+  "co.caracoltv",
+  "co.citytv",
+  "co.teleantioquianoticias",
+  "co.bluradio",
+  "co.lafm"
+ ],
  "channels": [
   {
    "id": "co.ntn24",
@@ -14,7 +24,7 @@
    "youtubeChannelId": "UCEJs1fTF3KszRJGxJY14VrA",
    "youtubeVideoId": "I4AVxPm58S0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7068596",
    "description": {
     "en": "Colombian television news channel",
@@ -38,7 +48,7 @@
    "youtubeChannelId": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
    "youtubeVideoId": "XE-HAP0KALo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -56,7 +66,7 @@
    "youtubeChannelId": "UCnr6pbeXJmkNQJ9PSYle7QQ",
    "youtubeVideoId": "nRIev0kbGQ4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -72,9 +82,9 @@
     "es"
    ],
    "youtubeChannelId": "UCe5-b0fCK3eQCpwS6MT0aNw",
-   "youtubeVideoId": "guKmOtQEv2M",
+   "youtubeVideoId": "DI2lfIbUMFc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1324658",
    "description": {
     "en": "Colombian newspaper",
@@ -200,7 +210,7 @@
    "youtubeChannelId": "UCcpE1fmG2qBZatj28bak2ng",
    "youtubeVideoId": "HyuGqSkoeJg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1035332",
    "description": {
     "en": "Colombian television network",
@@ -246,6 +256,32 @@
    "city": "Bogotá"
   },
   {
+   "id": "co.senalcolombia",
+   "name": "Señal Colombia",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCwZjVanaSg019RVQea9V1kw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2753712",
+   "description": {
+    "en": "Colombian TV channel",
+    "es": "canal de televisión público de Colombia.",
+    "fr": "Señal Colombia est une chaîne de télévision colombienne créée le 9 février 1970 qui appartient à Radio Televisión Nacional de Colombia (RTVC)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Se%C3%B1al_Colombia",
+    "es": "https://es.wikipedia.org/wiki/Se%C3%B1al_Colombia",
+    "fr": "https://fr.wikipedia.org/wiki/Se%C3%B1al_Colombia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Se%C3%B1al_Colombia_logo.svg?width=256",
+   "website": "https://www.senalcolombia.tv/",
+   "city": "Bogotá"
+  },
+  {
    "id": "co.citytv",
    "name": "Citytv",
    "category": "regional",
@@ -255,7 +291,7 @@
    "youtubeChannelId": "UCv5Oy_TJFvGKXjeNzzJE_PQ",
    "youtubeVideoId": "Q1CEBkYUkeM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4144940",
    "description": {
     "en": "Television station in Bogotá, Colombia",
@@ -305,8 +341,76 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "o609Ysh82uc",
+   "youtubeVideoId": "fvtbkBw-fis",
    "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "co.teleantioquia",
+   "name": "Teleantioquia",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6140409",
+   "description": {
+    "en": "Colombian television network",
+    "es": "canal de televisión",
+    "pt-BR": "Teleantioquia é uma emissora de televisão colombiana de canal aberto situada em Medellín"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Teleantioquia",
+    "es": "https://es.wikipedia.org/wiki/Teleantioquia",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Teleantioquia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Teleantioquia-2024Nuevo.png?width=256",
+   "website": "https://www.teleantioquia.co/",
+   "city": "Medellín"
+  },
+  {
+   "id": "co.telecaribe",
+   "name": "Telecaribe",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5547733",
+   "description": {
+    "en": "free-to-air Colombian regional TV channel",
+    "es": "canal de televisión abierta colombiano de emisión regional."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Telecaribe",
+    "es": "https://es.wikipedia.org/wiki/Telecaribe_(Colombia)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Telecaribe_%28nuevo_logo_con_color%29.png?width=256",
+   "website": "https://www.telecaribe.co",
+   "city": "Puerto Colombia"
+  },
+  {
+   "id": "co.telepacifico",
+   "name": "Telepacífico",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC_AZE6OOfsr7CxzPfkjnM9A",
+   "youtubeVideoId": null,
+   "embeddable": null,
    "live": false,
    "wikidata": null,
    "description": {},
@@ -323,9 +427,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "3lURmjADlEk",
+   "youtubeVideoId": "KE6yMjt9JvQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4672090",
    "description": {
     "en": "radio station in Bogotá, Colombia",
@@ -380,9 +484,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "Lkj2Jmv5EyA",
+   "youtubeVideoId": "N4-QOj8kjGY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -395,6 +499,31 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_FM_logo.svg?width=256",
    "website": "http://www.lafm.com.co/",
+   "city": null
+  },
+  {
+   "id": "co.radionacional",
+   "name": "Radio Nacional de Colombia",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5843056",
+   "description": {
+    "en": "public radio network in Columbia",
+    "es": "estación de radio pública en Colombia",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_Nacional_de_Colombia",
+    "es": "https://es.wikipedia.org/wiki/Radio_Nacional_de_Colombia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Nacional_de_Colombia_Logo_2.svg?width=256",
+   "website": "https://www.radionacional.co/",
    "city": null
   }
  ]

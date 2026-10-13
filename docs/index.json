@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-13T06:48:59Z",
+ "updated": "2026-10-13T12:56:41Z",
  "countries": [
   {
    "code": "AR",
@@ -28,8 +28,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 59,
-   "version": 2026101215,
+   "channelCount": 57,
+   "version": 2026101312,
    "file": "countries/AR.json"
   },
   {
@@ -58,8 +58,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 2,
-   "version": 2026101215,
+   "channelCount": 4,
+   "version": 2026101312,
    "file": "countries/AU.json"
   },
   {
@@ -88,8 +88,8 @@
    "languages": [
     "pt"
    ],
-   "channelCount": 15,
-   "version": 2026101215,
+   "channelCount": 19,
+   "version": 2026101312,
    "file": "countries/BR.json"
   },
   {
@@ -119,8 +119,8 @@
     "en",
     "fr"
    ],
-   "channelCount": 6,
-   "version": 2026101215,
+   "channelCount": 9,
+   "version": 2026101312,
    "file": "countries/CA.json"
   },
   {
@@ -150,8 +150,38 @@
     "es"
    ],
    "channelCount": 15,
-   "version": 2026101215,
+   "version": 2026101312,
    "file": "countries/CL.json"
+  },
+  {
+   "code": "CN",
+   "flag": "🇨🇳",
+   "name": {
+    "en": "People's Republic of China",
+    "es": "República Popular China",
+    "zh-Hans": "中华人民共和国",
+    "ja": "中華人民共和国",
+    "fr": "république populaire de Chine",
+    "pt-BR": "República Popular da China",
+    "ko": "중화인민공화국",
+    "it": "Cina",
+    "ru": "Китай",
+    "zh-Hant": "中華人民共和國",
+    "ar": "الصين",
+    "tr": "Çin Halk Cumhuriyeti",
+    "nl": "Volksrepubliek China",
+    "pl": "Chińska Republika Ludowa",
+    "sv": "Kina",
+    "id": "Tiongkok",
+    "de": "Volksrepublik China",
+    "ms": "Republik Rakyat China"
+   },
+   "languages": [
+    "zh"
+   ],
+   "channelCount": 9,
+   "version": 2026101312,
+   "file": "countries/CN.json"
   },
   {
    "code": "CO",
@@ -179,8 +209,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 15,
-   "version": 2026101215,
+   "channelCount": 20,
+   "version": 2026101312,
    "file": "countries/CO.json"
   },
   {
@@ -209,8 +239,8 @@
    "languages": [
     "de"
    ],
-   "channelCount": 9,
-   "version": 2026101215,
+   "channelCount": 10,
+   "version": 2026101312,
    "file": "countries/DE.json"
   },
   {
@@ -239,8 +269,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 14,
-   "version": 2026101215,
+   "channelCount": 20,
+   "version": 2026101312,
    "file": "countries/ES.json"
   },
   {
@@ -269,8 +299,8 @@
    "languages": [
     "fr"
    ],
-   "channelCount": 13,
-   "version": 2026101215,
+   "channelCount": 15,
+   "version": 2026101312,
    "file": "countries/FR.json"
   },
   {
@@ -300,8 +330,98 @@
     "en"
    ],
    "channelCount": 13,
-   "version": 2026101215,
+   "version": 2026101312,
    "file": "countries/GB.json"
+  },
+  {
+   "code": "HK",
+   "flag": "🇭🇰",
+   "name": {
+    "en": "Hong Kong",
+    "es": "Hong Kong",
+    "zh-Hans": "香港",
+    "ja": "香港",
+    "fr": "Hong Kong",
+    "pt-BR": "Hong Kong",
+    "ko": "홍콩",
+    "it": "Hong Kong",
+    "ru": "Гонконг",
+    "zh-Hant": "香港",
+    "ar": "هونغ كونغ",
+    "tr": "Hong Kong",
+    "nl": "Hongkong",
+    "pl": "Hongkong",
+    "sv": "Hongkong",
+    "id": "Hong Kong",
+    "de": "Hongkong",
+    "ms": "Hong Kong"
+   },
+   "languages": [
+    "zh"
+   ],
+   "channelCount": 5,
+   "version": 2026101312,
+   "file": "countries/HK.json"
+  },
+  {
+   "code": "ID",
+   "flag": "🇮🇩",
+   "name": {
+    "en": "Indonesia",
+    "es": "Indonesia",
+    "zh-Hans": "印度尼西亚",
+    "ja": "インドネシア",
+    "fr": "Indonésie",
+    "pt-BR": "Indonésia",
+    "ko": "인도네시아",
+    "it": "Indonesia",
+    "ru": "Индонезия",
+    "zh-Hant": "印度尼西亞",
+    "ar": "إندونيسيا",
+    "tr": "Endonezya",
+    "nl": "Indonesië",
+    "pl": "Indonezja",
+    "sv": "Indonesien",
+    "id": "Indonesia",
+    "de": "Indonesien",
+    "ms": "Indonesia"
+   },
+   "languages": [
+    "id"
+   ],
+   "channelCount": 8,
+   "version": 2026101312,
+   "file": "countries/ID.json"
+  },
+  {
+   "code": "IL",
+   "flag": "🇮🇱",
+   "name": {
+    "en": "Israel",
+    "es": "Israel",
+    "zh-Hans": "以色列",
+    "ja": "イスラエル",
+    "fr": "Israël",
+    "pt-BR": "Israel",
+    "ko": "이스라엘",
+    "it": "Israele",
+    "ru": "Израиль",
+    "zh-Hant": "以色列",
+    "ar": "إسرائيل",
+    "tr": "İsrail",
+    "nl": "Israël",
+    "pl": "Izrael",
+    "sv": "Israel",
+    "id": "Israel",
+    "de": "Israel",
+    "ms": "Israel"
+   },
+   "languages": [
+    "he"
+   ],
+   "channelCount": 7,
+   "version": 2026101312,
+   "file": "countries/IL.json"
   },
   {
    "code": "IN",
@@ -330,8 +450,8 @@
     "hi",
     "en"
    ],
-   "channelCount": 15,
-   "version": 2026101215,
+   "channelCount": 24,
+   "version": 2026101312,
    "file": "countries/IN.json"
   },
   {
@@ -360,8 +480,8 @@
    "languages": [
     "it"
    ],
-   "channelCount": 5,
-   "version": 2026101215,
+   "channelCount": 6,
+   "version": 2026101312,
    "file": "countries/IT.json"
   },
   {
@@ -390,8 +510,8 @@
    "languages": [
     "ja"
    ],
-   "channelCount": 11,
-   "version": 2026101215,
+   "channelCount": 12,
+   "version": 2026101312,
    "file": "countries/JP.json"
   },
   {
@@ -420,8 +540,8 @@
    "languages": [
     "ko"
    ],
-   "channelCount": 15,
-   "version": 2026101215,
+   "channelCount": 16,
+   "version": 2026101312,
    "file": "countries/KR.json"
   },
   {
@@ -450,9 +570,39 @@
    "languages": [
     "es"
    ],
-   "channelCount": 15,
-   "version": 2026101215,
+   "channelCount": 21,
+   "version": 2026101312,
    "file": "countries/MX.json"
+  },
+  {
+   "code": "NG",
+   "flag": "🇳🇬",
+   "name": {
+    "en": "Nigeria",
+    "es": "Nigeria",
+    "zh-Hans": "尼日利亚",
+    "ja": "ナイジェリア",
+    "fr": "Nigeria",
+    "pt-BR": "Nigéria",
+    "ko": "나이지리아",
+    "it": "Nigeria",
+    "ru": "Нигерия",
+    "zh-Hant": "奈及利亞",
+    "ar": "نيجيريا",
+    "tr": "Nijerya",
+    "nl": "Nigeria",
+    "pl": "Nigeria",
+    "sv": "Nigeria",
+    "id": "Nigeria",
+    "de": "Nigeria",
+    "ms": "Nigeria"
+   },
+   "languages": [
+    "en"
+   ],
+   "channelCount": 6,
+   "version": 2026101312,
+   "file": "countries/NG.json"
   },
   {
    "code": "PE",
@@ -480,8 +630,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 13,
-   "version": 2026101215,
+   "channelCount": 14,
+   "version": 2026101312,
    "file": "countries/PE.json"
   },
   {
@@ -511,7 +661,7 @@
     "ur"
    ],
    "channelCount": 10,
-   "version": 2026101215,
+   "version": 2026101312,
    "file": "countries/PK.json"
   },
   {
@@ -540,8 +690,8 @@
    "languages": [
     "pt"
    ],
-   "channelCount": 4,
-   "version": 2026101215,
+   "channelCount": 7,
+   "version": 2026101312,
    "file": "countries/PT.json"
   },
   {
@@ -570,8 +720,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 5,
-   "version": 2026101215,
+   "channelCount": 7,
+   "version": 2026101312,
    "file": "countries/PY.json"
   },
   {
@@ -600,9 +750,39 @@
    "languages": [
     "ar"
    ],
-   "channelCount": 5,
-   "version": 2026101215,
+   "channelCount": 4,
+   "version": 2026101312,
    "file": "countries/QA.json"
+  },
+  {
+   "code": "RU",
+   "flag": "🇷🇺",
+   "name": {
+    "en": "Russia",
+    "es": "Rusia",
+    "zh-Hans": "俄罗斯",
+    "ja": "ロシア",
+    "fr": "Russie",
+    "pt-BR": "Rússia",
+    "ko": "러시아",
+    "it": "Russia",
+    "ru": "Россия",
+    "zh-Hant": "俄羅斯",
+    "ar": "روسيا",
+    "tr": "Rusya",
+    "nl": "Rusland",
+    "pl": "Rosja",
+    "sv": "Ryssland",
+    "id": "Rusia",
+    "de": "Russland",
+    "ms": "Rusia"
+   },
+   "languages": [
+    "ru"
+   ],
+   "channelCount": 3,
+   "version": 2026101312,
+   "file": "countries/RU.json"
   },
   {
    "code": "SG",
@@ -631,7 +811,7 @@
     "en"
    ],
    "channelCount": 2,
-   "version": 2026101215,
+   "version": 2026101312,
    "file": "countries/SG.json"
   },
   {
@@ -660,9 +840,39 @@
    "languages": [
     "tr"
    ],
-   "channelCount": 15,
-   "version": 2026101215,
+   "channelCount": 18,
+   "version": 2026101312,
    "file": "countries/TR.json"
+  },
+  {
+   "code": "UA",
+   "flag": "🇺🇦",
+   "name": {
+    "en": "Ukraine",
+    "es": "Ucrania",
+    "zh-Hans": "乌克兰",
+    "ja": "ウクライナ",
+    "fr": "Ukraine",
+    "pt-BR": "Ucrânia",
+    "ko": "우크라이나",
+    "it": "Ucraina",
+    "ru": "Украина",
+    "zh-Hant": "烏克蘭",
+    "ar": "أوكرانيا",
+    "tr": "Ukrayna",
+    "nl": "Oekraïne",
+    "pl": "Ukraina",
+    "sv": "Ukraina",
+    "id": "Ukraina",
+    "de": "Ukraine",
+    "ms": "Ukraine"
+   },
+   "languages": [
+    "uk"
+   ],
+   "channelCount": 11,
+   "version": 2026101312,
+   "file": "countries/UA.json"
   },
   {
    "code": "US",
@@ -690,8 +900,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 15,
-   "version": 2026101215,
+   "channelCount": 27,
+   "version": 2026101312,
    "file": "countries/US.json"
   },
   {
@@ -720,8 +930,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 9,
-   "version": 2026101306,
+   "channelCount": 11,
+   "version": 2026101312,
    "file": "countries/UY.json"
   },
   {
@@ -750,9 +960,39 @@
    "languages": [
     "es"
    ],
-   "channelCount": 6,
-   "version": 2026101215,
+   "channelCount": 4,
+   "version": 2026101312,
    "file": "countries/VE.json"
+  },
+  {
+   "code": "ZA",
+   "flag": "🇿🇦",
+   "name": {
+    "en": "South Africa",
+    "es": "Sudáfrica",
+    "zh-Hans": "南非",
+    "ja": "南アフリカ共和国",
+    "fr": "Afrique du Sud",
+    "pt-BR": "África do Sul",
+    "ko": "남아프리카 공화국",
+    "it": "Sudafrica",
+    "ru": "ЮАР",
+    "zh-Hant": "南非",
+    "ar": "جنوب إفريقيا",
+    "tr": "Güney Afrika",
+    "nl": "Zuid-Afrika",
+    "pl": "Południowa Afryka",
+    "sv": "Sydafrika",
+    "id": "Afrika Selatan",
+    "de": "Südafrika",
+    "ms": "Afrika Selatan"
+   },
+   "languages": [
+    "en"
+   ],
+   "channelCount": 5,
+   "version": 2026101312,
+   "file": "countries/ZA.json"
   }
  ]
 }

@@ -1,0 +1,14 @@
+{
+ "code": "IL",
+ "languages": ["he"],
+ "defaultTiles": [],
+ "channels": [
+  {"id": "i24en", "name": "i24NEWS English", "category": "news", "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg", "youtubeVideoId": "rS1uXqApZSI", "embeddable": true, "live": true, "liveSince": "2026-10-13T11:00:00Z", "languages": ["en"]},
+  {"id": "i24fr", "name": "i24NEWS Français", "category": "news", "youtubeChannelId": "UCgPYsPyGhhQJQ9zOUQDWDMA", "live": false, "languages": ["fr"]},
+  {"id": "i24ar", "name": "i24NEWS Arabic", "category": "news", "youtubeChannelId": "UC4LYR3v6kOIgEjrVARODP3w", "live": false, "languages": ["ar"]},
+  {"id": "i24he", "name": "i24NEWS עברית", "category": "news", "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ", "youtubeVideoId": "JVh4JgooELE", "embeddable": true, "live": true, "liveSince": "2026-10-13T09:00:00Z"},
+  {"id": "c14", "name": "ערוץ 14", "category": "news", "youtubeChannelId": "UCKEImtWikw9usC1pl_9m1nQ", "youtubeVideoId": "52m7aCvvhJI", "embeddable": true, "live": true, "liveSince": "2026-10-12T21:00:00Z"},
+  {"id": "kan11", "name": "כאן 11", "category": "broadcast", "youtubeChannelId": "UCKqFqiCe1dCUxRe0_YNZ6gg", "live": false},
+  {"id": "knesset", "name": "ערוץ הכנסת", "category": "government", "youtubeChannelId": "UCpjNXONNE-JUz7QACB1Cgcw", "live": false}
+ ]
+}

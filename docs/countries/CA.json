@@ -1,8 +1,11 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "ca.cbcnews",
+  "ca.cpac"
+ ],
  "channels": [
   {
    "id": "ca.cbcnews",
@@ -15,7 +18,7 @@
    "youtubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
    "youtubeVideoId": "5vfaDsMhCF4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931014",
    "description": {
     "en": "news division of the Canadian broadcast network CBC",
@@ -137,6 +140,46 @@
    "city": null
   },
   {
+   "id": "ca.radiocanada",
+   "name": "ICI RDI / Radio-Canada Info",
+   "category": "news",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UClxaaAzHu1B5EoTtBYea7ig",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q140876046",
+   "description": {
+    "en": "YouTube channel",
+    "fr": "chaine YouTube"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ca.citynews",
+   "name": "CityNews",
+   "category": "news",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UCVKAcQQCO8vv87Gk62SutAg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
    "id": "ca.bnn",
    "name": "BNN Bloomberg",
    "category": "economy",
@@ -164,6 +207,33 @@
    "city": "Toronto"
   },
   {
+   "id": "ca.cp24",
+   "name": "CP24",
+   "category": "regional",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UCs3o4RhBiP2wcwqkZR2QVLw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q660276",
+   "description": {
+    "en": "Canadian television channel",
+    "fr": "chaîne de télévision d'information en continu à Toronto",
+    "de": "kanadischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CP24",
+    "fr": "https://fr.wikipedia.org/wiki/CP24",
+    "de": "https://de.wikipedia.org/wiki/CP24"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CP24_black_logo.svg?width=256",
+   "website": "https://www.cp24.com/",
+   "city": "Toronto"
+  },
+  {
    "id": "ca.cpac",
    "name": "CPAC",
    "category": "government",
@@ -172,9 +242,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "vlnwFLNtCl0",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2931869",
    "description": {
     "en": "Canadian parliamentary broadcaster",

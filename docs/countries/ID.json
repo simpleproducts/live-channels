@@ -1,0 +1,296 @@
+{
+ "schema": 2,
+ "code": "ID",
+ "version": 2026101312,
+ "defaultTiles": [
+  "id.kompastv",
+  "id.cnnid",
+  "id.tvone",
+  "id.metrotv",
+  "id.inews",
+  "id.beritasatu"
+ ],
+ "channels": [
+  {
+   "id": "id.kompastv",
+   "name": "KompasTV",
+   "category": "news",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+   "youtubeVideoId": "DOOrIxw5xOw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q6428601",
+   "description": {
+    "en": "Indonesian television news network",
+    "es": "cadena de televisión indonesia propiedad del holding Kompas Gramedia Group",
+    "fr": "Kompas TV est un réseau de chaînes télévisées indonésiennes basé à Jakarta.",
+    "it": "rete televisiva indonesiana",
+    "pl": "indonezyjska stacja telewizyjna",
+    "id": "Jaringan televisi berita di Indonesia",
+    "ms": "Kompas TV ialah stesen televisyen swasta di Indonesia."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Kompas_TV",
+    "es": "https://es.wikipedia.org/wiki/Kompas_TV",
+    "fr": "https://fr.wikipedia.org/wiki/Kompas_TV",
+    "it": "https://it.wikipedia.org/wiki/Kompas_TV",
+    "pl": "https://pl.wikipedia.org/wiki/Kompas_TV",
+    "id": "https://id.wikipedia.org/wiki/Kompas_TV",
+    "ms": "https://ms.wikipedia.org/wiki/Kompas_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KOMPAS_TV_%282017%29.svg?width=256",
+   "website": "http://www.kompas.tv/",
+   "city": "Jakarta"
+  },
+  {
+   "id": "id.cnnid",
+   "name": "CNN Indonesia",
+   "category": "news",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCKII0Ml9S5wneKbHswmUrIQ",
+   "youtubeVideoId": "PDDOkUq33Sw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q18148009",
+   "description": {
+    "en": "Indonesian television news network",
+    "es": "CNN Indonesia es un canal de televisión por suscripción indonesio de origen estadounidense propiedad de Trans Media en una empresa conjunta con Warner Bros.",
+    "fr": "chaîne de télévision indonésienne",
+    "pt-BR": "CNN Indonesia é um canal de televisão aberto e por assinatura indonésio.",
+    "it": "rete televisiva indonesiana",
+    "ru": "Индонезийский информационный телеканал",
+    "pl": "indonezyjska stacja telewizyjna",
+    "id": "Jaringan televisi berita di Indonesia dan perusahaan asal Amerika Serikat",
+    "de": "Indonesischer Fernsehsender",
+    "ms": "Cable News Network Indonesia ialah sebuah stesen televisyen dan tapak berita milik Trans Media dengan kerjasama dengan Turner International."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNN_Indonesia",
+    "es": "https://es.wikipedia.org/wiki/CNN_Indonesia",
+    "fr": "https://fr.wikipedia.org/wiki/CNN_Indonesia",
+    "pt-BR": "https://pt.wikipedia.org/wiki/CNN_Indonesia",
+    "it": "https://it.wikipedia.org/wiki/CNN_Indonesia",
+    "pl": "https://pl.wikipedia.org/wiki/CNN_Indonesia",
+    "id": "https://id.wikipedia.org/wiki/CNN_Indonesia",
+    "de": "https://de.wikipedia.org/wiki/CNN_Indonesia",
+    "ms": "https://ms.wikipedia.org/wiki/CNN_Indonesia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNN_Indo.jpg?width=256",
+   "website": "http://www.cnnindonesia.com/",
+   "city": "Mampang Prapatan"
+  },
+  {
+   "id": "id.metrotv",
+   "name": "Metro TV",
+   "category": "news",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCzl0OrB3-ehunyotIQvK77A",
+   "youtubeVideoId": "rv446XM3ekg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4920542",
+   "description": {
+    "en": "Indonesian television station",
+    "es": "MetroTV es una cadena de televisión noticias de Indonesia.",
+    "zh-Hans": "美都电视台 是印尼的一家商营电视台，总部位于首都雅加達，由商人苏里亚·巴洛创立於2000年，其為印尼傳媒巨頭印尼传媒集团的主要成員之一，該集團除了擁有美都電視台之外，還擁有《传媒日报》、《楠榜郵報》等多份报纸。",
+    "fr": "MetroTV est un réseau de chaînes télévisées indonésiennes basé à Jakarta.",
+    "zh-Hant": "美都电视台 是印尼的一家商营电视台，总部位于首都雅加達，由商人苏里亚·巴洛创立於2000年，其為印尼傳媒巨頭印尼传媒集团的主要成員之一，該集團除了擁有美都電視台之外，還擁有《传媒日报》、《楠榜郵報》等多份报纸。",
+    "ar": "شركة إندونيسية",
+    "nl": "bedrijf uit Indonesië",
+    "pl": "indonezyjska stacja telewizyjna",
+    "id": "Jaringan televisi berita di Indonesia",
+    "de": "indonesischer Fernsehsender",
+    "ms": "MetroTV merupakan saluran berita Indonesia 24-jam yang pertama berpangkalan di Jakarta Barat."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Metro_TV_(Indonesian_TV_network)",
+    "es": "https://es.wikipedia.org/wiki/MetroTV_(Indonesia)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%BE%8E%E9%83%BD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/MetroTV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%BE%8E%E9%83%BD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%AA%D8%B1%D9%88_%D8%AA%D9%8A_%D9%81%D9%8A_(%D8%B4%D8%A8%D9%83%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A9)",
+    "pl": "https://pl.wikipedia.org/wiki/Metro_TV",
+    "id": "https://id.wikipedia.org/wiki/MetroTV",
+    "ms": "https://ms.wikipedia.org/wiki/MetroTV"
+   },
+   "logo": null,
+   "website": "https://www.metrotvnews.com/",
+   "city": "Jakarta Barat"
+  },
+  {
+   "id": "id.tvone",
+   "name": "tvOneNews",
+   "category": "news",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCER4rvDnRBPr_ncYW4UCZjg",
+   "youtubeVideoId": "rQJoEpzKkNk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3476210",
+   "description": {
+    "en": "Indonesian television news network",
+    "es": "Un canal de Televisión de Indonesia",
+    "fr": "station de télévision en Indonésie",
+    "pl": "indonezyjska stacja telewizyjna",
+    "id": "Jaringan televisi berita dan olahraga di Indonesia",
+    "de": "indonesischer Fernsehsender",
+    "ms": "tvOne ialah sebuah stesen televisyen swasta Indonesia yang didirikan oleh pengusaha Abdul Latief pada tahun 2001."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TvOne_(Indonesian_TV_network)",
+    "es": "https://es.wikipedia.org/wiki/TvOne_(Indonesia)",
+    "pl": "https://pl.wikipedia.org/wiki/TvOne",
+    "id": "https://id.wikipedia.org/wiki/TvOne",
+    "ms": "https://ms.wikipedia.org/wiki/TvOne"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TvOne_2023.svg?width=256",
+   "website": "http://www.tvonenews.tv",
+   "city": null
+  },
+  {
+   "id": "id.inews",
+   "name": "iNews",
+   "category": "news",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg",
+   "youtubeVideoId": "VL_X3t_36DQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4213609",
+   "description": {
+    "en": "Indonesian television news network",
+    "pl": "indonezyjska stacja telewizyjna",
+    "id": "Jaringan televisi berita dan olahraga di Indonesia",
+    "de": "Fernsehkanal",
+    "ms": "iNews ialah stesen televisyen swasta berjaringan di Indonesia."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/INews",
+    "pl": "https://pl.wikipedia.org/wiki/INews",
+    "id": "https://id.wikipedia.org/wiki/INews",
+    "ms": "https://ms.wikipedia.org/wiki/INews_(Indonesia)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/INews.svg?width=256",
+   "website": "https://www.inews.id",
+   "city": "Jakarta Pusat"
+  },
+  {
+   "id": "id.beritasatu",
+   "name": "BeritaSatu",
+   "category": "news",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCqLsfkQSM0yfyGvONAGWd3Q",
+   "youtubeVideoId": "tS5U5Sv9Zp4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q317541",
+   "description": {
+    "en": "Indonesian television network",
+    "pl": "indonezyjska stacja telewizyjna",
+    "id": "Jaringan televisi digital di Indonesia",
+    "ms": "BTV adalah salah satu pilihan saluran TV yang keudara sejak tahun 1998."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/BTV_(Indonesian_TV_channel)",
+    "pl": "https://pl.wikipedia.org/wiki/BTV_(Indonezja)",
+    "id": "https://id.wikipedia.org/wiki/BTV_(Indonesia)",
+    "ms": "https://ms.wikipedia.org/wiki/BTV_(Indonesia)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/BTV_%28Indonesia%29_logo.svg?width=256",
+   "website": "http://www.beritasatu.com/beritasatu-tv",
+   "city": "Jakarta"
+  },
+  {
+   "id": "id.cnbcid",
+   "name": "CNBC Indonesia",
+   "category": "economy",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCGN9JsnkvK05v2lnTI_-uGA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q25469731",
+   "description": {
+    "en": "Indonesian television news network",
+    "fr": "CNBC Indonesia est la chaîne indonésie diffusant des nouvelles financières lancée conjointement par CNBC, et Transmedia.",
+    "ru": "Индонезийский бизнес-телеканал",
+    "pl": "indonezyjska stacja telewizyjna",
+    "id": "Jaringan televisi di Indonesia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNBC_Indonesia",
+    "fr": "https://fr.wikipedia.org/wiki/CNBC_Indonesia",
+    "pl": "https://pl.wikipedia.org/wiki/CNBC_Indonesia",
+    "id": "https://id.wikipedia.org/wiki/CNBC_Indonesia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNBC_Indonesia_2024.svg?width=256",
+   "website": "https://www.cnbcindonesia.com",
+   "city": null
+  },
+  {
+   "id": "id.tvri",
+   "name": "TVRI Nasional",
+   "category": "broadcast",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1973495",
+   "description": {
+    "en": "Indonesian public television network",
+    "es": "canal de televisión pública de Indonesia",
+    "zh-Hans": "印度尼西亚共和国电视台 是一家国有、公共广播电视网络，也是印度尼西亚历史最悠久的电视机构。",
+    "ja": "TVRI は、インドネシアにおける全国規模のテレビネットワーク型公共放送である。TVRIは公共放送機関として、インドネシア公共ラジオ（RRI）とともに位置づけられており、放送法によって規定されている。TVRIはインドネシアで最初のテレビネットワークであり、1962年8月24日に放送を開始し、この日は「国家テレビの日」として記念されている。",
+    "fr": "chaîne de télévision",
+    "ko": "TVRI(인도네시아어: Televisi Republik Indonesia 텔레비시 레푸블리크 인도네시아[*])은 인도네시아의 공영 텔레비전 방송국으로, 인도네시아에서 가장 오래된 텔레비전 네트워크이다.",
+    "it": "ente televisivo pubblico indonesiano",
+    "ru": "индонезийская государственная телекомпания",
+    "zh-Hant": "印度尼西亚共和国电视台 是一家国有、公共广播电视网络，也是印度尼西亚历史最悠久的电视机构。",
+    "ar": "شبكة تلفزيونية عامة",
+    "pl": "indonezyjski nadawca telewizji publicznej",
+    "sv": "TVRI är en TV-kanal, som ägs av den indonesiska staten.",
+    "id": "jaringan televisi publik di Indonesia",
+    "de": "indonesischer Fernsehsender",
+    "ms": "Televisi Republik Indonesia (TVRI) atau dikenali secara sahnya sebagai Lembaga Penyiaran Publik Televisi Republik Indonesia adalah rangkaian televisyen awam Indonesia serta rangkaian televisyen tertua di negara tersebut."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TVRI",
+    "es": "https://es.wikipedia.org/wiki/Televisi_Republik_Indonesia",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E5%85%B1%E5%92%8C%E5%9B%BD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/TVRI",
+    "fr": "https://fr.wikipedia.org/wiki/TVRI",
+    "ko": "https://ko.wikipedia.org/wiki/TVRI",
+    "it": "https://it.wikipedia.org/wiki/TVRI",
+    "ru": "https://ru.wikipedia.org/wiki/TVRI",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E5%85%B1%E5%92%8C%E5%9B%BD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7",
+    "pl": "https://pl.wikipedia.org/wiki/TVRI",
+    "sv": "https://sv.wikipedia.org/wiki/TVRI",
+    "id": "https://id.wikipedia.org/wiki/Televisi_Republik_Indonesia",
+    "de": "https://de.wikipedia.org/wiki/Televisi_Republik_Indonesia",
+    "ms": "https://ms.wikipedia.org/wiki/Televisi_Republik_Indonesia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRILogo2019.svg?width=256",
+   "website": "http://tvri.go.id/",
+   "city": "Jakarta"
+  }
+ ]
+}

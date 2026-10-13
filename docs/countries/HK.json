@@ -1,0 +1,136 @@
+{
+ "schema": 2,
+ "code": "HK",
+ "version": 2026101312,
+ "defaultTiles": [
+  "hk.phoenixtv"
+ ],
+ "channels": [
+  {
+   "id": "hk.phoenixtv",
+   "name": "鳳凰衛視 Phoenix TV",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC4vnLYInDvXtLKGOZieMeMw",
+   "youtubeVideoId": "Ry--eMIjYLQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "hk.tvbnews",
+   "name": "TVB NEWS 無綫新聞",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC_ifDTtFAcsj-wJ5JfM27CQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "hk.cablenews",
+   "name": "有線新聞 Cable News",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC_q7e5XYJB0JDGagcF0KW0w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "hk.nownews",
+   "name": "Now 新聞",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCg8EwsqYmiw7G267xxPyXsg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10883984",
+   "description": {
+    "en": "news website based in Taiwan",
+    "zh-Hans": "台湾新闻网站",
+    "zh-Hant": "臺灣新聞網站",
+    "nl": "website"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NOWnews",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/NOWnews%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/NOWnews%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E"
+   },
+   "logo": null,
+   "website": "https://www.nownews.com/",
+   "city": "內湖區"
+  },
+  {
+   "id": "hk.rthk",
+   "name": "RTHK 香港電台",
+   "category": "broadcast",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC6of7UYhctnYmqABjUqzuxw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1153480",
+   "description": {
+    "en": "Hong Kong public broadcaster",
+    "es": "canal público de radiodifusión de Hong Kong",
+    "zh-Hans": "香港公共电台",
+    "ja": "香港電台 は、香港にある公共放送局。1928年にラジオの放送を開始した。略称は港台、RTHK。",
+    "fr": "société d'audiovisuel public de Hong Kong",
+    "pt-BR": "Radio Television Hong Kong, mais conhecida pela sigla RTHK, é uma rede de televisão e rádio pública pertencente ao Governo de Hong Kong.",
+    "ko": "홍콩라디오텔레비전(Radio Television Hong Kong, 약칭 RTHK, 향항전대, 香港電臺)은 홍콩의 공영 방송국이다.",
+    "it": "televisione di Hong Kong",
+    "zh-Hant": "香港公共電臺",
+    "nl": "Radio Television Hong Kong of RTHK is een Hongkongse publieke omroepstichting die door de Speciale Bestuurlijke Regio Hongkong wordt gesubsidieerd.",
+    "id": "Radio Television Hong Kong adalah sebuah layanan penyiaran masyarakat Hong Kong.",
+    "de": "öffentlich-rechtlicher Rundfunk in Hongkong",
+    "ms": "Radio Television Hong Kong (RTHK) ialah sebuah pertubuhan penyiaran awam di Hong Kong yang beroperasi sebagai jabatan kerajaan yang bebas di bawah Pihak Berkuasa Penyiaran."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RTHK",
+    "es": "https://es.wikipedia.org/wiki/RTHK",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/RTHK",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Radio_Television_Hong_Kong",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%99%8D%EC%BD%A9%EB%9D%BC%EB%94%94%EC%98%A4%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%8F%B0",
+    "nl": "https://nl.wikipedia.org/wiki/RTHK",
+    "id": "https://id.wikipedia.org/wiki/RTHK",
+    "de": "https://de.wikipedia.org/wiki/Radio_Television_Hong_Kong",
+    "ms": "https://ms.wikipedia.org/wiki/RTHK"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Television_Hong_Kong_Logo.svg?width=256",
+   "website": "https://www.rthk.hk/",
+   "city": "九龍"
+  }
+ ]
+}

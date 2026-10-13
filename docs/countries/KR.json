@@ -1,8 +1,18 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026101215,
- "defaultTiles": [],
+ "version": 2026101312,
+ "defaultTiles": [
+  "kr.ytn",
+  "kr.yonhap",
+  "kr.mbc",
+  "kr.kbs",
+  "kr.sbs",
+  "kr.jtbc",
+  "kr.channela",
+  "kr.tvchosun",
+  "kr.mbn"
+ ],
  "channels": [
   {
    "id": "kr.ytn",
@@ -12,9 +22,9 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "40meFLZstDg",
+   "youtubeVideoId": "GS-s3c6BoZU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q487590",
    "description": {
     "en": "South Korean news channel",
@@ -49,9 +59,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "hlIzg7EMO34",
+   "youtubeVideoId": "yN3a3VKssiA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16162835",
    "description": {
     "en": "South Korean television network",
@@ -79,9 +89,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "WF1lASJnVeY",
+   "youtubeVideoId": "UA8FPSvQQFo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6495373",
    "description": {
     "en": "South Korean TV series or program",
@@ -117,9 +127,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "iqEUN2cnb1Q",
+   "youtubeVideoId": "l18sw8SE0A4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -135,9 +145,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "_9WIdT_pn8I",
+   "youtubeVideoId": "4HxQp53GiWk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -153,9 +163,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-   "youtubeVideoId": "2sN5hmgAaVo",
+   "youtubeVideoId": "VKqcV0YE8eA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -171,9 +181,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "vKeITAEfSU0",
+   "youtubeVideoId": "8bhxPDzijj8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q492438",
    "description": {
     "en": "South Korean TV channel",
@@ -216,9 +226,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-   "youtubeVideoId": "68B0kHJAze8",
+   "youtubeVideoId": "K_5rI2-KU8I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -234,9 +244,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
-   "youtubeVideoId": "gNezATKliZ0",
+   "youtubeVideoId": "yB3hg1zcVbE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -263,6 +273,56 @@
    "city": null
   },
   {
+   "id": "kr.yonhapnews",
+   "name": "연합뉴스 Yonhapnews",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCj3_t5p4L4aFsvdW3uHjnnw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q333206",
+   "description": {
+    "en": "South Korean news agency",
+    "es": "agencia de noticias de Corea del Sur",
+    "zh-Hans": "韩国通讯社",
+    "ja": "大韓民国の通信社",
+    "fr": "agence de presse sud-coréenne",
+    "pt-BR": "A Yonhap é a principal agência de notícias da Coreia do Sul.",
+    "ko": "대한민국의 국가 기간 뉴스 통신사",
+    "ru": "«Рёнхап» или «Йонхап» — крупнейшее информационное агентство Республики Корея, которое публикует новостные статьи, фотографии и другую информацию из газет, телевизионных сетей и других средств массовой информации в Корее.",
+    "zh-Hant": "通訊社",
+    "ar": "وكالة أنباء يونهاب المعروفة باسم يونهاب هي إحدى كبرى وكالات الأنباء في كوريا الجنوبية، يونهاب تقوم بتزويد الجرائد وشبكات التلفزيون ومختلف وسائل الإعلام، بالصور ومقالات الأخبار والمعلومات الأخري في كوريا الجنوبية، تأسست في 19 ديسمبر، 1980، باندماج بين وكالة أنباء هابدونغ وأورينت برس على شكل وكالة…",
+    "tr": "Yonhap News Agency, Güney Kore merkezli bir haber ajansıdır.",
+    "pl": "Yonhap News Agency – agencja informacyjna działająca w Korei Południowej.",
+    "id": "Yonhap News Agency adalah agensi berita terbesar di Korea Selatan.",
+    "de": "südkoreanische Nachrichtenagentur",
+    "ms": "Yonhap News Agency ialah sebuah agensi berita terbesar di Korea Selatan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Yonhap_News_Agency",
+    "es": "https://es.wikipedia.org/wiki/Yonhap",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%9F%93%E5%9C%8B%E8%81%AF%E5%90%88%E9%80%9A%E8%A8%8A%E7%A4%BE",
+    "ja": "https://ja.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9",
+    "fr": "https://fr.wikipedia.org/wiki/Yonhap",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Yonhap",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A0%D1%91%D0%BD%D1%85%D0%B0%D0%BF",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%9F%93%E5%9C%8B%E8%81%AF%E5%90%88%E9%80%9A%E8%A8%8A%E7%A4%BE",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%86%D9%87%D8%A7%D8%A8_(%D9%88%D9%83%D8%A7%D9%84%D8%A9_%D8%A3%D9%86%D8%A8%D8%A7%D8%A1)",
+    "tr": "https://tr.wikipedia.org/wiki/Yonhap",
+    "pl": "https://pl.wikipedia.org/wiki/Yonhap_News_Agency",
+    "id": "https://id.wikipedia.org/wiki/Yonhap",
+    "de": "https://de.wikipedia.org/wiki/Yonhap_News_Agency",
+    "ms": "https://ms.wikipedia.org/wiki/Yonhap_(agensi_berita)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4_%EB%A1%9C%EA%B3%A0.png?width=256",
+   "website": "https://www.yna.co.kr/",
+   "city": "종로구"
+  },
+  {
    "id": "kr.sbsbiz",
    "name": "SBS Biz",
    "category": "economy",
@@ -273,12 +333,30 @@
    "youtubeVideoId": null,
    "embeddable": null,
    "live": false,
-   "wikidata": null,
-   "description": {},
-   "wikipedia": {},
-   "logo": null,
-   "website": null,
-   "city": null
+   "wikidata": "Q7388983",
+   "description": {
+    "en": "news channel in South Korea",
+    "es": "SBS CNBC es un canal de noticias de Corea del Sur, enfocado en la emisión principalmente de negocios y mercados financieros, es propiedad de NBC Universal y SBS Media Holdings, emite las 24 horas del día desde Seúl.",
+    "zh-Hans": "大韓民國24小時財經新聞頻道",
+    "fr": "chaîne de télévision d'information sud-coréenne",
+    "ko": "SBS 계열의 경제 전문 채널",
+    "zh-Hant": "大韓民國24小時財經新聞頻道",
+    "de": "südkoreanischer Nachrichtensender",
+    "ms": "SBS Biz adalah saluran berita perniagaan 24 jam di Korea Selatan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/SBS_Biz",
+    "es": "https://es.wikipedia.org/wiki/SBS_CNBC",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/SBS_Biz",
+    "fr": "https://fr.wikipedia.org/wiki/SBS_Biz",
+    "ko": "https://ko.wikipedia.org/wiki/SBS_Biz",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/SBS_Biz",
+    "de": "https://de.wikipedia.org/wiki/SBS_Biz",
+    "ms": "https://ms.wikipedia.org/wiki/SBS_Biz"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SBS_CNBC_CI.svg?width=256",
+   "website": "http://sbscnbc.sbs.co.kr/",
+   "city": "마포구"
   },
   {
    "id": "kr.natv",
@@ -288,9 +366,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
-   "youtubeVideoId": "b6KjV-XDTHc",
+   "youtubeVideoId": "I3QW3F-xFzY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q83624247",
    "description": {
     "en": "Korean public-service television network",
@@ -349,7 +427,7 @@
    "youtubeChannelId": "UC-PHIZjV-oX8H7zD1cCN2NQ",
    "youtubeVideoId": "hvVlyZ5GiE8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q167618",
    "description": {
     "en": "English-language television network based in Seoul, South Korea",
@@ -403,7 +481,7 @@
    "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig",
    "youtubeVideoId": "aHfx83ObCac",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q484855",
    "description": {
     "en": "international broadcasting service",
