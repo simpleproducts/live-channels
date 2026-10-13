@@ -1,16 +1,8 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026101312,
- "defaultTiles": [
-  "gb.bbcnewsarabic",
-  "gb.skynews",
-  "gb.gbnews",
-  "gb.reuters",
-  "gb.talktv",
-  "gb.guardian",
-  "gb.timesradio"
- ],
+ "version": 2026101313,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "gb.skynews",
@@ -22,7 +14,7 @@
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
    "youtubeVideoId": "zqmqcXFCdu4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -133,7 +125,7 @@
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
    "youtubeVideoId": "hqVMQfchC6U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q100300992",
    "description": {
     "en": "British television news channel",
@@ -172,7 +164,7 @@
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
    "youtubeVideoId": "0zTXsiTkdcM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -228,7 +220,7 @@
    "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
    "youtubeVideoId": "Ezsyi9lEZ2o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q108760651",
    "description": {
     "en": "British television channel",
@@ -251,7 +243,7 @@
    "youtubeChannelId": "UCelk6aHijZq-GJBBB9YpReA",
    "youtubeVideoId": "O1pGmVtj2Y8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q973341",
    "description": {
     "en": "television channel",
@@ -354,7 +346,7 @@
    "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA",
    "youtubeVideoId": "9ob2MGCZptQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5614018",
    "description": {
     "en": "British news website",
@@ -540,7 +532,7 @@
    "youtubeChannelId": "UCF-VP3b3oH0XASqsLI5rnLw",
    "youtubeVideoId": "3EaWrWqt7dk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

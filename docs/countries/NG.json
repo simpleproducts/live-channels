@@ -1,15 +1,8 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026101312,
- "defaultTiles": [
-  "ng.channelstv",
-  "ng.arisenews",
-  "ng.tvcnews",
-  "ng.ntalive",
-  "ng.ait",
-  "ng.nta"
- ],
+ "version": 2026101313,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "ng.channelstv",
@@ -21,7 +14,7 @@
    "youtubeChannelId": "UCEXGDNclvmg6RW0vipJYsTQ",
    "youtubeVideoId": "d4zDorDl5UE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -39,7 +32,7 @@
    "youtubeChannelId": "UCyEJX-kSj0kOOCS7Qlq2G7g",
    "youtubeVideoId": "wqAwGhKnkjc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -57,7 +50,7 @@
    "youtubeChannelId": "UCgp4A6I8LCWrhUzn-5SbKvA",
    "youtubeVideoId": "wIPhskriRwM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28401298",
    "description": {
     "en": "Nigerian 24-hour television news channel",
@@ -80,7 +73,7 @@
    "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg",
    "youtubeVideoId": "Mnr6quPjlYE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -98,7 +91,7 @@
    "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g",
    "youtubeVideoId": "6dPrHUTybm4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q979027",
    "description": {
     "en": "broadcast network",
@@ -122,7 +115,7 @@
    "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g",
    "youtubeVideoId": "zfL2-oaSLCg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

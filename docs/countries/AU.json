@@ -1,10 +1,8 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026101312,
- "defaultTiles": [
-  "au.abcnews"
- ],
+ "version": 2026101313,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "au.abcnews",
@@ -16,7 +14,7 @@
    "youtubeChannelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
    "youtubeVideoId": "vOTiJkg1voo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4650197",
    "description": {
     "en": "news service by the Australian Broadcasting Corporation",

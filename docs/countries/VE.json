@@ -1,11 +1,8 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026101312,
- "defaultTiles": [
-  "ve.vpitv",
-  "ve.unionradio"
- ],
+ "version": 2026101313,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "ve.vpitv",
@@ -17,7 +14,7 @@
    "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w",
    "youtubeVideoId": "SaMzkvXN0II",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q59345050",
    "description": {
     "en": "Venezuelan streaming channel",
@@ -83,7 +80,7 @@
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
    "youtubeVideoId": "6hKUqF2Pgx0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5770016",
    "description": {
     "en": "Venezuela",

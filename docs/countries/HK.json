@@ -1,10 +1,8 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026101312,
- "defaultTiles": [
-  "hk.phoenixtv"
- ],
+ "version": 2026101313,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "hk.phoenixtv",
@@ -16,7 +14,7 @@
    "youtubeChannelId": "UC4vnLYInDvXtLKGOZieMeMw",
    "youtubeVideoId": "Ry--eMIjYLQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

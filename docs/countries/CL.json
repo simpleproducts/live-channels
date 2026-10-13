@@ -1,18 +1,8 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026101312,
- "defaultTiles": [
-  "cl.t13",
-  "cl.meganoticias",
-  "cl.24horas",
-  "cl.chvnoticias",
-  "cl.cnnchile",
-  "cl.biobio",
-  "cl.senado",
-  "cl.tvn",
-  "cl.chilevision"
- ],
+ "version": 2026101313,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "cl.meganoticias",
@@ -24,7 +14,7 @@
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
    "youtubeVideoId": "3EVYFMTqt_c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -42,7 +32,7 @@
    "youtubeChannelId": "UCTXNz3gjAypWp3EhlIATEJQ",
    "youtubeVideoId": "nnubB8tf_K0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2935885",
    "description": {
     "en": "24 horas is the brand that identifies the gathering and broadcasting of news in the Chilean public broadcaster Televisión Nacional de Chile.",
@@ -69,7 +59,7 @@
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
    "youtubeVideoId": "KxcmHi43DwM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -87,7 +77,7 @@
    "youtubeChannelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
    "youtubeVideoId": "oy1dvCRd42s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -105,7 +95,7 @@
    "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
    "youtubeVideoId": "7Xkfncls6C4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2931771",
    "description": {
     "en": "Chilean television news channel",
@@ -139,7 +129,7 @@
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
    "youtubeVideoId": "rQkf0DNoE3Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -170,7 +160,7 @@
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
    "youtubeVideoId": "v6U_7nli2o4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597933",
    "description": {
     "en": "Chilean public service broadcaster",
@@ -226,7 +216,7 @@
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
    "youtubeVideoId": "_orNTL3v3e0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -268,7 +258,7 @@
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
    "youtubeVideoId": "q712rxGtjHY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -322,7 +312,7 @@
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
    "youtubeVideoId": "5ef4tBwwrtU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -412,7 +402,7 @@
    "youtubeChannelId": "UC4GJ43VNn4AYfiYa0RBCHQg",
    "youtubeVideoId": "ScMO3oncXdM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2119458",
    "description": {
     "en": "Upper house of Chile's National Congress",
@@ -506,7 +496,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "iHxCqrkPa7k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -533,7 +523,7 @@
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
    "youtubeVideoId": "AFnTOuioW4A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
