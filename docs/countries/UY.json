@@ -1,10 +1,8 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026101223,
- "defaultTiles": [
-  "uy.tvciudad"
- ],
+ "version": 2026101306,
+ "defaultTiles": [],
  "channels": [
   {
    "id": "uy.elobservadoruy",
@@ -189,7 +187,7 @@
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
    "youtubeVideoId": "9OtUbtXisvk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",

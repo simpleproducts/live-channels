@@ -8,7 +8,7 @@
   {"id": "canal4", "name": "Canal 4", "category": "broadcast", "youtubeChannelId": "UCp6X5jzfmwbOeclRArOi18g", "youtubeVideoId": "RHUWZzLgD9U", "embeddable": true, "live": false, "wikidata": "Q3565404"},
   {"id": "tnu", "name": "Canal 5 (TNU)", "category": "broadcast", "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA", "youtubeVideoId": "MxsBxx-miQw", "embeddable": true, "live": false, "wikidata": "Q1775667"},
   {"id": "canal10", "name": "Canal 10", "category": "broadcast", "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q", "live": false, "wikidata": "Q2436756"},
-  {"id": "tvciudad", "name": "TV Ciudad", "category": "regional", "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA", "youtubeVideoId": "9OtUbtXisvk", "embeddable": true, "live": true, "liveSince": "2026-10-12T21:00:00Z", "wikidata": "Q17630938"},
+  {"id": "tvciudad", "name": "TV Ciudad", "category": "regional", "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA", "youtubeVideoId": "9OtUbtXisvk", "embeddable": true, "live": false, "wikidata": "Q17630938"},
   {"id": "carve", "name": "Carve Deportiva", "category": "sports", "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ", "youtubeVideoId": "MKZMT0zR4kY", "embeddable": true, "live": false, "wikidata": "Q16953379"},
   {"id": "delsol", "name": "Del Sol FM", "category": "radio", "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA", "youtubeVideoId": "UBSPEZoH1hI", "embeddable": true, "live": false},
   {"id": "sarandi", "name": "Radio Sarandí", "category": "radio", "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ", "youtubeVideoId": "cbO8VDDL26Y", "embeddable": true, "live": false}
