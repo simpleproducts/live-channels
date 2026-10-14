@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026101320,
+ "version": 2026101401,
  "defaultTiles": [
-  "eg.alghad",
   "eg.alqahera",
+  "eg.alghad",
   "eg.extranews",
   "eg.alnahar"
  ],
