@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026101320,
+ "version": 2026101408,
  "defaultTiles": [
-  "us.cnn",
-  "us.newsmax",
-  "us.foxweather",
   "us.abcnews",
+  "us.cnn",
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
+  "us.newsmax",
   "us.scripps",
+  "us.foxweather",
   "us.newsnation"
  ],
  "channels": [

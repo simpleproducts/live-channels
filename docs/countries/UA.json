@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026101320,
+ "version": 2026101408,
  "defaultTiles": [
   "ua.suspilne",
+  "ua.kyiv24",
   "ua.pryamiy",
   "ua.5kanal",
   "ua.united24",
   "ua.tsn",
   "ua.faktyictv",
   "ua.espreso",
-  "ua.kyiv24",
   "ua.freedom"
  ],
  "channels": [

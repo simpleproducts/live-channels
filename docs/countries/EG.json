@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026101401,
+ "version": 2026101408,
  "defaultTiles": [
   "eg.alqahera",
-  "eg.alghad",
   "eg.extranews",
+  "eg.alghad",
   "eg.alnahar"
  ],
  "channels": [

@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026101320,
+ "version": 2026101408,
  "defaultTiles": [
-  "uy.elobservadoruy",
   "uy.ladiaria",
+  "uy.elobservadoruy",
+  "uy.sarandi",
   "uy.tnu",
   "uy.carve",
   "uy.delsol",
-  "uy.sarandi",
   "uy.tvciudad"
  ],
  "channels": [

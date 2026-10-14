@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026101320,
+ "version": 2026101408,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -9,8 +9,8 @@
   "co.eltiempo",
   "co.caracoltv",
   "co.citytv",
-  "co.rcnradio",
   "co.bluradio",
+  "co.rcnradio",
   "co.caracolradio"
  ],
  "channels": [

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026101320,
+ "version": 2026101408,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
@@ -11,7 +11,7 @@
   "in.zeenews",
   "in.news18india",
   "in.tv9bharatvarsh",
-  "in.ndtv"
+  "in.wion"
  ],
  "channels": [
   {
