@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026101414,
+ "version": 2026101419,
  "defaultTiles": [
   "mx.milenio",
   "mx.nmas",
-  "mx.adnnoticias",
-  "mx.aztecanoticias",
   "mx.heraldo",
   "mx.unotv",
+  "mx.adnnoticias",
+  "mx.aztecanoticias",
   "mx.multimedios",
-  "mx.canalcongreso",
-  "mx.wradio"
+  "mx.canalonce",
+  "mx.canal14"
  ],
  "channels": [
   {

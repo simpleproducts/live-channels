@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026101414,
+ "version": 2026101419,
  "defaultTiles": [
   "tr.cnnturk",
   "tr.trthaber",
+  "tr.haberturk",
   "tr.ntv",
   "tr.halktv",
+  "tr.sozcu",
   "tr.ahaber",
   "tr.tgrthaber",
-  "tr.haberglobal",
-  "tr.24tv",
-  "tr.haberturk"
+  "tr.haberglobal"
  ],
  "channels": [
   {

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-14T14:38:10Z",
+ "updated": "2026-10-14T19:32:24Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026101414,
+   "version": 2026101419,
    "file": "countries/AR.json"
   },
   {
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026101414,
+   "version": 2026101419,
    "file": "countries/BR.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026101414,
+   "version": 2026101419,
    "file": "countries/CL.json"
   },
   {
@@ -390,7 +390,7 @@
     "en"
    ],
    "channelCount": 14,
-   "version": 2026101414,
+   "version": 2026101419,
    "file": "countries/GB.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026101320,
+   "version": 2026101419,
    "file": "countries/JP.json"
   },
   {
@@ -662,7 +662,7 @@
     "es"
    ],
    "channelCount": 25,
-   "version": 2026101414,
+   "version": 2026101419,
    "file": "countries/MX.json"
   },
   {
@@ -692,7 +692,7 @@
     "en"
    ],
    "channelCount": 6,
-   "version": 2026101408,
+   "version": 2026101419,
    "file": "countries/NG.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 16,
-   "version": 2026101414,
+   "version": 2026101419,
    "file": "countries/PE.json"
   },
   {
@@ -993,7 +993,7 @@
     "ar"
    ],
    "channelCount": 6,
-   "version": 2026101320,
+   "version": 2026101419,
    "file": "countries/SA.json"
   },
   {
@@ -1083,7 +1083,7 @@
     "tr"
    ],
    "channelCount": 19,
-   "version": 2026101414,
+   "version": 2026101419,
    "file": "countries/TR.json"
   },
   {
@@ -1113,7 +1113,7 @@
     "uk"
    ],
    "channelCount": 11,
-   "version": 2026101414,
+   "version": 2026101419,
    "file": "countries/UA.json"
   },
   {
@@ -1173,7 +1173,7 @@
     "es"
    ],
    "channelCount": 12,
-   "version": 2026101414,
+   "version": 2026101419,
    "file": "countries/UY.json"
   },
   {

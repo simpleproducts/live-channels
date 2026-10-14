@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026101414,
+ "version": 2026101419,
  "defaultTiles": [
   "cl.meganoticias",
-  "cl.t13",
-  "cl.biobio",
   "cl.24horas",
   "cl.chvnoticias",
+  "cl.t13",
+  "cl.biobio",
   "cl.tvn",
   "cl.chilevision",
   "cl.canal13",

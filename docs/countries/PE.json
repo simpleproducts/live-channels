@@ -1,15 +1,15 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026101414,
+ "version": 2026101419,
  "defaultTiles": [
-  "pe.latina",
   "pe.larepublica",
-  "pe.rpp",
+  "pe.latina",
   "pe.willax",
   "pe.tvperunoticias",
-  "pe.exitosa",
+  "pe.rpp",
   "pe.congreso",
+  "pe.exitosa",
   "pe.radionacional"
  ],
  "channels": [

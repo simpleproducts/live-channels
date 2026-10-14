@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026101320,
+ "version": 2026101419,
  "defaultTiles": [
-  "jp.fnn",
-  "jp.ann",
   "jp.tbs",
-  "jp.ntvnews",
+  "jp.fnn",
   "jp.weathernews",
+  "jp.ann",
+  "jp.ntvnews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.htb",
