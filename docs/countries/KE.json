@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026101320,
+ "version": 2026101414,
  "defaultTiles": [
   "ke.citizentv",
+  "ke.ntv",
   "ke.ktn",
   "ke.k24",
-  "ke.ntv",
   "ke.ramogi",
   "ke.inooro"
  ],

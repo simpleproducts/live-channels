@@ -1,15 +1,15 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026101320,
+ "version": 2026101414,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
   "ar.a24",
+  "ar.canal26",
   "ar.cronica",
   "ar.canalrural",
   "ar.lnmas",
-  "ar.canal26",
   "ar.infobae",
   "ar.tvpublica"
  ],

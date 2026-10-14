@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026101320,
+ "version": 2026101414,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
-  "fr.euronewsfr",
   "fr.bfmtv",
+  "fr.euronewsfr",
   "fr.france24en",
   "fr.euronews",
   "fr.france24es",

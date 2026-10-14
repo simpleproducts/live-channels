@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026101408,
+ "version": 2026101414,
  "defaultTiles": [
   "mx.milenio",
   "mx.nmas",
@@ -10,8 +10,8 @@
   "mx.heraldo",
   "mx.unotv",
   "mx.multimedios",
-  "mx.imagenradio",
-  "mx.mvsnoticias"
+  "mx.canalcongreso",
+  "mx.wradio"
  ],
  "channels": [
   {

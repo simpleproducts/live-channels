@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026101408,
+ "version": 2026101414,
  "defaultTiles": [
   "kr.ytn",
+  "kr.yonhap",
+  "kr.mbc",
+  "kr.kbs",
   "kr.sbs",
   "kr.jtbc",
   "kr.channela",
   "kr.tvchosun",
-  "kr.mbn",
-  "kr.yonhap",
-  "kr.mbc",
-  "kr.kbs"
+  "kr.mbn"
  ],
  "channels": [
   {

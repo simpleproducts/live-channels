@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026101320,
+ "version": 2026101414,
  "defaultTiles": [
-  "gb.skynews",
-  "gb.gbnews",
   "gb.talktv",
   "gb.guardian",
+  "gb.skynews",
+  "gb.gbnews",
   "gb.bbcnewsarabic",
   "gb.timesradio",
-  "gb.talksport",
-  "gb.lbc"
+  "gb.lbc",
+  "gb.talksport"
  ],
  "channels": [
   {

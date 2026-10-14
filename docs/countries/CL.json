@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026101408,
+ "version": 2026101414,
  "defaultTiles": [
   "cl.meganoticias",
   "cl.t13",
@@ -9,9 +9,9 @@
   "cl.24horas",
   "cl.chvnoticias",
   "cl.tvn",
-  "cl.senado",
-  "cl.t13radio",
-  "cl.cooperativa"
+  "cl.chilevision",
+  "cl.canal13",
+  "cl.senado"
  ],
  "channels": [
   {

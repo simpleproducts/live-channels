@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026101320,
+ "version": 2026101414,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -9,9 +9,9 @@
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
+  "es.apunt",
   "es.rtvcanarias",
-  "es.telemadrid",
-  "es.apunt"
+  "es.telemadrid"
  ],
  "channels": [
   {

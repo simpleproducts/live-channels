@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026101320,
+ "version": 2026101414,
  "defaultTiles": [
-  "br.canalrural",
-  "br.recordnews",
   "br.cnnbrasil",
   "br.jovempan",
   "br.sbtnews",
+  "br.canalrural",
   "br.uol",
+  "br.recordnews",
   "br.metropoles",
-  "br.canalgov",
-  "br.gaucha"
+  "br.tvbrasil",
+  "br.redetv"
  ],
  "channels": [
   {
