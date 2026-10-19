@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-14T19:32:24Z",
+ "updated": "2026-10-19T20:56:39Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026101419,
+   "version": 2026101920,
    "file": "countries/AR.json"
   },
   {
@@ -1083,7 +1083,7 @@
     "tr"
    ],
    "channelCount": 19,
-   "version": 2026101419,
+   "version": 2026101920,
    "file": "countries/TR.json"
   },
   {
