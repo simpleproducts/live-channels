@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026101319,
+ "version": 2026102022,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
@@ -31,14 +31,16 @@
     "zh-Hans": "泰国公共电视台，是泰国的公共广播机构，2008年根据相关法案成立，同年1月15日正式开播。其前身为私营电视台iTV及TITV。旗下拥有ALTV4频道，用于播放教育节目及纪录片。",
     "ko": "타이의 방송국",
     "zh-Hant": "泰国公共电视台，是泰国的公共广播机构，2008年根据相关法案成立，同年1月15日正式开播。其前身为私营电视台iTV及TITV。旗下拥有ALTV4频道，用于播放教育节目及纪录片。",
-    "de": "thailändische Rundfunkanstalt"
+    "de": "thailändische Rundfunkanstalt",
+    "ms": "Perkhidmatan Penyiaran Awam Thai, atau Thai PBS,Templat:EFN ialah perkhidmatan penyiaran awam di Thailand."
    },
    "wikipedia": {
     "en": "https://en.wikipedia.org/wiki/Thai_Public_Broadcasting_Service",
     "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B3%B0%E5%9B%BD%E5%85%AC%E5%85%B1%E7%94%B5%E8%A7%86%E5%8F%B0",
     "ko": "https://ko.wikipedia.org/wiki/%ED%83%9C%EA%B5%AD_%EA%B3%B5%EC%98%81%EB%B0%A9%EC%86%A1%EC%82%AC",
     "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B3%B0%E5%9B%BD%E5%85%AC%E5%85%B1%E7%94%B5%E8%A7%86%E5%8F%B0",
-    "de": "https://de.wikipedia.org/wiki/Thai_PBS"
+    "de": "https://de.wikipedia.org/wiki/Thai_PBS",
+    "ms": "https://ms.wikipedia.org/wiki/Perkhidmatan_Penyiaran_Awam_Thailand"
    },
    "logo": null,
    "website": "https://www.thaipbs.or.th/",

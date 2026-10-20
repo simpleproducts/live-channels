@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026101414,
+ "version": 2026102022,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -497,7 +497,7 @@
     "en": "https://en.wikipedia.org/wiki/La_FM",
     "es": "https://es.wikipedia.org/wiki/La_FM"
    },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_FM_logo.svg?width=256",
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-La-FM-2026.png?width=256",
    "website": "http://www.lafm.com.co/",
    "city": null
   },

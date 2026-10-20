@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026101419,
+ "version": 2026102022,
  "defaultTiles": [
   "pe.larepublica",
   "pe.latina",
@@ -392,7 +392,7 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_del_Congreso_%28Per%C3%BA%29.png?width=256",
    "website": "http://www.congreso.gob.pe/",
-   "city": "Provincia de Lima"
+   "city": "provincia de Lima"
   },
   {
    "id": "pe.exitosa",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026101920,
+ "version": 2026102022,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -334,24 +334,25 @@
    "wikidata": "Q1032483",
    "description": {
     "en": "Argentine public television channel",
-    "es": "canal de televisión de Argentina",
+    "es": "canal de televisión estatal argentina",
     "ja": "アルゼンチン公共放送テレビ は、アルゼンチンの公共放送機関である。運営資金は政府からの交付金と広告料によって賄われている。",
     "fr": "chaîne de télévision en Argentine",
-    "pt-BR": "Canal Siete é uma rede pública de televisão nacional da Argentina.",
+    "pt-BR": "canal de televisão pública argentino",
     "it": "rete televisiva argentina",
+    "nl": "Argentijnse televisiezender",
     "de": "argentinischer Fernsehsender"
    },
    "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica",
-    "es": "https://es.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica_(Argentina)",
+    "en": "https://en.wikipedia.org/wiki/Canal_Siete_(Argentina)",
+    "es": "https://es.wikipedia.org/wiki/Canal_7_(Buenos_Aires)",
     "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AB7",
     "fr": "https://fr.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica_Argentina",
     "pt-BR": "https://pt.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica_(Argentina)",
-    "it": "https://it.wikipedia.org/wiki/Televisi%C3%B3n_P%C3%BAblica_Argentina",
+    "it": "https://it.wikipedia.org/wiki/Canal_7_(rete_televisiva_argentina)",
     "de": "https://de.wikipedia.org/wiki/Canal_7_(Argentinien)"
    },
-   "logo": null,
-   "website": "https://tvpublica.com.ar/",
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nuevo_logo_de_la_Televisi%C3%B3n_P%C3%BAblica_%28en_color_y_sin_fondo%29.png?width=256",
+   "website": "https://canal7.com.ar",
    "city": "Buenos Aires"
   },
   {

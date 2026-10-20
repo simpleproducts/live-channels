@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026101419,
+ "version": 2026102022,
  "defaultTiles": [
   "jp.tbs",
   "jp.fnn",
@@ -103,7 +103,7 @@
     "ja": "https://ja.wikipedia.org/wiki/%E6%97%A5%E3%83%86%E3%83%ACNEWS24",
     "zh-Hant": "https://zh.wikipedia.org/zh-hant/NTV_NEWS24"
    },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NEWS24NTV_live-logo.svg?width=256",
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NEWS24NTV_logo.svg?width=256",
    "website": "https://news.ntv.co.jp/",
    "city": "東京都"
   },

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-19T20:56:39Z",
+ "updated": "2026-10-20T22:29:09Z",
  "countries": [
   {
    "code": "AE",
@@ -29,7 +29,7 @@
     "ar"
    ],
    "channelCount": 9,
-   "version": 2026101320,
+   "version": 2026102022,
    "file": "countries/AE.json"
   },
   {
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026101920,
+   "version": 2026102022,
    "file": "countries/AR.json"
   },
   {
@@ -191,7 +191,7 @@
     "es": "República Popular China",
     "zh-Hans": "中华人民共和国",
     "ja": "中華人民共和国",
-    "fr": "république populaire de Chine",
+    "fr": "République populaire de Chine",
     "pt-BR": "República Popular da China",
     "ko": "중화인민공화국",
     "it": "Cina",
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026101414,
+   "version": 2026102022,
    "file": "countries/CO.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026101419,
+   "version": 2026102022,
    "file": "countries/JP.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 16,
-   "version": 2026101419,
+   "version": 2026102022,
    "file": "countries/PE.json"
   },
   {
@@ -1053,7 +1053,7 @@
     "th"
    ],
    "channelCount": 15,
-   "version": 2026101319,
+   "version": 2026102022,
    "file": "countries/TH.json"
   },
   {
