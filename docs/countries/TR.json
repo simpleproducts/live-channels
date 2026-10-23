@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
   "tr.trthaber",
   "tr.ntv",
   "tr.24tv",
   "tr.cnnturk",
+  "tr.haberturk",
+  "tr.sozcu",
   "tr.ahaber",
-  "tr.trtworld",
-  "tr.bloomberght",
-  "tr.showtv",
-  "tr.kanald"
+  "tr.tgrthaber",
+  "tr.haberglobal"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
-   "youtubeVideoId": "9ks8cFC9MYo",
+   "youtubeVideoId": "JHbROsUfNwM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2931786",
@@ -112,9 +112,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
-   "youtubeVideoId": "5YOsc6SxlA0",
+   "youtubeVideoId": "nBQitZ_5aQA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6092925",
    "description": {
     "en": "Turkish news network",
@@ -204,9 +204,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
-   "youtubeVideoId": "su1o0M4HgIU",
+   "youtubeVideoId": "glXcT64auDY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q116775276",
    "description": {
     "tr": "Türkiye'de bir televizyon kanalı",
@@ -270,7 +270,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
-   "youtubeVideoId": "ag9EdxTS8hQ",
+   "youtubeVideoId": "rsb4zSQGwUY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6089384",
@@ -298,9 +298,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCzgrZ-CndOoylh2_e72nSBQ",
-   "youtubeVideoId": "xcCfjAOBMfI",
+   "youtubeVideoId": "uR3zv32YNJk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6084153",
    "description": {
     "en": "Turkish news network",
@@ -324,9 +324,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
-   "youtubeVideoId": "RRG_MTH876M",
+   "youtubeVideoId": "a6gLCvssjrI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q84432980",
    "description": {
     "ar": "الخبر العالمي هي قناة إخبارية وموقع إخباري في تركيا بدأ البث في 24 سبتمبر 2018.",
@@ -350,9 +350,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
-   "youtubeVideoId": "WtKu8Xzj19A",
+   "youtubeVideoId": "4k3KCaJ2a9w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q85975294",
    "description": {
     "en": "Turkish national news channel",

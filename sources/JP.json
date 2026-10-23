@@ -5,10 +5,10 @@
  "channels": [
   {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "NzhETTSalEs", "embeddable": true, "live": false},
   {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "M7dNawj1UeU", "embeddable": true, "live": true, "liveSince": "2026-10-23T12:00:16Z"},
-  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "87g43h6YfeI", "embeddable": true, "live": true, "liveSince": "2026-10-23T11:14:00Z"},
+  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "oWa0MyHh61E", "embeddable": true, "live": true, "liveSince": "2026-10-23T15:51:08Z"},
   {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "6MVkqYNAqsg", "embeddable": true, "live": false},
   {"id": "nhkworld", "name": "NHK WORLD-JAPAN", "category": "news", "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A", "youtubeVideoId": "IimtbuqYIE8", "embeddable": true, "live": true, "liveSince": "2026-09-02T05:10:50Z", "languages": ["en"]},
-  {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "hu1_6jCR10I", "embeddable": true, "live": true, "liveSince": "2026-10-23T10:43:22Z"},
+  {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "y1LYFbOMh_k", "embeddable": true, "live": true, "liveSince": "2026-10-23T17:40:26Z"},
   {"id": "kyodo", "name": "共同通信", "category": "news", "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw", "live": false},
   {"id": "abemanews", "name": "ABEMAニュース", "category": "news", "youtubeChannelId": "UCk5a240pQsTVT9CWPnTyIJw", "live": false},
   {"id": "sankei", "name": "Sankei News", "category": "news", "youtubeChannelId": "UC1zYGo1jIIjMVDTLL3dydow", "live": false},

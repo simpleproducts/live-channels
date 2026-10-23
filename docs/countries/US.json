@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
   "us.cnn",
   "us.newsmax",
@@ -10,8 +10,8 @@
   "us.nbcnews",
   "us.livenow",
   "us.scripps",
-  "us.telemundo",
-  "us.cnnee"
+  "us.pbsnewshour",
+  "us.newsnation"
  ],
  "channels": [
   {
@@ -429,9 +429,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "RdjqffqqmFw",
+   "youtubeVideoId": "kpAMooEICmE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-   "youtubeVideoId": "ExkdHF0iEak",
+   "youtubeVideoId": "p2dxMh3G7mA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "b6wiFPuxkR0",
+   "youtubeVideoId": "zNRqkUYAE54",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -547,9 +547,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "pMD0ffRom7M",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -709,7 +709,7 @@
    "youtubeChannelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
    "youtubeVideoId": "6A9HjrCPJ-c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -743,9 +743,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "SBydw6ZkHcc",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",

@@ -1,10 +1,12 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
-  "gb.bbcnews",
+  "gb.skynews",
   "gb.gbnews",
+  "gb.talktv",
+  "gb.itvnews",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -18,9 +20,9 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "5Q6G6fWqVYA",
+   "youtubeVideoId": "NJTaTE9pLsQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -76,7 +78,7 @@
    "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
    "youtubeVideoId": "7xE-CBMukbE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1160945",
    "description": {
     "en": "news division of the publicly funded British Broadcasting Corporation",
@@ -129,7 +131,7 @@
     "en"
    ],
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-   "youtubeVideoId": "G7Z4Sr-3YeQ",
+   "youtubeVideoId": "0fr8ihmB4Rg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q100300992",
@@ -215,6 +217,29 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuters_logo_2024.svg?width=256",
    "website": "https://www.reuters.com/",
    "city": "London"
+  },
+  {
+   "id": "gb.talktv",
+   "name": "TalkTV",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
+   "youtubeVideoId": "SDt_aa8gmIE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q108760651",
+   "description": {
+    "en": "British television channel",
+    "es": "canal de televisión británico"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Talk_(streaming_service)"
+   },
+   "logo": null,
+   "website": "https://talk.tv",
+   "city": null
   },
   {
    "id": "gb.bbcnewsarabic",
@@ -363,9 +388,9 @@
     "en"
    ],
    "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A",
-   "youtubeVideoId": "tipoCsxASzc",
+   "youtubeVideoId": "1DPLASjbCm0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4189762",
    "description": {
     "en": "British broadcaster ITV's branded news programming",

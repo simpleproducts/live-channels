@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
+  "br.recordnews",
   "br.cnnbrasil",
   "br.jovempan",
-  "br.bandjornalismo",
   "br.sbtnews",
   "br.uol",
   "br.metropoles",
@@ -22,9 +22,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "pWqq2aUwlpY",
+   "youtubeVideoId": "GLq2HAbUkPk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3056409",
    "description": {
     "en": "broadcast news television network",
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "HnAp-fJ4z74",
+   "youtubeVideoId": "KTFoJPO-TcA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -89,7 +89,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCP391YRAjSOdM_bwievgaZA",
-   "youtubeVideoId": "s2uQrx2yq-U",
+   "youtubeVideoId": "K8rq-TtL8Mw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10358223",
@@ -118,7 +118,7 @@
    "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA",
    "youtubeVideoId": "s3cIXLf2h-k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q137910166",
    "description": {
     "en": "Official Band Journalism channel with exclusive live streams, full news programs, expert commentary, special reports, and on-demand content from Band TV."
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "-GQGBHSG2Tg",
+   "youtubeVideoId": "i4EkjRVBhVw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -181,7 +181,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-   "youtubeVideoId": "pjLuGmewBjk",
+   "youtubeVideoId": "MYpEKkuS0BE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -199,7 +199,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "-WRtAurWvY4",
+   "youtubeVideoId": "FhGVqWUc5oc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q56350071",
@@ -318,7 +318,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
-   "youtubeVideoId": "8DCMNEgvQTE",
+   "youtubeVideoId": "NhxuD8CU9MI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1090363",
@@ -411,7 +411,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ",
-   "youtubeVideoId": "Epq2lI0jW-o",
+   "youtubeVideoId": "1_NsGAQuEyE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7672422",
@@ -440,7 +440,7 @@
    "youtubeChannelId": "UC-ZkSRh-7UEuwXJQ9UMCFJA",
    "youtubeVideoId": "QZPtKCjDR5s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6137650",
    "description": {
     "en": "Brazilian legislative television network",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "azc7Lt7frlA",
+   "youtubeVideoId": "-wu3TYr0mBc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,9 +494,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "NJUvi4n_8qY",
+   "youtubeVideoId": "o2PcfzbYR38",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4854200",
    "description": {
     "en": "Brazilian all news radio network",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "9MwYs0YD3wg",
+   "youtubeVideoId": "RrmiqJH4A7k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,9 +547,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "kUffPODPtNI",
+   "youtubeVideoId": "OP7lL_8X2fg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",
@@ -592,7 +592,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w",
-   "youtubeVideoId": "hqGSmudDUW8",
+   "youtubeVideoId": "DCwhgNdQTVI",
    "embeddable": true,
    "live": true,
    "wikidata": null,

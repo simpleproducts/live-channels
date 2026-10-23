@@ -3,12 +3,12 @@
  "languages": ["es"],
  "defaultTiles": ["vpitv", "unionradio"],
  "channels": [
-  {"id": "vpitv", "name": "VPItv", "category": "news", "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w", "youtubeVideoId": "SaMzkvXN0II", "embeddable": true, "live": false},
-  {"id": "evtv", "name": "EVTV", "category": "news", "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g", "youtubeVideoId": "vsTHJOnNP6E", "embeddable": true, "live": false, "languages": ["es"]},
+  {"id": "vpitv", "name": "VPItv", "category": "news", "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w", "youtubeVideoId": "V66joVdFaTo", "embeddable": true, "live": true, "liveSince": "2026-10-23T18:15:08Z"},
+  {"id": "evtv", "name": "EVTV", "category": "news", "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g", "youtubeVideoId": "u6ulk9jfFp4", "embeddable": true, "live": true, "liveSince": "2026-10-23T17:03:07Z", "languages": ["es"]},
   {"id": "elpitazo", "name": "El Pitazo", "category": "news", "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA", "live": false},
   {"id": "noticiasvenevision", "name": "Noticias Venevisión", "category": "news", "youtubeChannelId": "UCR1tLg8fy9dklmhZPf0qCWQ", "youtubeVideoId": "gXvpQS1NO8Q", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "telesurenglish", "name": "teleSUR English", "category": "news", "youtubeChannelId": "UCmuTmpLY35O3csvhyA6vrkg", "youtubeVideoId": "Kp06LuyyKfM", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "vtv", "name": "VTV", "category": "broadcast", "youtubeChannelId": "UC_8sCVycu3FXidPNoZwOHqA", "youtubeVideoId": "laqhpVjw_KY", "embeddable": true, "live": false, "languages": ["es"]},
-  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "EiYz2b5Yagk", "embeddable": true, "live": true, "liveSince": "2026-10-23T13:01:54Z", "wikidata": "Q5770016"}
+  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "-J-7DH9iFiQ", "embeddable": true, "live": true, "liveSince": "2026-10-23T18:07:39Z", "wikidata": "Q5770016"}
  ]
 }

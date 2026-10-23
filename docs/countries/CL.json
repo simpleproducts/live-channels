@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
   "cl.t13",
   "cl.chvnoticias",
   "cl.cooperativa",
   "cl.tvn",
-  "cl.chilevision",
   "cl.mega",
   "cl.canal13",
   "cl.adn",
-  "cl.t13radio"
+  "cl.t13radio",
+  "cl.agricultura"
  ],
  "channels": [
   {
@@ -168,7 +168,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "F3AKFNDaAKU",
+   "youtubeVideoId": "3HJH8bE7rgU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -226,7 +226,7 @@
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
    "youtubeVideoId": "NbauM5z1KBA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -266,7 +266,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "B5hzbW1WSuE",
+   "youtubeVideoId": "VbKFfET89xo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597946",
@@ -320,7 +320,7 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "WpJCV8ryIWo",
+   "youtubeVideoId": "v2Aa7IxFIOo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600805",
@@ -504,7 +504,7 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "fqpEhIww3J4",
+   "youtubeVideoId": "6jjHTC-csbs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5653556",
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "juuQEIuSz_w",
+   "youtubeVideoId": "su2vLeK0P0A",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -621,9 +621,9 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "X8vN9Uzcyyg",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

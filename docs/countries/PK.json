@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
   "pk.geonews",
   "pk.dunyanews",
@@ -10,7 +10,6 @@
   "pk.dawnnews",
   "pk.humnews",
   "pk.gnn",
-  "pk.samaa",
   "pk.arynews"
  ],
  "channels": [
@@ -24,7 +23,7 @@
    "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
    "youtubeVideoId": "hn16uemuKYw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7388622",
    "description": {
     "en": "Pakistani TV network",
@@ -73,7 +72,7 @@
     "ur"
    ],
    "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-   "youtubeVideoId": "XQ-VN_eSG2o",
+   "youtubeVideoId": "TTJuS0peN-Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4653979",

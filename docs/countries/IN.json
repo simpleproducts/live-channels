@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
@@ -11,7 +11,7 @@
   "in.ndtv",
   "in.republicworld",
   "in.timesnow",
-  "in.wion"
+  "in.indiatoday"
  ],
  "channels": [
   {
@@ -53,7 +53,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-   "youtubeVideoId": "NPtjyv0CEN4",
+   "youtubeVideoId": "VfYVtynFmRE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3396358",
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-   "youtubeVideoId": "p-nd-HVN6Yg",
+   "youtubeVideoId": "hg6w41Mtqak",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2985356",
@@ -140,7 +140,7 @@
     "en"
    ],
    "youtubeChannelId": "UCwqusr8YDwM-3mEYTDeJHzw",
-   "youtubeVideoId": "oOVTcrOTXfk",
+   "youtubeVideoId": "FOxlqXJ_UjI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q28180276",
@@ -168,7 +168,7 @@
     "en"
    ],
    "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
-   "youtubeVideoId": "1wM7K49BX3s",
+   "youtubeVideoId": "QdRqliPm3yc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7806547",
@@ -263,7 +263,7 @@
    "youtubeChannelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
    "youtubeVideoId": "wUz26SmlECc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q23058781",
    "description": {
     "en": "Indian television news channel",
@@ -300,7 +300,7 @@
     "en"
    ],
    "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-   "youtubeVideoId": "GO1liS4ADKk",
+   "youtubeVideoId": "VmULYiig07Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5689808",
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "iLMb3q7VYjY",
+   "youtubeVideoId": "9v-dyhimLS0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",
@@ -420,7 +420,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
-   "youtubeVideoId": "qHyhCu7XQ5k",
+   "youtubeVideoId": "J-1eAt0geak",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65042846",
@@ -444,7 +444,7 @@
     "en"
    ],
    "youtubeChannelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
-   "youtubeVideoId": "9bm0TB8IYxU",
+   "youtubeVideoId": "mYL2GTo_Oqg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -462,7 +462,7 @@
     "en"
    ],
    "youtubeChannelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
-   "youtubeVideoId": "NbGKR0E5Wtw",
+   "youtubeVideoId": "AHGg_8Skzt0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20647988",
@@ -484,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UCz8QaiQxApLq8sLNcszYyJw",
-   "youtubeVideoId": "rwJWgJXe5gU",
+   "youtubeVideoId": "BmACXjcuNEA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5453524",
@@ -519,7 +519,7 @@
     "en"
    ],
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
-   "youtubeVideoId": "LibGu9DOUpc",
+   "youtubeVideoId": "T1IKamLSpeA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2613165",
@@ -559,7 +559,7 @@
     "en"
    ],
    "youtubeChannelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
-   "youtubeVideoId": "g5Q83PwXtyI",
+   "youtubeVideoId": "IYzCnBNFT8s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3631483",
@@ -585,7 +585,7 @@
     "en"
    ],
    "youtubeChannelId": "UCI_mwTKUhicNzFrhm33MzBQ",
-   "youtubeVideoId": "Dhwv9XIUxJ0",
+   "youtubeVideoId": "5D1l8x2FaEI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5324510",
@@ -609,7 +609,7 @@
    "youtubeChannelId": "UC3uJIdRFTGgLWrUziaHbzrg",
    "youtubeVideoId": "IcXry4ALi1Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6953329",
    "description": {
     "en": "Indian Business tv channel"
@@ -629,9 +629,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCQIycDaLsBpMKjOCeaKUYVg",
-   "youtubeVideoId": "LJhQkWKQrEs",
+   "youtubeVideoId": "CxjVk_Rx8mg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5013075",
    "description": {
     "en": "Indian television channel",
@@ -661,7 +661,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCkXopQ3ubd-rnXnStZqCl2w",
-   "youtubeVideoId": "988UHPmYZk8",
+   "youtubeVideoId": "E9BObG40DpA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q8068393",

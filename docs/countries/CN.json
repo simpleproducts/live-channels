@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
   "cn.cgtn",
   "cn.cgtnfr",
-  "cn.cgtnru",
-  "cn.cgtneurope",
-  "cn.newchinatv"
+  "cn.cgtnru"
  ],
  "channels": [
   {
@@ -66,7 +64,7 @@
    "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
    "youtubeVideoId": "P7k76pqQYm0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q97238770",
    "description": {
     "en": "television news channel",
@@ -291,7 +289,7 @@
    "youtubeChannelId": "UCHBDXQDmqnaqIEPdEapEFVQ",
    "youtubeVideoId": "ZyAnlTiB9rI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q204839",
    "description": {
     "en": "official press agency of the People's Republic of China",

@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "PT",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
-  "pt.euronewspt",
-  "pt.canalparlamento",
-  "pt.renascenca"
+  "pt.euronewspt"
  ],
  "channels": [
   {
@@ -225,7 +223,7 @@
    "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A",
    "youtubeVideoId": "FRCoRduOFlM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -243,7 +241,7 @@
    "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw",
    "youtubeVideoId": "Jzk57_340OA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1509626",
    "description": {
     "en": "Radio station",

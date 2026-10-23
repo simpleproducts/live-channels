@@ -1,15 +1,11 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
-  "ph.gma",
-  "ph.dzrh",
-  "ph.ptv",
-  "ph.teleradyo",
-  "ph.loveradio"
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -21,7 +17,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "iNdjL_CgZ94",
+   "youtubeVideoId": "_aDagsVkGso",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -60,7 +56,7 @@
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
    "youtubeVideoId": "ELMs-yI0Lxc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -262,7 +258,7 @@
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
    "youtubeVideoId": "syZIdqs0Njk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -426,7 +422,7 @@
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
    "youtubeVideoId": "SEk8in10yC8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -464,7 +460,7 @@
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
    "youtubeVideoId": "K69Q6F3tyG4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

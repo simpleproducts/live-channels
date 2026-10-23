@@ -1,13 +1,9 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
   "vn.antv",
-  "vn.thanhnien",
-  "vn.vtcnews",
-  "vn.htvnews",
-  "vn.hanoitv",
   "vn.vov"
  ],
  "channels": [
@@ -57,7 +53,7 @@
    "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
    "youtubeVideoId": "dzfVzR5CnlQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7710368",
    "description": {
     "en": "Vietnamese newspaper",
@@ -126,7 +122,7 @@
    "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg",
    "youtubeVideoId": "oJ6XHyCZObg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q108492472",
    "description": {},
    "wikipedia": {},
@@ -144,7 +140,7 @@
    "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw",
    "youtubeVideoId": "x3ba-JV6JVw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -162,7 +158,7 @@
    "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w",
    "youtubeVideoId": "sWmUwNzoRzc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5649326",
    "description": {
     "en": "Vietnamese radio and television network",

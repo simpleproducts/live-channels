@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026102313,
+ "version": 2026102318,
  "defaultTiles": [
   "py.abctv",
+  "py.gen",
   "py.telefuturo"
  ],
  "channels": [
@@ -15,7 +16,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
-   "youtubeVideoId": "rxtWlM4LKKk",
+   "youtubeVideoId": "qBr_qipVd8I",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -80,9 +81,9 @@
     "es"
    ],
    "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "tpKTcd6dq-o",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -98,7 +99,7 @@
     "es"
    ],
    "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA",
-   "youtubeVideoId": "BfUM-5VMpFk",
+   "youtubeVideoId": "dRvngQOFUUM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3140411",
