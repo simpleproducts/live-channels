@@ -31,6 +31,12 @@ jobs:
           key: wikidata-${{ github.run_id }}
           restore-keys: wikidata-
 
+      # TODO(alert): this job fails quietly. From Oct 20 to Oct 23 2026 (no YT_API_KEY yet)
+      # YouTube blocked the key-less scrape, every run ended "No changes", the pinned live ids
+      # froze and channels went "Not live right now" in the app. Add an alert here: fail the job
+      # (GitHub emails on a failed run) when refresh_live.py can't refresh, when build.py keeps
+      # the previous live data ("looks blocked"), or when docs/index.json's "updated" is more than
+      # a few hours old.
       # With the API key: cheap quota refresh of pinned live ids, then build without scraping.
       # Without it: build.py scrapes each channel's /live page to pin live video ids.
       - name: Refresh live ids and build docs/
