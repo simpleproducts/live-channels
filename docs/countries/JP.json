@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102022,
+ "version": 2026102313,
  "defaultTiles": [
   "jp.tbs",
-  "jp.fnn",
-  "jp.weathernews",
-  "jp.ann",
   "jp.ntvnews",
+  "jp.weathernews",
   "jp.nhkworld",
-  "jp.mbs",
   "jp.htb",
-  "jp.satv"
+  "jp.satv",
+  "jp.ytv",
+  "jp.abctv",
+  "jp.chukyo"
  ],
  "channels": [
   {
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
    "youtubeVideoId": "NzhETTSalEs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q843772",
    "description": {
     "en": "Japanese television network",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "maYSFuHhpOA",
+   "youtubeVideoId": "M7dNawj1UeU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "AkGgrkdXdcw",
+   "youtubeVideoId": "87g43h6YfeI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -117,7 +117,7 @@
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
    "youtubeVideoId": "6MVkqYNAqsg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q124919956",
    "description": {
     "ja": "フジテレビ系FNN28局のニュースサイト"
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "Z-hEwTtWdX0",
+   "youtubeVideoId": "hu1_6jCR10I",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -372,7 +372,7 @@
    "youtubeChannelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
    "youtubeVideoId": "soT0yMSldwI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11231222",
    "description": {
     "ja": "毎日放送（MBSテレビ）とMBSラジオが放送しているニュース番組のタイトル・総称"
@@ -448,7 +448,7 @@
    "youtubeChannelId": "UCQhaZjODkIjuv38d-i5TVRw",
    "youtubeVideoId": "09m1PXSGFS0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -536,7 +536,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
-   "youtubeVideoId": "0Kkfo50w-n0",
+   "youtubeVideoId": "O606U7-m1dc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -556,7 +556,7 @@
    "youtubeChannelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
    "youtubeVideoId": "e3kX3RbKI8k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

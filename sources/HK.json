@@ -3,7 +3,7 @@
  "languages": ["zh"],
  "defaultTiles": [],
  "channels": [
-  {"id": "phoenixtv", "name": "鳳凰衛視 Phoenix TV", "category": "news", "youtubeChannelId": "UC4vnLYInDvXtLKGOZieMeMw", "youtubeVideoId": "Ry--eMIjYLQ", "embeddable": true, "live": true, "liveSince": "2026-06-19T00:00:00Z"},
+  {"id": "phoenixtv", "name": "鳳凰衛視 Phoenix TV", "category": "news", "youtubeChannelId": "UC4vnLYInDvXtLKGOZieMeMw", "youtubeVideoId": "Ry--eMIjYLQ", "embeddable": true, "live": true, "liveSince": "2026-06-19T17:00:51Z"},
   {"id": "tvbnews", "name": "TVB NEWS 無綫新聞", "category": "news", "youtubeChannelId": "UC_ifDTtFAcsj-wJ5JfM27CQ", "live": false},
   {"id": "cablenews", "name": "有線新聞 Cable News", "category": "news", "youtubeChannelId": "UC_q7e5XYJB0JDGagcF0KW0w", "live": false},
   {"id": "nownews", "name": "Now 新聞", "category": "news", "youtubeChannelId": "UCg8EwsqYmiw7G267xxPyXsg", "live": false},

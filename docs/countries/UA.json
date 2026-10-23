@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026101419,
+ "version": 2026102313,
  "defaultTiles": [
   "ua.suspilne",
-  "ua.tsn",
   "ua.faktyictv",
-  "ua.espreso",
-  "ua.kyiv24",
   "ua.pryamiy",
   "ua.5kanal",
-  "ua.united24",
-  "ua.freedom"
+  "ua.tsn",
+  "ua.kyiv24",
+  "ua.freedom",
+  "ua.rada"
  ],
  "channels": [
   {
@@ -45,7 +44,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-   "youtubeVideoId": "Ad9Dfj0bjj0",
+   "youtubeVideoId": "44BXwyP-D3E",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4449066",
@@ -77,7 +76,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA",
-   "youtubeVideoId": "x1UeqXEKnYI",
+   "youtubeVideoId": "v_hgVy3tUZM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4041002",
@@ -112,7 +111,7 @@
    "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w",
    "youtubeVideoId": "J-SFMvh9x3A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15689802",
    "description": {
     "en": "Ukrainian TV channel",
@@ -145,7 +144,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
-   "youtubeVideoId": "shDMKVHLlAQ",
+   "youtubeVideoId": "NTfUUwvAajw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -163,7 +162,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "d4GT9ItOb8A",
+   "youtubeVideoId": "r1mtBAQKlWk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",
@@ -282,7 +281,7 @@
    "youtubeChannelId": "UCX-xHRN9CnoXto5gcPskANA",
    "youtubeVideoId": "NTmuCD_hZwI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q111841082",
    "description": {
     "en": "Fundraising initiative in support of Ukraine",

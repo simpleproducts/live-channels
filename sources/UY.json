@@ -3,17 +3,17 @@
  "languages": ["es"],
  "defaultTiles": ["elobservadoruy", "ladiaria", "tnu", "carve", "delsol", "sarandi"],
  "channels": [
-  {"id": "elobservadoruy", "name": "El Observador", "category": "news", "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ", "youtubeVideoId": "Y9CXi8ygj40", "embeddable": true, "live": true, "liveSince": "2026-10-13T19:00:00Z"},
-  {"id": "ladiaria", "name": "la diaria", "category": "news", "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A", "youtubeVideoId": "fuQKw6A3qNQ", "embeddable": true, "live": true, "liveSince": "2026-10-13T09:00:00Z", "wikidata": "Q1292957"},
-  {"id": "tnu", "name": "Canal 5 (TNU)", "category": "broadcast", "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA", "youtubeVideoId": "HgJxS6OXWpo", "embeddable": true, "live": true, "liveSince": "2026-10-13T19:00:00Z", "wikidata": "Q1775667"},
+  {"id": "elobservadoruy", "name": "El Observador", "category": "news", "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ", "youtubeVideoId": "Y9CXi8ygj40", "embeddable": true, "live": false},
+  {"id": "ladiaria", "name": "la diaria", "category": "news", "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A", "youtubeVideoId": "rL3mlZZkbxA", "embeddable": true, "live": true, "liveSince": "2026-10-23T09:43:51Z", "wikidata": "Q1292957"},
+  {"id": "tnu", "name": "Canal 5 (TNU)", "category": "broadcast", "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA", "youtubeVideoId": "HgJxS6OXWpo", "embeddable": true, "live": false, "wikidata": "Q1775667"},
   {"id": "canal10", "name": "Canal 10", "category": "broadcast", "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q", "live": false, "wikidata": "Q2436756"},
   {"id": "teledoce", "name": "Teledoce", "category": "broadcast", "youtubeChannelId": "UCimPJKAbuM6z6b6DPZz86Mw", "live": false, "wikidata": "Q3982807"},
   {"id": "vtv", "name": "VTV", "category": "broadcast", "youtubeChannelId": "UCA4VRT895OOPPHq-pc2V2CQ", "live": false},
-  {"id": "tvciudad", "name": "TV Ciudad", "category": "regional", "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA", "youtubeVideoId": "ZMl7YSzA8Gs", "embeddable": true, "live": true, "liveSince": "2026-10-13T18:00:00Z", "wikidata": "Q17630938"},
+  {"id": "tvciudad", "name": "TV Ciudad", "category": "regional", "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA", "youtubeVideoId": "ZMl7YSzA8Gs", "embeddable": true, "live": false, "wikidata": "Q17630938"},
   {"id": "parlamento", "name": "Parlamento del Uruguay", "category": "government", "youtubeChannelId": "UCvy9D0ZwbNmvNfyQUl3RQnQ", "live": false},
-  {"id": "carve", "name": "Carve Deportiva", "category": "sports", "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ", "youtubeVideoId": "L6ZL_Ixlde8", "embeddable": true, "live": true, "liveSince": "2026-10-13T14:00:00Z", "wikidata": "Q16953379"},
-  {"id": "delsol", "name": "Del Sol FM", "category": "radio", "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA", "youtubeVideoId": "4OVxHIED_Xs", "embeddable": true, "live": true, "liveSince": "2026-10-13T18:00:00Z"},
-  {"id": "sarandi", "name": "Radio Sarandí", "category": "radio", "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ", "youtubeVideoId": "Q0-xtmAygew", "embeddable": true, "live": true, "liveSince": "2026-10-13T08:00:00Z"},
+  {"id": "carve", "name": "Carve Deportiva", "category": "sports", "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ", "youtubeVideoId": "HoHCdrR4NcE", "embeddable": true, "live": true, "liveSince": "2026-10-23T10:00:28Z", "wikidata": "Q16953379"},
+  {"id": "delsol", "name": "Del Sol FM", "category": "radio", "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA", "youtubeVideoId": "Bj7GHNQBIhY", "embeddable": true, "live": true, "liveSince": "2026-10-23T11:01:43Z"},
+  {"id": "sarandi", "name": "Radio Sarandí", "category": "radio", "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ", "youtubeVideoId": "YigLNxZ-zfU", "embeddable": true, "live": true, "liveSince": "2026-10-23T08:20:27Z"},
   {"id": "universal", "name": "970 Universal", "category": "radio", "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg", "live": false, "languages": ["es"]}
  ]
 }

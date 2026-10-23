@@ -1,14 +1,9 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026101320,
+ "version": 2026102313,
  "defaultTiles": [
-  "ve.vpitv",
-  "ve.evtv",
-  "ve.noticiasvenevision",
-  "ve.telesurenglish",
-  "ve.unionradio",
-  "ve.vtv"
+  "ve.unionradio"
  ],
  "channels": [
   {
@@ -21,7 +16,7 @@
    "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w",
    "youtubeVideoId": "SaMzkvXN0II",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q59345050",
    "description": {
     "en": "Venezuelan streaming channel",
@@ -45,7 +40,7 @@
    "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g",
    "youtubeVideoId": "vsTHJOnNP6E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -87,7 +82,7 @@
    "youtubeChannelId": "UCR1tLg8fy9dklmhZPf0qCWQ",
    "youtubeVideoId": "gXvpQS1NO8Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5825366",
    "description": {
     "es": "Noticiero venezolano emitido por el canal Venevisión.",
@@ -111,7 +106,7 @@
    "youtubeChannelId": "UCmuTmpLY35O3csvhyA6vrkg",
    "youtubeVideoId": "Kp06LuyyKfM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -129,7 +124,7 @@
    "youtubeChannelId": "UC_8sCVycu3FXidPNoZwOHqA",
    "youtubeVideoId": "laqhpVjw_KY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -145,7 +140,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-   "youtubeVideoId": "rIeuP7E3I8w",
+   "youtubeVideoId": "EiYz2b5Yagk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5770016",

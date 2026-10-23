@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026101414,
+ "version": 2026102313,
  "defaultTiles": [
-  "de.welt",
   "de.euronewsde",
   "de.dwnews",
   "de.dwespanol"
@@ -19,7 +18,7 @@
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
    "youtubeVideoId": "_0Fs_6dvXR4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1959672",
    "description": {
     "en": "television station",

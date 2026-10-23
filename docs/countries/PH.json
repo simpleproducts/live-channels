@@ -1,11 +1,15 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026101320,
+ "version": 2026102313,
  "defaultTiles": [
   "ph.untv",
+  "ph.abscbn",
+  "ph.gma",
   "ph.dzrh",
-  "ph.teleradyo"
+  "ph.ptv",
+  "ph.teleradyo",
+  "ph.loveradio"
  ],
  "channels": [
   {
@@ -17,9 +21,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "iNdjL_CgZ94",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -54,9 +58,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "ELMs-yI0Lxc",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -256,9 +260,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "syZIdqs0Njk",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -420,7 +424,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "EbPAk9QG2Ug",
+   "youtubeVideoId": "SEk8in10yC8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -458,9 +462,9 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "K69Q6F3tyG4",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

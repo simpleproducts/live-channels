@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "SA",
- "version": 2026101419,
+ "version": 2026102313,
  "defaultTiles": [
   "sa.alekhbariya",
   "sa.asharq",
   "sa.asharqbusiness",
-  "sa.ksasports",
   "sa.quran",
   "sa.sunnah"
  ],
@@ -95,7 +94,7 @@
    "youtubeChannelId": "UCLo2xigvxv9ksxp78AyCBTw",
    "youtubeVideoId": "t8ckx2uDi-8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

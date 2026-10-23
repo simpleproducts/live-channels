@@ -3,16 +3,16 @@
  "languages": ["en", "sw"],
  "defaultTiles": ["citizentv", "ntv", "ktn", "k24", "kbc", "tv47"],
  "channels": [
-  {"id": "citizentv", "name": "Citizen TV", "category": "news", "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g", "youtubeVideoId": "1Vm7lAjpZZM", "embeddable": true, "live": true, "liveSince": "2026-10-01T00:00:00Z"},
-  {"id": "ntv", "name": "NTV Kenya", "category": "news", "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg", "youtubeVideoId": "TEew2QWWKXE", "embeddable": true, "live": true, "liveSince": "2026-10-13T18:00:00Z"},
-  {"id": "ktn", "name": "KTN News", "category": "news", "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg", "youtubeVideoId": "vu0UxDF5N6Q", "embeddable": true, "live": true, "liveSince": "2026-10-02T00:00:00Z"},
-  {"id": "k24", "name": "K24 TV", "category": "news", "youtubeChannelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ", "youtubeVideoId": "xY7WoqLQbXg", "embeddable": true, "live": true, "liveSince": "2026-10-08T00:00:00Z"},
-  {"id": "tv47", "name": "TV47", "category": "news", "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw", "live": false},
-  {"id": "kbc", "name": "KBC Channel 1", "category": "broadcast", "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg", "youtubeVideoId": "51QF9Qr5w1I", "embeddable": true, "live": false},
-  {"id": "inooro", "name": "Inooro TV", "category": "regional", "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw", "youtubeVideoId": "P84XAgGs4Vg", "embeddable": true, "live": true, "liveSince": "2026-10-09T00:00:00Z", "languages": ["ki"]},
-  {"id": "ramogi", "name": "Ramogi TV", "category": "regional", "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ", "youtubeVideoId": "XBHeGGcvtwo", "embeddable": true, "live": true, "liveSince": "2026-10-12T00:00:00Z"},
+  {"id": "citizentv", "name": "Citizen TV", "category": "news", "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g", "youtubeVideoId": "1Vm7lAjpZZM", "embeddable": true, "live": true, "liveSince": "2026-10-01T20:07:05Z"},
+  {"id": "ntv", "name": "NTV Kenya", "category": "news", "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg", "youtubeVideoId": "TEew2QWWKXE", "embeddable": true, "live": false},
+  {"id": "ktn", "name": "KTN News", "category": "news", "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg", "youtubeVideoId": "vu0UxDF5N6Q", "embeddable": true, "live": false},
+  {"id": "k24", "name": "K24 TV", "category": "news", "youtubeChannelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ", "youtubeVideoId": "uQMZvd00U4Y", "embeddable": true, "live": true, "liveSince": "2026-10-23T07:57:18Z"},
+  {"id": "tv47", "name": "TV47", "category": "news", "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw", "youtubeVideoId": "7GCZycKrUTc", "embeddable": true, "live": true, "liveSince": "2026-10-23T12:19:15Z"},
+  {"id": "kbc", "name": "KBC Channel 1", "category": "broadcast", "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg", "youtubeVideoId": "64kqAMlBbsA", "embeddable": true, "live": true, "liveSince": "2026-10-23T13:00:54Z"},
+  {"id": "inooro", "name": "Inooro TV", "category": "regional", "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw", "youtubeVideoId": "P84XAgGs4Vg", "embeddable": true, "live": true, "liveSince": "2026-10-09T14:31:04Z", "languages": ["ki"]},
+  {"id": "ramogi", "name": "Ramogi TV", "category": "regional", "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ", "youtubeVideoId": "XBHeGGcvtwo", "embeddable": true, "live": true, "liveSince": "2026-10-12T10:07:55Z"},
   {"id": "parliament", "name": "Parliament of Kenya", "category": "government", "youtubeChannelId": "UCXuseB7juWB7DIgTJcwtHFQ", "live": false, "languages": ["en"]},
   {"id": "radiojambo", "name": "Radio Jambo", "category": "radio", "youtubeChannelId": "UCOsHyjujol57SIFR0imyEKQ", "live": false, "languages": ["sw"]},
-  {"id": "radiocitizen", "name": "Radio Citizen", "category": "radio", "youtubeChannelId": "UCd5mKY1HUcDBySXgK1lYUvg", "live": false, "languages": ["sw"]}
+  {"id": "radiocitizen", "name": "Radio Citizen", "category": "radio", "youtubeChannelId": "UCd5mKY1HUcDBySXgK1lYUvg", "youtubeVideoId": "oU4-_hNNAs4", "embeddable": true, "live": true, "liveSince": "2026-10-23T07:31:16Z", "languages": ["sw"]}
  ]
 }

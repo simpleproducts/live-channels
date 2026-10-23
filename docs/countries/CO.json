@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102022,
+ "version": 2026102313,
  "defaultTiles": [
-  "co.ntn24",
   "co.noticiascaracol",
-  "co.noticiasrcn",
   "co.eltiempo",
+  "co.noticiasrcn",
   "co.caracoltv",
   "co.citytv",
-  "co.bluradio",
-  "co.caracolradio",
-  "co.rcnradio"
+  "co.rcnradio",
+  "co.telecaribe",
+  "co.los40",
+  "co.tropicana"
  ],
  "channels": [
   {
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UCEJs1fTF3KszRJGxJY14VrA",
    "youtubeVideoId": "I4AVxPm58S0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7068596",
    "description": {
     "en": "Colombian television news channel",
@@ -64,7 +64,7 @@
     "es"
    ],
    "youtubeChannelId": "UCnr6pbeXJmkNQJ9PSYle7QQ",
-   "youtubeVideoId": "nRIev0kbGQ4",
+   "youtubeVideoId": "h3_IXvHV34o",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -385,9 +385,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "mscnrxe-nto",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -429,7 +429,7 @@
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
    "youtubeVideoId": "KE6yMjt9JvQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4672090",
    "description": {
     "en": "radio station in Bogotá, Colombia",
@@ -457,7 +457,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "dZJFMkDP2DI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -552,9 +552,9 @@
     "es"
    ],
    "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "h3i1qk7TIBI",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -570,9 +570,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "BjJvEbXtApo",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -588,9 +588,9 @@
     "es"
    ],
    "youtubeChannelId": "UClAlbNsawVywJF99roh7qvA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "7UnSnL5ZITA",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -606,9 +606,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "WnBCkxf1zCU",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

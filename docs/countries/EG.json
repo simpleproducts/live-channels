@@ -1,12 +1,9 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026101408,
+ "version": 2026102313,
  "defaultTiles": [
-  "eg.alqahera",
-  "eg.extranews",
-  "eg.alghad",
-  "eg.alnahar"
+  "eg.extranews"
  ],
  "channels": [
   {
@@ -19,7 +16,7 @@
    "youtubeChannelId": "UCktyejXTxWaKfrgp1Oq7CMQ",
    "youtubeVideoId": "POfhEp45MaE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q114785261",
    "description": {
     "en": "Egyptian news television channel",
@@ -41,7 +38,7 @@
     "ar"
    ],
    "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw",
-   "youtubeVideoId": "NSZSpVy-liM",
+   "youtubeVideoId": "nHUKUS9EfGc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -61,7 +58,7 @@
    "youtubeChannelId": "UCH4UNKBHSNwstan99YDoCVg",
    "youtubeVideoId": "5K41xRA37Bw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16126159",
    "description": {
     "ar": "الغد هي قناة عربية تلفزيونية فضائية إخبارية تبث باللغة العربية، انطلقت في البداية من لندن في المملكة المتحدة، ثم نقلت عمليات البث الرئيسية إلى القاهرة في مصر، حيث تبث حاليًا من هناك.",
@@ -108,7 +105,7 @@
    "youtubeChannelId": "UCtpL6HyBK-z16GbJguHf3JQ",
    "youtubeVideoId": "QRzAip-mfrQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3547019",
    "description": {
     "en": "Egyptian television channel",

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026101419,
+ "version": 2026102313,
  "defaultTiles": [
   "mx.milenio",
-  "mx.nmas",
-  "mx.heraldo",
-  "mx.unotv",
   "mx.adnnoticias",
+  "mx.nmas",
+  "mx.imagennoticias",
+  "mx.excelsior",
   "mx.aztecanoticias",
-  "mx.multimedios",
-  "mx.canalonce",
-  "mx.canal14"
+  "mx.heraldo",
+  "mx.aristegui",
+  "mx.multimedios"
  ],
  "channels": [
   {
@@ -40,7 +40,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "nCwtd38bKDM",
+   "youtubeVideoId": "bfcfP_T41PM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -58,9 +58,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
-   "youtubeVideoId": "GPy7Mu0IpJ4",
+   "youtubeVideoId": "WqpIW4KFq1k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -76,9 +76,9 @@
     "es"
    ],
    "youtubeChannelId": "UClqo4ZAAZ01HQdCTlovCgkA",
-   "youtubeVideoId": "NQqbB98Wtgs",
+   "youtubeVideoId": "IR4v78wXvuc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16492985",
    "description": {
     "en": "Television channel",
@@ -103,7 +103,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUP6qv-_EIL0hwTsJaKYnvw",
-   "youtubeVideoId": "U6ol1LTzGeg",
+   "youtubeVideoId": "4wWX3GECoQA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -139,7 +139,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "MIsF0g2VKow",
+   "youtubeVideoId": "Jfx8KVmmjA8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65047709",
@@ -171,7 +171,7 @@
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
    "youtubeVideoId": "pv8U5W8s3gc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -209,9 +209,9 @@
     "es"
    ],
    "youtubeChannelId": "UCafNntv_qTQB26AvbEQNHPw",
-   "youtubeVideoId": "pT-6ux7paFk",
+   "youtubeVideoId": "mABQa2WtR6s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q61998946",
    "description": {
     "en": "Mexico online newspaper",
@@ -289,7 +289,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "CxoEwyXMSBc",
+   "youtubeVideoId": "mqzaWQ9bRF0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -309,7 +309,7 @@
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
    "youtubeVideoId": "UcuA69N0Tbo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -332,7 +332,7 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "kx6DGpMx7m8",
+   "youtubeVideoId": "zcGuUKBrhjY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27031787",
@@ -466,7 +466,7 @@
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
    "youtubeVideoId": "JEd8BHNHdvs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -488,7 +488,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "5V1Brfq1vzk",
+   "youtubeVideoId": "y6nzU-5gmO4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -513,7 +513,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "6VBCLdfVLDY",
+   "youtubeVideoId": "PR7YbJ3pwCo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -531,7 +531,7 @@
     "es"
    ],
    "youtubeChannelId": "UCB0BUmdBOrH9mYU2ebs1eWA",
-   "youtubeVideoId": "9GKbhCVUDQA",
+   "youtubeVideoId": "4lFMHP9203E",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -549,7 +549,7 @@
     "es"
    ],
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
-   "youtubeVideoId": "el8PNGpbrD4",
+   "youtubeVideoId": "lWgFlZMAz-k",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "ncAtFRGpCAg",
+   "youtubeVideoId": "OtNZnKMggcM",
    "embeddable": true,
    "live": true,
    "wikidata": null,

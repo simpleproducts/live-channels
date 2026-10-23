@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026101414,
+ "version": 2026102313,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
-  "fr.bfmtv",
   "fr.euronewsfr",
   "fr.france24en",
   "fr.euronews",
   "fr.france24es",
   "fr.france24ar",
-  "fr.rfi"
+  "fr.rfi",
+  "fr.franceinter"
  ],
  "channels": [
   {
@@ -342,7 +342,7 @@
    "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g",
    "youtubeVideoId": "xoKI4cSewGY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q517444",
    "description": {
     "en": "French news channel",
@@ -524,7 +524,7 @@
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
    "youtubeVideoId": "N_FGR7WemH4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -755,7 +755,7 @@
    "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A",
    "youtubeVideoId": "KI-T1-_eq78",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1961361",
    "description": {
     "en": "French radio station",

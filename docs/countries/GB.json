@@ -1,15 +1,12 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026101419,
+ "version": 2026102313,
  "defaultTiles": [
-  "gb.skynews",
+  "gb.bbcnews",
   "gb.gbnews",
-  "gb.talktv",
-  "gb.guardian",
   "gb.bbcnewsarabic",
   "gb.timesradio",
-  "gb.lbc",
   "gb.talksport"
  ],
  "channels": [
@@ -23,7 +20,7 @@
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
    "youtubeVideoId": "5Q6G6fWqVYA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -77,9 +74,9 @@
     "en"
    ],
    "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
-   "youtubeVideoId": "9knrm-QS41I",
+   "youtubeVideoId": "7xE-CBMukbE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1160945",
    "description": {
     "en": "news division of the publicly funded British Broadcasting Corporation",
@@ -132,7 +129,7 @@
     "en"
    ],
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-   "youtubeVideoId": "fW3HYUQF2Xo",
+   "youtubeVideoId": "G7Z4Sr-3YeQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q100300992",
@@ -218,29 +215,6 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Reuters_logo_2024.svg?width=256",
    "website": "https://www.reuters.com/",
    "city": "London"
-  },
-  {
-   "id": "gb.talktv",
-   "name": "TalkTV",
-   "category": "news",
-   "languages": [
-    "en"
-   ],
-   "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
-   "youtubeVideoId": "q3Powgpn_X8",
-   "embeddable": true,
-   "live": true,
-   "wikidata": "Q108760651",
-   "description": {
-    "en": "British television channel",
-    "es": "canal de televisión británico"
-   },
-   "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/Talk_(streaming_service)"
-   },
-   "logo": null,
-   "website": "https://talk.tv",
-   "city": null
   },
   {
    "id": "gb.bbcnewsarabic",
@@ -355,7 +329,7 @@
    "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA",
    "youtubeVideoId": "TbsfKdObOd4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5614018",
    "description": {
     "en": "British news website",
@@ -559,7 +533,7 @@
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
    "youtubeVideoId": "nutGALXNOrU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

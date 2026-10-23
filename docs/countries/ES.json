@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026101414,
+ "version": 2026102313,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -9,9 +9,9 @@
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.apunt",
   "es.rtvcanarias",
-  "es.telemadrid"
+  "es.telemadrid",
+  "es.ondacero"
  ],
  "channels": [
   {
@@ -397,7 +397,7 @@
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
    "youtubeVideoId": "0vuXXY0iuRQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -640,7 +640,7 @@
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
    "youtubeVideoId": "tjBd1BUSOUg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -683,7 +683,7 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "TAhSg7RB6-k",
+   "youtubeVideoId": "gy9dkWLjeJ4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2748448",
@@ -749,7 +749,7 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "-ZHoErmBQ-M",
+   "youtubeVideoId": "OVP7zSZaLBg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3390195",

@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026101320,
+ "version": 2026102313,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
-  "pl.wpolsce24",
   "pl.tvpworld",
   "pl.kanalzero"
  ],
@@ -108,7 +107,7 @@
    "youtubeChannelId": "UCPiu4CZlknkTworskK79CPg",
    "youtubeVideoId": "lx56Ajgrmw8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q60978063",
    "description": {
     "pl": "polska stacja telewizyjna"
@@ -210,7 +209,7 @@
     "pl"
    ],
    "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg",
-   "youtubeVideoId": "yy7zgCDEPXA",
+   "youtubeVideoId": "1jDdCY27QOs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q124607345",

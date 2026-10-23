@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026101408,
+ "version": 2026102313,
  "defaultTiles": [
-  "us.abcnews",
   "us.cnn",
+  "us.newsmax",
+  "us.foxweather",
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.newsmax",
   "us.scripps",
-  "us.foxweather",
-  "us.newsnation"
+  "us.telemundo",
+  "us.cnnee"
  ],
  "channels": [
   {
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
    "youtubeVideoId": "KOTdMiRUbng",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q287171",
    "description": {
     "en": "news division of the American Broadcasting Company",
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "cKsksEjZY64",
+   "youtubeVideoId": "V1b6nTzIknA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "rUkUQrosskw",
+   "youtubeVideoId": "Nvl7K0LvvgI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "ioZy1ZVbqSE",
+   "youtubeVideoId": "az0LsJt4wss",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -291,7 +291,7 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "zto3mnjDDsI",
+   "youtubeVideoId": "m5gCFwKm9Qg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16957649",
@@ -319,7 +319,7 @@
    "youtubeChannelId": "UC32TdiIsh_5X8tKr_9rKQyA",
    "youtubeVideoId": "7YsZWBvLohw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q22023487",
    "description": {
     "en": "news division of Univision",
@@ -475,7 +475,7 @@
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
    "youtubeVideoId": "ExkdHF0iEak",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -707,7 +707,7 @@
     "en"
    ],
    "youtubeChannelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
-   "youtubeVideoId": "yktKz9DWuSg",
+   "youtubeVideoId": "6A9HjrCPJ-c",
    "embeddable": true,
    "live": true,
    "wikidata": null,
