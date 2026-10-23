@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102318,
+ "version": 2026102323,
  "defaultTiles": [
   "gb.skynews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.itvnews",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -20,7 +19,7 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "NJTaTE9pLsQ",
+   "youtubeVideoId": "Yu7NmfuvvbY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q217228",
@@ -131,7 +130,7 @@
     "en"
    ],
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-   "youtubeVideoId": "0fr8ihmB4Rg",
+   "youtubeVideoId": "NhI3WX5U_MA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q100300992",
@@ -226,7 +225,7 @@
     "en"
    ],
    "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
-   "youtubeVideoId": "SDt_aa8gmIE",
+   "youtubeVideoId": "aaw-aDARjWw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q108760651",
@@ -390,7 +389,7 @@
    "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A",
    "youtubeVideoId": "1DPLASjbCm0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4189762",
    "description": {
     "en": "British broadcaster ITV's branded news programming",

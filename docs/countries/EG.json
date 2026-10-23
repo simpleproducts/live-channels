@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026102318,
+ "version": 2026102323,
  "defaultTiles": [
-  "eg.extranews",
-  "eg.alnahar"
+  "eg.extranews"
  ],
  "channels": [
   {
@@ -106,7 +105,7 @@
    "youtubeChannelId": "UCtpL6HyBK-z16GbJguHf3JQ",
    "youtubeVideoId": "EkzpDRd2Rvg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3547019",
    "description": {
     "en": "Egyptian television channel",

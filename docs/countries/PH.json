@@ -1,11 +1,15 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102318,
+ "version": 2026102323,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
-  "ph.dzrh"
+  "ph.gma",
+  "ph.dzrh",
+  "ph.ptv",
+  "ph.teleradyo",
+  "ph.bombo"
  ],
  "channels": [
   {
@@ -17,7 +21,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "_aDagsVkGso",
+   "youtubeVideoId": "xusCx4WJqM0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -54,9 +58,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "ELMs-yI0Lxc",
+   "youtubeVideoId": "5f6JDKkZOD0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -256,9 +260,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "syZIdqs0Njk",
+   "youtubeVideoId": "OFfrz1HW_hA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -420,9 +424,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "SEk8in10yC8",
+   "youtubeVideoId": "HeRAG3Kt44g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -439,9 +443,9 @@
     "en"
    ],
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "MBI7Q8M0Tfk",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

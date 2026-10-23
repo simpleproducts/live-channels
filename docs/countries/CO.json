@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102318,
+ "version": 2026102323,
  "defaultTiles": [
   "co.noticiascaracol",
   "co.eltiempo",
@@ -9,8 +9,8 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.teleantioquianoticias",
-  "co.telecaribe",
+  "co.canalcapital",
+  "co.bluradio",
   "co.caracolradio"
  ],
  "channels": [
@@ -315,9 +315,9 @@
     "es"
    ],
    "youtubeChannelId": "UCeSx6aU8UGIIHxGCQPbYY_A",
-   "youtubeVideoId": "tj08Nj2-bMk",
+   "youtubeVideoId": "VcdRLOTbmVs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5030992",
    "description": {
     "en": "Colombian channel television",
@@ -343,7 +343,7 @@
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
    "youtubeVideoId": "43IvHdOxckY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -387,7 +387,7 @@
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
    "youtubeVideoId": "tCs627Adp08",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -427,9 +427,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "KE6yMjt9JvQ",
+   "youtubeVideoId": "kBo8W3-YiZo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4672090",
    "description": {
     "en": "radio station in Bogotá, Colombia",
@@ -455,7 +455,7 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "BuqHzFiMpzM",
+   "youtubeVideoId": "w4X_TCKI6SU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4382447",
@@ -484,7 +484,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "0VKCxEhfbac",
+   "youtubeVideoId": "daBlLS1pijI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",

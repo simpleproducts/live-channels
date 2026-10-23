@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "ID",
- "version": 2026102318,
+ "version": 2026102323,
  "defaultTiles": [
   "id.kompastv",
   "id.cnnid",
   "id.metrotv",
-  "id.tvone"
+  "id.tvone",
+  "id.tvri"
  ],
  "channels": [
   {
@@ -248,9 +249,9 @@
     "id"
    ],
    "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Wv4gW6lnpEo",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q1973495",
    "description": {
     "en": "Indonesian public television network",

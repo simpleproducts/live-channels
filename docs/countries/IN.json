@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026102318,
+ "version": 2026102323,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
   "in.aajtak",
   "in.abpnews",
-  "in.tv9bharatvarsh",
   "in.ndtv",
   "in.republicworld",
   "in.timesnow",
-  "in.indiatoday"
+  "in.indiatoday",
+  "in.cnnnews18"
  ],
  "channels": [
   {
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "9v-dyhimLS0",
+   "youtubeVideoId": "3wuQSHIbO5o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",
@@ -422,7 +422,7 @@
    "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
    "youtubeVideoId": "J-1eAt0geak",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65042846",
    "description": {
     "en": "television station in India",
@@ -484,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UCz8QaiQxApLq8sLNcszYyJw",
-   "youtubeVideoId": "BmACXjcuNEA",
+   "youtubeVideoId": "5Y97Ctax9u8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5453524",
@@ -521,7 +521,7 @@
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
    "youtubeVideoId": "T1IKamLSpeA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2613165",
    "description": {
     "en": "Indian news agency",

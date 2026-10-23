@@ -10,6 +10,6 @@
   {"id": "inews", "name": "iNews", "category": "news", "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg", "youtubeVideoId": "VL_X3t_36DQ", "embeddable": true, "live": false, "wikidata": "Q4213609"},
   {"id": "beritasatu", "name": "BeritaSatu", "category": "news", "youtubeChannelId": "UCqLsfkQSM0yfyGvONAGWd3Q", "youtubeVideoId": "PRivu4VxkwQ", "embeddable": true, "live": false},
   {"id": "cnbcid", "name": "CNBC Indonesia", "category": "economy", "youtubeChannelId": "UCGN9JsnkvK05v2lnTI_-uGA", "live": false, "wikidata": "Q25469731"},
-  {"id": "tvri", "name": "TVRI Nasional", "category": "broadcast", "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ", "live": false}
+  {"id": "tvri", "name": "TVRI Nasional", "category": "broadcast", "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ", "youtubeVideoId": "Wv4gW6lnpEo", "embeddable": true, "live": true, "liveSince": "2026-10-23T22:23:23Z"}
  ]
 }

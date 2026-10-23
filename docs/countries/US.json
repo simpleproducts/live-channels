@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102318,
+ "version": 2026102323,
  "defaultTiles": [
   "us.cnn",
   "us.newsmax",
   "us.foxweather",
+  "us.abcnews",
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.scripps",
-  "us.pbsnewshour",
-  "us.newsnation"
+  "us.foxnews",
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "en"
    ],
    "youtubeChannelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-   "youtubeVideoId": "KOTdMiRUbng",
+   "youtubeVideoId": "rIm8DksJWBI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q287171",
    "description": {
     "en": "news division of the American Broadcasting Company",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "Nvl7K0LvvgI",
+   "youtubeVideoId": "aF9neWULq64",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "m5gCFwKm9Qg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -317,9 +317,9 @@
     "es"
    ],
    "youtubeChannelId": "UC32TdiIsh_5X8tKr_9rKQyA",
-   "youtubeVideoId": "7YsZWBvLohw",
+   "youtubeVideoId": "V9eZvqPx2sY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q22023487",
    "description": {
     "en": "news division of Univision",
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "kpAMooEICmE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -475,7 +475,7 @@
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
    "youtubeVideoId": "p2dxMh3G7mA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "zNRqkUYAE54",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -547,7 +547,7 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "pMD0ffRom7M",
+   "youtubeVideoId": "1ykbOdTWmjQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q166419",
@@ -745,7 +745,7 @@
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
    "youtubeVideoId": "SBydw6ZkHcc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",
@@ -999,9 +999,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "YH2pri0HcjQ",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
