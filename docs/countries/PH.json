@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102415,
+ "version": 2026102422,
  "defaultTiles": [
   "ph.untv",
-  "ph.news5",
-  "ph.dzrh"
+  "ph.dzrh",
+  "ph.teleradyo"
  ],
  "channels": [
   {
@@ -128,7 +128,7 @@
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
    "youtubeVideoId": "FKRdvcQ4KcY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -420,9 +420,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "4YWxxV_s7ZA",
+   "youtubeVideoId": "j3xoH9ymBo4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

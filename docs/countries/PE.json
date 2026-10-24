@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102418,
+ "version": 2026102422,
  "defaultTiles": [
   "pe.latina",
-  "pe.rpp",
   "pe.willax",
-  "pe.exitosa",
-  "pe.radionacional"
+  "pe.tvperunoticias"
  ],
  "channels": [
   {
@@ -71,7 +69,7 @@
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
    "youtubeVideoId": "MIoz8Hvq6eA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -143,9 +141,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "2pNGvetxdcg",
+   "youtubeVideoId": "_fw7lAxdr34",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -401,7 +399,7 @@
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
    "youtubeVideoId": "l1WCD5EwAlc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",
@@ -425,7 +423,7 @@
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
    "youtubeVideoId": "IDtZBaQ7mvU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096493",
    "description": {
     "en": "radio station",

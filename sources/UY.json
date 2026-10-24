@@ -5,15 +5,15 @@
  "channels": [
   {"id": "elobservadoruy", "name": "El Observador", "category": "news", "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ", "youtubeVideoId": "Y9CXi8ygj40", "embeddable": true, "live": false},
   {"id": "ladiaria", "name": "la diaria", "category": "news", "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A", "youtubeVideoId": "rL3mlZZkbxA", "embeddable": true, "live": false, "wikidata": "Q1292957"},
-  {"id": "tnu", "name": "Canal 5 (TNU)", "category": "broadcast", "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA", "youtubeVideoId": "HgJxS6OXWpo", "embeddable": true, "live": false, "wikidata": "Q1775667"},
+  {"id": "tnu", "name": "Canal 5 (TNU)", "category": "broadcast", "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA", "youtubeVideoId": "ppy_3F8okzg", "embeddable": true, "live": true, "liveSince": "2026-10-24T21:58:32Z", "wikidata": "Q1775667"},
   {"id": "canal10", "name": "Canal 10", "category": "broadcast", "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q", "live": false, "wikidata": "Q2436756"},
   {"id": "teledoce", "name": "Teledoce", "category": "broadcast", "youtubeChannelId": "UCimPJKAbuM6z6b6DPZz86Mw", "live": false, "wikidata": "Q3982807"},
   {"id": "vtv", "name": "VTV", "category": "broadcast", "youtubeChannelId": "UCA4VRT895OOPPHq-pc2V2CQ", "live": false},
   {"id": "tvciudad", "name": "TV Ciudad", "category": "regional", "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA", "youtubeVideoId": "ZMl7YSzA8Gs", "embeddable": true, "live": false, "wikidata": "Q17630938"},
   {"id": "parlamento", "name": "Parlamento del Uruguay", "category": "government", "youtubeChannelId": "UCvy9D0ZwbNmvNfyQUl3RQnQ", "live": false},
-  {"id": "carve", "name": "Carve Deportiva", "category": "sports", "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ", "youtubeVideoId": "iZfVxPkTvcE", "embeddable": true, "live": true, "liveSince": "2026-10-24T17:03:35Z", "wikidata": "Q16953379"},
+  {"id": "carve", "name": "Carve Deportiva", "category": "sports", "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ", "youtubeVideoId": "1wbrKkrVl94", "embeddable": true, "live": true, "liveSince": "2026-10-24T20:59:33Z", "wikidata": "Q16953379"},
   {"id": "delsol", "name": "Del Sol FM", "category": "radio", "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA", "youtubeVideoId": "9hY0DzOB3mc", "embeddable": true, "live": false},
   {"id": "sarandi", "name": "Radio Sarandí", "category": "radio", "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ", "youtubeVideoId": "ppRn0vhJkvI", "embeddable": true, "live": false},
-  {"id": "universal", "name": "970 Universal", "category": "radio", "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg", "youtubeVideoId": "GB_-rudvnLg", "embeddable": true, "live": false, "languages": ["es"]}
+  {"id": "universal", "name": "970 Universal", "category": "radio", "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg", "youtubeVideoId": "8KLGPIf_x08", "embeddable": true, "live": true, "liveSince": "2026-10-24T21:04:00Z", "languages": ["es"]}
  ]
 }

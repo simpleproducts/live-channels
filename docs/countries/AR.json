@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102418,
+ "version": 2026102422,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -120,7 +120,7 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "txafgYSBjNk",
+   "youtubeVideoId": "2Kw3zDBIt68",
    "embeddable": true,
    "live": true,
    "wikidata": "Q389108",
@@ -328,7 +328,7 @@
     "es"
    ],
    "youtubeChannelId": "UCs231K71Bnu5295_x0MB5Pg",
-   "youtubeVideoId": "rqVYNnS2Oo8",
+   "youtubeVideoId": "TGUd6LrP3p4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1032483",
@@ -381,9 +381,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUT4NmGqjrVpKf2JyiS_bbA",
-   "youtubeVideoId": "e4VpCP8KWLY",
+   "youtubeVideoId": "yGLVhAklLyM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1032491",
    "description": {
     "en": "Argentinian television station",
@@ -550,9 +550,9 @@
     "es"
    ],
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-   "youtubeVideoId": "OsbnoDVlAtA",
+   "youtubeVideoId": "Efr2fPJyvio",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -885,7 +885,7 @@
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
    "youtubeVideoId": "b-v6RKKZkE0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -961,9 +961,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "BBaBbcwnUH0",
+   "youtubeVideoId": "PIlnwzTXxIo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1151,9 +1151,9 @@
     "es"
    ],
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
-   "youtubeVideoId": "Sc7ygxZK2Lc",
+   "youtubeVideoId": "QVuRR1Uettc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

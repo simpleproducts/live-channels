@@ -1,17 +1,9 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026102418,
+ "version": 2026102422,
  "defaultTiles": [
-  "th.thaipbs",
-  "th.thairath",
-  "th.ch7news",
-  "th.ch3news",
-  "th.tnn",
-  "th.pptv",
-  "th.amarin",
-  "th.nation",
-  "th.workpoint"
+  "th.ch7news"
  ],
  "channels": [
   {
@@ -108,9 +100,9 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "nHRtAEyhQDI",
+   "youtubeVideoId": "o2NmPxd8Fk4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026102411,
+ "version": 2026102422,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
   "fr.euronewsfr",
-  "fr.bfmtv",
   "fr.france24en",
   "fr.euronews",
   "fr.france24es",
   "fr.france24ar",
-  "fr.rfi"
+  "fr.rfi",
+  "fr.franceinter"
  ],
  "channels": [
   {
@@ -342,7 +342,7 @@
    "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g",
    "youtubeVideoId": "-EBIK8Gowgc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q517444",
    "description": {
     "en": "French news channel",

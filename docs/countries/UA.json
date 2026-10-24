@@ -1,15 +1,13 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026102418,
+ "version": 2026102422,
  "defaultTiles": [
   "ua.suspilne",
-  "ua.tsn",
   "ua.faktyictv",
   "ua.pryamiy",
   "ua.5kanal",
-  "ua.espreso",
-  "ua.kyiv24",
+  "ua.tsn",
   "ua.freedom",
   "ua.rada"
  ],
@@ -45,7 +43,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-   "youtubeVideoId": "ASBK1Pr1-wg",
+   "youtubeVideoId": "WINeTGQQszs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4449066",
@@ -112,7 +110,7 @@
    "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w",
    "youtubeVideoId": "ItCRRIsaiks",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15689802",
    "description": {
     "en": "Ukrainian TV channel",
@@ -147,7 +145,7 @@
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
    "youtubeVideoId": "2GqZQVI96YQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -163,7 +161,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "MJvP082IKCo",
+   "youtubeVideoId": "sNiahBFug4w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",
