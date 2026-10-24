@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102323,
+ "version": 2026102404,
  "defaultTiles": [
   "tr.trthaber",
   "tr.ntv",
   "tr.24tv",
-  "tr.haberturk",
   "tr.trtworld",
   "tr.bloomberght",
   "tr.showtv",
   "tr.kanald",
-  "tr.startv"
+  "tr.startv",
+  "tr.rockfm"
  ],
  "channels": [
   {
@@ -114,7 +114,7 @@
    "youtubeChannelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
    "youtubeVideoId": "FOhZ73vC0vQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6092925",
    "description": {
     "en": "Turkish news network",

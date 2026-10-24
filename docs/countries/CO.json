@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102323,
+ "version": 2026102404,
  "defaultTiles": [
   "co.noticiascaracol",
   "co.eltiempo",
@@ -9,9 +9,7 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.canalcapital",
-  "co.bluradio",
-  "co.caracolradio"
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -317,7 +315,7 @@
    "youtubeChannelId": "UCeSx6aU8UGIIHxGCQPbYY_A",
    "youtubeVideoId": "VcdRLOTbmVs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5030992",
    "description": {
     "en": "Colombian channel television",
@@ -427,7 +425,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "kBo8W3-YiZo",
+   "youtubeVideoId": "IRpHfaXq3m8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -457,7 +455,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "w4X_TCKI6SU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -486,7 +484,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "daBlLS1pijI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",

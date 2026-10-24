@@ -1,9 +1,12 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026102323,
+ "version": 2026102404,
  "defaultTiles": [
   "py.abctv",
+  "py.telefuturo",
+  "py.npy",
+  "py.ultimahora",
   "py.gen"
  ],
  "channels": [
@@ -17,7 +20,7 @@
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
    "youtubeVideoId": "UgqfGAszy04",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -82,7 +85,7 @@
    "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA",
    "youtubeVideoId": "u6-zOL3V49w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

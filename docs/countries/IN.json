@@ -1,17 +1,13 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026102323,
+ "version": 2026102404,
  "defaultTiles": [
   "in.ddnews",
-  "in.indiatv",
-  "in.aajtak",
-  "in.abpnews",
-  "in.ndtv",
-  "in.republicworld",
-  "in.timesnow",
-  "in.indiatoday",
-  "in.cnnnews18"
+  "in.firstpost",
+  "in.cnbcawaaz",
+  "in.zeebusiness",
+  "in.etnow"
  ],
  "channels": [
   {
@@ -25,7 +21,7 @@
    "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ",
    "youtubeVideoId": "dF04ZpCELFE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6019415",
    "description": {
     "en": "News in English: Latest News, Breaking News, Live Updates - IndiaTV News",
@@ -55,7 +51,7 @@
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
    "youtubeVideoId": "VfYVtynFmRE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3396358",
    "description": {
     "en": "Hindi news channel",
@@ -99,7 +95,7 @@
    "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
    "youtubeVideoId": "hg6w41Mtqak",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2985356",
    "description": {
     "en": "Indian news network",
@@ -142,7 +138,7 @@
    "youtubeChannelId": "UCwqusr8YDwM-3mEYTDeJHzw",
    "youtubeVideoId": "FOxlqXJ_UjI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28180276",
    "description": {
     "en": "Indian news channel",
@@ -170,7 +166,7 @@
    "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
    "youtubeVideoId": "QdRqliPm3yc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7806547",
    "description": {
     "en": "English News Channel of India",
@@ -198,7 +194,7 @@
    "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
    "youtubeVideoId": "GRnde0apyZw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3630156",
    "description": {
     "en": "Indian news channel",
@@ -302,7 +298,7 @@
    "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
    "youtubeVideoId": "VmULYiig07Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5689808",
    "description": {
     "en": "24-hour English language television network based in India",
@@ -380,7 +376,7 @@
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
    "youtubeVideoId": "3wuQSHIbO5o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1023924",
    "description": {
     "en": "Indian English-language news television channel",
@@ -446,7 +442,7 @@
    "youtubeChannelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
    "youtubeVideoId": "mYL2GTo_Oqg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -464,7 +460,7 @@
    "youtubeChannelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
    "youtubeVideoId": "AHGg_8Skzt0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20647988",
    "description": {
     "en": "Indian, English-language news channel"
@@ -561,7 +557,7 @@
    "youtubeChannelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
    "youtubeVideoId": "IYzCnBNFT8s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3631483",
    "description": {
     "en": "Indian pay television news channel owned by CNBC",

@@ -1,12 +1,14 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026102323,
+ "version": 2026102404,
  "defaultTiles": [
   "ve.vpitv",
-  "ve.elpitazo",
   "ve.unionradio",
-  "ve.vtv"
+  "ve.evtv",
+  "ve.elpitazo",
+  "ve.noticiasvenevision",
+  "ve.telesurenglish"
  ],
  "channels": [
   {
@@ -19,7 +21,7 @@
    "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w",
    "youtubeVideoId": "edEu_nMGGJg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q59345050",
    "description": {
     "en": "Venezuelan streaming channel",
@@ -61,7 +63,7 @@
    "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA",
    "youtubeVideoId": "my6nIMEWE1g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65057048",
    "description": {
     "en": "Venezuelan news website",
@@ -127,7 +129,7 @@
    "youtubeChannelId": "UC_8sCVycu3FXidPNoZwOHqA",
    "youtubeVideoId": "eumBcpwtfnc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -145,7 +147,7 @@
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
    "youtubeVideoId": "RcloTrRBolY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5770016",
    "description": {
     "en": "Venezuela",

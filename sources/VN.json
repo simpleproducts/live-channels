@@ -3,13 +3,13 @@
  "languages": ["vi"],
  "defaultTiles": ["antv", "qpvn", "htvnews", "hanoitv", "vov", "thanhnien", "tuoitre"],
  "channels": [
-  {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "hljBwjohvDY", "embeddable": true, "live": true, "liveSince": "2026-10-23T10:36:45Z", "languages": ["vi"]},
+  {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "hljBwjohvDY", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "qpvn", "name": "QPVN", "category": "news", "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw", "live": false, "languages": ["vi"]},
   {"id": "thanhnien", "name": "Báo Thanh Niên", "category": "news", "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg", "youtubeVideoId": "dzfVzR5CnlQ", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "tuoitre", "name": "Báo Tuổi Trẻ", "category": "news", "youtubeChannelId": "UC47WI-kZXFf0H_f7pvaNCEQ", "live": false, "languages": ["vi"]},
   {"id": "vtcnews", "name": "VTC News", "category": "news", "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg", "youtubeVideoId": "oJ6XHyCZObg", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "htvnews", "name": "HTV Tin Tức", "category": "regional", "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw", "youtubeVideoId": "x3ba-JV6JVw", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "hanoitv", "name": "Hanoi Radio Television", "category": "regional", "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w", "youtubeVideoId": "sWmUwNzoRzc", "embeddable": true, "live": false, "languages": ["vi"]},
-  {"id": "vov", "name": "VOV", "category": "radio", "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg", "youtubeVideoId": "D7m1WXMwKQk", "embeddable": true, "live": true, "liveSince": "2026-10-23T13:22:31Z", "languages": ["vi"]}
+  {"id": "vov", "name": "VOV", "category": "radio", "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg", "youtubeVideoId": "D7m1WXMwKQk", "embeddable": true, "live": false, "languages": ["vi"]}
  ]
 }
