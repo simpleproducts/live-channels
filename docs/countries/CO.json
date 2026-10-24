@@ -1,15 +1,14 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102404,
+ "version": 2026102411,
  "defaultTiles": [
   "co.noticiascaracol",
-  "co.eltiempo",
   "co.noticiasrcn",
+  "co.eltiempo",
   "co.caracoltv",
   "co.citytv",
-  "co.rcnradio",
-  "co.bluradio"
+  "co.rcnradio"
  ],
  "channels": [
   {
@@ -427,7 +426,7 @@
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
    "youtubeVideoId": "IRpHfaXq3m8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4672090",
    "description": {
     "en": "radio station in Bogotá, Colombia",

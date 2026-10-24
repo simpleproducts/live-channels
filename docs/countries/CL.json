@@ -1,11 +1,14 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102404,
+ "version": 2026102411,
  "defaultTiles": [
-  "cl.t13",
   "cl.chvnoticias",
-  "cl.cooperativa"
+  "cl.t13",
+  "cl.meganoticias",
+  "cl.cooperativa",
+  "cl.tvn",
+  "cl.agricultura"
  ],
  "channels": [
   {
@@ -16,9 +19,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "3EVYFMTqt_c",
+   "youtubeVideoId": "QFuXHtMvXPA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -162,9 +165,9 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "XDeoZC1_YVc",
+   "youtubeVideoId": "yhe94A9pU6c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597933",
    "description": {
     "en": "Chilean public service broadcaster",
@@ -561,9 +564,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "su2vLeK0P0A",
+   "youtubeVideoId": "jyWRkjoqLaM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -3,7 +3,7 @@
  "languages": ["es"],
  "defaultTiles": ["pbo", "larepublica", "rpp", "latina", "willax", "tvperunoticias", "atv", "panamericana", "congreso"],
  "channels": [
-  {"id": "pbo", "name": "PBO", "category": "news", "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ", "youtubeVideoId": "-XTDbpRkUgk", "embeddable": true, "live": false},
+  {"id": "pbo", "name": "PBO", "category": "news", "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ", "youtubeVideoId": "QCz2NgLiTGY", "embeddable": true, "live": true, "liveSince": "2026-10-24T09:59:26Z"},
   {"id": "larepublica", "name": "La República", "category": "news", "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg", "youtubeVideoId": "ltdcUHQUV6Q", "embeddable": true, "live": false, "wikidata": "Q1330217"},
   {"id": "rpp", "name": "RPP", "category": "news", "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA", "youtubeVideoId": "K5JEYySuvMY", "embeddable": true, "live": false, "wikidata": "Q3090686"},
   {"id": "latina", "name": "Latina Noticias", "category": "news", "youtubeChannelId": "UCpSJ5fGhmAME9Kx2D3ZvN3Q", "youtubeVideoId": "sLzfveqNEJc", "embeddable": true, "live": true, "liveSince": "2026-08-07T01:28:32Z"},

@@ -1,14 +1,9 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026102404,
+ "version": 2026102411,
  "defaultTiles": [
-  "ve.vpitv",
-  "ve.unionradio",
-  "ve.evtv",
-  "ve.elpitazo",
-  "ve.noticiasvenevision",
-  "ve.telesurenglish"
+  "ve.vtv"
  ],
  "channels": [
   {
@@ -127,9 +122,9 @@
     "es"
    ],
    "youtubeChannelId": "UC_8sCVycu3FXidPNoZwOHqA",
-   "youtubeVideoId": "eumBcpwtfnc",
+   "youtubeVideoId": "A3cJBLyIGN0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102404,
+ "version": 2026102411,
  "defaultTiles": [
-  "pe.latina"
+  "pe.latina",
+  "pe.pbo"
  ],
  "channels": [
   {
@@ -14,9 +15,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "-XTDbpRkUgk",
+   "youtubeVideoId": "QCz2NgLiTGY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

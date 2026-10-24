@@ -9,7 +9,7 @@
   {"id": "euronews", "name": "Euronews", "category": "news", "youtubeChannelId": "UCSrZ3UV4jOidv8ppoVuvW9Q", "youtubeVideoId": "pykpO5kQJ98", "embeddable": true, "live": true, "liveSince": "2022-12-12T16:50:08Z", "languages": ["en"]},
   {"id": "euronewsfr", "name": "Euronews en français", "category": "news", "youtubeChannelId": "UCW2QcKZiU8aUGg4yxCIditg", "youtubeVideoId": "NiRIbKwAejk", "embeddable": true, "live": true, "liveSince": "2022-09-19T16:38:52Z"},
   {"id": "franceinfo", "name": "franceinfo", "category": "news", "youtubeChannelId": "UCO6K_kkdP-lnSCiO3tPx7WA", "youtubeVideoId": "NG7ZX42nZKc", "embeddable": true, "live": true, "liveSince": "2025-10-14T03:02:58Z"},
-  {"id": "bfmtv", "name": "BFMTV", "category": "news", "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g", "youtubeVideoId": "xoKI4cSewGY", "embeddable": true, "live": false},
+  {"id": "bfmtv", "name": "BFMTV", "category": "news", "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g", "youtubeVideoId": "-EBIK8Gowgc", "embeddable": true, "live": true, "liveSince": "2026-10-24T08:28:13Z"},
   {"id": "france24ar", "name": "France 24 Arabic", "category": "news", "youtubeChannelId": "UCdTyuXgmJkG_O8_75eqej-w", "youtubeVideoId": "93g513Uth98", "embeddable": true, "live": true, "liveSince": "2026-05-27T10:26:26Z", "languages": ["ar"]},
   {"id": "tv5monde", "name": "TV5MONDE Info", "category": "news", "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg", "live": false},
   {"id": "bfmbusiness", "name": "BFM Business", "category": "economy", "youtubeChannelId": "UCUsBMOIUl_ad6JUOC16DpmQ", "live": false, "wikidata": "Q2877016"},

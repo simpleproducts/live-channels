@@ -28,7 +28,7 @@
   {"id": "univision", "name": "Univision", "category": "broadcast", "youtubeChannelId": "UCcEWv_J2SEU8XO2tEm4Phgw", "live": false, "languages": ["es"]},
   {"id": "cspan", "name": "C-SPAN", "category": "government", "youtubeChannelId": "UCb--64Gl51jIEVE-GLDAVTg", "youtubeVideoId": "VnRJlQYEOow", "embeddable": true, "live": false},
   {"id": "whitehouse", "name": "The White House", "category": "government", "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ", "live": false},
-  {"id": "wtop", "name": "WTOP News", "category": "radio", "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA", "youtubeVideoId": "YH2pri0HcjQ", "embeddable": true, "live": true, "liveSince": "2026-10-23T20:21:00Z", "languages": ["en"]},
+  {"id": "wtop", "name": "WTOP News", "category": "radio", "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA", "youtubeVideoId": "YH2pri0HcjQ", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "wnyc", "name": "WNYC", "category": "radio", "youtubeChannelId": "UCbysmY4hyViQAAYEzOR-uCQ", "live": false, "languages": ["en"]},
   {"id": "nasa", "name": "NASA", "category": "culture", "youtubeChannelId": "UCLA_DiR1FfKNvjuUpBHmylQ", "youtubeVideoId": "M3HKLzjvKPc", "embeddable": true, "live": true, "liveSince": "2026-07-30T13:14:41Z", "wikidata": "Q23548"},
   {"id": "telemundotv", "name": "Telemundo", "category": "entertainment", "youtubeChannelId": "UCajrNVKvG2xVlVcSr3GcsDA", "live": false, "languages": ["es"]}

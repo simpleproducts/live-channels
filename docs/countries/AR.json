@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102404,
+ "version": 2026102411,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -120,7 +120,7 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "wggOiifHXv4",
+   "youtubeVideoId": "MiQerwyIHRU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q389108",
@@ -919,9 +919,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "SZl0i4bsoB8",
+   "youtubeVideoId": "ABW_k4DPKOQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -1033,9 +1033,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNxohbqfDp8YxW_Mji2XMHA",
-   "youtubeVideoId": "OdwXM8E1flg",
+   "youtubeVideoId": "k9bMyNGsmhU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5738884",
    "description": {
     "en": "radio station in Argentina",
@@ -1115,9 +1115,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLAj5TzCrNbqe3LosSKHLcQ",
-   "youtubeVideoId": "4ZWFeE4CVL4",
+   "youtubeVideoId": "ffySp657GBQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1169,9 +1169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "q201EFaGQSk",
+   "youtubeVideoId": "VpUJ2ULBUxs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961729",
    "description": {
     "en": "Public AM radio station in Buenos Aires",
@@ -1193,9 +1193,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "SKkmsRGaJa8",
+   "youtubeVideoId": "eDhdq9QCJiA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1211,9 +1211,9 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "XwxABNwsA-4",
+   "youtubeVideoId": "s5pYOgeKUEw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

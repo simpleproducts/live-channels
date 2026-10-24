@@ -1,13 +1,17 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026102404,
+ "version": 2026102411,
  "defaultTiles": [
   "in.ddnews",
-  "in.firstpost",
-  "in.cnbcawaaz",
-  "in.zeebusiness",
-  "in.etnow"
+  "in.indiatv",
+  "in.aajtak",
+  "in.ndtvindia",
+  "in.abpnews",
+  "in.zeenews",
+  "in.news18india",
+  "in.tv9bharatvarsh",
+  "in.ndtv"
  ],
  "channels": [
   {
@@ -19,9 +23,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ",
-   "youtubeVideoId": "dF04ZpCELFE",
+   "youtubeVideoId": "H2qhDK4rako",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6019415",
    "description": {
     "en": "News in English: Latest News, Breaking News, Live Updates - IndiaTV News",
@@ -49,9 +53,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-   "youtubeVideoId": "VfYVtynFmRE",
+   "youtubeVideoId": "tqVCaiJ8pns",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3396358",
    "description": {
     "en": "Hindi news channel",
@@ -75,9 +79,9 @@
     "en"
    ],
    "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
-   "youtubeVideoId": "Zyy3YFdRCU4",
+   "youtubeVideoId": "7XahqJUh3Ew",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -93,9 +97,9 @@
     "en"
    ],
    "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-   "youtubeVideoId": "hg6w41Mtqak",
+   "youtubeVideoId": "naH6a3yrFl8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2985356",
    "description": {
     "en": "Indian news network",
@@ -136,9 +140,9 @@
     "en"
    ],
    "youtubeChannelId": "UCwqusr8YDwM-3mEYTDeJHzw",
-   "youtubeVideoId": "FOxlqXJ_UjI",
+   "youtubeVideoId": "gS70SmaR1Nc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28180276",
    "description": {
     "en": "Indian news channel",
@@ -164,9 +168,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
-   "youtubeVideoId": "QdRqliPm3yc",
+   "youtubeVideoId": "g_ekCBNqZrM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7806547",
    "description": {
     "en": "English News Channel of India",
@@ -192,9 +196,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
-   "youtubeVideoId": "GRnde0apyZw",
+   "youtubeVideoId": "537YGj_6Fa8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3630156",
    "description": {
     "en": "Indian news channel",
@@ -225,9 +229,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCIvaYmXn910QMdemBG3v1pQ",
-   "youtubeVideoId": "nU7qZ9o2kds",
+   "youtubeVideoId": "vfeIrnaopdo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5287969",
    "description": {
     "en": "news channel of Zee Media",
@@ -349,9 +353,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
-   "youtubeVideoId": "gulj2RPpkNw",
+   "youtubeVideoId": "LojrRdTeYEY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q19891764",
    "description": {
     "en": "News Channel",
@@ -416,9 +420,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
-   "youtubeVideoId": "J-1eAt0geak",
+   "youtubeVideoId": "0EZZtrTtKz8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65042846",
    "description": {
     "en": "television station in India",
@@ -440,9 +444,9 @@
     "en"
    ],
    "youtubeChannelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
-   "youtubeVideoId": "mYL2GTo_Oqg",
+   "youtubeVideoId": "HIR3hWsSlrI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -458,9 +462,9 @@
     "en"
    ],
    "youtubeChannelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
-   "youtubeVideoId": "AHGg_8Skzt0",
+   "youtubeVideoId": "T_faKmCR-8E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20647988",
    "description": {
     "en": "Indian, English-language news channel"
@@ -480,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UCz8QaiQxApLq8sLNcszYyJw",
-   "youtubeVideoId": "5Y97Ctax9u8",
+   "youtubeVideoId": "wPAPtw6qoyM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5453524",
@@ -515,9 +519,9 @@
     "en"
    ],
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
-   "youtubeVideoId": "T1IKamLSpeA",
+   "youtubeVideoId": "N42gnBMgIoE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2613165",
    "description": {
     "en": "Indian news agency",
@@ -555,9 +559,9 @@
     "en"
    ],
    "youtubeChannelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
-   "youtubeVideoId": "IYzCnBNFT8s",
+   "youtubeVideoId": "X6VUen843lQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3631483",
    "description": {
     "en": "Indian pay television news channel owned by CNBC",
@@ -581,7 +585,7 @@
     "en"
    ],
    "youtubeChannelId": "UCI_mwTKUhicNzFrhm33MzBQ",
-   "youtubeVideoId": "5D1l8x2FaEI",
+   "youtubeVideoId": "vqHvvBM8wF0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5324510",
@@ -603,9 +607,9 @@
     "en"
    ],
    "youtubeChannelId": "UC3uJIdRFTGgLWrUziaHbzrg",
-   "youtubeVideoId": "IcXry4ALi1Y",
+   "youtubeVideoId": "u_51gPDneOw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6953329",
    "description": {
     "en": "Indian Business tv channel"
@@ -625,7 +629,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCQIycDaLsBpMKjOCeaKUYVg",
-   "youtubeVideoId": "CxjVk_Rx8mg",
+   "youtubeVideoId": "YoFRutMe1-I",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5013075",
@@ -657,7 +661,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCkXopQ3ubd-rnXnStZqCl2w",
-   "youtubeVideoId": "E9BObG40DpA",
+   "youtubeVideoId": "wdBy78m28FQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q8068393",

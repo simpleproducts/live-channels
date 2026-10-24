@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102404,
+ "version": 2026102411,
  "defaultTiles": [
   "mx.milenio",
   "mx.adnnoticias",
   "mx.multimedios",
-  "mx.imagenradio"
+  "mx.imagenradio",
+  "mx.canalonce"
  ],
  "channels": [
   {
@@ -284,9 +285,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "as_DNMpmeLw",
+   "youtubeVideoId": "u3fFWgYkPPQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

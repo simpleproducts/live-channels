@@ -4,14 +4,14 @@
  "defaultTiles": ["ytn", "yonhap", "mbc", "kbs", "sbs", "jtbc", "channela", "tvchosun", "mbn"],
  "channels": [
   {"id": "ytn", "name": "YTN", "category": "news", "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w", "youtubeVideoId": "j-ncHWt4xLY", "embeddable": true, "live": false},
-  {"id": "yonhap", "name": "연합뉴스TV", "category": "news", "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg", "youtubeVideoId": "d7PPKNHezNE", "embeddable": true, "live": false},
-  {"id": "mbc", "name": "MBCNEWS", "category": "news", "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw", "youtubeVideoId": "m0wUTjsd7gw", "embeddable": true, "live": true, "liveSince": "2026-10-23T12:31:45Z"},
-  {"id": "kbs", "name": "KBS News", "category": "news", "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A", "youtubeVideoId": "y9wd8eDhJCI", "embeddable": true, "live": false},
-  {"id": "sbs", "name": "SBS 뉴스", "category": "news", "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw", "youtubeVideoId": "3n0ES_XiaPc", "embeddable": true, "live": true, "liveSince": "2026-10-23T13:21:05Z"},
-  {"id": "jtbc", "name": "JTBC News", "category": "news", "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ", "youtubeVideoId": "fqQAD_noR9E", "embeddable": true, "live": false},
-  {"id": "channela", "name": "채널A 뉴스", "category": "news", "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw", "youtubeVideoId": "wVQIuag9iLs", "embeddable": true, "live": false},
+  {"id": "yonhap", "name": "연합뉴스TV", "category": "news", "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg", "youtubeVideoId": "OGKXE2piPdk", "embeddable": true, "live": true, "liveSince": "2026-10-24T10:54:44Z"},
+  {"id": "mbc", "name": "MBCNEWS", "category": "news", "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw", "youtubeVideoId": "gFFn-nse6m0", "embeddable": true, "live": true, "liveSince": "2026-10-24T10:54:47Z"},
+  {"id": "kbs", "name": "KBS News", "category": "news", "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A", "youtubeVideoId": "Bc5ouZ-C0qM", "embeddable": true, "live": true, "liveSince": "2026-10-24T09:59:54Z"},
+  {"id": "sbs", "name": "SBS 뉴스", "category": "news", "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw", "youtubeVideoId": "dXQDfFhCs5A", "embeddable": true, "live": true, "liveSince": "2026-10-24T10:48:36Z"},
+  {"id": "jtbc", "name": "JTBC News", "category": "news", "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ", "youtubeVideoId": "6SWqj93Ag6U", "embeddable": true, "live": true, "liveSince": "2026-10-24T10:59:53Z"},
+  {"id": "channela", "name": "채널A 뉴스", "category": "news", "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw", "youtubeVideoId": "fGb86uHhySE", "embeddable": true, "live": true, "liveSince": "2026-10-24T09:47:24Z"},
   {"id": "tvchosun", "name": "TV CHOSUN NEWS", "category": "news", "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q", "youtubeVideoId": "ao8KmYncnw8", "embeddable": true, "live": false},
-  {"id": "mbn", "name": "MBN News", "category": "news", "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg", "youtubeVideoId": "yB3hg1zcVbE", "embeddable": true, "live": false},
+  {"id": "mbn", "name": "MBN News", "category": "news", "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg", "youtubeVideoId": "dJuNCbV8ml4", "embeddable": true, "live": true, "liveSince": "2026-10-24T10:25:35Z"},
   {"id": "arirang", "name": "Arirang TV", "category": "news", "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw", "live": false, "languages": ["en"]},
   {"id": "yonhapnews", "name": "연합뉴스 Yonhapnews", "category": "news", "youtubeChannelId": "UCj3_t5p4L4aFsvdW3uHjnnw", "live": false},
   {"id": "sbsbiz", "name": "SBS Biz", "category": "economy", "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw", "youtubeVideoId": "i9OuAEnBPuk", "embeddable": true, "live": false, "wikidata": "Q7388983"},
@@ -26,13 +26,13 @@
   {"id": "gwangjumbc", "name": "Gwangju MBC News", "category": "regional", "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA", "youtubeVideoId": "ZdoE5855wd8", "embeddable": true, "live": false},
   {"id": "natv", "name": "국회방송 NATV", "category": "government", "youtubeChannelId": "UCL-WOj1FxKR8Hlzg5tvnWKg", "youtubeVideoId": "I3QW3F-xFzY", "embeddable": true, "live": false},
   {"id": "ktv", "name": "KTV 국민방송", "category": "government", "youtubeChannelId": "UCIMOytYIzaUpoAM2bpT4JZQ", "live": false},
-  {"id": "kbs1radio", "name": "KBS 1Radio", "category": "radio", "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A", "youtubeVideoId": "AvdAFsLL3Vs", "embeddable": true, "live": false, "languages": ["ko"]},
+  {"id": "kbs1radio", "name": "KBS 1Radio", "category": "radio", "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A", "youtubeVideoId": "E7zEsU6Cyew", "embeddable": true, "live": true, "liveSince": "2026-10-24T03:09:50Z", "languages": ["ko"]},
   {"id": "ytnradio", "name": "YTN Radio", "category": "radio", "youtubeChannelId": "UCwRljhjVWtLqAKbsWGPU_OA", "youtubeVideoId": "SMQJyQ0UMvI", "embeddable": true, "live": true, "liveSince": "2024-09-11T12:12:47Z", "languages": ["ko"]},
   {"id": "sbsradio", "name": "SBS Radio", "category": "radio", "youtubeChannelId": "UCAmff0euQRf6RwVlbB8PLMw", "youtubeVideoId": "F6rrT3OHCoU", "embeddable": true, "live": true, "liveSince": "2025-11-12T14:13:10Z", "languages": ["ko"]},
   {"id": "tbsefm", "name": "TBS eFM", "category": "radio", "youtubeChannelId": "UCHjDAeTbO4fQilomLD-kaXg", "youtubeVideoId": "GHUlg63raJo", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "arirangradio", "name": "Arirang Radio", "category": "radio", "youtubeChannelId": "UCUSSnoEQ8DSRK-gnWS0vfyA", "youtubeVideoId": "P1fX2GGdVS0", "embeddable": true, "live": true, "liveSince": "2020-06-25T02:57:10Z", "languages": ["en"]},
   {"id": "arirangtv", "name": "Arirang TV", "category": "culture", "youtubeChannelId": "UC-PHIZjV-oX8H7zD1cCN2NQ", "youtubeVideoId": "hvVlyZ5GiE8", "embeddable": true, "live": true, "liveSince": "2026-07-10T02:56:12Z", "languages": ["en"]},
   {"id": "kbsworld", "name": "KBS WORLD TV", "category": "entertainment", "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig", "youtubeVideoId": "aHfx83ObCac", "embeddable": true, "live": true, "liveSince": "2026-10-08T01:59:01Z"},
-  {"id": "ytnscience", "name": "YTN Science", "category": "culture", "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA", "youtubeVideoId": "9p2n-RdRYIc", "embeddable": true, "live": false}
+  {"id": "ytnscience", "name": "YTN Science", "category": "culture", "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA", "youtubeVideoId": "EMJMfxXx43o", "embeddable": true, "live": true, "liveSince": "2026-10-24T07:35:49Z"}
  ]
 }

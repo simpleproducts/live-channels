@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102404,
+ "version": 2026102411,
  "defaultTiles": [
+  "jp.ann",
+  "jp.tbs",
+  "jp.ntvnews",
   "jp.weathernews",
   "jp.nhkworld",
   "jp.htb",
   "jp.satv",
   "jp.ytv",
-  "jp.abctv",
-  "jp.chukyo",
-  "jp.tokaitv",
-  "jp.kbc"
+  "jp.ktv"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "NzhETTSalEs",
+   "youtubeVideoId": "LPEI1jNwzIw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q843772",
    "description": {
     "en": "Japanese television network",
@@ -60,9 +60,9 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "3E6vxZK7vdw",
+   "youtubeVideoId": "AjVhMjkHQCk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16143608",
    "description": {
     "en": "Internet news website",
@@ -87,9 +87,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "oWa0MyHh61E",
+   "youtubeVideoId": "Ep1uf-9DNfw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11504671",
    "description": {
     "en": "Japanese television news network",
@@ -446,9 +446,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCQhaZjODkIjuv38d-i5TVRw",
-   "youtubeVideoId": "09m1PXSGFS0",
+   "youtubeVideoId": "lwdoVosL-q0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
