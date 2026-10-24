@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026102411,
+ "version": 2026102415,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
   "es.elpais",
-  "es.elmundo",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.rtvcanarias"
+  "es.rtvcanarias",
+  "es.telemadrid"
  ],
  "channels": [
   {
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "rMp4yjDcIDI",
+   "youtubeVideoId": "oM6vGVzjbOY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -171,7 +171,7 @@
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
    "youtubeVideoId": "5rG7bMDaVF4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -638,7 +638,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "XBklyIOCb6Q",
+   "youtubeVideoId": "_0Uz6CfCepo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1025113",
@@ -683,7 +683,7 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "exCGJWMVwz0",
+   "youtubeVideoId": "q6iu4cJ1mEA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2748448",

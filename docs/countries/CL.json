@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102411,
+ "version": 2026102415,
  "defaultTiles": [
   "cl.chvnoticias",
   "cl.t13",
   "cl.meganoticias",
   "cl.cooperativa",
   "cl.tvn",
-  "cl.agricultura"
+  "cl.adn"
  ],
  "channels": [
   {
@@ -501,9 +501,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "d9ZkLyPfp-k",
+   "youtubeVideoId": "bm3I26psR2Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -566,7 +566,7 @@
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
    "youtubeVideoId": "jyWRkjoqLaM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

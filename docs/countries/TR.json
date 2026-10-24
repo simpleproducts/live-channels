@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102411,
+ "version": 2026102415,
  "defaultTiles": [
   "tr.trthaber",
   "tr.haberturk",
   "tr.ntv",
   "tr.24tv",
+  "tr.cnnturk",
   "tr.sozcu",
-  "tr.ahaber",
+  "tr.tv100",
   "tr.trtworld",
-  "tr.bloomberght",
-  "tr.showtv"
+  "tr.bloomberght"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
-   "youtubeVideoId": "JHbROsUfNwM",
+   "youtubeVideoId": "QK-O9OJuqzM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931786",
    "description": {
     "en": "Turkish news channel",
@@ -204,7 +204,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
-   "youtubeVideoId": "q5WJwQi01Ks",
+   "youtubeVideoId": "lEiFNaNq8f8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q116775276",
@@ -272,7 +272,7 @@
    "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
    "youtubeVideoId": "WAQEuxOF9_E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6089384",
    "description": {
     "en": "Turkish news network",
@@ -350,9 +350,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
-   "youtubeVideoId": "4k3KCaJ2a9w",
+   "youtubeVideoId": "ja91Aa8tv-w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q85975294",
    "description": {
     "en": "Turkish national news channel",

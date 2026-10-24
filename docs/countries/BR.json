@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026102411,
+ "version": 2026102415,
  "defaultTiles": [
   "br.cnnbrasil",
   "br.jovempan",
   "br.sbtnews",
+  "br.canalrural",
+  "br.metropoles",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn",
-  "br.bandnewsfm",
-  "br.itatiaia",
-  "br.bandeirantes"
+  "br.tvcultura",
+  "br.cbn"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "CweCGmBunZM",
+   "youtubeVideoId": "KbVngmi1j9Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -89,7 +89,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCP391YRAjSOdM_bwievgaZA",
-   "youtubeVideoId": "HdTXAZ-rZLc",
+   "youtubeVideoId": "i9WcyxKLB50",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10358223",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "OIPEnvXLmY8",
+   "youtubeVideoId": "XRd5cRbg--g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -159,9 +159,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
-   "youtubeVideoId": "8o7-IhiUXEc",
+   "youtubeVideoId": "oGWpI6yl9bM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -199,9 +199,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "6ktnzdym2-I",
+   "youtubeVideoId": "VaiE9sEulGU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -352,9 +352,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCjOJvvYe6tyEHY21OD33h8A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "MFT_DHZQt_E",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q3069919",
    "description": {
     "en": "Brazilian public television network",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "uZPTom8twig",
+   "youtubeVideoId": "EuI8A_hYNlA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "hWGn6YztjZE",
+   "youtubeVideoId": "N4wgY_Ogn7o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "RzfoyGS5QhE",
+   "youtubeVideoId": "NzW6fVOEu5s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",

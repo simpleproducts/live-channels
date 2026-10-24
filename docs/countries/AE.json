@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AE",
- "version": 2026102323,
+ "version": 2026102415,
  "defaultTiles": [
   "ae.alarabiya",
   "ae.skynewsarabia",
@@ -9,7 +9,8 @@
   "ae.almashhad",
   "ae.cnbcarabia",
   "ae.alarabiyabusiness",
-  "ae.alarabiyafm"
+  "ae.alarabiyafm",
+  "ae.adsports"
  ],
  "channels": [
   {
@@ -221,9 +222,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCF8Fpc7bPHC8Jrflci-mUiQ",
-   "youtubeVideoId": "omR4LUyQbM0",
+   "youtubeVideoId": "h34naGzRweE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2055675",
    "description": {
     "en": "Abu Dhabi Arabic language sports TV channel",
