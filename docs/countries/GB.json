@@ -1,10 +1,8 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102415,
+ "version": 2026102418,
  "defaultTiles": [
-  "gb.skynews",
-  "gb.bbcnews",
   "gb.gbnews",
   "gb.independent",
   "gb.bbcnewsarabic",
@@ -22,7 +20,7 @@
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
    "youtubeVideoId": "9pQVTX-QTpI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -78,7 +76,7 @@
    "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
    "youtubeVideoId": "UmPm6KopKnI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1160945",
    "description": {
     "en": "news division of the publicly funded British Broadcasting Corporation",
@@ -131,7 +129,7 @@
     "en"
    ],
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-   "youtubeVideoId": "xNqcXt6qpRU",
+   "youtubeVideoId": "DssKccDnCbk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q100300992",

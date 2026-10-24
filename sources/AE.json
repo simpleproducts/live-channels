@@ -10,7 +10,7 @@
   {"id": "abudhabitv", "name": "Abu Dhabi TV", "category": "broadcast", "youtubeChannelId": "UCZ33NIO6rgl291T88-9jreQ", "live": false},
   {"id": "cnbcarabia", "name": "CNBC Arabia", "category": "economy", "youtubeChannelId": "UCsHdPPJXT-yKVTLGkn3DSvQ", "youtubeVideoId": "OLbqCS3OrPM", "embeddable": true, "live": true, "liveSince": "2026-07-29T13:35:19Z", "languages": ["ar"]},
   {"id": "alarabiyabusiness", "name": "Al Arabiya Business", "category": "economy", "youtubeChannelId": "UC0mthbFRIm_uYkkzMX09sJw", "youtubeVideoId": "27TJ45U-HJ8", "embeddable": true, "live": true, "liveSince": "2026-10-05T06:10:44Z", "languages": ["ar"]},
-  {"id": "adsports", "name": "AD Sports", "category": "sports", "youtubeChannelId": "UCF8Fpc7bPHC8Jrflci-mUiQ", "youtubeVideoId": "h34naGzRweE", "embeddable": true, "live": true, "liveSince": "2026-10-24T12:04:23Z"},
+  {"id": "adsports", "name": "AD Sports", "category": "sports", "youtubeChannelId": "UCF8Fpc7bPHC8Jrflci-mUiQ", "youtubeVideoId": "h34naGzRweE", "embeddable": true, "live": false},
   {"id": "alarabiyafm", "name": "Al Arabiya FM", "category": "radio", "youtubeChannelId": "UCTOvu90eQGG8pmTyqDW33uQ", "youtubeVideoId": "cS_qMo8Quqg", "embeddable": true, "live": true, "liveSince": "2026-10-04T16:53:02Z", "languages": ["ar"]}
  ]
 }

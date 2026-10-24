@@ -1,15 +1,15 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102415,
+ "version": 2026102418,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
   "ar.a24",
   "ar.cronica",
   "ar.canalrural",
+  "ar.lnmas",
   "ar.canal26",
-  "ar.infobae",
   "ar.america",
   "ar.eldoce"
  ],
@@ -68,9 +68,9 @@
     "es"
    ],
    "youtubeChannelId": "UCba3hpU7EFBSk817y9qZkiA",
-   "youtubeVideoId": "yGWDkw7butM",
+   "youtubeVideoId": "cmXWEHquk0g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27478538",
    "description": {
     "en": "Argentine news television channel",
@@ -197,7 +197,7 @@
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
    "youtubeVideoId": "uqj2yjMSRuE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -328,9 +328,9 @@
     "es"
    ],
    "youtubeChannelId": "UCs231K71Bnu5295_x0MB5Pg",
-   "youtubeVideoId": "tv9OZ3YbZeI",
+   "youtubeVideoId": "rqVYNnS2Oo8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1032483",
    "description": {
     "en": "Argentine public television channel",
@@ -437,9 +437,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUzonpa3XKurQVycdMY70XQ",
-   "youtubeVideoId": "tKhsTMHR0H8",
+   "youtubeVideoId": "gfJ3wepFjkc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -575,9 +575,9 @@
     "es"
    ],
    "youtubeChannelId": "UCuJvDPQIaUhvdHiH275WjNA",
-   "youtubeVideoId": "g096nl_gW2c",
+   "youtubeVideoId": "mUiOSYO27eo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16490085",
    "description": {
     "es": "Canal de noticias de la ciudad de San Juan, Argentina"
@@ -813,7 +813,7 @@
    "youtubeChannelId": "UCPlRurmY1Vn_lfwn-vKX6BQ",
    "youtubeVideoId": "QOHYW2q36wY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -831,7 +831,7 @@
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
    "youtubeVideoId": "EY5Gz4g9xp0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -921,7 +921,7 @@
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
    "youtubeVideoId": "Fgjf-5D0Zc0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -1211,7 +1211,7 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "pdDRC073A48",
+   "youtubeVideoId": "M2uh8vymGF0",
    "embeddable": true,
    "live": true,
    "wikidata": null,

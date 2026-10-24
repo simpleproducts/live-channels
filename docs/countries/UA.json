@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026102415,
+ "version": 2026102418,
  "defaultTiles": [
   "ua.suspilne",
+  "ua.tsn",
   "ua.faktyictv",
   "ua.pryamiy",
   "ua.5kanal",
-  "ua.tsn",
   "ua.espreso",
   "ua.kyiv24",
   "ua.freedom",
@@ -110,7 +110,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w",
-   "youtubeVideoId": "5JYQpppfbcE",
+   "youtubeVideoId": "ItCRRIsaiks",
    "embeddable": true,
    "live": true,
    "wikidata": "Q15689802",

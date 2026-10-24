@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026102415,
+ "version": 2026102418,
  "defaultTiles": [
   "br.cnnbrasil",
   "br.jovempan",
   "br.sbtnews",
   "br.canalrural",
-  "br.metropoles",
   "br.canalgov",
   "br.gaucha",
-  "br.tvcultura",
-  "br.cbn"
+  "br.cbn",
+  "br.bandnewsfm",
+  "br.itatiaia"
  ],
  "channels": [
   {
@@ -89,7 +89,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCP391YRAjSOdM_bwievgaZA",
-   "youtubeVideoId": "i9WcyxKLB50",
+   "youtubeVideoId": "14-XBRmw8RY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10358223",
@@ -201,7 +201,7 @@
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
    "youtubeVideoId": "VaiE9sEulGU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -354,7 +354,7 @@
    "youtubeChannelId": "UCjOJvvYe6tyEHY21OD33h8A",
    "youtubeVideoId": "MFT_DHZQt_E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3069919",
    "description": {
     "en": "Brazilian public television network",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "EuI8A_hYNlA",
+   "youtubeVideoId": "EWuCkjrCcVk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "DF1sOJtWoaE",
+   "youtubeVideoId": "-EXk9SvtC6A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "N4wgY_Ogn7o",
+   "youtubeVideoId": "y8sN37_ztIY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "NzW6fVOEu5s",
+   "youtubeVideoId": "cv0wnhV4q18",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",

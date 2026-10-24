@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026102415,
+ "version": 2026102418,
  "defaultTiles": [
-  "vn.antv",
-  "vn.vov"
+  "vn.antv"
  ],
  "channels": [
   {
@@ -190,7 +189,7 @@
    "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg",
    "youtubeVideoId": "Mg6FGC2tVxs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1141479",
    "description": {
     "en": "national radio broadcaster of Vietnam",

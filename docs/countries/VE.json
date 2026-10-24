@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026102411,
+ "version": 2026102418,
  "defaultTiles": [
+  "ve.vpitv",
   "ve.vtv"
  ],
  "channels": [
@@ -14,9 +15,9 @@
     "es"
    ],
    "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w",
-   "youtubeVideoId": "edEu_nMGGJg",
+   "youtubeVideoId": "fYK2_QHGOSk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q59345050",
    "description": {
     "en": "Venezuelan streaming channel",

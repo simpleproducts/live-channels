@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102415,
+ "version": 2026102418,
  "defaultTiles": [
   "mx.milenio",
   "mx.adnnoticias",
-  "mx.heraldo",
+  "mx.latinus",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.imagentv"
+  "mx.canalonce",
+  "mx.imagentv",
+  "mx.canalcongreso",
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -118,9 +121,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-FVhfqCwhzpJ4DTJOMMofA",
-   "youtubeVideoId": "DMdtcr_6fvo",
+   "youtubeVideoId": "nToMXwR6Ipo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -138,7 +141,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "Ey3iTgWQb74",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -286,9 +289,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "u3fFWgYkPPQ",
+   "youtubeVideoId": "1ikLxjGGefw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -461,9 +464,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "gVafvdvobBI",
+   "youtubeVideoId": "KBix3EUBAvk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -485,9 +488,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "UXuSAziFYcg",
+   "youtubeVideoId": "L2xBp0GsgK4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",

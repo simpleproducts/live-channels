@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "SG",
- "version": 2026102415,
+ "version": 2026102418,
  "defaultTiles": [
+  "sg.cnainsider",
   "sg.mediacorp"
  ],
  "channels": [
@@ -55,9 +56,9 @@
     "en"
    ],
    "youtubeChannelId": "UC_Lnb8ZHqqgLbp-7hltuT9w",
-   "youtubeVideoId": "fSUMKrxPEd8",
+   "youtubeVideoId": "9Y4kOQk_K3Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

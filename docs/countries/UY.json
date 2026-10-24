@@ -1,12 +1,9 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102415,
+ "version": 2026102418,
  "defaultTiles": [
-  "uy.carve",
-  "uy.delsol",
-  "uy.sarandi",
-  "uy.universal"
+  "uy.carve"
  ],
  "channels": [
   {
@@ -282,7 +279,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "onH-73F4Vew",
+   "youtubeVideoId": "iZfVxPkTvcE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -309,7 +306,7 @@
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
    "youtubeVideoId": "9hY0DzOB3mc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -327,7 +324,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "ppRn0vhJkvI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -345,7 +342,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "GB_-rudvnLg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

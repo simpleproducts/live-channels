@@ -5,10 +5,10 @@
  "channels": [
   {"id": "thaipbs", "name": "Thai PBS", "category": "news", "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw", "youtubeVideoId": "F687pYyjiUA", "embeddable": true, "live": false},
   {"id": "thaipbsnews", "name": "Thai PBS News", "category": "news", "youtubeChannelId": "UCOFvLl4bKwCIZg0r4EBQLug", "live": false, "languages": ["th"]},
-  {"id": "thairath", "name": "Thairath TV", "category": "news", "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw", "youtubeVideoId": "YNjdEQADd0U", "embeddable": true, "live": true, "liveSince": "2026-10-24T15:01:07Z"},
+  {"id": "thairath", "name": "Thairath TV", "category": "news", "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw", "youtubeVideoId": "YNjdEQADd0U", "embeddable": true, "live": false},
   {"id": "ch3news", "name": "Khao 3 (Ch3)", "category": "news", "youtubeChannelId": "UCirZPTc9IoKM_DsA9aKbc4g", "youtubeVideoId": "UmQ_--EsOXA", "embeddable": true, "live": false, "languages": ["th"]},
   {"id": "ch7news", "name": "Ch7HD News", "category": "news", "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w", "youtubeVideoId": "nHRtAEyhQDI", "embeddable": true, "live": false},
-  {"id": "tnn", "name": "TNN16", "category": "news", "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw", "youtubeVideoId": "DsABpuLIxYU", "embeddable": true, "live": true, "liveSince": "2026-10-24T15:29:23Z"},
+  {"id": "tnn", "name": "TNN16", "category": "news", "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw", "youtubeVideoId": "DsABpuLIxYU", "embeddable": true, "live": false},
   {"id": "pptv", "name": "PPTV HD 36", "category": "news", "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng", "youtubeVideoId": "gCOnepd8Eag", "embeddable": true, "live": false},
   {"id": "amarin", "name": "Amarin TV", "category": "news", "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A", "youtubeVideoId": "peGlLyp3Si4", "embeddable": true, "live": false},
   {"id": "nation", "name": "Nation TV", "category": "news", "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg", "youtubeVideoId": "vD8_NKIF_GM", "embeddable": true, "live": false},

@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102415,
+ "version": 2026102418,
  "defaultTiles": [
-  "jp.weathernews",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
+  "jp.weathernews",
   "jp.nhkworld",
   "jp.htb",
   "jp.satv",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "y1LYFbOMh_k",
+   "youtubeVideoId": "4kCYuKxbP8Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
