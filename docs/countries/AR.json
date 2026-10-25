@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102504,
+ "version": 2026102511,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -9,9 +9,9 @@
   "ar.cronica",
   "ar.canalrural",
   "ar.lnmas",
-  "ar.america",
-  "ar.eldoce",
-  "ar.elonce"
+  "ar.canal26",
+  "ar.infobae",
+  "ar.america"
  ],
  "channels": [
   {
@@ -120,9 +120,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "2Kw3zDBIt68",
+   "youtubeVideoId": "x_Sor4IOrng",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q389108",
    "description": {
     "en": "Argentine news television channel",
@@ -195,9 +195,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "uqj2yjMSRuE",
+   "youtubeVideoId": "uuOVg_c9DDQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -437,9 +437,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUzonpa3XKurQVycdMY70XQ",
-   "youtubeVideoId": "gfJ3wepFjkc",
+   "youtubeVideoId": "QSrU2KocsRY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -577,7 +577,7 @@
    "youtubeChannelId": "UCuJvDPQIaUhvdHiH275WjNA",
    "youtubeVideoId": "mUiOSYO27eo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16490085",
    "description": {
     "es": "Canal de noticias de la ciudad de San Juan, Argentina"
@@ -919,9 +919,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "Fgjf-5D0Zc0",
+   "youtubeVideoId": "IDYFBcMF_Iw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -1320,9 +1320,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "ezpZH8FnjdE",
+   "youtubeVideoId": "v2juyimh5kI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

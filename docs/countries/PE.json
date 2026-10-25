@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102504,
+ "version": 2026102511,
  "defaultTiles": [
-  "pe.latina"
+  "pe.latina",
+  "pe.rpp"
  ],
  "channels": [
   {
@@ -65,9 +66,9 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "MIoz8Hvq6eA",
+   "youtubeVideoId": "OeNcdGBX0CI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",

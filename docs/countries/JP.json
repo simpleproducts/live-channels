@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102504,
+ "version": 2026102511,
  "defaultTiles": [
   "jp.ntvnews",
+  "jp.ann",
+  "jp.tbs",
   "jp.weathernews",
   "jp.nhkworld",
   "jp.htb",
   "jp.satv",
   "jp.ytv",
-  "jp.ktv",
-  "jp.abctv",
-  "jp.chukyo"
+  "jp.ktv"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "LPEI1jNwzIw",
+   "youtubeVideoId": "GaJAvSb97SU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q843772",
    "description": {
     "en": "Japanese television network",
@@ -60,9 +60,9 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "vZ8rsDhBfK0",
+   "youtubeVideoId": "FS5VzrL1xMQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16143608",
    "description": {
     "en": "Internet news website",

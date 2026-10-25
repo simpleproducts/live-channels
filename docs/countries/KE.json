@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026102504,
+ "version": 2026102511,
  "defaultTiles": [
-  "ke.citizentv",
   "ke.k24",
-  "ke.inooro"
+  "ke.citizentv",
+  "ke.inooro",
+  "ke.radiocitizen"
  ],
  "channels": [
   {
@@ -17,7 +18,7 @@
     "sw"
    ],
    "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g",
-   "youtubeVideoId": "1Vm7lAjpZZM",
+   "youtubeVideoId": "ZDucCAYX_eY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -221,9 +222,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCd5mKY1HUcDBySXgK1lYUvg",
-   "youtubeVideoId": "oU4-_hNNAs4",
+   "youtubeVideoId": "X5TV_rW2dV4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

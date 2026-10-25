@@ -5,7 +5,7 @@
  "channels": [
   {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "Jg5NSnotYZE", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "qpvn", "name": "QPVN", "category": "news", "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw", "youtubeVideoId": "AEc0g4v74Ow", "embeddable": true, "live": false, "languages": ["vi"]},
-  {"id": "thanhnien", "name": "Báo Thanh Niên", "category": "news", "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg", "youtubeVideoId": "OZ9f_AZ_x9U", "embeddable": true, "live": false, "languages": ["vi"]},
+  {"id": "thanhnien", "name": "Báo Thanh Niên", "category": "news", "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg", "youtubeVideoId": "11yRFlIUtCc", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:30:10Z", "languages": ["vi"]},
   {"id": "tuoitre", "name": "Báo Tuổi Trẻ", "category": "news", "youtubeChannelId": "UC47WI-kZXFf0H_f7pvaNCEQ", "live": false, "languages": ["vi"]},
   {"id": "vtcnews", "name": "VTC News", "category": "news", "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg", "youtubeVideoId": "oJ6XHyCZObg", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "htvnews", "name": "HTV Tin Tức", "category": "regional", "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw", "youtubeVideoId": "x3ba-JV6JVw", "embeddable": true, "live": false, "languages": ["vi"]},

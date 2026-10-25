@@ -15,7 +15,7 @@
   {"id": "aristegui", "name": "Aristegui Noticias", "category": "news", "youtubeChannelId": "UCafNntv_qTQB26AvbEQNHPw", "youtubeVideoId": "mABQa2WtR6s", "embeddable": true, "live": false, "wikidata": "Q61998946"},
   {"id": "elfinanciero", "name": "El Financiero", "category": "economy", "youtubeChannelId": "UCHEZcUuC5ulaAFDq1LDqdTw", "live": false, "wikidata": "Q42911288"},
   {"id": "multimedios", "name": "Multimedios", "category": "broadcast", "youtubeChannelId": "UCo1nfa1JKNqtcUyLjLwTiIw", "youtubeVideoId": "SM864ZgPpG8", "embeddable": true, "live": true, "liveSince": "2026-08-17T02:52:49Z", "wikidata": "Q11693969"},
-  {"id": "canalonce", "name": "Canal Once", "category": "broadcast", "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A", "youtubeVideoId": "pwigaGTM2Qc", "embeddable": true, "live": false},
+  {"id": "canalonce", "name": "Canal Once", "category": "broadcast", "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A", "youtubeVideoId": "uDGygbG7YQg", "embeddable": true, "live": true, "liveSince": "2026-10-25T04:00:05Z"},
   {"id": "canal14", "name": "Canal Catorce", "category": "broadcast", "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ", "youtubeVideoId": "6oUsuyqYrY0", "embeddable": true, "live": false},
   {"id": "imagentv", "name": "Imagen Televisión", "category": "broadcast", "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA", "youtubeVideoId": "BqxE-BTh3B0", "embeddable": true, "live": false},
   {"id": "tvazteca", "name": "TV Azteca", "category": "broadcast", "youtubeChannelId": "UCNVrBkfp4_TG9x4h5kvLeAQ", "live": false},

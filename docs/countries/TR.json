@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102504,
+ "version": 2026102511,
  "defaultTiles": [
   "tr.haberturk",
   "tr.ntv",
   "tr.24tv",
+  "tr.trthaber",
+  "tr.sozcu",
+  "tr.trtworld",
   "tr.bloomberght",
   "tr.showtv",
-  "tr.kanald",
-  "tr.startv",
-  "tr.rockfm"
+  "tr.kanald"
  ],
  "channels": [
   {
@@ -69,9 +70,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCBgTP2LOFVPmq15W-RH-WXA",
-   "youtubeVideoId": "GefoJ-LXYfc",
+   "youtubeVideoId": "CLQoypiXzQs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q535725",
    "description": {
     "en": "Turkish public broadcasting news station",
@@ -203,9 +204,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
-   "youtubeVideoId": "p49OsjDpgh0",
+   "youtubeVideoId": "wQjb-KbTNyM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q116775276",
    "description": {
     "tr": "Türkiye'de bir televizyon kanalı",
@@ -227,9 +228,9 @@
     "en"
    ],
    "youtubeChannelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
-   "youtubeVideoId": "qBe59l6p_EU",
+   "youtubeVideoId": "adUSssjOCLY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6063045",
    "description": {
     "en": "Turkish public radio and television broadcaster",

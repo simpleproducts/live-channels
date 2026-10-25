@@ -1,10 +1,13 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102504,
+ "version": 2026102511,
  "defaultTiles": [
   "ph.untv",
-  "ph.dzrh"
+  "ph.abscbn",
+  "ph.news5",
+  "ph.dzrh",
+  "ph.teleradyo"
  ],
  "channels": [
   {
@@ -16,9 +19,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "jL14OGKelKI",
+   "youtubeVideoId": "uGN7xrMWjzg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -125,9 +128,9 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "FKRdvcQ4KcY",
+   "youtubeVideoId": "j4xDWZpjAKA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -419,9 +422,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "j3xoH9ymBo4",
+   "youtubeVideoId": "JmYqbZyEq5s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

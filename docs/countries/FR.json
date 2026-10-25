@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026102422,
+ "version": 2026102511,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -563,9 +563,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "41Q5iR7P91k",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q3410428",
    "description": {
     "en": "French parliamentary television channel",

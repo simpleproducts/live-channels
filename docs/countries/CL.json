@@ -1,12 +1,15 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102504,
+ "version": 2026102511,
  "defaultTiles": [
   "cl.chvnoticias",
   "cl.t13",
+  "cl.meganoticias",
   "cl.tvn",
-  "cl.cooperativa"
+  "cl.cooperativa",
+  "cl.agricultura",
+  "cl.pudahuel"
  ],
  "channels": [
   {
@@ -17,9 +20,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "QFuXHtMvXPA",
+   "youtubeVideoId": "nD73agWuRg4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -562,9 +565,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "G8bbf7RHvbs",
+   "youtubeVideoId": "amlSetK6tcY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -616,9 +619,9 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": "X8vN9Uzcyyg",
+   "youtubeVideoId": "DVziELZGYjI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

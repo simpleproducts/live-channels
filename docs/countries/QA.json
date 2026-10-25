@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "QA",
- "version": 2026102323,
+ "version": 2026102511,
  "defaultTiles": [
   "qa.aja",
   "qa.mubasher",
   "qa.alaraby",
   "qa.aje",
-  "qa.qatartv"
+  "qa.qatartv",
+  "qa.alkass"
  ],
  "channels": [
   {
@@ -229,9 +230,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCS_yHXNb5w5S74KQL_TK8Yw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Ssm5CJ8grWA",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q4702673",
    "description": {
     "en": "Qatari sports television network",

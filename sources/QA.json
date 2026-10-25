@@ -9,6 +9,6 @@
   {"id": "alaraby", "name": "Al Araby TV", "category": "news", "youtubeChannelId": "UC65i3Fyq91uiUkIS0i5GLNQ", "youtubeVideoId": "mfvl5ESGL4Y", "embeddable": true, "live": true, "liveSince": "2026-10-23T21:21:58Z", "languages": ["ar"]},
   {"id": "qatartv", "name": "Qatar TV", "category": "broadcast", "youtubeChannelId": "UC2EJXBsWR_5BTCy6R4kIO3A", "youtubeVideoId": "d020NL_oFAY", "embeddable": true, "live": true, "liveSince": "2026-03-07T18:27:02Z", "languages": ["ar"]},
   {"id": "alrayyan", "name": "Al Rayyan TV", "category": "broadcast", "youtubeChannelId": "UCK8LcweIXy4BGzTqjoj01DA", "live": false, "languages": ["ar"]},
-  {"id": "alkass", "name": "Alkass", "category": "sports", "youtubeChannelId": "UCS_yHXNb5w5S74KQL_TK8Yw", "live": false, "languages": ["ar"]}
+  {"id": "alkass", "name": "Alkass", "category": "sports", "youtubeChannelId": "UCS_yHXNb5w5S74KQL_TK8Yw", "youtubeVideoId": "Ssm5CJ8grWA", "embeddable": true, "live": true, "liveSince": "2026-10-25T05:27:30Z", "languages": ["ar"]}
  ]
 }

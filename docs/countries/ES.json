@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026102504,
+ "version": 2026102511,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
-  "es.libertaddigital",
   "es.elpais",
+  "es.libertaddigital",
+  "es.elmundo",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.rtvcanarias",
-  "es.telemadrid"
+  "es.rtvcanarias"
  ],
  "channels": [
   {
@@ -169,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-   "youtubeVideoId": "5rG7bMDaVF4",
+   "youtubeVideoId": "YZg7MktwHAo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -395,9 +395,9 @@
     "es"
    ],
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
-   "youtubeVideoId": "9s1BbL_Ac10",
+   "youtubeVideoId": "yt96KbpITRk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -638,9 +638,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "_0Uz6CfCepo",
+   "youtubeVideoId": "qgvz-V1pysg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -683,9 +683,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "q6iu4cJ1mEA",
+   "youtubeVideoId": "9rl9cYK6TtE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
