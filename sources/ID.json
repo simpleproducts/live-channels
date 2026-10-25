@@ -7,9 +7,9 @@
   {"id": "cnnid", "name": "CNN Indonesia", "category": "news", "youtubeChannelId": "UCKII0Ml9S5wneKbHswmUrIQ", "youtubeVideoId": "PDDOkUq33Sw", "embeddable": true, "live": true, "liveSince": "2026-06-18T13:40:31Z", "wikidata": "Q18148009"},
   {"id": "metrotv", "name": "Metro TV", "category": "news", "youtubeChannelId": "UCzl0OrB3-ehunyotIQvK77A", "youtubeVideoId": "oUYnZv_G82Q", "embeddable": true, "live": true, "liveSince": "2026-08-31T17:44:46Z", "wikidata": "Q4920542"},
   {"id": "tvone", "name": "tvOneNews", "category": "news", "youtubeChannelId": "UCER4rvDnRBPr_ncYW4UCZjg", "youtubeVideoId": "rQJoEpzKkNk", "embeddable": true, "live": true, "liveSince": "2026-06-30T06:52:08Z"},
-  {"id": "inews", "name": "iNews", "category": "news", "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg", "youtubeVideoId": "PHegA-yqzLg", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:18:16Z", "wikidata": "Q4213609"},
+  {"id": "inews", "name": "iNews", "category": "news", "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg", "youtubeVideoId": "PHegA-yqzLg", "embeddable": true, "live": false, "wikidata": "Q4213609"},
   {"id": "beritasatu", "name": "BeritaSatu", "category": "news", "youtubeChannelId": "UCqLsfkQSM0yfyGvONAGWd3Q", "youtubeVideoId": "PRivu4VxkwQ", "embeddable": true, "live": false},
   {"id": "cnbcid", "name": "CNBC Indonesia", "category": "economy", "youtubeChannelId": "UCGN9JsnkvK05v2lnTI_-uGA", "live": false, "wikidata": "Q25469731"},
-  {"id": "tvri", "name": "TVRI Nasional", "category": "broadcast", "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ", "youtubeVideoId": "TYjsu5T30DI", "embeddable": true, "live": true, "liveSince": "2026-10-24T22:36:33Z"}
+  {"id": "tvri", "name": "TVRI Nasional", "category": "broadcast", "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ", "youtubeVideoId": "TYjsu5T30DI", "embeddable": true, "live": false}
  ]
 }

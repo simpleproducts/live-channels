@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026102511,
+ "version": 2026102515,
  "defaultTiles": [
   "de.euronewsde",
-  "de.phoenix",
-  "de.tagesschau",
-  "de.zdfheute",
+  "de.welt",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -19,9 +17,9 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "84ErVsmUlP4",
+   "youtubeVideoId": "e701DskTDDU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1959672",
    "description": {
     "en": "television station",
@@ -63,7 +61,7 @@
    "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
    "youtubeVideoId": "VyGVUxx85t4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3381361",
    "description": {
     "en": "television station in Germany",
@@ -98,7 +96,7 @@
    "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA",
    "youtubeVideoId": "LnPXRQCdryg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q703907",
    "description": {
     "en": "Germany's main daily news report in television",
@@ -144,7 +142,7 @@
    "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ",
    "youtubeVideoId": "ptkniREfmsA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q132108",
    "description": {
     "en": "German TV news program",

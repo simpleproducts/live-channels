@@ -8,7 +8,7 @@
   {"id": "cbsnews", "name": "CBS News", "category": "news", "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g", "youtubeVideoId": "V1b6nTzIknA", "embeddable": true, "live": false},
   {"id": "nbcnews", "name": "NBC News", "category": "news", "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg", "youtubeVideoId": "aF9neWULq64", "embeddable": true, "live": true, "liveSince": "2026-10-23T21:59:32Z"},
   {"id": "livenow", "name": "LiveNOW from FOX", "category": "news", "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg", "youtubeVideoId": "d-s6VAEAkls", "embeddable": true, "live": true, "liveSince": "2026-10-25T10:21:04Z"},
-  {"id": "newsmax", "name": "Newsmax", "category": "news", "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg", "youtubeVideoId": "N3GJ8o_qZHQ", "embeddable": true, "live": true, "liveSince": "2026-09-29T11:47:19Z"},
+  {"id": "newsmax", "name": "Newsmax", "category": "news", "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg", "youtubeVideoId": "MXosVElBUJQ", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:51:46Z"},
   {"id": "scripps", "name": "Scripps News", "category": "news", "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg", "youtubeVideoId": "m5gCFwKm9Qg", "embeddable": true, "live": false, "wikidata": "Q16957649"},
   {"id": "nmasunivision", "name": "N+ Univision", "category": "news", "youtubeChannelId": "UC32TdiIsh_5X8tKr_9rKQyA", "youtubeVideoId": "V9eZvqPx2sY", "embeddable": true, "live": false, "languages": ["es"], "wikidata": "Q22023487"},
   {"id": "telemundo", "name": "Noticias Telemundo", "category": "news", "youtubeChannelId": "UCRwA1NUcUnwsly35ikGhp0A", "youtubeVideoId": "c660thEPeeY", "embeddable": true, "live": true, "liveSince": "2025-12-09T12:07:50Z", "languages": ["es"]},

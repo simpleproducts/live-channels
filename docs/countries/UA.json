@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026102511,
+ "version": 2026102515,
  "defaultTiles": [
   "ua.suspilne",
+  "ua.tsn",
   "ua.faktyictv",
   "ua.pryamiy",
   "ua.5kanal",
-  "ua.tsn",
   "ua.espreso",
   "ua.kyiv24",
   "ua.24kanal",
@@ -110,7 +110,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w",
-   "youtubeVideoId": "Xh9kFo3lMD4",
+   "youtubeVideoId": "fPGO2y7GA4M",
    "embeddable": true,
    "live": true,
    "wikidata": "Q15689802",
@@ -251,7 +251,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ",
-   "youtubeVideoId": "4dXAqd5U-K4",
+   "youtubeVideoId": "FROmSyTLlxA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4030314",

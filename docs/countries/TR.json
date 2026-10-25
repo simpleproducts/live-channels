@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102511,
+ "version": 2026102515,
  "defaultTiles": [
   "tr.haberturk",
   "tr.ntv",
+  "tr.ahaber",
   "tr.24tv",
   "tr.trthaber",
   "tr.sozcu",
+  "tr.tv100",
   "tr.trtworld",
-  "tr.bloomberght",
-  "tr.showtv",
-  "tr.kanald"
+  "tr.bloomberght"
  ],
  "channels": [
   {
@@ -204,7 +204,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
-   "youtubeVideoId": "wQjb-KbTNyM",
+   "youtubeVideoId": "d_DtaCM6ya8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q116775276",
@@ -270,9 +270,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
-   "youtubeVideoId": "ZTyAgsuighI",
+   "youtubeVideoId": "Rk8JyxJWi9o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6089384",
    "description": {
     "en": "Turkish news network",
@@ -350,9 +350,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
-   "youtubeVideoId": "g-b5DrceI_M",
+   "youtubeVideoId": "-lqsrYIkr8c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q85975294",
    "description": {
     "en": "Turkish national news channel",

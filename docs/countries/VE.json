@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026102422,
+ "version": 2026102515,
  "defaultTiles": [
   "ve.vpitv",
+  "ve.telesurenglish",
   "ve.vtv"
  ],
  "channels": [
@@ -105,9 +106,9 @@
     "en"
    ],
    "youtubeChannelId": "UCmuTmpLY35O3csvhyA6vrkg",
-   "youtubeVideoId": "Kp06LuyyKfM",
+   "youtubeVideoId": "FUUcoW2K0Dw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,10 +1,16 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102511,
+ "version": 2026102515,
  "defaultTiles": [
   "pe.latina",
-  "pe.rpp"
+  "pe.pbo",
+  "pe.larepublica",
+  "pe.rpp",
+  "pe.tvperunoticias",
+  "pe.tvperu",
+  "pe.exitosa",
+  "pe.radionacional"
  ],
  "channels": [
   {
@@ -15,9 +21,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "yK1TPUjqCTE",
+   "youtubeVideoId": "3s5l1V8AXJs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -33,9 +39,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "ltdcUHQUV6Q",
+   "youtubeVideoId": "XcZ0LAf6rr0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -66,7 +72,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "OeNcdGBX0CI",
+   "youtubeVideoId": "bR3hST6RQXw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -140,9 +146,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "_fw7lAxdr34",
+   "youtubeVideoId": "0Zy4VHJdJfc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -240,9 +246,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
-   "youtubeVideoId": "ZQjqI5cCkFk",
+   "youtubeVideoId": "nF9zR7WmQnc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3076196",
    "description": {
     "en": "Peruvian State-owned television broadcaster, owned by the government",
@@ -396,9 +402,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "l1WCD5EwAlc",
+   "youtubeVideoId": "cla2g4yRNqE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",
@@ -420,9 +426,9 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "IDtZBaQ7mvU",
+   "youtubeVideoId": "rfkLSER2Xu4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096493",
    "description": {
     "en": "radio station",

@@ -1,9 +1,9 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102511,
+ "version": 2026102515,
  "defaultTiles": [
-  "uy.universal"
+  "uy.carve"
  ],
  "channels": [
   {
@@ -279,9 +279,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "1wbrKkrVl94",
+   "youtubeVideoId": "h1GJZ4z0wSs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -342,7 +342,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "ubwJ0XgpCIE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

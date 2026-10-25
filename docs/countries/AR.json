@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102511,
+ "version": 2026102515,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -10,8 +10,8 @@
   "ar.canalrural",
   "ar.lnmas",
   "ar.canal26",
-  "ar.infobae",
-  "ar.america"
+  "ar.america",
+  "ar.eldoce"
  ],
  "channels": [
   {
@@ -68,7 +68,7 @@
     "es"
    ],
    "youtubeChannelId": "UCba3hpU7EFBSk817y9qZkiA",
-   "youtubeVideoId": "cmXWEHquk0g",
+   "youtubeVideoId": "11m2D6ZXLN0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27478538",
@@ -120,7 +120,7 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "x_Sor4IOrng",
+   "youtubeVideoId": "gBrhtD0dc1o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q389108",
@@ -197,7 +197,7 @@
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
    "youtubeVideoId": "uuOVg_c9DDQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -383,7 +383,7 @@
    "youtubeChannelId": "UCUT4NmGqjrVpKf2JyiS_bbA",
    "youtubeVideoId": "yGLVhAklLyM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1032491",
    "description": {
     "en": "Argentinian television station",
@@ -921,7 +921,7 @@
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
    "youtubeVideoId": "IDYFBcMF_Iw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -1169,9 +1169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "VpUJ2ULBUxs",
+   "youtubeVideoId": "goXCA5kmvBw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961729",
    "description": {
     "en": "Public AM radio station in Buenos Aires",
@@ -1193,9 +1193,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "eDhdq9QCJiA",
+   "youtubeVideoId": "7BZo1i8bBBk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1322,7 +1322,7 @@
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
    "youtubeVideoId": "v2juyimh5kI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

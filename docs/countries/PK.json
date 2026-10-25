@@ -1,16 +1,15 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026102511,
+ "version": 2026102515,
  "defaultTiles": [
   "pk.geonews",
   "pk.dunyanews",
   "pk.expressnews",
   "pk.92news",
   "pk.dawnnews",
-  "pk.gnn",
-  "pk.arynews",
-  "pk.humnews"
+  "pk.humnews",
+  "pk.gnn"
  ],
  "channels": [
   {
@@ -74,7 +73,7 @@
    "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
    "youtubeVideoId": "cg3W5w03CHw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4653979",
    "description": {
     "en": "Pakistani news channel",

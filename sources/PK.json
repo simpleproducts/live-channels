@@ -5,7 +5,7 @@
  "channels": [
   {"id": "samaa", "name": "Samaa TV", "category": "news", "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q", "youtubeVideoId": "hn16uemuKYw", "embeddable": true, "live": false},
   {"id": "geonews", "name": "Geo News", "category": "news", "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g", "youtubeVideoId": "t3fvgmDDmdc", "embeddable": true, "live": true, "liveSince": "2026-06-23T19:31:16Z", "wikidata": "Q5513202"},
-  {"id": "arynews", "name": "ARY News", "category": "news", "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg", "youtubeVideoId": "cg3W5w03CHw", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:21:30Z"},
+  {"id": "arynews", "name": "ARY News", "category": "news", "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg", "youtubeVideoId": "cg3W5w03CHw", "embeddable": true, "live": false},
   {"id": "dunyanews", "name": "Dunya News", "category": "news", "youtubeChannelId": "UCnMBV5Iw4WqKILKue1nP6Hg", "youtubeVideoId": "MNBVAYMxFhI", "embeddable": true, "live": true, "liveSince": "2026-08-07T18:16:46Z"},
   {"id": "expressnews", "name": "Express News", "category": "news", "youtubeChannelId": "UCTur7oM6mLL0rM2k0znuZpQ", "youtubeVideoId": "KNvaWHgOBMw", "embeddable": true, "live": true, "liveSince": "2026-05-24T03:26:06Z"},
   {"id": "92news", "name": "92 News HD", "category": "news", "youtubeChannelId": "UCsgC5cbz3DE2Shh34gNKiog", "youtubeVideoId": "kZK2BiSdC68", "embeddable": true, "live": true, "liveSince": "2026-10-06T22:17:31Z"},

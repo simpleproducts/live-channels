@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026102511,
+ "version": 2026102515,
  "defaultTiles": [
   "br.recordnews",
   "br.cnnbrasil",
   "br.jovempan",
   "br.bandjornalismo",
   "br.sbtnews",
+  "br.canalrural",
+  "br.uol",
   "br.metropoles",
-  "br.canalgov",
-  "br.gaucha",
-  "br.tvsenado"
+  "br.canalgov"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "2H06jLK6oeM",
+   "youtubeVideoId": "o6Z6Ax_XVsY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -89,7 +89,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCP391YRAjSOdM_bwievgaZA",
-   "youtubeVideoId": "PUXtGGkj7Dg",
+   "youtubeVideoId": "j7wHkV5gM6Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10358223",
@@ -159,9 +159,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
-   "youtubeVideoId": "oGWpI6yl9bM",
+   "youtubeVideoId": "rPx65Mcszik",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -181,9 +181,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-   "youtubeVideoId": "MYpEKkuS0BE",
+   "youtubeVideoId": "YmYjCPNQHz8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -199,7 +199,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "6a5gi_eeNZw",
+   "youtubeVideoId": "CDmbCWvZJY8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q56350071",
@@ -438,9 +438,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC-ZkSRh-7UEuwXJQ9UMCFJA",
-   "youtubeVideoId": "QZPtKCjDR5s",
+   "youtubeVideoId": "HOuMt2NrxAg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6137650",
    "description": {
     "en": "Brazilian legislative television network",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "yI418-FmTlk",
+   "youtubeVideoId": "VfUuf_QXl2o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -523,7 +523,7 @@
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
    "youtubeVideoId": "mEF8qqDtWNw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10365899",
    "description": {
     "en": "Brazilian radio station in Minas Gerais",
