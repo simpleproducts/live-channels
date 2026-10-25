@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102515,
+ "version": 2026102516,
  "defaultTiles": [
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
+  "co.noticiasuno",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio"
@@ -179,9 +180,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3NUgxBBl05tthfGBS6kPkA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Es4UAAAtJoM",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q7063021",
    "description": {
     "en": "television series",

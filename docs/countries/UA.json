@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026102515,
+ "version": 2026102516,
  "defaultTiles": [
   "ua.suspilne",
   "ua.tsn",
@@ -10,7 +10,6 @@
   "ua.5kanal",
   "ua.espreso",
   "ua.kyiv24",
-  "ua.24kanal",
   "ua.rada"
  ],
  "channels": [
@@ -253,7 +252,7 @@
    "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ",
    "youtubeVideoId": "FROmSyTLlxA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4030314",
    "description": {
     "en": "Ukrainian 24-hour news TV channel",

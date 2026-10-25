@@ -1,14 +1,13 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102515,
+ "version": 2026102516,
  "defaultTiles": [
   "pe.latina",
   "pe.pbo",
   "pe.larepublica",
   "pe.rpp",
   "pe.tvperunoticias",
-  "pe.tvperu",
   "pe.exitosa",
   "pe.radionacional"
  ],
@@ -21,7 +20,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "3s5l1V8AXJs",
+   "youtubeVideoId": "NJegw6AFLys",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -248,7 +247,7 @@
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
    "youtubeVideoId": "nF9zR7WmQnc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3076196",
    "description": {
     "en": "Peruvian State-owned television broadcaster, owned by the government",
@@ -426,7 +425,7 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "rfkLSER2Xu4",
+   "youtubeVideoId": "OOxEaWe3jHY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096493",

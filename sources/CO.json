@@ -10,7 +10,7 @@
   {"id": "canal1", "name": "Noticias Canal 1", "category": "news", "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA", "live": false},
   {"id": "rtvc", "name": "RTVC Noticias", "category": "news", "youtubeChannelId": "UCykAfJIwT4VSQDFdRrZ1DXA", "live": false},
   {"id": "semana", "name": "Semana", "category": "news", "youtubeChannelId": "UC4oQAvXFuNlKivYjUynQKTA", "live": false},
-  {"id": "noticiasuno", "name": "Noticias Uno", "category": "news", "youtubeChannelId": "UC3NUgxBBl05tthfGBS6kPkA", "live": false, "wikidata": "Q7063021"},
+  {"id": "noticiasuno", "name": "Noticias Uno", "category": "news", "youtubeChannelId": "UC3NUgxBBl05tthfGBS6kPkA", "youtubeVideoId": "Es4UAAAtJoM", "embeddable": true, "live": true, "liveSince": "2026-10-25T16:04:01Z", "wikidata": "Q7063021"},
   {"id": "caracoltv", "name": "Caracol Televisión", "category": "broadcast", "youtubeChannelId": "UCcpE1fmG2qBZatj28bak2ng", "youtubeVideoId": "HyuGqSkoeJg", "embeddable": true, "live": true, "liveSince": "2026-09-16T14:22:36Z"},
   {"id": "senalcolombia", "name": "Señal Colombia", "category": "broadcast", "youtubeChannelId": "UCwZjVanaSg019RVQea9V1kw", "live": false, "wikidata": "Q2753712"},
   {"id": "citytv", "name": "Citytv", "category": "regional", "youtubeChannelId": "UCv5Oy_TJFvGKXjeNzzJE_PQ", "youtubeVideoId": "Q1CEBkYUkeM", "embeddable": true, "live": true, "liveSince": "2026-09-16T23:17:46Z", "wikidata": "Q4144940"},

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102515,
+ "version": 2026102516,
  "defaultTiles": [
   "jp.ntvnews",
   "jp.weathernews",
@@ -608,9 +608,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "KlVt61ne0gE",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q843448",
    "description": {
     "en": "radio station in Tokyo",

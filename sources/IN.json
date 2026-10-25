@@ -4,7 +4,7 @@
  "defaultTiles": ["indiatv", "aajtak", "ndtvindia", "ndtv", "republicworld", "timesnow", "abpnews", "zeenews", "wion"],
  "channels": [
   {"id": "indiatv", "name": "India TV", "category": "news", "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ", "youtubeVideoId": "9rAwKtRqJhQ", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:00:08Z", "wikidata": "Q6019415"},
-  {"id": "aajtak", "name": "Aaj Tak", "category": "news", "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA", "youtubeVideoId": "hwBDGtg3TA0", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:25:27Z"},
+  {"id": "aajtak", "name": "Aaj Tak", "category": "news", "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA", "youtubeVideoId": "XvKpNTbfsGU", "embeddable": true, "live": true, "liveSince": "2026-10-25T16:19:13Z"},
   {"id": "ndtvindia", "name": "NDTV India", "category": "news", "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q", "youtubeVideoId": "-g6qiKHs-aE", "embeddable": true, "live": true, "liveSince": "2026-10-25T13:47:23Z"},
   {"id": "ndtv", "name": "NDTV", "category": "news", "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA", "youtubeVideoId": "zXe0iBmJubo", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:03:02Z", "languages": ["en"]},
   {"id": "republicworld", "name": "Republic World", "category": "news", "youtubeChannelId": "UCwqusr8YDwM-3mEYTDeJHzw", "youtubeVideoId": "MscU22G8qoM", "embeddable": true, "live": true, "liveSince": "2026-10-25T15:28:17Z", "languages": ["en"]},
@@ -19,7 +19,7 @@
   {"id": "tv9bharatvarsh", "name": "TV9 Bharatvarsh", "category": "news", "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg", "youtubeVideoId": "2V-z0g-q4l8", "embeddable": true, "live": true, "liveSince": "2026-10-25T10:32:49Z", "wikidata": "Q65042846"},
   {"id": "timesnowworld", "name": "Times Now World", "category": "news", "youtubeChannelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg", "youtubeVideoId": "9yZqDPieutY", "embeddable": true, "live": true, "liveSince": "2026-10-25T10:27:11Z", "languages": ["en"]},
   {"id": "mirrornow", "name": "Mirror Now", "category": "news", "youtubeChannelId": "UCWCEYVwSqr7Epo6sSCfUgiw", "youtubeVideoId": "VSoJJZ6ud5Q", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:07:13Z", "languages": ["en"], "wikidata": "Q20647988"},
-  {"id": "firstpost", "name": "Firstpost", "category": "news", "youtubeChannelId": "UCz8QaiQxApLq8sLNcszYyJw", "youtubeVideoId": "psqT6rRW0wY", "embeddable": true, "live": false, "languages": ["en"], "wikidata": "Q5453524"},
+  {"id": "firstpost", "name": "Firstpost", "category": "news", "youtubeChannelId": "UCz8QaiQxApLq8sLNcszYyJw", "youtubeVideoId": "9kQo2GdLAZk", "embeddable": true, "live": true, "liveSince": "2026-10-25T16:08:21Z", "languages": ["en"], "wikidata": "Q5453524"},
   {"id": "ani", "name": "ANI News", "category": "news", "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg", "youtubeVideoId": "-0sLlbTupy0", "embeddable": true, "live": true, "liveSince": "2026-10-25T15:19:27Z", "languages": ["en"]},
   {"id": "cnbctv18", "name": "CNBC-TV18", "category": "economy", "youtubeChannelId": "UCmRbHAgG2k2vDUvb3xsEunQ", "youtubeVideoId": "X6VUen843lQ", "embeddable": true, "live": true, "liveSince": "2026-10-24T10:21:19Z", "languages": ["en"], "wikidata": "Q3631483"},
   {"id": "etnow", "name": "ET Now", "category": "economy", "youtubeChannelId": "UCI_mwTKUhicNzFrhm33MzBQ", "youtubeVideoId": "TlAcLWXE6MI", "embeddable": true, "live": true, "liveSince": "2026-10-25T15:00:40Z", "languages": ["en"]},
