@@ -1,16 +1,12 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102422,
+ "version": 2026102504,
  "defaultTiles": [
   "mx.milenio",
   "mx.adnnoticias",
   "mx.multimedios",
-  "mx.imagenradio",
-  "mx.canalonce",
-  "mx.canal14",
-  "mx.imagentv",
-  "mx.radioformula"
+  "mx.imagenradio"
  ],
  "channels": [
   {
@@ -290,7 +286,7 @@
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
    "youtubeVideoId": "pwigaGTM2Qc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -308,7 +304,7 @@
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
    "youtubeVideoId": "6oUsuyqYrY0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -333,7 +329,7 @@
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
    "youtubeVideoId": "BqxE-BTh3B0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -489,7 +485,7 @@
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
    "youtubeVideoId": "skzjVYdIbwE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",

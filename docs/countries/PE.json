@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102422,
+ "version": 2026102504,
  "defaultTiles": [
-  "pe.latina",
-  "pe.willax",
-  "pe.tvperunoticias"
+  "pe.latina"
  ],
  "channels": [
   {
@@ -117,7 +115,7 @@
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
    "youtubeVideoId": "b8IRjT-6xT0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -143,7 +141,7 @@
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
    "youtubeVideoId": "_fw7lAxdr34",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",

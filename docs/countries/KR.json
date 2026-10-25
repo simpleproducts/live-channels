@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026102422,
+ "version": 2026102504,
  "defaultTiles": [
-  "kr.ytn",
-  "kr.yonhap",
   "kr.mbc",
-  "kr.kbs",
-  "kr.jtbc",
-  "kr.channela",
   "kr.yonhapeconomy",
   "kr.wowtv",
-  "kr.mbn_economy"
+  "kr.mbn_economy",
+  "kr.seouleconomy",
+  "kr.edaily",
+  "kr.mtn",
+  "kr.kbs1radio",
+  "kr.ytnradio"
  ],
  "channels": [
   {
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
    "youtubeVideoId": "EKNK-Z1Qr1Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q487590",
    "description": {
     "en": "South Korean news channel",
@@ -61,7 +61,7 @@
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
    "youtubeVideoId": "OGKXE2piPdk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16162835",
    "description": {
     "en": "South Korean television network",
@@ -129,7 +129,7 @@
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
    "youtubeVideoId": "Bc5ouZ-C0qM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -165,7 +165,7 @@
    "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
    "youtubeVideoId": "6SWqj93Ag6U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -183,7 +183,7 @@
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
    "youtubeVideoId": "digx6Gkh3Io",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q492438",
    "description": {
     "en": "South Korean TV channel",
@@ -783,7 +783,7 @@
    "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
    "youtubeVideoId": "EMJMfxXx43o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

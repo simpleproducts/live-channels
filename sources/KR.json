@@ -3,13 +3,13 @@
  "languages": ["ko"],
  "defaultTiles": ["ytn", "yonhap", "mbc", "kbs", "sbs", "jtbc", "channela", "tvchosun", "mbn"],
  "channels": [
-  {"id": "ytn", "name": "YTN", "category": "news", "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w", "youtubeVideoId": "EKNK-Z1Qr1Y", "embeddable": true, "live": true, "liveSince": "2026-10-24T14:00:26Z"},
-  {"id": "yonhap", "name": "연합뉴스TV", "category": "news", "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg", "youtubeVideoId": "OGKXE2piPdk", "embeddable": true, "live": true, "liveSince": "2026-10-24T10:54:44Z"},
+  {"id": "ytn", "name": "YTN", "category": "news", "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w", "youtubeVideoId": "EKNK-Z1Qr1Y", "embeddable": true, "live": false},
+  {"id": "yonhap", "name": "연합뉴스TV", "category": "news", "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg", "youtubeVideoId": "OGKXE2piPdk", "embeddable": true, "live": false},
   {"id": "mbc", "name": "MBCNEWS", "category": "news", "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw", "youtubeVideoId": "k7zUdXOgvgI", "embeddable": true, "live": true, "liveSince": "2026-10-24T12:30:36Z"},
-  {"id": "kbs", "name": "KBS News", "category": "news", "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A", "youtubeVideoId": "Bc5ouZ-C0qM", "embeddable": true, "live": true, "liveSince": "2026-10-24T09:59:54Z"},
+  {"id": "kbs", "name": "KBS News", "category": "news", "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A", "youtubeVideoId": "Bc5ouZ-C0qM", "embeddable": true, "live": false},
   {"id": "sbs", "name": "SBS 뉴스", "category": "news", "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw", "youtubeVideoId": "dXQDfFhCs5A", "embeddable": true, "live": false},
-  {"id": "jtbc", "name": "JTBC News", "category": "news", "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ", "youtubeVideoId": "6SWqj93Ag6U", "embeddable": true, "live": true, "liveSince": "2026-10-24T10:59:53Z"},
-  {"id": "channela", "name": "채널A 뉴스", "category": "news", "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw", "youtubeVideoId": "digx6Gkh3Io", "embeddable": true, "live": true, "liveSince": "2026-10-24T12:40:39Z"},
+  {"id": "jtbc", "name": "JTBC News", "category": "news", "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ", "youtubeVideoId": "6SWqj93Ag6U", "embeddable": true, "live": false},
+  {"id": "channela", "name": "채널A 뉴스", "category": "news", "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw", "youtubeVideoId": "digx6Gkh3Io", "embeddable": true, "live": false},
   {"id": "tvchosun", "name": "TV CHOSUN NEWS", "category": "news", "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q", "youtubeVideoId": "ao8KmYncnw8", "embeddable": true, "live": false},
   {"id": "mbn", "name": "MBN News", "category": "news", "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg", "youtubeVideoId": "dJuNCbV8ml4", "embeddable": true, "live": false},
   {"id": "arirang", "name": "Arirang TV", "category": "news", "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw", "live": false, "languages": ["en"]},
@@ -33,6 +33,6 @@
   {"id": "arirangradio", "name": "Arirang Radio", "category": "radio", "youtubeChannelId": "UCUSSnoEQ8DSRK-gnWS0vfyA", "youtubeVideoId": "P1fX2GGdVS0", "embeddable": true, "live": true, "liveSince": "2020-06-25T02:57:10Z", "languages": ["en"]},
   {"id": "arirangtv", "name": "Arirang TV", "category": "culture", "youtubeChannelId": "UC-PHIZjV-oX8H7zD1cCN2NQ", "youtubeVideoId": "hvVlyZ5GiE8", "embeddable": true, "live": true, "liveSince": "2026-07-10T02:56:12Z", "languages": ["en"]},
   {"id": "kbsworld", "name": "KBS WORLD TV", "category": "entertainment", "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig", "youtubeVideoId": "aHfx83ObCac", "embeddable": true, "live": true, "liveSince": "2026-10-08T01:59:01Z"},
-  {"id": "ytnscience", "name": "YTN Science", "category": "culture", "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA", "youtubeVideoId": "EMJMfxXx43o", "embeddable": true, "live": true, "liveSince": "2026-10-24T07:35:49Z"}
+  {"id": "ytnscience", "name": "YTN Science", "category": "culture", "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA", "youtubeVideoId": "EMJMfxXx43o", "embeddable": true, "live": false}
  ]
 }

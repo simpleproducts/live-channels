@@ -1,16 +1,12 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102422,
+ "version": 2026102504,
  "defaultTiles": [
   "cl.chvnoticias",
   "cl.t13",
-  "cl.meganoticias",
   "cl.tvn",
-  "cl.cooperativa",
-  "cl.chilevision",
-  "cl.adn",
-  "cl.agricultura"
+  "cl.cooperativa"
  ],
  "channels": [
   {
@@ -23,7 +19,7 @@
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
    "youtubeVideoId": "QFuXHtMvXPA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -225,7 +221,7 @@
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
    "youtubeVideoId": "DKICfcBhX0Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -505,7 +501,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "rUkdu0bBY64",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -568,7 +564,7 @@
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
    "youtubeVideoId": "G8bbf7RHvbs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

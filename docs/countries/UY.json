@@ -1,11 +1,14 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102422,
+ "version": 2026102504,
  "defaultTiles": [
+  "uy.elobservadoruy",
+  "uy.ladiaria",
   "uy.tnu",
   "uy.carve",
-  "uy.universal"
+  "uy.delsol",
+  "uy.sarandi"
  ],
  "channels": [
   {
@@ -82,7 +85,7 @@
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
    "youtubeVideoId": "ppy_3F8okzg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -283,7 +286,7 @@
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
    "youtubeVideoId": "1wbrKkrVl94",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -344,7 +347,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "8KLGPIf_x08",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

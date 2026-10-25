@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102422,
+ "version": 2026102504,
  "defaultTiles": [
-  "tr.trthaber",
   "tr.haberturk",
   "tr.ntv",
   "tr.24tv",
-  "tr.tgrthaber",
-  "tr.trtworld",
   "tr.bloomberght",
   "tr.showtv",
-  "tr.kanald"
+  "tr.kanald",
+  "tr.startv",
+  "tr.rockfm"
  ],
  "channels": [
   {
@@ -72,7 +71,7 @@
    "youtubeChannelId": "UCBgTP2LOFVPmq15W-RH-WXA",
    "youtubeVideoId": "GefoJ-LXYfc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q535725",
    "description": {
     "en": "Turkish public broadcasting news station",
@@ -230,7 +229,7 @@
    "youtubeChannelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
    "youtubeVideoId": "qBe59l6p_EU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6063045",
    "description": {
     "en": "Turkish public radio and television broadcaster",
@@ -300,7 +299,7 @@
    "youtubeChannelId": "UCzgrZ-CndOoylh2_e72nSBQ",
    "youtubeVideoId": "dpX30MdNuNA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6084153",
    "description": {
     "en": "Turkish news network",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102422,
+ "version": 2026102504,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -9,9 +9,9 @@
   "ar.cronica",
   "ar.canalrural",
   "ar.lnmas",
-  "ar.canal26",
   "ar.america",
-  "ar.eldoce"
+  "ar.eldoce",
+  "ar.elonce"
  ],
  "channels": [
   {
@@ -122,7 +122,7 @@
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
    "youtubeVideoId": "2Kw3zDBIt68",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q389108",
    "description": {
     "en": "Argentine news television channel",
@@ -330,7 +330,7 @@
    "youtubeChannelId": "UCs231K71Bnu5295_x0MB5Pg",
    "youtubeVideoId": "TGUd6LrP3p4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1032483",
    "description": {
     "en": "Argentine public television channel",
@@ -439,7 +439,7 @@
    "youtubeChannelId": "UCUzonpa3XKurQVycdMY70XQ",
    "youtubeVideoId": "gfJ3wepFjkc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -552,7 +552,7 @@
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
    "youtubeVideoId": "Efr2fPJyvio",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -963,7 +963,7 @@
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
    "youtubeVideoId": "PIlnwzTXxIo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1153,7 +1153,7 @@
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
    "youtubeVideoId": "QVuRR1Uettc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1195,7 +1195,7 @@
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
    "youtubeVideoId": "eDhdq9QCJiA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
