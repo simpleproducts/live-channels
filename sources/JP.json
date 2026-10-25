@@ -4,7 +4,7 @@
  "defaultTiles": ["ann", "tbs", "ntvnews", "fnn", "nhkworld", "weathernews", "tvtokyobiz", "mbs", "htb"],
  "channels": [
   {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "GaJAvSb97SU", "embeddable": true, "live": true, "liveSince": "2026-10-25T08:59:42Z"},
-  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "fLakCRnR8OQ", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:57:00Z"},
+  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "HJn-4REHd_w", "embeddable": true, "live": true, "liveSince": "2026-10-25T19:58:04Z"},
   {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "Ep1uf-9DNfw", "embeddable": true, "live": true, "liveSince": "2026-10-24T10:56:55Z"},
   {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "6MVkqYNAqsg", "embeddable": true, "live": false},
   {"id": "nhkworld", "name": "NHK WORLD-JAPAN", "category": "news", "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A", "youtubeVideoId": "IimtbuqYIE8", "embeddable": true, "live": true, "liveSince": "2026-09-02T05:10:50Z", "languages": ["en"]},
@@ -26,6 +26,6 @@
   {"id": "hbc", "name": "HBC Hokkaido News", "category": "regional", "youtubeChannelId": "UCCTpf5c_9HDo_OSu3aX8uFQ", "youtubeVideoId": "eNvQilTr1nU", "embeddable": true, "live": true, "liveSince": "2026-10-16T03:53:24Z"},
   {"id": "stv", "name": "STV News Hokkaido", "category": "regional", "youtubeChannelId": "UCOZv-6MiXqJdLpmYtR431Ow", "youtubeVideoId": "3MBdJPHR8lg", "embeddable": true, "live": true, "liveSince": "2026-10-10T05:16:40Z"},
   {"id": "tokyomx", "name": "TOKYO MX News", "category": "regional", "youtubeChannelId": "UCJf85jSgFayOSsZfJ051ZKw", "youtubeVideoId": "CS9Nv_ncHqc", "embeddable": true, "live": true, "liveSince": "2026-03-30T08:46:56Z"},
-  {"id": "tbsradio", "name": "TBS Radio", "category": "radio", "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q", "youtubeVideoId": "KlVt61ne0gE", "embeddable": true, "live": true, "liveSince": "2026-10-25T15:58:07Z", "languages": ["ja"]}
+  {"id": "tbsradio", "name": "TBS Radio", "category": "radio", "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q", "youtubeVideoId": "XpDl_DlAq0I", "embeddable": true, "live": true, "liveSince": "2026-10-25T19:17:38Z", "languages": ["ja"]}
  ]
 }

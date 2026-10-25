@@ -1,16 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102516,
+ "version": 2026102520,
  "defaultTiles": [
   "mx.milenio",
   "mx.adnnoticias",
-  "mx.heraldo",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
-  "mx.lasestrellas",
-  "mx.canalcongreso"
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -140,7 +138,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "GmgkTDCqEco",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -288,7 +286,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "NVxyUJVuEvU",
+   "youtubeVideoId": "AahHzbKksBs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -385,7 +383,7 @@
    "youtubeChannelId": "UCZGYvP6WnVWGM5F0QEAyoyg",
    "youtubeVideoId": "sW7P8JsNRog",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q80478",
    "description": {
     "en": "Mexican television channel",
@@ -465,7 +463,7 @@
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
    "youtubeVideoId": "Um82FIB-vKI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -487,9 +485,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "QucQKkuRPyk",
+   "youtubeVideoId": "wDlpeztMMl0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",

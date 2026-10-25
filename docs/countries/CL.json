@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102516,
+ "version": 2026102520,
  "defaultTiles": [
+  "cl.24horas",
   "cl.chvnoticias",
   "cl.t13",
   "cl.meganoticias",
+  "cl.cnnchile",
   "cl.tvn",
   "cl.cooperativa",
-  "cl.agricultura",
-  "cl.pudahuel"
+  "cl.chilevision",
+  "cl.adn"
  ],
  "channels": [
   {
@@ -20,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "nD73agWuRg4",
+   "youtubeVideoId": "mOp-dLnz_jY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -38,9 +40,9 @@
     "es"
    ],
    "youtubeChannelId": "UCTXNz3gjAypWp3EhlIATEJQ",
-   "youtubeVideoId": "gOuDL__shEw",
+   "youtubeVideoId": "5Ir6-uQCQK0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2935885",
    "description": {
     "en": "24 horas is the brand that identifies the gathering and broadcasting of news in the Chilean public broadcaster Televisión Nacional de Chile.",
@@ -101,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
-   "youtubeVideoId": "7Xkfncls6C4",
+   "youtubeVideoId": "i-kX_M3p65A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931771",
    "description": {
     "en": "Chilean television news channel",
@@ -222,9 +224,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "DKICfcBhX0Y",
+   "youtubeVideoId": "Q5uC5-3vXZA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -502,9 +504,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "rUkdu0bBY64",
+   "youtubeVideoId": "shxObNJeUq4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -565,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "Wxj4Ojv3tBg",
+   "youtubeVideoId": "BvCL9l5pD6E",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -621,7 +623,7 @@
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
    "youtubeVideoId": "DVziELZGYjI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

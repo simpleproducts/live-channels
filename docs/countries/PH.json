@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102515,
+ "version": 2026102520,
  "defaultTiles": [
   "ph.untv",
-  "ph.dzrh"
+  "ph.dzrh",
+  "ph.teleradyo"
  ],
  "channels": [
   {
@@ -419,9 +420,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "JmYqbZyEq5s",
+   "youtubeVideoId": "xum0SKuYw-U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

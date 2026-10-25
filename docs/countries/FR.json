@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026102515,
+ "version": 2026102520,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
   "fr.euronewsfr",
-  "fr.bfmtv",
+  "fr.tv5monde",
   "fr.france24en",
   "fr.euronews",
   "fr.france24es",
@@ -342,7 +342,7 @@
    "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g",
    "youtubeVideoId": "VEGNHZTr4Eg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q517444",
    "description": {
     "en": "French news channel",
@@ -440,9 +440,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "PQfLjksNTto",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2138163",
    "description": {
     "en": "French-speaking television network",

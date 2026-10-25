@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026102515,
+ "version": 2026102520,
  "defaultTiles": [
   "kr.ytn",
   "kr.mbc",
@@ -330,9 +330,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
-   "youtubeVideoId": "i9OuAEnBPuk",
+   "youtubeVideoId": "aV8Gb1zLzGY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7388983",
    "description": {
     "en": "news channel in South Korea",
