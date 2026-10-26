@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026102607,
+ "version": 2026102621,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -684,7 +684,7 @@
    "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ",
    "youtubeVideoId": "kvafTghfrEo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q372375",
    "description": {
     "en": "French radio station",
@@ -714,9 +714,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A",
-   "youtubeVideoId": "KI-T1-_eq78",
+   "youtubeVideoId": "e3SOGmKdWSA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1961361",
    "description": {
     "en": "French radio station",

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026102615,
+ "version": 2026102621,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
   "kr.mbc",
   "kr.kbs",
+  "kr.sbs",
   "kr.channela",
   "kr.tvchosun",
   "kr.yonhapeconomy",
-  "kr.wowtv",
-  "kr.mbn_economy"
+  "kr.wowtv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "LSBuDrM5qMw",
+   "youtubeVideoId": "W8Srq5Ir6Os",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -145,9 +145,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "8X3qQ5M4Vhc",
+   "youtubeVideoId": "n2YyQGcoohA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -330,9 +330,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
-   "youtubeVideoId": "aV8Gb1zLzGY",
+   "youtubeVideoId": "SFX07mqnHfQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7388983",
    "description": {
     "en": "news channel in South Korea",
@@ -530,7 +530,7 @@
    "youtubeChannelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
    "youtubeVideoId": "MrJxf1myw2Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q83624247",
    "description": {
     "en": "Korean public-service television network",

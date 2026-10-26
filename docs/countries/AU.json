@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026102615,
+ "version": 2026102621,
  "defaultTiles": [
   "au.abcnews"
  ],
@@ -21,7 +21,7 @@
    "description": {
     "en": "news service by the Australian Broadcasting Corporation",
     "zh-Hans": "澳大利亚广播公司新闻部",
-    "ja": "ABCニュース は、オーストラリアの公共ニュース配信サービス。オーストラリア放送協会が運営している。",
+    "ja": "ABCニュース は、オーストラリアの公共放送局であるオーストラリア放送協会（ABC）の全国ニュース部門。ABCのラジオ、テレビおよびオンラインの各チャンネルに向けて、国内および世界各地の様々な出来事に関するニュース報道を提供している。58ヶ所の地方支局に2,000人以上の職員を擁するABCニュースは、オーストラリアで最も複雑な構造を持ち、厳しい監視の目が向けられている報道機関である。",
     "fr": "Service d'information de l'Australian Broadcasting Corporation",
     "it": "telegiornale australiano",
     "zh-Hant": "澳大利亚广播公司新闻部",

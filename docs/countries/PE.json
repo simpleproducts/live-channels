@@ -1,16 +1,15 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102615,
+ "version": 2026102621,
  "defaultTiles": [
   "pe.latina",
+  "pe.larepublica",
   "pe.rpp",
   "pe.willax",
   "pe.tvperunoticias",
   "pe.atv",
-  "pe.congreso",
-  "pe.exitosa",
-  "pe.radionacional"
+  "pe.congreso"
  ],
  "channels": [
   {
@@ -39,9 +38,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "XcZ0LAf6rr0",
+   "youtubeVideoId": "YhIwT5xXLZI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -72,7 +71,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "ybW-7aO9LUI",
+   "youtubeVideoId": "WtNuPUifqio",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -120,7 +119,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "I4CVvC-gyoo",
+   "youtubeVideoId": "4eggaCXrFIk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -146,7 +145,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "nDVEmdnIP1c",
+   "youtubeVideoId": "ZfB7yhVQWl8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -170,7 +169,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "oVXe6yn8Gzs",
+   "youtubeVideoId": "ozDIYyPBpz4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -360,7 +359,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
-   "youtubeVideoId": "bAnGPWSJmxY",
+   "youtubeVideoId": "7kTc4kZQrxU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1357543",
@@ -404,7 +403,7 @@
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
    "youtubeVideoId": "GzXJ6ULlXco",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",
@@ -428,7 +427,7 @@
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
    "youtubeVideoId": "uGhsTOqZr34",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096493",
    "description": {
     "en": "radio station",

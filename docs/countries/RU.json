@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "RU",
- "version": 2026102615,
+ "version": 2026102621,
  "defaultTiles": [
   "ru.currenttime",
-  "ru.euronewsru",
-  "ru.tvrain",
-  "ru.popularpolitics"
+  "ru.euronewsru"
  ],
  "channels": [
   {
@@ -19,7 +17,7 @@
    "youtubeChannelId": "UCdubelOloxR3wzwJG9x8YqQ",
    "youtubeVideoId": "s4FhCLwXfCE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q155172",
    "description": {
     "en": "Russian-language television channel",
@@ -127,7 +125,7 @@
    "youtubeChannelId": "UC7Elc-kLydl-NAV4g204pDQ",
    "youtubeVideoId": "bNE6ppKqo9o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q113048544",
    "description": {
     "en": "Russian-language online media",

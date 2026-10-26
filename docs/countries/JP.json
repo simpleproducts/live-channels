@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102615,
+ "version": 2026102621,
  "defaultTiles": [
+  "jp.fnn",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
@@ -10,8 +11,7 @@
   "jp.nhkworld",
   "jp.htb",
   "jp.satv",
-  "jp.ytv",
-  "jp.ktv"
+  "jp.ytv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "6k8SISL-9X4",
+   "youtubeVideoId": "eCkHV6BQs58",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "Egl52fZQ-RE",
+   "youtubeVideoId": "IsgIYUFJN0s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -115,9 +115,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-   "youtubeVideoId": "6MVkqYNAqsg",
+   "youtubeVideoId": "RtH22WvFgbs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q124919956",
    "description": {
     "ja": "フジテレビ系FNN28局のニュースサイト"
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "NyADUtuAye4",
+   "youtubeVideoId": "qSkoTAAmu9w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",

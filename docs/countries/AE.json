@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AE",
- "version": 2026102615,
+ "version": 2026102621,
  "defaultTiles": [
   "ae.alarabiya",
   "ae.skynewsarabia",
@@ -9,8 +9,7 @@
   "ae.almashhad",
   "ae.cnbcarabia",
   "ae.alarabiyabusiness",
-  "ae.alarabiyafm",
-  "ae.abudhabitv"
+  "ae.alarabiyafm"
  ],
  "channels": [
   {
@@ -160,7 +159,7 @@
    "youtubeChannelId": "UCZ33NIO6rgl291T88-9jreQ",
    "youtubeVideoId": "iv1TlVv6Gkc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

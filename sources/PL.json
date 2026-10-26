@@ -9,7 +9,7 @@
   {"id": "wpolsce24", "name": "wPolsce24", "category": "news", "youtubeChannelId": "UCPiu4CZlknkTworskK79CPg", "youtubeVideoId": "lx56Ajgrmw8", "embeddable": true, "live": false},
   {"id": "tvpworld", "name": "TVP World", "category": "news", "youtubeChannelId": "UCBjUPsHj7bXt24SUWNoZ0zA", "youtubeVideoId": "tvXWIgsWuK0", "embeddable": true, "live": true, "liveSince": "2026-07-21T16:51:14Z", "languages": ["en"]},
   {"id": "sejm", "name": "Sejm RP", "category": "government", "youtubeChannelId": "UCN5seY_Oy_GiJRhF06GfRlw", "live": false, "languages": ["pl"]},
-  {"id": "kanalzero", "name": "Kanał Zero", "category": "streaming", "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg", "youtubeVideoId": "dvHcdIeYMpM", "embeddable": true, "live": false, "languages": ["pl"]},
+  {"id": "kanalzero", "name": "Kanał Zero", "category": "streaming", "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg", "youtubeVideoId": "jA6_HA9rBFA", "embeddable": true, "live": true, "liveSince": "2026-10-26T20:28:25Z", "languages": ["pl"]},
   {"id": "rmf24", "name": "RMF24", "category": "radio", "youtubeChannelId": "UCkC9YgH_FlqOhOIoTDFt4CA", "live": false, "languages": ["pl"]},
   {"id": "radiozet", "name": "Radio ZET", "category": "radio", "youtubeChannelId": "UCvHFbkohgX29NhaUtmkzLmg", "live": false, "languages": ["pl"]},
   {"id": "tokfm", "name": "TOK FM", "category": "radio", "youtubeChannelId": "UCUlZzs-r5LDqARiq1xPkQlw", "live": false, "languages": ["pl"]},

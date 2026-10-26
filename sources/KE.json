@@ -4,7 +4,7 @@
  "defaultTiles": ["citizentv", "ntv", "ktn", "k24", "kbc", "tv47"],
  "channels": [
   {"id": "citizentv", "name": "Citizen TV", "category": "news", "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g", "youtubeVideoId": "ZDucCAYX_eY", "embeddable": true, "live": true, "liveSince": "2026-10-25T10:27:03Z"},
-  {"id": "ntv", "name": "NTV Kenya", "category": "news", "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg", "youtubeVideoId": "TEew2QWWKXE", "embeddable": true, "live": false},
+  {"id": "ntv", "name": "NTV Kenya", "category": "news", "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg", "youtubeVideoId": "PpcDyA3KOeg", "embeddable": true, "live": true, "liveSince": "2026-10-14T10:55:49Z"},
   {"id": "ktn", "name": "KTN News", "category": "news", "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg", "youtubeVideoId": "E7SkI8eoZNU", "embeddable": true, "live": true, "liveSince": "2026-10-26T05:40:35Z"},
   {"id": "k24", "name": "K24 TV", "category": "news", "youtubeChannelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ", "youtubeVideoId": "uQMZvd00U4Y", "embeddable": true, "live": true, "liveSince": "2026-10-23T07:57:18Z"},
   {"id": "tv47", "name": "TV47", "category": "news", "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw", "youtubeVideoId": "0BrSLW_GNvc", "embeddable": true, "live": false},

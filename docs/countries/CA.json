@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026102615,
+ "version": 2026102621,
  "defaultTiles": [
-  "ca.cbcnews",
-  "ca.ctvnews"
+  "ca.cbcnews"
  ],
  "channels": [
   {
@@ -63,7 +62,7 @@
    "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg",
    "youtubeVideoId": "fG5lTM8ATIQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5014635",
    "description": {
     "en": "news division of CTV Television Network",

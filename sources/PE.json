@@ -4,20 +4,20 @@
  "defaultTiles": ["pbo", "larepublica", "rpp", "latina", "willax", "tvperunoticias", "atv", "panamericana", "congreso"],
  "channels": [
   {"id": "pbo", "name": "PBO", "category": "news", "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ", "youtubeVideoId": "NJegw6AFLys", "embeddable": true, "live": false},
-  {"id": "larepublica", "name": "La República", "category": "news", "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg", "youtubeVideoId": "XcZ0LAf6rr0", "embeddable": true, "live": false, "wikidata": "Q1330217"},
-  {"id": "rpp", "name": "RPP", "category": "news", "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA", "youtubeVideoId": "ybW-7aO9LUI", "embeddable": true, "live": true, "liveSince": "2026-10-26T15:04:51Z", "wikidata": "Q3090686"},
+  {"id": "larepublica", "name": "La República", "category": "news", "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg", "youtubeVideoId": "YhIwT5xXLZI", "embeddable": true, "live": true, "liveSince": "2026-10-26T20:02:18Z", "wikidata": "Q1330217"},
+  {"id": "rpp", "name": "RPP", "category": "news", "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA", "youtubeVideoId": "WtNuPUifqio", "embeddable": true, "live": true, "liveSince": "2026-10-26T19:35:34Z", "wikidata": "Q3090686"},
   {"id": "latina", "name": "Latina Noticias", "category": "news", "youtubeChannelId": "UCpSJ5fGhmAME9Kx2D3ZvN3Q", "youtubeVideoId": "sLzfveqNEJc", "embeddable": true, "live": true, "liveSince": "2026-08-07T01:28:32Z"},
-  {"id": "willax", "name": "Willax", "category": "news", "youtubeChannelId": "UCort3mldTtMErPqprSlSfng", "youtubeVideoId": "I4CVvC-gyoo", "embeddable": true, "live": true, "liveSince": "2026-10-26T14:26:22Z", "wikidata": "Q24038962"},
-  {"id": "tvperunoticias", "name": "TV Perú Noticias", "category": "news", "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA", "youtubeVideoId": "nDVEmdnIP1c", "embeddable": true, "live": true, "liveSince": "2026-10-26T14:00:06Z", "wikidata": "Q17630941"},
-  {"id": "atv", "name": "ATV Noticias", "category": "news", "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw", "youtubeVideoId": "oVXe6yn8Gzs", "embeddable": true, "live": true, "liveSince": "2026-10-26T10:28:24Z"},
+  {"id": "willax", "name": "Willax", "category": "news", "youtubeChannelId": "UCort3mldTtMErPqprSlSfng", "youtubeVideoId": "4eggaCXrFIk", "embeddable": true, "live": true, "liveSince": "2026-10-26T19:32:35Z", "wikidata": "Q24038962"},
+  {"id": "tvperunoticias", "name": "TV Perú Noticias", "category": "news", "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA", "youtubeVideoId": "ZfB7yhVQWl8", "embeddable": true, "live": true, "liveSince": "2026-10-26T20:31:27Z", "wikidata": "Q17630941"},
+  {"id": "atv", "name": "ATV Noticias", "category": "news", "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw", "youtubeVideoId": "ozDIYyPBpz4", "embeddable": true, "live": true, "liveSince": "2026-10-26T20:17:41Z"},
   {"id": "panorama", "name": "Panorama", "category": "news", "youtubeChannelId": "UCBiq92lt_ufNO-ktZigVXgg", "live": false},
   {"id": "panamericana", "name": "Panamericana", "category": "broadcast", "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA", "youtubeVideoId": "1h88qi0ARmU", "embeddable": true, "live": false, "wikidata": "Q586523"},
   {"id": "tvperu", "name": "TV Perú", "category": "broadcast", "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg", "youtubeVideoId": "nF9zR7WmQnc", "embeddable": true, "live": false, "wikidata": "Q3076196"},
   {"id": "latinatv", "name": "Latina Televisión", "category": "broadcast", "youtubeChannelId": "UC3rDtLrcgr3JS3_3JOW4BAw", "youtubeVideoId": "tHZdPIHpJKg", "embeddable": true, "live": false, "wikidata": "Q967752"},
   {"id": "americatv", "name": "América Televisión", "category": "broadcast", "youtubeChannelId": "UCPhm2I2wk4vqjENwhn3px8A", "live": false, "wikidata": "Q2530659"},
-  {"id": "congreso", "name": "Congreso del Perú", "category": "government", "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw", "youtubeVideoId": "bAnGPWSJmxY", "embeddable": true, "live": true, "liveSince": "2026-10-26T14:02:47Z", "wikidata": "Q1357543"},
-  {"id": "exitosa", "name": "Exitosa", "category": "radio", "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg", "youtubeVideoId": "GzXJ6ULlXco", "embeddable": true, "live": true, "liveSince": "2026-10-26T13:00:36Z"},
-  {"id": "radionacional", "name": "Radio Nacional", "category": "radio", "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow", "youtubeVideoId": "uGhsTOqZr34", "embeddable": true, "live": true, "liveSince": "2026-10-26T15:01:20Z", "languages": ["es"]},
+  {"id": "congreso", "name": "Congreso del Perú", "category": "government", "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw", "youtubeVideoId": "7kTc4kZQrxU", "embeddable": true, "live": true, "liveSince": "2026-10-26T20:07:53Z", "wikidata": "Q1357543"},
+  {"id": "exitosa", "name": "Exitosa", "category": "radio", "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg", "youtubeVideoId": "GzXJ6ULlXco", "embeddable": true, "live": false},
+  {"id": "radionacional", "name": "Radio Nacional", "category": "radio", "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow", "youtubeVideoId": "uGhsTOqZr34", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "lazona", "name": "La Zona", "category": "radio", "youtubeChannelId": "UCycOAX62Pwuo-g_OSbh5hyw", "youtubeVideoId": "Prg7ekJkT2s", "embeddable": true, "live": false, "languages": ["es"]}
  ]
 }

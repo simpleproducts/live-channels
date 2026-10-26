@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026102615,
+ "version": 2026102621,
  "defaultTiles": [
   "ke.citizentv",
+  "ke.ntv",
   "ke.k24",
   "ke.ktn",
   "ke.ramogi",
@@ -39,9 +40,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg",
-   "youtubeVideoId": "TEew2QWWKXE",
+   "youtubeVideoId": "PpcDyA3KOeg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
