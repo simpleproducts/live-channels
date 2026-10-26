@@ -1,10 +1,16 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102520,
+ "version": 2026102607,
  "defaultTiles": [
   "ph.untv",
+  "ph.abscbn",
+  "ph.oneph",
+  "ph.rappler",
+  "ph.anc",
+  "ph.inquirer",
   "ph.dzrh",
+  "ph.senate",
   "ph.teleradyo"
  ],
  "channels": [
@@ -17,9 +23,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "uGN7xrMWjzg",
+   "youtubeVideoId": "ReYYWzBaV7g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -82,9 +88,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Lm2yllbEQ2M",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -101,9 +107,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "y9S7W_enTQg",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -187,9 +193,9 @@
     "en"
    ],
    "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "uwudp_dvcZE",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q14903716",
    "description": {
     "en": "news website company in the Philippines",
@@ -235,9 +241,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "wK2oEvtgXwU",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q97657682",
    "description": {
     "en": "News website from the Philippines"
@@ -293,9 +299,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPJWi44tskVVMNyKzYrPoGg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "6tvGBHI4zjA",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q1418426",
    "description": {
     "en": "upper house of the Congress of the Philippines",
@@ -420,7 +426,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "xum0SKuYw-U",
+   "youtubeVideoId": "b2KFLbQeP9c",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -458,9 +464,9 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "K69Q6F3tyG4",
+   "youtubeVideoId": "Qobit0IeCGg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

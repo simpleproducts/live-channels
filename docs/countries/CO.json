@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
   "co.noticiascaracol",
   "co.noticiasrcn",
@@ -9,7 +9,7 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.canalcapital"
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -315,7 +315,7 @@
    "youtubeChannelId": "UCeSx6aU8UGIIHxGCQPbYY_A",
    "youtubeVideoId": "XKEWUYC1-DM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5030992",
    "description": {
     "en": "Colombian channel television",
@@ -425,9 +425,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "D8_exMRHB5s",
+   "youtubeVideoId": "wCoBX_uRqN8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4672090",
    "description": {
     "en": "radio station in Bogotá, Colombia",

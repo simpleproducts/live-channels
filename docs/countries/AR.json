@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
   "ar.a24",
   "ar.cronica",
   "ar.canalrural",
-  "ar.lnmas",
+  "ar.canal26",
   "ar.america",
   "ar.elnueve",
   "ar.canal10cba"
@@ -70,7 +70,7 @@
    "youtubeChannelId": "UCba3hpU7EFBSk817y9qZkiA",
    "youtubeVideoId": "11m2D6ZXLN0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27478538",
    "description": {
     "en": "Argentine news television channel",
@@ -120,9 +120,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "8Vgpj3TcIkA",
+   "youtubeVideoId": "CKCN4nwc6Ns",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q389108",
    "description": {
     "en": "Argentine news television channel",
@@ -921,7 +921,7 @@
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
    "youtubeVideoId": "ydQwTJuwwFQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -963,7 +963,7 @@
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
    "youtubeVideoId": "Fo3YHI7htx8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

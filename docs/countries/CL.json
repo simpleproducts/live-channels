@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
-  "cl.24horas",
   "cl.t13",
   "cl.meganoticias",
-  "cl.cnnchile",
-  "cl.cooperativa"
+  "cl.24horas",
+  "cl.chvnoticias",
+  "cl.cooperativa",
+  "cl.tvn"
  ],
  "channels": [
   {
@@ -18,7 +19,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "mOp-dLnz_jY",
+   "youtubeVideoId": "IlTxPhh40io",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -36,7 +37,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTXNz3gjAypWp3EhlIATEJQ",
-   "youtubeVideoId": "5Ir6-uQCQK0",
+   "youtubeVideoId": "w8oWjZyuCSc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2935885",
@@ -63,9 +64,9 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "mYpre7Bg7xE",
+   "youtubeVideoId": "VlXpzlCGOMA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -101,7 +102,7 @@
    "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
    "youtubeVideoId": "i-kX_M3p65A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2931771",
    "description": {
     "en": "Chilean television news channel",
@@ -164,9 +165,9 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "yhe94A9pU6c",
+   "youtubeVideoId": "oHcLws-afvs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597933",
    "description": {
     "en": "Chilean public service broadcaster",

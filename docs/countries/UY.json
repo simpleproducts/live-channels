@@ -1,12 +1,14 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102520,
+ "version": 2026102607,
  "defaultTiles": [
+  "uy.elobservadoruy",
   "uy.ladiaria",
+  "uy.tnu",
   "uy.carve",
-  "uy.tvciudad",
-  "uy.universal"
+  "uy.delsol",
+  "uy.sarandi"
  ],
  "channels": [
   {
@@ -53,7 +55,7 @@
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
    "youtubeVideoId": "ZRXayKzPA8w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -210,7 +212,7 @@
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
    "youtubeVideoId": "HBIT8TEotiQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -284,7 +286,7 @@
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
    "youtubeVideoId": "RfGm1VJrmn0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -345,7 +347,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "PJ6iWoicC2Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

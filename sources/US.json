@@ -24,7 +24,7 @@
   {"id": "cnbctv", "name": "CNBC Television", "category": "economy", "youtubeChannelId": "UCrp_UI8XtuYfpiqluWLD7Lw", "live": false},
   {"id": "foxbusiness", "name": "Fox Business", "category": "economy", "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg", "youtubeVideoId": "uFsPmEWW_A4", "embeddable": true, "live": false},
   {"id": "cnbc", "name": "CNBC", "category": "economy", "youtubeChannelId": "UCvJJ_dzjViJCoLf5uKUTwoA", "youtubeVideoId": "9NyxcX3rhQs", "embeddable": true, "live": true, "liveSince": "2022-11-07T15:56:41Z"},
-  {"id": "cnbcintl", "name": "CNBC International Live", "category": "economy", "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw", "live": false},
+  {"id": "cnbcintl", "name": "CNBC International Live", "category": "economy", "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw", "youtubeVideoId": "pp1HWAXweQE", "embeddable": true, "live": true, "liveSince": "2026-10-26T07:00:19Z"},
   {"id": "univision", "name": "Univision", "category": "broadcast", "youtubeChannelId": "UCcEWv_J2SEU8XO2tEm4Phgw", "live": false, "languages": ["es"]},
   {"id": "cspan", "name": "C-SPAN", "category": "government", "youtubeChannelId": "UCb--64Gl51jIEVE-GLDAVTg", "youtubeVideoId": "VnRJlQYEOow", "embeddable": true, "live": false},
   {"id": "whitehouse", "name": "The White House", "category": "government", "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ", "live": false},

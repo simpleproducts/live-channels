@@ -1,15 +1,16 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026102515,
+ "version": 2026102607,
  "defaultTiles": [
   "pk.geonews",
   "pk.dunyanews",
   "pk.expressnews",
-  "pk.92news",
   "pk.dawnnews",
   "pk.humnews",
-  "pk.gnn"
+  "pk.gnn",
+  "pk.arynews",
+  "pk.92news"
  ],
  "channels": [
   {
@@ -71,9 +72,9 @@
     "ur"
    ],
    "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg",
-   "youtubeVideoId": "cg3W5w03CHw",
+   "youtubeVideoId": "Mlpszm3MFaU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4653979",
    "description": {
     "en": "Pakistani news channel",
@@ -147,7 +148,7 @@
     "ur"
    ],
    "youtubeChannelId": "UCsgC5cbz3DE2Shh34gNKiog",
-   "youtubeVideoId": "kZK2BiSdC68",
+   "youtubeVideoId": "A6ZQOpoh5mc",
    "embeddable": true,
    "live": true,
    "wikidata": null,

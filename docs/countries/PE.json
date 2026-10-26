@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
-  "pe.latina",
-  "pe.larepublica"
+  "pe.latina"
  ],
  "channels": [
   {
@@ -35,7 +34,7 @@
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
    "youtubeVideoId": "XcZ0LAf6rr0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",

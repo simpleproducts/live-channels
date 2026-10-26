@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -705,45 +705,6 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sud_Radio_%282014%29.png?width=256",
    "website": "http://www.sudradio.fr",
    "city": "Labège"
-  },
-  {
-   "id": "fr.rmc",
-   "name": "RMC",
-   "category": "radio",
-   "languages": [
-    "fr"
-   ],
-   "youtubeChannelId": "UCgGb7tN3tIH5_Kk05D1J_bA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
-   "wikidata": "Q686375",
-   "description": {
-    "en": "French-Monegasque radio station",
-    "es": "radio monegasca y francesa",
-    "zh-Hans": "RMC，全称为蒙特卡洛广播电台，是一家总部位于法国巴黎的广播电台，主要服务法国和摩纳哥的听众。",
-    "fr": "chaîne de radio franco-monégasque",
-    "pt-BR": "A RMC é uma rádio franco-monegasca que visa atingir um público bastante popular.",
-    "it": "Nome di sei emittenti radiofoniche",
-    "zh-Hant": "RMC，全称为蒙特卡洛广播电台，是一家总部位于法国巴黎的广播电台，主要服务法国和摩纳哥的听众。",
-    "nl": "RMC is een Frans-Monegaskische private radiozender opgericht in 1943.",
-    "id": "stasiun radio di Monako",
-    "de": "französisch-monegassischer Hörfunksender"
-   },
-   "wikipedia": {
-    "en": "https://en.wikipedia.org/wiki/RMC_(France)",
-    "es": "https://es.wikipedia.org/wiki/RMC",
-    "zh-Hans": "https://zh.wikipedia.org/zh-hans/RMC",
-    "fr": "https://fr.wikipedia.org/wiki/RMC",
-    "pt-BR": "https://pt.wikipedia.org/wiki/Radio_Monte_Carlo",
-    "it": "https://it.wikipedia.org/wiki/RMC_(emittente_radiofonica_francese)",
-    "zh-Hant": "https://zh.wikipedia.org/zh-hant/RMC",
-    "nl": "https://nl.wikipedia.org/wiki/RMC_(Frankrijk)",
-    "de": "https://de.wikipedia.org/wiki/RMC_(H%C3%B6rfunksender)"
-   },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_RMC_2002.svg?width=256",
-   "website": "https://rmc.bfmtv.com",
-   "city": "commune de Monaco"
   },
   {
    "id": "fr.nrj",

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
-  "jp.ntvnews",
+  "jp.ann",
   "jp.tbs",
+  "jp.ntvnews",
+  "jp.weathernews",
+  "jp.kyodo",
   "jp.nhkworld",
   "jp.htb",
   "jp.satv",
-  "jp.ytv",
-  "jp.ktv",
-  "jp.abctv",
-  "jp.chukyo"
+  "jp.ytv"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "GaJAvSb97SU",
+   "youtubeVideoId": "w99O-xnB8LQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q843772",
    "description": {
     "en": "Japanese television network",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "HJn-4REHd_w",
+   "youtubeVideoId": "NlsmBGOOzFw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "Ep1uf-9DNfw",
+   "youtubeVideoId": "AQbFo4wwh7o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,9 +189,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "4kCYuKxbP8Q",
+   "youtubeVideoId": "EV3r2BJEXrY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q492412",
    "description": {
     "en": "Commercial weather service company based in Chiba, Japan.",
@@ -222,9 +222,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "2qTcbgngK58",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q779730",
    "description": {
     "en": "news agency",
@@ -538,7 +538,7 @@
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
    "youtubeVideoId": "O606U7-m1dc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

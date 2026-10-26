@@ -1,13 +1,15 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
   "mx.multimedios",
-  "mx.imagenradio"
+  "mx.imagenradio",
+  "mx.canalonce",
+  "mx.tvazteca"
  ],
  "channels": [
   {
@@ -285,9 +287,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "AahHzbKksBs",
+   "youtubeVideoId": "tCiPodP9GbU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -362,9 +364,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNVrBkfp4_TG9x4h5kvLeAQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "JamoD43fXNc",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

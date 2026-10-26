@@ -1,8 +1,12 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
+  "gb.skynews",
+  "gb.gbnews",
+  "gb.talktv",
+  "gb.independent",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -16,9 +20,9 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "9pQVTX-QTpI",
+   "youtubeVideoId": "LRNhQWN2KmE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -127,9 +131,9 @@
     "en"
    ],
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-   "youtubeVideoId": "oLdmasjySCo",
+   "youtubeVideoId": "7l2LzXajqcI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q100300992",
    "description": {
     "en": "British television news channel",
@@ -222,9 +226,9 @@
     "en"
    ],
    "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
-   "youtubeVideoId": "DdE2VIu8N0Q",
+   "youtubeVideoId": "FG1cN1UPcIc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q108760651",
    "description": {
     "en": "British television channel",
@@ -422,9 +426,9 @@
     "en"
    ],
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
-   "youtubeVideoId": "-wK5YwVeA5g",
+   "youtubeVideoId": "Izf2GkQBA5U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",

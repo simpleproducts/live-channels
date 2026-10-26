@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
   "us.cnn",
   "us.nbcnews",
-  "us.foxweather",
   "us.livenow",
+  "us.foxweather",
   "us.newsmax",
   "us.telemundo",
   "us.cnnee",
@@ -845,9 +845,9 @@
     "en"
    ],
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "pp1HWAXweQE",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

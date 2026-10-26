@@ -19,7 +19,7 @@
   {"id": "rfi", "name": "RFI", "category": "radio", "youtubeChannelId": "UCm4fSpMpPIZ9z6KHoezLUAg", "youtubeVideoId": "OAoLGxrlBPY", "embeddable": true, "live": true, "liveSince": "2026-06-12T09:33:38Z"},
   {"id": "franceinter", "name": "France Inter", "category": "radio", "youtubeChannelId": "UCJldRgT_D7Am-ErRHQZ90uw", "youtubeVideoId": "dv3gNGnmqwE", "embeddable": true, "live": true, "liveSince": "2026-09-23T09:00:39Z", "languages": ["fr"]},
   {"id": "sudradio", "name": "Sud Radio", "category": "radio", "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ", "youtubeVideoId": "kvafTghfrEo", "embeddable": true, "live": true, "liveSince": "2026-08-25T09:35:36Z", "languages": ["fr"]},
-  {"id": "rmc", "name": "RMC", "category": "radio", "youtubeChannelId": "UCgGb7tN3tIH5_Kk05D1J_bA", "live": false, "languages": ["fr"]},
+  {"id": "rmc", "name": "RMC", "category": "radio", "youtubeChannelId": "UCgGb7tN3tIH5_Kk05D1J_bA", "embeddable": false, "live": false, "languages": ["fr"]},
   {"id": "nrj", "name": "NRJ", "category": "radio", "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A", "youtubeVideoId": "KI-T1-_eq78", "embeddable": true, "live": false, "languages": ["fr"]},
   {"id": "arte", "name": "ARTE", "category": "culture", "youtubeChannelId": "UCwI-JbGNsojunnHbFAc0M4Q", "live": false}
  ]

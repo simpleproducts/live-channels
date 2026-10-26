@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102600,
+ "version": 2026102607,
  "defaultTiles": [
+  "tr.trthaber",
   "tr.haberturk",
   "tr.ntv",
   "tr.ahaber",
   "tr.tgrthaber",
   "tr.24tv",
-  "tr.trthaber",
-  "tr.trtworld",
-  "tr.bloomberght",
-  "tr.showtv"
+  "tr.cnnturk",
+  "tr.sozcu",
+  "tr.haberglobal"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
-   "youtubeVideoId": "VshQ-99_3ds",
+   "youtubeVideoId": "549u6yU2rp0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931786",
    "description": {
     "en": "Turkish news channel",
@@ -204,9 +204,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
-   "youtubeVideoId": "d_DtaCM6ya8",
+   "youtubeVideoId": "lAlWLmWMY9Q",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q116775276",
    "description": {
     "tr": "Türkiye'de bir televizyon kanalı",
@@ -324,9 +324,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
-   "youtubeVideoId": "ZJpLfiwRJrE",
+   "youtubeVideoId": "lEQ0qlQlcAs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q84432980",
    "description": {
     "ar": "الخبر العالمي هي قناة إخبارية وموقع إخباري في تركيا بدأ البث في 24 سبتمبر 2018.",
@@ -350,9 +350,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
-   "youtubeVideoId": "RgmoojN4UCI",
+   "youtubeVideoId": "p2QtCZtLGqc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q85975294",
    "description": {
     "en": "Turkish national news channel",
