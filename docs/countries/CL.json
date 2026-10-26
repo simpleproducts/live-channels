@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102607,
+ "version": 2026102615,
  "defaultTiles": [
   "cl.t13",
-  "cl.meganoticias",
   "cl.24horas",
-  "cl.chvnoticias",
   "cl.cooperativa",
-  "cl.tvn"
+  "cl.tvn",
+  "cl.chilevision",
+  "cl.canal13",
+  "cl.adn",
+  "cl.agricultura",
+  "cl.infinita"
  ],
  "channels": [
   {
@@ -21,7 +24,7 @@
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
    "youtubeVideoId": "IlTxPhh40io",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -66,7 +69,7 @@
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
    "youtubeVideoId": "VlXpzlCGOMA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -221,9 +224,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "Q5uC5-3vXZA",
+   "youtubeVideoId": "_g40OtVbGwE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -317,9 +320,9 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "v2Aa7IxFIOo",
+   "youtubeVideoId": "U4ml8mwuDD4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -501,9 +504,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "shxObNJeUq4",
+   "youtubeVideoId": "iuInS9C9GS0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -564,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "BvCL9l5pD6E",
+   "youtubeVideoId": "xmsV4raBpmI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -582,9 +585,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
-   "youtubeVideoId": "sNDLZOsi7uo",
+   "youtubeVideoId": "3O-HTu7wqro",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -600,9 +603,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4ZQZFCySssx8rM21sZ5z4A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "EdA7UOZxqjs",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -618,9 +621,9 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": "DVziELZGYjI",
+   "youtubeVideoId": "hwSszCJLNww",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

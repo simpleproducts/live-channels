@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026102607,
+ "version": 2026102615,
  "defaultTiles": [
-  "hk.phoenixtv",
-  "hk.cablenews",
-  "hk.nownews"
+  "hk.phoenixtv"
  ],
  "channels": [
   {
@@ -54,7 +52,7 @@
    "youtubeChannelId": "UC_q7e5XYJB0JDGagcF0KW0w",
    "youtubeVideoId": "gP5c8XNgU2g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -72,7 +70,7 @@
    "youtubeChannelId": "UCg8EwsqYmiw7G267xxPyXsg",
    "youtubeVideoId": "7GsZ5U0hovw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10883984",
    "description": {
     "en": "news website based in Taiwan",

@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026102607,
+ "version": 2026102615,
  "defaultTiles": [
   "ke.citizentv",
   "ke.k24",
   "ke.ktn",
-  "ke.kbc",
   "ke.ramogi",
   "ke.inooro",
   "ke.radiocitizen"
@@ -118,7 +117,7 @@
    "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg",
    "youtubeVideoId": "9-SGtn6Caz4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6392548",
    "description": {
     "en": "state-run media organisation of Kenya",

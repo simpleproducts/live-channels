@@ -6,13 +6,13 @@
   {"id": "suspilne", "name": "Суспільне Новини", "category": "news", "youtubeChannelId": "UCPY6gj8G7dqwPxg9KwHrj5Q", "youtubeVideoId": "EHiuKvFUr2w", "embeddable": true, "live": true, "liveSince": "2026-08-16T18:09:56Z"},
   {"id": "tsn", "name": "ТСН", "category": "news", "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew", "youtubeVideoId": "IWjNLwUg7G4", "embeddable": true, "live": true, "liveSince": "2026-10-25T20:02:35Z"},
   {"id": "faktyictv", "name": "Факти ICTV", "category": "news", "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA", "youtubeVideoId": "v_hgVy3tUZM", "embeddable": true, "live": true, "liveSince": "2025-09-05T03:33:36Z"},
-  {"id": "espreso", "name": "Еспресо", "category": "news", "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w", "youtubeVideoId": "Kdpt2EP5MQ4", "embeddable": true, "live": true, "liveSince": "2026-10-26T04:59:00Z"},
+  {"id": "espreso", "name": "Еспресо", "category": "news", "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w", "youtubeVideoId": "Kdpt2EP5MQ4", "embeddable": true, "live": false},
   {"id": "kyiv24", "name": "Київ24", "category": "news", "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA", "youtubeVideoId": "Gttm1XM6pZE", "embeddable": true, "live": true, "liveSince": "2026-10-26T04:59:21Z"},
-  {"id": "freedom", "name": "FREEДOM", "category": "news", "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA", "youtubeVideoId": "Abc7nEtcxUE", "embeddable": true, "live": true, "liveSince": "2026-10-25T20:40:21Z", "languages": ["ru"]},
+  {"id": "freedom", "name": "FREEДOM", "category": "news", "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA", "youtubeVideoId": "Abc7nEtcxUE", "embeddable": true, "live": false, "languages": ["ru"]},
   {"id": "pryamiy", "name": "Прямий", "category": "news", "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA", "youtubeVideoId": "-9FO57Sk_oY", "embeddable": true, "live": true, "liveSince": "2024-08-27T06:04:32Z"},
   {"id": "5kanal", "name": "5 канал", "category": "news", "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg", "youtubeVideoId": "ScVaZUkA2kE", "embeddable": true, "live": true, "liveSince": "2026-09-15T10:46:28Z"},
   {"id": "24kanal", "name": "24 Канал", "category": "news", "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ", "youtubeVideoId": "FROmSyTLlxA", "embeddable": true, "live": false},
-  {"id": "united24", "name": "UNITED24", "category": "news", "youtubeChannelId": "UCX-xHRN9CnoXto5gcPskANA", "youtubeVideoId": "NTmuCD_hZwI", "embeddable": true, "live": false, "languages": ["en", "uk"]},
+  {"id": "united24", "name": "UNITED24", "category": "news", "youtubeChannelId": "UCX-xHRN9CnoXto5gcPskANA", "youtubeVideoId": "wVoAoloNtWQ", "embeddable": true, "live": true, "liveSince": "2026-10-26T09:26:43Z", "languages": ["en", "uk"]},
   {"id": "rada", "name": "Телеканал Рада", "category": "government", "youtubeChannelId": "UC5V8mErVFOpcQXEb3y9IMZw", "youtubeVideoId": "Ot4LfpCiBp8", "embeddable": true, "live": true, "liveSince": "2026-10-02T09:55:07Z"}
  ]
 }

@@ -1,16 +1,15 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026102607,
+ "version": 2026102615,
  "defaultTiles": [
   "ua.suspilne",
   "ua.faktyictv",
   "ua.pryamiy",
   "ua.5kanal",
   "ua.tsn",
-  "ua.espreso",
   "ua.kyiv24",
-  "ua.freedom",
+  "ua.united24",
   "ua.rada"
  ],
  "channels": [
@@ -112,7 +111,7 @@
    "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w",
    "youtubeVideoId": "Kdpt2EP5MQ4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15689802",
    "description": {
     "en": "Ukrainian TV channel",
@@ -165,7 +164,7 @@
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
    "youtubeVideoId": "Abc7nEtcxUE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27638992",
    "description": {
     "en": "Ukrainian television channel in Russian language",
@@ -280,9 +279,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCX-xHRN9CnoXto5gcPskANA",
-   "youtubeVideoId": "NTmuCD_hZwI",
+   "youtubeVideoId": "wVoAoloNtWQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q111841082",
    "description": {
     "en": "Fundraising initiative in support of Ukraine",

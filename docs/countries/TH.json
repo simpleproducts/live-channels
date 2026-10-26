@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026102607,
+ "version": 2026102615,
  "defaultTiles": [
   "th.thaipbs",
-  "th.thairath",
-  "th.nation",
-  "th.tpchannel"
+  "th.amarin"
  ],
  "channels": [
   {
@@ -17,7 +15,7 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "3a6FuwavGm0",
+   "youtubeVideoId": "g0sgC2MppvY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2603792",
@@ -69,7 +67,7 @@
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
    "youtubeVideoId": "yARQnkaYKdY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -165,9 +163,9 @@
     "th"
    ],
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
-   "youtubeVideoId": "peGlLyp3Si4",
+   "youtubeVideoId": "Bm08nrZburo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -185,7 +183,7 @@
    "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg",
    "youtubeVideoId": "kXWTiks8Zyk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -293,7 +291,7 @@
    "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A",
    "youtubeVideoId": "W6E27uxyeZU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

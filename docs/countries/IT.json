@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026102607,
+ "version": 2026102615,
  "defaultTiles": [
   "it.euronewsit",
   "it.senato",
-  "it.radio24"
+  "it.radiodeejay"
  ],
  "channels": [
   {
@@ -192,9 +192,9 @@
     "it"
    ],
    "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
-   "youtubeVideoId": "hzv9lmdTgV4",
+   "youtubeVideoId": "ADK8vJlJP8U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1567359",
    "description": {
     "en": "radio station in Italy",
@@ -258,7 +258,7 @@
    "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
    "youtubeVideoId": "1OUhsq9u58A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3416540",
    "description": {
     "en": "Italian private all-news radio, owned by the newspaper Il Sole 24 Ore",

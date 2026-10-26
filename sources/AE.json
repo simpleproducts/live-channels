@@ -7,7 +7,7 @@
   {"id": "alhadath", "name": "Al Hadath", "category": "news", "youtubeChannelId": "UCrj5BGAhtWxDfqbza9T9hqA", "youtubeVideoId": "au8t81S0tag", "embeddable": true, "live": true, "liveSince": "2026-09-09T15:54:22Z", "languages": ["ar"]},
   {"id": "skynewsarabia", "name": "Sky News Arabia", "category": "news", "youtubeChannelId": "UCIJXOvggjKtCagMfxvcCzAA", "youtubeVideoId": "ppgTP8xQQsM", "embeddable": true, "live": true, "liveSince": "2026-06-22T12:03:38Z", "languages": ["ar"]},
   {"id": "almashhad", "name": "Al Mashhad", "category": "news", "youtubeChannelId": "UCWnBTuzUUDpKhJPGuDQMynA", "youtubeVideoId": "fvYBSnXrdEA", "embeddable": true, "live": true, "liveSince": "2026-10-06T09:51:36Z", "languages": ["ar"]},
-  {"id": "abudhabitv", "name": "Abu Dhabi TV", "category": "broadcast", "youtubeChannelId": "UCZ33NIO6rgl291T88-9jreQ", "live": false},
+  {"id": "abudhabitv", "name": "Abu Dhabi TV", "category": "broadcast", "youtubeChannelId": "UCZ33NIO6rgl291T88-9jreQ", "youtubeVideoId": "iv1TlVv6Gkc", "embeddable": true, "live": true, "liveSince": "2026-10-26T15:00:36Z"},
   {"id": "cnbcarabia", "name": "CNBC Arabia", "category": "economy", "youtubeChannelId": "UCsHdPPJXT-yKVTLGkn3DSvQ", "youtubeVideoId": "OLbqCS3OrPM", "embeddable": true, "live": true, "liveSince": "2026-07-29T13:35:19Z", "languages": ["ar"]},
   {"id": "alarabiyabusiness", "name": "Al Arabiya Business", "category": "economy", "youtubeChannelId": "UC0mthbFRIm_uYkkzMX09sJw", "youtubeVideoId": "27TJ45U-HJ8", "embeddable": true, "live": true, "liveSince": "2026-10-05T06:10:44Z", "languages": ["ar"]},
   {"id": "adsports", "name": "AD Sports", "category": "sports", "youtubeChannelId": "UCF8Fpc7bPHC8Jrflci-mUiQ", "youtubeVideoId": "h34naGzRweE", "embeddable": true, "live": false},
