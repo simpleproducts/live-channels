@@ -5,7 +5,7 @@
  "channels": [
   {"id": "skynews", "name": "Sky News", "category": "news", "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ", "youtubeVideoId": "9pQVTX-QTpI", "embeddable": true, "live": false},
   {"id": "bbcnews", "name": "BBC News", "category": "news", "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA", "youtubeVideoId": "UmPm6KopKnI", "embeddable": true, "live": false},
-  {"id": "gbnews", "name": "GB News", "category": "news", "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ", "youtubeVideoId": "oLdmasjySCo", "embeddable": true, "live": true, "liveSince": "2026-10-25T19:00:50Z"},
+  {"id": "gbnews", "name": "GB News", "category": "news", "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ", "youtubeVideoId": "oLdmasjySCo", "embeddable": true, "live": false},
   {"id": "reuters", "name": "Reuters", "category": "news", "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ", "youtubeVideoId": "Hpj1gJIaHOo", "embeddable": true, "live": false},
   {"id": "talktv", "name": "TalkTV", "category": "news", "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA", "youtubeVideoId": "DdE2VIu8N0Q", "embeddable": true, "live": false},
   {"id": "bbcnewsarabic", "name": "BBC News Arabic", "category": "news", "youtubeChannelId": "UCelk6aHijZq-GJBBB9YpReA", "youtubeVideoId": "O1pGmVtj2Y8", "embeddable": true, "live": true, "liveSince": "2026-01-08T12:30:32Z", "languages": ["ar"], "wikidata": "Q973341"},

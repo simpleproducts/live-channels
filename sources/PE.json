@@ -16,7 +16,7 @@
   {"id": "latinatv", "name": "Latina Televisión", "category": "broadcast", "youtubeChannelId": "UC3rDtLrcgr3JS3_3JOW4BAw", "youtubeVideoId": "tHZdPIHpJKg", "embeddable": true, "live": false, "wikidata": "Q967752"},
   {"id": "americatv", "name": "América Televisión", "category": "broadcast", "youtubeChannelId": "UCPhm2I2wk4vqjENwhn3px8A", "live": false, "wikidata": "Q2530659"},
   {"id": "congreso", "name": "Congreso del Perú", "category": "government", "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw", "youtubeVideoId": "l8UbrJtD6oQ", "embeddable": true, "live": false, "wikidata": "Q1357543"},
-  {"id": "exitosa", "name": "Exitosa", "category": "radio", "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg", "youtubeVideoId": "aKEwW30a8z0", "embeddable": true, "live": true, "liveSince": "2026-10-25T20:36:28Z"},
+  {"id": "exitosa", "name": "Exitosa", "category": "radio", "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg", "youtubeVideoId": "aKEwW30a8z0", "embeddable": true, "live": false},
   {"id": "radionacional", "name": "Radio Nacional", "category": "radio", "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow", "youtubeVideoId": "OOxEaWe3jHY", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "lazona", "name": "La Zona", "category": "radio", "youtubeChannelId": "UCycOAX62Pwuo-g_OSbh5hyw", "youtubeVideoId": "Prg7ekJkT2s", "embeddable": true, "live": false, "languages": ["es"]}
  ]

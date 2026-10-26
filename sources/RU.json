@@ -3,7 +3,7 @@
  "languages": ["ru"],
  "defaultTiles": [],
  "channels": [
-  {"id": "tvrain", "name": "Дождь (TV Rain)", "category": "news", "youtubeChannelId": "UCdubelOloxR3wzwJG9x8YqQ", "youtubeVideoId": "G7PtpnZGF_I", "embeddable": true, "live": true, "liveSince": "2026-10-25T19:56:11Z"},
+  {"id": "tvrain", "name": "Дождь (TV Rain)", "category": "news", "youtubeChannelId": "UCdubelOloxR3wzwJG9x8YqQ", "youtubeVideoId": "G7PtpnZGF_I", "embeddable": true, "live": false},
   {"id": "currenttime", "name": "Настоящее Время (Current Time)", "category": "news", "youtubeChannelId": "UCBG57608Hukev3d0d-gvLhQ", "youtubeVideoId": "t9Ilev-uk4w", "embeddable": true, "live": true, "liveSince": "2023-06-24T11:12:08Z"},
   {"id": "euronewsru", "name": "Euronews по-русски", "category": "news", "youtubeChannelId": "UCFzJjgVicCtFxJ5B0P_ei8A", "youtubeVideoId": "lwYzwdBiaho", "embeddable": true, "live": true, "liveSince": "2022-12-14T11:45:38Z", "languages": ["ru"]},
   {"id": "popularpolitics", "name": "Популярная политика", "category": "news", "youtubeChannelId": "UC7Elc-kLydl-NAV4g204pDQ", "live": false, "languages": ["ru"]},

@@ -11,7 +11,7 @@
   {"id": "franceinfo", "name": "franceinfo", "category": "news", "youtubeChannelId": "UCO6K_kkdP-lnSCiO3tPx7WA", "youtubeVideoId": "NG7ZX42nZKc", "embeddable": true, "live": true, "liveSince": "2025-10-14T03:02:58Z"},
   {"id": "bfmtv", "name": "BFMTV", "category": "news", "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g", "youtubeVideoId": "VEGNHZTr4Eg", "embeddable": true, "live": false},
   {"id": "france24ar", "name": "France 24 Arabic", "category": "news", "youtubeChannelId": "UCdTyuXgmJkG_O8_75eqej-w", "youtubeVideoId": "93g513Uth98", "embeddable": true, "live": true, "liveSince": "2026-05-27T10:26:26Z", "languages": ["ar"]},
-  {"id": "tv5monde", "name": "TV5MONDE Info", "category": "news", "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg", "youtubeVideoId": "PQfLjksNTto", "embeddable": true, "live": true, "liveSince": "2026-10-25T20:30:03Z"},
+  {"id": "tv5monde", "name": "TV5MONDE Info", "category": "news", "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg", "youtubeVideoId": "PQfLjksNTto", "embeddable": true, "live": false},
   {"id": "bfmbusiness", "name": "BFM Business", "category": "economy", "youtubeChannelId": "UCUsBMOIUl_ad6JUOC16DpmQ", "live": false, "wikidata": "Q2877016"},
   {"id": "assemblee", "name": "Assemblée nationale", "category": "government", "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw", "youtubeVideoId": "N_FGR7WemH4", "embeddable": true, "live": false},
   {"id": "lcp", "name": "LCP - Assemblée nationale", "category": "government", "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ", "youtubeVideoId": "Q-K906fnPYs", "embeddable": true, "live": false, "wikidata": "Q3205960"},

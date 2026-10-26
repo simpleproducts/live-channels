@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026102520,
+ "version": 2026102600,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
@@ -170,7 +170,7 @@
    "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
    "youtubeVideoId": "wvz5226aXNk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7806547",
    "description": {
     "en": "English News Channel of India",
@@ -464,7 +464,7 @@
    "youtubeChannelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
    "youtubeVideoId": "VSoJJZ6ud5Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20647988",
    "description": {
     "en": "Indian, English-language news channel"
@@ -607,7 +607,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3uJIdRFTGgLWrUziaHbzrg",
-   "youtubeVideoId": "jxud0vKDkCk",
+   "youtubeVideoId": "wS7Ld1W8Kl0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6953329",

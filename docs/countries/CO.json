@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102520,
+ "version": 2026102600,
  "defaultTiles": [
   "co.noticiascaracol",
   "co.noticiasrcn",
@@ -9,9 +9,7 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.canalcapital",
-  "co.caracolradio",
-  "co.lafm"
+  "co.canalcapital"
  ],
  "channels": [
   {
@@ -457,7 +455,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "kqZjwMf8h2A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -486,7 +484,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "kS_iBCwsk8o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",

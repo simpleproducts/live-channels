@@ -1,17 +1,13 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102520,
+ "version": 2026102600,
  "defaultTiles": [
   "cl.24horas",
-  "cl.chvnoticias",
   "cl.t13",
   "cl.meganoticias",
   "cl.cnnchile",
-  "cl.tvn",
-  "cl.cooperativa",
-  "cl.chilevision",
-  "cl.adn"
+  "cl.cooperativa"
  ],
  "channels": [
   {
@@ -69,7 +65,7 @@
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
    "youtubeVideoId": "mYpre7Bg7xE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -170,7 +166,7 @@
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
    "youtubeVideoId": "yhe94A9pU6c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597933",
    "description": {
     "en": "Chilean public service broadcaster",
@@ -226,7 +222,7 @@
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
    "youtubeVideoId": "Q5uC5-3vXZA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -506,7 +502,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "shxObNJeUq4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -569,7 +565,7 @@
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
    "youtubeVideoId": "BvCL9l5pD6E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

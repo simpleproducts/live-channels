@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102520,
+ "version": 2026102600,
  "defaultTiles": [
   "pe.latina",
-  "pe.larepublica",
-  "pe.exitosa"
+  "pe.larepublica"
  ],
  "channels": [
   {
@@ -399,7 +398,7 @@
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
    "youtubeVideoId": "aKEwW30a8z0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",

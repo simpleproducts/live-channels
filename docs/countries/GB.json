@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102520,
+ "version": 2026102600,
  "defaultTiles": [
-  "gb.gbnews",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -130,7 +129,7 @@
    "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
    "youtubeVideoId": "oLdmasjySCo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q100300992",
    "description": {
     "en": "British television news channel",

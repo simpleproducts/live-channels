@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026102520,
+ "version": 2026102600,
  "defaultTiles": [
   "br.recordnews",
   "br.cnnbrasil",
   "br.jovempan",
-  "br.bandjornalismo",
   "br.sbtnews",
   "br.uol",
   "br.metropoles",
   "br.canalgov",
-  "br.gaucha"
+  "br.gaucha",
+  "br.tvbrasil"
  ],
  "channels": [
   {
@@ -118,7 +118,7 @@
    "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA",
    "youtubeVideoId": "y1DWEywGD2k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q137910166",
    "description": {
     "en": "Official Band Journalism channel with exclusive live streams, full news programs, expert commentary, special reports, and on-demand content from Band TV."
@@ -466,7 +466,7 @@
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
    "youtubeVideoId": "V9HIe0Z83oY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7385857",
    "description": {
     "en": "Brazilian news radio network",

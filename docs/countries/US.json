@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102520,
+ "version": 2026102600,
  "defaultTiles": [
   "us.cnn",
   "us.nbcnews",
   "us.foxweather",
   "us.livenow",
   "us.newsmax",
-  "us.foxnews",
-  "us.msnow",
   "us.telemundo",
-  "us.cnnee"
+  "us.cnnee",
+  "us.bloomberg",
+  "us.yahoofinance"
  ],
  "channels": [
   {
@@ -549,7 +549,7 @@
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
    "youtubeVideoId": "CkM_CFtIDUs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -605,7 +605,7 @@
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
    "youtubeVideoId": "0GyuJB9N91U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -745,7 +745,7 @@
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
    "youtubeVideoId": "uFsPmEWW_A4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",

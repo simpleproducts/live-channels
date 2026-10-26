@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102520,
+ "version": 2026102600,
  "defaultTiles": [
   "jp.ntvnews",
-  "jp.weathernews",
-  "jp.ann",
   "jp.tbs",
   "jp.nhkworld",
   "jp.htb",
   "jp.satv",
   "jp.ytv",
-  "jp.ktv"
+  "jp.ktv",
+  "jp.abctv",
+  "jp.chukyo"
  ],
  "channels": [
   {
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
    "youtubeVideoId": "GaJAvSb97SU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q843772",
    "description": {
     "en": "Japanese television network",
@@ -191,7 +191,7 @@
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
    "youtubeVideoId": "4kCYuKxbP8Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q492412",
    "description": {
     "en": "Commercial weather service company based in Chiba, Japan.",
@@ -610,7 +610,7 @@
    "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q",
    "youtubeVideoId": "XpDl_DlAq0I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q843448",
    "description": {
     "en": "radio station in Tokyo",
