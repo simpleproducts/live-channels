@@ -32,6 +32,342 @@
    "title": {"en": "Arabic news", "es": "Noticias en árabe", "zh-Hans": "阿拉伯语新闻", "ja": "アラビア語ニュース", "fr": "Infos en arabe", "pt-BR": "Notícias em árabe", "ko": "아랍어 뉴스", "it": "Notizie in arabo", "ru": "Новости на арабском", "zh-Hant": "阿拉伯語新聞", "ar": "أخبار بالعربية", "tr": "Arapça haberler", "nl": "Nieuws in het Arabisch", "pl": "Wiadomości po arabsku", "sv": "Nyheter på arabiska", "id": "Berita berbahasa Arab", "de": "Nachrichten auf Arabisch", "ms": "Berita dalam bahasa Arab"},
    "tiles": ["qa.aja", "ae.alarabiya", "ae.skynewsarabia", "ae.alhadath", "sa.asharq", "gb.bbcnewsarabic", "fr.france24ar", "eg.alqahera", "qa.alaraby"],
    "featured": true
+  },
+  {
+   "id": "il-election-2026",
+   "title": {"en": "Israel election 2026", "es": "Elecciones en Israel 2026", "zh-Hans": "2026 以色列大选", "ja": "2026年 イスラエル総選挙", "fr": "Élections en Israël 2026", "pt-BR": "Eleições em Israel 2026", "ko": "2026 이스라엘 총선", "it": "Elezioni in Israele 2026", "ru": "Выборы в Израиле 2026", "zh-Hant": "2026 以色列大選", "ar": "الانتخابات الإسرائيلية 2026", "tr": "2026 İsrail seçimleri", "nl": "Verkiezingen in Israël 2026", "pl": "Wybory w Izraelu 2026", "sv": "Valet i Israel 2026", "id": "Pemilu Israel 2026", "de": "Wahl in Israel 2026", "ms": "Pilihan raya Israel 2026"},
+   "tiles": ["il.kan11", "il.i24he", "il.c14", "il.i24en", "il.knesset", "il.i24ar", "qa.aje", "gb.skynews", "fr.france24en"],
+   "countries": ["IL"],
+   "start": "2026-10-27T05:00:00Z",
+   "end": "2026-10-28T05:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "gb-budget-2026",
+   "title": {"en": "UK Budget 2026", "es": "Presupuestos del Reino Unido 2026", "zh-Hans": "2026 英国预算案", "ja": "2026年 英国予算発表", "fr": "Budget britannique 2026", "pt-BR": "Orçamento do Reino Unido 2026", "ko": "2026 영국 예산안 발표", "it": "Bilancio del Regno Unito 2026", "ru": "Бюджет Великобритании 2026", "zh-Hant": "2026 英國預算案", "ar": "الميزانية البريطانية 2026", "tr": "2026 Birleşik Krallık bütçesi", "nl": "Britse begroting 2026", "pl": "Budżet Wielkiej Brytanii 2026", "sv": "Storbritanniens budget 2026", "id": "Anggaran Inggris 2026", "de": "Britischer Haushalt 2026", "ms": "Belanjawan UK 2026"},
+   "tiles": ["gb.parliament", "gb.bbcnews", "gb.skynews", "gb.gbnews", "gb.itvnews", "gb.talktv", "gb.reuters", "gb.telegraph", "gb.independent"],
+   "countries": ["GB"],
+   "start": "2026-10-28T11:00:00Z",
+   "end": "2026-10-28T16:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "tr-republic-day-2026",
+   "title": {"en": "Turkey's Republic Day", "es": "Día de la República en Turquía", "zh-Hans": "土耳其共和国日", "ja": "トルコ共和国記念日", "fr": "Fête de la République en Turquie", "pt-BR": "Dia da República na Turquia", "ko": "튀르키예 공화국의 날", "it": "Festa della Repubblica in Turchia", "ru": "День Республики в Турции", "zh-Hant": "土耳其共和國日", "ar": "يوم الجمهورية في تركيا", "tr": "Cumhuriyet Bayramı", "nl": "Dag van de Republiek in Turkije", "pl": "Święto Republiki w Turcji", "sv": "Republikens dag i Turkiet", "id": "Hari Republik Turki", "de": "Tag der Republik in der Türkei", "ms": "Hari Republik Turkiye"},
+   "tiles": ["tr.trthaber", "tr.ahaber", "tr.ntv", "tr.haberturk", "tr.cnnturk", "tr.tgrthaber", "tr.haberglobal", "tr.24tv", "tr.trtworld"],
+   "countries": ["TR"],
+   "start": "2026-10-29T07:00:00Z",
+   "end": "2026-10-29T10:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "mx-dia-de-muertos-2026",
+   "title": {"en": "Day of the Dead parade, Mexico City", "es": "Desfile de Día de Muertos en la CDMX", "zh-Hans": "墨西哥城亡灵节大游行", "ja": "メキシコシティ 死者の日パレード", "fr": "Défilé du Jour des morts à Mexico", "pt-BR": "Desfile do Dia dos Mortos na Cidade do México", "ko": "멕시코시티 망자의 날 퍼레이드", "it": "Parata del Giorno dei Morti a Città del Messico", "ru": "Парад Дня мёртвых в Мехико", "zh-Hant": "墨西哥城亡靈節大遊行", "ar": "موكب يوم الموتى في مكسيكو سيتي", "tr": "Mexico City Ölüler Günü geçidi", "nl": "Dag van de Doden-parade in Mexico-Stad", "pl": "Parada Dnia Zmarłych w Meksyku", "sv": "De dödas dag-paraden i Mexico City", "id": "Parade Hari Orang Mati di Kota Meksiko", "de": "Parade zum Tag der Toten in Mexiko-Stadt", "ms": "Perarakan Hari Orang Mati di Mexico City"},
+   "tiles": ["mx.milenio", "mx.nmas", "mx.aztecanoticias", "mx.adnnoticias", "mx.unotv", "mx.latinus", "mx.imagennoticias", "mx.excelsior", "mx.heraldo"],
+   "countries": ["MX"],
+   "start": "2026-10-31T19:30:00Z",
+   "end": "2026-11-01T00:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "za-elections-2026",
+   "title": {"en": "South Africa local elections 2026", "es": "Elecciones municipales en Sudáfrica 2026", "zh-Hans": "2026 南非地方选举", "ja": "2026年 南アフリカ地方選挙", "fr": "Élections municipales en Afrique du Sud 2026", "pt-BR": "Eleições municipais na África do Sul 2026", "ko": "2026 남아프리카공화국 지방선거", "it": "Elezioni locali in Sudafrica 2026", "ru": "Местные выборы в ЮАР 2026", "zh-Hant": "2026 南非地方選舉", "ar": "الانتخابات المحلية في جنوب أفريقيا 2026", "tr": "2026 Güney Afrika yerel seçimleri", "nl": "Lokale verkiezingen in Zuid-Afrika 2026", "pl": "Wybory samorządowe w RPA 2026", "sv": "Lokalvalen i Sydafrika 2026", "id": "Pemilu lokal Afrika Selatan 2026", "de": "Kommunalwahlen in Südafrika 2026", "ms": "Pilihan raya tempatan Afrika Selatan 2026"},
+   "tiles": ["za.sabcnews", "za.enca", "za.newzroom", "za.news24", "za.parliament", "qa.aje", "cn.cgtnafrica", "ng.arisenews", "ng.channelstv"],
+   "countries": ["ZA"],
+   "start": "2026-11-04T05:00:00Z",
+   "end": "2026-11-05T22:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ca-budget-2026",
+   "title": {"en": "Canada's federal budget 2026", "es": "Presupuesto federal de Canadá 2026", "zh-Hans": "2026 加拿大联邦预算", "ja": "2026年 カナダ連邦予算", "fr": "Budget fédéral du Canada 2026", "pt-BR": "Orçamento federal do Canadá 2026", "ko": "2026 캐나다 연방 예산안", "it": "Bilancio federale del Canada 2026", "ru": "Федеральный бюджет Канады 2026", "zh-Hant": "2026 加拿大聯邦預算", "ar": "الميزانية الفيدرالية الكندية 2026", "tr": "2026 Kanada federal bütçesi", "nl": "Canadese federale begroting 2026", "pl": "Budżet federalny Kanady 2026", "sv": "Kanadas federala budget 2026", "id": "Anggaran federal Kanada 2026", "de": "Kanadas Bundeshaushalt 2026", "ms": "Belanjawan persekutuan Kanada 2026"},
+   "tiles": ["ca.cbcnews", "ca.ctvnews", "ca.globalnews", "ca.cpac", "ca.citynews", "ca.radiocanada", "ca.noovo", "ca.bnn"],
+   "countries": ["CA"],
+   "start": "2026-11-05T19:00:00Z",
+   "end": "2026-11-06T01:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "pope-leo-uruguay-2026",
+   "title": {"en": "Pope Leo XIV in Uruguay", "es": "El papa León XIV en Uruguay", "zh-Hans": "教宗良十四世访问乌拉圭", "ja": "教皇レオ14世 ウルグアイ訪問", "fr": "Le pape Léon XIV en Uruguay", "pt-BR": "Papa Leão XIV no Uruguai", "ko": "교황 레오 14세 우루과이 방문", "it": "Papa Leone XIV in Uruguay", "ru": "Папа Лев XIV в Уругвае", "zh-Hant": "教宗良十四世訪問烏拉圭", "ar": "البابا لاوُن الرابع عشر في الأوروغواي", "tr": "Papa XIV. Leo Uruguay'da", "nl": "Paus Leo XIV in Uruguay", "pl": "Papież Leon XIV w Urugwaju", "sv": "Påven Leo XIV i Uruguay", "id": "Paus Leo XIV di Uruguay", "de": "Papst Leo XIV. in Uruguay", "ms": "Paus Leo XIV di Uruguay"},
+   "tiles": ["uy.tnu", "uy.canal10", "uy.teledoce", "uy.vtv", "uy.elobservadoruy", "uy.ladiaria", "ar.tvpublica", "ar.tn", "ar.c5n"],
+   "countries": ["UY"],
+   "start": "2026-11-06T19:00:00Z",
+   "end": "2026-11-08T18:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "cl-teleton-2026",
+   "title": {"en": "Teletón Chile 2026", "es": "Teletón 2026", "zh-Hans": "2026 智利慈善马拉松晚会 Teletón", "ja": "チリ・テレトン 2026", "fr": "Téléthon chilien 2026 (Teletón)", "pt-BR": "Teletón Chile 2026", "ko": "2026 칠레 텔레톤", "it": "Teletón Cile 2026", "ru": "Телемарафон Teletón в Чили 2026", "zh-Hant": "2026 智利慈善馬拉松晚會 Teletón", "ar": "تيليتون تشيلي 2026", "tr": "2026 Şili Teletón", "nl": "Teletón Chili 2026", "pl": "Teletón w Chile 2026", "sv": "Teletón i Chile 2026", "id": "Teletón Chili 2026", "de": "Teletón Chile 2026", "ms": "Teletón Chile 2026"},
+   "tiles": ["cl.24horas", "cl.t13", "cl.tvn", "cl.canal13", "cl.mega", "cl.chilevision", "cl.meganoticias", "cl.chvnoticias", "cl.biobio"],
+   "countries": ["CL"],
+   "start": "2026-11-07T01:00:00Z",
+   "end": "2026-11-08T04:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "in-deepotsav-2026",
+   "title": {"en": "Ayodhya Deepotsav 2026", "es": "Deepotsav de Ayodhya 2026", "zh-Hans": "2026 阿约提亚排灯节灯会", "ja": "2026年 アヨーディヤーの灯明祭（ディーポトサヴ）", "fr": "Deepotsav d'Ayodhya 2026", "pt-BR": "Deepotsav de Ayodhya 2026", "ko": "2026 아요디아 디포차브 등불 축제", "it": "Deepotsav di Ayodhya 2026", "ru": "Дипотсав в Айодхье 2026", "zh-Hant": "2026 阿約提亞排燈節燈會", "ar": "مهرجان ديبوتساف في أيوديا 2026", "tr": "2026 Ayodhya Deepotsav", "nl": "Deepotsav in Ayodhya 2026", "pl": "Deepotsav w Ajodhji 2026", "sv": "Deepotsav i Ayodhya 2026", "id": "Deepotsav Ayodhya 2026", "de": "Deepotsav in Ayodhya 2026", "ms": "Deepotsav Ayodhya 2026"},
+   "tiles": ["in.aajtak", "in.abpnews", "in.zeenews", "in.indiatv", "in.news18india", "in.ddnews", "in.ndtvindia", "in.tv9bharatvarsh", "in.timesnow"],
+   "countries": ["IN"],
+   "start": "2026-11-07T11:00:00Z",
+   "end": "2026-11-07T16:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "gb-remembrance-2026",
+   "title": {"en": "Remembrance Sunday at the Cenotaph", "es": "Domingo del Recuerdo en el Cenotafio", "zh-Hans": "阵亡将士纪念日（伦敦和平纪念碑）", "ja": "英国リメンブランス・サンデー（セノタフ）", "fr": "Dimanche du Souvenir au Cénotaphe", "pt-BR": "Domingo da Lembrança no Cenotáfio", "ko": "영국 현충일 추모식 (세노타프)", "it": "Remembrance Sunday al Cenotafio", "ru": "Воскресенье памяти у Кенотафа", "zh-Hant": "陣亡將士紀念日（倫敦和平紀念碑）", "ar": "أحد الذكرى عند النصب التذكاري في لندن", "tr": "Cenotaph'ta Anma Pazarı", "nl": "Remembrance Sunday bij de Cenotaph", "pl": "Niedziela Pamięci przy Cenotafie", "sv": "Remembrance Sunday vid Cenotaph", "id": "Minggu Peringatan di Cenotaph", "de": "Remembrance Sunday am Cenotaph", "ms": "Ahad Peringatan di Cenotaph"},
+   "tiles": ["gb.bbcnews", "gb.skynews", "gb.itvnews", "gb.gbnews", "gb.talktv", "gb.reuters", "gb.independent", "gb.telegraph", "gb.guardian"],
+   "countries": ["GB"],
+   "start": "2026-11-08T10:00:00Z",
+   "end": "2026-11-08T12:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "pope-leo-argentina-2026",
+   "title": {"en": "Pope Leo XIV in Argentina", "es": "El papa León XIV en la Argentina", "zh-Hans": "教宗良十四世访问阿根廷", "ja": "教皇レオ14世 アルゼンチン訪問", "fr": "Le pape Léon XIV en Argentine", "pt-BR": "Papa Leão XIV na Argentina", "ko": "교황 레오 14세 아르헨티나 방문", "it": "Papa Leone XIV in Argentina", "ru": "Папа Лев XIV в Аргентине", "zh-Hant": "教宗良十四世訪問阿根廷", "ar": "البابا لاوُن الرابع عشر في الأرجنتين", "tr": "Papa XIV. Leo Arjantin'de", "nl": "Paus Leo XIV in Argentinië", "pl": "Papież Leon XIV w Argentynie", "sv": "Påven Leo XIV i Argentina", "id": "Paus Leo XIV di Argentina", "de": "Papst Leo XIV. in Argentinien", "ms": "Paus Leo XIV di Argentina"},
+   "tiles": ["ar.tvpublica", "ar.tn", "ar.c5n", "ar.lnmas", "ar.a24", "ar.cronica", "ar.infobae", "ar.canal26", "ar.telefe"],
+   "countries": ["AR"],
+   "start": "2026-11-08T19:00:00Z",
+   "end": "2026-11-11T17:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "tr-ataturk-2026",
+   "title": {"en": "Atatürk Memorial Day", "es": "Día de Recuerdo de Atatürk", "zh-Hans": "阿塔图尔克纪念日", "ja": "アタテュルク追悼の日", "fr": "Journée de commémoration d'Atatürk", "pt-BR": "Dia em memória de Atatürk", "ko": "아타튀르크 추모일", "it": "Giornata in memoria di Atatürk", "ru": "День памяти Ататюрка", "zh-Hant": "阿塔圖爾克紀念日", "ar": "ذكرى رحيل أتاتورك", "tr": "Atatürk'ü Anma Günü", "nl": "Atatürk-herdenkingsdag", "pl": "Dzień Pamięci Atatürka", "sv": "Minnesdagen för Atatürk", "id": "Hari Peringatan Atatürk", "de": "Atatürk-Gedenktag", "ms": "Hari Peringatan Atatürk"},
+   "tiles": ["tr.trthaber", "tr.ahaber", "tr.ntv", "tr.haberturk", "tr.cnnturk", "tr.tgrthaber", "tr.haberglobal", "tr.24tv", "tr.trtworld"],
+   "countries": ["TR"],
+   "start": "2026-11-10T05:45:00Z",
+   "end": "2026-11-10T07:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "fr-armistice-2026",
+   "title": {"en": "Armistice Day in Paris", "es": "Día del Armisticio en París", "zh-Hans": "巴黎停战纪念日", "ja": "パリ 第一次世界大戦休戦記念日", "fr": "Commémoration du 11-Novembre à Paris", "pt-BR": "Dia do Armistício em Paris", "ko": "파리 휴전기념일", "it": "Giorno dell'Armistizio a Parigi", "ru": "День перемирия в Париже", "zh-Hant": "巴黎停戰紀念日", "ar": "ذكرى الهدنة في باريس", "tr": "Paris'te Mütareke Günü", "nl": "Wapenstilstandsdag in Parijs", "pl": "Dzień Zawieszenia Broni w Paryżu", "sv": "Vapenstilleståndsdagen i Paris", "id": "Hari Gencatan Senjata di Paris", "de": "Waffenstillstandstag in Paris", "ms": "Hari Gencatan Senjata di Paris"},
+   "tiles": ["fr.franceinfo", "fr.bfmtv", "fr.france24", "fr.euronewsfr", "fr.tv5monde", "fr.lcp", "fr.publicsenat"],
+   "countries": ["FR"],
+   "start": "2026-11-11T09:30:00Z",
+   "end": "2026-11-11T11:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "pl-independence-2026",
+   "title": {"en": "Poland's Independence Day", "es": "Día de la Independencia de Polonia", "zh-Hans": "波兰独立日", "ja": "ポーランド独立記念日", "fr": "Fête de l'indépendance de la Pologne", "pt-BR": "Dia da Independência da Polônia", "ko": "폴란드 독립기념일", "it": "Festa dell'Indipendenza in Polonia", "ru": "День независимости Польши", "zh-Hant": "波蘭獨立日", "ar": "يوم استقلال بولندا", "tr": "Polonya Bağımsızlık Günü", "nl": "Onafhankelijkheidsdag in Polen", "pl": "Narodowe Święto Niepodległości", "sv": "Polens självständighetsdag", "id": "Hari Kemerdekaan Polandia", "de": "Polens Unabhängigkeitstag", "ms": "Hari Kemerdekaan Poland"},
+   "tiles": ["pl.tvpinfo", "pl.polsatnews", "pl.republika", "pl.wpolsce24", "pl.tvpworld", "pl.kanalzero", "pl.sejm"],
+   "countries": ["PL"],
+   "start": "2026-11-11T10:30:00Z",
+   "end": "2026-11-11T17:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ca-remembrance-2026",
+   "title": {"en": "Remembrance Day in Ottawa", "es": "Día del Recuerdo en Ottawa", "zh-Hans": "渥太华阵亡将士纪念日", "ja": "オタワ リメンブランス・デー", "fr": "Jour du Souvenir à Ottawa", "pt-BR": "Dia da Lembrança em Ottawa", "ko": "오타와 현충일 기념식", "it": "Remembrance Day a Ottawa", "ru": "День памяти в Оттаве", "zh-Hant": "渥太華陣亡將士紀念日", "ar": "يوم الذكرى في أوتاوا", "tr": "Ottawa'da Anma Günü", "nl": "Remembrance Day in Ottawa", "pl": "Dzień Pamięci w Ottawie", "sv": "Remembrance Day i Ottawa", "id": "Hari Peringatan di Ottawa", "de": "Remembrance Day in Ottawa", "ms": "Hari Peringatan di Ottawa"},
+   "tiles": ["ca.cbcnews", "ca.ctvnews", "ca.globalnews", "ca.cpac", "ca.citynews", "ca.radiocanada"],
+   "countries": ["CA"],
+   "start": "2026-11-11T15:00:00Z",
+   "end": "2026-11-11T17:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "pope-leo-peru-2026",
+   "title": {"en": "Pope Leo XIV in Peru", "es": "El papa León XIV en el Perú", "zh-Hans": "教宗良十四世访问秘鲁", "ja": "教皇レオ14世 ペルー訪問", "fr": "Le pape Léon XIV au Pérou", "pt-BR": "Papa Leão XIV no Peru", "ko": "교황 레오 14세 페루 방문", "it": "Papa Leone XIV in Perù", "ru": "Папа Лев XIV в Перу", "zh-Hant": "教宗良十四世訪問秘魯", "ar": "البابا لاوُن الرابع عشر في بيرو", "tr": "Papa XIV. Leo Peru'da", "nl": "Paus Leo XIV in Peru", "pl": "Papież Leon XIV w Peru", "sv": "Påven Leo XIV i Peru", "id": "Paus Leo XIV di Peru", "de": "Papst Leo XIV. in Peru", "ms": "Paus Leo XIV di Peru"},
+   "tiles": ["pe.tvperunoticias", "pe.tvperu", "pe.rpp", "pe.latina", "pe.atv", "pe.larepublica", "pe.willax", "pe.panamericana", "pe.americatv"],
+   "countries": ["PE"],
+   "start": "2026-11-11T22:00:00Z",
+   "end": "2026-11-16T19:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "asean-summit-2026",
+   "title": {"en": "ASEAN Summit in Manila", "es": "Cumbre de la ASEAN en Manila", "zh-Hans": "马尼拉东盟峰会", "ja": "マニラ ASEAN首脳会議", "fr": "Sommet de l'ASEAN à Manille", "pt-BR": "Cúpula da ASEAN em Manila", "ko": "마닐라 아세안 정상회의", "it": "Vertice ASEAN a Manila", "ru": "Саммит АСЕАН в Маниле", "zh-Hant": "馬尼拉東協峰會", "ar": "قمة آسيان في مانيلا", "tr": "Manila'da ASEAN Zirvesi", "nl": "ASEAN-top in Manilla", "pl": "Szczyt ASEAN w Manili", "sv": "ASEAN-toppmötet i Manila", "id": "KTT ASEAN di Manila", "de": "ASEAN-Gipfel in Manila", "ms": "Sidang Kemuncak ASEAN di Manila"},
+   "tiles": ["ph.ptv", "ph.abscbn", "ph.gma", "ph.anc", "ph.news5", "ph.untv", "ph.oneph", "ph.inquirer", "ph.rappler"],
+   "countries": ["PH"],
+   "start": "2026-11-16T00:00:00Z",
+   "end": "2026-11-18T13:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "kr-suneung-2026",
+   "title": {"en": "Korea's college entrance exam day (Suneung)", "es": "Día del examen de acceso a la universidad en Corea (Suneung)", "zh-Hans": "韩国高考日（修能考试）", "ja": "韓国 大学修学能力試験の日", "fr": "Jour du bac coréen (Suneung)", "pt-BR": "Dia do vestibular coreano (Suneung)", "ko": "2027학년도 대학수학능력시험", "it": "Il giorno dell'esame di maturità coreano (Suneung)", "ru": "День корейского вступительного экзамена (сунын)", "zh-Hant": "韓國大學修學能力考試日", "ar": "يوم امتحان القبول الجامعي في كوريا (سونونغ)", "tr": "Kore'de üniversite sınavı günü (Suneung)", "nl": "Dag van het Koreaanse toelatingsexamen (Suneung)", "pl": "Dzień koreańskiego egzaminu wstępnego (Suneung)", "sv": "Koreas högskoleprovsdag (Suneung)", "id": "Hari ujian masuk universitas Korea (Suneung)", "de": "Koreas Hochschulaufnahmeprüfung (Suneung)", "ms": "Hari peperiksaan masuk universiti Korea (Suneung)"},
+   "tiles": ["kr.ytn", "kr.yonhap", "kr.kbs", "kr.mbc", "kr.sbs", "kr.jtbc", "kr.channela", "kr.tvchosun", "kr.mbn"],
+   "countries": ["KR"],
+   "start": "2026-11-18T22:30:00Z",
+   "end": "2026-11-19T09:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "mx-revolution-day-2026",
+   "title": {"en": "Mexico's Revolution Day parade", "es": "Desfile del Día de la Revolución", "zh-Hans": "墨西哥革命纪念日阅兵", "ja": "メキシコ革命記念日パレード", "fr": "Défilé du Jour de la Révolution au Mexique", "pt-BR": "Desfile do Dia da Revolução no México", "ko": "멕시코 혁명기념일 퍼레이드", "it": "Parata del Giorno della Rivoluzione in Messico", "ru": "Парад в День революции в Мексике", "zh-Hant": "墨西哥革命紀念日閱兵", "ar": "عرض يوم الثورة في المكسيك", "tr": "Meksika Devrim Günü geçidi", "nl": "Parade op de Dag van de Revolutie in Mexico", "pl": "Parada w Dniu Rewolucji w Meksyku", "sv": "Revolutionsdagens parad i Mexiko", "id": "Parade Hari Revolusi Meksiko", "de": "Parade zum Tag der Revolution in Mexiko", "ms": "Perarakan Hari Revolusi Mexico"},
+   "tiles": ["mx.gobmx", "mx.milenio", "mx.nmas", "mx.aztecanoticias", "mx.adnnoticias", "mx.unotv", "mx.latinus", "mx.canal14", "mx.canalonce"],
+   "countries": ["MX"],
+   "start": "2026-11-20T15:45:00Z",
+   "end": "2026-11-20T19:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "pk-shenzhou-24-2026",
+   "title": {"en": "Pakistan's first astronaut: Shenzhou-24 launch", "es": "El primer astronauta de Pakistán: lanzamiento de la Shenzhou-24", "zh-Hans": "神舟二十四号发射：巴基斯坦首位航天员", "ja": "神舟24号打ち上げ パキスタン初の宇宙飛行士", "fr": "Premier astronaute pakistanais : lancement de Shenzhou-24", "pt-BR": "Primeiro astronauta do Paquistão: lançamento da Shenzhou-24", "ko": "선저우 24호 발사: 파키스탄 첫 우주비행사", "it": "Il primo astronauta pakistano: lancio della Shenzhou-24", "ru": "Первый космонавт Пакистана: запуск «Шэньчжоу-24»", "zh-Hant": "神舟二十四號發射：巴基斯坦首位太空人", "ar": "أول رائد فضاء باكستاني: إطلاق شنتشو-24", "tr": "Pakistan'ın ilk astronotu: Shenzhou-24 fırlatışı", "nl": "Eerste Pakistaanse astronaut: lancering van Shenzhou-24", "pl": "Pierwszy astronauta Pakistanu: start Shenzhou-24", "sv": "Pakistans första astronaut: uppskjutningen av Shenzhou-24", "id": "Astronaut pertama Pakistan: peluncuran Shenzhou-24", "de": "Pakistans erster Astronaut: Start von Shenzhou-24", "ms": "Angkasawan pertama Pakistan: pelancaran Shenzhou-24"},
+   "tiles": ["pk.ptvnews", "pk.geonews", "pk.arynews", "pk.dunyanews", "pk.samaa", "pk.expressnews", "pk.92news", "pk.dawnnews", "cn.cgtn"],
+   "countries": ["PK"],
+   "start": "2026-11-24T16:00:00Z",
+   "end": "2026-11-25T16:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "au-victoria-election-2026",
+   "title": {"en": "Victorian state election 2026", "es": "Elecciones en el estado de Victoria 2026", "zh-Hans": "2026 澳大利亚维多利亚州选举", "ja": "2026年 豪ビクトリア州選挙", "fr": "Élections dans l'État de Victoria 2026", "pt-BR": "Eleição estadual de Victoria 2026", "ko": "2026 호주 빅토리아주 선거", "it": "Elezioni nello stato di Victoria 2026", "ru": "Выборы в штате Виктория 2026", "zh-Hant": "2026 澳洲維多利亞州選舉", "ar": "انتخابات ولاية فيكتوريا 2026", "tr": "2026 Victoria eyalet seçimi", "nl": "Verkiezingen in de staat Victoria 2026", "pl": "Wybory stanowe w Wiktorii 2026", "sv": "Delstatsvalet i Victoria 2026", "id": "Pemilu negara bagian Victoria 2026", "de": "Wahl im Bundesstaat Victoria 2026", "ms": "Pilihan raya negeri Victoria 2026"},
+   "tiles": ["au.abcnews", "au.9news", "au.10news"],
+   "countries": ["AU"],
+   "start": "2026-11-28T06:30:00Z",
+   "end": "2026-11-28T14:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "es-election-2026",
+   "title": {"en": "Spain general election 2026", "es": "Elecciones generales 2026", "zh-Hans": "2026 西班牙大选", "ja": "2026年 スペイン総選挙", "fr": "Élections générales en Espagne 2026", "pt-BR": "Eleições gerais na Espanha 2026", "ko": "2026 스페인 총선", "it": "Elezioni generali in Spagna 2026", "ru": "Парламентские выборы в Испании 2026", "zh-Hant": "2026 西班牙大選", "ar": "الانتخابات العامة في إسبانيا 2026", "tr": "2026 İspanya genel seçimleri", "nl": "Parlementsverkiezingen in Spanje 2026", "pl": "Wybory parlamentarne w Hiszpanii 2026", "sv": "Parlamentsvalet i Spanien 2026", "id": "Pemilu Spanyol 2026", "de": "Parlamentswahl in Spanien 2026", "ms": "Pilihan raya umum Sepanyol 2026"},
+   "tiles": ["es.rtve24h", "es.lasexta", "es.elpais", "es.elmundo", "es.europapress", "es.3cat324", "es.euronewses", "es.libertaddigital"],
+   "countries": ["ES"],
+   "start": "2026-11-29T18:30:00Z",
+   "end": "2026-11-30T01:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ph-duterte-trial-2026",
+   "title": {"en": "Duterte's ICC trial opens", "es": "Comienza el juicio a Duterte en la CPI", "zh-Hans": "杜特尔特国际刑事法院审判开庭", "ja": "ドゥテルテ前大統領 ICC裁判開始", "fr": "Ouverture du procès de Duterte à la CPI", "pt-BR": "Começa o julgamento de Duterte no TPI", "ko": "두테르테 ICC 재판 개시", "it": "Al via il processo a Duterte alla Cpi", "ru": "Начало суда над Дутерте в МУС", "zh-Hant": "杜特蒂國際刑事法院審判開庭", "ar": "بدء محاكمة دوتيرتي أمام المحكمة الجنائية الدولية", "tr": "Duterte'nin UCM davası başlıyor", "nl": "Proces tegen Duterte bij het ICC begint", "pl": "Początek procesu Duterte przed MTK", "sv": "Rättegången mot Duterte i ICC inleds", "id": "Sidang Duterte di ICC dimulai", "de": "Prozess gegen Duterte vor dem IStGH beginnt", "ms": "Perbicaraan Duterte di ICC bermula"},
+   "tiles": ["ph.abscbn", "ph.gma", "ph.anc", "ph.news5", "ph.oneph", "ph.untv", "ph.rappler", "ph.inquirer", "ph.net25"],
+   "countries": ["PH"],
+   "start": "2026-11-30T08:00:00Z",
+   "end": "2026-11-30T16:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "fr-sarkozy-verdict-2026",
+   "title": {"en": "Sarkozy appeal verdict", "es": "Sentencia de apelación de Sarkozy", "zh-Hans": "萨科齐上诉案宣判", "ja": "サルコジ元大統領 控訴審判決", "fr": "Procès en appel de Sarkozy : le verdict", "pt-BR": "Veredito do recurso de Sarkozy", "ko": "사르코지 항소심 선고", "it": "La sentenza d'appello su Sarkozy", "ru": "Приговор Саркози в апелляции", "zh-Hant": "薩科吉上訴案宣判", "ar": "حكم الاستئناف في قضية ساركوزي", "tr": "Sarkozy temyiz kararı", "nl": "Uitspraak in hoger beroep van Sarkozy", "pl": "Wyrok w apelacji Sarkozy'ego", "sv": "Domen i Sarkozys överklagande", "id": "Putusan banding Sarkozy", "de": "Berufungsurteil gegen Sarkozy", "ms": "Keputusan rayuan Sarkozy"},
+   "tiles": ["fr.franceinfo", "fr.bfmtv", "fr.france24", "fr.euronewsfr", "fr.tv5monde", "fr.lcp", "fr.publicsenat"],
+   "countries": ["FR"],
+   "start": "2026-11-30T08:00:00Z",
+   "end": "2026-11-30T14:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ae-national-day-2026",
+   "title": {"en": "UAE National Day (Eid Al Etihad)", "es": "Día Nacional de los Emiratos (Eid al Etihad)", "zh-Hans": "阿联酋国庆日", "ja": "UAE建国記念日", "fr": "Fête nationale des Émirats (Eid al-Etihad)", "pt-BR": "Dia Nacional dos Emirados (Eid Al Etihad)", "ko": "아랍에미리트 국경일", "it": "Festa nazionale degli Emirati (Eid al-Etihad)", "ru": "Национальный день ОАЭ", "zh-Hant": "阿聯酋國慶日", "ar": "عيد الاتحاد الخامس والخمسون", "tr": "BAE Ulusal Günü", "nl": "Nationale feestdag van de VAE", "pl": "Święto Narodowe ZEA", "sv": "Förenade Arabemiratens nationaldag", "id": "Hari Nasional UEA", "de": "Nationalfeiertag der VAE", "ms": "Hari Kebangsaan UAE"},
+   "tiles": ["ae.abudhabitv", "ae.alarabiya", "ae.skynewsarabia", "ae.alhadath", "ae.almashhad"],
+   "countries": ["AE"],
+   "start": "2026-12-02T13:00:00Z",
+   "end": "2026-12-02T18:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "qa-doha-forum-2026",
+   "title": {"en": "Doha Forum 2026", "es": "Foro de Doha 2026", "zh-Hans": "2026 多哈论坛", "ja": "ドーハ・フォーラム 2026", "fr": "Forum de Doha 2026", "pt-BR": "Fórum de Doha 2026", "ko": "2026 도하 포럼", "it": "Forum di Doha 2026", "ru": "Дохийский форум 2026", "zh-Hant": "2026 杜哈論壇", "ar": "منتدى الدوحة 2026", "tr": "2026 Doha Forumu", "nl": "Doha Forum 2026", "pl": "Forum Dauhańskie 2026", "sv": "Dohaforumet 2026", "id": "Forum Doha 2026", "de": "Doha Forum 2026", "ms": "Forum Doha 2026"},
+   "tiles": ["qa.aje", "qa.aja", "qa.mubasher", "qa.alaraby", "qa.qatartv", "ae.skynewsarabia", "ae.alarabiya", "sa.asharq"],
+   "countries": ["QA"],
+   "start": "2026-12-05T06:00:00Z",
+   "end": "2026-12-06T15:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "py-caacupe-2026",
+   "title": {"en": "Feast of the Virgin of Caacupé", "es": "Fiesta de la Virgen de Caacupé", "zh-Hans": "卡阿库佩圣母节", "ja": "カアクペの聖母の祝日", "fr": "Fête de la Vierge de Caacupé", "pt-BR": "Festa da Virgem de Caacupé", "ko": "카아쿠페 성모 축일", "it": "Festa della Vergine di Caacupé", "ru": "Праздник Девы Марии Каакупенской", "zh-Hant": "卡阿庫佩聖母節", "ar": "عيد عذراء كاكوبي", "tr": "Caacupé Meryem Ana bayramı", "nl": "Feest van de Maagd van Caacupé", "pl": "Święto Matki Bożej z Caacupé", "sv": "Jungfrun av Caacupés högtid", "id": "Pesta Bunda Maria dari Caacupé", "de": "Fest der Jungfrau von Caacupé", "ms": "Perayaan Perawan Caacupé"},
+   "tiles": ["py.abctv", "py.npy", "py.ultimahora", "py.gen", "py.telefuturo", "py.snt", "py.unicanal"],
+   "countries": ["PY"],
+   "start": "2026-12-07T23:00:00Z",
+   "end": "2026-12-08T15:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "mx-guadalupe-2026",
+   "title": {"en": "Virgin of Guadalupe: Las Mañanitas", "es": "Las Mañanitas a la Virgen de Guadalupe", "zh-Hans": "瓜达卢佩圣母节晨歌", "ja": "グアダルーペの聖母 祝いの朝の歌（マニャニータス）", "fr": "Les Mañanitas à la Vierge de Guadalupe", "pt-BR": "As Mañanitas à Virgem de Guadalupe", "ko": "과달루페 성모 축일 마냐니타스", "it": "Las Mañanitas alla Vergine di Guadalupe", "ru": "Las Mañanitas в честь Девы Гваделупской", "zh-Hant": "瓜達露佩聖母節晨歌", "ar": "أغاني الصباح لعذراء غوادالوبي", "tr": "Guadalupe Meryem Ana için Las Mañanitas", "nl": "Las Mañanitas voor de Maagd van Guadalupe", "pl": "Las Mañanitas dla Matki Bożej z Guadalupe", "sv": "Las Mañanitas för Jungfrun av Guadalupe", "id": "Las Mañanitas untuk Bunda Maria dari Guadalupe", "de": "Las Mañanitas für die Jungfrau von Guadalupe", "ms": "Las Mañanitas untuk Perawan Guadalupe"},
+   "tiles": ["mx.lasestrellas", "mx.tvazteca", "mx.milenio", "mx.nmas", "mx.aztecanoticias", "mx.adnnoticias", "mx.imagentv", "mx.multimedios"],
+   "countries": ["MX"],
+   "start": "2026-12-12T04:00:00Z",
+   "end": "2026-12-12T08:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ke-jamhuri-2026",
+   "title": {"en": "Kenya's Jamhuri Day", "es": "Día de Jamhuri en Kenia", "zh-Hans": "肯尼亚共和国日（Jamhuri Day）", "ja": "ケニア独立記念日（ジャムフリ・デー）", "fr": "Jamhuri Day au Kenya", "pt-BR": "Dia de Jamhuri no Quênia", "ko": "케냐 잠후리의 날", "it": "Jamhuri Day in Kenya", "ru": "День Джамхури в Кении", "zh-Hant": "肯亞共和國日（Jamhuri Day）", "ar": "يوم جمهوري في كينيا", "tr": "Kenya Jamhuri Günü", "nl": "Jamhuri Day in Kenia", "pl": "Dzień Jamhuri w Kenii", "sv": "Jamhuri Day i Kenya", "id": "Hari Jamhuri Kenya", "de": "Jamhuri Day in Kenia", "ms": "Hari Jamhuri Kenya"},
+   "tiles": ["ke.kbc", "ke.citizentv", "ke.ntv", "ke.ktn", "ke.k24", "ke.tv47"],
+   "countries": ["KE"],
+   "start": "2026-12-12T05:00:00Z",
+   "end": "2026-12-12T10:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "th-sirikit-cremation-2026",
+   "title": {"en": "Royal cremation of Queen Mother Sirikit", "es": "Cremación real de la reina madre Sirikit", "zh-Hans": "诗丽吉王太后皇家火化仪式", "ja": "シリキット王太后の王室火葬式", "fr": "Crémation royale de la reine mère Sirikit", "pt-BR": "Cremação real da rainha-mãe Sirikit", "ko": "시리낏 왕대비 왕실 화장식", "it": "Cremazione reale della regina madre Sirikit", "ru": "Королевская кремация королевы-матери Сирикит", "zh-Hant": "詩麗吉王太后皇家火化儀式", "ar": "مراسم حرق جثمان الملكة الأم سيريكيت", "tr": "Kraliçe Anne Sirikit'in kraliyet yakma töreni", "nl": "Koninklijke crematie van koningin-moeder Sirikit", "pl": "Królewska kremacja królowej matki Sirikit", "sv": "Den kungliga kremeringen av drottningmodern Sirikit", "id": "Kremasi kerajaan Ibu Suri Sirikit", "de": "Königliche Einäscherung von Königinmutter Sirikit", "ms": "Upacara pembakaran diraja Bonda Permaisuri Sirikit"},
+   "tiles": ["th.thaipbs", "th.thaipbsnews", "th.ch3news", "th.ch7news", "th.thairath", "th.tnn", "th.pptv", "th.amarin", "th.nation"],
+   "countries": ["TH"],
+   "start": "2026-12-15T23:30:00Z",
+   "end": "2026-12-16T16:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "qa-national-day-2026",
+   "title": {"en": "Qatar National Day parade", "es": "Desfile del Día Nacional de Catar", "zh-Hans": "卡塔尔国庆日阅兵", "ja": "カタール建国記念日パレード", "fr": "Défilé de la fête nationale du Qatar", "pt-BR": "Desfile do Dia Nacional do Catar", "ko": "카타르 국경일 퍼레이드", "it": "Parata della festa nazionale del Qatar", "ru": "Парад в Национальный день Катара", "zh-Hant": "卡達國慶日閱兵", "ar": "مسيرة اليوم الوطني لدولة قطر", "tr": "Katar Ulusal Günü geçit töreni", "nl": "Parade op de nationale feestdag van Qatar", "pl": "Parada w Święto Narodowe Kataru", "sv": "Paraden på Qatars nationaldag", "id": "Parade Hari Nasional Qatar", "de": "Parade zum Nationalfeiertag in Katar", "ms": "Perarakan Hari Kebangsaan Qatar"},
+   "tiles": ["qa.qatartv", "qa.alrayyan", "qa.aja", "qa.mubasher", "qa.aje", "qa.alaraby"],
+   "countries": ["QA"],
+   "start": "2026-12-18T05:30:00Z",
+   "end": "2026-12-18T09:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "es-el-gordo-2026",
+   "title": {"en": "Spain's Christmas Lottery draw (El Gordo)", "es": "Sorteo de la Lotería de Navidad", "zh-Hans": "西班牙圣诞彩票开奖（El Gordo）", "ja": "スペイン クリスマス宝くじ抽選（エル・ゴルド）", "fr": "Tirage de la loterie de Noël en Espagne (El Gordo)", "pt-BR": "Sorteio da Loteria de Natal da Espanha (El Gordo)", "ko": "스페인 크리스마스 복권 추첨 (엘 고르도)", "it": "Estrazione della Lotteria di Natale spagnola (El Gordo)", "ru": "Рождественская лотерея в Испании (El Gordo)", "zh-Hant": "西班牙聖誕彩券開獎（El Gordo）", "ar": "سحب يانصيب عيد الميلاد في إسبانيا (إل غوردو)", "tr": "İspanya Noel Piyangosu çekilişi (El Gordo)", "nl": "Trekking van de Spaanse Kerstloterij (El Gordo)", "pl": "Losowanie hiszpańskiej loterii bożonarodzeniowej (El Gordo)", "sv": "Dragningen i Spaniens julotteri (El Gordo)", "id": "Undian Lotre Natal Spanyol (El Gordo)", "de": "Ziehung der spanischen Weihnachtslotterie (El Gordo)", "ms": "Cabutan Loteri Krismas Sepanyol (El Gordo)"},
+   "tiles": ["es.rtve24h", "es.lasexta", "es.elpais", "es.elmundo", "es.europapress", "es.3cat324", "es.euronewses", "es.telemadrid", "es.canalsur"],
+   "countries": ["ES"],
+   "start": "2026-12-22T07:45:00Z",
+   "end": "2026-12-22T13:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "cop31-leaders-2026",
+   "title": {"en": "COP31 climate summit: world leaders in Antalya", "es": "Cumbre climática COP31: líderes mundiales en Antalya", "zh-Hans": "COP31 气候峰会：世界领导人齐聚安塔利亚", "ja": "COP31 気候サミット アンタルヤに世界の首脳", "fr": "COP31 : les dirigeants du monde à Antalya", "pt-BR": "Cúpula do clima COP31: líderes mundiais em Antália", "ko": "COP31 기후 정상회의: 안탈리아에 모인 세계 정상", "it": "Vertice sul clima COP31: i leader mondiali ad Antalya", "ru": "Климатический саммит COP31: мировые лидеры в Анталье", "zh-Hant": "COP31 氣候峰會：世界領袖齊聚安塔利亞", "ar": "قمة المناخ COP31: قادة العالم في أنطاليا", "tr": "COP31 iklim zirvesi: dünya liderleri Antalya'da", "nl": "Klimaattop COP31: wereldleiders in Antalya", "pl": "Szczyt klimatyczny COP31: przywódcy świata w Antalyi", "sv": "Klimattoppmötet COP31: världsledare i Antalya", "id": "KTT iklim COP31: para pemimpin dunia di Antalya", "de": "Klimagipfel COP31: Staats- und Regierungschefs in Antalya", "ms": "Sidang kemuncak iklim COP31: pemimpin dunia di Antalya"},
+   "tiles": ["tr.trtworld", "tr.trthaber", "qa.aje", "gb.skynews", "fr.france24en", "de.dwnews", "au.abcnews", "us.livenow", "cn.cgtn"],
+   "start": "2026-11-11T06:30:00Z",
+   "end": "2026-11-12T17:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "apec-shenzhen-2026",
+   "title": {"en": "APEC leaders' summit in Shenzhen", "es": "Cumbre de líderes del APEC en Shenzhen", "zh-Hans": "深圳亚太经合组织领导人会议", "ja": "深圳 APEC首脳会議", "fr": "Sommet des dirigeants de l'APEC à Shenzhen", "pt-BR": "Cúpula de líderes da APEC em Shenzhen", "ko": "선전 APEC 정상회의", "it": "Vertice dei leader APEC a Shenzhen", "ru": "Саммит лидеров АТЭС в Шэньчжэне", "zh-Hant": "深圳亞太經合會領袖會議", "ar": "قمة قادة أبيك في شنتشن", "tr": "Shenzhen'de APEC liderler zirvesi", "nl": "APEC-leiderstop in Shenzhen", "pl": "Szczyt przywódców APEC w Shenzhenie", "sv": "APEC-ledarnas toppmöte i Shenzhen", "id": "KTT pemimpin APEC di Shenzhen", "de": "APEC-Gipfel in Shenzhen", "ms": "Sidang Kemuncak Pemimpin APEC di Shenzhen"},
+   "tiles": ["cn.cgtn", "cn.newchinatv", "cn.cctvvna", "hk.phoenixtv", "hk.tvbnews", "hk.nownews", "sg.cna", "jp.nhkworld", "us.livenow"],
+   "start": "2026-11-17T00:00:00Z",
+   "end": "2026-11-19T14:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "g20-miami-2026",
+   "title": {"en": "G20 summit in Miami", "es": "Cumbre del G20 en Miami", "zh-Hans": "迈阿密二十国集团峰会", "ja": "マイアミ G20サミット", "fr": "Sommet du G20 à Miami", "pt-BR": "Cúpula do G20 em Miami", "ko": "마이애미 G20 정상회의", "it": "Vertice del G20 a Miami", "ru": "Саммит G20 в Майами", "zh-Hant": "邁阿密二十國集團峰會", "ar": "قمة مجموعة العشرين في ميامي", "tr": "Miami'de G20 zirvesi", "nl": "G20-top in Miami", "pl": "Szczyt G20 w Miami", "sv": "G20-toppmötet i Miami", "id": "KTT G20 di Miami", "de": "G20-Gipfel in Miami", "ms": "Sidang Kemuncak G20 di Miami"},
+   "tiles": ["us.livenow", "us.cnn", "us.foxnews", "us.cspan", "us.whitehouse", "us.ap", "qa.aje", "gb.skynews", "fr.france24en"],
+   "start": "2026-12-14T13:00:00Z",
+   "end": "2026-12-15T23:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "nye-asia-pacific-2026",
+   "title": {"en": "New Year's Eve: Asia and the Pacific", "es": "Nochevieja: Asia y el Pacífico", "zh-Hans": "跨年夜：亚洲与太平洋", "ja": "大みそか カウントダウン：アジア・太平洋", "fr": "Réveillon du Nouvel An : Asie et Pacifique", "pt-BR": "Réveillon: Ásia e Pacífico", "ko": "새해맞이 카운트다운: 아시아·태평양", "it": "Capodanno: Asia e Pacifico", "ru": "Новогодняя ночь: Азия и Тихий океан", "zh-Hant": "跨年夜：亞洲與太平洋", "ar": "ليلة رأس السنة: آسيا والمحيط الهادئ", "tr": "Yılbaşı gecesi: Asya ve Pasifik", "nl": "Oudejaarsavond: Azië en de Stille Oceaan", "pl": "Sylwester: Azja i Pacyfik", "sv": "Nyårsafton: Asien och Stillahavsområdet", "id": "Malam Tahun Baru: Asia dan Pasifik", "de": "Silvester: Asien und Pazifik", "ms": "Malam Tahun Baharu: Asia dan Pasifik"},
+   "tiles": ["au.abcnews", "jp.ann", "jp.nhkworld", "kr.ytn", "kr.kbs", "hk.phoenixtv", "sg.cna", "ph.abscbn", "th.thaipbs"],
+   "start": "2026-12-31T09:30:00Z",
+   "end": "2026-12-31T17:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "nye-europe-2026",
+   "title": {"en": "New Year's Eve: Middle East and Europe", "es": "Nochevieja: Oriente Medio y Europa", "zh-Hans": "跨年夜：中东与欧洲", "ja": "大みそか カウントダウン：中東・ヨーロッパ", "fr": "Réveillon du Nouvel An : Moyen-Orient et Europe", "pt-BR": "Réveillon: Oriente Médio e Europa", "ko": "새해맞이 카운트다운: 중동·유럽", "it": "Capodanno: Medio Oriente ed Europa", "ru": "Новогодняя ночь: Ближний Восток и Европа", "zh-Hant": "跨年夜：中東與歐洲", "ar": "ليلة رأس السنة: الشرق الأوسط وأوروبا", "tr": "Yılbaşı gecesi: Orta Doğu ve Avrupa", "nl": "Oudejaarsavond: Midden-Oosten en Europa", "pl": "Sylwester: Bliski Wschód i Europa", "sv": "Nyårsafton: Mellanöstern och Europa", "id": "Malam Tahun Baru: Timur Tengah dan Eropa", "de": "Silvester: Naher Osten und Europa", "ms": "Malam Tahun Baharu: Timur Tengah dan Eropah"},
+   "tiles": ["ae.alarabiya", "tr.trthaber", "ua.suspilne", "de.welt", "fr.franceinfo", "es.rtve24h", "it.euronewsit", "gb.skynews", "gb.bbcnews"],
+   "start": "2026-12-31T19:00:00Z",
+   "end": "2027-01-01T01:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "nye-americas-2026",
+   "title": {"en": "New Year's Eve: the Americas", "es": "Nochevieja: América", "zh-Hans": "跨年夜：美洲", "ja": "大みそか カウントダウン：南北アメリカ", "fr": "Réveillon du Nouvel An : les Amériques", "pt-BR": "Réveillon: Américas", "ko": "새해맞이 카운트다운: 아메리카", "it": "Capodanno: le Americhe", "ru": "Новогодняя ночь: Америка", "zh-Hant": "跨年夜：美洲", "ar": "ليلة رأس السنة: الأمريكتان", "tr": "Yılbaşı gecesi: Amerika kıtası", "nl": "Oudejaarsavond: Amerika", "pl": "Sylwester: obie Ameryki", "sv": "Nyårsafton: Amerika", "id": "Malam Tahun Baru: Amerika", "de": "Silvester: Amerika", "ms": "Malam Tahun Baharu: Amerika"},
+   "tiles": ["br.cnnbrasil", "br.recordnews", "ar.tn", "cl.24horas", "us.abcnews", "us.livenow", "us.cnn", "mx.milenio", "ca.cbcnews"],
+   "start": "2027-01-01T01:00:00Z",
+   "end": "2027-01-01T07:00:00Z",
+   "featured": true
   }
  ]
 }
