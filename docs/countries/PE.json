@@ -1,9 +1,14 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
   "pe.latina",
+  "pe.pbo",
+  "pe.rpp",
+  "pe.willax",
+  "pe.congreso",
+  "pe.panamericana",
   "pe.exitosa"
  ],
  "channels": [
@@ -15,9 +20,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "NJegw6AFLys",
+   "youtubeVideoId": "JMiH94DHcp4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -66,9 +71,9 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "WtNuPUifqio",
+   "youtubeVideoId": "vT_4T-kecZs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -114,9 +119,9 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "4eggaCXrFIk",
+   "youtubeVideoId": "-esHHVyCi5w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -207,9 +212,9 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "1h88qi0ARmU",
+   "youtubeVideoId": "kgfdBv2tsSU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -354,9 +359,9 @@
     "es"
    ],
    "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
-   "youtubeVideoId": "7kTc4kZQrxU",
+   "youtubeVideoId": "6M5E9U6UnJM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1357543",
    "description": {
     "en": "unicameral body that has assumed legislative power in Peru from 1995 to 2026",
@@ -396,7 +401,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "2SND98ZYB9Q",
+   "youtubeVideoId": "nRi8TdxqChY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -409,7 +414,7 @@
     "es": "https://es.wikipedia.org/wiki/Radio_Exitosa"
    },
    "logo": null,
-   "website": "https://exitosanoticias.pe",
+   "website": "https://www.exitosanoticias.pe/",
    "city": null
   },
   {

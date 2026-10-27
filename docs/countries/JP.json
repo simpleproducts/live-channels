@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
-  "jp.fnn",
   "jp.ann",
   "jp.tbs",
+  "jp.ntvnews",
+  "jp.fnn",
+  "jp.weathernews",
+  "jp.kyodo",
   "jp.nhkworld",
-  "jp.htb",
-  "jp.satv",
-  "jp.ytv",
-  "jp.ktv",
-  "jp.abctv"
+  "jp.mbs",
+  "jp.satv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "eCkHV6BQs58",
+   "youtubeVideoId": "nK0X9iiutnY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "IsgIYUFJN0s",
+   "youtubeVideoId": "e2IzaVaeNa0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,9 +87,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "4pD0A6IWwLc",
+   "youtubeVideoId": "aVXFWHhJEn8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11504671",
    "description": {
     "en": "Japanese television news network",
@@ -115,7 +115,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-   "youtubeVideoId": "RtH22WvFgbs",
+   "youtubeVideoId": "zssm0EmeqVE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q124919956",
@@ -189,9 +189,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "qSkoTAAmu9w",
+   "youtubeVideoId": "gHNXBew5zDE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q492412",
    "description": {
     "en": "Commercial weather service company based in Chiba, Japan.",
@@ -222,9 +222,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
-   "youtubeVideoId": "2qTcbgngK58",
+   "youtubeVideoId": "rLmi5t60BXM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q779730",
    "description": {
     "en": "news agency",
@@ -370,9 +370,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
-   "youtubeVideoId": "soT0yMSldwI",
+   "youtubeVideoId": "6OgYfTMOmhY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11231222",
    "description": {
     "ja": "毎日放送（MBSテレビ）とMBSラジオが放送しているニュース番組のタイトル・総称"
@@ -392,7 +392,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
-   "youtubeVideoId": "tvgbZZYS4Nk",
+   "youtubeVideoId": "jXQEf8w8yCY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -446,7 +446,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCQhaZjODkIjuv38d-i5TVRw",
-   "youtubeVideoId": "lwdoVosL-q0",
+   "youtubeVideoId": "1dY5_2BScEE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -518,7 +518,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCS8ZQejq2CL-nZcnRWZCA5Q",
-   "youtubeVideoId": "8RyR0J8zbbU",
+   "youtubeVideoId": "xEbGUGufpx0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -536,7 +536,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
-   "youtubeVideoId": "aoInrXlT4sc",
+   "youtubeVideoId": "X5FAjq2ikKk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -554,7 +554,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
-   "youtubeVideoId": "eNvQilTr1nU",
+   "youtubeVideoId": "t4SazhNcsp4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -572,7 +572,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCOZv-6MiXqJdLpmYtR431Ow",
-   "youtubeVideoId": "3MBdJPHR8lg",
+   "youtubeVideoId": "HZRu6fOyEBY",
    "embeddable": true,
    "live": true,
    "wikidata": null,

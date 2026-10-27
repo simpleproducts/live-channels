@@ -1,12 +1,17 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
   "ke.ntv",
-  "ke.k24",
   "ke.ktn",
-  "ke.radiocitizen"
+  "ke.k24",
+  "ke.citizentv",
+  "ke.tv47",
+  "ke.kbc",
+  "ke.ramogi",
+  "ke.radiocitizen",
+  "ke.inooro"
  ],
  "channels": [
   {
@@ -18,9 +23,9 @@
     "sw"
    ],
    "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g",
-   "youtubeVideoId": "ZDucCAYX_eY",
+   "youtubeVideoId": "ahz6vqJN51s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -94,9 +99,9 @@
     "sw"
    ],
    "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
-   "youtubeVideoId": "0BrSLW_GNvc",
+   "youtubeVideoId": "5oMFKSe1gxo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -113,9 +118,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg",
-   "youtubeVideoId": "9-SGtn6Caz4",
+   "youtubeVideoId": "upIVYhkjeBc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6392548",
    "description": {
     "en": "state-run media organisation of Kenya",
@@ -149,9 +154,9 @@
     "ki"
    ],
    "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw",
-   "youtubeVideoId": "P84XAgGs4Vg",
+   "youtubeVideoId": "5fBZg3CIR0w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -168,9 +173,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ",
-   "youtubeVideoId": "3acc_g087DM",
+   "youtubeVideoId": "Sb4nkycfI0c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

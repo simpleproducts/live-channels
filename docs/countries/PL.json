@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
-  "pl.tvpworld"
+  "pl.wpolsce24",
+  "pl.tvpworld",
+  "pl.radiozet"
  ],
  "channels": [
   {
@@ -104,9 +106,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCPiu4CZlknkTworskK79CPg",
-   "youtubeVideoId": "lx56Ajgrmw8",
+   "youtubeVideoId": "jkDQs_xNYVQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q60978063",
    "description": {
     "pl": "polska stacja telewizyjna"
@@ -250,9 +252,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCvHFbkohgX29NhaUtmkzLmg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "aLwQU8ZsaTY",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

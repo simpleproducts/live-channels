@@ -1,14 +1,9 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
-  "uy.elobservadoruy",
-  "uy.ladiaria",
-  "uy.tnu",
-  "uy.carve",
-  "uy.delsol",
-  "uy.sarandi"
+  "uy.universal"
  ],
  "channels": [
   {
@@ -345,9 +340,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "SeT9cwoqZdA",
+   "youtubeVideoId": "Bcl1n2H4b8s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

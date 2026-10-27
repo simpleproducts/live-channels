@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
+  "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
+  "co.canal1",
   "co.caracoltv",
   "co.citytv",
-  "co.rcnradio"
+  "co.rcnradio",
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -19,9 +22,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEJs1fTF3KszRJGxJY14VrA",
-   "youtubeVideoId": "I4AVxPm58S0",
+   "youtubeVideoId": "GNyQH9R1_V0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7068596",
    "description": {
     "en": "Colombian television news channel",
@@ -125,9 +128,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
-   "youtubeVideoId": "9EQyet4LQDY",
+   "youtubeVideoId": "ji6kJFxSrjQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -424,9 +427,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "wCoBX_uRqN8",
+   "youtubeVideoId": "LQoHGkvVDNE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4672090",
    "description": {
     "en": "radio station in Bogotá, Colombia",
@@ -621,9 +624,9 @@
     "es"
    ],
    "youtubeChannelId": "UCiVHAfsq_UPsw8cm0sylDRw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "oxoFImx1crY",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q5964328",
    "description": {
     "en": "Colombian radio station",

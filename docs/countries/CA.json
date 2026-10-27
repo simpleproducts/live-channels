@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026102621,
+ "version": 2026102703,
  "defaultTiles": [
-  "ca.cbcnews"
+  "ca.cbcnews",
+  "ca.globalnews",
+  "ca.citynews"
  ],
  "channels": [
   {
@@ -93,9 +95,9 @@
     "fr"
    ],
    "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "WucOPu8Lg44",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q5570514",
    "description": {
     "en": "Canadian news network, division of Global Television Network",
@@ -168,9 +170,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCVKAcQQCO8vv87Gk62SutAg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "I3oh2zJ7WZw",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

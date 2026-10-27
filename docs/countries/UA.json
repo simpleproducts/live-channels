@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
   "ua.suspilne",
+  "ua.espreso",
+  "ua.tsn",
   "ua.faktyictv",
   "ua.pryamiy",
   "ua.united24",
@@ -42,9 +44,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-   "youtubeVideoId": "IWjNLwUg7G4",
+   "youtubeVideoId": "J2c5U8xDTf0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4449066",
    "description": {
     "en": "news division of the Ukrainian television network 1+1",
@@ -74,7 +76,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA",
-   "youtubeVideoId": "v_hgVy3tUZM",
+   "youtubeVideoId": "mxzX43xV9Fg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4041002",
@@ -107,9 +109,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w",
-   "youtubeVideoId": "4CXH164dD-0",
+   "youtubeVideoId": "ScdUZNkwcYc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q15689802",
    "description": {
     "en": "Ukrainian TV channel",
@@ -188,7 +190,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA",
-   "youtubeVideoId": "-9FO57Sk_oY",
+   "youtubeVideoId": "a2K9ww2XSk4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q38633974",

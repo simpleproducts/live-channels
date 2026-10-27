@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "SG",
- "version": 2026102418,
+ "version": 2026102703,
  "defaultTiles": [
+  "sg.cna",
   "sg.cnainsider",
   "sg.mediacorp"
  ],
@@ -15,9 +16,9 @@
     "en"
    ],
    "youtubeChannelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-   "youtubeVideoId": "XWq5kBlakcQ",
+   "youtubeVideoId": "-PWMxjBgr0k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40238",
    "description": {
     "en": "English language Asia-Pacific news channel based in Singapore",

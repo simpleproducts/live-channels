@@ -3,8 +3,8 @@
  "languages": ["en"],
  "defaultTiles": ["cna"],
  "channels": [
-  {"id": "cna", "name": "CNA", "category": "news", "youtubeChannelId": "UC83jt4dlz1Gjl58fzQrrKZg", "youtubeVideoId": "XWq5kBlakcQ", "embeddable": true, "live": false, "languages": ["en"]},
-  {"id": "cnainsider", "name": "CNA Insider", "category": "news", "youtubeChannelId": "UC_Lnb8ZHqqgLbp-7hltuT9w", "youtubeVideoId": "9Y4kOQk_K3Y", "embeddable": true, "live": true, "liveSince": "2026-10-14T13:35:56Z", "languages": ["en"]},
-  {"id": "mediacorp", "name": "Mediacorp Entertainment", "category": "entertainment", "youtubeChannelId": "UCQrvzGHFkNkVBlqqe46kuYQ", "youtubeVideoId": "tyyYtckP6tM", "embeddable": true, "live": true, "liveSince": "2026-10-14T11:08:02Z"}
+  {"id": "cna", "name": "CNA", "category": "news", "youtubeChannelId": "UC83jt4dlz1Gjl58fzQrrKZg", "youtubeVideoId": "-PWMxjBgr0k", "embeddable": true, "live": true, "liveSince": "2026-10-14T00:00:00Z", "languages": ["en"]},
+  {"id": "cnainsider", "name": "CNA Insider", "category": "news", "youtubeChannelId": "UC_Lnb8ZHqqgLbp-7hltuT9w", "youtubeVideoId": "9Y4kOQk_K3Y", "embeddable": true, "live": true, "liveSince": "2026-10-14T00:00:00Z", "languages": ["en"]},
+  {"id": "mediacorp", "name": "Mediacorp Entertainment", "category": "entertainment", "youtubeChannelId": "UCQrvzGHFkNkVBlqqe46kuYQ", "youtubeVideoId": "tyyYtckP6tM", "embeddable": true, "live": true, "liveSince": "2026-10-14T00:00:00Z"}
  ]
 }

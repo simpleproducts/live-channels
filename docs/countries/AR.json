@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
+  "ar.lnmas",
   "ar.a24",
   "ar.cronica",
   "ar.canalrural",
-  "ar.america",
-  "ar.elnueve",
-  "ar.canal10cba",
-  "ar.eldoce"
+  "ar.canal26",
+  "ar.tvpublica",
+  "ar.elnueve"
  ],
  "channels": [
   {
@@ -68,9 +68,9 @@
     "es"
    ],
    "youtubeChannelId": "UCba3hpU7EFBSk817y9qZkiA",
-   "youtubeVideoId": "lg0TbnJ6HLQ",
+   "youtubeVideoId": "FEWZjXJ7M0c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27478538",
    "description": {
     "en": "Argentine news television channel",
@@ -120,9 +120,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "2gr5Nmjf048",
+   "youtubeVideoId": "2tq4ss0vOG8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q389108",
    "description": {
     "en": "Argentine news television channel",
@@ -228,9 +228,9 @@
     "es"
    ],
    "youtubeChannelId": "UCHc3el42hXKKhjs_1vzWk9A",
-   "youtubeVideoId": "bvaKEDOaS_o",
+   "youtubeVideoId": "A6LtNcSLVZg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1143518",
    "description": {
     "en": "Argentine television network",
@@ -328,9 +328,9 @@
     "es"
    ],
    "youtubeChannelId": "UCs231K71Bnu5295_x0MB5Pg",
-   "youtubeVideoId": "wfWsVnHGltQ",
+   "youtubeVideoId": "8BRocXfSogU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1032483",
    "description": {
     "en": "Argentine public television channel",
@@ -351,7 +351,7 @@
     "it": "https://it.wikipedia.org/wiki/Canal_7_(rete_televisiva_argentina)",
     "de": "https://de.wikipedia.org/wiki/Canal_7_(Argentinien)"
    },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nuevo_logo_de_la_Televisi%C3%B3n_P%C3%BAblica_%28en_color_y_sin_fondo%29.png?width=256",
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_7_Argentina.svg?width=256",
    "website": "https://canal7.com.ar",
    "city": "Buenos Aires"
   },
@@ -363,7 +363,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6NVDkuzY2exMOVFw4i9oHw",
-   "youtubeVideoId": "zcWXboTnous",
+   "youtubeVideoId": "5WING-K-BlY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -961,9 +961,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "8Y65PldAI7g",
+   "youtubeVideoId": "PH6YfYtgFnw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1153,7 +1153,7 @@
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
    "youtubeVideoId": "VHmI6LOUrYo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1195,7 +1195,7 @@
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
    "youtubeVideoId": "DwwxS-CJHk4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1211,9 +1211,9 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "M2uh8vymGF0",
+   "youtubeVideoId": "36RmH3c-_3k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
+  "tr.cnnturk",
   "tr.trthaber",
   "tr.haberturk",
   "tr.ntv",
+  "tr.sozcu",
   "tr.ahaber",
   "tr.tgrthaber",
-  "tr.24tv",
-  "tr.trtworld",
-  "tr.bloomberght",
-  "tr.showtv"
+  "tr.haberglobal",
+  "tr.tv100"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCV6zcRug6Hqp1UX_FdyUeBg",
-   "youtubeVideoId": "sP2pW2g_3UU",
+   "youtubeVideoId": "ogMaukPITDE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931786",
    "description": {
     "en": "Turkish news channel",
@@ -112,7 +112,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCn6dNfiRE_Xunu7iMyvD7AA",
-   "youtubeVideoId": "CPXn_5nTtao",
+   "youtubeVideoId": "s4KIyYkwiM0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6092925",
@@ -204,9 +204,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw",
-   "youtubeVideoId": "M84WAzp4LrI",
+   "youtubeVideoId": "ztmY_cCtUl0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q116775276",
    "description": {
     "tr": "Türkiye'de bir televizyon kanalı",
@@ -270,7 +270,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
-   "youtubeVideoId": "Rk8JyxJWi9o",
+   "youtubeVideoId": "rAQmatfsdyU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6089384",
@@ -324,9 +324,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
-   "youtubeVideoId": "t5Gvuts6DO8",
+   "youtubeVideoId": "EqoCJ8BPxtE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q84432980",
    "description": {
     "ar": "الخبر العالمي هي قناة إخبارية وموقع إخباري في تركيا بدأ البث في 24 سبتمبر 2018.",
@@ -350,9 +350,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg",
-   "youtubeVideoId": "UGsdmhHIbFw",
+   "youtubeVideoId": "4WSvLRk83-c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q85975294",
    "description": {
     "en": "Turkish national news channel",
@@ -424,7 +424,7 @@
     "tr"
    ],
    "youtubeChannelId": "UC9JMe_We017gYrRc7kZHgmg",
-   "youtubeVideoId": "cbgKyiqOljQ",
+   "youtubeVideoId": "WxeHEn5N1vk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2006738",

@@ -3,12 +3,12 @@
  "languages": ["ar"],
  "defaultTiles": ["aje", "aja", "mubasher", "alaraby"],
  "channels": [
-  {"id": "aje", "name": "Al Jazeera English", "category": "news", "youtubeChannelId": "UCNye-wNBqNL5ZzHSJj3l8Bg", "youtubeVideoId": "gCNeDWCI0vo", "embeddable": true, "live": true, "liveSince": "2023-03-10T00:37:12Z", "languages": ["en"]},
-  {"id": "aja", "name": "Al Jazeera Arabic", "category": "news", "youtubeChannelId": "UCfiwzLy-8yKzIbsmZTzxDgw", "youtubeVideoId": "N8xxOD0nT1Y", "embeddable": true, "live": true, "liveSince": "2026-04-12T01:15:32Z", "languages": ["ar"]},
-  {"id": "mubasher", "name": "Al Jazeera Mubasher", "category": "news", "youtubeChannelId": "UCCv1Pd24oPErw5S7zJWltnQ", "youtubeVideoId": "NNnZLWHRmd4", "embeddable": true, "live": true, "liveSince": "2026-04-12T01:07:17Z", "languages": ["ar"]},
-  {"id": "alaraby", "name": "Al Araby TV", "category": "news", "youtubeChannelId": "UC65i3Fyq91uiUkIS0i5GLNQ", "youtubeVideoId": "HH23l05n2Rk", "embeddable": true, "live": false, "languages": ["ar"]},
-  {"id": "qatartv", "name": "Qatar TV", "category": "broadcast", "youtubeChannelId": "UC2EJXBsWR_5BTCy6R4kIO3A", "youtubeVideoId": "d020NL_oFAY", "embeddable": true, "live": true, "liveSince": "2026-03-07T18:27:02Z", "languages": ["ar"]},
+  {"id": "aje", "name": "Al Jazeera English", "category": "news", "youtubeChannelId": "UCNye-wNBqNL5ZzHSJj3l8Bg", "youtubeVideoId": "gCNeDWCI0vo", "embeddable": true, "live": true, "liveSince": "2023-03-09T00:00:00Z", "languages": ["en"]},
+  {"id": "aja", "name": "Al Jazeera Arabic", "category": "news", "youtubeChannelId": "UCfiwzLy-8yKzIbsmZTzxDgw", "youtubeVideoId": "N8xxOD0nT1Y", "embeddable": true, "live": true, "liveSince": "2026-04-11T00:00:00Z", "languages": ["ar"]},
+  {"id": "mubasher", "name": "Al Jazeera Mubasher", "category": "news", "youtubeChannelId": "UCCv1Pd24oPErw5S7zJWltnQ", "youtubeVideoId": "NNnZLWHRmd4", "embeddable": true, "live": true, "liveSince": "2026-04-11T00:00:00Z", "languages": ["ar"]},
+  {"id": "alaraby", "name": "Al Araby TV", "category": "news", "youtubeChannelId": "UC65i3Fyq91uiUkIS0i5GLNQ", "youtubeVideoId": "UJZ2UmmfeiA", "embeddable": true, "live": true, "liveSince": "2026-10-26T15:00:00Z", "languages": ["ar"]},
+  {"id": "qatartv", "name": "Qatar TV", "category": "broadcast", "youtubeChannelId": "UC2EJXBsWR_5BTCy6R4kIO3A", "youtubeVideoId": "d020NL_oFAY", "embeddable": true, "live": true, "liveSince": "2026-03-07T00:00:00Z", "languages": ["ar"]},
   {"id": "alrayyan", "name": "Al Rayyan TV", "category": "broadcast", "youtubeChannelId": "UCK8LcweIXy4BGzTqjoj01DA", "live": false, "languages": ["ar"]},
-  {"id": "alkass", "name": "Alkass", "category": "sports", "youtubeChannelId": "UCS_yHXNb5w5S74KQL_TK8Yw", "youtubeVideoId": "Ssm5CJ8grWA", "embeddable": true, "live": true, "liveSince": "2026-10-25T05:27:30Z", "languages": ["ar"]}
+  {"id": "alkass", "name": "Alkass", "category": "sports", "youtubeChannelId": "UCS_yHXNb5w5S74KQL_TK8Yw", "youtubeVideoId": "Ssm5CJ8grWA", "embeddable": true, "live": true, "liveSince": "2026-10-24T00:00:00Z", "languages": ["ar"]}
  ]
 }

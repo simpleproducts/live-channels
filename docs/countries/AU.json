@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026102621,
+ "version": 2026102703,
  "defaultTiles": [
-  "au.abcnews"
+  "au.abcnews",
+  "au.aph"
  ],
  "channels": [
   {
@@ -93,9 +94,9 @@
     "en"
    ],
    "youtubeChannelId": "UCzx6ti0rql6Q2Dc2zSAPmuA",
-   "youtubeVideoId": "oP8fyYTz1Ns",
+   "youtubeVideoId": "8xfjqqO2q0U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q382118",
    "description": {
     "en": "bicameral national legislature of Australia",
@@ -139,7 +140,7 @@
    },
    "logo": null,
    "website": "https://www.aph.gov.au/",
-   "city": "Canberra"
+   "city": "Australian Capital Territory"
   }
  ]
 }

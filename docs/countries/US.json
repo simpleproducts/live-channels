@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102701,
+ "version": 2026102703,
  "defaultTiles": [
+  "us.abcnews",
   "us.cnn",
   "us.livenow",
   "us.newsmax",
   "us.foxweather",
-  "us.telemundo",
-  "us.cnnee",
-  "us.bloomberg",
-  "us.yahoofinance",
-  "us.cnbc"
+  "us.cbsnews",
+  "us.nbcnews",
+  "us.nmasunivision",
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "en"
    ],
    "youtubeChannelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-   "youtubeVideoId": "rIm8DksJWBI",
+   "youtubeVideoId": "KQhNZQ_Uag8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q287171",
    "description": {
     "en": "news division of the American Broadcasting Company",
@@ -133,9 +133,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "V1b6nTzIknA",
+   "youtubeVideoId": "Bt-ZIVzUBtM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",
@@ -189,16 +189,16 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "aF9neWULq64",
+   "youtubeVideoId": "_UHQ3Dhwnlw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2877626",
    "description": {
     "en": "news division of NBC",
     "es": "división informativo de la cadena NBC",
     "zh-Hans": "美国全国广播公司新闻部",
     "ja": "NBCニュース は、アメリカ・NBC傘下のニュース制作子会社。",
-    "fr": "NBC News est le département de l'information du réseau de télévision américain NBC.",
+    "fr": "service d'information d'une chaîne états-unienne",
     "pt-BR": "A NBC News é a divisão de jornalismo da rede de televisão norte-americana NBC.",
     "ko": "NBC 뉴스(영어: NBC News)는 미국 NBC 산하의 뉴스 제작 자회사이다.",
     "ru": "телевизионный канал",
@@ -317,9 +317,9 @@
     "es"
    ],
    "youtubeChannelId": "UC32TdiIsh_5X8tKr_9rKQyA",
-   "youtubeVideoId": "V9eZvqPx2sY",
+   "youtubeVideoId": "V4C7VNfRATA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q22023487",
    "description": {
     "en": "news division of Univision",
@@ -1035,7 +1035,7 @@
     "en"
    ],
    "youtubeChannelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-   "youtubeVideoId": "M3HKLzjvKPc",
+   "youtubeVideoId": "ROboUHfPUrU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q23548",

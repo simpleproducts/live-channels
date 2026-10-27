@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026102621,
+ "version": 2026102703,
  "defaultTiles": [
   "it.euronewsit",
+  "it.camera",
   "it.senato"
  ],
  "channels": [
@@ -113,9 +114,9 @@
     "it"
    ],
    "youtubeChannelId": "UCwP4zsC0r9eqRQOethu5EFg",
-   "youtubeVideoId": "BD4kcj6KspM",
+   "youtubeVideoId": "hXMt9zCi2r8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q841424",
    "description": {
     "en": "lower house of the Italian Parliament",
@@ -167,7 +168,7 @@
     "it"
    ],
    "youtubeChannelId": "UCbanqpWVQ0l4v_aPUV-j9JQ",
-   "youtubeVideoId": "loiN1npW2MM",
+   "youtubeVideoId": "kIvU73zCHX4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3955188",
