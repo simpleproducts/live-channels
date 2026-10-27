@@ -4,10 +4,10 @@
  "defaultTiles": [],
  "channels": [
   {"id": "suspilne", "name": "Суспільне Новини", "category": "news", "youtubeChannelId": "UCPY6gj8G7dqwPxg9KwHrj5Q", "youtubeVideoId": "EHiuKvFUr2w", "embeddable": true, "live": true, "liveSince": "2026-08-16T18:09:56Z"},
-  {"id": "tsn", "name": "ТСН", "category": "news", "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew", "youtubeVideoId": "IWjNLwUg7G4", "embeddable": true, "live": true, "liveSince": "2026-10-25T20:02:35Z"},
+  {"id": "tsn", "name": "ТСН", "category": "news", "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew", "youtubeVideoId": "IWjNLwUg7G4", "embeddable": true, "live": false},
   {"id": "faktyictv", "name": "Факти ICTV", "category": "news", "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA", "youtubeVideoId": "v_hgVy3tUZM", "embeddable": true, "live": true, "liveSince": "2025-09-05T03:33:36Z"},
-  {"id": "espreso", "name": "Еспресо", "category": "news", "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w", "youtubeVideoId": "4CXH164dD-0", "embeddable": true, "live": true, "liveSince": "2026-10-26T18:59:07Z"},
-  {"id": "kyiv24", "name": "Київ24", "category": "news", "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA", "youtubeVideoId": "Gttm1XM6pZE", "embeddable": true, "live": true, "liveSince": "2026-10-26T04:59:21Z"},
+  {"id": "espreso", "name": "Еспресо", "category": "news", "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w", "youtubeVideoId": "4CXH164dD-0", "embeddable": true, "live": false},
+  {"id": "kyiv24", "name": "Київ24", "category": "news", "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA", "youtubeVideoId": "Gttm1XM6pZE", "embeddable": true, "live": false},
   {"id": "freedom", "name": "FREEДOM", "category": "news", "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA", "youtubeVideoId": "Zbw5p0Wcw08", "embeddable": true, "live": true, "liveSince": "2026-10-26T20:40:11Z", "languages": ["ru"]},
   {"id": "pryamiy", "name": "Прямий", "category": "news", "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA", "youtubeVideoId": "-9FO57Sk_oY", "embeddable": true, "live": true, "liveSince": "2024-08-27T06:04:32Z"},
   {"id": "5kanal", "name": "5 канал", "category": "news", "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg", "youtubeVideoId": "ScVaZUkA2kE", "embeddable": true, "live": false},

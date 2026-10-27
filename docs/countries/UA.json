@@ -1,14 +1,11 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026102621,
+ "version": 2026102701,
  "defaultTiles": [
   "ua.suspilne",
-  "ua.tsn",
   "ua.faktyictv",
   "ua.pryamiy",
-  "ua.espreso",
-  "ua.kyiv24",
   "ua.united24",
   "ua.freedom",
   "ua.rada"
@@ -47,7 +44,7 @@
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
    "youtubeVideoId": "IWjNLwUg7G4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4449066",
    "description": {
     "en": "news division of the Ukrainian television network 1+1",
@@ -112,7 +109,7 @@
    "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w",
    "youtubeVideoId": "4CXH164dD-0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15689802",
    "description": {
     "en": "Ukrainian TV channel",
@@ -147,7 +144,7 @@
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
    "youtubeVideoId": "Gttm1XM6pZE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

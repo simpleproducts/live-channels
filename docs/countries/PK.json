@@ -1,16 +1,15 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026102621,
+ "version": 2026102701,
  "defaultTiles": [
   "pk.geonews",
   "pk.dunyanews",
   "pk.expressnews",
+  "pk.92news",
   "pk.dawnnews",
   "pk.humnews",
-  "pk.gnn",
-  "pk.samaa",
-  "pk.92news"
+  "pk.gnn"
  ],
  "channels": [
   {
@@ -23,7 +22,7 @@
    "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
    "youtubeVideoId": "-5-amKurHJA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7388622",
    "description": {
     "en": "Pakistani TV network",

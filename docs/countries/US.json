@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102615,
+ "version": 2026102701,
  "defaultTiles": [
   "us.cnn",
   "us.livenow",
   "us.newsmax",
   "us.foxweather",
-  "us.scripps",
   "us.telemundo",
   "us.cnnee",
   "us.bloomberg",
-  "us.yahoofinance"
+  "us.yahoofinance",
+  "us.cnbc"
  ],
  "channels": [
   {
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "xdOJt0ARWtE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",

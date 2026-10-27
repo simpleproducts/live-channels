@@ -3,7 +3,7 @@
  "languages": ["ur"],
  "defaultTiles": ["samaa", "geonews", "arynews", "dunyanews", "expressnews", "92news", "dawnnews", "ptvnews", "humnews"],
  "channels": [
-  {"id": "samaa", "name": "Samaa TV", "category": "news", "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q", "youtubeVideoId": "-5-amKurHJA", "embeddable": true, "live": true, "liveSince": "2026-10-26T19:42:27Z"},
+  {"id": "samaa", "name": "Samaa TV", "category": "news", "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q", "youtubeVideoId": "-5-amKurHJA", "embeddable": true, "live": false},
   {"id": "geonews", "name": "Geo News", "category": "news", "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g", "youtubeVideoId": "t3fvgmDDmdc", "embeddable": true, "live": true, "liveSince": "2026-06-23T19:31:16Z", "wikidata": "Q5513202"},
   {"id": "arynews", "name": "ARY News", "category": "news", "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg", "youtubeVideoId": "n7n3VzdvVmM", "embeddable": true, "live": false},
   {"id": "dunyanews", "name": "Dunya News", "category": "news", "youtubeChannelId": "UCnMBV5Iw4WqKILKue1nP6Hg", "youtubeVideoId": "MNBVAYMxFhI", "embeddable": true, "live": true, "liveSince": "2026-08-07T18:16:46Z"},

@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026102621,
+ "version": 2026102701,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
-  "pl.tvpworld",
-  "pl.kanalzero"
+  "pl.tvpworld"
  ],
  "channels": [
   {
@@ -211,7 +210,7 @@
    "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg",
    "youtubeVideoId": "jA6_HA9rBFA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q124607345",
    "description": {
     "en": "Polish online general-interest channel",

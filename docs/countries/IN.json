@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026102621,
+ "version": 2026102701,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
-  "in.aajtak",
   "in.ndtvindia",
   "in.abpnews",
   "in.zeenews",
   "in.news18india",
   "in.timesnow",
-  "in.cnnnews18"
+  "in.firstpost",
+  "in.ani"
  ],
  "channels": [
   {
@@ -55,7 +55,7 @@
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
    "youtubeVideoId": "6HGKnWm0bq0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3396358",
    "description": {
     "en": "Hindi news channel",
@@ -380,7 +380,7 @@
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
    "youtubeVideoId": "dsB4w-cNMJE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1023924",
    "description": {
     "en": "Indian English-language news television channel",
@@ -446,7 +446,7 @@
    "youtubeChannelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
    "youtubeVideoId": "A9vD7-grUfQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -464,7 +464,7 @@
    "youtubeChannelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
    "youtubeVideoId": "o-8dDsb7Py4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20647988",
    "description": {
     "en": "Indian, English-language news channel"

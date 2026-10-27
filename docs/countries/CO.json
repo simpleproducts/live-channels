@@ -1,16 +1,14 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102621,
+ "version": 2026102701,
  "defaultTiles": [
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.canal1",
   "co.caracoltv",
   "co.citytv",
-  "co.rcnradio",
-  "co.lafm"
+  "co.rcnradio"
  ],
  "channels": [
   {
@@ -129,7 +127,7 @@
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
    "youtubeVideoId": "9EQyet4LQDY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -485,7 +483,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "24ETC9FUcrs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",

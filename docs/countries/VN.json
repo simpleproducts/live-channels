@@ -1,9 +1,16 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026102621,
+ "version": 2026102701,
  "defaultTiles": [
-  "vn.antv"
+  "vn.antv",
+  "vn.qpvn",
+  "vn.htvnews",
+  "vn.hanoitv",
+  "vn.vov",
+  "vn.thanhnien",
+  "vn.tuoitre",
+  "vn.vtcnews"
  ],
  "channels": [
   {
@@ -16,7 +23,7 @@
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
    "youtubeVideoId": "nZwnO0Zwr2o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

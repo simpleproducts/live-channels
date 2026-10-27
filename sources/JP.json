@@ -5,10 +5,10 @@
  "channels": [
   {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "eCkHV6BQs58", "embeddable": true, "live": true, "liveSince": "2026-10-26T19:59:14Z"},
   {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "IsgIYUFJN0s", "embeddable": true, "live": true, "liveSince": "2026-10-26T19:58:52Z"},
-  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "4pD0A6IWwLc", "embeddable": true, "live": true, "liveSince": "2026-10-26T15:02:05Z"},
+  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "4pD0A6IWwLc", "embeddable": true, "live": false},
   {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "RtH22WvFgbs", "embeddable": true, "live": true, "liveSince": "2026-10-19T11:57:46Z"},
   {"id": "nhkworld", "name": "NHK WORLD-JAPAN", "category": "news", "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A", "youtubeVideoId": "IimtbuqYIE8", "embeddable": true, "live": true, "liveSince": "2026-09-02T05:10:50Z", "languages": ["en"]},
-  {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "qSkoTAAmu9w", "embeddable": true, "live": true, "liveSince": "2026-10-26T19:31:05Z"},
+  {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "qSkoTAAmu9w", "embeddable": true, "live": false},
   {"id": "kyodo", "name": "共同通信", "category": "news", "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw", "youtubeVideoId": "2qTcbgngK58", "embeddable": true, "live": false},
   {"id": "abemanews", "name": "ABEMAニュース", "category": "news", "youtubeChannelId": "UCk5a240pQsTVT9CWPnTyIJw", "live": false},
   {"id": "sankei", "name": "Sankei News", "category": "news", "youtubeChannelId": "UC1zYGo1jIIjMVDTLL3dydow", "live": false},

@@ -1,14 +1,12 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102621,
+ "version": 2026102701,
  "defaultTiles": [
   "gb.skynews",
-  "gb.talktv",
   "gb.bbcnewsarabic",
   "gb.timesradio",
-  "gb.talksport",
-  "gb.lbc"
+  "gb.talksport"
  ],
  "channels": [
   {
@@ -227,7 +225,7 @@
    "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA",
    "youtubeVideoId": "ewQshcDg_9s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q108760651",
    "description": {
     "en": "British television channel",
@@ -557,7 +555,7 @@
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
    "youtubeVideoId": "tn2KpdGOzPA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

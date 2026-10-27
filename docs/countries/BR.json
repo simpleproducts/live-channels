@@ -1,17 +1,11 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026102621,
+ "version": 2026102701,
  "defaultTiles": [
-  "br.recordnews",
-  "br.cnnbrasil",
-  "br.jovempan",
-  "br.sbtnews",
-  "br.canalrural",
-  "br.metropoles",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn"
+  "br.bandeirantes"
  ],
  "channels": [
   {
@@ -24,7 +18,7 @@
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
    "youtubeVideoId": "O1SUOcjbL04",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3056409",
    "description": {
     "en": "broadcast news television network",
@@ -54,7 +48,7 @@
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
    "youtubeVideoId": "DGw6iKiB2MM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q61037218",
    "description": {
     "en": "Brazilian television channel",
@@ -91,7 +85,7 @@
    "youtubeChannelId": "UCP391YRAjSOdM_bwievgaZA",
    "youtubeVideoId": "CYb4pa4e2e0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10358223",
    "description": {
     "en": "Brazilian radio network in format top 40/CHR/all news",
@@ -138,7 +132,7 @@
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
    "youtubeVideoId": "_tYl0v3s2fo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q135520615",
    "description": {
     "en": "Brazilian television station",
@@ -161,7 +155,7 @@
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
    "youtubeVideoId": "_Nf4hq3Z9YQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -201,7 +195,7 @@
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
    "youtubeVideoId": "aMudBt3UU20",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -466,7 +460,7 @@
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
    "youtubeVideoId": "F0fJsA90q4M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7385857",
    "description": {
     "en": "Brazilian news radio network",
@@ -547,7 +541,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "_IxDsqBtfoY",
+   "youtubeVideoId": "4Z9d6o485pA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
