@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
   "gb.reuters",
+  "gb.itvnews",
   "gb.mirror",
   "gb.thesun",
-  "gb.express",
   "gb.bbcnewsarabic"
  ],
  "channels": [
@@ -172,7 +172,7 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "HPX0cTDOrrI",
+   "youtubeVideoId": "_DasV415cps",
    "embeddable": true,
    "live": true,
    "wikidata": "Q130879",
@@ -390,9 +390,9 @@
     "en"
    ],
    "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A",
-   "youtubeVideoId": "dOCdzNaj4sM",
+   "youtubeVideoId": "3JgXYiRGLAA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4189762",
    "description": {
     "en": "British broadcaster ITV's branded news programming",
@@ -558,7 +558,7 @@
    "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA",
    "youtubeVideoId": "RasSrT23E6U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -576,7 +576,7 @@
    "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g",
    "youtubeVideoId": "jYOqKZJWLuQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11010",
    "description": {
     "en": "supreme legislative body of the United Kingdom",
@@ -648,9 +648,9 @@
     "en"
    ],
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
-   "youtubeVideoId": "tn2KpdGOzPA",
+   "youtubeVideoId": "dx7oxaQ4sCk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -524,7 +524,7 @@
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
    "youtubeVideoId": "yMMq3hmkoEA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -542,7 +542,7 @@
    "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ",
    "youtubeVideoId": "YC1Lu6eKmeg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3205960",
    "description": {
     "en": "French National Assembly TV channel",
@@ -563,9 +563,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA",
-   "youtubeVideoId": "41Q5iR7P91k",
+   "youtubeVideoId": "qv0lNpx-ilQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3410428",
    "description": {
     "en": "French parliamentary television channel",

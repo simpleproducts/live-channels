@@ -7,7 +7,7 @@
   {"id": "gma", "name": "GMA Integrated News", "category": "news", "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw", "youtubeVideoId": "2fOpJ8GB2Xc", "embeddable": true, "live": false},
   {"id": "anc", "name": "ANC 24/7", "category": "news", "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg", "youtubeVideoId": "c0dTuWxABqM", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "oneph", "name": "One PH", "category": "news", "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA", "youtubeVideoId": "jm9EhCdRz0s", "embeddable": true, "live": false},
-  {"id": "news5", "name": "News5", "category": "news", "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg", "youtubeVideoId": "_W5ni1eTh5A", "embeddable": true, "live": true, "liveSince": "2026-10-27T15:38:45Z"},
+  {"id": "news5", "name": "News5", "category": "news", "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg", "youtubeVideoId": "_W5ni1eTh5A", "embeddable": true, "live": false},
   {"id": "untv", "name": "UNTV News and Rescue", "category": "news", "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw", "youtubeVideoId": "1uDU_BaA8og", "embeddable": true, "live": false},
   {"id": "net25", "name": "NET25 News", "category": "news", "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw", "youtubeVideoId": "SgasqkPojSo", "embeddable": true, "live": false},
   {"id": "rappler", "name": "Rappler", "category": "news", "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw", "youtubeVideoId": "JxP9kmxg0po", "embeddable": true, "live": false},
@@ -18,6 +18,6 @@
   {"id": "dzrh", "name": "DZRH News Television", "category": "radio", "youtubeChannelId": "UCcTiBX8js_djhSSlmJRI99A", "youtubeVideoId": "VzS75VuvLxs", "embeddable": true, "live": true, "liveSince": "2026-08-26T19:15:33Z"},
   {"id": "teleradyo", "name": "DZMM TeleRadyo", "category": "radio", "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w", "youtubeVideoId": "3_CbPbVY04k", "embeddable": true, "live": false},
   {"id": "bombo", "name": "Bombo Radyo", "category": "radio", "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ", "youtubeVideoId": "I-o-MW3Qk8w", "embeddable": true, "live": false},
-  {"id": "loveradio", "name": "Love Radio Manila", "category": "radio", "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg", "youtubeVideoId": "2g9QUXL2pog", "embeddable": true, "live": true, "liveSince": "2026-10-27T12:58:01Z"}
+  {"id": "loveradio", "name": "Love Radio Manila", "category": "radio", "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg", "youtubeVideoId": "2g9QUXL2pog", "embeddable": true, "live": false}
  ]
 }

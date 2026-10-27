@@ -1,14 +1,12 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
   "uy.ladiaria",
-  "uy.tnu",
   "uy.carve",
   "uy.delsol",
-  "uy.sarandi",
-  "uy.universal"
+  "uy.sarandi"
  ],
  "channels": [
   {
@@ -103,7 +101,7 @@
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
    "youtubeVideoId": "UTOiSI_uV8E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -327,7 +325,7 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "KALYhY2cSwc",
+   "youtubeVideoId": "scplD1uly5k",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -365,7 +363,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "QOUaXpwZw7o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -3,7 +3,7 @@
  "languages": ["id"],
  "defaultTiles": [],
  "channels": [
-  {"id": "kompastv", "name": "KompasTV", "category": "news", "youtubeChannelId": "UC5BMIWZe9isJXLZZWPWvBlg", "youtubeVideoId": "b29XTH0eJg4", "embeddable": true, "live": true, "liveSince": "2026-10-27T15:00:25Z"},
+  {"id": "kompastv", "name": "KompasTV", "category": "news", "youtubeChannelId": "UC5BMIWZe9isJXLZZWPWvBlg", "youtubeVideoId": "b29XTH0eJg4", "embeddable": true, "live": false},
   {"id": "cnnid", "name": "CNN Indonesia", "category": "news", "youtubeChannelId": "UCKII0Ml9S5wneKbHswmUrIQ", "youtubeVideoId": "PDDOkUq33Sw", "embeddable": true, "live": true, "liveSince": "2026-06-18T13:40:31Z", "wikidata": "Q18148009"},
   {"id": "metrotv", "name": "Metro TV", "category": "news", "youtubeChannelId": "UCzl0OrB3-ehunyotIQvK77A", "youtubeVideoId": "oUYnZv_G82Q", "embeddable": true, "live": true, "liveSince": "2026-08-31T17:44:46Z", "wikidata": "Q4920542"},
   {"id": "tvone", "name": "tvOneNews", "category": "news", "youtubeChannelId": "UCER4rvDnRBPr_ncYW4UCZjg", "youtubeVideoId": "89y4g36E0i4", "embeddable": true, "live": false},

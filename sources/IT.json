@@ -7,8 +7,8 @@
   {"id": "ilsole24ore", "name": "Il Sole 24 Ore", "category": "economy", "youtubeChannelId": "UCCuZicOOisRgknWUSQArudg", "youtubeVideoId": "uOooc3zhx6Y", "embeddable": true, "live": false, "wikidata": "Q1658262"},
   {"id": "camera", "name": "Camera dei Deputati", "category": "government", "youtubeChannelId": "UCwP4zsC0r9eqRQOethu5EFg", "youtubeVideoId": "hXMt9zCi2r8", "embeddable": true, "live": true, "liveSince": "2026-10-19T08:15:07Z"},
   {"id": "senato", "name": "Senato della Repubblica", "category": "government", "youtubeChannelId": "UCbanqpWVQ0l4v_aPUV-j9JQ", "youtubeVideoId": "kIvU73zCHX4", "embeddable": true, "live": true, "liveSince": "2026-10-21T11:38:09Z"},
-  {"id": "radiodeejay", "name": "Radio Deejay", "category": "radio", "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg", "youtubeVideoId": "VR2VgXTavEI", "embeddable": true, "live": true, "liveSince": "2026-10-27T15:03:09Z"},
+  {"id": "radiodeejay", "name": "Radio Deejay", "category": "radio", "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg", "youtubeVideoId": "VR2VgXTavEI", "embeddable": true, "live": false},
   {"id": "rtl1025", "name": "RTL 102.5", "category": "radio", "youtubeChannelId": "UCdRQAy9c5cJ4oQG_US3qq-g", "live": false, "wikidata": "Q1812894"},
-  {"id": "radio24", "name": "Radio 24", "category": "radio", "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA", "youtubeVideoId": "1OUhsq9u58A", "embeddable": true, "live": false, "languages": ["it"]}
+  {"id": "radio24", "name": "Radio 24", "category": "radio", "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA", "youtubeVideoId": "mhA3L_slZTw", "embeddable": true, "live": true, "liveSince": "2026-10-27T17:34:42Z", "languages": ["it"]}
  ]
 }

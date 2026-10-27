@@ -1,14 +1,9 @@
 {
  "schema": 2,
  "code": "NL",
- "version": 2026101319,
+ "version": 2026102719,
  "defaultTiles": [
-  "nl.nhnieuws",
-  "nl.rtvoost",
-  "nl.rtvnoord",
-  "nl.omroepzeeland",
-  "nl.nporadio1",
-  "nl.nossport"
+  "nl.nporadio1"
  ],
  "channels": [
   {
@@ -139,9 +134,9 @@
     "nl"
    ],
    "youtubeChannelId": "UClRJ0fR9SrsdDSp0_na5Wew",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "IlOVrqE1Imk",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

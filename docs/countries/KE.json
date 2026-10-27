@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
   "ke.ntv",
   "ke.ktn",
@@ -10,7 +10,6 @@
   "ke.tv47",
   "ke.ramogi",
   "ke.inooro",
-  "ke.radiojambo",
   "ke.radiocitizen"
  ],
  "channels": [
@@ -99,7 +98,7 @@
     "sw"
    ],
    "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
-   "youtubeVideoId": "slc315icklE",
+   "youtubeVideoId": "OymNlhGcOWs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -211,7 +210,7 @@
    "youtubeChannelId": "UCOsHyjujol57SIFR0imyEKQ",
    "youtubeVideoId": "PV12fIFtw_Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

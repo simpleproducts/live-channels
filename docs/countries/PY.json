@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
   "py.abctv",
+  "py.npy",
   "py.monumental",
-  "py.telefuturo"
+  "py.telefuturo",
+  "py.nanduti"
  ],
  "channels": [
   {
@@ -16,7 +18,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
-   "youtubeVideoId": "nm4PKyBDimE",
+   "youtubeVideoId": "mT22kXLrhdQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -34,9 +36,9 @@
     "es"
    ],
    "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA",
-   "youtubeVideoId": "4WHxV26FVQk",
+   "youtubeVideoId": "sL9ocQzZjNs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -99,7 +101,7 @@
     "es"
    ],
    "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA",
-   "youtubeVideoId": "2eb1X6sPiW0",
+   "youtubeVideoId": "CArJaniZdOw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3140411",
@@ -192,9 +194,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A",
-   "youtubeVideoId": "NnJJGHbojXQ",
+   "youtubeVideoId": "4MvDjxJdKdQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

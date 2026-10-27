@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiasrcn",
   "co.eltiempo",
   "co.noticiascaracol",
-  "co.semana",
+  "co.canal1",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.canalcapital"
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -128,9 +128,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
-   "youtubeVideoId": "ji6kJFxSrjQ",
+   "youtubeVideoId": "zWhNjxsRloU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -166,7 +166,7 @@
    "youtubeChannelId": "UC4oQAvXFuNlKivYjUynQKTA",
    "youtubeVideoId": "zE-uNjBQldE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -317,7 +317,7 @@
    "youtubeChannelId": "UCeSx6aU8UGIIHxGCQPbYY_A",
    "youtubeVideoId": "zh1MojeykTw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5030992",
    "description": {
     "en": "Colombian channel television",
@@ -387,7 +387,7 @@
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
    "youtubeVideoId": "V6hH6imxw7I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -484,7 +484,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "440BYYFNhIM",
+   "youtubeVideoId": "u0QwnLCAdLk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -572,7 +572,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "GI3e34MG7gk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

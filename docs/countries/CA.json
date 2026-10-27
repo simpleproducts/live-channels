@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
   "ca.cbcnews",
-  "ca.globalnews",
   "ca.cpac"
  ],
  "channels": [
@@ -97,7 +96,7 @@
    "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg",
    "youtubeVideoId": "5--C_rfW49w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5570514",
    "description": {
     "en": "Canadian news network, division of Global Television Network",
@@ -317,7 +316,7 @@
     "fr"
    ],
    "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
-   "youtubeVideoId": "8GYmqp0LXFU",
+   "youtubeVideoId": "a8qw513FQYY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2931869",
