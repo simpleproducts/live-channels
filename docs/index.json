@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-27T12:23:56Z",
+ "updated": "2026-10-27T12:25:56Z",
  "countries": [
   {
    "code": "AE",
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/BR.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/CL.json"
   },
   {
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/CO.json"
   },
   {
@@ -330,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/ES.json"
   },
   {
@@ -420,7 +420,7 @@
     "zh"
    ],
    "channelCount": 5,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/HK.json"
   },
   {
@@ -450,7 +450,7 @@
     "id"
    ],
    "channelCount": 8,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/ID.json"
   },
   {
@@ -480,7 +480,7 @@
     "he"
    ],
    "channelCount": 6,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/IL.json"
   },
   {
@@ -511,7 +511,7 @@
     "en"
    ],
    "channelCount": 24,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/IN.json"
   },
   {
@@ -541,7 +541,7 @@
     "it"
    ],
    "channelCount": 7,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/IT.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/JP.json"
   },
   {
@@ -602,7 +602,7 @@
     "sw"
    ],
    "channelCount": 11,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/KE.json"
   },
   {
@@ -632,7 +632,7 @@
     "ko"
    ],
    "channelCount": 31,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/KR.json"
   },
   {
@@ -662,7 +662,7 @@
     "es"
    ],
    "channelCount": 25,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/MX.json"
   },
   {
@@ -783,7 +783,7 @@
     "en"
    ],
    "channelCount": 16,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/PH.json"
   },
   {
@@ -873,7 +873,7 @@
     "pt"
    ],
    "channelCount": 7,
-   "version": 2026102701,
+   "version": 2026102712,
    "file": "countries/PT.json"
   },
   {
@@ -963,7 +963,7 @@
     "ru"
    ],
    "channelCount": 6,
-   "version": 2026102621,
+   "version": 2026102712,
    "file": "countries/RU.json"
   },
   {
@@ -1053,7 +1053,7 @@
     "th"
    ],
    "channelCount": 15,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/TH.json"
   },
   {
@@ -1083,7 +1083,7 @@
     "tr"
    ],
    "channelCount": 19,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/TR.json"
   },
   {
@@ -1233,7 +1233,7 @@
     "es"
    ],
    "channelCount": 7,
-   "version": 2026102701,
+   "version": 2026102712,
    "file": "countries/VE.json"
   },
   {
@@ -1263,7 +1263,7 @@
     "vi"
    ],
    "channelCount": 8,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/VN.json"
   },
   {
@@ -1394,7 +1394,6 @@
     "us.bloomberg",
     "us.cnbc",
     "us.yahoofinance",
-    "us.cnbcintl",
     "in.cnbctv18",
     "in.etnow"
    ],
@@ -1427,8 +1426,7 @@
     "us.cbsnews",
     "us.nbcnews",
     "us.cnn",
-    "us.livenow",
-    "us.ap"
+    "us.livenow"
    ],
    "countries": [
     "US"
@@ -1498,6 +1496,7 @@
     "il.i24he",
     "il.c14",
     "il.i24en",
+    "il.i24ar",
     "qa.aje",
     "gb.skynews",
     "fr.france24en"
@@ -1609,7 +1608,9 @@
    },
    "tiles": [
     "mx.milenio",
-    "mx.nmas"
+    "mx.nmas",
+    "mx.aztecanoticias",
+    "mx.imagennoticias"
    ],
    "countries": [
     "MX"
@@ -1652,39 +1653,6 @@
    ],
    "start": "2026-11-04T05:00:00Z",
    "end": "2026-11-05T22:00:00Z",
-   "featured": true
-  },
-  {
-   "id": "ca-budget-2026",
-   "title": {
-    "en": "Canada's federal budget 2026",
-    "es": "Presupuesto federal de Canadá 2026",
-    "zh-Hans": "2026 加拿大联邦预算",
-    "ja": "2026年 カナダ連邦予算",
-    "fr": "Budget fédéral du Canada 2026",
-    "pt-BR": "Orçamento federal do Canadá 2026",
-    "ko": "2026 캐나다 연방 예산안",
-    "it": "Bilancio federale del Canada 2026",
-    "ru": "Федеральный бюджет Канады 2026",
-    "zh-Hant": "2026 加拿大聯邦預算",
-    "ar": "الميزانية الفيدرالية الكندية 2026",
-    "tr": "2026 Kanada federal bütçesi",
-    "nl": "Canadese federale begroting 2026",
-    "pl": "Budżet federalny Kanady 2026",
-    "sv": "Kanadas federala budget 2026",
-    "id": "Anggaran federal Kanada 2026",
-    "de": "Kanadas Bundeshaushalt 2026",
-    "ms": "Belanjawan persekutuan Kanada 2026"
-   },
-   "tiles": [
-    "ca.cbcnews",
-    "ca.thenational"
-   ],
-   "countries": [
-    "CA"
-   ],
-   "start": "2026-11-05T19:00:00Z",
-   "end": "2026-11-06T01:00:00Z",
    "featured": true
   },
   {
@@ -1746,8 +1714,10 @@
    "tiles": [
     "cl.24horas",
     "cl.tvn",
+    "cl.canal13",
     "cl.mega",
     "cl.chilevision",
+    "cl.meganoticias",
     "cl.chvnoticias",
     "cl.biobio"
    ],
@@ -1864,6 +1834,7 @@
     "ar.lnmas",
     "ar.a24",
     "ar.cronica",
+    "ar.infobae",
     "ar.canal26"
    ],
    "countries": [
@@ -1985,39 +1956,6 @@
    "featured": true
   },
   {
-   "id": "ca-remembrance-2026",
-   "title": {
-    "en": "Remembrance Day in Ottawa",
-    "es": "Día del Recuerdo en Ottawa",
-    "zh-Hans": "渥太华阵亡将士纪念日",
-    "ja": "オタワ リメンブランス・デー",
-    "fr": "Jour du Souvenir à Ottawa",
-    "pt-BR": "Dia da Lembrança em Ottawa",
-    "ko": "오타와 현충일 기념식",
-    "it": "Remembrance Day a Ottawa",
-    "ru": "День памяти в Оттаве",
-    "zh-Hant": "渥太華陣亡將士紀念日",
-    "ar": "يوم الذكرى في أوتاوا",
-    "tr": "Ottawa'da Anma Günü",
-    "nl": "Remembrance Day in Ottawa",
-    "pl": "Dzień Pamięci w Ottawie",
-    "sv": "Remembrance Day i Ottawa",
-    "id": "Hari Peringatan di Ottawa",
-    "de": "Remembrance Day in Ottawa",
-    "ms": "Hari Peringatan di Ottawa"
-   },
-   "tiles": [
-    "ca.cbcnews",
-    "ca.thenational"
-   ],
-   "countries": [
-    "CA"
-   ],
-   "start": "2026-11-11T15:00:00Z",
-   "end": "2026-11-11T17:30:00Z",
-   "featured": true
-  },
-  {
    "id": "pope-leo-peru-2026",
    "title": {
     "en": "Pope Leo XIV in Peru",
@@ -2041,7 +1979,11 @@
    },
    "tiles": [
     "va.vaticannewses",
-    "pe.latina"
+    "pe.tvperunoticias",
+    "pe.rpp",
+    "pe.latina",
+    "pe.atv",
+    "pe.willax"
    ],
    "countries": [
     "PE"
@@ -2074,10 +2016,8 @@
    },
    "tiles": [
     "ph.abscbn",
-    "ph.gma",
-    "ph.anc",
     "ph.news5",
-    "ph.untv"
+    "ph.oneph"
    ],
    "countries": [
     "PH"
@@ -2151,6 +2091,7 @@
    "tiles": [
     "mx.milenio",
     "mx.nmas",
+    "mx.aztecanoticias",
     "mx.canalonce"
    ],
    "countries": [
@@ -2223,6 +2164,8 @@
    },
    "tiles": [
     "es.rtve24h",
+    "es.elpais",
+    "es.elmundo",
     "es.3cat324",
     "es.euronewses",
     "es.libertaddigital"
@@ -2258,10 +2201,8 @@
    },
    "tiles": [
     "ph.abscbn",
-    "ph.gma",
-    "ph.anc",
     "ph.news5",
-    "ph.untv",
+    "ph.oneph",
     "ph.net25"
    ],
    "countries": [
@@ -2405,8 +2346,8 @@
    "tiles": [
     "py.caacupe",
     "py.abctv",
-    "py.npy",
     "py.telefuturo",
+    "py.nanduti",
     "py.monumental"
    ],
    "countries": [
@@ -2441,6 +2382,8 @@
    "tiles": [
     "mx.milenio",
     "mx.nmas",
+    "mx.aztecanoticias",
+    "mx.imagentv",
     "mx.multimedios"
    ],
    "countries": [
@@ -2473,7 +2416,6 @@
     "ms": "Hari Jamhuri Kenya"
    },
    "tiles": [
-    "ke.kbc",
     "ke.citizentv",
     "ke.ntv",
     "ke.ktn",
@@ -2510,10 +2452,8 @@
    },
    "tiles": [
     "th.thaipbs",
-    "th.thaipbsnews",
-    "th.ch3news",
-    "th.ch7news",
     "th.thairath",
+    "th.tnn",
     "th.pptv",
     "th.amarin",
     "th.nation"
@@ -2585,6 +2525,8 @@
    },
    "tiles": [
     "es.rtve24h",
+    "es.elpais",
+    "es.elmundo",
     "es.3cat324",
     "es.euronewses",
     "es.telemadrid",
@@ -2656,8 +2598,8 @@
     "ms": "Sidang Kemuncak Pemimpin APEC di Shenzhen"
    },
    "tiles": [
-    "cn.newchinatv",
     "hk.phoenixtv",
+    "hk.nownews",
     "sg.cna",
     "jp.nhkworld",
     "us.livenow"
@@ -2691,7 +2633,6 @@
    "tiles": [
     "us.livenow",
     "us.cnn",
-    "us.ap",
     "qa.aje",
     "gb.skynews",
     "fr.france24en"

@@ -10,8 +10,8 @@
   "ar.canalrural",
   "ar.c5n",
   "ar.canal26",
-  "ar.tvpublica",
-  "ar.elnueve"
+  "ar.infobae",
+  "ar.tvpublica"
  ],
  "channels": [
   {
@@ -195,9 +195,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "YXOG2qNzAFo",
+   "youtubeVideoId": "YUPrFdF9NgI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -351,7 +351,7 @@
     "it": "https://it.wikipedia.org/wiki/Canal_7_(rete_televisiva_argentina)",
     "de": "https://de.wikipedia.org/wiki/Canal_7_(Argentinien)"
    },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_7_Argentina.svg?width=256",
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nuevo_logo_de_la_Televisi%C3%B3n_P%C3%BAblica_%28en_color_y_sin_fondo%29.png?width=256",
    "website": "https://canal7.com.ar",
    "city": "Buenos Aires"
   },
@@ -363,7 +363,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6NVDkuzY2exMOVFw4i9oHw",
-   "youtubeVideoId": "UDVcxcP3ShI",
+   "youtubeVideoId": "zcWXboTnous",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -883,9 +883,9 @@
     "es"
    ],
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
-   "youtubeVideoId": "rEYsE1_3-Mg",
+   "youtubeVideoId": "UfonVywQru0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -979,9 +979,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "R0uOWOi-lCA",
+   "youtubeVideoId": "kOwIMWXkTI0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1169,9 +1169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "JPmxrFJR05A",
+   "youtubeVideoId": "yWXnv40nexM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961729",
    "description": {
     "en": "Public AM radio station in Buenos Aires",
@@ -1320,7 +1320,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "_6gSKNBtFQ0",
+   "youtubeVideoId": "iZiR5389jfI",
    "embeddable": true,
    "live": true,
    "wikidata": null,

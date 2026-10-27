@@ -10,7 +10,7 @@
   {"id": "cgtnru", "name": "CGTN на русском", "category": "news", "youtubeChannelId": "UCA2WHG4EpVqul3TYjAF0k2A", "youtubeVideoId": "C3BKx6JxCQU", "embeddable": true, "live": true, "liveSince": "2026-07-31T13:59:26Z", "languages": ["ru"]},
   {"id": "cgtnafrica", "name": "CGTN Africa", "category": "news", "youtubeChannelId": "UCMeYPU1YfXjxsUa6QXWsfjg", "live": false, "languages": ["en"]},
   {"id": "cctvvna", "name": "CCTV Video News Agency", "category": "news", "youtubeChannelId": "UCmv5DbNpxH8X2eQxJBqEjKQ", "live": false, "languages": ["en"]},
-  {"id": "newchinatv", "name": "New China TV (Xinhua)", "category": "news", "youtubeChannelId": "UCHBDXQDmqnaqIEPdEapEFVQ", "youtubeVideoId": "5VV_5ODscIs", "embeddable": true, "live": true, "liveSince": "2026-10-27T09:06:50Z", "languages": ["en"]},
+  {"id": "newchinatv", "name": "New China TV (Xinhua)", "category": "news", "youtubeChannelId": "UCHBDXQDmqnaqIEPdEapEFVQ", "youtubeVideoId": "5VV_5ODscIs", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "cctv", "name": "CCTV中国中央电视台", "category": "broadcast", "youtubeChannelId": "UCcLK3j-XWdGBnt5bR9NJHaQ", "live": false}
  ]
 }

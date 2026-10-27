@@ -10,7 +10,7 @@
   "us.foxweather",
   "us.cbsnews",
   "us.nbcnews",
-  "us.ap",
+  "us.scripps",
   "us.nmasunivision"
  ],
  "channels": [
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "Bt-ZIVzUBtM",
+   "youtubeVideoId": "ZwPOtUEfhz8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "_UHQ3Dhwnlw",
+   "youtubeVideoId": "wvY8yOPyNVI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "xdOJt0ARWtE",
+   "youtubeVideoId": "JB2TvfhsEHE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "kY12_9JSacM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -969,7 +969,7 @@
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
    "youtubeVideoId": "tTpJO3_ECzw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1213,9 +1213,9 @@
     "es"
    ],
    "youtubeChannelId": "UCajrNVKvG2xVlVcSr3GcsDA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Ncgtt4pvn3o",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q136538",
    "description": {
     "en": "American Spanish-language television network",

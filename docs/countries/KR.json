@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "2R2MB6nnrag",
+   "youtubeVideoId": "M9r_vI0XHR0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "g_31q1RCHZA",
+   "youtubeVideoId": "TkauNlh2P5g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -89,7 +89,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "h5ous2viJkI",
+   "youtubeVideoId": "RHSaZMaosDI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6495373",
@@ -145,7 +145,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "mhNjdFjXJKA",
+   "youtubeVideoId": "Y04tBMrQBoI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "U3SUb9hLz1M",
+   "youtubeVideoId": "nE-9aktSimE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -332,7 +332,7 @@
    "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
    "youtubeVideoId": "SaIioC9UlNU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7388983",
    "description": {
     "en": "news channel in South Korea",
@@ -492,7 +492,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCREjdu30qQ0Mfrbz9t-gt9A",
-   "youtubeVideoId": "UBEUjV6w3fM",
+   "youtubeVideoId": "SXnO5slzsDs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -510,7 +510,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
-   "youtubeVideoId": "kX3hFLN7hrU",
+   "youtubeVideoId": "GJIb1vfg5FI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -528,7 +528,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
-   "youtubeVideoId": "xR7YFNIfwOI",
+   "youtubeVideoId": "QpkhOYPDbYM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q83624247",
@@ -587,7 +587,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A",
-   "youtubeVideoId": "tFeW1rVV3TI",
+   "youtubeVideoId": "Om0VubNW7-Y",
    "embeddable": true,
    "live": true,
    "wikidata": null,

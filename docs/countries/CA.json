@@ -3,8 +3,7 @@
  "code": "CA",
  "version": 2026102712,
  "defaultTiles": [
-  "ca.cbcnews",
-  "ca.thenational"
+  "ca.cbcnews"
  ],
  "channels": [
   {
@@ -189,7 +188,7 @@
    "youtubeChannelId": "UCKjU3KzdbJE1EFcHVqXC3_g",
    "youtubeVideoId": "USefgHpgm8c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2413021",
    "description": {
     "en": "flagship daily evening television news program of CBC News",

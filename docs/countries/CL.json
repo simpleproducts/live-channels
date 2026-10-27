@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
   "cl.24horas",
+  "cl.meganoticias",
   "cl.chvnoticias",
   "cl.biobio",
   "cl.senado",
   "cl.cooperativa",
   "cl.tvn",
   "cl.chilevision",
-  "cl.mega",
-  "cl.camara"
+  "cl.mega"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "6uMjtPVbmUU",
+   "youtubeVideoId": "X0dXPaBc7UU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -67,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "WQ9peuCqCLs",
+   "youtubeVideoId": "zPIfAm220v4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -320,9 +320,9 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "nJw06wosajw",
+   "youtubeVideoId": "N4jIUDMKRVU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -456,7 +456,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA",
-   "youtubeVideoId": "AzluhgxiCk0",
+   "youtubeVideoId": "VoADRewv8kQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2119518",
@@ -504,9 +504,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "yd7ZN71r5IU",
+   "youtubeVideoId": "8FFtXY9wAoc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -567,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "PsY9OFdHM8U",
+   "youtubeVideoId": "Es69gcMJZlY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -585,9 +585,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
-   "youtubeVideoId": "3O-HTu7wqro",
+   "youtubeVideoId": "TU6hU-S_gl0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -621,9 +621,9 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": "hwSszCJLNww",
+   "youtubeVideoId": "vJerAVdPTZA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

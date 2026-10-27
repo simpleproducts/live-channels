@@ -7,11 +7,11 @@
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.mirror",
   "gb.reuters",
-  "gb.bbcnewsarabic",
-  "gb.timesradio",
-  "gb.talksport"
+  "gb.mirror",
+  "gb.thesun",
+  "gb.express",
+  "gb.bbcnewsarabic"
  ],
  "channels": [
   {
@@ -484,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "ViFppheA07s",
+   "youtubeVideoId": "vM4FI2I5GEQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -502,9 +502,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "L6joz5X2pF0",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",
@@ -556,9 +556,9 @@
     "en"
    ],
    "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "RasSrT23E6U",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

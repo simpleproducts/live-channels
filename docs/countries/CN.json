@@ -5,8 +5,7 @@
  "defaultTiles": [
   "cn.cgtneurope",
   "cn.cgtnfr",
-  "cn.cgtnru",
-  "cn.newchinatv"
+  "cn.cgtnru"
  ],
  "channels": [
   {
@@ -290,7 +289,7 @@
    "youtubeChannelId": "UCHBDXQDmqnaqIEPdEapEFVQ",
    "youtubeVideoId": "5VV_5ODscIs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q204839",
    "description": {
     "en": "official press agency of the People's Republic of China",

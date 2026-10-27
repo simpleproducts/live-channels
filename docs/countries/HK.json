@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
-  "hk.phoenixtv"
+  "hk.phoenixtv",
+  "hk.nownews"
  ],
  "channels": [
   {
@@ -68,9 +69,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCg8EwsqYmiw7G267xxPyXsg",
-   "youtubeVideoId": "7GsZ5U0hovw",
+   "youtubeVideoId": "Jgcg90Km5j4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q10883984",
    "description": {
     "en": "news website based in Taiwan",

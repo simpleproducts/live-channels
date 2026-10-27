@@ -4,7 +4,11 @@
  "version": 2026102712,
  "defaultTiles": [
   "uy.ladiaria",
-  "uy.sarandi"
+  "uy.carve",
+  "uy.delsol",
+  "uy.sarandi",
+  "uy.tvciudad",
+  "uy.universal"
  ],
  "channels": [
   {
@@ -224,9 +228,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "UKI-be46BlY",
+   "youtubeVideoId": "v9xAZcozf3Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -298,9 +302,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "aHDpSldP_1A",
+   "youtubeVideoId": "RV30P4wOTvU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -323,9 +327,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "Sd87_ChfqHk",
+   "youtubeVideoId": "KALYhY2cSwc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -359,9 +363,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "Bcl1n2H4b8s",
+   "youtubeVideoId": "CqA5tzrDplQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

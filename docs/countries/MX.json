@@ -1,13 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
   "mx.nmas",
   "mx.milenio",
+  "mx.imagennoticias",
+  "mx.aztecanoticias",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.canalonce"
+  "mx.canalonce",
+  "mx.imagentv",
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -54,9 +58,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
-   "youtubeVideoId": "Q1lJSVkz3YM",
+   "youtubeVideoId": "LW5Gd0KJ7Ew",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -99,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUP6qv-_EIL0hwTsJaKYnvw",
-   "youtubeVideoId": "CVvlpG2jhxo",
+   "youtubeVideoId": "ftPhtK5Y_uM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -285,7 +289,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "1SpFvTgMFzE",
+   "youtubeVideoId": "5WFSkdfWIus",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -328,9 +332,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "JgYsppTyi_s",
+   "youtubeVideoId": "_n9vFGJkhXE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -484,9 +488,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "8HCxjWGJmK4",
+   "youtubeVideoId": "CuVbegbErP0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -509,9 +513,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "Ki0R4hmlci4",
+   "youtubeVideoId": "titswITDdFI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -563,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "LMJuddYgOKk",
+   "youtubeVideoId": "DQmd_dWiOc0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

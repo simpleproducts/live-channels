@@ -4,7 +4,7 @@
  "defaultTiles": ["euronewspt"],
  "channels": [
   {"id": "euronewspt", "name": "Euronews em português", "category": "news", "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw", "youtubeVideoId": "XuZAl-ZPEcA", "embeddable": true, "live": true, "liveSince": "2024-01-19T17:23:14Z"},
-  {"id": "observador", "name": "Observador", "category": "news", "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg", "live": false, "wikidata": "Q25442845"},
+  {"id": "observador", "name": "Observador", "category": "news", "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg", "youtubeVideoId": "tB7r610n7pM", "embeddable": true, "live": true, "liveSince": "2026-10-27T12:13:47Z", "wikidata": "Q25442845"},
   {"id": "rtp", "name": "RTP Notícias", "category": "news", "youtubeChannelId": "UCIM-wfyv9hg2oEiA81mQc2A", "live": false, "wikidata": "Q3415778"},
   {"id": "cmtv", "name": "CMTV", "category": "news", "youtubeChannelId": "UCpiCOeyRdCLh8vKXYQZjOeA", "live": false, "wikidata": "Q18363883"},
   {"id": "rtp1", "name": "RTP", "category": "broadcast", "youtubeChannelId": "UCWPpeeDOykyH5ducPITCDPw", "live": false, "wikidata": "Q649618"},

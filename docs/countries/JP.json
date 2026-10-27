@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
+  "jp.fnn",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
-  "jp.fnn",
   "jp.weathernews",
   "jp.nhkworld",
   "jp.mbs",
@@ -29,7 +29,7 @@
    "description": {
     "en": "Japanese television network",
     "zh-Hans": "日本电视台",
-    "ja": "日本のテレビ放送網兼ニュース系列（テレ朝系列）",
+    "ja": "日本のテレビ放送網兼ニュース系列（テレビ朝日系列）",
     "fr": "réseau de télévision commercial japonais",
     "ko": "일본의 TV 아사히(키국)와 아사히방송(준키국) 뉴스 가맹국",
     "it": "rete televisiva giapponese",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "aNsOVrHPS0M",
+   "youtubeVideoId": "1TV33UGFgNQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "aVXFWHhJEn8",
+   "youtubeVideoId": "vojRFH97W7Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -115,7 +115,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-   "youtubeVideoId": "4QLMrMppU20",
+   "youtubeVideoId": "RtH22WvFgbs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q124919956",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "VS8nhoFEzDY",
+   "youtubeVideoId": "Oee7WFaO9ko",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -464,7 +464,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCPW-5qfYGNR8XYrvESrqJKA",
-   "youtubeVideoId": "LJtlWB1LXjU",
+   "youtubeVideoId": "3Z7ZOgCT4SU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -572,7 +572,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCOZv-6MiXqJdLpmYtR431Ow",
-   "youtubeVideoId": "HZRu6fOyEBY",
+   "youtubeVideoId": "uDmxtu4x78o",
    "embeddable": true,
    "live": true,
    "wikidata": null,

@@ -1,14 +1,12 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
   "ph.abscbn",
-  "ph.gma",
+  "ph.oneph",
   "ph.news5",
-  "ph.untv",
   "ph.net25",
-  "ph.anc",
   "ph.dzrh",
   "ph.teleradyo",
   "ph.loveradio"
@@ -23,7 +21,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "N0cjcWTV7_w",
+   "youtubeVideoId": "HmsghyRB6Gs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -62,7 +60,7 @@
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
    "youtubeVideoId": "2fOpJ8GB2Xc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -90,7 +88,7 @@
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
    "youtubeVideoId": "c0dTuWxABqM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -107,9 +105,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "y9S7W_enTQg",
+   "youtubeVideoId": "jm9EhCdRz0s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -132,7 +130,7 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "5MgFDMiTYXs",
+   "youtubeVideoId": "uhvfTUZBes4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -153,7 +151,7 @@
    "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw",
    "youtubeVideoId": "1uDU_BaA8og",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28452148",
    "description": {
     "en": "television network in the Philippines"
@@ -174,7 +172,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "-HVZwrVX1Rs",
+   "youtubeVideoId": "SgasqkPojSo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -426,7 +424,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "LqcaGregXko",
+   "youtubeVideoId": "3_CbPbVY04k",
    "embeddable": true,
    "live": true,
    "wikidata": null,
