@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026102719,
+ "version": 2026102720,
  "defaultTiles": [
   "br.recordnews",
   "br.jovempan",
@@ -199,7 +199,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "PQUSf1O52Ys",
+   "youtubeVideoId": "qelBa2TZL2w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q56350071",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "HoCFPaPjEcI",
+   "youtubeVideoId": "ZnWFrxkrXaI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "txI3BfrQAtA",
+   "youtubeVideoId": "FHVL8uEKywE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -594,7 +594,7 @@
    "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w",
    "youtubeVideoId": "AZKLLOCt0Bw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

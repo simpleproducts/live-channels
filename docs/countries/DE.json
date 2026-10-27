@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026102719,
+ "version": 2026102720,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.tagesschau",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -18,7 +17,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "Zl3TNySe5YA",
+   "youtubeVideoId": "StilIPX4pxg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -97,7 +96,7 @@
    "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA",
    "youtubeVideoId": "1o5p9TeZUxE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q703907",
    "description": {
     "en": "Germany's main daily news report in television",

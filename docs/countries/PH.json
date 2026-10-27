@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102719,
+ "version": 2026102720,
  "defaultTiles": [
-  "ph.dzrh"
+  "ph.dzrh",
+  "ph.teleradyo"
  ],
  "channels": [
   {
@@ -418,9 +419,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "3_CbPbVY04k",
+   "youtubeVideoId": "lrzebadNbK8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

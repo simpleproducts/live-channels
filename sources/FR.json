@@ -11,16 +11,16 @@
   {"id": "franceinfo", "name": "franceinfo", "category": "news", "youtubeChannelId": "UCO6K_kkdP-lnSCiO3tPx7WA", "youtubeVideoId": "NG7ZX42nZKc", "embeddable": true, "live": true, "liveSince": "2025-10-14T03:02:58Z"},
   {"id": "bfmtv", "name": "BFMTV", "category": "news", "youtubeChannelId": "UCXwDLMDV86ldKoFVc_g8P0g", "youtubeVideoId": "C15czQgHSrE", "embeddable": true, "live": true, "liveSince": "2026-10-08T09:17:34Z"},
   {"id": "france24ar", "name": "France 24 Arabic", "category": "news", "youtubeChannelId": "UCdTyuXgmJkG_O8_75eqej-w", "youtubeVideoId": "93g513Uth98", "embeddable": true, "live": true, "liveSince": "2026-05-27T10:26:26Z", "languages": ["ar"]},
-  {"id": "tv5monde", "name": "TV5MONDE Info", "category": "news", "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg", "youtubeVideoId": "PQfLjksNTto", "embeddable": true, "live": false},
+  {"id": "tv5monde", "name": "TV5MONDE Info", "category": "news", "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg", "youtubeVideoId": "8mf7fnNNn0I", "embeddable": true, "live": true, "liveSince": "2026-10-27T20:30:08Z"},
   {"id": "bfmbusiness", "name": "BFM Business", "category": "economy", "youtubeChannelId": "UCUsBMOIUl_ad6JUOC16DpmQ", "live": false, "wikidata": "Q2877016"},
-  {"id": "assemblee", "name": "Assemblée nationale", "category": "government", "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw", "youtubeVideoId": "yMMq3hmkoEA", "embeddable": true, "live": false},
-  {"id": "lcp", "name": "LCP - Assemblée nationale", "category": "government", "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ", "youtubeVideoId": "YC1Lu6eKmeg", "embeddable": true, "live": false, "wikidata": "Q3205960"},
-  {"id": "publicsenat", "name": "Public Sénat", "category": "government", "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA", "youtubeVideoId": "qv0lNpx-ilQ", "embeddable": true, "live": true, "liveSince": "2026-10-27T19:00:20Z"},
+  {"id": "assemblee", "name": "Assemblée nationale", "category": "government", "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw", "youtubeVideoId": "pV9U_Y1e-7E", "embeddable": true, "live": true, "liveSince": "2026-10-27T20:17:50Z"},
+  {"id": "lcp", "name": "LCP - Assemblée nationale", "category": "government", "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ", "youtubeVideoId": "d7Bmrrns61w", "embeddable": true, "live": true, "liveSince": "2026-10-27T19:05:44Z", "wikidata": "Q3205960"},
+  {"id": "publicsenat", "name": "Public Sénat", "category": "government", "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA", "youtubeVideoId": "qv0lNpx-ilQ", "embeddable": true, "live": false},
   {"id": "rfi", "name": "RFI", "category": "radio", "youtubeChannelId": "UCm4fSpMpPIZ9z6KHoezLUAg", "youtubeVideoId": "OAoLGxrlBPY", "embeddable": true, "live": true, "liveSince": "2026-06-12T09:33:38Z"},
   {"id": "franceinter", "name": "France Inter", "category": "radio", "youtubeChannelId": "UCJldRgT_D7Am-ErRHQZ90uw", "youtubeVideoId": "dv3gNGnmqwE", "embeddable": true, "live": true, "liveSince": "2026-09-23T09:00:39Z", "languages": ["fr"]},
-  {"id": "sudradio", "name": "Sud Radio", "category": "radio", "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ", "youtubeVideoId": "kvafTghfrEo", "embeddable": true, "live": false, "languages": ["fr"]},
+  {"id": "sudradio", "name": "Sud Radio", "category": "radio", "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ", "youtubeVideoId": "0b2CBcYa-vs", "embeddable": true, "live": true, "liveSince": "2026-10-27T20:00:08Z", "languages": ["fr"]},
   {"id": "rmc", "name": "RMC", "category": "radio", "youtubeChannelId": "UCgGb7tN3tIH5_Kk05D1J_bA", "embeddable": false, "live": false, "languages": ["fr"]},
-  {"id": "nrj", "name": "NRJ", "category": "radio", "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A", "youtubeVideoId": "e3SOGmKdWSA", "embeddable": true, "live": false, "languages": ["fr"]},
+  {"id": "nrj", "name": "NRJ", "category": "radio", "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A", "youtubeVideoId": "avvfT7RlvO8", "embeddable": true, "live": true, "liveSince": "2026-10-27T19:58:46Z", "languages": ["fr"]},
   {"id": "arte", "name": "ARTE", "category": "culture", "youtubeChannelId": "UCwI-JbGNsojunnHbFAc0M4Q", "live": false}
  ]
 }

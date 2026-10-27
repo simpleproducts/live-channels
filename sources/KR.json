@@ -14,7 +14,7 @@
   {"id": "mbn", "name": "MBN News", "category": "news", "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg", "youtubeVideoId": "vBssCj87-KE", "embeddable": true, "live": true, "liveSince": "2026-10-27T09:08:18Z"},
   {"id": "arirang", "name": "Arirang TV", "category": "news", "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw", "live": false, "languages": ["en"]},
   {"id": "yonhapnews", "name": "연합뉴스 Yonhapnews", "category": "news", "youtubeChannelId": "UCj3_t5p4L4aFsvdW3uHjnnw", "live": false},
-  {"id": "sbsbiz", "name": "SBS Biz", "category": "economy", "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw", "youtubeVideoId": "SaIioC9UlNU", "embeddable": true, "live": false, "wikidata": "Q7388983"},
+  {"id": "sbsbiz", "name": "SBS Biz", "category": "economy", "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw", "youtubeVideoId": "ygReigN_Hzs", "embeddable": true, "live": true, "liveSince": "2026-10-27T19:59:42Z", "wikidata": "Q7388983"},
   {"id": "yonhapeconomy", "name": "Yonhap News Economy TV", "category": "economy", "youtubeChannelId": "UC6kZpTl39-_SqfBrF1-N2oQ", "youtubeVideoId": "afUxLrFP_Ms", "embeddable": true, "live": false},
   {"id": "wowtv", "name": "Korea Economic TV", "category": "economy", "youtubeChannelId": "UCF8AeLlUbEpKju6v1H6p8Eg", "youtubeVideoId": "VlaCnp1fxI8", "embeddable": true, "live": true, "liveSince": "2026-06-11T08:03:36Z"},
   {"id": "mbn_economy", "name": "Maeil Business TV", "category": "economy", "youtubeChannelId": "UCnfwIKyFYRuqZzzKBDt6JOA", "youtubeVideoId": "s9xL1DpBsfQ", "embeddable": true, "live": true, "liveSince": "2022-06-09T15:51:48Z"},

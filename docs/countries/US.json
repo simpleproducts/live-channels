@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102719,
+ "version": 2026102720,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -11,7 +11,7 @@
   "us.nbcnews",
   "us.livenow",
   "us.scripps",
-  "us.forbesnews"
+  "us.pbsnewshour"
  ],
  "channels": [
   {
@@ -429,9 +429,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "kpAMooEICmE",
+   "youtubeVideoId": "TKF_6rN3MaA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -547,9 +547,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "CkM_CFtIDUs",
+   "youtubeVideoId": "jWoX_tccuBg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -603,9 +603,9 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "0GyuJB9N91U",
+   "youtubeVideoId": "Rum3NCOw88o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -659,9 +659,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "op7y25dCpew",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q7739683",
    "description": {
     "en": "newspaper in Washington, D.C.",
@@ -865,9 +865,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
-   "youtubeVideoId": "uFsPmEWW_A4",
+   "youtubeVideoId": "g5Mru41TAxI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",

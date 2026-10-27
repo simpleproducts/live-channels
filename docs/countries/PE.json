@@ -1,14 +1,15 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102719,
+ "version": 2026102720,
  "defaultTiles": [
   "pe.latina",
   "pe.larepublica",
   "pe.rpp",
+  "pe.willax",
   "pe.tvperunoticias",
+  "pe.atv",
   "pe.congreso",
-  "pe.panamericana",
   "pe.exitosa",
   "pe.radionacional"
  ],
@@ -39,7 +40,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "3aqfwiRnhs8",
+   "youtubeVideoId": "GnFULQnjyoc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1330217",
@@ -72,7 +73,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "LpXtDHfZ9K0",
+   "youtubeVideoId": "T77nRcaksOs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -120,9 +121,9 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "NWkZlWNaNH8",
+   "youtubeVideoId": "15UO3111F8E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -146,7 +147,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "2wJuaODkPiE",
+   "youtubeVideoId": "U-mjvcWC1e8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -170,9 +171,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "5zjidbMtclQ",
+   "youtubeVideoId": "6pSRP54XIq8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -329,7 +330,7 @@
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
    "youtubeVideoId": "DvvKn8w3b-Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -488,7 +489,7 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "aNFx9gj3THs",
+   "youtubeVideoId": "LeeCwfzN1Wc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096493",

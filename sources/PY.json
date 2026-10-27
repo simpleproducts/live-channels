@@ -4,14 +4,14 @@
  "defaultTiles": ["abctv", "telefuturo"],
  "channels": [
   {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "mT22kXLrhdQ", "embeddable": true, "live": true, "liveSince": "2026-10-27T18:58:57Z"},
-  {"id": "npy", "name": "NPY", "category": "news", "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA", "youtubeVideoId": "sL9ocQzZjNs", "embeddable": true, "live": true, "liveSince": "2026-10-27T18:03:32Z"},
+  {"id": "npy", "name": "NPY", "category": "news", "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA", "youtubeVideoId": "sL9ocQzZjNs", "embeddable": true, "live": false},
   {"id": "ultimahora", "name": "Última Hora", "category": "news", "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw", "live": false, "wikidata": "Q6175024"},
   {"id": "gen", "name": "GEN", "category": "news", "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA", "youtubeVideoId": "u6-zOL3V49w", "embeddable": true, "live": false},
-  {"id": "telefuturo", "name": "Telefuturo", "category": "broadcast", "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA", "youtubeVideoId": "CArJaniZdOw", "embeddable": true, "live": true, "liveSince": "2026-10-27T15:55:02Z", "wikidata": "Q3140411"},
+  {"id": "telefuturo", "name": "Telefuturo", "category": "broadcast", "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA", "youtubeVideoId": "udacp4gaa-Q", "embeddable": true, "live": true, "liveSince": "2026-10-27T20:15:25Z", "wikidata": "Q3140411"},
   {"id": "snt", "name": "SNT", "category": "broadcast", "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig", "live": false, "wikidata": "Q523293"},
   {"id": "unicanal", "name": "Unicanal", "category": "broadcast", "youtubeChannelId": "UCT9-9nG-go0cQGn9rVBzaxA", "live": false, "wikidata": "Q3549937"},
   {"id": "nanduti", "name": "Ñanduti 1020 AM", "category": "radio", "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A", "youtubeVideoId": "4MvDjxJdKdQ", "embeddable": true, "live": true, "liveSince": "2026-10-27T18:57:19Z"},
   {"id": "monumental", "name": "Monumental 1080 AM", "category": "radio", "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ", "youtubeVideoId": "d2xLRbGJt2A", "embeddable": true, "live": true, "liveSince": "2026-10-26T04:11:13Z"},
-  {"id": "caacupe", "name": "Basílica de Caacupé", "category": "religious", "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA", "youtubeVideoId": "rzxlbe29No4", "embeddable": true, "live": false}
+  {"id": "caacupe", "name": "Basílica de Caacupé", "category": "religious", "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA", "youtubeVideoId": "rG1xyAqfI-0", "embeddable": true, "live": true, "liveSince": "2026-10-27T20:30:39Z"}
  ]
 }

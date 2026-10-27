@@ -1,12 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102719,
+ "version": 2026102720,
  "defaultTiles": [
+  "uy.elobservadoruy",
   "uy.ladiaria",
+  "uy.tnu",
   "uy.carve",
   "uy.delsol",
-  "uy.sarandi"
+  "uy.sarandi",
+  "uy.canal10"
  ],
  "channels": [
   {
@@ -17,9 +20,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "DLMkBAcRdHw",
+   "youtubeVideoId": "gia6iWKWQqQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -99,9 +102,9 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "UTOiSI_uV8E",
+   "youtubeVideoId": "O98dwNXxyxg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -139,9 +142,9 @@
     "es"
    ],
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
-   "youtubeVideoId": "lHTvmBIgRc4",
+   "youtubeVideoId": "frMprf0MLhc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",

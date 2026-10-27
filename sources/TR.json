@@ -21,6 +21,6 @@
   {"id": "startv", "name": "Star TV", "category": "broadcast", "youtubeChannelId": "UCsFINj3y7SjBaeUxiSdRjlA", "youtubeVideoId": "82O6yOy_XwE", "embeddable": true, "live": true, "liveSince": "2023-08-10T07:25:02Z", "wikidata": "Q2067812"},
   {"id": "tbmm", "name": "TBMM TV", "category": "government", "youtubeChannelId": "UCJEn13vDGcJTyqe-hdpFP-g", "youtubeVideoId": "AurraxkPCKE", "embeddable": true, "live": false, "wikidata": "Q16875533"},
   {"id": "rockfm", "name": "Rock FM", "category": "radio", "youtubeChannelId": "UCx3H_0xNy6vB_RUtG-_7Hhw", "youtubeVideoId": "njqkg8o4C84", "embeddable": true, "live": true, "liveSince": "2025-01-08T06:56:17Z", "languages": ["tr"]},
-  {"id": "atv", "name": "atv", "category": "entertainment", "youtubeChannelId": "UCUVZ7T_kwkxDOGFcDlFI-hg", "youtubeVideoId": "959bjt_iryU", "embeddable": true, "live": false}
+  {"id": "atv", "name": "atv", "category": "entertainment", "youtubeChannelId": "UCUVZ7T_kwkxDOGFcDlFI-hg", "youtubeVideoId": "tUjC5Z1X96Q", "embeddable": true, "live": true, "liveSince": "2026-10-20T06:38:25Z"}
  ]
 }

@@ -8,7 +8,7 @@
   {"id": "rtp", "name": "RTP Notícias", "category": "news", "youtubeChannelId": "UCIM-wfyv9hg2oEiA81mQc2A", "live": false, "wikidata": "Q3415778"},
   {"id": "cmtv", "name": "CMTV", "category": "news", "youtubeChannelId": "UCpiCOeyRdCLh8vKXYQZjOeA", "live": false, "wikidata": "Q18363883"},
   {"id": "rtp1", "name": "RTP", "category": "broadcast", "youtubeChannelId": "UCWPpeeDOykyH5ducPITCDPw", "live": false, "wikidata": "Q649618"},
-  {"id": "canalparlamento", "name": "ARTV Canal Parlamento", "category": "government", "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A", "youtubeVideoId": "szKZQpWth5A", "embeddable": true, "live": true, "liveSince": "2026-10-27T15:17:01Z"},
-  {"id": "renascenca", "name": "Rádio Renascença", "category": "radio", "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw", "youtubeVideoId": "OuifyuxDS2U", "embeddable": true, "live": true, "liveSince": "2026-10-27T14:43:53Z"}
+  {"id": "canalparlamento", "name": "ARTV Canal Parlamento", "category": "government", "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A", "youtubeVideoId": "szKZQpWth5A", "embeddable": true, "live": false},
+  {"id": "renascenca", "name": "Rádio Renascença", "category": "radio", "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw", "youtubeVideoId": "ksYVhyyQjcY", "embeddable": true, "live": true, "liveSince": "2026-10-27T19:59:57Z"}
  ]
 }

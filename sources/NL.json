@@ -8,6 +8,6 @@
   {"id": "rtvnoord", "name": "RTV Noord", "category": "regional", "youtubeChannelId": "UC-8skX7WFHAjxvBl7p1DdAA", "live": false, "languages": ["nl"]},
   {"id": "omroepzeeland", "name": "Omroep Zeeland", "category": "regional", "youtubeChannelId": "UCcN4ENZcg3rB2iBexNRuz2A", "live": false, "languages": ["nl"]},
   {"id": "nossport", "name": "NOS Sport", "category": "sports", "youtubeChannelId": "UCT4oPufBQa0f6C67Fw_HXNg", "live": false, "languages": ["nl"]},
-  {"id": "nporadio1", "name": "NPO Radio 1", "category": "radio", "youtubeChannelId": "UClRJ0fR9SrsdDSp0_na5Wew", "youtubeVideoId": "IlOVrqE1Imk", "embeddable": true, "live": true, "liveSince": "2026-10-27T18:00:20Z", "languages": ["nl"]}
+  {"id": "nporadio1", "name": "NPO Radio 1", "category": "radio", "youtubeChannelId": "UClRJ0fR9SrsdDSp0_na5Wew", "youtubeVideoId": "IlOVrqE1Imk", "embeddable": true, "live": false, "languages": ["nl"]}
  ]
 }

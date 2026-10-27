@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026102703,
+ "version": 2026102720,
  "defaultTiles": [
   "eg.alqahera",
-  "eg.alghad"
+  "eg.alghad",
+  "eg.extranews"
  ],
  "channels": [
   {
@@ -39,9 +40,9 @@
     "ar"
    ],
    "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw",
-   "youtubeVideoId": "DeCmrb61biU",
+   "youtubeVideoId": "rDQHJagVUwo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102719,
+ "version": 2026102720,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiasrcn",
@@ -128,7 +128,7 @@
     "es"
    ],
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
-   "youtubeVideoId": "zWhNjxsRloU",
+   "youtubeVideoId": "xROusgZzTuM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -455,9 +455,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "kqZjwMf8h2A",
+   "youtubeVideoId": "r6vtpxhCOIQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -484,7 +484,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "u0QwnLCAdLk",
+   "youtubeVideoId": "HM0qLZYUi3Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",

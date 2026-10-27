@@ -10,7 +10,7 @@
   {"id": "sbtnews", "name": "SBT News", "category": "news", "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA", "youtubeVideoId": "XPoVAdGF2oo", "embeddable": true, "live": true, "liveSince": "2026-10-27T18:41:44Z", "wikidata": "Q135520615"},
   {"id": "canalrural", "name": "Canal Rural", "category": "news", "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g", "youtubeVideoId": "A-RZdvwgdTo", "embeddable": true, "live": false, "wikidata": "Q9693797"},
   {"id": "uol", "name": "UOL", "category": "news", "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q", "youtubeVideoId": "bi3eP9jQFqE", "embeddable": true, "live": true, "liveSince": "2026-10-27T18:55:28Z"},
-  {"id": "metropoles", "name": "Metrópoles", "category": "news", "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw", "youtubeVideoId": "PQUSf1O52Ys", "embeddable": true, "live": true, "liveSince": "2026-10-27T16:06:25Z", "wikidata": "Q56350071"},
+  {"id": "metropoles", "name": "Metrópoles", "category": "news", "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw", "youtubeVideoId": "qelBa2TZL2w", "embeddable": true, "live": true, "liveSince": "2026-10-27T20:38:25Z", "wikidata": "Q56350071"},
   {"id": "timesbrasil", "name": "Times Brasil CNBC", "category": "economy", "youtubeChannelId": "UC2vs-PnhPNxACC5wti_KMTg", "youtubeVideoId": "vb4269SjCk0", "embeddable": true, "live": false},
   {"id": "tvbrasil", "name": "TV Brasil", "category": "broadcast", "youtubeChannelId": "UCSv9d0kQegylHWpP83jWSQg", "youtubeVideoId": "I_0R0Ds8QT4", "embeddable": true, "live": true, "liveSince": "2026-10-27T18:59:50Z"},
   {"id": "record", "name": "RECORD", "category": "broadcast", "youtubeChannelId": "UCu_a6PAzp30Bn2mM-Ll09LA", "youtubeVideoId": "OKw1YtSQkMo", "embeddable": true, "live": false},
@@ -19,11 +19,11 @@
   {"id": "canalgov", "name": "Canal Gov", "category": "government", "youtubeChannelId": "UCjaWLFTNqLkq3ZY2BJ4NYRg", "youtubeVideoId": "nqfph9USEYA", "embeddable": true, "live": true, "liveSince": "2026-07-24T13:42:22Z", "wikidata": "Q120762994"},
   {"id": "tvsenado", "name": "TV Senado", "category": "government", "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ", "youtubeVideoId": "aCC6QnkLNpU", "embeddable": true, "live": true, "liveSince": "2026-10-27T11:01:09Z", "wikidata": "Q7672422"},
   {"id": "tvcamara", "name": "TV Câmara", "category": "government", "youtubeChannelId": "UC-ZkSRh-7UEuwXJQ9UMCFJA", "youtubeVideoId": "oxF9pMwz7Yk", "embeddable": true, "live": true, "liveSince": "2026-10-27T17:14:26Z", "wikidata": "Q6137650"},
-  {"id": "cbn", "name": "Rádio CBN", "category": "radio", "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag", "youtubeVideoId": "HoCFPaPjEcI", "embeddable": true, "live": true, "liveSince": "2026-10-27T17:08:45Z", "wikidata": "Q7385857"},
+  {"id": "cbn", "name": "Rádio CBN", "category": "radio", "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag", "youtubeVideoId": "ZnWFrxkrXaI", "embeddable": true, "live": true, "liveSince": "2026-10-27T20:02:46Z", "wikidata": "Q7385857"},
   {"id": "bandnewsfm", "name": "BandNews FM", "category": "radio", "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg", "youtubeVideoId": "xvNoGOwdjrU", "embeddable": true, "live": true, "liveSince": "2026-10-27T19:00:18Z"},
-  {"id": "itatiaia", "name": "Rádio Itatiaia", "category": "radio", "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg", "youtubeVideoId": "txI3BfrQAtA", "embeddable": true, "live": true, "liveSince": "2026-10-27T17:00:30Z"},
+  {"id": "itatiaia", "name": "Rádio Itatiaia", "category": "radio", "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg", "youtubeVideoId": "FHVL8uEKywE", "embeddable": true, "live": true, "liveSince": "2026-10-27T20:00:26Z"},
   {"id": "bandeirantes", "name": "Rádio Bandeirantes", "category": "radio", "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ", "youtubeVideoId": "fNF9kCmRDQI", "embeddable": true, "live": true, "liveSince": "2026-10-27T16:02:51Z", "languages": ["pt"]},
   {"id": "gaucha", "name": "Rádio Gaúcha", "category": "radio", "youtubeChannelId": "UCRC3upGcj_decdPi7JXT7Bg", "youtubeVideoId": "hAEXNkLjH_s", "embeddable": true, "live": true, "liveSince": "2026-07-03T20:58:49Z", "languages": ["pt"]},
-  {"id": "guaiba", "name": "Rádio Guaíba", "category": "radio", "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w", "youtubeVideoId": "AZKLLOCt0Bw", "embeddable": true, "live": true, "liveSince": "2026-10-27T18:01:25Z", "languages": ["pt"]}
+  {"id": "guaiba", "name": "Rádio Guaíba", "category": "radio", "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w", "youtubeVideoId": "AZKLLOCt0Bw", "embeddable": true, "live": false, "languages": ["pt"]}
  ]
 }

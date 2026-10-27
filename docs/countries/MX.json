@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102719,
+ "version": 2026102720,
  "defaultTiles": [
   "mx.nmas",
   "mx.aztecanoticias",
-  "mx.milenio",
+  "mx.imagennoticias",
   "mx.heraldo",
+  "mx.unotv",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
-  "mx.imagentv",
-  "mx.canalcongreso"
+  "mx.imagentv"
  ],
  "channels": [
   {
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UCFxHplbcoJK9m70c4VyTIxg",
    "youtubeVideoId": "i2H_iU_hfaY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -58,9 +58,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
-   "youtubeVideoId": "LW5Gd0KJ7Ew",
+   "youtubeVideoId": "i-rEKKcz06U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -169,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
-   "youtubeVideoId": "kMjbAmLpHqQ",
+   "youtubeVideoId": "EqWL4X9Rlc4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -289,7 +289,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "ifzBh513JwU",
+   "youtubeVideoId": "PUIVTUEi5Lk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -332,7 +332,7 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "IkOxvXxzka4",
+   "youtubeVideoId": "rQA2TQe5w3k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27031787",
@@ -464,7 +464,7 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "hAu9nXcitwA",
+   "youtubeVideoId": "nFYd7tPMBEo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5746883",

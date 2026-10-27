@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026102719,
+ "version": 2026102720,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
   "fr.bfmtv",
   "fr.euronewsfr",
+  "fr.tv5monde",
   "fr.france24en",
   "fr.euronews",
   "fr.france24es",
-  "fr.france24ar",
-  "fr.rfi"
+  "fr.france24ar"
  ],
  "channels": [
   {
@@ -440,9 +440,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg",
-   "youtubeVideoId": "PQfLjksNTto",
+   "youtubeVideoId": "8mf7fnNNn0I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2138163",
    "description": {
     "en": "French-speaking television network",
@@ -522,9 +522,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
-   "youtubeVideoId": "yMMq3hmkoEA",
+   "youtubeVideoId": "pV9U_Y1e-7E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -540,9 +540,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ",
-   "youtubeVideoId": "YC1Lu6eKmeg",
+   "youtubeVideoId": "d7Bmrrns61w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3205960",
    "description": {
     "en": "French National Assembly TV channel",
@@ -565,7 +565,7 @@
    "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA",
    "youtubeVideoId": "qv0lNpx-ilQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3410428",
    "description": {
     "en": "French parliamentary television channel",
@@ -682,9 +682,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ",
-   "youtubeVideoId": "kvafTghfrEo",
+   "youtubeVideoId": "0b2CBcYa-vs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q372375",
    "description": {
     "en": "French radio station",
@@ -714,9 +714,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A",
-   "youtubeVideoId": "e3SOGmKdWSA",
+   "youtubeVideoId": "avvfT7RlvO8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1961361",
    "description": {
     "en": "French radio station",
