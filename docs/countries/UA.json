@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026102709,
+ "version": 2026102719,
  "defaultTiles": [
   "ua.suspilne",
+  "ua.tsn",
   "ua.espreso",
   "ua.united24",
-  "ua.tsn",
   "ua.faktyictv",
   "ua.kyiv24",
   "ua.pryamiy",

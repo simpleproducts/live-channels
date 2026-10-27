@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
@@ -29,7 +29,7 @@
    "description": {
     "en": "Japanese television network",
     "zh-Hans": "日本电视台",
-    "ja": "日本のテレビ放送網兼ニュース系列（テレビ朝日系列）",
+    "ja": "日本のテレビ放送網兼ニュース系列（テレ朝系列）",
     "fr": "réseau de télévision commercial japonais",
     "ko": "일본의 TV 아사히(키국)와 아사히방송(준키국) 뉴스 가맹국",
     "it": "rete televisiva giapponese",

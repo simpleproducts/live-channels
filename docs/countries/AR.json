@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
   "ar.tn",
   "ar.lnmas",
@@ -322,7 +322,7 @@
   },
   {
    "id": "ar.tvpublica",
-   "name": "TV Pública",
+   "name": "Canal 7 (TV Pública)",
    "category": "broadcast",
    "languages": [
     "es"
@@ -351,7 +351,7 @@
     "it": "https://it.wikipedia.org/wiki/Canal_7_(rete_televisiva_argentina)",
     "de": "https://de.wikipedia.org/wiki/Canal_7_(Argentinien)"
    },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nuevo_logo_de_la_Televisi%C3%B3n_P%C3%BAblica_%28en_color_y_sin_fondo%29.png?width=256",
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_7_Argentina.svg?width=256",
    "website": "https://canal7.com.ar",
    "city": "Buenos Aires"
   },

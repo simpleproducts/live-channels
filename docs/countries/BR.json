@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026102715,
+ "version": 2026102719,
  "defaultTiles": [
-  "br.jovempan",
   "br.recordnews",
+  "br.jovempan",
   "br.cnnbrasil",
   "br.sbtnews",
   "br.canalrural",
