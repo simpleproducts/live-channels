@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026102703,
+ "version": 2026102704,
  "defaultTiles": [
   "ke.ntv",
   "ke.ktn",
@@ -209,9 +209,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCOsHyjujol57SIFR0imyEKQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "UyVKwU_0IEs",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

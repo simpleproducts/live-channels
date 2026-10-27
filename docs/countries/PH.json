@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102703,
+ "version": 2026102704,
  "defaultTiles": [
   "ph.abscbn",
   "ph.gma",
   "ph.untv",
+  "ph.net25",
   "ph.rappler",
   "ph.anc",
   "ph.inquirer",
   "ph.dzrh",
-  "ph.house",
-  "ph.teleradyo"
+  "ph.house"
  ],
  "channels": [
   {
@@ -174,9 +174,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "ymSsZRAX3Sg",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -4,8 +4,8 @@
  "defaultTiles": [],
  "channels": [
   {"id": "tvrain", "name": "Дождь (TV Rain)", "category": "news", "youtubeChannelId": "UCdubelOloxR3wzwJG9x8YqQ", "youtubeVideoId": "s4FhCLwXfCE", "embeddable": true, "live": false},
-  {"id": "currenttime", "name": "Настоящее Время (Current Time)", "category": "news", "youtubeChannelId": "UCBG57608Hukev3d0d-gvLhQ", "youtubeVideoId": "t9Ilev-uk4w", "embeddable": true, "live": true, "liveSince": "2023-06-24T00:00:00Z"},
-  {"id": "euronewsru", "name": "Euronews по-русски", "category": "news", "youtubeChannelId": "UCFzJjgVicCtFxJ5B0P_ei8A", "youtubeVideoId": "lwYzwdBiaho", "embeddable": true, "live": true, "liveSince": "2022-12-14T00:00:00Z", "languages": ["ru"]},
+  {"id": "currenttime", "name": "Настоящее Время (Current Time)", "category": "news", "youtubeChannelId": "UCBG57608Hukev3d0d-gvLhQ", "youtubeVideoId": "t9Ilev-uk4w", "embeddable": true, "live": true, "liveSince": "2023-06-24T11:12:08Z"},
+  {"id": "euronewsru", "name": "Euronews по-русски", "category": "news", "youtubeChannelId": "UCFzJjgVicCtFxJ5B0P_ei8A", "youtubeVideoId": "lwYzwdBiaho", "embeddable": true, "live": true, "liveSince": "2022-12-14T11:45:38Z", "languages": ["ru"]},
   {"id": "popularpolitics", "name": "Популярная политика", "category": "news", "youtubeChannelId": "UC7Elc-kLydl-NAV4g204pDQ", "youtubeVideoId": "bNE6ppKqo9o", "embeddable": true, "live": false, "languages": ["ru"]},
   {"id": "rtvi", "name": "RTVI", "category": "news", "youtubeChannelId": "UCPU28A9z_ka_R5dQfecHJlA", "live": false, "languages": ["ru"]},
   {"id": "zhivoygvozd", "name": "Живой гвоздь", "category": "radio", "youtubeChannelId": "UCWAIvx2yYLK_xTYD4F2mUNw", "youtubeVideoId": "Fc58X3eo9ew", "embeddable": true, "live": false, "languages": ["ru"]}

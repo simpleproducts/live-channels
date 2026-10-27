@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026102703,
+ "version": 2026102704,
  "defaultTiles": [
   "cn.cgtneurope",
   "cn.cgtnfr",
@@ -124,7 +124,7 @@
     "it": "https://it.wikipedia.org/wiki/CGTN-Espa%C3%B1ol",
     "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E9%A2%91%E9%81%93",
     "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%AC%D9%8A_%D8%AA%D9%8A_%D8%A5%D9%86_%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9",
-    "nl": "https://nl.wikipedia.org/wiki/CGTN-Espa%C3%B1ol",
+    "nl": "https://nl.wikipedia.org/wiki/CCTV-Espa%C3%B1ol",
     "pl": "https://pl.wikipedia.org/wiki/CGTN_Spanish",
     "id": "https://id.wikipedia.org/wiki/CGTN_bahasa_Spanyol",
     "ms": "https://ms.wikipedia.org/wiki/CGTN_Sepanyol"
@@ -169,7 +169,7 @@
     "it": "https://it.wikipedia.org/wiki/CGTN-Fran%C3%A7ais",
     "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9B%BD%E7%8E%AF%E7%90%83%E7%94%B5%E8%A7%86%E7%BD%91%E6%B3%95%E8%AF%AD%E9%A2%91%E9%81%93",
     "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%AC%D9%8A_%D8%AA%D9%8A_%D8%A5%D9%86_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9",
-    "nl": "https://nl.wikipedia.org/wiki/CGTN-Fran%C3%A7ais",
+    "nl": "https://nl.wikipedia.org/wiki/CCTV-Fran%C3%A7ais",
     "pl": "https://pl.wikipedia.org/wiki/CGTN-F",
     "id": "https://id.wikipedia.org/wiki/CGTN_bahasa_Prancis"
    },

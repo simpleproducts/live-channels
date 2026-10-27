@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026102703,
+ "version": 2026102704,
  "defaultTiles": [
   "au.abcnews",
   "au.aph"
@@ -140,7 +140,7 @@
    },
    "logo": null,
    "website": "https://www.aph.gov.au/",
-   "city": "Australian Capital Territory"
+   "city": "Canberra"
   }
  ]
 }

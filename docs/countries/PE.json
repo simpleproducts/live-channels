@@ -1,14 +1,10 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102703,
+ "version": 2026102704,
  "defaultTiles": [
   "pe.latina",
-  "pe.pbo",
-  "pe.rpp",
-  "pe.willax",
   "pe.congreso",
-  "pe.panamericana",
   "pe.exitosa"
  ],
  "channels": [
@@ -22,7 +18,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "JMiH94DHcp4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -73,7 +69,7 @@
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
    "youtubeVideoId": "vT_4T-kecZs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -121,7 +117,7 @@
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
    "youtubeVideoId": "-esHHVyCi5w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -214,7 +210,7 @@
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
    "youtubeVideoId": "kgfdBv2tsSU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -414,7 +410,7 @@
     "es": "https://es.wikipedia.org/wiki/Radio_Exitosa"
    },
    "logo": null,
-   "website": "https://www.exitosanoticias.pe/",
+   "website": "https://exitosanoticias.pe",
    "city": null
   },
   {

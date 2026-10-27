@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102703,
+ "version": 2026102704,
  "defaultTiles": [
   "gb.skynews",
+  "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
   "gb.bbcnewsarabic",
@@ -75,9 +76,9 @@
     "en"
    ],
    "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA",
-   "youtubeVideoId": "UmPm6KopKnI",
+   "youtubeVideoId": "PmmEevogFZg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1160945",
    "description": {
     "en": "news division of the publicly funded British Broadcasting Corporation",

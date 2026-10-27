@@ -3,15 +3,15 @@
  "languages": ["ur"],
  "defaultTiles": ["samaa", "geonews", "arynews", "dunyanews", "expressnews", "92news", "dawnnews", "ptvnews", "humnews"],
  "channels": [
-  {"id": "samaa", "name": "Samaa TV", "category": "news", "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q", "youtubeVideoId": "MLDQM0QL_-4", "embeddable": true, "live": true, "liveSince": "2026-05-16T00:00:00Z"},
-  {"id": "geonews", "name": "Geo News", "category": "news", "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g", "youtubeVideoId": "t3fvgmDDmdc", "embeddable": true, "live": true, "liveSince": "2026-06-23T00:00:00Z", "wikidata": "Q5513202"},
-  {"id": "arynews", "name": "ARY News", "category": "news", "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg", "youtubeVideoId": "5FW9ZVMR_7M", "embeddable": true, "live": true, "liveSince": "2026-07-24T00:00:00Z"},
-  {"id": "dunyanews", "name": "Dunya News", "category": "news", "youtubeChannelId": "UCnMBV5Iw4WqKILKue1nP6Hg", "youtubeVideoId": "MNBVAYMxFhI", "embeddable": true, "live": true, "liveSince": "2026-08-07T00:00:00Z"},
-  {"id": "expressnews", "name": "Express News", "category": "news", "youtubeChannelId": "UCTur7oM6mLL0rM2k0znuZpQ", "youtubeVideoId": "KNvaWHgOBMw", "embeddable": true, "live": true, "liveSince": "2026-05-23T00:00:00Z"},
-  {"id": "92news", "name": "92 News HD", "category": "news", "youtubeChannelId": "UCsgC5cbz3DE2Shh34gNKiog", "youtubeVideoId": "A6ZQOpoh5mc", "embeddable": true, "live": true, "liveSince": "2026-10-26T05:00:00Z"},
-  {"id": "dawnnews", "name": "Dawn News", "category": "news", "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg", "youtubeVideoId": "CxtDizYfoQE", "embeddable": true, "live": true, "liveSince": "2026-09-19T00:00:00Z", "wikidata": "Q5242486"},
-  {"id": "ptvnews", "name": "PTV News", "category": "news", "youtubeChannelId": "UC5RvV_LtR1dxPCVFGw6dxXA", "youtubeVideoId": "r6T5qL_tr0U", "embeddable": true, "live": true, "liveSince": "2026-10-13T00:00:00Z"},
-  {"id": "humnews", "name": "Hum News", "category": "news", "youtubeChannelId": "UC0Um3pnZ2WGBEeoA3BX2sKw", "youtubeVideoId": "AHEhtZUMML8", "embeddable": true, "live": true, "liveSince": "2026-10-24T00:00:00Z", "wikidata": "Q56278122"},
-  {"id": "gnn", "name": "GNN", "category": "news", "youtubeChannelId": "UC35KuZBNIj4S5Ls0yjY-UHQ", "youtubeVideoId": "Pzv58lUgiVo", "embeddable": true, "live": true, "liveSince": "2026-04-07T00:00:00Z"}
+  {"id": "samaa", "name": "Samaa TV", "category": "news", "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q", "youtubeVideoId": "MLDQM0QL_-4", "embeddable": true, "live": true, "liveSince": "2026-05-17T03:01:25Z"},
+  {"id": "geonews", "name": "Geo News", "category": "news", "youtubeChannelId": "UC_vt34wimdCzdkrzVejwX9g", "youtubeVideoId": "t3fvgmDDmdc", "embeddable": true, "live": true, "liveSince": "2026-06-23T19:31:16Z", "wikidata": "Q5513202"},
+  {"id": "arynews", "name": "ARY News", "category": "news", "youtubeChannelId": "UCMmpLL2ucRHAXbNHiCPyIyg", "youtubeVideoId": "5FW9ZVMR_7M", "embeddable": true, "live": true, "liveSince": "2026-07-25T02:41:11Z"},
+  {"id": "dunyanews", "name": "Dunya News", "category": "news", "youtubeChannelId": "UCnMBV5Iw4WqKILKue1nP6Hg", "youtubeVideoId": "MNBVAYMxFhI", "embeddable": true, "live": true, "liveSince": "2026-08-07T18:16:46Z"},
+  {"id": "expressnews", "name": "Express News", "category": "news", "youtubeChannelId": "UCTur7oM6mLL0rM2k0znuZpQ", "youtubeVideoId": "KNvaWHgOBMw", "embeddable": true, "live": true, "liveSince": "2026-05-24T03:26:06Z"},
+  {"id": "92news", "name": "92 News HD", "category": "news", "youtubeChannelId": "UCsgC5cbz3DE2Shh34gNKiog", "youtubeVideoId": "A6ZQOpoh5mc", "embeddable": true, "live": true, "liveSince": "2026-10-26T04:48:26Z"},
+  {"id": "dawnnews", "name": "Dawn News", "category": "news", "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg", "youtubeVideoId": "CxtDizYfoQE", "embeddable": true, "live": true, "liveSince": "2026-09-19T10:36:40Z", "wikidata": "Q5242486"},
+  {"id": "ptvnews", "name": "PTV News", "category": "news", "youtubeChannelId": "UC5RvV_LtR1dxPCVFGw6dxXA", "youtubeVideoId": "r6T5qL_tr0U", "embeddable": true, "live": true, "liveSince": "2026-10-14T04:28:41Z"},
+  {"id": "humnews", "name": "Hum News", "category": "news", "youtubeChannelId": "UC0Um3pnZ2WGBEeoA3BX2sKw", "youtubeVideoId": "AHEhtZUMML8", "embeddable": true, "live": true, "liveSince": "2026-10-24T16:04:44Z", "wikidata": "Q56278122"},
+  {"id": "gnn", "name": "GNN", "category": "news", "youtubeChannelId": "UC35KuZBNIj4S5Ls0yjY-UHQ", "youtubeVideoId": "Pzv58lUgiVo", "embeddable": true, "live": true, "liveSince": "2026-04-07T08:54:46Z"}
  ]
 }

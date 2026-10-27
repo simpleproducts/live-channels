@@ -3,15 +3,15 @@
  "languages": ["pl"],
  "defaultTiles": ["tvpinfo", "republika", "wpolsce24", "polsatnews", "tvpworld", "kanalzero"],
  "channels": [
-  {"id": "tvpinfo", "name": "TVP Info", "category": "news", "youtubeChannelId": "UCzQZbOb86WvhOPoR7jgAfsA", "youtubeVideoId": "3jKb-uThfrg", "embeddable": true, "live": true, "liveSince": "2025-03-24T00:00:00Z"},
+  {"id": "tvpinfo", "name": "TVP Info", "category": "news", "youtubeChannelId": "UCzQZbOb86WvhOPoR7jgAfsA", "youtubeVideoId": "3jKb-uThfrg", "embeddable": true, "live": true, "liveSince": "2025-03-24T10:12:59Z"},
   {"id": "polsatnews", "name": "Polsat News", "category": "news", "youtubeChannelId": "UCb7O4-iI4pEO5UZPlOBr0Ug", "live": false},
-  {"id": "republika", "name": "Telewizja Republika", "category": "news", "youtubeChannelId": "UCc282c_TN8xIba_Z6GaDnQw", "youtubeVideoId": "dzntyCTgJMQ", "embeddable": true, "live": true, "liveSince": "2023-12-20T00:00:00Z"},
-  {"id": "wpolsce24", "name": "wPolsce24", "category": "news", "youtubeChannelId": "UCPiu4CZlknkTworskK79CPg", "youtubeVideoId": "jkDQs_xNYVQ", "embeddable": true, "live": true, "liveSince": "2026-10-19T00:00:00Z"},
-  {"id": "tvpworld", "name": "TVP World", "category": "news", "youtubeChannelId": "UCBjUPsHj7bXt24SUWNoZ0zA", "youtubeVideoId": "tvXWIgsWuK0", "embeddable": true, "live": true, "liveSince": "2026-07-21T00:00:00Z", "languages": ["en"]},
+  {"id": "republika", "name": "Telewizja Republika", "category": "news", "youtubeChannelId": "UCc282c_TN8xIba_Z6GaDnQw", "youtubeVideoId": "dzntyCTgJMQ", "embeddable": true, "live": true, "liveSince": "2023-12-20T13:02:48Z"},
+  {"id": "wpolsce24", "name": "wPolsce24", "category": "news", "youtubeChannelId": "UCPiu4CZlknkTworskK79CPg", "youtubeVideoId": "jkDQs_xNYVQ", "embeddable": true, "live": true, "liveSince": "2026-10-19T12:43:19Z"},
+  {"id": "tvpworld", "name": "TVP World", "category": "news", "youtubeChannelId": "UCBjUPsHj7bXt24SUWNoZ0zA", "youtubeVideoId": "tvXWIgsWuK0", "embeddable": true, "live": true, "liveSince": "2026-07-21T16:51:14Z", "languages": ["en"]},
   {"id": "sejm", "name": "Sejm RP", "category": "government", "youtubeChannelId": "UCN5seY_Oy_GiJRhF06GfRlw", "live": false, "languages": ["pl"]},
   {"id": "kanalzero", "name": "Kanał Zero", "category": "streaming", "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg", "youtubeVideoId": "jA6_HA9rBFA", "embeddable": true, "live": false, "languages": ["pl"]},
   {"id": "rmf24", "name": "RMF24", "category": "radio", "youtubeChannelId": "UCkC9YgH_FlqOhOIoTDFt4CA", "live": false, "languages": ["pl"]},
-  {"id": "radiozet", "name": "Radio ZET", "category": "radio", "youtubeChannelId": "UCvHFbkohgX29NhaUtmkzLmg", "youtubeVideoId": "aLwQU8ZsaTY", "embeddable": true, "live": true, "liveSince": "2026-10-22T00:00:00Z", "languages": ["pl"]},
+  {"id": "radiozet", "name": "Radio ZET", "category": "radio", "youtubeChannelId": "UCvHFbkohgX29NhaUtmkzLmg", "youtubeVideoId": "aLwQU8ZsaTY", "embeddable": true, "live": true, "liveSince": "2026-10-22T10:51:22Z", "languages": ["pl"]},
   {"id": "tokfm", "name": "TOK FM", "category": "radio", "youtubeChannelId": "UCUlZzs-r5LDqARiq1xPkQlw", "live": false, "languages": ["pl"]},
   {"id": "polskieradio24", "name": "Polskie Radio 24", "category": "radio", "youtubeChannelId": "UCTKxkwZp-aWyNsV3vdV2EpA", "youtubeVideoId": "mxn1PLyZF3w", "embeddable": true, "live": false, "languages": ["pl"]}
  ]
