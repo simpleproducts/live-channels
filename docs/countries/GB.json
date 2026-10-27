@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102712,
+ "version": 2026102715,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
@@ -574,9 +574,9 @@
     "en"
    ],
    "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g",
-   "youtubeVideoId": "lk2erhREN6c",
+   "youtubeVideoId": "jYOqKZJWLuQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11010",
    "description": {
     "en": "supreme legislative body of the United Kingdom",

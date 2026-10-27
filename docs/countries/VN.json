@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026102712,
+ "version": 2026102715,
  "defaultTiles": [
-  "vn.vtcnews",
-  "vn.vov"
+  "vn.antv"
  ],
  "channels": [
   {
@@ -15,9 +14,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "-GnY757l-L4",
+   "youtubeVideoId": "8vkYwl-1VH4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -122,7 +121,7 @@
    "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg",
    "youtubeVideoId": "rKotlYs86GM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q108492472",
    "description": {},
    "wikipedia": {},
@@ -190,7 +189,7 @@
    "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg",
    "youtubeVideoId": "_YYjthyWWF0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1141479",
    "description": {
     "en": "national radio broadcaster of Vietnam",

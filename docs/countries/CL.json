@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102712,
+ "version": 2026102715,
  "defaultTiles": [
   "cl.24horas",
   "cl.meganoticias",
@@ -504,7 +504,7 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "8FFtXY9wAoc",
+   "youtubeVideoId": "zjQnXcpHn6U",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5653556",
@@ -531,7 +531,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
-   "youtubeVideoId": "qFmK6Km4PPU",
+   "youtubeVideoId": "fxh-o1Q15rY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "Es69gcMJZlY",
+   "youtubeVideoId": "6w1pdwS-728",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -603,9 +603,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4ZQZFCySssx8rM21sZ5z4A",
-   "youtubeVideoId": "EdA7UOZxqjs",
+   "youtubeVideoId": "WLwnt9azjc8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

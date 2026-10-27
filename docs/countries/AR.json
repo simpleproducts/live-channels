@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102712,
+ "version": 2026102715,
  "defaultTiles": [
   "ar.tn",
   "ar.lnmas",
@@ -228,9 +228,9 @@
     "es"
    ],
    "youtubeChannelId": "UCHc3el42hXKKhjs_1vzWk9A",
-   "youtubeVideoId": "A6LtNcSLVZg",
+   "youtubeVideoId": "tcGP4SpV5y8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1143518",
    "description": {
     "en": "Argentine television network",
@@ -503,7 +503,7 @@
     "es"
    ],
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
-   "youtubeVideoId": "tgPvbSLt654",
+   "youtubeVideoId": "8uwtv5ml4Tw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -657,9 +657,9 @@
     "es"
    ],
    "youtubeChannelId": "UCStm2uvQKowSXrnCzTWAn6Q",
-   "youtubeVideoId": "OsOC50ERKos",
+   "youtubeVideoId": "HwuLH5VEywQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2118303",
    "description": {
     "en": "upper house of Argentina Congress",
@@ -829,7 +829,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "zzTgXjOh0zo",
+   "youtubeVideoId": "wn9Jb5fL2gU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -847,7 +847,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "ML8QB4_BVnE",
+   "youtubeVideoId": "ZSAlgCF2Dkc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -883,7 +883,7 @@
     "es"
    ],
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
-   "youtubeVideoId": "UfonVywQru0",
+   "youtubeVideoId": "fE5vn4JODek",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -919,7 +919,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "m2uLWvHcrQs",
+   "youtubeVideoId": "XPtW31l5JZw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q42912634",
@@ -961,9 +961,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "PH6YfYtgFnw",
+   "youtubeVideoId": "7XYs18Wk5ng",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -979,7 +979,7 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "kOwIMWXkTI0",
+   "youtubeVideoId": "ZtaDogf35kg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1169,7 +1169,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "yWXnv40nexM",
+   "youtubeVideoId": "KzmmjctCIPY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5961729",
@@ -1320,7 +1320,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "iZiR5389jfI",
+   "youtubeVideoId": "gWGPd_lb68M",
    "embeddable": true,
    "live": true,
    "wikidata": null,

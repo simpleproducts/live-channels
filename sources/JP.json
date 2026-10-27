@@ -5,10 +5,10 @@
  "channels": [
   {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "0btnRYnmcHU", "embeddable": true, "live": true, "liveSince": "2026-10-27T09:25:16Z"},
   {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "1TV33UGFgNQ", "embeddable": true, "live": true, "liveSince": "2026-10-27T11:59:20Z"},
-  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "vojRFH97W7Y", "embeddable": true, "live": true, "liveSince": "2026-10-27T11:07:43Z"},
+  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "QcNvtSly3KE", "embeddable": true, "live": true, "liveSince": "2026-10-27T14:35:10Z"},
   {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "RtH22WvFgbs", "embeddable": true, "live": true, "liveSince": "2026-10-19T11:57:46Z"},
   {"id": "nhkworld", "name": "NHK WORLD-JAPAN", "category": "news", "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A", "youtubeVideoId": "IimtbuqYIE8", "embeddable": true, "live": true, "liveSince": "2026-09-02T05:10:50Z", "languages": ["en"]},
-  {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "Oee7WFaO9ko", "embeddable": true, "live": true, "liveSince": "2026-10-27T10:36:04Z"},
+  {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "dGdtz-1SsB0", "embeddable": true, "live": true, "liveSince": "2026-10-27T15:37:50Z"},
   {"id": "kyodo", "name": "共同通信", "category": "news", "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw", "youtubeVideoId": "rLmi5t60BXM", "embeddable": true, "live": false},
   {"id": "abemanews", "name": "ABEMAニュース", "category": "news", "youtubeChannelId": "UCk5a240pQsTVT9CWPnTyIJw", "live": false},
   {"id": "sankei", "name": "Sankei News", "category": "news", "youtubeChannelId": "UC1zYGo1jIIjMVDTLL3dydow", "live": false},

@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026102712,
+ "version": 2026102715,
  "defaultTiles": [
-  "ca.cbcnews"
+  "ca.cbcnews",
+  "ca.globalnews",
+  "ca.cpac"
  ],
  "channels": [
   {
@@ -93,9 +95,9 @@
     "fr"
    ],
    "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-   "youtubeVideoId": "WucOPu8Lg44",
+   "youtubeVideoId": "5--C_rfW49w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5570514",
    "description": {
     "en": "Canadian news network, division of Global Television Network",
@@ -315,9 +317,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
-   "youtubeVideoId": "o4006qmqMz0",
+   "youtubeVideoId": "8GYmqp0LXFU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931869",
    "description": {
     "en": "Canadian parliamentary broadcaster",

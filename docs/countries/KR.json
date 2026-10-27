@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026102712,
+ "version": 2026102715,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "M9r_vI0XHR0",
+   "youtubeVideoId": "9e2tpNnEkgQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -226,7 +226,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-   "youtubeVideoId": "DYhUtGv_68k",
+   "youtubeVideoId": "ZwjSB8qjhvI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -494,7 +494,7 @@
    "youtubeChannelId": "UCREjdu30qQ0Mfrbz9t-gt9A",
    "youtubeVideoId": "SXnO5slzsDs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -530,7 +530,7 @@
    "youtubeChannelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
    "youtubeVideoId": "QpkhOYPDbYM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q83624247",
    "description": {
     "en": "Korean public-service television network",

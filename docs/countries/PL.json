@@ -1,14 +1,16 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026102709,
+ "version": 2026102715,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
   "pl.tvpworld",
   "pl.radiozet",
-  "pl.sejm"
+  "pl.kanalzero",
+  "pl.sejm",
+  "pl.polskieradio24"
  ],
  "channels": [
   {
@@ -211,9 +213,9 @@
     "pl"
    ],
    "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg",
-   "youtubeVideoId": "jA6_HA9rBFA",
+   "youtubeVideoId": "MvnOgg8orZM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q124607345",
    "description": {
     "en": "Polish online general-interest channel",
@@ -289,9 +291,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCTKxkwZp-aWyNsV3vdV2EpA",
-   "youtubeVideoId": "mxn1PLyZF3w",
+   "youtubeVideoId": "Ek7S3RRT2qs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
