@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "17 */2 * * *"   # every 2 hours
+    - cron: "17 * * * *"   # every hour (refresh_live.py keeps the Data API under its daily quota)
   workflow_dispatch:
 
 permissions:
@@ -24,7 +24,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      # Wikidata / Wikipedia responses, so scheduled runs don't re-query everything every 2 hours
+      # Wikidata / Wikipedia responses and refresh_live's finished video ids, so scheduled runs don't
+      # re-query everything every hour
       - uses: actions/cache@v4
         with:
           path: .cache

@@ -23,7 +23,7 @@ scripts/build.py           sources/ -> docs/ (live pinning, Wikidata enrichment,
 scripts/refresh_live.py    refreshes pinned live video ids with the YouTube Data API (YT_API_KEY)
 scripts/live.py            key-less live detection (scrapes /channel/<UC>/live), used by build.py
 scripts/common.py          shared helpers (stable source-file formatting)
-.github/workflows/build.yml  on push to main and every 2 hours: refresh, build, commit docs/ if changed
+.github/workflows/build.yml  on push to main and every hour: refresh, build, commit docs/ if changed
 docs/                      published output (do not edit by hand), served at https://getskywall.app/channels/
 ```
 
@@ -34,9 +34,14 @@ docs/                      published output (do not edit by hand), served at htt
    broadcast in `youtubeVideoId`:
    - **With `YT_API_KEY`** (repo secret): `refresh_live.py` batches `videos.list` on all pinned ids
      (50 per call, 1 quota unit). For pins that ended, it reads each channel's RSS feed (free) and
-     checks the recent ids with `videos.list`. Only then does it call `search.list` (100 units),
-     capped at `SEARCH_CAP` (default 6) per run so 12 runs a day stay under the 10k daily quota.
-     The workflow then runs `build.py --no-scrape`.
+     checks the recent ids with `videos.list`. Then it reads the channel's live-streams playlist
+     (`UULV…`, `playlistItems.list`, 1 unit) for up to `LIVE_PLAYLIST_CAP` channels a run (default
+     100), which finds a 24/7 stream that restarted under a new id. Only then does it call
+     `search.list` (100 units), capped at `SEARCH_CAP` (default 2) per run. Channels whose stream just
+     ended go first, then channels on an event wall from 3 days before its start, then an hourly
+     rotation of the rest. Finished video ids are remembered in `.cache/` and not checked again. 24
+     runs a day stay under the 10k daily quota, and a run that can't check the pinned ids changes
+     nothing. The workflow then runs `build.py --no-scrape`.
    - **Without a key**: `build.py` fetches `https://www.youtube.com/channel/<UC>/live` for every
      channel. The channel counts as live now only when all of these hold:
      - the canonical URL is `watch?v=<id>`
