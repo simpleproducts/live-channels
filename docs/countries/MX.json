@@ -1,17 +1,13 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102704,
+ "version": 2026102709,
  "defaultTiles": [
   "mx.nmas",
   "mx.milenio",
-  "mx.aztecanoticias",
-  "mx.heraldo",
-  "mx.unotv",
-  "mx.adnnoticias",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.radioformula"
+  "mx.canalonce"
  ],
  "channels": [
   {
@@ -105,7 +101,7 @@
    "youtubeChannelId": "UCUP6qv-_EIL0hwTsJaKYnvw",
    "youtubeVideoId": "CVvlpG2jhxo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -141,7 +137,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "zZE-dGC0wCE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -171,7 +167,7 @@
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
    "youtubeVideoId": "RBFUP8vvom4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -193,7 +189,7 @@
    "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
    "youtubeVideoId": "u9_CHT3AXWA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -289,9 +285,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "FXqMYqCavOw",
+   "youtubeVideoId": "1SpFvTgMFzE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -490,7 +486,7 @@
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
    "youtubeVideoId": "8HCxjWGJmK4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",

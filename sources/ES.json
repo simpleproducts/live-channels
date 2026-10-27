@@ -19,9 +19,9 @@
   {"id": "telemadrid", "name": "Telemadrid", "category": "regional", "youtubeChannelId": "UCv2BcgqxHSrl2QQfIkjR5Eg", "youtubeVideoId": "UcAfvsNRiPY", "embeddable": true, "live": true, "liveSince": "2026-10-12T18:20:03Z"},
   {"id": "congreso", "name": "Congreso de los Diputados", "category": "government", "youtubeChannelId": "UCT3tvU3bVxOa3ZiVD-B7h9g", "youtubeVideoId": "_ccgu4PHBLo", "embeddable": true, "live": false},
   {"id": "senado", "name": "Senado de España", "category": "government", "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w", "youtubeVideoId": "tUFjAUDzaJg", "embeddable": true, "live": false},
-  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "OVlZ9Czva5o", "embeddable": true, "live": true, "liveSince": "2026-10-27T02:59:47Z", "wikidata": "Q1025113"},
+  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "3uY7_j8wCh4", "embeddable": true, "live": true, "liveSince": "2026-10-27T09:10:06Z", "wikidata": "Q1025113"},
   {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "LCa_keyfeHA", "embeddable": true, "live": false, "wikidata": "Q2748448"},
   {"id": "cope", "name": "COPE", "category": "radio", "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ", "live": false, "wikidata": "Q2748488"},
-  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "4fRV6Wn4ZYk", "embeddable": true, "live": false, "wikidata": "Q3390195"}
+  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "6NCv_0axWBQ", "embeddable": true, "live": true, "liveSince": "2026-10-27T05:57:21Z", "wikidata": "Q3390195"}
  ]
 }

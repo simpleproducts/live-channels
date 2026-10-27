@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102703,
+ "version": 2026102709,
  "defaultTiles": [
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
   "jp.fnn",
   "jp.weathernews",
-  "jp.kyodo",
   "jp.nhkworld",
   "jp.mbs",
-  "jp.satv"
+  "jp.satv",
+  "jp.ytv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "nK0X9iiutnY",
+   "youtubeVideoId": "0btnRYnmcHU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "e2IzaVaeNa0",
+   "youtubeVideoId": "aNsOVrHPS0M",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -115,7 +115,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-   "youtubeVideoId": "zssm0EmeqVE",
+   "youtubeVideoId": "4QLMrMppU20",
    "embeddable": true,
    "live": true,
    "wikidata": "Q124919956",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "gHNXBew5zDE",
+   "youtubeVideoId": "VS8nhoFEzDY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -224,7 +224,7 @@
    "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
    "youtubeVideoId": "rLmi5t60BXM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q779730",
    "description": {
     "en": "news agency",
@@ -394,7 +394,7 @@
    "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
    "youtubeVideoId": "jXQEf8w8yCY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -536,7 +536,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
-   "youtubeVideoId": "X5FAjq2ikKk",
+   "youtubeVideoId": "lwjVTY5clJc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -554,7 +554,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
-   "youtubeVideoId": "t4SazhNcsp4",
+   "youtubeVideoId": "7kQyt64riAE",
    "embeddable": true,
    "live": true,
    "wikidata": null,

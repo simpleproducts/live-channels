@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102703,
+ "version": 2026102709,
  "defaultTiles": [
-  "uy.universal"
+  "uy.ladiaria",
+  "uy.sarandi"
  ],
  "channels": [
   {
@@ -48,9 +49,9 @@
     "es"
    ],
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
-   "youtubeVideoId": "NIrMicRpTGs",
+   "youtubeVideoId": "D5oBft8y6YQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -322,9 +323,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "ppRn0vhJkvI",
+   "youtubeVideoId": "h6O7Lshs1VM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -342,7 +343,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "Bcl1n2H4b8s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026102703,
+ "version": 2026102709,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -638,7 +638,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "OVlZ9Czva5o",
+   "youtubeVideoId": "3uY7_j8wCh4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1025113",
@@ -749,9 +749,9 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "4fRV6Wn4ZYk",
+   "youtubeVideoId": "6NCv_0axWBQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

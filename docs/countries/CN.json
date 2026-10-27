@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026102704,
+ "version": 2026102709,
  "defaultTiles": [
   "cn.cgtneurope",
   "cn.cgtnfr",
   "cn.cgtnru",
-  "cn.cgtn"
+  "cn.newchinatv"
  ],
  "channels": [
   {
@@ -19,7 +19,7 @@
    "youtubeChannelId": "UCgrNz-aDmcr2uuto8_DL2jg",
    "youtubeVideoId": "UOOm26cMyhU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28089296",
    "description": {
     "en": "Chinese international state-media organization",
@@ -288,9 +288,9 @@
     "en"
    ],
    "youtubeChannelId": "UCHBDXQDmqnaqIEPdEapEFVQ",
-   "youtubeVideoId": "ZyAnlTiB9rI",
+   "youtubeVideoId": "5VV_5ODscIs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q204839",
    "description": {
     "en": "official press agency of the People's Republic of China",

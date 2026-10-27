@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102704,
+ "version": 2026102709,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.foxweather",
   "us.cbsnews",
   "us.nbcnews",
-  "us.nmasunivision",
-  "us.telemundo"
+  "us.ap",
+  "us.nmasunivision"
  ],
  "channels": [
   {
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "zNRqkUYAE54",
+   "youtubeVideoId": "kY12_9JSacM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -845,9 +845,9 @@
     "en"
    ],
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
-   "youtubeVideoId": "pp1HWAXweQE",
+   "youtubeVideoId": "tTpJO3_ECzw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1001,7 +1001,7 @@
    "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA",
    "youtubeVideoId": "eAY8fyH5evI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026102703,
+ "version": 2026102709,
  "defaultTiles": [
-  "vn.antv"
+  "vn.antv",
+  "vn.thanhnien",
+  "vn.vov"
  ],
  "channels": [
   {
@@ -14,7 +16,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "m_a6n5TNaf8",
+   "youtubeVideoId": "-GnY757l-L4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -50,9 +52,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
-   "youtubeVideoId": "11yRFlIUtCc",
+   "youtubeVideoId": "7U5Do4QnUvE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7710368",
    "description": {
     "en": "Vietnamese newspaper",
@@ -187,9 +189,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg",
-   "youtubeVideoId": "Mg6FGC2tVxs",
+   "youtubeVideoId": "_YYjthyWWF0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1141479",
    "description": {
     "en": "national radio broadcaster of Vietnam",

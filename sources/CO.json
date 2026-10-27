@@ -19,7 +19,7 @@
   {"id": "teleantioquia", "name": "Teleantioquia", "category": "regional", "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ", "live": false},
   {"id": "telecaribe", "name": "Telecaribe", "category": "regional", "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw", "youtubeVideoId": "tCs627Adp08", "embeddable": true, "live": false, "wikidata": "Q5547733"},
   {"id": "telepacifico", "name": "Telepacífico", "category": "regional", "youtubeChannelId": "UC_AZE6OOfsr7CxzPfkjnM9A", "live": false},
-  {"id": "bluradio", "name": "Blu Radio", "category": "radio", "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg", "youtubeVideoId": "LQoHGkvVDNE", "embeddable": true, "live": true, "liveSince": "2026-10-27T03:08:11Z", "wikidata": "Q4672090"},
+  {"id": "bluradio", "name": "Blu Radio", "category": "radio", "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg", "youtubeVideoId": "zA0_LsRZy7I", "embeddable": true, "live": true, "liveSince": "2026-10-27T08:58:02Z", "wikidata": "Q4672090"},
   {"id": "caracolradio", "name": "Caracol Radio", "category": "radio", "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw", "youtubeVideoId": "kqZjwMf8h2A", "embeddable": true, "live": false, "wikidata": "Q4382447"},
   {"id": "lafm", "name": "La FM", "category": "radio", "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g", "youtubeVideoId": "24ETC9FUcrs", "embeddable": true, "live": false, "wikidata": "Q2840179"},
   {"id": "radionacional", "name": "Radio Nacional de Colombia", "category": "radio", "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A", "live": false, "wikidata": "Q5843056"},
@@ -28,6 +28,6 @@
   {"id": "tropicana", "name": "Tropicana", "category": "radio", "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ", "youtubeVideoId": "JRSXF6s5W5w", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "lakalle", "name": "La Kalle", "category": "radio", "youtubeChannelId": "UClAlbNsawVywJF99roh7qvA", "youtubeVideoId": "7UnSnL5ZITA", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "olimpica", "name": "Olímpica Stereo", "category": "radio", "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A", "youtubeVideoId": "WnBCkxf1zCU", "embeddable": true, "live": false, "languages": ["es"]},
-  {"id": "lamega", "name": "La Mega", "category": "radio", "youtubeChannelId": "UCiVHAfsq_UPsw8cm0sylDRw", "youtubeVideoId": "oxoFImx1crY", "embeddable": true, "live": true, "liveSince": "2026-10-26T23:56:03Z", "languages": ["es"]}
+  {"id": "lamega", "name": "La Mega", "category": "radio", "youtubeChannelId": "UCiVHAfsq_UPsw8cm0sylDRw", "youtubeVideoId": "oxoFImx1crY", "embeddable": true, "live": false, "languages": ["es"]}
  ]
 }

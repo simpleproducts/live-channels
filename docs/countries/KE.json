@@ -1,17 +1,15 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026102704,
+ "version": 2026102709,
  "defaultTiles": [
   "ke.ntv",
   "ke.ktn",
   "ke.k24",
   "ke.citizentv",
-  "ke.tv47",
   "ke.kbc",
   "ke.ramogi",
-  "ke.radiocitizen",
-  "ke.inooro"
+  "ke.parliament"
  ],
  "channels": [
   {
@@ -23,7 +21,7 @@
     "sw"
    ],
    "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g",
-   "youtubeVideoId": "ahz6vqJN51s",
+   "youtubeVideoId": "Zdm69cMSOiE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -101,7 +99,7 @@
    "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
    "youtubeVideoId": "5oMFKSe1gxo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -118,7 +116,7 @@
     "sw"
    ],
    "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg",
-   "youtubeVideoId": "upIVYhkjeBc",
+   "youtubeVideoId": "UfKZ8pUm9R0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6392548",
@@ -156,7 +154,7 @@
    "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw",
    "youtubeVideoId": "5fBZg3CIR0w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -173,7 +171,7 @@
     "sw"
    ],
    "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ",
-   "youtubeVideoId": "Sb4nkycfI0c",
+   "youtubeVideoId": "28H4w0mlfpo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -191,9 +189,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXuseB7juWB7DIgTJcwtHFQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "96Sjgn2v1Y4",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -211,7 +209,7 @@
    "youtubeChannelId": "UCOsHyjujol57SIFR0imyEKQ",
    "youtubeVideoId": "UyVKwU_0IEs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -229,7 +227,7 @@
    "youtubeChannelId": "UCd5mKY1HUcDBySXgK1lYUvg",
    "youtubeVideoId": "XUT4oeVzy4o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

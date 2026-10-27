@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026102704,
+ "version": 2026102709,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
   "th.ch7news",
+  "th.ch3news",
   "th.pptv",
   "th.amarin",
   "th.nation",
-  "th.topnews",
-  "th.tpchannel"
+  "th.workpoint",
+  "th.thaipbsnews"
  ],
  "channels": [
   {
@@ -21,7 +22,7 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "HPF8pqc3m8k",
+   "youtubeVideoId": "W3vgqwvUm2Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2603792",
@@ -53,9 +54,9 @@
     "th"
    ],
    "youtubeChannelId": "UCOFvLl4bKwCIZg0r4EBQLug",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "vU9GWZuAfCI",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -71,7 +72,7 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "Di8OxuXGCzY",
+   "youtubeVideoId": "PDqePPgtHlw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -89,9 +90,9 @@
     "th"
    ],
    "youtubeChannelId": "UCirZPTc9IoKM_DsA9aKbc4g",
-   "youtubeVideoId": "UmQ_--EsOXA",
+   "youtubeVideoId": "4QDM1lyuWXk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -107,7 +108,7 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "7GglHnzxTHc",
+   "youtubeVideoId": "2Mkkp2gioMA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -143,7 +144,7 @@
     "th"
    ],
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
-   "youtubeVideoId": "2FgB2XP0W-k",
+   "youtubeVideoId": "lCEEueZvhio",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16306127",
@@ -169,7 +170,7 @@
     "th"
    ],
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
-   "youtubeVideoId": "8fZSMreQQf4",
+   "youtubeVideoId": "U12aRtT_pko",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -187,7 +188,7 @@
     "th"
    ],
    "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg",
-   "youtubeVideoId": "RAb3DGWjlNQ",
+   "youtubeVideoId": "Mv0Mnkb_CE8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -205,9 +206,9 @@
     "th"
    ],
    "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ",
-   "youtubeVideoId": "RZr8NVXk-3w",
+   "youtubeVideoId": "D4--D4AW4BY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -259,9 +260,9 @@
     "th"
    ],
    "youtubeChannelId": "UCk1v3FzlMu3r34LYgoHpH2w",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "K6EuXh5UTEk",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -297,7 +298,7 @@
    "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A",
    "youtubeVideoId": "6rJ2ixH0fWQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
