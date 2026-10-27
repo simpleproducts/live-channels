@@ -7,6 +7,9 @@
   {"id": "enca", "name": "eNCA", "category": "news", "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA", "youtubeVideoId": "xblKjx_prqU", "embeddable": true, "live": true, "liveSince": "2026-10-27T08:08:23Z"},
   {"id": "newzroom", "name": "Newzroom Afrika", "category": "news", "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ", "live": false},
   {"id": "news24", "name": "News24", "category": "news", "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw", "live": false, "wikidata": "Q2909223"},
-  {"id": "parliament", "name": "Parliament of South Africa", "category": "government", "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ", "live": false, "wikidata": "Q2185780"}
+  {"id": "parliament", "name": "Parliament of South Africa", "category": "government", "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ", "live": false, "wikidata": "Q2185780"},
+  {"id": "iec", "name": "Electoral Commission of South Africa", "category": "government", "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ", "live": false},
+  {"id": "radio702", "name": "Radio 702", "category": "radio", "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg", "youtubeVideoId": "QwPVxirpS9M", "embeddable": true, "live": true, "liveSince": "2026-10-27T03:00:00Z"},
+  {"id": "safm", "name": "SAfm", "category": "radio", "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w", "youtubeVideoId": "hww2YUM6ZFg", "embeddable": true, "live": true, "liveSince": "2026-10-27T03:00:00Z"}
  ]
 }

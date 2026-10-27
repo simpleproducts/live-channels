@@ -9,6 +9,9 @@
   {"id": "gen", "name": "GEN", "category": "news", "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA", "youtubeVideoId": "u6-zOL3V49w", "embeddable": true, "live": false},
   {"id": "telefuturo", "name": "Telefuturo", "category": "broadcast", "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA", "youtubeVideoId": "UiMHKTLSDjs", "embeddable": true, "live": true, "liveSince": "2026-10-27T09:52:21Z", "wikidata": "Q3140411"},
   {"id": "snt", "name": "SNT", "category": "broadcast", "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig", "live": false, "wikidata": "Q523293"},
-  {"id": "unicanal", "name": "Unicanal", "category": "broadcast", "youtubeChannelId": "UCT9-9nG-go0cQGn9rVBzaxA", "live": false, "wikidata": "Q3549937"}
+  {"id": "unicanal", "name": "Unicanal", "category": "broadcast", "youtubeChannelId": "UCT9-9nG-go0cQGn9rVBzaxA", "live": false, "wikidata": "Q3549937"},
+  {"id": "nanduti", "name": "Ñanduti 1020 AM", "category": "radio", "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A", "live": false},
+  {"id": "monumental", "name": "Monumental 1080 AM", "category": "radio", "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ", "youtubeVideoId": "d2xLRbGJt2A", "embeddable": true, "live": true, "liveSince": "2026-10-25T00:00:00Z"},
+  {"id": "caacupe", "name": "Basílica de Caacupé", "category": "religious", "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA", "youtubeVideoId": "rzxlbe29No4", "embeddable": true, "live": true}
  ]
 }

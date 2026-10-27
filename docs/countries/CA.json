@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026102704,
+ "version": 2026102712,
  "defaultTiles": [
-  "ca.cbcnews"
+  "ca.cbcnews",
+  "ca.thenational"
  ],
  "channels": [
   {
@@ -177,6 +178,80 @@
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "ca.thenational",
+   "name": "CBC News: The National",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCKjU3KzdbJE1EFcHVqXC3_g",
+   "youtubeVideoId": "USefgHpgm8c",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2413021",
+   "description": {
+    "en": "flagship daily evening television news program of CBC News",
+    "es": "serie de televisión",
+    "ja": "『ザ・ナショナル 』 は、カナダ・カナダ放送協会によるCBCニュースの英語ニュース部門の旗艦放送として機能する全国テレビニュース番組。カナダ及び国際的な主要なニュース記事を報じており、日曜日〜金曜日まで現地時間22:00（ニューファンドランド時間22:30）に全国のCBCテレビジョン放送局で放送される。",
+    "fr": "journal télévisé phare de la CBC",
+    "pt-BR": "The National é um telejornal canadense produzido e transmitido pela CBC desde 1954.",
+    "ko": "더 내셔널(The National)은 캐나다 방송협회의 영어 채널 CBC 텔레비전에서 방송되는 전국 종합 뉴스 프로그램이다.",
+    "ru": "The National — канадская национальная телевизионная программа новостей, которая является главной программой для англоязычного отдела новостей CBC News от Canadian Broadcasting Corporation и выходит в разных форматах с 1954 года.",
+    "nl": "televisieserie uit Canada",
+    "de": "nationale Nachrichtensendung der Canadian Broadcasting Corporation (CBC)"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_National_(TV_program)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB_(CBC)",
+    "fr": "https://fr.wikipedia.org/wiki/The_National_(CBC)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/The_National_(CBC)",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8D%94_%EB%82%B4%EC%85%94%EB%84%90_(%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)",
+    "ru": "https://ru.wikipedia.org/wiki/The_National_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0)",
+    "de": "https://de.wikipedia.org/wiki/The_National_(CBC)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CBC_The_National%2C_as_of_6_Nov_2017.png?width=256",
+   "website": "https://www.cbc.ca/news/thenational",
+   "city": null
+  },
+  {
+   "id": "ca.canadianpress",
+   "name": "The Canadian Press",
+   "category": "news",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2410130",
+   "description": {
+    "en": "Canadian private news agency established in 1917",
+    "zh-Hans": "加新社，又譯加通社，是加拿大的通訊社，1917年加拿大國會立法成立，總部設在多倫多。",
+    "fr": "agence de presse",
+    "ru": "Канадиан Пресс — крупнейшее информационное агентство Канады.",
+    "zh-Hant": "加新社，又譯加通社，是加拿大的通訊社，1917年加拿大國會立法成立，總部設在多倫多。",
+    "ar": "وكالة أنباء كندية",
+    "tr": "1917 yılında kurulmuş Kanadalı Haber Ajansı",
+    "nl": "bedrijf uit Canada",
+    "de": "Geschäftsbetrieb in Kanada"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Canadian_Press",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8A%A0%E6%96%B0%E7%A4%BE",
+    "fr": "https://fr.wikipedia.org/wiki/La_Presse_canadienne",
+    "ru": "https://ru.wikipedia.org/wiki/The_Canadian_Press",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8A%A0%E6%96%B0%E7%A4%BE",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%A1_%D8%A7%D9%84%D9%83%D9%86%D8%AF%D9%8A%D8%A9",
+    "tr": "https://tr.wikipedia.org/wiki/The_Canadian_Press",
+    "de": "https://de.wikipedia.org/wiki/The_Canadian_Press"
+   },
+   "logo": null,
+   "website": "http://www.thecanadianpress.com",
+   "city": "Toronto"
   },
   {
    "id": "ca.bnn",

@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
   "py.abctv",
   "py.npy",
-  "py.telefuturo"
+  "py.monumental",
+  "py.telefuturo",
+  "py.caacupe"
  ],
  "channels": [
   {
@@ -183,6 +185,60 @@
    "logo": null,
    "website": "http://www.unicanal.com.py/",
    "city": "Asunción"
+  },
+  {
+   "id": "py.nanduti",
+   "name": "Ñanduti 1020 AM",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "py.monumental",
+   "name": "Monumental 1080 AM",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ",
+   "youtubeVideoId": "d2xLRbGJt2A",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "py.caacupe",
+   "name": "Basílica de Caacupé",
+   "category": "religious",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA",
+   "youtubeVideoId": "rzxlbe29No4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
   }
  ]
 }

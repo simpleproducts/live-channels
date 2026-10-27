@@ -1,10 +1,12 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
   "za.sabcnews",
-  "za.enca"
+  "za.enca",
+  "za.radio702",
+  "za.safm"
  ],
  "channels": [
   {
@@ -152,6 +154,60 @@
    "logo": null,
    "website": "https://www.parliament.gov.za/",
    "city": "Cape Town"
+  },
+  {
+   "id": "za.iec",
+   "name": "Electoral Commission of South Africa",
+   "category": "government",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "za.radio702",
+   "name": "Radio 702",
+   "category": "radio",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
+   "youtubeVideoId": "QwPVxirpS9M",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "za.safm",
+   "name": "SAfm",
+   "category": "radio",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w",
+   "youtubeVideoId": "hww2YUM6ZFg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
   }
  ]
 }

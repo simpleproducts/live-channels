@@ -45,7 +45,7 @@
   {
    "id": "gb-budget-2026",
    "title": {"en": "UK Budget 2026", "es": "Presupuestos del Reino Unido 2026", "zh-Hans": "2026 英国预算案", "ja": "2026年 英国予算発表", "fr": "Budget britannique 2026", "pt-BR": "Orçamento do Reino Unido 2026", "ko": "2026 영국 예산안 발표", "it": "Bilancio del Regno Unito 2026", "ru": "Бюджет Великобритании 2026", "zh-Hant": "2026 英國預算案", "ar": "الميزانية البريطانية 2026", "tr": "2026 Birleşik Krallık bütçesi", "nl": "Britse begroting 2026", "pl": "Budżet Wielkiej Brytanii 2026", "sv": "Storbritanniens budget 2026", "id": "Anggaran Inggris 2026", "de": "Britischer Haushalt 2026", "ms": "Belanjawan UK 2026"},
-   "tiles": ["gb.parliament", "gb.bbcnews", "gb.skynews", "gb.gbnews", "gb.itvnews", "gb.talktv", "gb.reuters", "gb.telegraph", "gb.independent"],
+   "tiles": ["gb.parliament", "gb.bbcnews", "gb.skynews", "gb.gbnews", "gb.itvnews", "gb.talktv", "gb.timesradio", "gb.telegraph", "gb.independent"],
    "countries": ["GB"],
    "start": "2026-10-28T11:00:00Z",
    "end": "2026-10-28T16:00:00Z",
@@ -72,7 +72,7 @@
   {
    "id": "za-elections-2026",
    "title": {"en": "South Africa local elections 2026", "es": "Elecciones municipales en Sudáfrica 2026", "zh-Hans": "2026 南非地方选举", "ja": "2026年 南アフリカ地方選挙", "fr": "Élections municipales en Afrique du Sud 2026", "pt-BR": "Eleições municipais na África do Sul 2026", "ko": "2026 남아프리카공화국 지방선거", "it": "Elezioni locali in Sudafrica 2026", "ru": "Местные выборы в ЮАР 2026", "zh-Hant": "2026 南非地方選舉", "ar": "الانتخابات المحلية في جنوب أفريقيا 2026", "tr": "2026 Güney Afrika yerel seçimleri", "nl": "Lokale verkiezingen in Zuid-Afrika 2026", "pl": "Wybory samorządowe w RPA 2026", "sv": "Lokalvalen i Sydafrika 2026", "id": "Pemilu lokal Afrika Selatan 2026", "de": "Kommunalwahlen in Südafrika 2026", "ms": "Pilihan raya tempatan Afrika Selatan 2026"},
-   "tiles": ["za.sabcnews", "za.enca", "za.newzroom", "za.news24", "za.parliament", "qa.aje", "cn.cgtnafrica", "ng.arisenews", "ng.channelstv"],
+   "tiles": ["za.sabcnews", "za.enca", "za.newzroom", "za.iec", "za.parliament", "za.radio702", "qa.aje", "cn.cgtnafrica", "ng.arisenews"],
    "countries": ["ZA"],
    "start": "2026-11-04T05:00:00Z",
    "end": "2026-11-05T22:00:00Z",
@@ -81,7 +81,7 @@
   {
    "id": "ca-budget-2026",
    "title": {"en": "Canada's federal budget 2026", "es": "Presupuesto federal de Canadá 2026", "zh-Hans": "2026 加拿大联邦预算", "ja": "2026年 カナダ連邦予算", "fr": "Budget fédéral du Canada 2026", "pt-BR": "Orçamento federal do Canadá 2026", "ko": "2026 캐나다 연방 예산안", "it": "Bilancio federale del Canada 2026", "ru": "Федеральный бюджет Канады 2026", "zh-Hant": "2026 加拿大聯邦預算", "ar": "الميزانية الفيدرالية الكندية 2026", "tr": "2026 Kanada federal bütçesi", "nl": "Canadese federale begroting 2026", "pl": "Budżet federalny Kanady 2026", "sv": "Kanadas federala budget 2026", "id": "Anggaran federal Kanada 2026", "de": "Kanadas Bundeshaushalt 2026", "ms": "Belanjawan persekutuan Kanada 2026"},
-   "tiles": ["ca.cbcnews", "ca.ctvnews", "ca.globalnews", "ca.cpac", "ca.citynews", "ca.radiocanada", "ca.noovo", "ca.bnn"],
+   "tiles": ["ca.cbcnews", "ca.thenational", "ca.ctvnews", "ca.globalnews", "ca.cpac", "ca.citynews", "ca.radiocanada", "ca.noovo", "ca.bnn"],
    "countries": ["CA"],
    "start": "2026-11-05T19:00:00Z",
    "end": "2026-11-06T01:00:00Z",
@@ -90,7 +90,7 @@
   {
    "id": "pope-leo-uruguay-2026",
    "title": {"en": "Pope Leo XIV in Uruguay", "es": "El papa León XIV en Uruguay", "zh-Hans": "教宗良十四世访问乌拉圭", "ja": "教皇レオ14世 ウルグアイ訪問", "fr": "Le pape Léon XIV en Uruguay", "pt-BR": "Papa Leão XIV no Uruguai", "ko": "교황 레오 14세 우루과이 방문", "it": "Papa Leone XIV in Uruguay", "ru": "Папа Лев XIV в Уругвае", "zh-Hant": "教宗良十四世訪問烏拉圭", "ar": "البابا لاوُن الرابع عشر في الأوروغواي", "tr": "Papa XIV. Leo Uruguay'da", "nl": "Paus Leo XIV in Uruguay", "pl": "Papież Leon XIV w Urugwaju", "sv": "Påven Leo XIV i Uruguay", "id": "Paus Leo XIV di Uruguay", "de": "Papst Leo XIV. in Uruguay", "ms": "Paus Leo XIV di Uruguay"},
-   "tiles": ["uy.tnu", "uy.canal10", "uy.teledoce", "uy.vtv", "uy.elobservadoruy", "uy.ladiaria", "ar.tvpublica", "ar.tn", "ar.c5n"],
+   "tiles": ["va.vaticannewses", "uy.tnu", "uy.canal10", "uy.teledoce", "uy.vtv", "uy.elobservadoruy", "uy.elpaisuy", "ar.tn", "ar.c5n"],
    "countries": ["UY"],
    "start": "2026-11-06T19:00:00Z",
    "end": "2026-11-08T18:30:00Z",
@@ -117,7 +117,7 @@
   {
    "id": "gb-remembrance-2026",
    "title": {"en": "Remembrance Sunday at the Cenotaph", "es": "Domingo del Recuerdo en el Cenotafio", "zh-Hans": "阵亡将士纪念日（伦敦和平纪念碑）", "ja": "英国リメンブランス・サンデー（セノタフ）", "fr": "Dimanche du Souvenir au Cénotaphe", "pt-BR": "Domingo da Lembrança no Cenotáfio", "ko": "영국 현충일 추모식 (세노타프)", "it": "Remembrance Sunday al Cenotafio", "ru": "Воскресенье памяти у Кенотафа", "zh-Hant": "陣亡將士紀念日（倫敦和平紀念碑）", "ar": "أحد الذكرى عند النصب التذكاري في لندن", "tr": "Cenotaph'ta Anma Pazarı", "nl": "Remembrance Sunday bij de Cenotaph", "pl": "Niedziela Pamięci przy Cenotafie", "sv": "Remembrance Sunday vid Cenotaph", "id": "Minggu Peringatan di Cenotaph", "de": "Remembrance Sunday am Cenotaph", "ms": "Ahad Peringatan di Cenotaph"},
-   "tiles": ["gb.bbcnews", "gb.skynews", "gb.itvnews", "gb.gbnews", "gb.talktv", "gb.reuters", "gb.independent", "gb.telegraph", "gb.guardian"],
+   "tiles": ["gb.bbcnews", "gb.skynews", "gb.itvnews", "gb.gbnews", "gb.talktv", "gb.mirror", "gb.independent", "gb.telegraph", "gb.guardian"],
    "countries": ["GB"],
    "start": "2026-11-08T10:00:00Z",
    "end": "2026-11-08T12:30:00Z",
@@ -126,7 +126,7 @@
   {
    "id": "pope-leo-argentina-2026",
    "title": {"en": "Pope Leo XIV in Argentina", "es": "El papa León XIV en la Argentina", "zh-Hans": "教宗良十四世访问阿根廷", "ja": "教皇レオ14世 アルゼンチン訪問", "fr": "Le pape Léon XIV en Argentine", "pt-BR": "Papa Leão XIV na Argentina", "ko": "교황 레오 14세 아르헨티나 방문", "it": "Papa Leone XIV in Argentina", "ru": "Папа Лев XIV в Аргентине", "zh-Hant": "教宗良十四世訪問阿根廷", "ar": "البابا لاوُن الرابع عشر في الأرجنتين", "tr": "Papa XIV. Leo Arjantin'de", "nl": "Paus Leo XIV in Argentinië", "pl": "Papież Leon XIV w Argentynie", "sv": "Påven Leo XIV i Argentina", "id": "Paus Leo XIV di Argentina", "de": "Papst Leo XIV. in Argentinien", "ms": "Paus Leo XIV di Argentina"},
-   "tiles": ["ar.tvpublica", "ar.tn", "ar.c5n", "ar.lnmas", "ar.a24", "ar.cronica", "ar.infobae", "ar.canal26", "ar.telefe"],
+   "tiles": ["va.vaticannewses", "ar.tvpublica", "ar.tn", "ar.c5n", "ar.lnmas", "ar.a24", "ar.cronica", "ar.infobae", "ar.canal26"],
    "countries": ["AR"],
    "start": "2026-11-08T19:00:00Z",
    "end": "2026-11-11T17:30:00Z",
@@ -162,7 +162,7 @@
   {
    "id": "ca-remembrance-2026",
    "title": {"en": "Remembrance Day in Ottawa", "es": "Día del Recuerdo en Ottawa", "zh-Hans": "渥太华阵亡将士纪念日", "ja": "オタワ リメンブランス・デー", "fr": "Jour du Souvenir à Ottawa", "pt-BR": "Dia da Lembrança em Ottawa", "ko": "오타와 현충일 기념식", "it": "Remembrance Day a Ottawa", "ru": "День памяти в Оттаве", "zh-Hant": "渥太華陣亡將士紀念日", "ar": "يوم الذكرى في أوتاوا", "tr": "Ottawa'da Anma Günü", "nl": "Remembrance Day in Ottawa", "pl": "Dzień Pamięci w Ottawie", "sv": "Remembrance Day i Ottawa", "id": "Hari Peringatan di Ottawa", "de": "Remembrance Day in Ottawa", "ms": "Hari Peringatan di Ottawa"},
-   "tiles": ["ca.cbcnews", "ca.ctvnews", "ca.globalnews", "ca.cpac", "ca.citynews", "ca.radiocanada"],
+   "tiles": ["ca.cbcnews", "ca.thenational", "ca.ctvnews", "ca.globalnews", "ca.cpac", "ca.citynews", "ca.radiocanada", "ca.canadianpress"],
    "countries": ["CA"],
    "start": "2026-11-11T15:00:00Z",
    "end": "2026-11-11T17:30:00Z",
@@ -171,7 +171,7 @@
   {
    "id": "pope-leo-peru-2026",
    "title": {"en": "Pope Leo XIV in Peru", "es": "El papa León XIV en el Perú", "zh-Hans": "教宗良十四世访问秘鲁", "ja": "教皇レオ14世 ペルー訪問", "fr": "Le pape Léon XIV au Pérou", "pt-BR": "Papa Leão XIV no Peru", "ko": "교황 레오 14세 페루 방문", "it": "Papa Leone XIV in Perù", "ru": "Папа Лев XIV в Перу", "zh-Hant": "教宗良十四世訪問秘魯", "ar": "البابا لاوُن الرابع عشر في بيرو", "tr": "Papa XIV. Leo Peru'da", "nl": "Paus Leo XIV in Peru", "pl": "Papież Leon XIV w Peru", "sv": "Påven Leo XIV i Peru", "id": "Paus Leo XIV di Peru", "de": "Papst Leo XIV. in Peru", "ms": "Paus Leo XIV di Peru"},
-   "tiles": ["pe.tvperunoticias", "pe.tvperu", "pe.rpp", "pe.latina", "pe.atv", "pe.larepublica", "pe.willax", "pe.panamericana", "pe.americatv"],
+   "tiles": ["va.vaticannewses", "pe.arzobispadolima", "pe.tvperunoticias", "pe.rpp", "pe.latina", "pe.atv", "pe.larepublica", "pe.willax", "pe.elcomercio"],
    "countries": ["PE"],
    "start": "2026-11-11T22:00:00Z",
    "end": "2026-11-16T19:00:00Z",
@@ -216,7 +216,7 @@
   {
    "id": "au-victoria-election-2026",
    "title": {"en": "Victorian state election 2026", "es": "Elecciones en el estado de Victoria 2026", "zh-Hans": "2026 澳大利亚维多利亚州选举", "ja": "2026年 豪ビクトリア州選挙", "fr": "Élections dans l'État de Victoria 2026", "pt-BR": "Eleição estadual de Victoria 2026", "ko": "2026 호주 빅토리아주 선거", "it": "Elezioni nello stato di Victoria 2026", "ru": "Выборы в штате Виктория 2026", "zh-Hant": "2026 澳洲維多利亞州選舉", "ar": "انتخابات ولاية فيكتوريا 2026", "tr": "2026 Victoria eyalet seçimi", "nl": "Verkiezingen in de staat Victoria 2026", "pl": "Wybory stanowe w Wiktorii 2026", "sv": "Delstatsvalet i Victoria 2026", "id": "Pemilu negara bagian Victoria 2026", "de": "Wahl im Bundesstaat Victoria 2026", "ms": "Pilihan raya negeri Victoria 2026"},
-   "tiles": ["au.abcnews", "au.9news", "au.10news"],
+   "tiles": ["au.abcnews", "au.9news", "au.10news", "au.newscomau"],
    "countries": ["AU"],
    "start": "2026-11-28T06:30:00Z",
    "end": "2026-11-28T14:00:00Z",
@@ -270,7 +270,7 @@
   {
    "id": "py-caacupe-2026",
    "title": {"en": "Feast of the Virgin of Caacupé", "es": "Fiesta de la Virgen de Caacupé", "zh-Hans": "卡阿库佩圣母节", "ja": "カアクペの聖母の祝日", "fr": "Fête de la Vierge de Caacupé", "pt-BR": "Festa da Virgem de Caacupé", "ko": "카아쿠페 성모 축일", "it": "Festa della Vergine di Caacupé", "ru": "Праздник Девы Марии Каакупенской", "zh-Hant": "卡阿庫佩聖母節", "ar": "عيد عذراء كاكوبي", "tr": "Caacupé Meryem Ana bayramı", "nl": "Feest van de Maagd van Caacupé", "pl": "Święto Matki Bożej z Caacupé", "sv": "Jungfrun av Caacupés högtid", "id": "Pesta Bunda Maria dari Caacupé", "de": "Fest der Jungfrau von Caacupé", "ms": "Perayaan Perawan Caacupé"},
-   "tiles": ["py.abctv", "py.npy", "py.ultimahora", "py.gen", "py.telefuturo", "py.snt", "py.unicanal"],
+   "tiles": ["py.caacupe", "py.abctv", "py.npy", "py.ultimahora", "py.telefuturo", "py.snt", "py.unicanal", "py.nanduti", "py.monumental"],
    "countries": ["PY"],
    "start": "2026-12-07T23:00:00Z",
    "end": "2026-12-08T15:00:00Z",

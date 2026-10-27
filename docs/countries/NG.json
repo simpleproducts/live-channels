@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
   "ng.ntalive",
-  "ng.ait",
-  "ng.nta"
+  "ng.nta",
+  "ng.ait"
  ],
  "channels": [
   {

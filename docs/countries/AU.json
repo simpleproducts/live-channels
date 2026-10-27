@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
   "au.abcnews",
   "au.aph"
@@ -87,6 +87,40 @@
    "city": "New South Wales"
   },
   {
+   "id": "au.newscomau",
+   "name": "news.com.au",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCtWWry0cgjWi9C0Ye9sh6og",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16903296",
+   "description": {
+    "en": "Australian online newspaper",
+    "es": "periódico en línea australiano",
+    "zh-Hans": "澳大利亚新闻网站",
+    "fr": "site internet appartenant à News Corp Australia",
+    "ko": "오스트레일리아의 뉴스 웹사이트",
+    "it": "giornale on-line australiano",
+    "zh-Hant": "澳大利亚新闻网站",
+    "nl": "website",
+    "pl": "australijski portal informacyjny"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/News.com.au",
+    "es": "https://es.wikipedia.org/wiki/News.com.au",
+    "ko": "https://ko.wikipedia.org/wiki/News.com.au",
+    "it": "https://it.wikipedia.org/wiki/News.com.au",
+    "pl": "https://pl.wikipedia.org/wiki/News.com.au"
+   },
+   "logo": null,
+   "website": "https://www.news.com.au",
+   "city": null
+  },
+  {
    "id": "au.aph",
    "name": "Parliament of Australia",
    "category": "government",
@@ -140,7 +174,7 @@
    },
    "logo": null,
    "website": "https://www.aph.gov.au/",
-   "city": "Canberra"
+   "city": "Australian Capital Territory"
   }
  ]
 }

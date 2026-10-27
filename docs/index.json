@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-27T09:54:24Z",
+ "updated": "2026-10-27T12:23:56Z",
  "countries": [
   {
    "code": "AE",
@@ -29,7 +29,7 @@
     "ar"
    ],
    "channelCount": 9,
-   "version": 2026102704,
+   "version": 2026102712,
    "file": "countries/AE.json"
   },
   {
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/AR.json"
   },
   {
@@ -88,8 +88,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 4,
-   "version": 2026102709,
+   "channelCount": 5,
+   "version": 2026102712,
    "file": "countries/AU.json"
   },
   {
@@ -149,8 +149,8 @@
     "en",
     "fr"
    ],
-   "channelCount": 9,
-   "version": 2026102704,
+   "channelCount": 11,
+   "version": 2026102712,
    "file": "countries/CA.json"
   },
   {
@@ -210,7 +210,7 @@
     "zh"
    ],
    "channelCount": 9,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/CN.json"
   },
   {
@@ -389,8 +389,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 14,
-   "version": 2026102709,
+   "channelCount": 17,
+   "version": 2026102712,
    "file": "countries/GB.json"
   },
   {
@@ -692,7 +692,7 @@
     "en"
    ],
    "channelCount": 6,
-   "version": 2026102709,
+   "version": 2026102712,
    "file": "countries/NG.json"
   },
   {
@@ -751,8 +751,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 16,
-   "version": 2026102709,
+   "channelCount": 19,
+   "version": 2026102712,
    "file": "countries/PE.json"
   },
   {
@@ -902,8 +902,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 7,
-   "version": 2026102709,
+   "channelCount": 10,
+   "version": 2026102712,
    "file": "countries/PY.json"
   },
   {
@@ -1142,8 +1142,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 29,
-   "version": 2026102709,
+   "channelCount": 32,
+   "version": 2026102712,
    "file": "countries/US.json"
   },
   {
@@ -1172,9 +1172,39 @@
    "languages": [
     "es"
    ],
-   "channelCount": 12,
-   "version": 2026102709,
+   "channelCount": 13,
+   "version": 2026102712,
    "file": "countries/UY.json"
+  },
+  {
+   "code": "VA",
+   "flag": "🇻🇦",
+   "name": {
+    "en": "Vatican City",
+    "es": "Ciudad del Vaticano",
+    "zh-Hans": "梵蒂冈",
+    "ja": "バチカン",
+    "fr": "Vatican",
+    "pt-BR": "Vaticano",
+    "ko": "바티칸 시국",
+    "it": "Città del Vaticano",
+    "ru": "Ватикан",
+    "zh-Hant": "梵蒂岡",
+    "ar": "الفاتيكان",
+    "tr": "Vatikan",
+    "nl": "Vaticaanstad",
+    "pl": "Watykan",
+    "sv": "Vatikanstaten",
+    "id": "Vatikan",
+    "de": "Vatikanstadt",
+    "ms": "Vatikan"
+   },
+   "languages": [
+    "it"
+   ],
+   "channelCount": 1,
+   "version": 2026102712,
+   "file": "countries/VA.json"
   },
   {
    "code": "VE",
@@ -1262,8 +1292,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 5,
-   "version": 2026102709,
+   "channelCount": 8,
+   "version": 2026102712,
    "file": "countries/ZA.json"
   }
  ],
@@ -1506,7 +1536,7 @@
     "gb.skynews",
     "gb.gbnews",
     "gb.talktv",
-    "gb.reuters"
+    "gb.timesradio"
    ],
    "countries": [
     "GB"
@@ -1613,15 +1643,48 @@
    "tiles": [
     "za.sabcnews",
     "za.enca",
+    "za.radio702",
     "qa.aje",
-    "ng.arisenews",
-    "ng.channelstv"
+    "ng.arisenews"
    ],
    "countries": [
     "ZA"
    ],
    "start": "2026-11-04T05:00:00Z",
    "end": "2026-11-05T22:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ca-budget-2026",
+   "title": {
+    "en": "Canada's federal budget 2026",
+    "es": "Presupuesto federal de Canadá 2026",
+    "zh-Hans": "2026 加拿大联邦预算",
+    "ja": "2026年 カナダ連邦予算",
+    "fr": "Budget fédéral du Canada 2026",
+    "pt-BR": "Orçamento federal do Canadá 2026",
+    "ko": "2026 캐나다 연방 예산안",
+    "it": "Bilancio federale del Canada 2026",
+    "ru": "Федеральный бюджет Канады 2026",
+    "zh-Hant": "2026 加拿大聯邦預算",
+    "ar": "الميزانية الفيدرالية الكندية 2026",
+    "tr": "2026 Kanada federal bütçesi",
+    "nl": "Canadese federale begroting 2026",
+    "pl": "Budżet federalny Kanady 2026",
+    "sv": "Kanadas federala budget 2026",
+    "id": "Anggaran federal Kanada 2026",
+    "de": "Kanadas Bundeshaushalt 2026",
+    "ms": "Belanjawan persekutuan Kanada 2026"
+   },
+   "tiles": [
+    "ca.cbcnews",
+    "ca.thenational"
+   ],
+   "countries": [
+    "CA"
+   ],
+   "start": "2026-11-05T19:00:00Z",
+   "end": "2026-11-06T01:00:00Z",
    "featured": true
   },
   {
@@ -1647,8 +1710,7 @@
     "ms": "Paus Leo XIV di Uruguay"
    },
    "tiles": [
-    "uy.ladiaria",
-    "ar.tvpublica",
+    "va.vaticannewses",
     "ar.tn",
     "ar.c5n"
    ],
@@ -1763,7 +1825,7 @@
     "gb.skynews",
     "gb.gbnews",
     "gb.talktv",
-    "gb.reuters"
+    "gb.mirror"
    ],
    "countries": [
     "GB"
@@ -1795,6 +1857,7 @@
     "ms": "Paus Leo XIV di Argentina"
    },
    "tiles": [
+    "va.vaticannewses",
     "ar.tvpublica",
     "ar.tn",
     "ar.c5n",
@@ -1919,6 +1982,72 @@
    ],
    "start": "2026-11-11T10:30:00Z",
    "end": "2026-11-11T17:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ca-remembrance-2026",
+   "title": {
+    "en": "Remembrance Day in Ottawa",
+    "es": "Día del Recuerdo en Ottawa",
+    "zh-Hans": "渥太华阵亡将士纪念日",
+    "ja": "オタワ リメンブランス・デー",
+    "fr": "Jour du Souvenir à Ottawa",
+    "pt-BR": "Dia da Lembrança em Ottawa",
+    "ko": "오타와 현충일 기념식",
+    "it": "Remembrance Day a Ottawa",
+    "ru": "День памяти в Оттаве",
+    "zh-Hant": "渥太華陣亡將士紀念日",
+    "ar": "يوم الذكرى في أوتاوا",
+    "tr": "Ottawa'da Anma Günü",
+    "nl": "Remembrance Day in Ottawa",
+    "pl": "Dzień Pamięci w Ottawie",
+    "sv": "Remembrance Day i Ottawa",
+    "id": "Hari Peringatan di Ottawa",
+    "de": "Remembrance Day in Ottawa",
+    "ms": "Hari Peringatan di Ottawa"
+   },
+   "tiles": [
+    "ca.cbcnews",
+    "ca.thenational"
+   ],
+   "countries": [
+    "CA"
+   ],
+   "start": "2026-11-11T15:00:00Z",
+   "end": "2026-11-11T17:30:00Z",
+   "featured": true
+  },
+  {
+   "id": "pope-leo-peru-2026",
+   "title": {
+    "en": "Pope Leo XIV in Peru",
+    "es": "El papa León XIV en el Perú",
+    "zh-Hans": "教宗良十四世访问秘鲁",
+    "ja": "教皇レオ14世 ペルー訪問",
+    "fr": "Le pape Léon XIV au Pérou",
+    "pt-BR": "Papa Leão XIV no Peru",
+    "ko": "교황 레오 14세 페루 방문",
+    "it": "Papa Leone XIV in Perù",
+    "ru": "Папа Лев XIV в Перу",
+    "zh-Hant": "教宗良十四世訪問秘魯",
+    "ar": "البابا لاوُن الرابع عشر في بيرو",
+    "tr": "Papa XIV. Leo Peru'da",
+    "nl": "Paus Leo XIV in Peru",
+    "pl": "Papież Leon XIV w Peru",
+    "sv": "Påven Leo XIV i Peru",
+    "id": "Paus Leo XIV di Peru",
+    "de": "Papst Leo XIV. in Peru",
+    "ms": "Paus Leo XIV di Peru"
+   },
+   "tiles": [
+    "va.vaticannewses",
+    "pe.latina"
+   ],
+   "countries": [
+    "PE"
+   ],
+   "start": "2026-11-11T22:00:00Z",
+   "end": "2026-11-16T19:00:00Z",
    "featured": true
   },
   {
@@ -2274,9 +2403,11 @@
     "ms": "Perayaan Perawan Caacupé"
    },
    "tiles": [
+    "py.caacupe",
     "py.abctv",
     "py.npy",
-    "py.telefuturo"
+    "py.telefuturo",
+    "py.monumental"
    ],
    "countries": [
     "PY"

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102709,
+ "version": 2026102712,
  "defaultTiles": [
   "uy.ladiaria",
   "uy.sarandi"
@@ -70,6 +70,24 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ladiaria-byn.png?width=256",
    "website": "https://ladiaria.com.uy/",
    "city": "Montevideo"
+  },
+  {
+   "id": "uy.elpaisuy",
+   "name": "El País Uruguay",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
   },
   {
    "id": "uy.tnu",

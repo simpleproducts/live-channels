@@ -5,6 +5,7 @@
  "channels": [
   {"id": "elobservadoruy", "name": "El Observador", "category": "news", "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ", "youtubeVideoId": "DLMkBAcRdHw", "embeddable": true, "live": false},
   {"id": "ladiaria", "name": "la diaria", "category": "news", "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A", "youtubeVideoId": "D5oBft8y6YQ", "embeddable": true, "live": true, "liveSince": "2026-10-27T09:41:00Z", "wikidata": "Q1292957"},
+  {"id": "elpaisuy", "name": "El País Uruguay", "category": "news", "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg", "live": false},
   {"id": "tnu", "name": "Canal 5 (TNU)", "category": "broadcast", "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA", "youtubeVideoId": "DWqVhntQJfM", "embeddable": true, "live": false, "wikidata": "Q1775667"},
   {"id": "canal10", "name": "Canal 10", "category": "broadcast", "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q", "youtubeVideoId": "lHTvmBIgRc4", "embeddable": true, "live": false, "wikidata": "Q2436756"},
   {"id": "teledoce", "name": "Teledoce", "category": "broadcast", "youtubeChannelId": "UCimPJKAbuM6z6b6DPZz86Mw", "live": false, "wikidata": "Q3982807"},

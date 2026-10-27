@@ -11,13 +11,16 @@
   {"id": "tvperunoticias", "name": "TV Perú Noticias", "category": "news", "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA", "youtubeVideoId": "ZfB7yhVQWl8", "embeddable": true, "live": false, "wikidata": "Q17630941"},
   {"id": "atv", "name": "ATV Noticias", "category": "news", "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw", "youtubeVideoId": "ozDIYyPBpz4", "embeddable": true, "live": false},
   {"id": "panorama", "name": "Panorama", "category": "news", "youtubeChannelId": "UCBiq92lt_ufNO-ktZigVXgg", "live": false},
+  {"id": "elcomercio", "name": "El Comercio", "category": "news", "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg", "live": false},
+  {"id": "peru21", "name": "Perú21", "category": "news", "youtubeChannelId": "UCNd09h2GugrdeT_80LxOFMw", "live": false},
+  {"id": "americatv", "name": "América Noticias", "category": "news", "youtubeChannelId": "UCPhm2I2wk4vqjENwhn3px8A", "live": false, "wikidata": "Q2530659"},
   {"id": "panamericana", "name": "Panamericana", "category": "broadcast", "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA", "youtubeVideoId": "kgfdBv2tsSU", "embeddable": true, "live": false, "wikidata": "Q586523"},
   {"id": "tvperu", "name": "TV Perú", "category": "broadcast", "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg", "youtubeVideoId": "nF9zR7WmQnc", "embeddable": true, "live": false, "wikidata": "Q3076196"},
   {"id": "latinatv", "name": "Latina Televisión", "category": "broadcast", "youtubeChannelId": "UC3rDtLrcgr3JS3_3JOW4BAw", "youtubeVideoId": "tHZdPIHpJKg", "embeddable": true, "live": false, "wikidata": "Q967752"},
-  {"id": "americatv", "name": "América Televisión", "category": "broadcast", "youtubeChannelId": "UCPhm2I2wk4vqjENwhn3px8A", "live": false, "wikidata": "Q2530659"},
   {"id": "congreso", "name": "Congreso del Perú", "category": "government", "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw", "youtubeVideoId": "6M5E9U6UnJM", "embeddable": true, "live": true, "liveSince": "2026-10-20T02:09:59Z", "wikidata": "Q1357543"},
   {"id": "exitosa", "name": "Exitosa", "category": "radio", "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg", "youtubeVideoId": "nRi8TdxqChY", "embeddable": true, "live": false},
   {"id": "radionacional", "name": "Radio Nacional", "category": "radio", "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow", "youtubeVideoId": "uGhsTOqZr34", "embeddable": true, "live": false, "languages": ["es"]},
-  {"id": "lazona", "name": "La Zona", "category": "radio", "youtubeChannelId": "UCycOAX62Pwuo-g_OSbh5hyw", "youtubeVideoId": "Prg7ekJkT2s", "embeddable": true, "live": false, "languages": ["es"]}
+  {"id": "lazona", "name": "La Zona", "category": "radio", "youtubeChannelId": "UCycOAX62Pwuo-g_OSbh5hyw", "youtubeVideoId": "Prg7ekJkT2s", "embeddable": true, "live": false, "languages": ["es"]},
+  {"id": "arzobispadolima", "name": "Arzobispado de Lima", "category": "religious", "youtubeChannelId": "UCkKMN1EphToEMcVeUrHHaMA"}
  ]
 }
