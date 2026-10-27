@@ -450,6 +450,7 @@ def main():
     any_changed = False
     stats = []
     live_gids = set()
+    live_since = {}  # gid -> liveSince (or None) for docs/live.json
     for name in sorted(sources):
         s = sources[name]
         cc = s["code"]
@@ -522,6 +523,7 @@ def main():
             out_channels.append(rec)
             if rec["live"]:
                 live_gids.add(gid)
+                live_since[gid] = ch.get("liveSince")
 
         body = {"schema": SCHEMA, "code": cc, "defaultTiles": ["%s.%s" % (cc.lower(), t) for t in pick_defaults(s, excluded, now, {c["id"].split(".", 1)[1]: c["languages"] for c in out_channels})],
                 "channels": out_channels}
@@ -555,6 +557,17 @@ def main():
         updated = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     write_json(os.path.join(DOCS, "index.json"), {"schema": SCHEMA, "updated": updated, "countries": index_countries,
                                                   "walls": out_walls})
+    # docs/live.json: what is live right now and since when, for a page that needs only that (a few KB
+    # instead of every country file). "updated" moves only when the set changes.
+    live_path = os.path.join(DOCS, "live.json")
+    try:
+        with open(live_path, encoding="utf-8") as f:
+            prev_live = json.load(f)
+    except (OSError, ValueError):
+        prev_live = {}
+    live_map = dict(sorted(live_since.items()))
+    live_updated = prev_live.get("updated") if prev_live.get("live") == live_map else now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    write_json(live_path, {"schema": 1, "updated": live_updated, "live": live_map})
     # remove published files for countries that no longer have a source
     for f in os.listdir(os.path.join(DOCS, "countries")):
         if f.endswith(".json") and f not in sources:

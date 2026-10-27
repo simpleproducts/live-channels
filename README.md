@@ -25,6 +25,7 @@ scripts/live.py            key-less live detection (scrapes /channel/<UC>/live),
 scripts/common.py          shared helpers (stable source-file formatting)
 .github/workflows/build.yml  on push to main and every hour: refresh, build, commit docs/ if changed
 docs/                      published output (do not edit by hand), served at https://getskywall.app/channels/
+docs/live.json             what is live right now and since when (a few KB), for pages that need only that
 ```
 
 ## How the pipeline works
