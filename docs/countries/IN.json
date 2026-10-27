@@ -4,14 +4,14 @@
  "version": 2026102701,
  "defaultTiles": [
   "in.ddnews",
-  "in.indiatv",
   "in.ndtvindia",
   "in.abpnews",
   "in.zeenews",
   "in.news18india",
   "in.timesnow",
   "in.firstpost",
-  "in.ani"
+  "in.ani",
+  "in.zeebusiness"
  ],
  "channels": [
   {
@@ -25,7 +25,7 @@
    "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ",
    "youtubeVideoId": "-iwQfuVuxCQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6019415",
    "description": {
     "en": "News in English: Latest News, Breaking News, Live Updates - IndiaTV News",

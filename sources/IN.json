@@ -3,7 +3,7 @@
  "languages": ["hi", "en"],
  "defaultTiles": ["indiatv", "aajtak", "ndtvindia", "ndtv", "republicworld", "timesnow", "abpnews", "zeenews", "wion"],
  "channels": [
-  {"id": "indiatv", "name": "India TV", "category": "news", "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ", "youtubeVideoId": "-iwQfuVuxCQ", "embeddable": true, "live": true, "liveSince": "2026-10-26T07:28:43Z", "wikidata": "Q6019415"},
+  {"id": "indiatv", "name": "India TV", "category": "news", "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ", "youtubeVideoId": "-iwQfuVuxCQ", "embeddable": true, "live": false, "wikidata": "Q6019415"},
   {"id": "aajtak", "name": "Aaj Tak", "category": "news", "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA", "youtubeVideoId": "6HGKnWm0bq0", "embeddable": true, "live": false},
   {"id": "ndtvindia", "name": "NDTV India", "category": "news", "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q", "youtubeVideoId": "V8oyLrAfCD0", "embeddable": true, "live": true, "liveSince": "2026-10-26T18:23:36Z"},
   {"id": "ndtv", "name": "NDTV", "category": "news", "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA", "youtubeVideoId": "uDcUwzcgVuQ", "embeddable": true, "live": false, "languages": ["en"]},

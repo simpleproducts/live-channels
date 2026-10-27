@@ -7,6 +7,7 @@
   "cl.t13",
   "cl.cooperativa",
   "cl.chilevision",
+  "cl.mega",
   "cl.camara"
  ],
  "channels": [
@@ -262,9 +263,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "yHLExDmabMw",
+   "youtubeVideoId": "uk1GAli7KJo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",

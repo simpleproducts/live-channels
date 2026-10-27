@@ -8,6 +8,7 @@
   "pk.expressnews",
   "pk.92news",
   "pk.dawnnews",
+  "pk.ptvnews",
   "pk.humnews",
   "pk.gnn"
  ],
@@ -193,9 +194,9 @@
     "ur"
    ],
    "youtubeChannelId": "UC5RvV_LtR1dxPCVFGw6dxXA",
-   "youtubeVideoId": "zDt8Caqpq2g",
+   "youtubeVideoId": "r6T5qL_tr0U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6583157",
    "description": {
     "en": "Pakistani News channel",

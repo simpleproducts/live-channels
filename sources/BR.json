@@ -11,7 +11,7 @@
   {"id": "canalrural", "name": "Canal Rural", "category": "news", "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g", "youtubeVideoId": "_Nf4hq3Z9YQ", "embeddable": true, "live": false, "wikidata": "Q9693797"},
   {"id": "uol", "name": "UOL", "category": "news", "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q", "youtubeVideoId": "YmYjCPNQHz8", "embeddable": true, "live": false},
   {"id": "metropoles", "name": "Metrópoles", "category": "news", "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw", "youtubeVideoId": "aMudBt3UU20", "embeddable": true, "live": false, "wikidata": "Q56350071"},
-  {"id": "timesbrasil", "name": "Times Brasil CNBC", "category": "economy", "youtubeChannelId": "UC2vs-PnhPNxACC5wti_KMTg", "youtubeVideoId": "byC-lqcx2HI", "embeddable": true, "live": false},
+  {"id": "timesbrasil", "name": "Times Brasil CNBC", "category": "economy", "youtubeChannelId": "UC2vs-PnhPNxACC5wti_KMTg", "youtubeVideoId": "vb4269SjCk0", "embeddable": true, "live": true, "liveSince": "2026-10-27T00:27:29Z"},
   {"id": "tvbrasil", "name": "TV Brasil", "category": "broadcast", "youtubeChannelId": "UCSv9d0kQegylHWpP83jWSQg", "youtubeVideoId": "k7-765SAizk", "embeddable": true, "live": false},
   {"id": "record", "name": "RECORD", "category": "broadcast", "youtubeChannelId": "UCu_a6PAzp30Bn2mM-Ll09LA", "youtubeVideoId": "OKw1YtSQkMo", "embeddable": true, "live": false},
   {"id": "redetv", "name": "RedeTV!", "category": "broadcast", "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w", "youtubeVideoId": "NhxuD8CU9MI", "embeddable": true, "live": false},

@@ -5,6 +5,7 @@
  "defaultTiles": [
   "br.canalgov",
   "br.gaucha",
+  "br.timesbrasil",
   "br.bandeirantes"
  ],
  "channels": [
@@ -217,9 +218,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC2vs-PnhPNxACC5wti_KMTg",
-   "youtubeVideoId": "byC-lqcx2HI",
+   "youtubeVideoId": "vb4269SjCk0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
