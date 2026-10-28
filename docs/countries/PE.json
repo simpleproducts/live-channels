@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026102814,
+ "version": 2026102819,
  "defaultTiles": [
   "pe.latina",
-  "pe.pbo",
   "pe.larepublica",
   "pe.rpp",
   "pe.willax",
   "pe.tvperunoticias",
-  "pe.atv",
   "pe.elcomercio",
-  "pe.congreso"
+  "pe.congreso",
+  "pe.panamericana",
+  "pe.exitosa"
  ],
  "channels": [
   {
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "-u8CXjY3Pcs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -40,7 +40,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "eFEPe5zdkaU",
+   "youtubeVideoId": "HicRHADKijM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1330217",
@@ -73,7 +73,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "0U_jbYPJYsw",
+   "youtubeVideoId": "dg7-GMUQaH8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -121,7 +121,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "iObu7OScJLo",
+   "youtubeVideoId": "YwP3liz1SH8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -147,7 +147,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "edsuBbobgm4",
+   "youtubeVideoId": "a8AGlXSnIDs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -173,7 +173,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "YwHjWwKu01o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -214,7 +214,7 @@
     "es"
    ],
    "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg",
-   "youtubeVideoId": "BXc-KBuRSvI",
+   "youtubeVideoId": "CKHX167FKOI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1324020",
@@ -328,7 +328,7 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "Mjeu8qgimoU",
+   "youtubeVideoId": "lF7w5fVXXpg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q586523",
@@ -465,7 +465,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "SpIbj_uPf4c",
+   "youtubeVideoId": "RyBy7we9ODM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -489,9 +489,9 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "9S6E9wdkFvY",
+   "youtubeVideoId": "DhIjn_UYveM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096493",
    "description": {
     "en": "radio station",
@@ -519,7 +519,7 @@
    "youtubeChannelId": "UCycOAX62Pwuo-g_OSbh5hyw",
    "youtubeVideoId": "1uPwhuMHxSI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026102814,
+ "version": 2026102819,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -524,7 +524,7 @@
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
    "youtubeVideoId": "adFOmfgU_AY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -565,7 +565,7 @@
    "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA",
    "youtubeVideoId": "ZVZWKr1yI0s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3410428",
    "description": {
     "en": "French parliamentary television channel",
@@ -760,9 +760,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCwI-JbGNsojunnHbFAc0M4Q",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "B56nYtuByDA",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q8073",
    "description": {
     "en": "Franco-German television channel and network",

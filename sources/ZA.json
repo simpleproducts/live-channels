@@ -3,13 +3,13 @@
  "languages": ["en"],
  "defaultTiles": [],
  "channels": [
-  {"id": "sabcnews", "name": "SABC News", "category": "news", "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g", "youtubeVideoId": "yKKb2UI2UcA", "embeddable": true, "live": true, "liveSince": "2026-10-28T13:56:16Z"},
+  {"id": "sabcnews", "name": "SABC News", "category": "news", "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g", "youtubeVideoId": "_YDQbkj4hUY", "embeddable": true, "live": true, "liveSince": "2026-10-28T17:35:35Z"},
   {"id": "enca", "name": "eNCA", "category": "news", "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA", "youtubeVideoId": "xblKjx_prqU", "embeddable": true, "live": false},
   {"id": "newzroom", "name": "Newzroom Afrika", "category": "news", "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ", "live": false},
   {"id": "news24", "name": "News24", "category": "news", "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw", "live": false, "wikidata": "Q2909223"},
   {"id": "parliament", "name": "Parliament of South Africa", "category": "government", "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ", "live": false, "wikidata": "Q2185780"},
   {"id": "iec", "name": "Electoral Commission of South Africa", "category": "government", "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ", "live": false},
-  {"id": "radio702", "name": "Radio 702", "category": "radio", "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg", "youtubeVideoId": "jQSkOvbzc6c", "embeddable": true, "live": true, "liveSince": "2026-10-28T13:01:33Z"},
-  {"id": "safm", "name": "SAfm", "category": "radio", "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w", "youtubeVideoId": "ajhFens5d0I", "embeddable": true, "live": true, "liveSince": "2026-10-28T04:00:25Z"}
+  {"id": "radio702", "name": "Radio 702", "category": "radio", "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg", "youtubeVideoId": "jQSkOvbzc6c", "embeddable": true, "live": false},
+  {"id": "safm", "name": "SAfm", "category": "radio", "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w", "youtubeVideoId": "ajhFens5d0I", "embeddable": true, "live": false}
  ]
 }

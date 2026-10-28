@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102806,
+ "version": 2026102819,
  "defaultTiles": [
   "tr.cnnturk",
   "tr.trthaber",
   "tr.haberturk",
   "tr.ntv",
   "tr.sozcu",
-  "tr.ahaber",
   "tr.tgrthaber",
   "tr.haberglobal",
-  "tr.tv100"
+  "tr.tv100",
+  "tr.24tv"
  ],
  "channels": [
   {
@@ -270,7 +270,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
-   "youtubeVideoId": "HVrGahajOWA",
+   "youtubeVideoId": "1B46fhZyXEA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6089384",

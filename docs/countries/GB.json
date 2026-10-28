@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102814,
+ "version": 2026102819,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
   "gb.reuters",
-  "gb.telegraph",
-  "gb.guardian",
-  "gb.itvnews",
-  "gb.independent"
+  "gb.independent",
+  "gb.thesun",
+  "gb.bbcnewsarabic",
+  "gb.timesradio"
  ],
  "channels": [
   {
@@ -172,7 +172,7 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "fQvr2dZlS9M",
+   "youtubeVideoId": "wh3oBuUn7jk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q130879",
@@ -300,7 +300,7 @@
    "youtubeChannelId": "UCPgLNge0xqQHWM5B5EFH9Cg",
    "youtubeVideoId": "3ZEHEJZ-g_Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q192621",
    "description": {
     "en": "British daily broadsheet newspaper",
@@ -356,7 +356,7 @@
    "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA",
    "youtubeVideoId": "yScFG8WQ_KU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5614018",
    "description": {
     "en": "British news website",
@@ -392,7 +392,7 @@
    "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A",
    "youtubeVideoId": "K5GaR5FNmsA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4189762",
    "description": {
     "en": "British broadcaster ITV's branded news programming",
@@ -486,7 +486,7 @@
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
    "youtubeVideoId": "efee36AZDFk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -558,7 +558,7 @@
    "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA",
    "youtubeVideoId": "yvClCYoPgw0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -576,7 +576,7 @@
    "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g",
    "youtubeVideoId": "o5xt5nGGd0I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11010",
    "description": {
     "en": "supreme legislative body of the United Kingdom",
@@ -648,7 +648,7 @@
     "en"
    ],
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
-   "youtubeVideoId": "t8hvg0keuRk",
+   "youtubeVideoId": "tQfBV6hBmZQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6457273",

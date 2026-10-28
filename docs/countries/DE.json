@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026102806,
+ "version": 2026102819,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
+  "de.tagesschau",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -94,9 +95,9 @@
     "de"
    ],
    "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA",
-   "youtubeVideoId": "1o5p9TeZUxE",
+   "youtubeVideoId": "8LL6xLqAgUo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q703907",
    "description": {
     "en": "Germany's main daily news report in television",

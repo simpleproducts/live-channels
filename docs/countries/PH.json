@@ -1,12 +1,9 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102814,
+ "version": 2026102819,
  "defaultTiles": [
-  "ph.news5",
-  "ph.net25",
-  "ph.dzrh",
-  "ph.loveradio"
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -129,7 +126,7 @@
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
    "youtubeVideoId": "sLWZvopBMHg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -171,7 +168,7 @@
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
    "youtubeVideoId": "gLwqsyPIjWM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -461,7 +458,7 @@
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
    "youtubeVideoId": "uUsHrSdnso8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

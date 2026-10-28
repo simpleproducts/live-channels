@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026102814,
+ "version": 2026102819,
  "defaultTiles": [
   "br.jovempan",
   "br.recordnews",
   "br.cnnbrasil",
-  "br.bandjornalismo",
   "br.sbtnews",
   "br.uol",
   "br.metropoles",
   "br.canalgov",
-  "br.gaucha"
+  "br.gaucha",
+  "br.tvbrasil"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "McwaYFPaCRo",
+   "youtubeVideoId": "rWs1GRF8eyo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -118,7 +118,7 @@
    "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA",
    "youtubeVideoId": "fobkLRMNFh8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q137910166",
    "description": {
     "en": "Official Band Journalism channel with exclusive live streams, full news programs, expert commentary, special reports, and on-demand content from Band TV."
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "l8tq0qf-LXQ",
+   "youtubeVideoId": "S7QhwTqy8gc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -181,7 +181,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-   "youtubeVideoId": "XoGCQKIIFTo",
+   "youtubeVideoId": "AfqB9FngtCM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -199,7 +199,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "Wn3mYc4T4po",
+   "youtubeVideoId": "QYtTS2fEhDU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q56350071",
@@ -241,9 +241,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCSv9d0kQegylHWpP83jWSQg",
-   "youtubeVideoId": "I_0R0Ds8QT4",
+   "youtubeVideoId": "Otq9yFRqjhk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1788146",
    "description": {
     "en": "public broadcaster in Brazil",
@@ -318,9 +318,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
-   "youtubeVideoId": "x77ANpd421Y",
+   "youtubeVideoId": "3wfWZPmVP6A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1090363",
    "description": {
     "en": "Brazilian broadcast television network",
@@ -438,7 +438,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC-ZkSRh-7UEuwXJQ9UMCFJA",
-   "youtubeVideoId": "keVMWudIWrs",
+   "youtubeVideoId": "OqFxOOtmsZU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6137650",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "QCI3Mw2KIi0",
+   "youtubeVideoId": "_vs_jGPPFpE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,9 +494,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "iPCXxDbY2ZE",
+   "youtubeVideoId": "Bd0osIrrEJg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4854200",
    "description": {
     "en": "Brazilian all news radio network",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "Znhv9yGhHQs",
+   "youtubeVideoId": "MiZtHEOeHuE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "va4LEiuy7Fs",
+   "youtubeVideoId": "vg5dkwwsUqc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
@@ -592,9 +592,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w",
-   "youtubeVideoId": "AZKLLOCt0Bw",
+   "youtubeVideoId": "5FyBioeKNrI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

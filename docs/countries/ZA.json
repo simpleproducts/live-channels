@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026102814,
+ "version": 2026102819,
  "defaultTiles": [
-  "za.sabcnews",
-  "za.radio702",
-  "za.safm"
+  "za.sabcnews"
  ],
  "channels": [
   {
@@ -16,7 +14,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
-   "youtubeVideoId": "yKKb2UI2UcA",
+   "youtubeVideoId": "_YDQbkj4hUY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q48767445",
@@ -182,7 +180,7 @@
    "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
    "youtubeVideoId": "jQSkOvbzc6c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -200,7 +198,7 @@
    "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w",
    "youtubeVideoId": "ajhFens5d0I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026102814,
+ "version": 2026102819,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
   "es.elpais",
   "es.elmundo",
-  "es.europapress",
   "es.3cat324",
   "es.canalsur",
-  "es.eitb"
+  "es.eitb",
+  "es.rtvcanarias"
  ],
  "channels": [
   {
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "TbllLNhU7pY",
+   "youtubeVideoId": "9hn_67Xe97g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -263,7 +263,7 @@
    "youtubeChannelId": "UCh_chnQ7OJPQ8mZ7vbXFpIQ",
    "youtubeVideoId": "XK11cNikrfk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3060712",
    "description": {
     "en": "Spanish news agency",
@@ -395,9 +395,9 @@
     "es"
    ],
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
-   "youtubeVideoId": "SqsKep9a65c",
+   "youtubeVideoId": "ulqlaHKjvcw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -683,9 +683,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "mPGneSdxZH0",
+   "youtubeVideoId": "6IS1xERQMpU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -716,9 +716,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "AWjkK2EcClI",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2748488",
    "description": {
     "en": "the Spanish private national radio of the Spanish Catholic Church",
@@ -749,7 +749,7 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "s2UDnzp-2aU",
+   "youtubeVideoId": "QiOXRfp8urg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3390195",

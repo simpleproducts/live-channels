@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102814,
+ "version": 2026102819,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -11,7 +11,7 @@
   "us.nbcnews",
   "us.livenow",
   "us.scripps",
-  "us.ap"
+  "us.nmasunivision"
  ],
  "channels": [
   {
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "UOhWPiCl55s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
