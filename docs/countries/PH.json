@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102720,
+ "version": 2026102800,
  "defaultTiles": [
+  "ph.abscbn",
   "ph.dzrh",
   "ph.teleradyo"
  ],
@@ -16,9 +17,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "HmsghyRB6Gs",
+   "youtubeVideoId": "Yi2B-ugvelI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",

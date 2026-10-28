@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102720,
+ "version": 2026102800,
  "defaultTiles": [
   "mx.nmas",
   "mx.aztecanoticias",
-  "mx.imagennoticias",
   "mx.heraldo",
-  "mx.unotv",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.canalonce",
-  "mx.imagentv"
+  "mx.canalcongreso",
+  "mx.radioformula",
+  "mx.mvsnoticias",
+  "mx.los40"
  ],
  "channels": [
   {
@@ -60,7 +60,7 @@
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
    "youtubeVideoId": "i-rEKKcz06U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,7 +139,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "tX3nH4ql1iw",
+   "youtubeVideoId": "Eub613OxKkM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65047709",
@@ -171,7 +171,7 @@
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
    "youtubeVideoId": "EqWL4X9Rlc4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -291,7 +291,7 @@
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
    "youtubeVideoId": "PUIVTUEi5Lk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -334,7 +334,7 @@
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
    "youtubeVideoId": "rQA2TQe5w3k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -464,7 +464,7 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "nFYd7tPMBEo",
+   "youtubeVideoId": "dRSJB1xsfG4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5746883",
@@ -488,7 +488,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "Y4OOkWhrXW8",
+   "youtubeVideoId": "wcoeghIxRa4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -515,7 +515,7 @@
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
    "youtubeVideoId": "28amm4qYG6M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "VFQMQyzJcsc",
+   "youtubeVideoId": "ifeok9iR8dU",
    "embeddable": true,
    "live": true,
    "wikidata": null,

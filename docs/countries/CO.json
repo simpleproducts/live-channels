@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102720,
+ "version": 2026102800,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiasrcn",
@@ -128,7 +128,7 @@
     "es"
    ],
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
-   "youtubeVideoId": "xROusgZzTuM",
+   "youtubeVideoId": "RHBiTbCTAK4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -455,7 +455,7 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "r6vtpxhCOIQ",
+   "youtubeVideoId": "n-5dCF8wc-g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4382447",
@@ -486,7 +486,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "HM0qLZYUi3Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",

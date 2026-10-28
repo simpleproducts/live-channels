@@ -1,14 +1,11 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102720,
+ "version": 2026102800,
  "defaultTiles": [
-  "uy.elobservadoruy",
   "uy.ladiaria",
-  "uy.tnu",
   "uy.carve",
   "uy.delsol",
-  "uy.sarandi",
   "uy.canal10"
  ],
  "channels": [
@@ -22,7 +19,7 @@
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
    "youtubeVideoId": "gia6iWKWQqQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -104,7 +101,7 @@
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
    "youtubeVideoId": "O98dwNXxyxg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -142,7 +139,7 @@
     "es"
    ],
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
-   "youtubeVideoId": "frMprf0MLhc",
+   "youtubeVideoId": "rBNCTYHFBCk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2436756",
@@ -348,7 +345,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "h6O7Lshs1VM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

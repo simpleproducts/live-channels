@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102720,
+ "version": 2026102800,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.scripps",
-  "us.pbsnewshour"
+  "us.foxnews",
+  "us.msnow"
  ],
  "channels": [
   {
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "ZwPOtUEfhz8",
+   "youtubeVideoId": "KJeQk_wFj7o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "wvY8yOPyNVI",
+   "youtubeVideoId": "VJ_CpdLJkJo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "JB2TvfhsEHE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "TKF_6rN3MaA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -547,7 +547,7 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "jWoX_tccuBg",
+   "youtubeVideoId": "7mkU_WfCkUE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q166419",
@@ -603,7 +603,7 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "Rum3NCOw88o",
+   "youtubeVideoId": "Ba3AQ-AxE5A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q13973",
@@ -661,7 +661,7 @@
    "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA",
    "youtubeVideoId": "op7y25dCpew",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7739683",
    "description": {
     "en": "newspaper in Washington, D.C.",
@@ -765,7 +765,7 @@
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
    "youtubeVideoId": "KupAe3PXoUE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -865,7 +865,7 @@
     "en"
    ],
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
-   "youtubeVideoId": "g5Mru41TAxI",
+   "youtubeVideoId": "NHlCoe3yTTw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3735740",
@@ -1067,7 +1067,7 @@
    "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ",
    "youtubeVideoId": "EG9PuzfC_AI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q35525",
    "description": {
     "en": "official residence and office of the President of the United States",

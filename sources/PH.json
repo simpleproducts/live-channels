@@ -3,7 +3,7 @@
  "languages": ["tl", "en"],
  "defaultTiles": ["abscbn", "gma", "anc", "oneph", "news5", "untv", "net25", "rappler", "inquirer"],
  "channels": [
-  {"id": "abscbn", "name": "ABS-CBN News", "category": "news", "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA", "youtubeVideoId": "HmsghyRB6Gs", "embeddable": true, "live": false},
+  {"id": "abscbn", "name": "ABS-CBN News", "category": "news", "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA", "youtubeVideoId": "Yi2B-ugvelI", "embeddable": true, "live": true, "liveSince": "2026-10-28T00:03:33Z"},
   {"id": "gma", "name": "GMA Integrated News", "category": "news", "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw", "youtubeVideoId": "2fOpJ8GB2Xc", "embeddable": true, "live": false},
   {"id": "anc", "name": "ANC 24/7", "category": "news", "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg", "youtubeVideoId": "c0dTuWxABqM", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "oneph", "name": "One PH", "category": "news", "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA", "youtubeVideoId": "jm9EhCdRz0s", "embeddable": true, "live": false},

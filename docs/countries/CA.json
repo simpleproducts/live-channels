@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026102720,
+ "version": 2026102800,
  "defaultTiles": [
-  "ca.cbcnews",
-  "ca.cpac"
+  "ca.cbcnews"
  ],
  "channels": [
   {
@@ -318,7 +317,7 @@
    "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
    "youtubeVideoId": "oPyRVeB8hfY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2931869",
    "description": {
     "en": "Canadian parliamentary broadcaster",

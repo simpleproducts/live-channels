@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102720,
+ "version": 2026102800,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
@@ -172,7 +172,7 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "t0-d_p9chDg",
+   "youtubeVideoId": "UiR2-qLasyA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q130879",
@@ -502,7 +502,7 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "IVG-h4GUH44",
+   "youtubeVideoId": "XFmHb1KTiNk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q208875",
@@ -650,7 +650,7 @@
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
    "youtubeVideoId": "dx7oxaQ4sCk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

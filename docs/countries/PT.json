@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "PT",
- "version": 2026102720,
+ "version": 2026102800,
  "defaultTiles": [
-  "pt.euronewspt",
-  "pt.renascenca"
+  "pt.euronewspt"
  ],
  "channels": [
   {
@@ -242,7 +241,7 @@
    "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw",
    "youtubeVideoId": "ksYVhyyQjcY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1509626",
    "description": {
     "en": "Radio station",
