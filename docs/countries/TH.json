@@ -1,17 +1,14 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026102719,
+ "version": 2026102814,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
-  "th.ch7news",
-  "th.ch3news",
   "th.tnn",
   "th.pptv",
   "th.amarin",
-  "th.nation",
-  "th.workpoint"
+  "th.topnews"
  ],
  "channels": [
   {
@@ -22,9 +19,9 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "x-9ThDZ_RVc",
+   "youtubeVideoId": "IpJ87YYPzF8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -72,9 +69,9 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "vs9HBJt_5Q0",
+   "youtubeVideoId": "_R_xvxZp2sg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -126,9 +123,9 @@
     "th"
    ],
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
-   "youtubeVideoId": "YfxUqa0aea0",
+   "youtubeVideoId": "eaIZI7Pp0UQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -144,9 +141,9 @@
     "th"
    ],
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
-   "youtubeVideoId": "_lQZaXC2-74",
+   "youtubeVideoId": "TgKMsr3-t48",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",
@@ -170,9 +167,9 @@
     "th"
    ],
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
-   "youtubeVideoId": "b1GCfQoTnvA",
+   "youtubeVideoId": "lK2R6wAMkIU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -224,9 +221,9 @@
     "th"
    ],
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
-   "youtubeVideoId": "QxEIUSfdNy8",
+   "youtubeVideoId": "TfJz3j4c_ao",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

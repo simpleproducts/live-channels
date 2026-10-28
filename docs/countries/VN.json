@@ -1,16 +1,11 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026102719,
+ "version": 2026102814,
  "defaultTiles": [
   "vn.antv",
-  "vn.qpvn",
-  "vn.htvnews",
-  "vn.hanoitv",
-  "vn.vov",
   "vn.thanhnien",
-  "vn.tuoitre",
-  "vn.vtcnews"
+  "vn.tuoitre"
  ],
  "channels": [
   {
@@ -21,9 +16,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "8vkYwl-1VH4",
+   "youtubeVideoId": "HZS4hjOBUpE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -57,9 +52,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
-   "youtubeVideoId": "7U5Do4QnUvE",
+   "youtubeVideoId": "tYtOUtaX-dI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7710368",
    "description": {
     "en": "Vietnamese newspaper",
@@ -90,9 +85,9 @@
     "vi"
    ],
    "youtubeChannelId": "UC47WI-kZXFf0H_f7pvaNCEQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "yLTmi7Qj6ys",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q7853413",
    "description": {
     "en": "daily newspaper in Vietnam",

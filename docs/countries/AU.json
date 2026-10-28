@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026102712,
+ "version": 2026102814,
  "defaultTiles": [
-  "au.abcnews"
+  "au.abcnews",
+  "au.newscomau"
  ],
  "channels": [
   {
@@ -93,9 +94,9 @@
     "en"
    ],
    "youtubeChannelId": "UCtWWry0cgjWi9C0Ye9sh6og",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "1-RMh-CkiUo",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q16903296",
    "description": {
     "en": "Australian online newspaper",
