@@ -5,7 +5,7 @@
  "channels": [
   {"id": "suspilne", "name": "Суспільне Новини", "category": "news", "youtubeChannelId": "UCPY6gj8G7dqwPxg9KwHrj5Q", "youtubeVideoId": "EHiuKvFUr2w", "embeddable": true, "live": true, "liveSince": "2026-08-16T18:09:56Z"},
   {"id": "tsn", "name": "ТСН", "category": "news", "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew", "youtubeVideoId": "jmOm3pQs4c0", "embeddable": true, "live": true, "liveSince": "2026-10-27T21:00:58Z"},
-  {"id": "faktyictv", "name": "Факти ICTV", "category": "news", "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA", "youtubeVideoId": "Kplq8blmV4g", "embeddable": true, "live": true, "liveSince": "2026-10-27T19:43:20Z"},
+  {"id": "faktyictv", "name": "Факти ICTV", "category": "news", "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA", "youtubeVideoId": "4OwpiW5oEZ4", "embeddable": true, "live": true, "liveSince": "2026-10-28T05:00:51Z"},
   {"id": "espreso", "name": "Еспресо", "category": "news", "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w", "youtubeVideoId": "ScdUZNkwcYc", "embeddable": true, "live": true, "liveSince": "2024-02-27T18:12:49Z"},
   {"id": "kyiv24", "name": "Київ24", "category": "news", "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA", "youtubeVideoId": "UeJvkWACwao", "embeddable": true, "live": false},
   {"id": "freedom", "name": "FREEДOM", "category": "news", "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA", "youtubeVideoId": "Vjgj2yLcbUQ", "embeddable": true, "live": true, "liveSince": "2026-10-27T20:39:24Z", "languages": ["ru"]},

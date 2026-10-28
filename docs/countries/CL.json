@@ -1,17 +1,15 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102800,
+ "version": 2026102806,
  "defaultTiles": [
-  "cl.24horas",
   "cl.meganoticias",
+  "cl.24horas",
   "cl.chvnoticias",
-  "cl.biobio",
-  "cl.tvn",
   "cl.senado",
   "cl.cooperativa",
-  "cl.chilevision",
-  "cl.canal13"
+  "cl.tvn",
+  "cl.chilevision"
  ],
  "channels": [
   {
@@ -22,7 +20,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "X0dXPaBc7UU",
+   "youtubeVideoId": "20PhtRk1jv8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -40,7 +38,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTXNz3gjAypWp3EhlIATEJQ",
-   "youtubeVideoId": "w8oWjZyuCSc",
+   "youtubeVideoId": "HUs9qiE5exE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2935885",
@@ -139,7 +137,7 @@
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
    "youtubeVideoId": "yld5IPjbB2A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -168,7 +166,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "-M20aU4HqWg",
+   "youtubeVideoId": "RmKTpfqArVM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -224,7 +222,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "67h2J7mGXUs",
+   "youtubeVideoId": "zaCUpwxK7eU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
@@ -322,7 +320,7 @@
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
    "youtubeVideoId": "82n_JBu0TSU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -458,7 +456,7 @@
    "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA",
    "youtubeVideoId": "VoADRewv8kQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2119518",
    "description": {
     "en": "Lower house of Chile's National Congress",
@@ -506,7 +504,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "wleg9mg2-jc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -587,7 +585,7 @@
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
    "youtubeVideoId": "TU6hU-S_gl0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102800,
+ "version": 2026102806,
  "defaultTiles": [
   "ar.tn",
+  "ar.c5n",
   "ar.lnmas",
   "ar.a24",
-  "ar.canal26",
   "ar.cronica",
   "ar.canalrural",
-  "ar.c5n",
-  "ar.infobae",
-  "ar.tvpublica"
+  "ar.canal26",
+  "ar.tvpublica",
+  "ar.america"
  ],
  "channels": [
   {
@@ -120,7 +120,7 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "2tq4ss0vOG8",
+   "youtubeVideoId": "l4P1hHfY7PA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q389108",
@@ -197,7 +197,7 @@
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
    "youtubeVideoId": "8HTHtBKIJ8A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -230,7 +230,7 @@
    "youtubeChannelId": "UCHc3el42hXKKhjs_1vzWk9A",
    "youtubeVideoId": "MaYYl6pGpS8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1143518",
    "description": {
     "en": "Argentine television network",
@@ -867,7 +867,7 @@
    "youtubeChannelId": "UC6pJGaMdx5Ter_8zYbLoRgA",
    "youtubeVideoId": "6170Kzz6R28",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -903,7 +903,7 @@
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
    "youtubeVideoId": "FTd3PufqKwY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1153,7 +1153,7 @@
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
    "youtubeVideoId": "WygnaiCg2hA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1195,7 +1195,7 @@
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
    "youtubeVideoId": "2rAj0CvjTDQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1211,7 +1211,7 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "2PRujiVOWHk",
+   "youtubeVideoId": "T8GcByLQtSM",
    "embeddable": true,
    "live": true,
    "wikidata": null,

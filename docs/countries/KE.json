@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026102800,
+ "version": 2026102806,
  "defaultTiles": [
+  "ke.citizentv",
   "ke.ntv",
   "ke.ktn",
-  "ke.k24",
-  "ke.citizentv"
+  "ke.k24"
  ],
  "channels": [
   {

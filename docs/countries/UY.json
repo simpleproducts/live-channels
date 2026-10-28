@@ -1,12 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102800,
+ "version": 2026102806,
  "defaultTiles": [
+  "uy.elobservadoruy",
   "uy.ladiaria",
+  "uy.tnu",
   "uy.carve",
   "uy.delsol",
-  "uy.canal10"
+  "uy.sarandi",
+  "uy.elpaisuy"
  ],
  "channels": [
   {
@@ -53,7 +56,7 @@
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
    "youtubeVideoId": "D5oBft8y6YQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -141,7 +144,7 @@
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
    "youtubeVideoId": "rBNCTYHFBCk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -302,7 +305,7 @@
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
    "youtubeVideoId": "1qDpYCU_Z3s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -327,7 +330,7 @@
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
    "youtubeVideoId": "scplD1uly5k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

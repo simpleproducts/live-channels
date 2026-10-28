@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026102800,
+ "version": 2026102806,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.foxnews",
-  "us.msnow"
+  "us.nmasunivision",
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -549,7 +549,7 @@
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
    "youtubeVideoId": "7mkU_WfCkUE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -605,7 +605,7 @@
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
    "youtubeVideoId": "Ba3AQ-AxE5A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -867,7 +867,7 @@
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
    "youtubeVideoId": "NHlCoe3yTTw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",
