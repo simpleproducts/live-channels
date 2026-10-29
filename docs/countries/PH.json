@@ -1,15 +1,10 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102913,
+ "version": 2026102918,
  "defaultTiles": [
-  "ph.abscbn",
-  "ph.oneph",
   "ph.news5",
-  "ph.dzrh",
-  "ph.ptv",
-  "ph.teleradyo",
-  "ph.loveradio"
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -23,7 +18,7 @@
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
    "youtubeVideoId": "GdkTFI2LAmA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -107,7 +102,7 @@
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
    "youtubeVideoId": "Gi9ztdUY6cQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -130,7 +125,7 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "6gqXw7Fwr6M",
+   "youtubeVideoId": "gYB0QndR_V0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -262,7 +257,7 @@
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
    "youtubeVideoId": "TEkHng1MUeA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -426,7 +421,7 @@
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
    "youtubeVideoId": "SmOs4L_YCMg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -464,7 +459,7 @@
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
    "youtubeVideoId": "hSRwiZa4nJg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

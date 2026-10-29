@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102913,
+ "version": 2026102918,
  "defaultTiles": [
   "mx.aztecanoticias",
-  "mx.milenio",
-  "mx.nmas",
-  "mx.heraldo",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
   "mx.imagentv",
-  "mx.radioformula"
+  "mx.canalcongreso",
+  "mx.mvsnoticias",
+  "mx.los40"
  ],
  "channels": [
   {
@@ -24,7 +23,7 @@
    "youtubeChannelId": "UCFxHplbcoJK9m70c4VyTIxg",
    "youtubeVideoId": "R7VxykqHWmI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -42,7 +41,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "jKLk0c-KeQQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -141,7 +140,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "HGabcZeVV6w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -289,7 +288,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "lJa3JWQQOBk",
+   "youtubeVideoId": "EVpxhZyFUTg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -464,9 +463,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "c7OdpaQ44VI",
+   "youtubeVideoId": "baOIQS3bQg4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -490,7 +489,7 @@
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
    "youtubeVideoId": "d8TRSnrtqPo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -515,7 +514,7 @@
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
    "youtubeVideoId": "UcU-SVuAYYE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -567,7 +566,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "syAx80p2hXw",
+   "youtubeVideoId": "CM73-j1yYA0",
    "embeddable": true,
    "live": true,
    "wikidata": null,

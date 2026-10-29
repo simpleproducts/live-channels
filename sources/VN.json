@@ -5,11 +5,11 @@
  "channels": [
   {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "nmgHbO4BGow", "embeddable": true, "live": true, "liveSince": "2026-10-29T08:30:56Z", "languages": ["vi"]},
   {"id": "qpvn", "name": "QPVN", "category": "news", "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw", "youtubeVideoId": "AEc0g4v74Ow", "embeddable": true, "live": false, "languages": ["vi"]},
-  {"id": "thanhnien", "name": "Báo Thanh Niên", "category": "news", "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg", "youtubeVideoId": "I1fjyAsvdHM", "embeddable": true, "live": true, "liveSince": "2026-10-29T13:00:07Z", "languages": ["vi"]},
+  {"id": "thanhnien", "name": "Báo Thanh Niên", "category": "news", "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg", "youtubeVideoId": "I1fjyAsvdHM", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "tuoitre", "name": "Báo Tuổi Trẻ", "category": "news", "youtubeChannelId": "UC47WI-kZXFf0H_f7pvaNCEQ", "youtubeVideoId": "yLTmi7Qj6ys", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "vtcnews", "name": "VTC News", "category": "news", "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg", "youtubeVideoId": "rKotlYs86GM", "embeddable": true, "live": false, "languages": ["vi"]},
-  {"id": "htvnews", "name": "HTV Tin Tức", "category": "regional", "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw", "youtubeVideoId": "smVNznP6JIY", "embeddable": true, "live": true, "liveSince": "2026-10-29T12:46:34Z", "languages": ["vi"]},
-  {"id": "hanoitv", "name": "Hanoi Radio Television", "category": "regional", "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w", "youtubeVideoId": "Yqli5yKp8FE", "embeddable": true, "live": true, "liveSince": "2026-10-29T12:58:14Z", "languages": ["vi"]},
+  {"id": "htvnews", "name": "HTV Tin Tức", "category": "regional", "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw", "youtubeVideoId": "smVNznP6JIY", "embeddable": true, "live": false, "languages": ["vi"]},
+  {"id": "hanoitv", "name": "Hanoi Radio Television", "category": "regional", "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w", "youtubeVideoId": "Yqli5yKp8FE", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "vov", "name": "VOV", "category": "radio", "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg", "youtubeVideoId": "_YYjthyWWF0", "embeddable": true, "live": false, "languages": ["vi"]}
  ]
 }

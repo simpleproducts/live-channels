@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "SA",
- "version": 2026102318,
+ "version": 2026102918,
  "defaultTiles": [
   "sa.alekhbariya",
   "sa.asharq",
   "sa.asharqbusiness",
-  "sa.ksasports",
   "sa.quran",
-  "sa.sunnah"
+  "sa.sunnah",
+  "sa.ksasports"
  ],
  "channels": [
   {
@@ -93,7 +93,7 @@
     "ar"
    ],
    "youtubeChannelId": "UCLo2xigvxv9ksxp78AyCBTw",
-   "youtubeVideoId": "JrWL4iJASgM",
+   "youtubeVideoId": "6Qru7atOAIE",
    "embeddable": true,
    "live": true,
    "wikidata": null,

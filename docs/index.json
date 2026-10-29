@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-29T13:02:38Z",
+ "updated": "2026-10-29T18:58:57Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/AR.json"
   },
   {
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/BR.json"
   },
   {
@@ -150,7 +150,7 @@
     "fr"
    ],
    "channelCount": 11,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/CA.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/CL.json"
   },
   {
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/CO.json"
   },
   {
@@ -270,7 +270,7 @@
     "de"
    ],
    "channelCount": 11,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/DE.json"
   },
   {
@@ -300,7 +300,7 @@
     "ar"
    ],
    "channelCount": 5,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/EG.json"
   },
   {
@@ -330,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/ES.json"
   },
   {
@@ -360,7 +360,7 @@
     "fr"
    ],
    "channelCount": 18,
-   "version": 2026102900,
+   "version": 2026102918,
    "file": "countries/FR.json"
   },
   {
@@ -390,7 +390,7 @@
     "en"
    ],
    "channelCount": 17,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/GB.json"
   },
   {
@@ -420,7 +420,7 @@
     "zh"
    ],
    "channelCount": 4,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/HK.json"
   },
   {
@@ -450,7 +450,7 @@
     "id"
    ],
    "channelCount": 8,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/ID.json"
   },
   {
@@ -480,7 +480,7 @@
     "he"
    ],
    "channelCount": 7,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/IL.json"
   },
   {
@@ -511,7 +511,7 @@
     "en"
    ],
    "channelCount": 24,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/IN.json"
   },
   {
@@ -541,7 +541,7 @@
     "it"
    ],
    "channelCount": 7,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/IT.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/JP.json"
   },
   {
@@ -602,7 +602,7 @@
     "sw"
    ],
    "channelCount": 11,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/KE.json"
   },
   {
@@ -632,7 +632,7 @@
     "ko"
    ],
    "channelCount": 31,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/KR.json"
   },
   {
@@ -662,7 +662,7 @@
     "es"
    ],
    "channelCount": 25,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/MX.json"
   },
   {
@@ -692,7 +692,7 @@
     "en"
    ],
    "channelCount": 6,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/NG.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 19,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/PE.json"
   },
   {
@@ -783,7 +783,7 @@
     "en"
    ],
    "channelCount": 16,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/PH.json"
   },
   {
@@ -843,7 +843,7 @@
     "pl"
    ],
    "channelCount": 11,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/PL.json"
   },
   {
@@ -873,7 +873,7 @@
     "pt"
    ],
    "channelCount": 7,
-   "version": 2026102800,
+   "version": 2026102918,
    "file": "countries/PT.json"
   },
   {
@@ -903,7 +903,7 @@
     "es"
    ],
    "channelCount": 10,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/PY.json"
   },
   {
@@ -963,7 +963,7 @@
     "ru"
    ],
    "channelCount": 6,
-   "version": 2026102900,
+   "version": 2026102918,
    "file": "countries/RU.json"
   },
   {
@@ -993,7 +993,7 @@
     "ar"
    ],
    "channelCount": 6,
-   "version": 2026102318,
+   "version": 2026102918,
    "file": "countries/SA.json"
   },
   {
@@ -1053,7 +1053,7 @@
     "th"
    ],
    "channelCount": 15,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/TH.json"
   },
   {
@@ -1113,7 +1113,7 @@
     "uk"
    ],
    "channelCount": 11,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/UA.json"
   },
   {
@@ -1143,7 +1143,7 @@
     "en"
    ],
    "channelCount": 32,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/US.json"
   },
   {
@@ -1173,7 +1173,7 @@
     "es"
    ],
    "channelCount": 13,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/UY.json"
   },
   {
@@ -1233,7 +1233,7 @@
     "es"
    ],
    "channelCount": 7,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/VE.json"
   },
   {
@@ -1263,7 +1263,7 @@
     "vi"
    ],
    "channelCount": 8,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/VN.json"
   },
   {
@@ -1293,7 +1293,7 @@
     "en"
    ],
    "channelCount": 8,
-   "version": 2026102913,
+   "version": 2026102918,
    "file": "countries/ZA.json"
   }
  ],
@@ -1362,7 +1362,6 @@
     "es.euronewses",
     "es.rtve24h",
     "ar.tn",
-    "mx.nmas",
     "co.ntn24",
     "us.telemundo"
    ],
@@ -1394,7 +1393,7 @@
     "us.bloomberg",
     "us.cnbc",
     "us.yahoofinance",
-    "us.cnbcintl",
+    "us.foxbusiness",
     "in.cnbctv18",
     "in.etnow"
    ],
@@ -1427,7 +1426,10 @@
     "us.cbsnews",
     "us.nbcnews",
     "us.cnn",
-    "us.livenow"
+    "us.foxnews",
+    "us.pbsnewshour",
+    "us.livenow",
+    "us.newsnation"
    ],
    "countries": [
     "US"
@@ -1471,41 +1473,6 @@
    "featured": true
   },
   {
-   "id": "mx-dia-de-muertos-2026",
-   "title": {
-    "en": "Day of the Dead parade, Mexico City",
-    "es": "Desfile de Día de Muertos en la CDMX",
-    "zh-Hans": "墨西哥城亡灵节大游行",
-    "ja": "メキシコシティ 死者の日パレード",
-    "fr": "Défilé du Jour des morts à Mexico",
-    "pt-BR": "Desfile do Dia dos Mortos na Cidade do México",
-    "ko": "멕시코시티 망자의 날 퍼레이드",
-    "it": "Parata del Giorno dei Morti a Città del Messico",
-    "ru": "Парад Дня мёртвых в Мехико",
-    "zh-Hant": "墨西哥城亡靈節大遊行",
-    "ar": "موكب يوم الموتى في مكسيكو سيتي",
-    "tr": "Mexico City Ölüler Günü geçidi",
-    "nl": "Dag van de Doden-parade in Mexico-Stad",
-    "pl": "Parada Dnia Zmarłych w Meksyku",
-    "sv": "De dödas dag-paraden i Mexico City",
-    "id": "Parade Hari Orang Mati di Kota Meksiko",
-    "de": "Parade zum Tag der Toten in Mexiko-Stadt",
-    "ms": "Perarakan Hari Orang Mati di Mexico City"
-   },
-   "tiles": [
-    "mx.milenio",
-    "mx.nmas",
-    "mx.aztecanoticias",
-    "mx.heraldo"
-   ],
-   "countries": [
-    "MX"
-   ],
-   "start": "2026-10-31T19:30:00Z",
-   "end": "2026-11-01T00:30:00Z",
-   "featured": true
-  },
-  {
    "id": "za-elections-2026",
    "title": {
     "en": "South Africa local elections 2026",
@@ -1528,7 +1495,6 @@
     "ms": "Pilihan raya tempatan Afrika Selatan 2026"
    },
    "tiles": [
-    "za.sabcnews",
     "za.radio702",
     "qa.aje",
     "ng.arisenews"
@@ -1564,7 +1530,8 @@
    },
    "tiles": [
     "ca.cbcnews",
-    "ca.ctvnews"
+    "ca.ctvnews",
+    "ca.cpac"
    ],
    "countries": [
     "CA"
@@ -1597,7 +1564,6 @@
    },
    "tiles": [
     "va.vaticannewses",
-    "uy.elpaisuy",
     "ar.tn",
     "ar.c5n"
    ],
@@ -1714,7 +1680,7 @@
     "gb.skynews",
     "gb.gbnews",
     "gb.talktv",
-    "gb.mirror"
+    "gb.guardian"
    ],
    "countries": [
     "GB"
@@ -1864,8 +1830,7 @@
     "pl.tvpinfo",
     "pl.republika",
     "pl.wpolsce24",
-    "pl.tvpworld",
-    "pl.kanalzero"
+    "pl.tvpworld"
    ],
    "countries": [
     "PL"
@@ -1899,6 +1864,7 @@
    "tiles": [
     "ca.cbcnews",
     "ca.ctvnews",
+    "ca.cpac",
     "ca.canadianpress"
    ],
    "countries": [
@@ -1934,50 +1900,13 @@
     "va.vaticannewses",
     "pe.tvperunoticias",
     "pe.rpp",
-    "pe.latina",
-    "pe.atv",
-    "pe.willax"
+    "pe.latina"
    ],
    "countries": [
     "PE"
    ],
    "start": "2026-11-11T22:00:00Z",
    "end": "2026-11-16T19:00:00Z",
-   "featured": true
-  },
-  {
-   "id": "asean-summit-2026",
-   "title": {
-    "en": "ASEAN Summit in Manila",
-    "es": "Cumbre de la ASEAN en Manila",
-    "zh-Hans": "马尼拉东盟峰会",
-    "ja": "マニラ ASEAN首脳会議",
-    "fr": "Sommet de l'ASEAN à Manille",
-    "pt-BR": "Cúpula da ASEAN em Manila",
-    "ko": "마닐라 아세안 정상회의",
-    "it": "Vertice ASEAN a Manila",
-    "ru": "Саммит АСЕАН в Маниле",
-    "zh-Hant": "馬尼拉東協峰會",
-    "ar": "قمة آسيان في مانيلا",
-    "tr": "Manila'da ASEAN Zirvesi",
-    "nl": "ASEAN-top in Manilla",
-    "pl": "Szczyt ASEAN w Manili",
-    "sv": "ASEAN-toppmötet i Manila",
-    "id": "KTT ASEAN di Manila",
-    "de": "ASEAN-Gipfel in Manila",
-    "ms": "Sidang Kemuncak ASEAN di Manila"
-   },
-   "tiles": [
-    "ph.ptv",
-    "ph.abscbn",
-    "ph.news5",
-    "ph.oneph"
-   ],
-   "countries": [
-    "PH"
-   ],
-   "start": "2026-11-16T00:00:00Z",
-   "end": "2026-11-18T13:00:00Z",
    "featured": true
   },
   {
@@ -2010,7 +1939,8 @@
     "kr.sbs",
     "kr.jtbc",
     "kr.channela",
-    "kr.tvchosun"
+    "kr.tvchosun",
+    "kr.mbn"
    ],
    "countries": [
     "KR"
@@ -2042,8 +1972,6 @@
     "ms": "Perarakan Hari Revolusi Mexico"
    },
    "tiles": [
-    "mx.milenio",
-    "mx.nmas",
     "mx.aztecanoticias",
     "mx.canalonce"
    ],
@@ -2127,40 +2055,6 @@
    ],
    "start": "2026-11-29T18:30:00Z",
    "end": "2026-11-30T01:00:00Z",
-   "featured": true
-  },
-  {
-   "id": "ph-duterte-trial-2026",
-   "title": {
-    "en": "Duterte's ICC trial opens",
-    "es": "Comienza el juicio a Duterte en la CPI",
-    "zh-Hans": "杜特尔特国际刑事法院审判开庭",
-    "ja": "ドゥテルテ前大統領 ICC裁判開始",
-    "fr": "Ouverture du procès de Duterte à la CPI",
-    "pt-BR": "Começa o julgamento de Duterte no TPI",
-    "ko": "두테르테 ICC 재판 개시",
-    "it": "Al via il processo a Duterte alla Cpi",
-    "ru": "Начало суда над Дутерте в МУС",
-    "zh-Hant": "杜特蒂國際刑事法院審判開庭",
-    "ar": "بدء محاكمة دوتيرتي أمام المحكمة الجنائية الدولية",
-    "tr": "Duterte'nin UCM davası başlıyor",
-    "nl": "Proces tegen Duterte bij het ICC begint",
-    "pl": "Początek procesu Duterte przed MTK",
-    "sv": "Rättegången mot Duterte i ICC inleds",
-    "id": "Sidang Duterte di ICC dimulai",
-    "de": "Prozess gegen Duterte vor dem IStGH beginnt",
-    "ms": "Perbicaraan Duterte di ICC bermula"
-   },
-   "tiles": [
-    "ph.abscbn",
-    "ph.news5",
-    "ph.oneph"
-   ],
-   "countries": [
-    "PH"
-   ],
-   "start": "2026-11-30T08:00:00Z",
-   "end": "2026-11-30T16:00:00Z",
    "featured": true
   },
   {
@@ -2297,8 +2191,8 @@
    "tiles": [
     "py.caacupe",
     "py.abctv",
+    "py.npy",
     "py.telefuturo",
-    "py.nanduti",
     "py.monumental"
    ],
    "countries": [
@@ -2331,8 +2225,6 @@
     "ms": "Las Mañanitas untuk Perawan Guadalupe"
    },
    "tiles": [
-    "mx.milenio",
-    "mx.nmas",
     "mx.aztecanoticias",
     "mx.imagentv",
     "mx.multimedios"
@@ -2367,7 +2259,6 @@
     "ms": "Hari Jamhuri Kenya"
    },
    "tiles": [
-    "ke.kbc",
     "ke.citizentv",
     "ke.ntv",
     "ke.ktn",
@@ -2379,41 +2270,6 @@
    ],
    "start": "2026-12-12T05:00:00Z",
    "end": "2026-12-12T10:30:00Z",
-   "featured": true
-  },
-  {
-   "id": "th-sirikit-cremation-2026",
-   "title": {
-    "en": "Royal cremation of Queen Mother Sirikit",
-    "es": "Cremación real de la reina madre Sirikit",
-    "zh-Hans": "诗丽吉王太后皇家火化仪式",
-    "ja": "シリキット王太后の王室火葬式",
-    "fr": "Crémation royale de la reine mère Sirikit",
-    "pt-BR": "Cremação real da rainha-mãe Sirikit",
-    "ko": "시리낏 왕대비 왕실 화장식",
-    "it": "Cremazione reale della regina madre Sirikit",
-    "ru": "Королевская кремация королевы-матери Сирикит",
-    "zh-Hant": "詩麗吉王太后皇家火化儀式",
-    "ar": "مراسم حرق جثمان الملكة الأم سيريكيت",
-    "tr": "Kraliçe Anne Sirikit'in kraliyet yakma töreni",
-    "nl": "Koninklijke crematie van koningin-moeder Sirikit",
-    "pl": "Królewska kremacja królowej matki Sirikit",
-    "sv": "Den kungliga kremeringen av drottningmodern Sirikit",
-    "id": "Kremasi kerajaan Ibu Suri Sirikit",
-    "de": "Königliche Einäscherung von Königinmutter Sirikit",
-    "ms": "Upacara pembakaran diraja Bonda Permaisuri Sirikit"
-   },
-   "tiles": [
-    "th.thaipbs",
-    "th.thairath",
-    "th.pptv",
-    "th.amarin"
-   ],
-   "countries": [
-    "TH"
-   ],
-   "start": "2026-12-15T23:30:00Z",
-   "end": "2026-12-16T16:00:00Z",
    "featured": true
   },
   {
@@ -2549,7 +2405,6 @@
    },
    "tiles": [
     "hk.phoenixtv",
-    "hk.nownews",
     "sg.cna",
     "jp.nhkworld",
     "us.livenow"
@@ -2583,6 +2438,7 @@
    "tiles": [
     "us.livenow",
     "us.cnn",
+    "us.foxnews",
     "qa.aje",
     "gb.skynews",
     "fr.france24en"
@@ -2620,9 +2476,7 @@
     "kr.ytn",
     "kr.kbs",
     "hk.phoenixtv",
-    "sg.cna",
-    "ph.abscbn",
-    "th.thaipbs"
+    "sg.cna"
    ],
    "start": "2026-12-31T09:30:00Z",
    "end": "2026-12-31T17:30:00Z",
@@ -2695,7 +2549,6 @@
     "us.abcnews",
     "us.livenow",
     "us.cnn",
-    "mx.milenio",
     "ca.cbcnews"
    ],
    "start": "2027-01-01T01:00:00Z",

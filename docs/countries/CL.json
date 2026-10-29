@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102913,
+ "version": 2026102918,
  "defaultTiles": [
   "cl.meganoticias",
   "cl.24horas",
@@ -266,7 +266,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "s5wcyIibVpM",
+   "youtubeVideoId": "FWVd4fE-6s4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597946",
@@ -320,7 +320,7 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "4rV8O41mCCM",
+   "youtubeVideoId": "G60NdbXSTrQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600805",
@@ -506,7 +506,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "eCyXiGiyHzU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -531,7 +531,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
-   "youtubeVideoId": "lfnUiRKvQuk",
+   "youtubeVideoId": "l6HEcR7WtL8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -585,7 +585,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
-   "youtubeVideoId": "d7hUAtE6Ljc",
+   "youtubeVideoId": "7ifOBjE8q5o",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -605,7 +605,7 @@
    "youtubeChannelId": "UC4ZQZFCySssx8rM21sZ5z4A",
    "youtubeVideoId": "vDLUxok-Mck",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -621,7 +621,7 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": "9k6xEXDaHP8",
+   "youtubeVideoId": "P-trR6H4nls",
    "embeddable": true,
    "live": true,
    "wikidata": null,
