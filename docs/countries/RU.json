@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "RU",
- "version": 2026102819,
+ "version": 2026102900,
  "defaultTiles": [
   "ru.currenttime",
-  "ru.euronewsru",
-  "ru.zhivoygvozd"
+  "ru.euronewsru"
  ],
  "channels": [
   {
@@ -180,7 +179,7 @@
    "youtubeChannelId": "UCWAIvx2yYLK_xTYD4F2mUNw",
    "youtubeVideoId": "nS4rGK3mbjQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q749928",
    "description": {
     "en": "Russian radio station",

@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026102819,
+ "version": 2026102900,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.reuters",
-  "gb.independent",
   "gb.thesun",
   "gb.bbcnewsarabic",
-  "gb.timesradio"
+  "gb.timesradio",
+  "gb.talksport"
  ],
  "channels": [
   {
@@ -174,7 +173,7 @@
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
    "youtubeVideoId": "wh3oBuUn7jk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -430,7 +429,7 @@
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
    "youtubeVideoId": "JsJLlFf3iTo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -502,7 +501,7 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "4i5B5Zx6NLw",
+   "youtubeVideoId": "kg02_-owDaQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q208875",
@@ -650,7 +649,7 @@
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
    "youtubeVideoId": "tQfBV6hBmZQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

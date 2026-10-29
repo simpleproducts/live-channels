@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026102819,
+ "version": 2026102900,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.semana",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio"
+  "co.bluradio",
+  "co.caracolradio"
  ],
  "channels": [
   {
@@ -166,7 +166,7 @@
    "youtubeChannelId": "UC4oQAvXFuNlKivYjUynQKTA",
    "youtubeVideoId": "yBoWikExu1w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -455,7 +455,7 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "KL6scFXapL4",
+   "youtubeVideoId": "oRTPsJ03hiQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4382447",
@@ -484,7 +484,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "hnNFt5WuNH0",
+   "youtubeVideoId": "Xz1AZJBZsFo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",

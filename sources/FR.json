@@ -21,6 +21,6 @@
   {"id": "sudradio", "name": "Sud Radio", "category": "radio", "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ", "youtubeVideoId": "0b2CBcYa-vs", "embeddable": true, "live": false, "languages": ["fr"]},
   {"id": "rmc", "name": "RMC", "category": "radio", "youtubeChannelId": "UCgGb7tN3tIH5_Kk05D1J_bA", "embeddable": false, "live": false, "languages": ["fr"]},
   {"id": "nrj", "name": "NRJ", "category": "radio", "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A", "youtubeVideoId": "avvfT7RlvO8", "embeddable": true, "live": false, "languages": ["fr"]},
-  {"id": "arte", "name": "ARTE", "category": "culture", "youtubeChannelId": "UCwI-JbGNsojunnHbFAc0M4Q", "youtubeVideoId": "B56nYtuByDA", "embeddable": true, "live": true, "liveSince": "2026-10-28T16:50:27Z"}
+  {"id": "arte", "name": "ARTE", "category": "culture", "youtubeChannelId": "UCwI-JbGNsojunnHbFAc0M4Q", "youtubeVideoId": "B56nYtuByDA", "embeddable": true, "live": false}
  ]
 }

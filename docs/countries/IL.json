@@ -1,13 +1,10 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026102819,
+ "version": 2026102900,
  "defaultTiles": [
   "il.i24he",
-  "il.c14",
-  "il.i24en",
-  "il.i24fr",
-  "il.i24ar"
+  "il.c14"
  ],
  "channels": [
   {
@@ -20,7 +17,7 @@
    "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg",
    "youtubeVideoId": "Tl9JIl03MPA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -62,7 +59,7 @@
    "youtubeChannelId": "UCgPYsPyGhhQJQ9zOUQDWDMA",
    "youtubeVideoId": "sXYxMjBuZaU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -104,7 +101,7 @@
    "youtubeChannelId": "UC4LYR3v6kOIgEjrVARODP3w",
    "youtubeVideoId": "GLflZTlT07Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -144,7 +141,7 @@
     "he"
    ],
    "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
-   "youtubeVideoId": "17MOdIzGy1k",
+   "youtubeVideoId": "vubRvJbbF8M",
    "embeddable": true,
    "live": true,
    "wikidata": "Q136932915",

@@ -10,7 +10,7 @@
   {"id": "halktv", "name": "Halk TV", "category": "news", "youtubeChannelId": "UCf_ResXZzE-o18zACUEmyvQ", "youtubeVideoId": "jfldvJ0fcZs", "embeddable": true, "live": false},
   {"id": "sozcu", "name": "Sözcü TV", "category": "news", "youtubeChannelId": "UCOulx_rep5O4i9y6AyDqVvw", "youtubeVideoId": "ztmY_cCtUl0", "embeddable": true, "live": true, "liveSince": "2024-05-24T10:07:38Z"},
   {"id": "trtworld", "name": "TRT World", "category": "news", "youtubeChannelId": "UC7fWeaHhqgM4Ry-RMpM2YYw", "youtubeVideoId": "adUSssjOCLY", "embeddable": true, "live": true, "liveSince": "2026-10-25T09:56:07Z", "languages": ["en"]},
-  {"id": "ahaber", "name": "A Haber", "category": "news", "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA", "youtubeVideoId": "1B46fhZyXEA", "embeddable": true, "live": true, "liveSince": "2026-10-28T17:50:42Z"},
+  {"id": "ahaber", "name": "A Haber", "category": "news", "youtubeChannelId": "UCKQhfw-lzz0uKnE1fY1PsAA", "youtubeVideoId": "Rk8JyxJWi9o", "embeddable": true, "live": true, "liveSince": "2026-10-20T06:34:40Z"},
   {"id": "tgrthaber", "name": "TGRT Haber", "category": "news", "youtubeChannelId": "UCzgrZ-CndOoylh2_e72nSBQ", "youtubeVideoId": "WX29nlgdqho", "embeddable": true, "live": true, "liveSince": "2026-06-18T12:08:16Z"},
   {"id": "haberglobal", "name": "Haber Global", "category": "news", "youtubeChannelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg", "youtubeVideoId": "EqoCJ8BPxtE", "embeddable": true, "live": true, "liveSince": "2025-10-08T13:48:37Z"},
   {"id": "tv100", "name": "tv100", "category": "news", "youtubeChannelId": "UCndsdUW_oPLqpQJY9J8oIRg", "youtubeVideoId": "4WSvLRk83-c", "embeddable": true, "live": true, "liveSince": "2026-06-18T07:08:23Z"},
@@ -21,6 +21,6 @@
   {"id": "startv", "name": "Star TV", "category": "broadcast", "youtubeChannelId": "UCsFINj3y7SjBaeUxiSdRjlA", "youtubeVideoId": "82O6yOy_XwE", "embeddable": true, "live": true, "liveSince": "2023-08-10T07:25:02Z", "wikidata": "Q2067812"},
   {"id": "tbmm", "name": "TBMM TV", "category": "government", "youtubeChannelId": "UCJEn13vDGcJTyqe-hdpFP-g", "youtubeVideoId": "AurraxkPCKE", "embeddable": true, "live": false, "wikidata": "Q16875533"},
   {"id": "rockfm", "name": "Rock FM", "category": "radio", "youtubeChannelId": "UCx3H_0xNy6vB_RUtG-_7Hhw", "youtubeVideoId": "njqkg8o4C84", "embeddable": true, "live": true, "liveSince": "2025-01-08T06:56:17Z", "languages": ["tr"]},
-  {"id": "atv", "name": "atv", "category": "entertainment", "youtubeChannelId": "UCUVZ7T_kwkxDOGFcDlFI-hg", "youtubeVideoId": "tUjC5Z1X96Q", "embeddable": true, "live": true, "liveSince": "2026-10-20T06:38:25Z"}
+  {"id": "atv", "name": "atv", "category": "entertainment", "youtubeChannelId": "UCUVZ7T_kwkxDOGFcDlFI-hg", "youtubeVideoId": "s62-b2AkWmw", "embeddable": true, "live": true, "liveSince": "2026-10-28T20:44:38Z"}
  ]
 }

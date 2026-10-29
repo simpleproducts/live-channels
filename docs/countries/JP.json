@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102819,
+ "version": 2026102900,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
-  "jp.weathernews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
-  "jp.ytv"
+  "jp.ytv",
+  "jp.ktv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "kCzHvrE7Dd4",
+   "youtubeVideoId": "O3MVh-40I2c",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "fEQr1h2IspU",
+   "youtubeVideoId": "e3QDTkq8VlU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -191,7 +191,7 @@
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
    "youtubeVideoId": "6RjKT7X0_68",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q492412",
    "description": {
     "en": "Commercial weather service company based in Chiba, Japan.",
