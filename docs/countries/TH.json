@@ -1,17 +1,14 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026102819,
+ "version": 2026102913,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
-  "th.ch7news",
-  "th.ch3news",
-  "th.tnn",
   "th.pptv",
   "th.amarin",
-  "th.nation",
-  "th.workpoint"
+  "th.topnews",
+  "th.today"
  ],
  "channels": [
   {
@@ -22,9 +19,9 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "IpJ87YYPzF8",
+   "youtubeVideoId": "b34yC8Sh6ZQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -72,9 +69,9 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "_R_xvxZp2sg",
+   "youtubeVideoId": "B90t2xMkS-k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -144,9 +141,9 @@
     "th"
    ],
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
-   "youtubeVideoId": "TgKMsr3-t48",
+   "youtubeVideoId": "WwXxaX1zSf0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",
@@ -170,9 +167,9 @@
     "th"
    ],
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
-   "youtubeVideoId": "lK2R6wAMkIU",
+   "youtubeVideoId": "VU7W7lepdXI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -224,9 +221,9 @@
     "th"
    ],
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
-   "youtubeVideoId": "TfJz3j4c_ao",
+   "youtubeVideoId": "0HxExD17Y18",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -278,9 +275,9 @@
     "th"
    ],
    "youtubeChannelId": "UCQ2ABjf4gcrF0-zfDLQhWFQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "reN6rLSMVGg",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

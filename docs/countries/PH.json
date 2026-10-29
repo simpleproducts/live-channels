@@ -1,9 +1,15 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102819,
+ "version": 2026102913,
  "defaultTiles": [
-  "ph.dzrh"
+  "ph.abscbn",
+  "ph.oneph",
+  "ph.news5",
+  "ph.dzrh",
+  "ph.ptv",
+  "ph.teleradyo",
+  "ph.loveradio"
  ],
  "channels": [
   {
@@ -15,9 +21,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "Yi2B-ugvelI",
+   "youtubeVideoId": "GdkTFI2LAmA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -99,9 +105,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "jm9EhCdRz0s",
+   "youtubeVideoId": "Gi9ztdUY6cQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -124,9 +130,9 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "sLWZvopBMHg",
+   "youtubeVideoId": "6gqXw7Fwr6M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -254,9 +260,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "ehV68jsWIkE",
+   "youtubeVideoId": "TEkHng1MUeA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -418,9 +424,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "fjDrC-LYhcI",
+   "youtubeVideoId": "SmOs4L_YCMg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -456,9 +462,9 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "uUsHrSdnso8",
+   "youtubeVideoId": "hSRwiZa4nJg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

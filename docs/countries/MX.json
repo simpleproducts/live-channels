@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102905,
+ "version": 2026102913,
  "defaultTiles": [
   "mx.aztecanoticias",
   "mx.milenio",
   "mx.nmas",
-  "mx.adnnoticias",
+  "mx.heraldo",
   "mx.multimedios",
-  "mx.imagenradio"
+  "mx.imagenradio",
+  "mx.canalonce",
+  "mx.imagentv",
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -19,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCFxHplbcoJK9m70c4VyTIxg",
-   "youtubeVideoId": "5V9YiFFW5W8",
+   "youtubeVideoId": "R7VxykqHWmI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -37,7 +40,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "pqVrSJ8cxKo",
+   "youtubeVideoId": "jKLk0c-KeQQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -136,9 +139,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "ETbwRr290XA",
+   "youtubeVideoId": "HGabcZeVV6w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -190,7 +193,7 @@
    "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
    "youtubeVideoId": "2RY8gNQWtvg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -286,9 +289,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "Zg35U6oxUSg",
+   "youtubeVideoId": "lJa3JWQQOBk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -329,9 +332,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "zEHLalbOUwg",
+   "youtubeVideoId": "OIMIGR7ESpk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -485,9 +488,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "QtwuPWvAa_Y",
+   "youtubeVideoId": "d8TRSnrtqPo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -510,9 +513,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "m2w0PdNJUx4",
+   "youtubeVideoId": "UcU-SVuAYYE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -546,9 +549,9 @@
     "es"
    ],
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
-   "youtubeVideoId": "0WfNhP4ygxE",
+   "youtubeVideoId": "uzmTtwBKtF0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -564,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "snhZHpaF7Mk",
+   "youtubeVideoId": "syAx80p2hXw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

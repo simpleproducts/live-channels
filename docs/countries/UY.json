@@ -1,15 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102905,
+ "version": 2026102913,
  "defaultTiles": [
-  "uy.elobservadoruy",
   "uy.ladiaria",
-  "uy.tnu",
+  "uy.elpaisuy",
   "uy.carve",
   "uy.delsol",
   "uy.sarandi",
-  "uy.elpaisuy"
+  "uy.tvciudad",
+  "uy.universal"
  ],
  "channels": [
   {
@@ -54,9 +54,9 @@
     "es"
    ],
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
-   "youtubeVideoId": "QEqpJL02FD0",
+   "youtubeVideoId": "PUi_-KgO2Lg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -84,9 +84,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg",
-   "youtubeVideoId": "VTO0LMvg-Aw",
+   "youtubeVideoId": "BmkBATia6jw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -229,9 +229,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "UPy0_bXHPlc",
+   "youtubeVideoId": "lj5oAs2ArLg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -303,9 +303,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "N7RYx4QaX0Q",
+   "youtubeVideoId": "LADeF4KUljE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -328,9 +328,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "pW51aHPLWlQ",
+   "youtubeVideoId": "6LJgDK6R6Sk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -346,9 +346,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "R-KkD_46zAU",
+   "youtubeVideoId": "-btHI0W2Ogw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,9 +364,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "WUXd7nf7DKw",
+   "youtubeVideoId": "U5lDD-BOUCE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

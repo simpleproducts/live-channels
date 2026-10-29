@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026102819,
+ "version": 2026102913,
  "defaultTiles": [
-  "ca.cbcnews"
+  "ca.cbcnews",
+  "ca.ctvnews",
+  "ca.canadianpress"
  ],
  "channels": [
   {
@@ -60,9 +62,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg",
-   "youtubeVideoId": "fG5lTM8ATIQ",
+   "youtubeVideoId": "AoHu0GwcsOg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5014635",
    "description": {
     "en": "news division of CTV Television Network",
@@ -223,9 +225,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "4MQowxavEUM",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2410130",
    "description": {
     "en": "Canadian private news agency established in 1917",
