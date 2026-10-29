@@ -1,12 +1,9 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026102918,
+ "version": 2026102923,
  "defaultTiles": [
-  "ca.cbcnews",
-  "ca.ctvnews",
-  "ca.canadianpress",
-  "ca.cpac"
+  "ca.cbcnews"
  ],
  "channels": [
   {
@@ -65,7 +62,7 @@
    "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg",
    "youtubeVideoId": "AoHu0GwcsOg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5014635",
    "description": {
     "en": "news division of CTV Television Network",
@@ -228,7 +225,7 @@
    "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw",
    "youtubeVideoId": "4MQowxavEUM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2410130",
    "description": {
     "en": "Canadian private news agency established in 1917",
@@ -320,7 +317,7 @@
    "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
    "youtubeVideoId": "l2CdLvGkmQo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2931869",
    "description": {
     "en": "Canadian parliamentary broadcaster",

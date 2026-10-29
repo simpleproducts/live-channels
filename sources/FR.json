@@ -13,7 +13,7 @@
   {"id": "france24ar", "name": "France 24 Arabic", "category": "news", "youtubeChannelId": "UCdTyuXgmJkG_O8_75eqej-w", "youtubeVideoId": "93g513Uth98", "embeddable": true, "live": true, "liveSince": "2026-05-27T10:26:26Z", "languages": ["ar"]},
   {"id": "tv5monde", "name": "TV5MONDE Info", "category": "news", "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg", "youtubeVideoId": "8mf7fnNNn0I", "embeddable": true, "live": false},
   {"id": "bfmbusiness", "name": "BFM Business", "category": "economy", "youtubeChannelId": "UCUsBMOIUl_ad6JUOC16DpmQ", "live": false, "wikidata": "Q2877016"},
-  {"id": "assemblee", "name": "Assemblée nationale", "category": "government", "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw", "youtubeVideoId": "9k8HU-gCWPk", "embeddable": true, "live": true, "liveSince": "2026-10-29T13:45:31Z"},
+  {"id": "assemblee", "name": "Assemblée nationale", "category": "government", "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw", "youtubeVideoId": "9k8HU-gCWPk", "embeddable": true, "live": false},
   {"id": "lcp", "name": "LCP - Assemblée nationale", "category": "government", "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ", "youtubeVideoId": "d7Bmrrns61w", "embeddable": true, "live": false, "wikidata": "Q3205960"},
   {"id": "publicsenat", "name": "Public Sénat", "category": "government", "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA", "youtubeVideoId": "ZVZWKr1yI0s", "embeddable": true, "live": false},
   {"id": "rfi", "name": "RFI", "category": "radio", "youtubeChannelId": "UCm4fSpMpPIZ9z6KHoezLUAg", "youtubeVideoId": "OAoLGxrlBPY", "embeddable": true, "live": true, "liveSince": "2026-06-12T09:33:38Z"},

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026102918,
+ "version": 2026102923,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "6e4O2oWy-HA",
+   "youtubeVideoId": "raZtmh_y6Ys",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -397,7 +397,7 @@
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
    "youtubeVideoId": "k4rc3nhenKk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -640,7 +640,7 @@
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
    "youtubeVideoId": "J9_gC8gBwaw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -683,7 +683,7 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "9quhhPej_k0",
+   "youtubeVideoId": "TWEnfeoW1wU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2748448",
@@ -749,7 +749,7 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "fM1RmluShOs",
+   "youtubeVideoId": "Bw2tyu0ij40",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3390195",

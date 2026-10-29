@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102918,
+ "version": 2026102923,
  "defaultTiles": [
-  "cl.meganoticias",
   "cl.24horas",
+  "cl.meganoticias",
   "cl.chvnoticias",
   "cl.biobio",
   "cl.senado",
@@ -266,7 +266,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "FWVd4fE-6s4",
+   "youtubeVideoId": "PBtTKUx6VcU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597946",
@@ -322,7 +322,7 @@
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
    "youtubeVideoId": "G60NdbXSTrQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -623,7 +623,7 @@
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
    "youtubeVideoId": "P-trR6H4nls",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

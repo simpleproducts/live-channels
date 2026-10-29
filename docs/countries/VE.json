@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026102918,
+ "version": 2026102923,
  "defaultTiles": [
   "ve.vpitv",
-  "ve.evtv",
-  "ve.elpitazo",
   "ve.telesurenglish",
   "ve.vtv",
   "ve.unionradio"
@@ -45,7 +43,7 @@
    "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g",
    "youtubeVideoId": "5ZoVMfAJ1hY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -63,7 +61,7 @@
    "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA",
    "youtubeVideoId": "n9n72AQIhb8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65057048",
    "description": {
     "en": "Venezuelan news website",
@@ -145,7 +143,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-   "youtubeVideoId": "l1FV1gELi9A",
+   "youtubeVideoId": "5VZVfaSB_Y0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5770016",

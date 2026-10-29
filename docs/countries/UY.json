@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102918,
+ "version": 2026102923,
  "defaultTiles": [
   "uy.ladiaria",
-  "uy.carve",
-  "uy.delsol",
-  "uy.sarandi"
+  "uy.tnu",
+  "uy.delsol"
  ],
  "channels": [
   {
@@ -99,9 +98,9 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "2V8v-eEXFPU",
+   "youtubeVideoId": "GD4ZgD9anWw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -302,7 +301,7 @@
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
    "youtubeVideoId": "97e0gdTDra4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -325,7 +324,7 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "unczLxASujM",
+   "youtubeVideoId": "HDMZcL8cg0w",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -345,7 +344,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "-btHI0W2Ogw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
