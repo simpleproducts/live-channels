@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026102900,
+ "version": 2026102905,
  "defaultTiles": [
+  "jp.ntvnews",
   "jp.fnn",
   "jp.ann",
   "jp.tbs",
-  "jp.ntvnews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "O3MVh-40I2c",
+   "youtubeVideoId": "jhy1bHLqSB0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "e3QDTkq8VlU",
+   "youtubeVideoId": "RfcxRtWeNmc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -536,7 +536,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
-   "youtubeVideoId": "zkJ0wm4RJls",
+   "youtubeVideoId": "8ZRToO6BL60",
    "embeddable": true,
    "live": true,
    "wikidata": null,

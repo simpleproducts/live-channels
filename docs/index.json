@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-29T00:01:37Z",
+ "updated": "2026-10-29T05:49:42Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/AR.json"
   },
   {
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/BR.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/CL.json"
   },
   {
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/CO.json"
   },
   {
@@ -300,7 +300,7 @@
     "ar"
    ],
    "channelCount": 5,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/EG.json"
   },
   {
@@ -330,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/ES.json"
   },
   {
@@ -390,7 +390,7 @@
     "en"
    ],
    "channelCount": 17,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/GB.json"
   },
   {
@@ -511,7 +511,7 @@
     "en"
    ],
    "channelCount": 24,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/IN.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/JP.json"
   },
   {
@@ -632,7 +632,7 @@
     "ko"
    ],
    "channelCount": 31,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/KR.json"
   },
   {
@@ -662,7 +662,7 @@
     "es"
    ],
    "channelCount": 25,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/MX.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 19,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/PE.json"
   },
   {
@@ -903,7 +903,7 @@
     "es"
    ],
    "channelCount": 10,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/PY.json"
   },
   {
@@ -1113,7 +1113,7 @@
     "uk"
    ],
    "channelCount": 11,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/UA.json"
   },
   {
@@ -1143,7 +1143,7 @@
     "en"
    ],
    "channelCount": 32,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/US.json"
   },
   {
@@ -1173,7 +1173,7 @@
     "es"
    ],
    "channelCount": 13,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/UY.json"
   },
   {
@@ -1233,7 +1233,7 @@
     "es"
    ],
    "channelCount": 7,
-   "version": 2026102900,
+   "version": 2026102905,
    "file": "countries/VE.json"
   },
   {
@@ -1263,7 +1263,7 @@
     "vi"
    ],
    "channelCount": 8,
-   "version": 2026102819,
+   "version": 2026102905,
    "file": "countries/VN.json"
   },
   {
@@ -1362,6 +1362,7 @@
     "es.euronewses",
     "es.rtve24h",
     "ar.tn",
+    "mx.nmas",
     "co.ntn24",
     "us.telemundo"
    ],
@@ -1424,7 +1425,6 @@
     "us.abcnews",
     "us.nbcnews",
     "us.cnn",
-    "us.pbsnewshour",
     "us.livenow"
    ],
    "countries": [
@@ -1532,8 +1532,10 @@
     "ms": "Perarakan Hari Orang Mati di Mexico City"
    },
    "tiles": [
+    "mx.milenio",
+    "mx.nmas",
     "mx.aztecanoticias",
-    "mx.heraldo"
+    "mx.adnnoticias"
    ],
    "countries": [
     "MX"
@@ -1633,13 +1635,10 @@
    },
    "tiles": [
     "cl.24horas",
-    "cl.t13",
     "cl.tvn",
-    "cl.mega",
     "cl.chilevision",
     "cl.meganoticias",
-    "cl.chvnoticias",
-    "cl.biobio"
+    "cl.chvnoticias"
    ],
    "countries": [
     "CL"
@@ -1752,7 +1751,7 @@
     "ar.lnmas",
     "ar.a24",
     "ar.cronica",
-    "ar.infobae"
+    "ar.canal26"
    ],
    "countries": [
     "AR"
@@ -1895,8 +1894,6 @@
    },
    "tiles": [
     "va.vaticannewses",
-    "pe.tvperunoticias",
-    "pe.rpp",
     "pe.latina",
     "pe.larepublica"
    ],
@@ -1944,6 +1941,41 @@
    ],
    "start": "2026-11-18T22:30:00Z",
    "end": "2026-11-19T09:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "mx-revolution-day-2026",
+   "title": {
+    "en": "Mexico's Revolution Day parade",
+    "es": "Desfile del Día de la Revolución",
+    "zh-Hans": "墨西哥革命纪念日阅兵",
+    "ja": "メキシコ革命記念日パレード",
+    "fr": "Défilé du Jour de la Révolution au Mexique",
+    "pt-BR": "Desfile do Dia da Revolução no México",
+    "ko": "멕시코 혁명기념일 퍼레이드",
+    "it": "Parata del Giorno della Rivoluzione in Messico",
+    "ru": "Парад в День революции в Мексике",
+    "zh-Hant": "墨西哥革命紀念日閱兵",
+    "ar": "عرض يوم الثورة في المكسيك",
+    "tr": "Meksika Devrim Günü geçidi",
+    "nl": "Parade op de Dag van de Revolutie in Mexico",
+    "pl": "Parada w Dniu Rewolucji w Meksyku",
+    "sv": "Revolutionsdagens parad i Mexiko",
+    "id": "Parade Hari Revolusi Meksiko",
+    "de": "Parade zum Tag der Revolution in Mexiko",
+    "ms": "Perarakan Hari Revolusi Mexico"
+   },
+   "tiles": [
+    "mx.milenio",
+    "mx.nmas",
+    "mx.aztecanoticias",
+    "mx.adnnoticias"
+   ],
+   "countries": [
+    "MX"
+   ],
+   "start": "2026-11-20T15:45:00Z",
+   "end": "2026-11-20T19:30:00Z",
    "featured": true
   },
   {
@@ -2130,39 +2162,6 @@
    "featured": true
   },
   {
-   "id": "py-caacupe-2026",
-   "title": {
-    "en": "Feast of the Virgin of Caacupé",
-    "es": "Fiesta de la Virgen de Caacupé",
-    "zh-Hans": "卡阿库佩圣母节",
-    "ja": "カアクペの聖母の祝日",
-    "fr": "Fête de la Vierge de Caacupé",
-    "pt-BR": "Festa da Virgem de Caacupé",
-    "ko": "카아쿠페 성모 축일",
-    "it": "Festa della Vergine di Caacupé",
-    "ru": "Праздник Девы Марии Каакупенской",
-    "zh-Hant": "卡阿庫佩聖母節",
-    "ar": "عيد عذراء كاكوبي",
-    "tr": "Caacupé Meryem Ana bayramı",
-    "nl": "Feest van de Maagd van Caacupé",
-    "pl": "Święto Matki Bożej z Caacupé",
-    "sv": "Jungfrun av Caacupés högtid",
-    "id": "Pesta Bunda Maria dari Caacupé",
-    "de": "Fest der Jungfrau von Caacupé",
-    "ms": "Perayaan Perawan Caacupé"
-   },
-   "tiles": [
-    "py.abctv",
-    "py.monumental"
-   ],
-   "countries": [
-    "PY"
-   ],
-   "start": "2026-12-07T23:00:00Z",
-   "end": "2026-12-08T15:00:00Z",
-   "featured": true
-  },
-  {
    "id": "mx-guadalupe-2026",
    "title": {
     "en": "Virgin of Guadalupe: Las Mañanitas",
@@ -2185,7 +2184,10 @@
     "ms": "Las Mañanitas untuk Perawan Guadalupe"
    },
    "tiles": [
+    "mx.milenio",
+    "mx.nmas",
     "mx.aztecanoticias",
+    "mx.adnnoticias",
     "mx.multimedios"
    ],
    "countries": [
@@ -2504,6 +2506,7 @@
     "us.abcnews",
     "us.livenow",
     "us.cnn",
+    "mx.milenio",
     "ca.cbcnews"
    ],
    "start": "2027-01-01T01:00:00Z",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102900,
+ "version": 2026102905,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -9,7 +9,7 @@
   "ar.a24",
   "ar.cronica",
   "ar.canalrural",
-  "ar.infobae",
+  "ar.canal26",
   "ar.america",
   "ar.elnueve"
  ],
@@ -120,9 +120,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "MENWwqcV_0o",
+   "youtubeVideoId": "fovtcxQLDKM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q389108",
    "description": {
     "en": "Argentine news television channel",
@@ -197,7 +197,7 @@
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
    "youtubeVideoId": "aV9ls7rkpK0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -328,7 +328,7 @@
     "es"
    ],
    "youtubeChannelId": "UCs231K71Bnu5295_x0MB5Pg",
-   "youtubeVideoId": "IzhiYOeTFvQ",
+   "youtubeVideoId": "RxN5eh8YTRw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1032483",
@@ -849,7 +849,7 @@
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
    "youtubeVideoId": "hv6cqOU5ZfI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -903,7 +903,7 @@
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
    "youtubeVideoId": "j0e-WFXvTtE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1153,7 +1153,7 @@
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
    "youtubeVideoId": "UzOlnXNOtk4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1211,7 +1211,7 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "EkdhK2H57YM",
+   "youtubeVideoId": "30yUbJPwpus",
    "embeddable": true,
    "live": true,
    "wikidata": null,

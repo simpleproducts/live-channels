@@ -1,17 +1,15 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026102900,
+ "version": 2026102905,
  "defaultTiles": [
-  "cl.24horas",
   "cl.meganoticias",
+  "cl.24horas",
   "cl.chvnoticias",
-  "cl.t13",
-  "cl.cnnchile",
-  "cl.biobio",
   "cl.senado",
   "cl.cooperativa",
-  "cl.tvn"
+  "cl.tvn",
+  "cl.chilevision"
  ],
  "channels": [
   {
@@ -22,7 +20,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "45YcBJNs284",
+   "youtubeVideoId": "DAxUyF9Pnos",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -40,7 +38,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTXNz3gjAypWp3EhlIATEJQ",
-   "youtubeVideoId": "HUs9qiE5exE",
+   "youtubeVideoId": "VGaoFnRtL7s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2935885",
@@ -67,7 +65,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "Q4aVTMKjOwk",
+   "youtubeVideoId": "38iqL1DdKXk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -87,7 +85,7 @@
    "youtubeChannelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
    "youtubeVideoId": "-rwf__1qi7c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -105,7 +103,7 @@
    "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
    "youtubeVideoId": "7Qzf0maqUOA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2931771",
    "description": {
     "en": "Chilean television news channel",
@@ -139,7 +137,7 @@
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
    "youtubeVideoId": "ii8Zu0J37xM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -168,7 +166,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "RmKTpfqArVM",
+   "youtubeVideoId": "Wvj0V8bZsNA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -224,7 +222,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "JGWJG0Rd6uk",
+   "youtubeVideoId": "xLf163HZHNU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
@@ -268,7 +266,7 @@
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
    "youtubeVideoId": "JVcdmZJdca4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -506,7 +504,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "MVfFQ_HKFRw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",

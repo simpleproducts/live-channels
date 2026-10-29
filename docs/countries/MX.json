@@ -1,16 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026102900,
+ "version": 2026102905,
  "defaultTiles": [
   "mx.aztecanoticias",
-  "mx.heraldo",
+  "mx.milenio",
+  "mx.nmas",
+  "mx.adnnoticias",
   "mx.multimedios",
-  "mx.canalcongreso",
-  "mx.radioformula",
-  "mx.imagenradio",
-  "mx.mvsnoticias",
-  "mx.los40"
+  "mx.imagenradio"
  ],
  "channels": [
   {
@@ -21,9 +19,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFxHplbcoJK9m70c4VyTIxg",
-   "youtubeVideoId": "xrf3YWHuqlA",
+   "youtubeVideoId": "5V9YiFFW5W8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -39,9 +37,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "ybhKcHKD0TE",
+   "youtubeVideoId": "pqVrSJ8cxKo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -140,7 +138,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "ETbwRr290XA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -190,9 +188,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
-   "youtubeVideoId": "MYeWU6IIQ1I",
+   "youtubeVideoId": "2RY8gNQWtvg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -465,7 +463,7 @@
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
    "youtubeVideoId": "c7OdpaQ44VI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -489,7 +487,7 @@
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
    "youtubeVideoId": "QtwuPWvAa_Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -550,7 +548,7 @@
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
    "youtubeVideoId": "0WfNhP4ygxE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -568,7 +566,7 @@
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
    "youtubeVideoId": "snhZHpaF7Mk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

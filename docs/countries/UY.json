@@ -1,10 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026102900,
+ "version": 2026102905,
  "defaultTiles": [
+  "uy.elobservadoruy",
   "uy.ladiaria",
-  "uy.carve"
+  "uy.tnu",
+  "uy.carve",
+  "uy.delsol",
+  "uy.sarandi",
+  "uy.elpaisuy"
  ],
  "channels": [
   {
@@ -51,7 +56,7 @@
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
    "youtubeVideoId": "QEqpJL02FD0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -300,7 +305,7 @@
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
    "youtubeVideoId": "N7RYx4QaX0Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",

@@ -3,7 +3,7 @@
  "languages": ["es"],
  "defaultTiles": ["abctv", "telefuturo"],
  "channels": [
-  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "hq1diRw5sAQ", "embeddable": true, "live": true, "liveSince": "2026-10-28T23:03:54Z"},
+  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "hq1diRw5sAQ", "embeddable": true, "live": false},
   {"id": "npy", "name": "NPY", "category": "news", "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA", "youtubeVideoId": "sL9ocQzZjNs", "embeddable": true, "live": false},
   {"id": "ultimahora", "name": "Última Hora", "category": "news", "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw", "live": false, "wikidata": "Q6175024"},
   {"id": "gen", "name": "GEN", "category": "news", "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA", "youtubeVideoId": "u6-zOL3V49w", "embeddable": true, "live": false},
