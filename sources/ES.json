@@ -9,7 +9,7 @@
   {"id": "3cat324", "name": "3Cat Notícies (324)", "category": "news", "youtubeChannelId": "UCKseJ43xWvnywQzl6kYbf0g", "youtubeVideoId": "499wgS85QKQ", "embeddable": true, "live": true, "liveSince": "2026-10-08T08:32:31Z", "languages": ["ca"]},
   {"id": "elmundo", "name": "EL MUNDO", "category": "news", "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w", "youtubeVideoId": "QINn2hDq22E", "embeddable": true, "live": false, "wikidata": "Q921217"},
   {"id": "lasexta", "name": "laSexta", "category": "news", "youtubeChannelId": "UCh1OgMIWOlDBhFEYL3DHWjQ", "live": false},
-  {"id": "europapress", "name": "Europa Press", "category": "news", "youtubeChannelId": "UCh_chnQ7OJPQ8mZ7vbXFpIQ", "youtubeVideoId": "XK11cNikrfk", "embeddable": true, "live": false, "wikidata": "Q3060712"},
+  {"id": "europapress", "name": "Europa Press", "category": "news", "youtubeChannelId": "UCh_chnQ7OJPQ8mZ7vbXFpIQ", "youtubeVideoId": "LZBXshvX0_Q", "embeddable": true, "live": true, "liveSince": "2026-10-30T10:59:49Z", "wikidata": "Q3060712"},
   {"id": "libertaddigital", "name": "Libertad Digital", "category": "news", "youtubeChannelId": "UCUS73_bjTYwBFAfXbvIjM8Q", "youtubeVideoId": "lnGAjJK8Vqw", "embeddable": true, "live": true, "liveSince": "2025-12-17T11:34:16Z", "wikidata": "Q3101925"},
   {"id": "canalsur", "name": "Canal Sur", "category": "regional", "youtubeChannelId": "UChtLgH7ZJLqLGWJpBnzy9Lg", "youtubeVideoId": "vjRNYL_QEEA", "embeddable": true, "live": true, "liveSince": "2026-10-06T05:14:49Z"},
   {"id": "eitb", "name": "EITB", "category": "regional", "youtubeChannelId": "UCOHCRQDAr9HC5d59XvziJFQ", "youtubeVideoId": "5nfH4RVu4fc", "embeddable": true, "live": true, "liveSince": "2026-03-18T18:49:57Z", "languages": ["eu", "es"]},
@@ -19,8 +19,8 @@
   {"id": "telemadrid", "name": "Telemadrid", "category": "regional", "youtubeChannelId": "UCv2BcgqxHSrl2QQfIkjR5Eg", "youtubeVideoId": "UcAfvsNRiPY", "embeddable": true, "live": true, "liveSince": "2026-10-12T18:20:03Z"},
   {"id": "congreso", "name": "Congreso de los Diputados", "category": "government", "youtubeChannelId": "UCT3tvU3bVxOa3ZiVD-B7h9g", "youtubeVideoId": "_ccgu4PHBLo", "embeddable": true, "live": false},
   {"id": "senado", "name": "Senado de España", "category": "government", "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w", "youtubeVideoId": "tUFjAUDzaJg", "embeddable": true, "live": false},
-  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "J9_gC8gBwaw", "embeddable": true, "live": false, "wikidata": "Q1025113"},
-  {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "CoKctk3hCjw", "embeddable": true, "live": true, "liveSince": "2026-10-30T04:56:46Z", "wikidata": "Q2748448"},
+  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "18WB_YJzTBE", "embeddable": true, "live": true, "liveSince": "2026-10-30T04:20:46Z", "wikidata": "Q1025113"},
+  {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "CoKctk3hCjw", "embeddable": true, "live": false, "wikidata": "Q2748448"},
   {"id": "cope", "name": "COPE", "category": "radio", "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ", "youtubeVideoId": "AWjkK2EcClI", "embeddable": true, "live": false, "wikidata": "Q2748488"},
   {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "Bw2tyu0ij40", "embeddable": true, "live": false, "wikidata": "Q3390195"}
  ]

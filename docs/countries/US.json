@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026103005,
+ "version": 2026103012,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.nmasunivision",
-  "us.telemundo"
+  "us.scripps",
+  "us.newsnation"
  ],
  "channels": [
   {
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "ELzc0rfQY6I",
+   "youtubeVideoId": "LakqyH8vmWg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "6ja04ljfjR8",
+   "youtubeVideoId": "6h-FyZDQ9kU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "gIiI7o_jyC8",
+   "youtubeVideoId": "hWNN_REXBx0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "JitQkD_91hw",
+   "youtubeVideoId": "7OYzRvCXD1A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-   "youtubeVideoId": "EiYkJIOrCoA",
+   "youtubeVideoId": "DDP8pdgJ344",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

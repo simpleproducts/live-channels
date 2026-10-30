@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026103005,
+ "version": 2026103012,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -10,6 +10,7 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
+  "co.teleantioquianoticias",
   "co.bluradio"
  ],
  "channels": [
@@ -340,9 +341,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "vpZEB9DzlwY",
+   "youtubeVideoId": "mFyKzyV8MYQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -426,7 +427,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "j6wk0gX9g7w",
+   "youtubeVideoId": "xH_bNZae49o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -483,9 +484,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "BHsTi9Fm-Lk",
+   "youtubeVideoId": "wgLmu27W2bc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -551,9 +552,9 @@
     "es"
    ],
    "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
-   "youtubeVideoId": "5_I6f5602cc",
+   "youtubeVideoId": "laoR1vwkUDA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -569,9 +570,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
-   "youtubeVideoId": "HfjJomat9yU",
+   "youtubeVideoId": "bwPL-sWJ6OQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -587,9 +588,9 @@
     "es"
    ],
    "youtubeChannelId": "UClAlbNsawVywJF99roh7qvA",
-   "youtubeVideoId": "awDhMW7KqpU",
+   "youtubeVideoId": "iStK4QdeY-g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -605,9 +606,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A",
-   "youtubeVideoId": "1f5wtmcW_6s",
+   "youtubeVideoId": "6NGIvirCApU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,15 +1,14 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026103005,
+ "version": 2026103012,
  "defaultTiles": [
-  "uy.elobservadoruy",
   "uy.ladiaria",
-  "uy.tnu",
   "uy.carve",
   "uy.delsol",
   "uy.sarandi",
-  "uy.elpaisuy"
+  "uy.tvciudad",
+  "uy.universal"
  ],
  "channels": [
   {
@@ -54,9 +53,9 @@
     "es"
    ],
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
-   "youtubeVideoId": "PUi_-KgO2Lg",
+   "youtubeVideoId": "DZosRiZP4K0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -229,9 +228,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "lj5oAs2ArLg",
+   "youtubeVideoId": "t1_F-4DAqOw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -303,9 +302,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "97e0gdTDra4",
+   "youtubeVideoId": "nwR2nvqfhsg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -328,9 +327,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "HDMZcL8cg0w",
+   "youtubeVideoId": "JJxF84rqpkg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -346,9 +345,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "-btHI0W2Ogw",
+   "youtubeVideoId": "j--Ne9mDnw0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,9 +363,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "U5lDD-BOUCE",
+   "youtubeVideoId": "pKgLlpDHh6k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

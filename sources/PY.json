@@ -3,11 +3,11 @@
  "languages": ["es"],
  "defaultTiles": ["abctv", "telefuturo"],
  "channels": [
-  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "Y4ihddwa6KE", "embeddable": true, "live": false},
+  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "zy3GFoDEfDE", "embeddable": true, "live": true, "liveSince": "2026-10-30T11:00:45Z"},
   {"id": "npy", "name": "NPY", "category": "news", "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA", "youtubeVideoId": "mN9nSZrhMmE", "embeddable": true, "live": false},
   {"id": "ultimahora", "name": "Última Hora", "category": "news", "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw", "live": false, "wikidata": "Q6175024"},
   {"id": "gen", "name": "GEN", "category": "news", "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA", "youtubeVideoId": "u6-zOL3V49w", "embeddable": true, "live": false},
-  {"id": "telefuturo", "name": "Telefuturo", "category": "broadcast", "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA", "youtubeVideoId": "-DDKMP3ww3I", "embeddable": true, "live": false, "wikidata": "Q3140411"},
+  {"id": "telefuturo", "name": "Telefuturo", "category": "broadcast", "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA", "youtubeVideoId": "6yrDAZdj0TU", "embeddable": true, "live": true, "liveSince": "2026-10-30T11:51:43Z", "wikidata": "Q3140411"},
   {"id": "snt", "name": "SNT", "category": "broadcast", "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig", "live": false, "wikidata": "Q523293"},
   {"id": "unicanal", "name": "Unicanal", "category": "broadcast", "youtubeChannelId": "UCT9-9nG-go0cQGn9rVBzaxA", "live": false, "wikidata": "Q3549937"},
   {"id": "nanduti", "name": "Ñanduti 1020 AM", "category": "radio", "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A", "youtubeVideoId": "h6Pa6b6nuaQ", "embeddable": true, "live": false},

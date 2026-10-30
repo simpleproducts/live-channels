@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026102923,
+ "version": 2026103012,
  "defaultTiles": [
-  "il.i24he",
   "il.c14",
+  "il.i24he",
   "il.i24fr"
  ],
  "channels": [
@@ -142,7 +142,7 @@
     "he"
    ],
    "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
-   "youtubeVideoId": "lbC5GTSy6-Y",
+   "youtubeVideoId": "rtX1KTqTb-4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q136932915",

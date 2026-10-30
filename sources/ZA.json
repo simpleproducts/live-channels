@@ -3,13 +3,13 @@
  "languages": ["en"],
  "defaultTiles": [],
  "channels": [
-  {"id": "sabcnews", "name": "SABC News", "category": "news", "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g", "youtubeVideoId": "rwqSs4raWl4", "embeddable": true, "live": false},
+  {"id": "sabcnews", "name": "SABC News", "category": "news", "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g", "youtubeVideoId": "XFYwrG9K-zM", "embeddable": true, "live": true, "liveSince": "2026-10-30T12:47:01Z"},
   {"id": "enca", "name": "eNCA", "category": "news", "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA", "youtubeVideoId": "xblKjx_prqU", "embeddable": true, "live": false},
   {"id": "newzroom", "name": "Newzroom Afrika", "category": "news", "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ", "live": false},
   {"id": "news24", "name": "News24", "category": "news", "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw", "live": false, "wikidata": "Q2909223"},
   {"id": "parliament", "name": "Parliament of South Africa", "category": "government", "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ", "live": false, "wikidata": "Q2185780"},
-  {"id": "iec", "name": "Electoral Commission of South Africa", "category": "government", "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ", "live": false},
-  {"id": "radio702", "name": "Radio 702", "category": "radio", "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg", "youtubeVideoId": "s8l-iNu7W7w", "embeddable": true, "live": false},
-  {"id": "safm", "name": "SAfm", "category": "radio", "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w", "youtubeVideoId": "bnvr0P-hMZ4", "embeddable": true, "live": false}
+  {"id": "iec", "name": "Electoral Commission of South Africa", "category": "government", "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ", "youtubeVideoId": "3AfEyYcNdbE", "embeddable": true, "live": true, "liveSince": "2026-10-30T10:14:23Z"},
+  {"id": "radio702", "name": "Radio 702", "category": "radio", "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg", "youtubeVideoId": "JI7vnk9gQzk", "embeddable": true, "live": true, "liveSince": "2026-10-30T12:02:05Z"},
+  {"id": "safm", "name": "SAfm", "category": "radio", "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w", "youtubeVideoId": "RWfzNnsPgbU", "embeddable": true, "live": true, "liveSince": "2026-10-30T04:00:53Z"}
  ]
 }

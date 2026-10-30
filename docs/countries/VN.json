@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026103005,
+ "version": 2026103012,
  "defaultTiles": [
-  "vn.antv"
+  "vn.antv",
+  "vn.vtcnews",
+  "vn.htvnews"
  ],
  "channels": [
   {
@@ -14,7 +16,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "K7OkBQFqQHM",
+   "youtubeVideoId": "_j8UEXxrm0c",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -119,9 +121,9 @@
     "vi"
    ],
    "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg",
-   "youtubeVideoId": "rKotlYs86GM",
+   "youtubeVideoId": "w_LgvUO5IBc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q108492472",
    "description": {},
    "wikipedia": {},
@@ -137,9 +139,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw",
-   "youtubeVideoId": "smVNznP6JIY",
+   "youtubeVideoId": "wTlJMZyf-xQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
