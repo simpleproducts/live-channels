@@ -7,6 +7,6 @@
   {"id": "extranews", "name": "eXtra news", "category": "news", "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw", "youtubeVideoId": "MmO6zdSkrmI", "embeddable": true, "live": false, "languages": ["ar"]},
   {"id": "alghad", "name": "Alghad TV", "category": "news", "youtubeChannelId": "UCH4UNKBHSNwstan99YDoCVg", "youtubeVideoId": "glElJfSkinc", "embeddable": true, "live": true, "liveSince": "2026-10-29T10:32:26Z", "languages": ["ar"]},
   {"id": "sadaelbalad", "name": "Sada El Balad", "category": "broadcast", "youtubeChannelId": "UCJWuV-EkLmRrGZ4afwUBenw", "youtubeVideoId": "6S3ft9p4RZQ", "embeddable": true, "live": false, "languages": ["ar"]},
-  {"id": "alnahar", "name": "Al Nahar TV", "category": "broadcast", "youtubeChannelId": "UCtpL6HyBK-z16GbJguHf3JQ", "youtubeVideoId": "-1DCtznoWik", "embeddable": true, "live": false, "languages": ["ar"]}
+  {"id": "alnahar", "name": "Al Nahar TV", "category": "broadcast", "youtubeChannelId": "UCtpL6HyBK-z16GbJguHf3JQ", "youtubeVideoId": "PDfoy5dh5pA", "embeddable": true, "live": true, "liveSince": "2026-10-30T22:15:09Z", "languages": ["ar"]}
  ]
 }

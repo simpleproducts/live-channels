@@ -6,7 +6,7 @@
   {"id": "cbcnews", "name": "CBC News", "category": "news", "youtubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA", "youtubeVideoId": "5vfaDsMhCF4", "embeddable": true, "live": true, "liveSince": "2025-04-10T14:12:36Z"},
   {"id": "ctvnews", "name": "CTV News", "category": "news", "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg", "youtubeVideoId": "AoHu0GwcsOg", "embeddable": true, "live": false},
   {"id": "globalnews", "name": "Global News", "category": "news", "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg", "youtubeVideoId": "5--C_rfW49w", "embeddable": true, "live": false},
-  {"id": "noovo", "name": "Noovo Info", "category": "news", "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg", "youtubeVideoId": "awc8SgYUkrY", "embeddable": true, "live": true, "liveSince": "2026-10-30T18:01:23Z", "languages": ["fr"]},
+  {"id": "noovo", "name": "Noovo Info", "category": "news", "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg", "youtubeVideoId": "awc8SgYUkrY", "embeddable": true, "live": false, "languages": ["fr"]},
   {"id": "radiocanada", "name": "ICI RDI / Radio-Canada Info", "category": "news", "youtubeChannelId": "UClxaaAzHu1B5EoTtBYea7ig", "live": false, "languages": ["fr"]},
   {"id": "citynews", "name": "CityNews", "category": "news", "youtubeChannelId": "UCVKAcQQCO8vv87Gk62SutAg", "youtubeVideoId": "I3oh2zJ7WZw", "embeddable": true, "live": false},
   {"id": "thenational", "name": "CBC News: The National", "category": "news", "youtubeChannelId": "UCKjU3KzdbJE1EFcHVqXC3_g", "youtubeVideoId": "USefgHpgm8c", "embeddable": true, "live": false},

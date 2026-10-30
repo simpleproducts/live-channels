@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "QA",
- "version": 2026103018,
+ "version": 2026103022,
  "defaultTiles": [
   "qa.aja",
   "qa.mubasher",
-  "qa.alaraby",
   "qa.aje",
   "qa.qatartv",
   "qa.alkass"
@@ -156,7 +155,7 @@
    "youtubeChannelId": "UC65i3Fyq91uiUkIS0i5GLNQ",
    "youtubeVideoId": "1TI1l42yLHA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q25453791",
    "description": {
     "en": "Pan Arab general television channel headquartered in Qatar",

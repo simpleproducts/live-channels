@@ -1,10 +1,13 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026103018,
+ "version": 2026103022,
  "defaultTiles": [
   "ph.abscbn",
-  "ph.dzrh"
+  "ph.gma",
+  "ph.dzrh",
+  "ph.teleradyo",
+  "ph.bombo"
  ],
  "channels": [
   {
@@ -16,7 +19,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "G0W5DRKUeMY",
+   "youtubeVideoId": "UASJvN_D9IU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -53,9 +56,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "2fOpJ8GB2Xc",
+   "youtubeVideoId": "nCLp2loQlE4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -419,9 +422,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "E2RVrOUUkr8",
+   "youtubeVideoId": "KUxW_pW9QQE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -438,9 +441,9 @@
     "en"
    ],
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
-   "youtubeVideoId": "I-o-MW3Qk8w",
+   "youtubeVideoId": "nCpnZTyv2SU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026103018,
+ "version": 2026103022,
  "defaultTiles": [
   "ar.tn",
   "ar.lnmas",
@@ -195,7 +195,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "cy5NH5eoksU",
+   "youtubeVideoId": "nDrOVeFgXxs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5915760",
@@ -550,9 +550,9 @@
     "es"
    ],
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-   "youtubeVideoId": "rh4ILzczavM",
+   "youtubeVideoId": "fkjtTvu_VjE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -657,9 +657,9 @@
     "es"
    ],
    "youtubeChannelId": "UCStm2uvQKowSXrnCzTWAn6Q",
-   "youtubeVideoId": "2_mfZm_zkpw",
+   "youtubeVideoId": "O_G71wJTIbc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2118303",
    "description": {
     "en": "upper house of Argentina Congress",
@@ -788,7 +788,7 @@
    "youtubeChannelId": "UCSmh3DFxBwFurMttT60PQ1g",
    "youtubeVideoId": "URasRXm6tlo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5803101",
    "description": {
     "en": "Argentine television channel",
@@ -811,9 +811,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPlRurmY1Vn_lfwn-vKX6BQ",
-   "youtubeVideoId": "y2brUb6dGm0",
+   "youtubeVideoId": "vawUAO4nbqc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -831,7 +831,7 @@
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
    "youtubeVideoId": "9Blrb3MtGJw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -847,7 +847,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "ZjsYT5oWCic",
+   "youtubeVideoId": "i-g9zoMzBpk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -903,7 +903,7 @@
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
    "youtubeVideoId": "Y7SO5GXGG2I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -921,7 +921,7 @@
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
    "youtubeVideoId": "FAQrxJ84ouc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -961,7 +961,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "nPnPKXVna3s",
+   "youtubeVideoId": "U5eMwzmTyNk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -981,7 +981,7 @@
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
    "youtubeVideoId": "F6eVnGUZO-4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1171,7 +1171,7 @@
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
    "youtubeVideoId": "mQhIyTarB6g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5961729",
    "description": {
     "en": "Public AM radio station in Buenos Aires",
@@ -1320,7 +1320,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "veU-EtaIza4",
+   "youtubeVideoId": "_sW45VS4LSQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,

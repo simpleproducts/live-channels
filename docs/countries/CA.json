@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026103018,
+ "version": 2026103022,
  "defaultTiles": [
-  "ca.cbcnews",
-  "ca.noovo"
+  "ca.cbcnews"
  ],
  "channels": [
   {
@@ -131,7 +130,7 @@
    "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg",
    "youtubeVideoId": "awc8SgYUkrY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

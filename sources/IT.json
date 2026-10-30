@@ -9,6 +9,6 @@
   {"id": "senato", "name": "Senato della Repubblica", "category": "government", "youtubeChannelId": "UCbanqpWVQ0l4v_aPUV-j9JQ", "youtubeVideoId": "kIvU73zCHX4", "embeddable": true, "live": true, "liveSince": "2026-10-21T11:38:09Z"},
   {"id": "radiodeejay", "name": "Radio Deejay", "category": "radio", "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg", "youtubeVideoId": "RJOUtUH2WRQ", "embeddable": true, "live": false},
   {"id": "rtl1025", "name": "RTL 102.5", "category": "radio", "youtubeChannelId": "UCdRQAy9c5cJ4oQG_US3qq-g", "live": false, "wikidata": "Q1812894"},
-  {"id": "radio24", "name": "Radio 24", "category": "radio", "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA", "youtubeVideoId": "QX8YTh-pGhE", "embeddable": true, "live": true, "liveSince": "2026-10-30T17:35:28Z", "languages": ["it"]}
+  {"id": "radio24", "name": "Radio 24", "category": "radio", "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA", "youtubeVideoId": "QX8YTh-pGhE", "embeddable": true, "live": false, "languages": ["it"]}
  ]
 }

@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026103018,
+ "version": 2026103022,
  "defaultTiles": [
   "it.euronewsit",
   "it.camera",
-  "it.senato",
-  "it.radio24"
+  "it.senato"
  ],
  "channels": [
   {
@@ -259,7 +258,7 @@
    "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA",
    "youtubeVideoId": "QX8YTh-pGhE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3416540",
    "description": {
     "en": "Italian private all-news radio, owned by the newspaper Il Sole 24 Ore",

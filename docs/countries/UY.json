@@ -1,12 +1,16 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026103018,
+ "version": 2026103022,
  "defaultTiles": [
+  "uy.elobservadoruy",
   "uy.ladiaria",
+  "uy.tnu",
   "uy.carve",
   "uy.delsol",
-  "uy.sarandi"
+  "uy.sarandi",
+  "uy.tvciudad",
+  "uy.universal"
  ],
  "channels": [
   {
@@ -17,9 +21,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "gia6iWKWQqQ",
+   "youtubeVideoId": "Dx4PNPWXDlU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -99,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "GD4ZgD9anWw",
+   "youtubeVideoId": "spFiqtab4Jg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -226,9 +230,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "t1_F-4DAqOw",
+   "youtubeVideoId": "HAGYy2BtqT4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -325,7 +329,7 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "RufhEKvK3yI",
+   "youtubeVideoId": "rvOPAtfOfiw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -361,9 +365,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "pKgLlpDHh6k",
+   "youtubeVideoId": "AoOkXHhmcfc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
