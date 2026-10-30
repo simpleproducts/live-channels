@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026102923,
+ "version": 2026103005,
  "defaultTiles": [
   "ar.tn",
-  "ar.c5n",
   "ar.lnmas",
   "ar.a24",
   "ar.cronica",
   "ar.canalrural",
   "ar.canal26",
-  "ar.infobae",
-  "ar.tvpublica"
+  "ar.tvpublica",
+  "ar.america",
+  "ar.elnueve"
  ],
  "channels": [
   {
@@ -42,7 +42,7 @@
    "youtubeChannelId": "UCFgk2Q2mVO1BklRQhSv6p0w",
    "youtubeVideoId": "CvuuhoLcDcw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5030977",
    "description": {
     "en": "Argentine news television channel",
@@ -197,7 +197,7 @@
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
    "youtubeVideoId": "iJgkeuCQdjA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -659,7 +659,7 @@
    "youtubeChannelId": "UCStm2uvQKowSXrnCzTWAn6Q",
    "youtubeVideoId": "2_mfZm_zkpw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2118303",
    "description": {
     "en": "upper house of Argentina Congress",
@@ -1153,7 +1153,7 @@
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
    "youtubeVideoId": "7bopkmcccUI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1195,7 +1195,7 @@
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
    "youtubeVideoId": "eDGDyirVSbw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1211,7 +1211,7 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "xnIVV5Ar5hI",
+   "youtubeVideoId": "5lBWl8ZHrv0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1322,7 +1322,7 @@
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
    "youtubeVideoId": "ZQbn5mxH5kQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

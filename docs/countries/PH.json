@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026102923,
+ "version": 2026103005,
  "defaultTiles": [
-  "ph.untv",
   "ph.dzrh",
   "ph.loveradio"
  ],
@@ -147,7 +146,7 @@
    "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw",
    "youtubeVideoId": "Z7pny1j5Cso",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28452148",
    "description": {
     "en": "television network in the Philippines"
@@ -458,7 +457,7 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "OGTwY57M1JQ",
+   "youtubeVideoId": "lzfeJTtigvc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6691186",

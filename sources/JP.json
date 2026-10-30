@@ -3,9 +3,9 @@
  "languages": ["ja"],
  "defaultTiles": ["ann", "tbs", "ntvnews", "fnn", "nhkworld", "weathernews", "tvtokyobiz", "mbs", "htb"],
  "channels": [
-  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "MgU3pUygRdc", "embeddable": true, "live": true, "liveSince": "2026-10-29T19:59:37Z"},
-  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "P39Bpz44xLU", "embeddable": true, "live": true, "liveSince": "2026-10-29T19:59:34Z"},
-  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "GurtOgzL8tg", "embeddable": true, "live": true, "liveSince": "2026-10-29T15:30:54Z"},
+  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "FHmbEM26npw", "embeddable": true, "live": true, "liveSince": "2026-10-30T04:41:55Z"},
+  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "92VZ-eUYuMI", "embeddable": true, "live": true, "liveSince": "2026-10-30T03:45:13Z"},
+  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "1UERWohpj6A", "embeddable": true, "live": true, "liveSince": "2026-10-30T03:45:10Z"},
   {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "RtH22WvFgbs", "embeddable": true, "live": true, "liveSince": "2026-10-19T11:57:46Z"},
   {"id": "nhkworld", "name": "NHK WORLD-JAPAN", "category": "news", "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A", "youtubeVideoId": "IimtbuqYIE8", "embeddable": true, "live": true, "liveSince": "2026-09-02T05:10:50Z", "languages": ["en"]},
   {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "YNt0igZGvEg", "embeddable": true, "live": true, "liveSince": "2026-10-29T16:44:15Z"},
@@ -21,10 +21,10 @@
   {"id": "abctv", "name": "ABC TV News (Osaka)", "category": "regional", "youtubeChannelId": "UCPW-5qfYGNR8XYrvESrqJKA", "youtubeVideoId": "3Z7ZOgCT4SU", "embeddable": true, "live": true, "liveSince": "2026-10-27T11:10:24Z"},
   {"id": "chukyo", "name": "Chukyo TV News", "category": "regional", "youtubeChannelId": "UCxiRdfyH0FtFCRZTRfRsdsA", "youtubeVideoId": "N1_qXtzWA30", "embeddable": true, "live": true, "liveSince": "2025-12-03T01:13:36Z"},
   {"id": "tokaitv", "name": "Tokai TV News ONE", "category": "regional", "youtubeChannelId": "UCUQ0AtI3k10_CyLYcu4WRVA", "youtubeVideoId": "hgogqv0lZpE", "embeddable": true, "live": true, "liveSince": "2026-03-17T06:06:52Z"},
-  {"id": "kbc", "name": "KBC Kyushu Asahi News", "category": "regional", "youtubeChannelId": "UCS8ZQejq2CL-nZcnRWZCA5Q", "youtubeVideoId": "xEbGUGufpx0", "embeddable": true, "live": true, "liveSince": "2026-09-21T09:13:54Z"},
-  {"id": "rkb", "name": "RKB Mainichi News", "category": "regional", "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog", "youtubeVideoId": "9LGd73JD1BI", "embeddable": true, "live": true, "liveSince": "2026-10-29T10:26:24Z"},
+  {"id": "kbc", "name": "KBC Kyushu Asahi News", "category": "regional", "youtubeChannelId": "UCS8ZQejq2CL-nZcnRWZCA5Q", "youtubeVideoId": "xEbGUGufpx0", "embeddable": true, "live": false},
+  {"id": "rkb", "name": "RKB Mainichi News", "category": "regional", "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog", "youtubeVideoId": "LC98RtF1fwY", "embeddable": true, "live": true, "liveSince": "2026-10-30T03:00:06Z"},
   {"id": "hbc", "name": "HBC Hokkaido News", "category": "regional", "youtubeChannelId": "UCCTpf5c_9HDo_OSu3aX8uFQ", "youtubeVideoId": "bciUqoJPc84", "embeddable": true, "live": true, "liveSince": "2026-10-29T08:18:42Z"},
-  {"id": "stv", "name": "STV News Hokkaido", "category": "regional", "youtubeChannelId": "UCOZv-6MiXqJdLpmYtR431Ow", "youtubeVideoId": "3MBdJPHR8lg", "embeddable": true, "live": true, "liveSince": "2026-10-10T05:16:40Z"},
+  {"id": "stv", "name": "STV News Hokkaido", "category": "regional", "youtubeChannelId": "UCOZv-6MiXqJdLpmYtR431Ow", "youtubeVideoId": "Wvqa1Csp5Vk", "embeddable": true, "live": true, "liveSince": "2026-10-30T04:22:33Z"},
   {"id": "tokyomx", "name": "TOKYO MX News", "category": "regional", "youtubeChannelId": "UCJf85jSgFayOSsZfJ051ZKw", "youtubeVideoId": "CS9Nv_ncHqc", "embeddable": true, "live": true, "liveSince": "2026-03-30T08:46:56Z"},
   {"id": "tbsradio", "name": "TBS Radio", "category": "radio", "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q", "youtubeVideoId": "XpDl_DlAq0I", "embeddable": true, "live": false, "languages": ["ja"]}
  ]
