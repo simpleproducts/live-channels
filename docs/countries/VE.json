@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026103012,
+ "version": 2026103018,
  "defaultTiles": [
   "ve.vpitv",
+  "ve.evtv",
   "ve.telesurenglish",
   "ve.vtv",
   "ve.unionradio"
@@ -41,9 +42,9 @@
     "es"
    ],
    "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g",
-   "youtubeVideoId": "5ZoVMfAJ1hY",
+   "youtubeVideoId": "im9WHESiEIU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -143,7 +144,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-   "youtubeVideoId": "7vkgKz4p9jE",
+   "youtubeVideoId": "2KodKKioodo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5770016",

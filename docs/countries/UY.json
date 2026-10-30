@@ -1,14 +1,12 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026103012,
+ "version": 2026103018,
  "defaultTiles": [
   "uy.ladiaria",
   "uy.carve",
   "uy.delsol",
-  "uy.sarandi",
-  "uy.tvciudad",
-  "uy.universal"
+  "uy.sarandi"
  ],
  "channels": [
   {
@@ -230,7 +228,7 @@
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
    "youtubeVideoId": "t1_F-4DAqOw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -302,7 +300,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "nwR2nvqfhsg",
+   "youtubeVideoId": "-ILe2lVPDXU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -327,7 +325,7 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "JJxF84rqpkg",
+   "youtubeVideoId": "RufhEKvK3yI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -365,7 +363,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "pKgLlpDHh6k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

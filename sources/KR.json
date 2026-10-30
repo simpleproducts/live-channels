@@ -6,11 +6,11 @@
   {"id": "ytn", "name": "YTN", "category": "news", "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w", "youtubeVideoId": "C-IewoA8vDU", "embeddable": true, "live": true, "liveSince": "2026-10-30T12:30:36Z"},
   {"id": "yonhap", "name": "연합뉴스TV", "category": "news", "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg", "youtubeVideoId": "0f0w09Qqn3g", "embeddable": true, "live": true, "liveSince": "2026-10-30T12:14:40Z"},
   {"id": "mbc", "name": "MBCNEWS", "category": "news", "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw", "youtubeVideoId": "8r3gKlHpKu0", "embeddable": true, "live": true, "liveSince": "2026-10-30T05:09:47Z"},
-  {"id": "kbs", "name": "KBS News", "category": "news", "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A", "youtubeVideoId": "d5PXXlXS9z8", "embeddable": true, "live": true, "liveSince": "2026-10-29T22:30:21Z"},
+  {"id": "kbs", "name": "KBS News", "category": "news", "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A", "youtubeVideoId": "4KSrkd3OlNs", "embeddable": true, "live": true, "liveSince": "2026-10-30T13:40:41Z"},
   {"id": "sbs", "name": "SBS 뉴스", "category": "news", "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw", "youtubeVideoId": "GStvq5eTVMc", "embeddable": true, "live": true, "liveSince": "2026-10-30T12:08:28Z"},
   {"id": "jtbc", "name": "JTBC News", "category": "news", "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ", "youtubeVideoId": "zewCaAaioKI", "embeddable": true, "live": true, "liveSince": "2026-10-30T11:13:45Z"},
   {"id": "channela", "name": "채널A 뉴스", "category": "news", "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw", "youtubeVideoId": "ZLy-Mka563Q", "embeddable": true, "live": true, "liveSince": "2026-10-30T12:43:55Z"},
-  {"id": "tvchosun", "name": "TV CHOSUN NEWS", "category": "news", "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q", "youtubeVideoId": "MjAVACZdJ5k", "embeddable": true, "live": true, "liveSince": "2026-10-30T05:12:28Z"},
+  {"id": "tvchosun", "name": "TV CHOSUN NEWS", "category": "news", "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q", "youtubeVideoId": "msmxeTqp738", "embeddable": true, "live": true, "liveSince": "2026-10-30T11:37:34Z"},
   {"id": "mbn", "name": "MBN News", "category": "news", "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg", "youtubeVideoId": "vWBjvKeW4_c", "embeddable": true, "live": true, "liveSince": "2026-10-30T09:10:27Z"},
   {"id": "arirang", "name": "Arirang TV", "category": "news", "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw", "live": false, "languages": ["en"]},
   {"id": "yonhapnews", "name": "연합뉴스 Yonhapnews", "category": "news", "youtubeChannelId": "UCj3_t5p4L4aFsvdW3uHjnnw", "live": false},
@@ -32,7 +32,7 @@
   {"id": "tbsefm", "name": "TBS eFM", "category": "radio", "youtubeChannelId": "UCHjDAeTbO4fQilomLD-kaXg", "youtubeVideoId": "USjec87vJVg", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "arirangradio", "name": "Arirang Radio", "category": "radio", "youtubeChannelId": "UCUSSnoEQ8DSRK-gnWS0vfyA", "youtubeVideoId": "P1fX2GGdVS0", "embeddable": true, "live": true, "liveSince": "2020-06-25T02:57:10Z", "languages": ["en"]},
   {"id": "arirangtv", "name": "Arirang TV", "category": "culture", "youtubeChannelId": "UC-PHIZjV-oX8H7zD1cCN2NQ", "youtubeVideoId": "hvVlyZ5GiE8", "embeddable": true, "live": true, "liveSince": "2026-07-10T02:56:12Z", "languages": ["en"]},
-  {"id": "kbsworld", "name": "KBS WORLD TV", "category": "entertainment", "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig", "youtubeVideoId": "aHfx83ObCac", "embeddable": true, "live": false},
+  {"id": "kbsworld", "name": "KBS WORLD TV", "category": "entertainment", "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig", "youtubeVideoId": "rIXYTUnP9Q4", "embeddable": true, "live": true, "liveSince": "2026-10-30T01:10:41Z"},
   {"id": "ytnscience", "name": "YTN Science", "category": "culture", "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA", "youtubeVideoId": "z9SekuUGQuo", "embeddable": true, "live": true, "liveSince": "2026-10-30T08:33:54Z"}
  ]
 }

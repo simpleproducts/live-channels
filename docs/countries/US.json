@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026103012,
+ "version": 2026103018,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -11,7 +11,7 @@
   "us.nbcnews",
   "us.livenow",
   "us.scripps",
-  "us.newsnation"
+  "us.foxnews"
  ],
  "channels": [
   {
@@ -475,7 +475,7 @@
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
    "youtubeVideoId": "DDP8pdgJ344",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -547,9 +547,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "MRREADgZK7c",
+   "youtubeVideoId": "gwiU6-LoWkA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -659,9 +659,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA",
-   "youtubeVideoId": "50lGMPygpdo",
+   "youtubeVideoId": "2CyTczRdJnA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7739683",
    "description": {
     "en": "newspaper in Washington, D.C.",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "KupAe3PXoUE",
+   "youtubeVideoId": "HHU_VY1cjYA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -865,9 +865,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
-   "youtubeVideoId": "QqHg-xCD1Ac",
+   "youtubeVideoId": "DUbaCTxgp-Q",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",
@@ -1065,9 +1065,9 @@
     "en"
    ],
    "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ",
-   "youtubeVideoId": "EG9PuzfC_AI",
+   "youtubeVideoId": "RyCfzP3I4eA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q35525",
    "description": {
     "en": "official residence and office of the President of the United States",

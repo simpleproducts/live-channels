@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026103012,
+ "version": 2026103018,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
-  "mx.nmas",
-  "mx.imagennoticias",
+  "mx.heraldo",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
   "mx.imagentv",
+  "mx.canalcongreso",
   "mx.radioformula"
  ],
  "channels": [
@@ -42,7 +42,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "ggxxizTUc3M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -60,7 +60,7 @@
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
    "youtubeVideoId": "Ny_aP9jgJ_4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,9 +139,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "kJF37OhgTM4",
+   "youtubeVideoId": "YRj3APaB-k0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -289,7 +289,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "8fhOiZ3hYkU",
+   "youtubeVideoId": "AziKreOUcDM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -464,9 +464,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "6F_97Mb3mRQ",
+   "youtubeVideoId": "-DF3B0xezDM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -488,7 +488,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "ZNMLyI1xCjs",
+   "youtubeVideoId": "_trC4_mUp3M",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -515,7 +515,7 @@
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
    "youtubeVideoId": "5Ll3DihsHnc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "3HUDh4XsOtA",
+   "youtubeVideoId": "5PzMa-TBqFs",
    "embeddable": true,
    "live": true,
    "wikidata": null,

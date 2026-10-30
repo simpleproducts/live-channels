@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026103005,
+ "version": 2026103018,
  "defaultTiles": [
   "de.euronewsde",
+  "de.welt",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -16,9 +17,9 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "2yLaGlEGs1g",
+   "youtubeVideoId": "kKo1Q17MAJk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1959672",
    "description": {
     "en": "television station",

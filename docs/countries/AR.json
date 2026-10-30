@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026103012,
+ "version": 2026103018,
  "defaultTiles": [
   "ar.tn",
   "ar.lnmas",
@@ -195,7 +195,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "gRX7m8r_rhc",
+   "youtubeVideoId": "cy5NH5eoksU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5915760",
@@ -421,7 +421,7 @@
    "youtubeChannelId": "UCD83EL-fvAhaZ8_fKfefunw",
    "youtubeVideoId": "UB3PtBHUpNg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -505,7 +505,7 @@
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
    "youtubeVideoId": "pYzidIB3OwM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -552,7 +552,7 @@
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
    "youtubeVideoId": "rh4ILzczavM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -786,9 +786,9 @@
     "es"
    ],
    "youtubeChannelId": "UCSmh3DFxBwFurMttT60PQ1g",
-   "youtubeVideoId": "Vyyhq-ruQd4",
+   "youtubeVideoId": "URasRXm6tlo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5803101",
    "description": {
     "en": "Argentine television channel",
@@ -829,7 +829,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "D1wXNGWg0fw",
+   "youtubeVideoId": "9Blrb3MtGJw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -847,7 +847,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "o_56seo8pOs",
+   "youtubeVideoId": "ZjsYT5oWCic",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -885,7 +885,7 @@
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
    "youtubeVideoId": "gtgZSDe9wtY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -901,9 +901,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
-   "youtubeVideoId": "5OxMUKav2-s",
+   "youtubeVideoId": "Y7SO5GXGG2I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -919,7 +919,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "le4KGN_wTbo",
+   "youtubeVideoId": "FAQrxJ84ouc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q42912634",
@@ -961,9 +961,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "7XYs18Wk5ng",
+   "youtubeVideoId": "nPnPKXVna3s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -979,7 +979,7 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "43L3D2tzY5c",
+   "youtubeVideoId": "F6eVnGUZO-4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1115,7 +1115,7 @@
     "es"
    ],
    "youtubeChannelId": "UCLAj5TzCrNbqe3LosSKHLcQ",
-   "youtubeVideoId": "gAqhej1HbKY",
+   "youtubeVideoId": "r_-Y-SJ6Mz8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1169,7 +1169,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "mUrSrgSRWPE",
+   "youtubeVideoId": "mQhIyTarB6g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5961729",
@@ -1231,7 +1231,7 @@
    "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
    "youtubeVideoId": "6sleFyU4ax8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5961871",
    "description": {
     "en": "radio station in Argentina",
@@ -1320,7 +1320,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "lUjIoTn55Cs",
+   "youtubeVideoId": "veU-EtaIza4",
    "embeddable": true,
    "live": true,
    "wikidata": null,

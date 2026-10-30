@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026103012,
+ "version": 2026103018,
  "defaultTiles": [
   "pe.latina",
-  "pe.pbo",
+  "pe.larepublica",
   "pe.rpp",
-  "pe.willax",
   "pe.tvperunoticias",
-  "pe.atv",
   "pe.congreso",
   "pe.panamericana",
-  "pe.exitosa"
+  "pe.exitosa",
+  "pe.radionacional"
  ],
  "channels": [
   {
@@ -24,7 +23,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "ec0pJMgVvoQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -40,9 +39,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "NNWQtVNwDtw",
+   "youtubeVideoId": "5fM_EalIQko",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -73,7 +72,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "Yyz3CiCo2ko",
+   "youtubeVideoId": "Px7v5dVUhBw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -123,7 +122,7 @@
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
    "youtubeVideoId": "cg0ZJvMx_8E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -147,7 +146,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "iuLthsIrsiY",
+   "youtubeVideoId": "Jx0iUtl-KBg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -173,7 +172,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "ygkMEDAdFgw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -328,7 +327,7 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "PPdKpWhE35M",
+   "youtubeVideoId": "Kc85gWgTB-0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q586523",
@@ -465,7 +464,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "G-Xdi3UdDGY",
+   "youtubeVideoId": "_MKhzrsgQFw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -489,7 +488,7 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "mnaF-YdN4ME",
+   "youtubeVideoId": "2UaXQHcu2fs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096493",

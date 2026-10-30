@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "SA",
- "version": 2026102918,
+ "version": 2026103018,
  "defaultTiles": [
   "sa.alekhbariya",
   "sa.asharq",
   "sa.asharqbusiness",
+  "sa.ksasports",
   "sa.quran",
-  "sa.sunnah",
-  "sa.ksasports"
+  "sa.sunnah"
  ],
  "channels": [
   {

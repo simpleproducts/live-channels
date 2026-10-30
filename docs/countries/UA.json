@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026103012,
+ "version": 2026103018,
  "defaultTiles": [
   "ua.suspilne",
+  "ua.tsn",
   "ua.espreso",
   "ua.5kanal",
   "ua.united24",
-  "ua.tsn",
   "ua.faktyictv",
   "ua.kyiv24",
-  "ua.freedom",
-  "ua.rada"
+  "ua.pryamiy",
+  "ua.freedom"
  ],
  "channels": [
   {
@@ -163,7 +163,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "vCeiJsJcZ8Q",
+   "youtubeVideoId": "toieXqNGXcE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",
@@ -191,9 +191,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA",
-   "youtubeVideoId": "8Pvel9GbJGk",
+   "youtubeVideoId": "K5tuTu2J12g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q38633974",
    "description": {
     "en": "Ukrainian TV channel",

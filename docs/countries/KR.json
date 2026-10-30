@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026103012,
+ "version": 2026103018,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -127,7 +127,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "d5PXXlXS9z8",
+   "youtubeVideoId": "4KSrkd3OlNs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -226,7 +226,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-   "youtubeVideoId": "MjAVACZdJ5k",
+   "youtubeVideoId": "msmxeTqp738",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -743,9 +743,9 @@
     "ko"
    ],
    "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig",
-   "youtubeVideoId": "aHfx83ObCac",
+   "youtubeVideoId": "rIXYTUnP9Q4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q484855",
    "description": {
     "en": "international broadcasting service",
