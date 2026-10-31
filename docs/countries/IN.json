@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026103120,
+ "version": 2026103123,
  "defaultTiles": [
+  "in.zeenews",
   "in.ddnews",
   "in.indiatv",
   "in.aajtak",
   "in.ndtvindia",
   "in.abpnews",
-  "in.zeenews",
   "in.tv9bharatvarsh",
   "in.wion",
   "in.ndtv"
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "o4WvnZjGTJo",
+   "youtubeVideoId": "21gug0kwPSA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",

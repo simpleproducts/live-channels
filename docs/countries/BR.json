@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026103120,
+ "version": 2026103123,
  "defaultTiles": [
-  "br.recordnews",
   "br.jovempan",
+  "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
-  "br.canalrural",
   "br.canalgov",
   "br.gaucha",
   "br.cbn",
-  "br.bandnewsfm"
+  "br.bandnewsfm",
+  "br.itatiaia"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "FrGJ5ysMbI8",
+   "youtubeVideoId": "OcOOXkJ5Ij0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3056409",
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "nd5SGmt_5JQ",
+   "youtubeVideoId": "vfUWX7s1ATw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "kFJOPxY_kgk",
+   "youtubeVideoId": "bM6h4zYaWdg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -161,7 +161,7 @@
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
    "youtubeVideoId": "wsRuHafaeqw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "6FUVb6tZqXI",
+   "youtubeVideoId": "x166x1HPyzs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "YxvLTdD82P0",
+   "youtubeVideoId": "GVdxJaSl4Q4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "pbj4MFDExf4",
+   "youtubeVideoId": "c9CJHdtxPWI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",

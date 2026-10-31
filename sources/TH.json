@@ -13,7 +13,7 @@
   {"id": "amarin", "name": "Amarin TV", "category": "news", "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A", "youtubeVideoId": "xCJdtEMsCdQ", "embeddable": true, "live": false},
   {"id": "nation", "name": "Nation TV", "category": "news", "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg", "youtubeVideoId": "-4ZmD_cENsA", "embeddable": true, "live": false},
   {"id": "workpoint", "name": "Workpoint News", "category": "news", "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ", "youtubeVideoId": "0JPuj9rYM-w", "embeddable": true, "live": false, "languages": ["th"]},
-  {"id": "topnews", "name": "TOP NEWS", "category": "news", "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw", "youtubeVideoId": "ymS2LUOPPmg", "embeddable": true, "live": false, "languages": ["th"]},
+  {"id": "topnews", "name": "TOP NEWS", "category": "news", "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw", "youtubeVideoId": "i00SebpI0Q8", "embeddable": true, "live": true, "liveSince": "2026-10-31T22:39:49Z", "languages": ["th"]},
   {"id": "tnamcot", "name": "TNA MCOT", "category": "news", "youtubeChannelId": "UC3SaG2jCoWuI50eC41OJ53Q", "live": false, "languages": ["th"]},
   {"id": "thestandard", "name": "THE STANDARD", "category": "news", "youtubeChannelId": "UCk1v3FzlMu3r34LYgoHpH2w", "youtubeVideoId": "K6EuXh5UTEk", "embeddable": true, "live": false, "languages": ["th"]},
   {"id": "today", "name": "TODAY", "category": "news", "youtubeChannelId": "UCQ2ABjf4gcrF0-zfDLQhWFQ", "youtubeVideoId": "reN6rLSMVGg", "embeddable": true, "live": false, "languages": ["th"]},

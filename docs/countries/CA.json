@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026103120,
+ "version": 2026103123,
  "defaultTiles": [
-  "ca.cbcnews",
-  "ca.canadianpress"
+  "ca.cbcnews"
  ],
  "channels": [
   {
@@ -226,7 +225,7 @@
    "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw",
    "youtubeVideoId": "Lo0KPbsXakE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2410130",
    "description": {
     "en": "Canadian private news agency established in 1917",

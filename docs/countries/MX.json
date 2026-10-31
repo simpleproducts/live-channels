@@ -1,17 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026103120,
+ "version": 2026103123,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
-  "mx.nmas",
-  "mx.unotv",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
-  "mx.canal14",
-  "mx.gobmx"
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -42,7 +39,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "EDoBcaneaa0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -171,7 +168,7 @@
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
    "youtubeVideoId": "H3pnR4kF8Lw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -289,7 +286,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "bdI2EOkknpQ",
+   "youtubeVideoId": "nPGirLU--9I",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -309,7 +306,7 @@
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
    "youtubeVideoId": "aRMUXG1oqH8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -440,7 +437,7 @@
    "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w",
    "youtubeVideoId": "P9lD2uos5E8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5440529",
    "description": {
     "en": "national government of the United Mexican States",
@@ -466,7 +463,7 @@
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
    "youtubeVideoId": "_UAijRFHjs4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -488,7 +485,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "5j3mVX4VIuE",
+   "youtubeVideoId": "KiyqR441psA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -587,7 +584,7 @@
    "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw",
    "youtubeVideoId": "mKNjHExbl7A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42908534",
    "description": {
     "es": "canal de televisión abierta y pública en México"

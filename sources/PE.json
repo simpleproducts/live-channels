@@ -5,10 +5,10 @@
  "channels": [
   {"id": "pbo", "name": "PBO", "category": "news", "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ", "youtubeVideoId": "XWZ_b3454PI", "embeddable": true, "live": false},
   {"id": "larepublica", "name": "La República", "category": "news", "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg", "youtubeVideoId": "5fM_EalIQko", "embeddable": true, "live": false, "wikidata": "Q1330217"},
-  {"id": "rpp", "name": "RPP", "category": "news", "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA", "youtubeVideoId": "CPpXK1PXAnc", "embeddable": true, "live": true, "liveSince": "2026-10-31T19:50:54Z", "wikidata": "Q3090686"},
+  {"id": "rpp", "name": "RPP", "category": "news", "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA", "youtubeVideoId": "CPpXK1PXAnc", "embeddable": true, "live": false, "wikidata": "Q3090686"},
   {"id": "latina", "name": "Latina Noticias", "category": "news", "youtubeChannelId": "UCpSJ5fGhmAME9Kx2D3ZvN3Q", "youtubeVideoId": "sLzfveqNEJc", "embeddable": true, "live": true, "liveSince": "2026-08-07T01:28:32Z"},
-  {"id": "willax", "name": "Willax", "category": "news", "youtubeChannelId": "UCort3mldTtMErPqprSlSfng", "youtubeVideoId": "y81NakBGcyo", "embeddable": true, "live": true, "liveSince": "2026-10-31T17:37:35Z", "wikidata": "Q24038962"},
-  {"id": "tvperunoticias", "name": "TV Perú Noticias", "category": "news", "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA", "youtubeVideoId": "U0tJVGRoHpY", "embeddable": true, "live": true, "liveSince": "2026-10-31T19:00:27Z", "wikidata": "Q17630941"},
+  {"id": "willax", "name": "Willax", "category": "news", "youtubeChannelId": "UCort3mldTtMErPqprSlSfng", "youtubeVideoId": "y81NakBGcyo", "embeddable": true, "live": false, "wikidata": "Q24038962"},
+  {"id": "tvperunoticias", "name": "TV Perú Noticias", "category": "news", "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA", "youtubeVideoId": "U0tJVGRoHpY", "embeddable": true, "live": false, "wikidata": "Q17630941"},
   {"id": "atv", "name": "ATV Noticias", "category": "news", "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw", "youtubeVideoId": "VYjIf2a8KpI", "embeddable": true, "live": false},
   {"id": "panorama", "name": "Panorama", "category": "news", "youtubeChannelId": "UCBiq92lt_ufNO-ktZigVXgg", "live": false},
   {"id": "elcomercio", "name": "El Comercio", "category": "news", "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg", "youtubeVideoId": "CKHX167FKOI", "embeddable": true, "live": false},

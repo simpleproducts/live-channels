@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-10-31T20:00:11Z",
+ "updated": "2026-10-31T23:25:05Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/AR.json"
   },
   {
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/BR.json"
   },
   {
@@ -150,7 +150,7 @@
     "fr"
    ],
    "channelCount": 11,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/CA.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/CL.json"
   },
   {
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/CO.json"
   },
   {
@@ -330,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/ES.json"
   },
   {
@@ -390,7 +390,7 @@
     "en"
    ],
    "channelCount": 17,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/GB.json"
   },
   {
@@ -480,7 +480,7 @@
     "he"
    ],
    "channelCount": 7,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/IL.json"
   },
   {
@@ -511,7 +511,7 @@
     "en"
    ],
    "channelCount": 24,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/IN.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/JP.json"
   },
   {
@@ -602,7 +602,7 @@
     "sw"
    ],
    "channelCount": 11,
-   "version": 2026103109,
+   "version": 2026103123,
    "file": "countries/KE.json"
   },
   {
@@ -632,7 +632,7 @@
     "ko"
    ],
    "channelCount": 31,
-   "version": 2026103115,
+   "version": 2026103123,
    "file": "countries/KR.json"
   },
   {
@@ -662,7 +662,7 @@
     "es"
    ],
    "channelCount": 25,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/MX.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 19,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/PE.json"
   },
   {
@@ -783,7 +783,7 @@
     "en"
    ],
    "channelCount": 16,
-   "version": 2026103115,
+   "version": 2026103123,
    "file": "countries/PH.json"
   },
   {
@@ -843,7 +843,7 @@
     "pl"
    ],
    "channelCount": 11,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/PL.json"
   },
   {
@@ -1053,7 +1053,7 @@
     "th"
    ],
    "channelCount": 15,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/TH.json"
   },
   {
@@ -1113,7 +1113,7 @@
     "uk"
    ],
    "channelCount": 11,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/UA.json"
   },
   {
@@ -1173,7 +1173,7 @@
     "es"
    ],
    "channelCount": 13,
-   "version": 2026103120,
+   "version": 2026103123,
    "file": "countries/UY.json"
   },
   {
@@ -1362,7 +1362,6 @@
     "es.euronewses",
     "es.rtve24h",
     "ar.tn",
-    "mx.nmas",
     "co.ntn24",
     "us.telemundo"
    ],
@@ -1492,9 +1491,7 @@
    },
    "tiles": [
     "mx.milenio",
-    "mx.nmas",
-    "mx.aztecanoticias",
-    "mx.unotv"
+    "mx.aztecanoticias"
    ],
    "countries": [
     "MX"
@@ -1595,7 +1592,6 @@
    "tiles": [
     "cl.24horas",
     "cl.tvn",
-    "cl.chilevision",
     "cl.meganoticias",
     "cl.chvnoticias"
    ],
@@ -1818,50 +1814,15 @@
    },
    "tiles": [
     "pl.tvpinfo",
-    "pl.polsatnews",
     "pl.republika",
     "pl.wpolsce24",
-    "pl.tvpworld",
-    "pl.kanalzero"
+    "pl.tvpworld"
    ],
    "countries": [
     "PL"
    ],
    "start": "2026-11-11T10:30:00Z",
    "end": "2026-11-11T17:00:00Z",
-   "featured": true
-  },
-  {
-   "id": "ca-remembrance-2026",
-   "title": {
-    "en": "Remembrance Day in Ottawa",
-    "es": "Día del Recuerdo en Ottawa",
-    "zh-Hans": "渥太华阵亡将士纪念日",
-    "ja": "オタワ リメンブランス・デー",
-    "fr": "Jour du Souvenir à Ottawa",
-    "pt-BR": "Dia da Lembrança em Ottawa",
-    "ko": "오타와 현충일 기념식",
-    "it": "Remembrance Day a Ottawa",
-    "ru": "День памяти в Оттаве",
-    "zh-Hant": "渥太華陣亡將士紀念日",
-    "ar": "يوم الذكرى في أوتاوا",
-    "tr": "Ottawa'da Anma Günü",
-    "nl": "Remembrance Day in Ottawa",
-    "pl": "Dzień Pamięci w Ottawie",
-    "sv": "Remembrance Day i Ottawa",
-    "id": "Hari Peringatan di Ottawa",
-    "de": "Remembrance Day in Ottawa",
-    "ms": "Hari Peringatan di Ottawa"
-   },
-   "tiles": [
-    "ca.cbcnews",
-    "ca.canadianpress"
-   ],
-   "countries": [
-    "CA"
-   ],
-   "start": "2026-11-11T15:00:00Z",
-   "end": "2026-11-11T17:30:00Z",
    "featured": true
   },
   {
@@ -1888,10 +1849,7 @@
    },
    "tiles": [
     "va.vaticannewses",
-    "pe.tvperunoticias",
-    "pe.rpp",
-    "pe.latina",
-    "pe.willax"
+    "pe.latina"
    ],
    "countries": [
     "PE"
@@ -1923,8 +1881,8 @@
     "ms": "Sidang Kemuncak ASEAN di Manila"
    },
    "tiles": [
-    "ph.gma",
-    "ph.news5"
+    "ph.abscbn",
+    "ph.gma"
    ],
    "countries": [
     "PH"
@@ -1995,12 +1953,8 @@
     "ms": "Perarakan Hari Revolusi Mexico"
    },
    "tiles": [
-    "mx.gobmx",
     "mx.milenio",
-    "mx.nmas",
     "mx.aztecanoticias",
-    "mx.unotv",
-    "mx.canal14",
     "mx.canalonce"
    ],
    "countries": [
@@ -2107,8 +2061,8 @@
     "ms": "Perbicaraan Duterte di ICC bermula"
    },
    "tiles": [
-    "ph.gma",
-    "ph.news5"
+    "ph.abscbn",
+    "ph.gma"
    ],
    "countries": [
     "PH"
@@ -2283,7 +2237,6 @@
    },
    "tiles": [
     "mx.milenio",
-    "mx.nmas",
     "mx.aztecanoticias",
     "mx.multimedios"
    ],
@@ -2531,7 +2484,8 @@
     "kr.ytn",
     "kr.kbs",
     "hk.phoenixtv",
-    "sg.cna"
+    "sg.cna",
+    "ph.abscbn"
    ],
    "start": "2026-12-31T09:30:00Z",
    "end": "2026-12-31T17:30:00Z",
