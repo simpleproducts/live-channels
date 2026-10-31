@@ -1,9 +1,12 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026103109,
+ "version": 2026103115,
  "defaultTiles": [
-  "uy.sarandi"
+  "uy.carve",
+  "uy.delsol",
+  "uy.sarandi",
+  "uy.universal"
  ],
  "channels": [
   {
@@ -297,9 +300,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "u9HgvGnoEOI",
+   "youtubeVideoId": "kPbAT1UjXEM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -322,9 +325,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "rvOPAtfOfiw",
+   "youtubeVideoId": "XQY_2BaZDUQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -358,9 +361,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "Bn-Ll0ghdqY",
+   "youtubeVideoId": "sZolCxIdYiE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

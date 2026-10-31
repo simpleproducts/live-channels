@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026103109,
+ "version": 2026103115,
  "defaultTiles": [
   "br.jovempan",
   "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
+  "br.canalrural",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn",
-  "br.bandnewsfm",
-  "br.itatiaia"
+  "br.tvcultura",
+  "br.cbn"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "BJF5pCFj3RM",
+   "youtubeVideoId": "_30a8vgktmE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "-2iJEDXZoWM",
+   "youtubeVideoId": "wm20VYWo_rU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -159,9 +159,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
-   "youtubeVideoId": "A-RZdvwgdTo",
+   "youtubeVideoId": "wsRuHafaeqw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -352,9 +352,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCjOJvvYe6tyEHY21OD33h8A",
-   "youtubeVideoId": "JgUves0w3lw",
+   "youtubeVideoId": "egKbFLd68I0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3069919",
    "description": {
     "en": "Brazilian public television network",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "7TH_2VvObMw",
+   "youtubeVideoId": "kc-eu40RavE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "zymbYKt3oGc",
+   "youtubeVideoId": "jMkvBQuom2Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "OJSaxb4fxCw",
+   "youtubeVideoId": "8B-B3SwNrxE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",

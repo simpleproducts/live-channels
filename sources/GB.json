@@ -14,11 +14,11 @@
   {"id": "itvnews", "name": "ITV News", "category": "news", "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A", "youtubeVideoId": "q8l6_1abgc4", "embeddable": true, "live": false},
   {"id": "independent", "name": "The Independent", "category": "news", "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ", "youtubeVideoId": "JsJLlFf3iTo", "embeddable": true, "live": false, "wikidata": "Q11149"},
   {"id": "mirror", "name": "The Mirror", "category": "news", "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q", "youtubeVideoId": "O9RUwtLVWys", "embeddable": true, "live": false},
-  {"id": "thesun", "name": "The Sun", "category": "news", "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g", "youtubeVideoId": "vsUkmx3fCt4", "embeddable": true, "live": false},
+  {"id": "thesun", "name": "The Sun", "category": "news", "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g", "youtubeVideoId": "aw4qVgzteoI", "embeddable": true, "live": true, "liveSince": "2026-10-31T12:05:41Z"},
   {"id": "express", "name": "Daily Express", "category": "news", "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA", "youtubeVideoId": "aUbqC0ZKw9s", "embeddable": true, "live": false},
   {"id": "parliament", "name": "UK Parliament", "category": "government", "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g", "youtubeVideoId": "o5xt5nGGd0I", "embeddable": true, "live": false},
   {"id": "timesradio", "name": "Times Radio", "category": "radio", "youtubeChannelId": "UCF-VP3b3oH0XASqsLI5rnLw", "youtubeVideoId": "3EaWrWqt7dk", "embeddable": true, "live": true, "liveSince": "2026-08-27T12:03:23Z"},
-  {"id": "lbc", "name": "LBC", "category": "radio", "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw", "youtubeVideoId": "CfY9f40n7zs", "embeddable": true, "live": false, "wikidata": "Q6457273"},
+  {"id": "lbc", "name": "LBC", "category": "radio", "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw", "youtubeVideoId": "piPTfDo2cWI", "embeddable": true, "live": true, "liveSince": "2026-10-31T15:20:56Z", "wikidata": "Q6457273"},
   {"id": "talksport", "name": "talkSPORT", "category": "radio", "youtubeChannelId": "UCWw6scNyopJ0yjMu1SyOEyw", "youtubeVideoId": "uLWEssCrXYc", "embeddable": true, "live": true, "liveSince": "2026-05-27T11:05:58Z", "languages": ["en"]}
  ]
 }

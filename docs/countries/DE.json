@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026103018,
+ "version": 2026103115,
  "defaultTiles": [
-  "de.euronewsde",
   "de.welt",
+  "de.euronewsde",
   "de.dwnews",
   "de.dwespanol"
  ],

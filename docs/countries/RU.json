@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "RU",
- "version": 2026103109,
+ "version": 2026103115,
  "defaultTiles": [
   "ru.currenttime",
   "ru.euronewsru",
-  "ru.zhivoygvozd"
+  "ru.tvrain"
  ],
  "channels": [
   {
@@ -16,9 +16,9 @@
     "ru"
    ],
    "youtubeChannelId": "UCdubelOloxR3wzwJG9x8YqQ",
-   "youtubeVideoId": "_9WKssqKsJQ",
+   "youtubeVideoId": "pbWiazFAUqQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q155172",
    "description": {
     "en": "Russian-language television channel",
@@ -180,7 +180,7 @@
    "youtubeChannelId": "UCWAIvx2yYLK_xTYD4F2mUNw",
    "youtubeVideoId": "KO26_uyCAFg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q749928",
    "description": {
     "en": "Russian radio station",

@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026103109,
+ "version": 2026103115,
  "defaultTiles": [
-  "cl.meganoticias",
   "cl.24horas",
+  "cl.meganoticias",
   "cl.chvnoticias",
+  "cl.cnnchile",
   "cl.tvn",
   "cl.senado",
   "cl.cooperativa",
-  "cl.infinita",
-  "cl.chilevision"
+  "cl.chilevision",
+  "cl.adn"
  ],
  "channels": [
   {
@@ -21,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "KU-S070is1M",
+   "youtubeVideoId": "UCIrACnIonA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -66,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "uzANSxYHMlc",
+   "youtubeVideoId": "fFOqkPlKneM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -102,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
-   "youtubeVideoId": "7Qzf0maqUOA",
+   "youtubeVideoId": "WUCMQAPbUVI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931771",
    "description": {
     "en": "Chilean television news channel",
@@ -223,7 +224,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "vXgUxujwyhU",
+   "youtubeVideoId": "mAB4mbeNfTk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
@@ -503,9 +504,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "sxPSVCjez4w",
+   "youtubeVideoId": "QbTYHikzxNw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -566,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "VFkb5Rsn3mQ",
+   "youtubeVideoId": "YMOnq_XhYHw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -586,7 +587,7 @@
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
    "youtubeVideoId": "ssNOjfmb9Lo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

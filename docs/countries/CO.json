@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026103109,
+ "version": 2026103115,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -10,7 +10,8 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio"
+  "co.bluradio",
+  "co.telecaribe"
  ],
  "channels": [
   {
@@ -384,9 +385,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": "GGsyiVhBw48",
+   "youtubeVideoId": "Prx_7y4LNRo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -426,7 +427,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "gP2YtILaxwE",
+   "youtubeVideoId": "7I99YJhsRJo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",

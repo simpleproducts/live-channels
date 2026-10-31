@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026103102,
+ "version": 2026103115,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
+  "gb.thesun",
   "gb.bbcnewsarabic",
   "gb.timesradio",
-  "gb.talksport"
+  "gb.talksport",
+  "gb.lbc"
  ],
  "channels": [
   {
@@ -500,9 +502,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "vsUkmx3fCt4",
+   "youtubeVideoId": "aw4qVgzteoI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",
@@ -646,9 +648,9 @@
     "en"
    ],
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
-   "youtubeVideoId": "CfY9f40n7zs",
+   "youtubeVideoId": "piPTfDo2cWI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

@@ -1,10 +1,14 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026103109,
+ "version": 2026103115,
  "defaultTiles": [
   "pe.latina",
-  "pe.congreso"
+  "pe.pbo",
+  "pe.rpp",
+  "pe.tvperunoticias",
+  "pe.congreso",
+  "pe.radionacional"
  ],
  "channels": [
   {
@@ -15,9 +19,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "Tfe_wo4Ha4E",
+   "youtubeVideoId": "XWZ_b3454PI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -66,9 +70,9 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "8rILJniLWac",
+   "youtubeVideoId": "nhfPMlPiOVc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -140,9 +144,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "Em1RhodqIuQ",
+   "youtubeVideoId": "7BKtex1udZ0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -482,9 +486,9 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "2UaXQHcu2fs",
+   "youtubeVideoId": "jmT2Dbk37VQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096493",
    "description": {
     "en": "radio station",

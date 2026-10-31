@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026103109,
+ "version": 2026103115,
  "defaultTiles": [
   "vn.antv",
+  "vn.htvnews",
   "vn.vov"
  ],
  "channels": [
@@ -138,9 +139,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw",
-   "youtubeVideoId": "wTlJMZyf-xQ",
+   "youtubeVideoId": "rqYyaz1PRF4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
