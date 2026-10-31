@@ -1,11 +1,17 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026103115,
+ "version": 2026103120,
  "defaultTiles": [
+  "th.thaipbs",
   "th.thairath",
+  "th.ch7news",
+  "th.ch3news",
   "th.tnn",
-  "th.topnews"
+  "th.pptv",
+  "th.amarin",
+  "th.nation",
+  "th.workpoint"
  ],
  "channels": [
   {
@@ -68,7 +74,7 @@
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
    "youtubeVideoId": "o9PDp1TsACE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -122,7 +128,7 @@
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
    "youtubeVideoId": "RByBnMNOlxE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -220,7 +226,7 @@
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
    "youtubeVideoId": "ymS2LUOPPmg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

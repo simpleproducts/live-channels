@@ -18,7 +18,7 @@
   {"id": "express", "name": "Daily Express", "category": "news", "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA", "youtubeVideoId": "aUbqC0ZKw9s", "embeddable": true, "live": false},
   {"id": "parliament", "name": "UK Parliament", "category": "government", "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g", "youtubeVideoId": "o5xt5nGGd0I", "embeddable": true, "live": false},
   {"id": "timesradio", "name": "Times Radio", "category": "radio", "youtubeChannelId": "UCF-VP3b3oH0XASqsLI5rnLw", "youtubeVideoId": "3EaWrWqt7dk", "embeddable": true, "live": true, "liveSince": "2026-08-27T12:03:23Z"},
-  {"id": "lbc", "name": "LBC", "category": "radio", "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw", "youtubeVideoId": "piPTfDo2cWI", "embeddable": true, "live": true, "liveSince": "2026-10-31T15:20:56Z", "wikidata": "Q6457273"},
+  {"id": "lbc", "name": "LBC", "category": "radio", "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw", "youtubeVideoId": "piPTfDo2cWI", "embeddable": true, "live": false, "wikidata": "Q6457273"},
   {"id": "talksport", "name": "talkSPORT", "category": "radio", "youtubeChannelId": "UCWw6scNyopJ0yjMu1SyOEyw", "youtubeVideoId": "uLWEssCrXYc", "embeddable": true, "live": true, "liveSince": "2026-05-27T11:05:58Z", "languages": ["en"]}
  ]
 }

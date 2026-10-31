@@ -3,7 +3,7 @@
  "languages": ["es"],
  "defaultTiles": ["abctv", "telefuturo"],
  "channels": [
-  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "J3P4dmG1_M8", "embeddable": true, "live": true, "liveSince": "2026-10-31T14:27:39Z"},
+  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "WkCmzAVlyuM", "embeddable": true, "live": true, "liveSince": "2026-10-31T19:01:37Z"},
   {"id": "npy", "name": "NPY", "category": "news", "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA", "youtubeVideoId": "PqREPggUXZ4", "embeddable": true, "live": false},
   {"id": "ultimahora", "name": "Última Hora", "category": "news", "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw", "live": false, "wikidata": "Q6175024"},
   {"id": "gen", "name": "GEN", "category": "news", "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA", "youtubeVideoId": "m2Mu_kxPd9w", "embeddable": true, "live": false},
@@ -11,7 +11,7 @@
   {"id": "snt", "name": "SNT", "category": "broadcast", "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig", "live": false, "wikidata": "Q523293"},
   {"id": "unicanal", "name": "Unicanal", "category": "broadcast", "youtubeChannelId": "UCT9-9nG-go0cQGn9rVBzaxA", "live": false, "wikidata": "Q3549937"},
   {"id": "nanduti", "name": "Ñanduti 1020 AM", "category": "radio", "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A", "youtubeVideoId": "UwNDQlDGAFk", "embeddable": true, "live": false},
-  {"id": "monumental", "name": "Monumental 1080 AM", "category": "radio", "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ", "youtubeVideoId": "fyG-cgr5qMA", "embeddable": true, "live": true, "liveSince": "2026-10-31T09:29:02Z"},
+  {"id": "monumental", "name": "Monumental 1080 AM", "category": "radio", "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ", "youtubeVideoId": "g4cvAJAyNOA", "embeddable": true, "live": true, "liveSince": "2026-10-31T19:44:29Z"},
   {"id": "caacupe", "name": "Basílica de Caacupé", "category": "religious", "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA", "youtubeVideoId": "A56JrIKS1JI", "embeddable": true, "live": false}
  ]
 }

@@ -1,13 +1,12 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026103115,
+ "version": 2026103120,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
   "ng.ntalive",
-  "ng.ait",
   "ng.nta"
  ],
  "channels": [
@@ -98,7 +97,7 @@
    "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g",
    "youtubeVideoId": "qZe4l_oy4gA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q979027",
    "description": {
     "en": "broadcast network",

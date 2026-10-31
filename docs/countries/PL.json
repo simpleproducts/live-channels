@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026103115,
+ "version": 2026103120,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
+  "pl.polsatnews",
   "pl.tvpworld",
   "pl.radiozet",
   "pl.kanalzero"
@@ -59,9 +60,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCb7O4-iI4pEO5UZPlOBr0Ug",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "rr7VYQr033Q",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -211,7 +212,7 @@
     "pl"
    ],
    "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg",
-   "youtubeVideoId": "32EBsWR5bz0",
+   "youtubeVideoId": "TPUzx13Nrao",
    "embeddable": true,
    "live": true,
    "wikidata": "Q124607345",

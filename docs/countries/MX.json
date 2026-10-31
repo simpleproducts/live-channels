@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026103115,
+ "version": 2026103120,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
-  "mx.heraldo",
+  "mx.nmas",
+  "mx.unotv",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
-  "mx.radioformula"
+  "mx.canal14",
+  "mx.gobmx"
  ],
  "channels": [
   {
@@ -38,9 +40,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "b-h8QiDxjGA",
+   "youtubeVideoId": "EDoBcaneaa0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,7 +141,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "pWyaTs72H3Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -167,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
-   "youtubeVideoId": "MTtnAgmjKY0",
+   "youtubeVideoId": "H3pnR4kF8Lw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -287,7 +289,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "-peWTshk8tU",
+   "youtubeVideoId": "bdI2EOkknpQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -305,9 +307,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
-   "youtubeVideoId": "odz_m8e3wwQ",
+   "youtubeVideoId": "aRMUXG1oqH8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -436,9 +438,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w",
-   "youtubeVideoId": "gc2w9Uoz1W0",
+   "youtubeVideoId": "P9lD2uos5E8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5440529",
    "description": {
     "en": "national government of the United Mexican States",
@@ -462,9 +464,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "-DF3B0xezDM",
+   "youtubeVideoId": "_UAijRFHjs4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -486,7 +488,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "kOKr46DUqIE",
+   "youtubeVideoId": "5j3mVX4VIuE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -583,9 +585,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw",
-   "youtubeVideoId": "GGrecdpBgMg",
+   "youtubeVideoId": "mKNjHExbl7A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42908534",
    "description": {
     "es": "canal de televisión abierta y pública en México"

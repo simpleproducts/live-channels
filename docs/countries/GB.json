@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026103115,
+ "version": 2026103120,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
@@ -10,8 +10,7 @@
   "gb.thesun",
   "gb.bbcnewsarabic",
   "gb.timesradio",
-  "gb.talksport",
-  "gb.lbc"
+  "gb.talksport"
  ],
  "channels": [
   {
@@ -650,7 +649,7 @@
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
    "youtubeVideoId": "piPTfDo2cWI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

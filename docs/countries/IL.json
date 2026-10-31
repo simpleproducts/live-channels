@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026103115,
+ "version": 2026103120,
  "defaultTiles": [
   "il.i24he",
   "il.c14",
-  "il.i24fr"
+  "il.i24fr",
+  "il.kan11"
  ],
  "channels": [
   {
@@ -194,9 +195,9 @@
     "he"
    ],
    "youtubeChannelId": "UCKqFqiCe1dCUxRe0_YNZ6gg",
-   "youtubeVideoId": "8GWH-9XqkDc",
+   "youtubeVideoId": "-VBzxc57UMk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q29946049",
    "description": {
     "en": "Israeli Public Broadcasting television channel",

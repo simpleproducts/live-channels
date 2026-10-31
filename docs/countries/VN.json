@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026103115,
+ "version": 2026103120,
  "defaultTiles": [
-  "vn.antv",
-  "vn.htvnews",
-  "vn.vov"
+  "vn.antv"
  ],
  "channels": [
   {
@@ -141,7 +139,7 @@
    "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw",
    "youtubeVideoId": "rqYyaz1PRF4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -191,7 +189,7 @@
    "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg",
    "youtubeVideoId": "H8Lf1Jg1-tE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1141479",
    "description": {
     "en": "national radio broadcaster of Vietnam",
