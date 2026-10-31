@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026103102,
+ "version": 2026103109,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
+  "us.livenow",
   "us.newsmax",
   "us.foxweather",
-  "us.cbsnews",
   "us.nbcnews",
-  "us.livenow",
   "us.nmasunivision",
-  "us.telemundo"
+  "us.telemundo",
+  "us.cnnee"
  ],
  "channels": [
   {
@@ -135,7 +135,7 @@
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
    "youtubeVideoId": "LakqyH8vmWg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",

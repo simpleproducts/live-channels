@@ -5,7 +5,7 @@
  "channels": [
   {"id": "abcnews", "name": "ABC News", "category": "news", "youtubeChannelId": "UCBi2mrWuNuyYy4gbM6fU18Q", "youtubeVideoId": "KQhNZQ_Uag8", "embeddable": true, "live": true, "liveSince": "2026-10-24T03:13:21Z"},
   {"id": "cnn", "name": "CNN", "category": "news", "youtubeChannelId": "UCupvZG-5ko_eiXAupbDfxWw", "youtubeVideoId": "GotlA1KKWoo", "embeddable": true, "live": true, "liveSince": "2026-06-15T20:07:27Z"},
-  {"id": "cbsnews", "name": "CBS News", "category": "news", "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g", "youtubeVideoId": "LakqyH8vmWg", "embeddable": true, "live": true, "liveSince": "2026-10-30T11:02:46Z"},
+  {"id": "cbsnews", "name": "CBS News", "category": "news", "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g", "youtubeVideoId": "LakqyH8vmWg", "embeddable": true, "live": false},
   {"id": "nbcnews", "name": "NBC News", "category": "news", "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg", "youtubeVideoId": "GkQTef2ZDzk", "embeddable": true, "live": true, "liveSince": "2026-10-30T21:59:39Z"},
   {"id": "livenow", "name": "LiveNOW from FOX", "category": "news", "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg", "youtubeVideoId": "hWNN_REXBx0", "embeddable": true, "live": true, "liveSince": "2026-10-30T12:26:52Z"},
   {"id": "newsmax", "name": "Newsmax", "category": "news", "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg", "youtubeVideoId": "MXosVElBUJQ", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:51:46Z"},

@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026103102,
+ "version": 2026103109,
  "defaultTiles": [
-  "jp.fnn",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
@@ -11,7 +10,8 @@
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
-  "jp.ytv"
+  "jp.ytv",
+  "jp.ktv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "OzJogOCJIc8",
+   "youtubeVideoId": "i7nKs06Rl-8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "Sb-pMmzGvlk",
+   "youtubeVideoId": "WkOzevlB7HI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "bGKPaykI05s",
+   "youtubeVideoId": "LlrLvl5qD_g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -117,7 +117,7 @@
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
    "youtubeVideoId": "RtH22WvFgbs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q124919956",
    "description": {
     "ja": "フジテレビ系FNN28局のニュースサイト"

@@ -1,13 +1,9 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026103102,
+ "version": 2026103109,
  "defaultTiles": [
   "pe.latina",
-  "pe.pbo",
-  "pe.rpp",
-  "pe.willax",
-  "pe.atv",
   "pe.congreso"
  ],
  "channels": [
@@ -21,7 +17,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "Tfe_wo4Ha4E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -72,7 +68,7 @@
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
    "youtubeVideoId": "8rILJniLWac",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -120,7 +116,7 @@
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
    "youtubeVideoId": "dX639vVGV-k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -170,7 +166,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "VYjIf2a8KpI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026103102,
+ "version": 2026103109,
  "defaultTiles": [
   "ph.abscbn",
   "ph.gma",
-  "ph.net25",
+  "ph.oneph",
+  "ph.anc",
   "ph.dzrh",
-  "ph.teleradyo",
-  "ph.bombo"
+  "ph.teleradyo"
  ],
  "channels": [
   {
@@ -20,7 +20,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "v0x-FuCOZ1U",
+   "youtubeVideoId": "A2JXc0bV3XA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -85,9 +85,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "6r_CHcSjKfg",
+   "youtubeVideoId": "H0WN5wxWoq8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -104,9 +104,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "hnpATeQqiNQ",
+   "youtubeVideoId": "oVwmCM_lGf8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -173,7 +173,7 @@
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
    "youtubeVideoId": "9CZYabwBQTQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -444,7 +444,7 @@
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
    "youtubeVideoId": "xMw18hRbhdc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
