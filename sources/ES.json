@@ -22,6 +22,6 @@
   {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "18WB_YJzTBE", "embeddable": true, "live": true, "liveSince": "2026-10-30T04:20:46Z", "wikidata": "Q1025113"},
   {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "d9lkewWkzmc", "embeddable": true, "live": false, "wikidata": "Q2748448"},
   {"id": "cope", "name": "COPE", "category": "radio", "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ", "youtubeVideoId": "AWjkK2EcClI", "embeddable": true, "live": false, "wikidata": "Q2748488"},
-  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "ZffIsxBpyl4", "embeddable": true, "live": true, "liveSince": "2026-10-30T22:27:17Z", "wikidata": "Q3390195"}
+  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "ZffIsxBpyl4", "embeddable": true, "live": false, "wikidata": "Q3390195"}
  ]
 }

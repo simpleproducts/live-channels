@@ -3,13 +3,13 @@
  "languages": ["vi"],
  "defaultTiles": ["antv", "qpvn", "htvnews", "hanoitv", "vov", "thanhnien", "tuoitre"],
  "channels": [
-  {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "NgOk0Br3UUw", "embeddable": true, "live": true, "liveSince": "2026-10-30T08:45:20Z", "languages": ["vi"]},
+  {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "qnudxgCl5Uo", "embeddable": true, "live": true, "liveSince": "2026-10-31T00:58:46Z", "languages": ["vi"]},
   {"id": "qpvn", "name": "QPVN", "category": "news", "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw", "youtubeVideoId": "AEc0g4v74Ow", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "thanhnien", "name": "Báo Thanh Niên", "category": "news", "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg", "youtubeVideoId": "I1fjyAsvdHM", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "tuoitre", "name": "Báo Tuổi Trẻ", "category": "news", "youtubeChannelId": "UC47WI-kZXFf0H_f7pvaNCEQ", "youtubeVideoId": "yLTmi7Qj6ys", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "vtcnews", "name": "VTC News", "category": "news", "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg", "youtubeVideoId": "w_LgvUO5IBc", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "htvnews", "name": "HTV Tin Tức", "category": "regional", "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw", "youtubeVideoId": "wTlJMZyf-xQ", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "hanoitv", "name": "Hanoi Radio Television", "category": "regional", "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w", "youtubeVideoId": "Yqli5yKp8FE", "embeddable": true, "live": false, "languages": ["vi"]},
-  {"id": "vov", "name": "VOV", "category": "radio", "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg", "youtubeVideoId": "_YYjthyWWF0", "embeddable": true, "live": false, "languages": ["vi"]}
+  {"id": "vov", "name": "VOV", "category": "radio", "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg", "youtubeVideoId": "7TxVOIUQWaM", "embeddable": true, "live": true, "liveSince": "2026-10-31T01:00:04Z", "languages": ["vi"]}
  ]
 }

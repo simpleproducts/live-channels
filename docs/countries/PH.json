@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026103022,
+ "version": 2026103102,
  "defaultTiles": [
   "ph.abscbn",
   "ph.gma",
+  "ph.net25",
   "ph.dzrh",
   "ph.teleradyo",
   "ph.bombo"
@@ -19,7 +20,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "UASJvN_D9IU",
+   "youtubeVideoId": "v0x-FuCOZ1U",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -56,7 +57,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "nCLp2loQlE4",
+   "youtubeVideoId": "tgZuswJBJmU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -170,9 +171,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "gLwqsyPIjWM",
+   "youtubeVideoId": "9CZYabwBQTQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -441,7 +442,7 @@
     "en"
    ],
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
-   "youtubeVideoId": "nCpnZTyv2SU",
+   "youtubeVideoId": "xMw18hRbhdc",
    "embeddable": true,
    "live": true,
    "wikidata": null,

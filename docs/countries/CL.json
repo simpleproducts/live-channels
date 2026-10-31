@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026103022,
+ "version": 2026103102,
  "defaultTiles": [
   "cl.24horas",
   "cl.meganoticias",
   "cl.chvnoticias",
-  "cl.t13",
   "cl.biobio",
+  "cl.tvn",
   "cl.senado",
   "cl.cooperativa",
-  "cl.tvn",
-  "cl.chilevision"
+  "cl.chilevision",
+  "cl.infinita"
  ],
  "channels": [
   {
@@ -87,7 +87,7 @@
    "youtubeChannelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
    "youtubeVideoId": "UGPheORx4WE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -224,7 +224,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "bKR5N_qUQvc",
+   "youtubeVideoId": "ReSsK8KX_mc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
@@ -506,7 +506,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "sxPSVCjez4w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -533,7 +533,7 @@
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
    "youtubeVideoId": "_TbMkMHYfbk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -623,7 +623,7 @@
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
    "youtubeVideoId": "fnkgthRz-Ug",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -659,7 +659,7 @@
    "youtubeChannelId": "UC49MwUzUI2dF_phYTg7mBXw",
    "youtubeVideoId": "-iy8K_G6Y-I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

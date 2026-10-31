@@ -1,10 +1,13 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026103022,
+ "version": 2026103102,
  "defaultTiles": [
   "pe.latina",
-  "pe.tvperunoticias",
+  "pe.pbo",
+  "pe.rpp",
+  "pe.willax",
+  "pe.atv",
   "pe.congreso"
  ],
  "channels": [
@@ -16,9 +19,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "ec0pJMgVvoQ",
+   "youtubeVideoId": "Tfe_wo4Ha4E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -67,9 +70,9 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "Px7v5dVUhBw",
+   "youtubeVideoId": "8rILJniLWac",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -115,9 +118,9 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "cg0ZJvMx_8E",
+   "youtubeVideoId": "dX639vVGV-k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -143,7 +146,7 @@
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
    "youtubeVideoId": "Em1RhodqIuQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -165,9 +168,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "ygkMEDAdFgw",
+   "youtubeVideoId": "VYjIf2a8KpI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
