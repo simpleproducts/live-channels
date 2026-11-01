@@ -3,10 +3,10 @@
  "languages": ["ja"],
  "defaultTiles": ["ann", "tbs", "ntvnews", "fnn", "nhkworld", "weathernews", "tvtokyobiz", "mbs", "htb"],
  "channels": [
-  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "ZYbTC7ScNvM", "embeddable": true, "live": true, "liveSince": "2026-11-01T14:59:37Z"},
-  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "flhuFkna7oo", "embeddable": true, "live": true, "liveSince": "2026-11-01T11:59:16Z"},
+  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "_r4EG6ARsts", "embeddable": true, "live": true, "liveSince": "2026-11-01T19:59:14Z"},
+  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "UlltLBmkmIg", "embeddable": true, "live": true, "liveSince": "2026-11-01T19:56:42Z"},
   {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "OtG3TCn1KzM", "embeddable": true, "live": true, "liveSince": "2026-11-01T13:19:27Z"},
-  {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "RtH22WvFgbs", "embeddable": true, "live": false},
+  {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "6jkeVKfzFw0", "embeddable": true, "live": true, "liveSince": "2026-11-01T21:54:29Z"},
   {"id": "nhkworld", "name": "NHK WORLD-JAPAN", "category": "news", "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A", "youtubeVideoId": "IimtbuqYIE8", "embeddable": true, "live": true, "liveSince": "2026-09-02T05:10:50Z", "languages": ["en"]},
   {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "8Qxgcb47wzQ", "embeddable": true, "live": true, "liveSince": "2026-11-01T16:16:14Z"},
   {"id": "kyodo", "name": "共同通信", "category": "news", "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw", "youtubeVideoId": "rLmi5t60BXM", "embeddable": true, "live": false},

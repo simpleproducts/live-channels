@@ -1,10 +1,16 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110118,
+ "version": 2026110122,
  "defaultTiles": [
+  "ph.abscbn",
   "ph.gma",
-  "ph.dzrh"
+  "ph.untv",
+  "ph.net25",
+  "ph.anc",
+  "ph.dzrh",
+  "ph.ptv",
+  "ph.teleradyo"
  ],
  "channels": [
   {
@@ -16,9 +22,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "YUqwfdrS1yQ",
+   "youtubeVideoId": "4rSmY4_yBS8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -53,7 +59,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "rwkMUFQMUak",
+   "youtubeVideoId": "MZf2qIuSjaE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -81,9 +87,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "H0WN5wxWoq8",
+   "youtubeVideoId": "pp7o6xYxpP0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -144,9 +150,9 @@
     "en"
    ],
    "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw",
-   "youtubeVideoId": "pyu7tEjyeKA",
+   "youtubeVideoId": "l3_sM8cJ1FA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28452148",
    "description": {
     "en": "television network in the Philippines"
@@ -167,9 +173,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "9CZYabwBQTQ",
+   "youtubeVideoId": "Y1AnC2UXO48",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -255,9 +261,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "TEkHng1MUeA",
+   "youtubeVideoId": "GKDbWDiESYw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -419,9 +425,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "KUxW_pW9QQE",
+   "youtubeVideoId": "0qtOuPzri5A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026110118,
+ "version": 2026110122,
  "defaultTiles": [
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
+  "jp.fnn",
   "jp.weathernews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
-  "jp.ytv",
-  "jp.ktv"
+  "jp.ytv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "ZYbTC7ScNvM",
+   "youtubeVideoId": "_r4EG6ARsts",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "flhuFkna7oo",
+   "youtubeVideoId": "UlltLBmkmIg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -115,9 +115,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-   "youtubeVideoId": "RtH22WvFgbs",
+   "youtubeVideoId": "6jkeVKfzFw0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q124919956",
    "description": {
     "ja": "フジテレビ系FNN28局のニュースサイト"

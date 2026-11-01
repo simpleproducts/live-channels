@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026110118,
+ "version": 2026110122,
  "defaultTiles": [
+  "uy.tnu",
   "uy.carve",
   "uy.universal"
  ],
@@ -97,9 +98,9 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "spFiqtab4Jg",
+   "youtubeVideoId": "P6FHy8QDPgI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -359,7 +360,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "nUVWpYwhEVY",
+   "youtubeVideoId": "NGTDpw6mLCM",
    "embeddable": true,
    "live": true,
    "wikidata": null,

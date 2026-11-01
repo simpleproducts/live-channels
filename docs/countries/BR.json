@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110118,
+ "version": 2026110122,
  "defaultTiles": [
-  "br.recordnews",
   "br.jovempan",
+  "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
-  "br.canalrural",
-  "br.uol",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn"
+  "br.cbn",
+  "br.bandnewsfm",
+  "br.itatiaia"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "OcOOXkJ5Ij0",
+   "youtubeVideoId": "a9Na1jwMLfM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3056409",
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "EG2R5e2dGHk",
+   "youtubeVideoId": "vJSmDNwKq8s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "6cmbQaZ4En0",
+   "youtubeVideoId": "ujAOvXN5mYU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -161,7 +161,7 @@
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
    "youtubeVideoId": "hHLYEJcZ9KU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -183,7 +183,7 @@
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
    "youtubeVideoId": "YFDojrv8zlw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "KlLWq7LMQPI",
+   "youtubeVideoId": "5Qh-WmdvPDc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "YGjGnMTolng",
+   "youtubeVideoId": "Edpk61afZ8s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "8MqKn2QuVbo",
+   "youtubeVideoId": "h2ttsN4o9LI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110118,
+ "version": 2026110122,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.foxweather",
   "us.livenow",
   "us.pbsnewshour",
-  "us.nmasunivision",
-  "us.telemundo"
+  "us.foxnews",
+  "us.msnow"
  ],
  "channels": [
   {
@@ -547,9 +547,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "7uZrl2HGpMM",
+   "youtubeVideoId": "SlbkcwJop-Q",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -603,9 +603,9 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "sEC8faNyVGs",
+   "youtubeVideoId": "c8wZpGEnLqU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -707,9 +707,9 @@
     "en"
    ],
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "-kp27qd5-QY",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",
@@ -865,9 +865,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
-   "youtubeVideoId": "DUbaCTxgp-Q",
+   "youtubeVideoId": "5cTey34pBLs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",

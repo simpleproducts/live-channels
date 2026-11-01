@@ -1,16 +1,11 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026110118,
+ "version": 2026110122,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
   "th.ch7news",
-  "th.ch3news",
-  "th.tnn",
-  "th.pptv",
-  "th.amarin",
-  "th.nation",
   "th.workpoint"
  ],
  "channels": [
@@ -22,9 +17,9 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "yAaPSeFgXVY",
+   "youtubeVideoId": "3OYyEwKGQZE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -72,9 +67,9 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "5c4fW1XQopY",
+   "youtubeVideoId": "sgQPR0wx1R4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -108,9 +103,9 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "TSt_pj5TKjQ",
+   "youtubeVideoId": "s48C2XjIDyE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -206,9 +201,9 @@
     "th"
    ],
    "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ",
-   "youtubeVideoId": "0JPuj9rYM-w",
+   "youtubeVideoId": "elr0SyConjY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

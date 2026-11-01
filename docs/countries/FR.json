@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026103102,
+ "version": 2026110122,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -641,7 +641,7 @@
    "youtubeChannelId": "UCJldRgT_D7Am-ErRHQZ90uw",
    "youtubeVideoId": "dv3gNGnmqwE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q19905",
    "description": {
     "en": "French public radio channel",
