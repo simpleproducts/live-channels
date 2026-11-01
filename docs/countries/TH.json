@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026110106,
+ "version": 2026110113,
  "defaultTiles": [
-  "th.tnn",
+  "th.thairath",
+  "th.ch7news",
+  "th.amarin",
   "th.topnews"
  ],
  "channels": [
@@ -65,9 +67,9 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "o9PDp1TsACE",
+   "youtubeVideoId": "5c4fW1XQopY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -101,9 +103,9 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "yKDh8tQOJNM",
+   "youtubeVideoId": "TSt_pj5TKjQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -121,7 +123,7 @@
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
    "youtubeVideoId": "h6aXm2glPsI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -163,9 +165,9 @@
     "th"
    ],
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
-   "youtubeVideoId": "xCJdtEMsCdQ",
+   "youtubeVideoId": "6n14D-kp6sc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -217,7 +219,7 @@
     "th"
    ],
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
-   "youtubeVideoId": "R5VuuGrGtSE",
+   "youtubeVideoId": "bNsE05v0GgI",
    "embeddable": true,
    "live": true,
    "wikidata": null,

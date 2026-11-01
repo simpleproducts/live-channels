@@ -22,7 +22,7 @@
   {"id": "lasestrellas", "name": "Las Estrellas", "category": "broadcast", "youtubeChannelId": "UCZGYvP6WnVWGM5F0QEAyoyg", "youtubeVideoId": "sW7P8JsNRog", "embeddable": true, "live": false},
   {"id": "gobmx", "name": "Gobierno de México", "category": "government", "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w", "youtubeVideoId": "P9lD2uos5E8", "embeddable": true, "live": false, "wikidata": "Q5440529"},
   {"id": "canalcongreso", "name": "Canal del Congreso", "category": "government", "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg", "youtubeVideoId": "_UAijRFHjs4", "embeddable": true, "live": false, "wikidata": "Q5746883"},
-  {"id": "radioformula", "name": "Radio Fórmula", "category": "radio", "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q", "youtubeVideoId": "KiyqR441psA", "embeddable": true, "live": false},
+  {"id": "radioformula", "name": "Radio Fórmula", "category": "radio", "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q", "youtubeVideoId": "0IU4_5zow6s", "embeddable": true, "live": true, "liveSince": "2026-11-01T12:59:32Z"},
   {"id": "wradio", "name": "W Radio México", "category": "radio", "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw", "youtubeVideoId": "DmEddEeDbv8", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "imagenradio", "name": "Imagen Radio", "category": "radio", "youtubeChannelId": "UCB0BUmdBOrH9mYU2ebs1eWA", "youtubeVideoId": "QW0GJzHFJOI", "embeddable": true, "live": true, "liveSince": "2026-10-28T16:44:46Z", "languages": ["es"]},
   {"id": "mvsnoticias", "name": "MVS Noticias", "category": "radio", "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg", "youtubeVideoId": "GXfPhUOOg6M", "embeddable": true, "live": false, "languages": ["es"]},

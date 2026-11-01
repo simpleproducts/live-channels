@@ -15,6 +15,6 @@
   {"id": "carve", "name": "Carve Deportiva", "category": "sports", "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ", "youtubeVideoId": "kPbAT1UjXEM", "embeddable": true, "live": false, "wikidata": "Q16953379"},
   {"id": "delsol", "name": "Del Sol FM", "category": "radio", "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA", "youtubeVideoId": "XQY_2BaZDUQ", "embeddable": true, "live": false},
   {"id": "sarandi", "name": "Radio Sarandí", "category": "radio", "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ", "youtubeVideoId": "l55oq4kYGVg", "embeddable": true, "live": false},
-  {"id": "universal", "name": "970 Universal", "category": "radio", "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg", "youtubeVideoId": "uDRZ28sF6QQ", "embeddable": true, "live": false, "languages": ["es"]}
+  {"id": "universal", "name": "970 Universal", "category": "radio", "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg", "youtubeVideoId": "DmGASWydim4", "embeddable": true, "live": true, "liveSince": "2026-11-01T11:59:56Z", "languages": ["es"]}
  ]
 }

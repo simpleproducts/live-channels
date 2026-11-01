@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026110106,
+ "version": 2026110113,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -811,9 +811,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPlRurmY1Vn_lfwn-vKX6BQ",
-   "youtubeVideoId": "bO4-Wniybfs",
+   "youtubeVideoId": "XMAMOM7dO3M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -919,9 +919,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "PDGXnpTpugY",
+   "youtubeVideoId": "0A_YswdYHCw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -961,9 +961,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "y0UdGfER31A",
+   "youtubeVideoId": "EhyN3obdyYQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1151,9 +1151,9 @@
     "es"
    ],
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
-   "youtubeVideoId": "31HHYB3jTe4",
+   "youtubeVideoId": "s89MjJ6eFmU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1193,9 +1193,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "LyPgNknuxYI",
+   "youtubeVideoId": "a7-sZhiuhgM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1229,9 +1229,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
-   "youtubeVideoId": "6sleFyU4ax8",
+   "youtubeVideoId": "TIPwTEk60lg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961871",
    "description": {
     "en": "radio station in Argentina",

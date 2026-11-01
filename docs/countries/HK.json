@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026102918,
+ "version": 2026110113,
  "defaultTiles": [
-  "hk.phoenixtv"
+  "hk.phoenixtv",
+  "hk.cablenews"
  ],
  "channels": [
   {
@@ -35,6 +36,24 @@
    "youtubeVideoId": null,
    "embeddable": null,
    "live": false,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "hk.cablenews",
+   "name": "有線新聞 Cable News",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC_q7e5XYJB0JDGagcF0KW0w",
+   "youtubeVideoId": "3k0T4V-Z3j8",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

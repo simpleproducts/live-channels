@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110106,
+ "version": 2026110113,
  "defaultTiles": [
   "br.jovempan",
   "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
+  "br.canalrural",
   "br.canalgov",
-  "br.gaucha"
+  "br.gaucha",
+  "br.timesbrasil",
+  "br.cbn"
  ],
  "channels": [
   {
@@ -49,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "PsHaq-bDh1k",
+   "youtubeVideoId": "5icHy6QyxsI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -156,9 +159,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
-   "youtubeVideoId": "wsRuHafaeqw",
+   "youtubeVideoId": "hHLYEJcZ9KU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -220,9 +223,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC2vs-PnhPNxACC5wti_KMTg",
-   "youtubeVideoId": "vb4269SjCk0",
+   "youtubeVideoId": "IAkvYDoAtvc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -461,9 +464,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "lv7QT_BKH88",
+   "youtubeVideoId": "hj9En928_io",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7385857",
    "description": {
     "en": "Brazilian news radio network",
@@ -491,9 +494,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "x166x1HPyzs",
+   "youtubeVideoId": "srIWV1sG8aE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4854200",
    "description": {
     "en": "Brazilian all news radio network",
@@ -518,9 +521,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "GVdxJaSl4Q4",
+   "youtubeVideoId": "uTjGqFPmChk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q10365899",
    "description": {
     "en": "Brazilian radio station in Minas Gerais",
@@ -544,9 +547,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "c9CJHdtxPWI",
+   "youtubeVideoId": "fJCG38EYtww",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",

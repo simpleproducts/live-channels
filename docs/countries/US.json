@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026103120,
+ "version": 2026110113,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -9,9 +9,9 @@
   "us.newsmax",
   "us.foxweather",
   "us.livenow",
+  "us.newsnation",
   "us.nmasunivision",
-  "us.telemundo",
-  "us.cnnee"
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "O_xDTLIv-FI",
+   "youtubeVideoId": "xDIp4s-I984",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-   "youtubeVideoId": "DDP8pdgJ344",
+   "youtubeVideoId": "fetSIKhqUUU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

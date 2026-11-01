@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026103123,
+ "version": 2026110113,
  "defaultTiles": [
   "cl.24horas",
-  "cl.meganoticias",
   "cl.chvnoticias",
+  "cl.meganoticias",
+  "cl.cnnchile",
   "cl.tvn",
   "cl.senado",
-  "cl.cooperativa"
+  "cl.cooperativa",
+  "cl.chilevision",
+  "cl.agricultura"
  ],
  "channels": [
   {
@@ -19,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "UCIrACnIonA",
+   "youtubeVideoId": "K6iFkvEUD9c",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -100,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
-   "youtubeVideoId": "WUCMQAPbUVI",
+   "youtubeVideoId": "BAkl9NdC_uQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931771",
    "description": {
     "en": "Chilean television news channel",
@@ -221,9 +224,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "mAB4mbeNfTk",
+   "youtubeVideoId": "e1fSI8ncd5I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -564,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "YMOnq_XhYHw",
+   "youtubeVideoId": "l7dfbhSuY9E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
