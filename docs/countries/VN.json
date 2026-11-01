@@ -1,13 +1,9 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026110113,
+ "version": 2026110118,
  "defaultTiles": [
-  "vn.antv",
-  "vn.qpvn",
-  "vn.thanhnien",
-  "vn.htvnews",
-  "vn.hanoitv"
+  "vn.antv"
  ],
  "channels": [
   {
@@ -18,7 +14,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "uVDrM3kipZQ",
+   "youtubeVideoId": "XqY1NAdBtOk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -38,7 +34,7 @@
    "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw",
    "youtubeVideoId": "qVIcAqR0_DA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -56,7 +52,7 @@
    "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
    "youtubeVideoId": "49-fnOuqGh8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7710368",
    "description": {
     "en": "Vietnamese newspaper",
@@ -143,7 +139,7 @@
    "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw",
    "youtubeVideoId": "BEXSRBwcyZE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -161,7 +157,7 @@
    "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w",
    "youtubeVideoId": "G_rnyzbSy1U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5649326",
    "description": {
     "en": "Vietnamese radio and television network",

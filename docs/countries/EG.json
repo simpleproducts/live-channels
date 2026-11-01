@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026110113,
+ "version": 2026110118,
  "defaultTiles": [
   "eg.extranews",
-  "eg.alghad"
+  "eg.alghad",
+  "eg.sadaelbalad"
  ],
  "channels": [
   {
@@ -80,9 +81,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCJWuV-EkLmRrGZ4afwUBenw",
-   "youtubeVideoId": "6S3ft9p4RZQ",
+   "youtubeVideoId": "U5TpQqgAdjs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q63121712",
    "description": {
     "en": "Egyptian news website and satellite television channel",

@@ -1,9 +1,9 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110113,
+ "version": 2026110118,
  "defaultTiles": [
-  "ph.oneph",
+  "ph.gma",
   "ph.dzrh"
  ],
  "channels": [
@@ -53,9 +53,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "yTdAjLf5tIc",
+   "youtubeVideoId": "rwkMUFQMUak",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -102,7 +102,7 @@
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
    "youtubeVideoId": "2JDSqi8aa2k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",

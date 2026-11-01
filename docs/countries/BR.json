@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110113,
+ "version": 2026110118,
  "defaultTiles": [
-  "br.jovempan",
   "br.recordnews",
+  "br.jovempan",
   "br.cnnbrasil",
   "br.sbtnews",
   "br.canalrural",
+  "br.uol",
   "br.canalgov",
   "br.gaucha",
-  "br.timesbrasil",
   "br.cbn"
  ],
  "channels": [
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "5icHy6QyxsI",
+   "youtubeVideoId": "EG2R5e2dGHk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -181,9 +181,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-   "youtubeVideoId": "NX830apV0Vw",
+   "youtubeVideoId": "YFDojrv8zlw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -225,7 +225,7 @@
    "youtubeChannelId": "UC2vs-PnhPNxACC5wti_KMTg",
    "youtubeVideoId": "IAkvYDoAtvc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "hj9En928_io",
+   "youtubeVideoId": "KlLWq7LMQPI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "srIWV1sG8aE",
+   "youtubeVideoId": "YGjGnMTolng",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "fJCG38EYtww",
+   "youtubeVideoId": "8MqKn2QuVbo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
