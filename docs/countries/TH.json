@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026103123,
+ "version": 2026110106,
  "defaultTiles": [
+  "th.tnn",
   "th.topnews"
  ],
  "channels": [
@@ -118,9 +119,9 @@
     "th"
    ],
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
-   "youtubeVideoId": "RByBnMNOlxE",
+   "youtubeVideoId": "h6aXm2glPsI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -216,7 +217,7 @@
     "th"
    ],
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
-   "youtubeVideoId": "i00SebpI0Q8",
+   "youtubeVideoId": "R5VuuGrGtSE",
    "embeddable": true,
    "live": true,
    "wikidata": null,

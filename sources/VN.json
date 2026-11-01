@@ -3,7 +3,7 @@
  "languages": ["vi"],
  "defaultTiles": ["antv", "qpvn", "htvnews", "hanoitv", "vov", "thanhnien", "tuoitre"],
  "channels": [
-  {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "_zCHDMUSiOw", "embeddable": true, "live": true, "liveSince": "2026-10-31T09:15:05Z", "languages": ["vi"]},
+  {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "hzBsQGB1bTo", "embeddable": true, "live": true, "liveSince": "2026-11-01T01:21:51Z", "languages": ["vi"]},
   {"id": "qpvn", "name": "QPVN", "category": "news", "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw", "youtubeVideoId": "AEc0g4v74Ow", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "thanhnien", "name": "Báo Thanh Niên", "category": "news", "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg", "youtubeVideoId": "I1fjyAsvdHM", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "tuoitre", "name": "Báo Tuổi Trẻ", "category": "news", "youtubeChannelId": "UC47WI-kZXFf0H_f7pvaNCEQ", "youtubeVideoId": "yLTmi7Qj6ys", "embeddable": true, "live": false, "languages": ["vi"]},

@@ -1,10 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026103123,
+ "version": 2026110106,
  "defaultTiles": [
+  "uy.elobservadoruy",
+  "uy.ladiaria",
+  "uy.tnu",
   "uy.carve",
-  "uy.universal"
+  "uy.delsol",
+  "uy.sarandi",
+  "uy.elpaisuy"
  ],
  "channels": [
   {
@@ -300,7 +305,7 @@
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
    "youtubeVideoId": "kPbAT1UjXEM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -361,7 +366,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "uDRZ28sF6QQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
