@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026110211,
+ "version": 2026110220,
  "defaultTiles": [
-  "il.i24he",
   "il.c14",
+  "il.i24he",
   "il.i24fr"
  ],
  "channels": [

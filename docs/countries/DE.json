@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026110211,
+ "version": 2026110220,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.phoenix",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -18,7 +17,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "ggyFHilRNqI",
+   "youtubeVideoId": "p67RfTczH80",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -62,7 +61,7 @@
    "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
    "youtubeVideoId": "Yma8fKSMy48",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3381361",
    "description": {
     "en": "television station in Germany",

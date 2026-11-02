@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110211,
+ "version": 2026110220,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
-  "co.eltiempo",
   "co.noticiasrcn",
+  "co.eltiempo",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio"
+  "co.bluradio",
+  "co.lafm"
  ],
  "channels": [
   {
@@ -483,9 +484,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "kajBsYo_1w8",
+   "youtubeVideoId": "Y3ddPmwGY4k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",

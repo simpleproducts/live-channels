@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110211,
+ "version": 2026110220,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
-  "us.nbcnews",
-  "us.livenow",
   "us.newsmax",
   "us.foxweather",
-  "us.ap",
-  "us.nmasunivision",
-  "us.telemundo"
+  "us.cbsnews",
+  "us.nbcnews",
+  "us.livenow",
+  "us.msnow",
+  "us.usatoday"
  ],
  "channels": [
   {
@@ -133,9 +133,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "LakqyH8vmWg",
+   "youtubeVideoId": "Y1cGzQM1gy0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "GkQTef2ZDzk",
+   "youtubeVideoId": "DxeVx5CVlQw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "xDIp4s-I984",
+   "youtubeVideoId": "Y73UPPMQ9Y8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "WqyYmVhLeOI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -603,9 +603,9 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "ir9lzcy_Qeo",
+   "youtubeVideoId": "CN5GLY0n5gc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -707,9 +707,9 @@
     "en"
    ],
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
-   "youtubeVideoId": "-kp27qd5-QY",
+   "youtubeVideoId": "sfx0uFKiF68",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",

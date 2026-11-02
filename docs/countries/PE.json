@@ -1,16 +1,14 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026110211,
+ "version": 2026110220,
  "defaultTiles": [
   "pe.latina",
-  "pe.pbo",
   "pe.rpp",
   "pe.willax",
   "pe.tvperunoticias",
   "pe.atv",
   "pe.congreso",
-  "pe.panamericana",
   "pe.exitosa"
  ],
  "channels": [
@@ -24,7 +22,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "jQYtFCUl_2o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -73,7 +71,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "ThqwBUgYPfs",
+   "youtubeVideoId": "BOV4aRpKqNg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -121,7 +119,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "Bz_Jbj8JsBo",
+   "youtubeVideoId": "pIYDAmy0-4s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -147,7 +145,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "WrYf81hHqXE",
+   "youtubeVideoId": "T8iBxOyZZ3k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -171,7 +169,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "bUV8OQTawks",
+   "youtubeVideoId": "h6pbNI6JAbw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -330,7 +328,7 @@
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
    "youtubeVideoId": "2KiMDdAdd2g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -423,7 +421,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
-   "youtubeVideoId": "6M5E9U6UnJM",
+   "youtubeVideoId": "lfKGx7svgzo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1357543",
@@ -465,7 +463,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "_uDGkbVaE3w",
+   "youtubeVideoId": "4Bp0fEVNvAc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",

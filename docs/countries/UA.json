@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026110211,
+ "version": 2026110220,
  "defaultTiles": [
   "ua.suspilne",
   "ua.espreso",
@@ -9,7 +9,7 @@
   "ua.tsn",
   "ua.faktyictv",
   "ua.kyiv24",
-  "ua.pryamiy",
+  "ua.24kanal",
   "ua.united24",
   "ua.freedom"
  ],
@@ -45,7 +45,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-   "youtubeVideoId": "VodAqR8ti_4",
+   "youtubeVideoId": "sQd8MTzFOQw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4449066",
@@ -163,7 +163,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "w1XO8QrdhQc",
+   "youtubeVideoId": "V74JivkaBUM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",
@@ -193,7 +193,7 @@
    "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA",
    "youtubeVideoId": "T4N5IgZRtkM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q38633974",
    "description": {
     "en": "Ukrainian TV channel",
@@ -251,9 +251,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ",
-   "youtubeVideoId": "cbCuc_fOCk4",
+   "youtubeVideoId": "NHouk6Z9698",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4030314",
    "description": {
     "en": "Ukrainian 24-hour news TV channel",

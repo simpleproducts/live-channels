@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026110211,
+ "version": 2026110220,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "Ko5wAInk0k0",
+   "youtubeVideoId": "_9UX0RBghLI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -89,7 +89,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "G4JeE_57SI0",
+   "youtubeVideoId": "smtwnj3rWCw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6495373",
@@ -127,7 +127,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "7DEVq0uG52w",
+   "youtubeVideoId": "dAyd8z9dvl8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -145,7 +145,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "sR2AyztIdmc",
+   "youtubeVideoId": "Sl7kpYD9QFY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -163,7 +163,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-   "youtubeVideoId": "5ZORilcb2jk",
+   "youtubeVideoId": "rv_fSSeYG7c",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "TWdOSJH7Gyw",
+   "youtubeVideoId": "LDmzQ26Uhtk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -264,7 +264,7 @@
    "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw",
    "youtubeVideoId": "wB0HCkCjINk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -330,9 +330,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
-   "youtubeVideoId": "BkaAStz1AlQ",
+   "youtubeVideoId": "n1JDlYLeoSs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7388983",
    "description": {
     "en": "news channel in South Korea",
@@ -368,7 +368,7 @@
    "youtubeChannelId": "UC6kZpTl39-_SqfBrF1-N2oQ",
    "youtubeVideoId": "-_py4O2QuQc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -474,7 +474,7 @@
     "ko"
    ],
    "youtubeChannelId": "UC1ifSsWUG241rRfK0ezYCgA",
-   "youtubeVideoId": "wSzfMbAc6fs",
+   "youtubeVideoId": "fojnGP_6oG4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -510,7 +510,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
-   "youtubeVideoId": "a4P-wT3DwJc",
+   "youtubeVideoId": "EKMDVQcBqDU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
