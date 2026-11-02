@@ -1,13 +1,10 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026110122,
+ "version": 2026110202,
  "defaultTiles": [
   "pe.latina",
-  "pe.tvperunoticias",
-  "pe.elcomercio",
-  "pe.congreso",
-  "pe.panamericana"
+  "pe.congreso"
  ],
  "channels": [
   {
@@ -145,7 +142,7 @@
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
    "youtubeVideoId": "Zt-EubPwiDQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -212,7 +209,7 @@
    "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg",
    "youtubeVideoId": "L0ryJoPsfa0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1324020",
    "description": {
     "en": "newspaper from Peru",
@@ -326,7 +323,7 @@
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
    "youtubeVideoId": "nbUoSdRoMKc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",

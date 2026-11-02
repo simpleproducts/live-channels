@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026110122,
+ "version": 2026110202,
  "defaultTiles": [
   "jp.ann",
   "jp.tbs",
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "_r4EG6ARsts",
+   "youtubeVideoId": "F2h-aFWFs0M",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "UlltLBmkmIg",
+   "youtubeVideoId": "qYyXhNTWJg0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "OtG3TCn1KzM",
+   "youtubeVideoId": "RDn_MX8fa_0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -538,7 +538,7 @@
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
    "youtubeVideoId": "UJOOPs2q8f8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

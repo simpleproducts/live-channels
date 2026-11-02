@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110122,
+ "version": 2026110202,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -9,7 +9,7 @@
   "us.newsmax",
   "us.foxweather",
   "us.livenow",
-  "us.pbsnewshour",
+  "us.ap",
   "us.foxnews",
   "us.msnow"
  ],
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "IoaJpiuuGdU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "JucFd7L9DRE",
+   "youtubeVideoId": "nUPQshUWBjk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -547,7 +547,7 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "SlbkcwJop-Q",
+   "youtubeVideoId": "j30tmagmK9s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q166419",
@@ -603,7 +603,7 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "c8wZpGEnLqU",
+   "youtubeVideoId": "ir9lzcy_Qeo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q13973",
@@ -709,7 +709,7 @@
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
    "youtubeVideoId": "-kp27qd5-QY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",
@@ -865,7 +865,7 @@
     "en"
    ],
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
-   "youtubeVideoId": "5cTey34pBLs",
+   "youtubeVideoId": "5uOmYXTjlbI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3735740",

@@ -1,15 +1,13 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110122,
+ "version": 2026110202,
  "defaultTiles": [
   "ph.abscbn",
   "ph.gma",
   "ph.untv",
-  "ph.net25",
   "ph.anc",
   "ph.dzrh",
-  "ph.ptv",
   "ph.teleradyo"
  ],
  "channels": [
@@ -22,7 +20,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "4rSmY4_yBS8",
+   "youtubeVideoId": "h1fn_QH7z_o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -59,7 +57,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "MZf2qIuSjaE",
+   "youtubeVideoId": "sXLGAhozLd0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -150,7 +148,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw",
-   "youtubeVideoId": "l3_sM8cJ1FA",
+   "youtubeVideoId": "HGfzvU3275w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q28452148",
@@ -175,7 +173,7 @@
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
    "youtubeVideoId": "Y1AnC2UXO48",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -263,7 +261,7 @@
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
    "youtubeVideoId": "GKDbWDiESYw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
