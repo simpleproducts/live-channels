@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026110202,
+ "version": 2026110211,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
+  "gb.reuters",
+  "gb.itvnews",
+  "gb.mirror",
   "gb.bbcnewsarabic",
-  "gb.timesradio",
-  "gb.talksport"
+  "gb.timesradio"
  ],
  "channels": [
   {
@@ -170,9 +172,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "kg8uHMH2uUM",
+   "youtubeVideoId": "PPkA6j3XCzc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -388,9 +390,9 @@
     "en"
    ],
    "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A",
-   "youtubeVideoId": "q8l6_1abgc4",
+   "youtubeVideoId": "IOK0wv5KiN8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4189762",
    "description": {
     "en": "British broadcaster ITV's branded news programming",
@@ -482,9 +484,9 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "O9RUwtLVWys",
+   "youtubeVideoId": "W2rcvKJodYg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

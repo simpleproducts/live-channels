@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "RU",
- "version": 2026103120,
+ "version": 2026110211,
  "defaultTiles": [
   "ru.currenttime",
-  "ru.euronewsru"
+  "ru.euronewsru",
+  "ru.tvrain"
  ],
  "channels": [
   {
@@ -15,9 +16,9 @@
     "ru"
    ],
    "youtubeChannelId": "UCdubelOloxR3wzwJG9x8YqQ",
-   "youtubeVideoId": "pbWiazFAUqQ",
+   "youtubeVideoId": "QaAkcmxKb-U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q155172",
    "description": {
     "en": "Russian-language television channel",

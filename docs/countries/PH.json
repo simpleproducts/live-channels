@@ -1,13 +1,15 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110202,
+ "version": 2026110211,
  "defaultTiles": [
   "ph.abscbn",
   "ph.gma",
-  "ph.untv",
+  "ph.net25",
   "ph.anc",
+  "ph.inquirer",
   "ph.dzrh",
+  "ph.ptv",
   "ph.teleradyo"
  ],
  "channels": [
@@ -20,7 +22,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "h1fn_QH7z_o",
+   "youtubeVideoId": "9eca6KtCIXA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -85,7 +87,7 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "pp7o6xYxpP0",
+   "youtubeVideoId": "6w0M6K8mZB8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -150,7 +152,7 @@
    "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw",
    "youtubeVideoId": "HGfzvU3275w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28452148",
    "description": {
     "en": "television network in the Philippines"
@@ -171,9 +173,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "Y1AnC2UXO48",
+   "youtubeVideoId": "uZrOHaTGgL0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -238,9 +240,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w",
-   "youtubeVideoId": "JuemdUH-2rQ",
+   "youtubeVideoId": "B51oxVvV0hg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q97657682",
    "description": {
     "en": "News website from the Philippines"
@@ -259,9 +261,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "GKDbWDiESYw",
+   "youtubeVideoId": "o9Dl2TqbXc8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -423,7 +425,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "0qtOuPzri5A",
+   "youtubeVideoId": "w5uzV83B5cs",
    "embeddable": true,
    "live": true,
    "wikidata": null,

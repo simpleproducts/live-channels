@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026110202,
+ "version": 2026110211,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
+  "es.elpais",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
   "es.rtvcanarias",
-  "es.telemadrid",
-  "es.tvg"
+  "es.telemadrid"
  ],
  "channels": [
   {
@@ -97,9 +97,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "raZtmh_y6Ys",
+   "youtubeVideoId": "eILtq_tlzpE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -638,9 +638,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "2EcHxm8tyJo",
+   "youtubeVideoId": "M6wn2RSpd5M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -683,9 +683,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "oelOgx8rXZw",
+   "youtubeVideoId": "FJ9TQhimXK8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",

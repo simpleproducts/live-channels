@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026110202,
+ "version": 2026110211,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -10,8 +10,8 @@
   "ar.canal26",
   "ar.cronica",
   "ar.canalrural",
-  "ar.tvpublica",
-  "ar.america"
+  "ar.infobae",
+  "ar.tvpublica"
  ],
  "channels": [
   {
@@ -195,9 +195,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "nDrOVeFgXxs",
+   "youtubeVideoId": "JQZCgpIjjLA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -503,9 +503,9 @@
     "es"
    ],
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
-   "youtubeVideoId": "pYzidIB3OwM",
+   "youtubeVideoId": "rl4BZ1ZS2bA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -550,9 +550,9 @@
     "es"
    ],
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-   "youtubeVideoId": "fkjtTvu_VjE",
+   "youtubeVideoId": "ZpVCv9lh3_8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -829,9 +829,9 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "Qgn0o6nRHHI",
+   "youtubeVideoId": "eW4SZtX1GAQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -847,9 +847,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "i-g9zoMzBpk",
+   "youtubeVideoId": "io8mA7O-5ac",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -883,9 +883,9 @@
     "es"
    ],
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
-   "youtubeVideoId": "Qm8JY6aTAIU",
+   "youtubeVideoId": "95JQaS39WiQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -919,9 +919,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "0A_YswdYHCw",
+   "youtubeVideoId": "iUhVfmqDXW8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -963,7 +963,7 @@
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
    "youtubeVideoId": "McdNIBaa2BA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1151,9 +1151,9 @@
     "es"
    ],
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
-   "youtubeVideoId": "IMejGtsflLQ",
+   "youtubeVideoId": "N6ckG98q7rc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1169,9 +1169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "tZfa77tN5as",
+   "youtubeVideoId": "K_5Anc--iO0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961729",
    "description": {
     "en": "Public AM radio station in Buenos Aires",
@@ -1193,9 +1193,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "a7-sZhiuhgM",
+   "youtubeVideoId": "HJyP4r_Y-iE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1211,9 +1211,9 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "lq4oZ6O5Big",
+   "youtubeVideoId": "qW7zSLYL7T0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1229,9 +1229,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
-   "youtubeVideoId": "TIPwTEk60lg",
+   "youtubeVideoId": "oPdwTrfNlI0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961871",
    "description": {
     "en": "radio station in Argentina",
@@ -1320,9 +1320,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "_sW45VS4LSQ",
+   "youtubeVideoId": "78ukXXh7ek8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

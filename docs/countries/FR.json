@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026110122,
+ "version": 2026110211,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -522,9 +522,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
-   "youtubeVideoId": "fdx3DXS25as",
+   "youtubeVideoId": "6hH8KwYrrPs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110202,
+ "version": 2026110211,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.nbcnews",
+  "us.livenow",
   "us.newsmax",
   "us.foxweather",
-  "us.livenow",
   "us.ap",
-  "us.foxnews",
-  "us.msnow"
+  "us.nmasunivision",
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -491,7 +491,7 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "nUPQshUWBjk",
+   "youtubeVideoId": "WqyYmVhLeOI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q40469",
@@ -549,7 +549,7 @@
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
    "youtubeVideoId": "j30tmagmK9s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -605,7 +605,7 @@
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
    "youtubeVideoId": "ir9lzcy_Qeo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -867,7 +867,7 @@
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
    "youtubeVideoId": "5uOmYXTjlbI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",
@@ -1121,9 +1121,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA",
-   "youtubeVideoId": "eAY8fyH5evI",
+   "youtubeVideoId": "_J9JNpSUV-0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

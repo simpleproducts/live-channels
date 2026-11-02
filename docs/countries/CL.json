@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110202,
+ "version": 2026110211,
  "defaultTiles": [
   "cl.24horas",
-  "cl.chvnoticias",
   "cl.meganoticias",
+  "cl.chvnoticias",
+  "cl.cnnchile",
+  "cl.biobio",
   "cl.senado",
   "cl.cooperativa",
   "cl.tvn",
@@ -20,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "jTvWNiz1jDM",
+   "youtubeVideoId": "RDmTczlVPCs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -65,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "fFOqkPlKneM",
+   "youtubeVideoId": "c_WrbNgZ_oQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -101,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
-   "youtubeVideoId": "EMEVlxOVPJ8",
+   "youtubeVideoId": "4zzlS4LMI8I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931771",
    "description": {
     "en": "Chilean television news channel",
@@ -135,9 +137,9 @@
     "es"
    ],
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
-   "youtubeVideoId": "Fw3MuXsHQYc",
+   "youtubeVideoId": "q0aXbE9cI9Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -166,7 +168,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "kLOpnpT2_sM",
+   "youtubeVideoId": "HDKDc7Pd1_4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -222,7 +224,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "AsypmP607DQ",
+   "youtubeVideoId": "X__gRZDSqEM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
@@ -264,9 +266,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "JxomtmbqJUw",
+   "youtubeVideoId": "pqCSkGUj-gs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -318,9 +320,9 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "sHagxh5MuX0",
+   "youtubeVideoId": "lZeCh5a_EIE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -502,9 +504,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "QbTYHikzxNw",
+   "youtubeVideoId": "QykJljpg9Pc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -529,9 +531,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
-   "youtubeVideoId": "_TbMkMHYfbk",
+   "youtubeVideoId": "6kchT9YD0mc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -565,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "l7dfbhSuY9E",
+   "youtubeVideoId": "NWcZI8sYZN4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -583,9 +585,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
-   "youtubeVideoId": "ssNOjfmb9Lo",
+   "youtubeVideoId": "aQqOnYFhh0w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -619,9 +621,9 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": "fnkgthRz-Ug",
+   "youtubeVideoId": "bYa0FyHyUK4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -637,9 +639,9 @@
     "es"
    ],
    "youtubeChannelId": "UCnN6wrS3nloRl0xB6Qglb0g",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "DNzwKdahwyo",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,9 +1,16 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026110202,
+ "version": 2026110211,
  "defaultTiles": [
-  "th.amarin"
+  "th.thaipbs",
+  "th.thairath",
+  "th.ch7news",
+  "th.tnn",
+  "th.pptv",
+  "th.nation",
+  "th.topnews",
+  "th.thestandard"
  ],
  "channels": [
   {
@@ -14,9 +21,9 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "3OYyEwKGQZE",
+   "youtubeVideoId": "NEdKorieOx4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -64,9 +71,9 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "sgQPR0wx1R4",
+   "youtubeVideoId": "69E-aaLvD7E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -100,9 +107,9 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "s48C2XjIDyE",
+   "youtubeVideoId": "oXeWPIMwcIo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -118,9 +125,9 @@
     "th"
    ],
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
-   "youtubeVideoId": "h6aXm2glPsI",
+   "youtubeVideoId": "6nJwLxxFqAQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -136,9 +143,9 @@
     "th"
    ],
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
-   "youtubeVideoId": "Z3yiJdBzdaM",
+   "youtubeVideoId": "355ovw4WHwI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",
@@ -164,7 +171,7 @@
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
    "youtubeVideoId": "n6PJukYVNbQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -180,9 +187,9 @@
     "th"
    ],
    "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg",
-   "youtubeVideoId": "-4ZmD_cENsA",
+   "youtubeVideoId": "6OD_hR-A8wE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -216,9 +223,9 @@
     "th"
    ],
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
-   "youtubeVideoId": "bNsE05v0GgI",
+   "youtubeVideoId": "d4GCtGYcars",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -252,9 +259,9 @@
     "th"
    ],
    "youtubeChannelId": "UCk1v3FzlMu3r34LYgoHpH2w",
-   "youtubeVideoId": "K6EuXh5UTEk",
+   "youtubeVideoId": "blCGU1_s5Xo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
