@@ -1,15 +1,15 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110302,
+ "version": 2026110310,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
+  "us.livenow",
   "us.newsmax",
   "us.foxweather",
+  "us.cbsnews",
   "us.nbcnews",
-  "us.livenow",
-  "us.msnow",
   "us.nmasunivision",
   "us.telemundo"
  ],
@@ -133,9 +133,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "Y1cGzQM1gy0",
+   "youtubeVideoId": "28dhuNKlZqU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",
@@ -605,7 +605,7 @@
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
    "youtubeVideoId": "3dCexPtFavw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -1065,9 +1065,9 @@
     "en"
    ],
    "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ",
-   "youtubeVideoId": "RyCfzP3I4eA",
+   "youtubeVideoId": "icuRZ2LXk1E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q35525",
    "description": {
     "en": "official residence and office of the President of the United States",
@@ -1121,7 +1121,7 @@
     "en"
    ],
    "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA",
-   "youtubeVideoId": "_J9JNpSUV-0",
+   "youtubeVideoId": "PGuq5mJHfZ8",
    "embeddable": true,
    "live": true,
    "wikidata": null,

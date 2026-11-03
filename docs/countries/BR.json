@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110302,
+ "version": 2026110310,
  "defaultTiles": [
   "br.jovempan",
   "br.recordnews",
+  "br.cnnbrasil",
+  "br.sbtnews",
+  "br.metropoles",
   "br.canalgov",
   "br.gaucha",
-  "br.bandnewsfm",
-  "br.itatiaia",
-  "br.bandeirantes"
+  "br.redetv",
+  "br.tvsenado"
  ],
  "channels": [
   {
@@ -50,9 +52,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "Tu2_flePXLI",
+   "youtubeVideoId": "_DyAPmg0kys",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q61037218",
    "description": {
     "en": "Brazilian television channel",
@@ -134,9 +136,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "NxeuQJ0HtiY",
+   "youtubeVideoId": "6oozLSKPMg8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q135520615",
    "description": {
     "en": "Brazilian television station",
@@ -197,9 +199,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "37-6tUzZyh4",
+   "youtubeVideoId": "RJHspPdEH_A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -316,9 +318,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
-   "youtubeVideoId": "tUxAIIpRp_A",
+   "youtubeVideoId": "kOZOIkItMNU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1090363",
    "description": {
     "en": "Brazilian broadcast television network",
@@ -409,9 +411,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ",
-   "youtubeVideoId": "_oRKuCnB3zI",
+   "youtubeVideoId": "QQ0ERgkjxSE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7672422",
    "description": {
     "en": "Brazilian television network",
@@ -462,9 +464,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "intw-WGmr28",
+   "youtubeVideoId": "8JkWAEzRX9Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7385857",
    "description": {
     "en": "Brazilian news radio network",
@@ -492,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "KRFvebdRMHw",
+   "youtubeVideoId": "5I0cwCaHCzM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -519,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "uEugocnm_58",
+   "youtubeVideoId": "6kGA9azCviU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -545,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "8WNdvnlhuXo",
+   "youtubeVideoId": "kDEIS60JlgM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
@@ -590,9 +592,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w",
-   "youtubeVideoId": "a53CHIE_snI",
+   "youtubeVideoId": "bWqV7bAeQSg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

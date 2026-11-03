@@ -1,11 +1,14 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026110302,
+ "version": 2026110310,
  "defaultTiles": [
   "pe.latina",
-  "pe.rpp",
-  "pe.willax"
+  "pe.pbo",
+  "pe.atv",
+  "pe.panamericana",
+  "pe.congreso",
+  "pe.exitosa"
  ],
  "channels": [
   {
@@ -16,9 +19,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "jQYtFCUl_2o",
+   "youtubeVideoId": "3cjBihwnB7c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -69,7 +72,7 @@
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
    "youtubeVideoId": "5ISNvbMdM7M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -117,7 +120,7 @@
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
    "youtubeVideoId": "UJ3ycHkrj40",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -165,9 +168,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "h6pbNI6JAbw",
+   "youtubeVideoId": "0L0iPGVetHM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -322,9 +325,9 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "2KiMDdAdd2g",
+   "youtubeVideoId": "MT2TaF2JRBM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -417,9 +420,9 @@
     "es"
    ],
    "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
-   "youtubeVideoId": "lfKGx7svgzo",
+   "youtubeVideoId": "m4fj7kEuAeE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1357543",
    "description": {
     "en": "unicameral body that has assumed legislative power in Peru from 1995 to 2026",
@@ -459,9 +462,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "4Bp0fEVNvAc",
+   "youtubeVideoId": "5ADPzwgOtqg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",

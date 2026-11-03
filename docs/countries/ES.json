@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026110302,
+ "version": 2026110310,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "EP0KTg7DMdY",
+   "youtubeVideoId": "9iRHfirihdw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -586,9 +586,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w",
-   "youtubeVideoId": "tUFjAUDzaJg",
+   "youtubeVideoId": "aL70WUD2g8g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q855343",
    "description": {
     "en": "upper house of Spain's parliament, the Cortes Generales",
@@ -638,9 +638,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "vXfc87lZsfg",
+   "youtubeVideoId": "A0vaG0Q89o4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -749,9 +749,9 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "aTunp91_cbk",
+   "youtubeVideoId": "lAOH3OThzYk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

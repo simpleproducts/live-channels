@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026110220,
+ "version": 2026110310,
  "defaultTiles": [
-  "za.sabcnews",
-  "za.enca",
-  "za.newzroom",
-  "za.news24"
+  "za.radio702",
+  "za.safm"
  ],
  "channels": [
   {
@@ -181,9 +179,9 @@
     "en"
    ],
    "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
-   "youtubeVideoId": "9KFU5MgscGY",
+   "youtubeVideoId": "VyW2WTWWWcM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -199,9 +197,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w",
-   "youtubeVideoId": "SdlwPK6dUWY",
+   "youtubeVideoId": "x3o9yqgc8B0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,10 +1,12 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026110302,
+ "version": 2026110310,
  "defaultTiles": [
   "ve.vpitv",
+  "ve.noticiasvenevision",
   "ve.telesurenglish",
+  "ve.unionradio",
   "ve.vtv"
  ],
  "channels": [
@@ -82,9 +84,9 @@
     "es"
    ],
    "youtubeChannelId": "UCR1tLg8fy9dklmhZPf0qCWQ",
-   "youtubeVideoId": "VIqOOAQ4y9A",
+   "youtubeVideoId": "pkWuHClCpdA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5825366",
    "description": {
     "es": "Noticiero venezolano emitido por el canal Venevisión.",
@@ -142,9 +144,9 @@
     "es"
    ],
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-   "youtubeVideoId": "LiQABqsuKpY",
+   "youtubeVideoId": "btiKsZpAzhI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5770016",
    "description": {
     "en": "Venezuela",

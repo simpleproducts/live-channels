@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026110302,
+ "version": 2026110310,
  "defaultTiles": [
   "jp.ann",
+  "jp.tbs",
   "jp.ntvnews",
+  "jp.fnn",
   "jp.weathernews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
-  "jp.ytv",
-  "jp.ktv",
-  "jp.abctv"
+  "jp.ytv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "HURVbC9qoBU",
+   "youtubeVideoId": "TfkeeCXurI0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,9 +60,9 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "9MppdpT9FW8",
+   "youtubeVideoId": "UzN8encBA7w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16143608",
    "description": {
     "en": "Internet news website",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "VRAhYDEsq3g",
+   "youtubeVideoId": "YXhPEBGDjo4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -115,9 +115,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-   "youtubeVideoId": "zzTtJ5_qnDY",
+   "youtubeVideoId": "yruAW6AuF_Q",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q124919956",
    "description": {
     "ja": "フジテレビ系FNN28局のニュースサイト"
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "SkTaTn_Xleo",
+   "youtubeVideoId": "pOaE9I-lK08",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",

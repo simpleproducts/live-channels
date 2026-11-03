@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "PT",
- "version": 2026110302,
+ "version": 2026110310,
  "defaultTiles": [
-  "pt.euronewspt"
+  "pt.euronewspt",
+  "pt.observador",
+  "pt.canalparlamento"
  ],
  "channels": [
   {
@@ -70,9 +72,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg",
-   "youtubeVideoId": "AaSiNroqX68",
+   "youtubeVideoId": "6WP3lxUXMNc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q25442845",
    "description": {
     "en": "Portuguese electronic newspaper",
@@ -221,9 +223,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A",
-   "youtubeVideoId": "06POpunqXpE",
+   "youtubeVideoId": "KeTiQH4XwLc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

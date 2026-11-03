@@ -5,7 +5,7 @@
  "channels": [
   {"id": "abcnews", "name": "ABC News", "category": "news", "youtubeChannelId": "UCBi2mrWuNuyYy4gbM6fU18Q", "youtubeVideoId": "KQhNZQ_Uag8", "embeddable": true, "live": true, "liveSince": "2026-10-24T03:13:21Z"},
   {"id": "cnn", "name": "CNN", "category": "news", "youtubeChannelId": "UCupvZG-5ko_eiXAupbDfxWw", "youtubeVideoId": "GotlA1KKWoo", "embeddable": true, "live": true, "liveSince": "2026-06-15T20:07:27Z"},
-  {"id": "cbsnews", "name": "CBS News", "category": "news", "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g", "youtubeVideoId": "Y1cGzQM1gy0", "embeddable": true, "live": false},
+  {"id": "cbsnews", "name": "CBS News", "category": "news", "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g", "youtubeVideoId": "28dhuNKlZqU", "embeddable": true, "live": true, "liveSince": "2026-11-03T00:00:06Z"},
   {"id": "nbcnews", "name": "NBC News", "category": "news", "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg", "youtubeVideoId": "R6khjqIPmVA", "embeddable": true, "live": true, "liveSince": "2026-11-02T22:59:14Z"},
   {"id": "livenow", "name": "LiveNOW from FOX", "category": "news", "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg", "youtubeVideoId": "Y73UPPMQ9Y8", "embeddable": true, "live": true, "liveSince": "2026-11-02T13:55:35Z"},
   {"id": "newsmax", "name": "Newsmax", "category": "news", "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg", "youtubeVideoId": "MXosVElBUJQ", "embeddable": true, "live": true, "liveSince": "2026-10-25T11:51:46Z"},
@@ -18,7 +18,7 @@
   {"id": "newsnation", "name": "NewsNation", "category": "news", "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ", "youtubeVideoId": "fetSIKhqUUU", "embeddable": true, "live": false},
   {"id": "ap", "name": "Associated Press", "category": "news", "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA", "youtubeVideoId": "WqyYmVhLeOI", "embeddable": true, "live": false},
   {"id": "foxnews", "name": "Fox News", "category": "news", "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA", "youtubeVideoId": "j30tmagmK9s", "embeddable": true, "live": false},
-  {"id": "msnow", "name": "MS NOW", "category": "news", "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg", "youtubeVideoId": "3dCexPtFavw", "embeddable": true, "live": true, "liveSince": "2026-11-03T02:28:38Z"},
+  {"id": "msnow", "name": "MS NOW", "category": "news", "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg", "youtubeVideoId": "3dCexPtFavw", "embeddable": true, "live": false},
   {"id": "thehill", "name": "The Hill", "category": "news", "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA", "youtubeVideoId": "2CyTczRdJnA", "embeddable": true, "live": false},
   {"id": "usatoday", "name": "USA TODAY", "category": "news", "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g", "youtubeVideoId": "sfx0uFKiF68", "embeddable": true, "live": false},
   {"id": "forbesnews", "name": "Forbes Breaking News", "category": "news", "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg", "youtubeVideoId": "HHU_VY1cjYA", "embeddable": true, "live": false},
@@ -30,8 +30,8 @@
   {"id": "cnbcintl", "name": "CNBC International Live", "category": "economy", "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw", "youtubeVideoId": "bBJ9AJF2X00", "embeddable": true, "live": false},
   {"id": "univision", "name": "Univision", "category": "broadcast", "youtubeChannelId": "UCcEWv_J2SEU8XO2tEm4Phgw", "live": false, "languages": ["es"]},
   {"id": "cspan", "name": "C-SPAN", "category": "government", "youtubeChannelId": "UCb--64Gl51jIEVE-GLDAVTg", "youtubeVideoId": "VnRJlQYEOow", "embeddable": true, "live": false},
-  {"id": "whitehouse", "name": "The White House", "category": "government", "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ", "youtubeVideoId": "RyCfzP3I4eA", "embeddable": true, "live": false},
-  {"id": "wtop", "name": "WTOP News", "category": "radio", "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA", "youtubeVideoId": "_J9JNpSUV-0", "embeddable": true, "live": true, "liveSince": "2026-11-02T09:00:18Z", "languages": ["en"]},
+  {"id": "whitehouse", "name": "The White House", "category": "government", "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ", "youtubeVideoId": "icuRZ2LXk1E", "embeddable": true, "live": true, "liveSince": "2026-11-02T22:56:45Z"},
+  {"id": "wtop", "name": "WTOP News", "category": "radio", "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA", "youtubeVideoId": "PGuq5mJHfZ8", "embeddable": true, "live": true, "liveSince": "2026-11-03T03:04:46Z", "languages": ["en"]},
   {"id": "wnyc", "name": "WNYC", "category": "radio", "youtubeChannelId": "UCbysmY4hyViQAAYEzOR-uCQ", "live": false, "languages": ["en"]},
   {"id": "nasa", "name": "NASA", "category": "culture", "youtubeChannelId": "UCLA_DiR1FfKNvjuUpBHmylQ", "youtubeVideoId": "ROboUHfPUrU", "embeddable": true, "live": true, "liveSince": "2026-10-22T14:57:23Z", "wikidata": "Q23548"},
   {"id": "telemundotv", "name": "Telemundo", "category": "entertainment", "youtubeChannelId": "UCajrNVKvG2xVlVcSr3GcsDA", "youtubeVideoId": "Ncgtt4pvn3o", "embeddable": true, "live": true, "liveSince": "2026-10-21T21:33:53Z", "languages": ["es"]}

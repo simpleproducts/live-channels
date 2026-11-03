@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026110302,
+ "version": 2026110310,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
   "gb.independent",
+  "gb.mirror",
+  "gb.thesun",
   "gb.bbcnewsarabic",
-  "gb.timesradio",
-  "gb.talksport"
+  "gb.timesradio"
  ],
  "channels": [
   {
@@ -427,7 +428,7 @@
     "en"
    ],
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
-   "youtubeVideoId": "PyjLG2SwDh8",
+   "youtubeVideoId": "ebRnqEt5l8s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11149",
@@ -483,9 +484,9 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "WllFd7oQAYo",
+   "youtubeVideoId": "e85nLNFRrfo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -501,9 +502,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "A2NsdeR2vr4",
+   "youtubeVideoId": "6vtOHyPQb-I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",
@@ -573,9 +574,9 @@
     "en"
    ],
    "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g",
-   "youtubeVideoId": "o5xt5nGGd0I",
+   "youtubeVideoId": "24z8TaXfHts",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11010",
    "description": {
     "en": "supreme legislative body of the United Kingdom",
