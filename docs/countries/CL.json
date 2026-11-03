@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110220,
+ "version": 2026110302,
  "defaultTiles": [
   "cl.24horas",
   "cl.meganoticias",
@@ -10,7 +10,6 @@
   "cl.senado",
   "cl.cooperativa",
   "cl.tvn",
-  "cl.chilevision",
   "cl.canal13"
  ],
  "channels": [
@@ -22,7 +21,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "RDmTczlVPCs",
+   "youtubeVideoId": "YnFYSnNrL_g",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -168,7 +167,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "827J3pTmlNg",
+   "youtubeVideoId": "9I0XnByTekU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -226,7 +225,7 @@
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
    "youtubeVideoId": "X__gRZDSqEM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -320,7 +319,7 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "FpqSpUl2dfg",
+   "youtubeVideoId": "RCkqTKBQyhI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600805",
@@ -458,7 +457,7 @@
    "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA",
    "youtubeVideoId": "zFkc2HhTWDg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2119518",
    "description": {
     "en": "Lower house of Chile's National Congress",
@@ -533,7 +532,7 @@
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
    "youtubeVideoId": "6kchT9YD0mc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -569,7 +568,7 @@
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
    "youtubeVideoId": "DWsUIfd8CNw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -587,7 +586,7 @@
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
    "youtubeVideoId": "aQqOnYFhh0w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

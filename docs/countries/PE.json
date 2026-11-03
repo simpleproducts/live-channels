@@ -1,15 +1,11 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026110220,
+ "version": 2026110302,
  "defaultTiles": [
   "pe.latina",
   "pe.rpp",
-  "pe.willax",
-  "pe.tvperunoticias",
-  "pe.atv",
-  "pe.congreso",
-  "pe.exitosa"
+  "pe.willax"
  ],
  "channels": [
   {
@@ -71,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "BOV4aRpKqNg",
+   "youtubeVideoId": "5ISNvbMdM7M",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -119,7 +115,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "pIYDAmy0-4s",
+   "youtubeVideoId": "UJ3ycHkrj40",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -147,7 +143,7 @@
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
    "youtubeVideoId": "T8iBxOyZZ3k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -171,7 +167,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "h6pbNI6JAbw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -423,7 +419,7 @@
    "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
    "youtubeVideoId": "lfKGx7svgzo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1357543",
    "description": {
     "en": "unicameral body that has assumed legislative power in Peru from 1995 to 2026",
@@ -465,7 +461,7 @@
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
    "youtubeVideoId": "4Bp0fEVNvAc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",

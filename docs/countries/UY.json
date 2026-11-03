@@ -1,14 +1,9 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026110220,
+ "version": 2026110302,
  "defaultTiles": [
-  "uy.ladiaria",
-  "uy.tnu",
-  "uy.carve",
-  "uy.delsol",
-  "uy.sarandi",
-  "uy.canal10"
+  "uy.carve"
  ],
  "channels": [
   {
@@ -55,7 +50,7 @@
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
    "youtubeVideoId": "blDPpgx-jYk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -103,7 +98,7 @@
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
    "youtubeVideoId": "3-OyNnqlnJE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -143,7 +138,7 @@
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
    "youtubeVideoId": "x7HcrC-R3t0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -302,7 +297,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "Pjf_2lkIsAw",
+   "youtubeVideoId": "PN6g3KSRLxg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -329,7 +324,7 @@
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
    "youtubeVideoId": "KkEeJk0kCDU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -347,7 +342,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "f5xFWxPuQxc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -8,7 +8,7 @@
   {"id": "anc", "name": "ANC 24/7", "category": "news", "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg", "youtubeVideoId": "6w0M6K8mZB8", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "oneph", "name": "One PH", "category": "news", "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA", "youtubeVideoId": "2JDSqi8aa2k", "embeddable": true, "live": false},
   {"id": "news5", "name": "News5", "category": "news", "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg", "youtubeVideoId": "9H1HfphrrOc", "embeddable": true, "live": false},
-  {"id": "untv", "name": "UNTV News and Rescue", "category": "news", "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw", "youtubeVideoId": "nRZSb5J4l90", "embeddable": true, "live": true, "liveSince": "2026-11-02T20:41:30Z"},
+  {"id": "untv", "name": "UNTV News and Rescue", "category": "news", "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw", "youtubeVideoId": "nRZSb5J4l90", "embeddable": true, "live": false},
   {"id": "net25", "name": "NET25 News", "category": "news", "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw", "youtubeVideoId": "uZrOHaTGgL0", "embeddable": true, "live": false},
   {"id": "rappler", "name": "Rappler", "category": "news", "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw", "youtubeVideoId": "JxP9kmxg0po", "embeddable": true, "live": false},
   {"id": "inquirer", "name": "INQUIRER.net", "category": "news", "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w", "youtubeVideoId": "B51oxVvV0hg", "embeddable": true, "live": false},

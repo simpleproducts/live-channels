@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110220,
+ "version": 2026110302,
  "defaultTiles": [
-  "ph.untv",
   "ph.dzrh",
   "ph.teleradyo"
  ],
@@ -147,7 +146,7 @@
    "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw",
    "youtubeVideoId": "nRZSb5J4l90",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28452148",
    "description": {
     "en": "television network in the Philippines"

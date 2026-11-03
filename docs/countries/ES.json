@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026110220,
+ "version": 2026110302,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "WyqHa9UKQCQ",
+   "youtubeVideoId": "EP0KTg7DMdY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -186,7 +186,7 @@
     "zh-Hant": "西班牙日报",
     "ar": "شركة إسبانية",
     "nl": "Spaanse krant",
-    "pl": "El Mundo, pełna nazwa El Mundo del Siglo Veintiuno – hiszpański dziennik ogólnoinformacyjny, wydawany od 23 października 1989 w Madrycie.",
+    "pl": "El Mundo, pełna nazwa El Mundo del Siglo Veintiuno – hiszpański dziennik ogólnoinformacyjny, wydawany od 23 października 1989 roku w Madrycie.",
     "sv": "El Mundo, egentligen El Mundo del Siglo Veintiuno, är en spansk dagstidning grundad 1989.",
     "de": "spanische Tageszeitung"
    },
@@ -640,7 +640,7 @@
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
    "youtubeVideoId": "vXfc87lZsfg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -685,7 +685,7 @@
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
    "youtubeVideoId": "7njnbhZQznE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
