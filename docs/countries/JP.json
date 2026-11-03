@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026110310,
+ "version": 2026110318,
  "defaultTiles": [
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
-  "jp.fnn",
   "jp.weathernews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
-  "jp.ytv"
+  "jp.ytv",
+  "jp.ktv"
  ],
  "channels": [
   {
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "UzN8encBA7w",
+   "youtubeVideoId": "Yay6e8LS4PY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,14 +87,14 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "YXhPEBGDjo4",
+   "youtubeVideoId": "VHmW7W2Dr2s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
    "description": {
     "en": "Japanese television news network",
     "zh-Hans": "NTV NEWS24 是日本電視台運營的新聞頻道和新聞網站。該頻道舊名「ncn 」、「NNN24」，自2005年改為現名。NTV NEWS24自1987年10月1日開始播出，是日本第一家專業新聞頻道。NTV NEWS24的早间新闻节目《Oha!4 NEWS LIVE》也在日本電視台等NNN成员台播出。",
-    "ja": "日テレ（日本テレビ）のニュース専門放送局/ニュースサイト",
+    "ja": "日本テレビのニュース専門放送局",
     "zh-Hant": "NTV NEWS24 是日本電視台運營的新聞頻道和新聞網站。該頻道舊名「ncn 」、「NNN24」，自2005年改為現名。NTV NEWS24自1987年10月1日開始播出，是日本第一家專業新聞頻道。NTV NEWS24的早间新闻节目《Oha!4 NEWS LIVE》也在日本電視台等NNN成员台播出。"
    },
    "wikipedia": {
@@ -117,7 +117,7 @@
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
    "youtubeVideoId": "yruAW6AuF_Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q124919956",
    "description": {
     "ja": "フジテレビ系FNN28局のニュースサイト"
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "pOaE9I-lK08",
+   "youtubeVideoId": "1LK2EsJyXlE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -395,11 +395,16 @@
    "youtubeVideoId": "jXQEf8w8yCY",
    "embeddable": true,
    "live": false,
-   "wikidata": null,
-   "description": {},
-   "wikipedia": {},
+   "wikidata": "Q11222889",
+   "description": {
+    "ja": "北海道テレビ放送（HTB）で放送されているニュース番組",
+    "nl": "televisieprogramma"
+   },
+   "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/HTB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9"
+   },
    "logo": null,
-   "website": null,
+   "website": "https://www.htb.co.jp/news/",
    "city": null
   },
   {
@@ -615,7 +620,7 @@
    "description": {
     "en": "radio station in Tokyo",
     "zh-Hans": "以關東地方為廣播範圍的日本廣播電台",
-    "ja": "関東広域圏のラジオ放送局、JRN系列基幹局",
+    "ja": "関東広域圏のラジオ放送局､JRN系列基幹局",
     "ko": "주식회사 TBS 라디오(일본어: 株式会社ティービーエス ラジオ, TBS Radio)는 1951년에 설립된 간토 광역권을 대상으로 방송하는 일본의 라디오방송사이다.",
     "it": "stazione radiofonica giapponese",
     "zh-Hant": "以關東地方為廣播範圍的日本廣播電台",

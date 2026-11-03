@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026110310,
+ "version": 2026110318,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
   "es.elpais",
+  "es.elmundo",
+  "es.europapress",
   "es.3cat324",
   "es.canalsur",
-  "es.eitb",
-  "es.rtvcanarias",
-  "es.telemadrid"
+  "es.eitb"
  ],
  "channels": [
   {
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "9iRHfirihdw",
+   "youtubeVideoId": "vwyK0prHnxo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -169,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-   "youtubeVideoId": "_XhQ9M6wK-M",
+   "youtubeVideoId": "cApSLPBcgWQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -261,9 +261,9 @@
     "es"
    ],
    "youtubeChannelId": "UCh_chnQ7OJPQ8mZ7vbXFpIQ",
-   "youtubeVideoId": "LZBXshvX0_Q",
+   "youtubeVideoId": "YbthARPT1po",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3060712",
    "description": {
     "en": "Spanish news agency",
@@ -395,9 +395,9 @@
     "es"
    ],
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
-   "youtubeVideoId": "JWCZ_cj0KT8",
+   "youtubeVideoId": "pZTr1btmYLc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -532,9 +532,9 @@
     "es"
    ],
    "youtubeChannelId": "UCT3tvU3bVxOa3ZiVD-B7h9g",
-   "youtubeVideoId": "_ccgu4PHBLo",
+   "youtubeVideoId": "n1Vh-fBT6bI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q539149",
    "description": {
     "en": "lower house of the Cortes Generales (legislative branch of Spain's national government)",
@@ -588,7 +588,7 @@
    "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w",
    "youtubeVideoId": "aL70WUD2g8g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q855343",
    "description": {
     "en": "upper house of Spain's parliament, the Cortes Generales",
@@ -638,7 +638,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "A0vaG0Q89o4",
+   "youtubeVideoId": "8MPEroRwRMY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1025113",
@@ -683,9 +683,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "7njnbhZQznE",
+   "youtubeVideoId": "DSP9JlozMLw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -716,9 +716,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ",
-   "youtubeVideoId": "AWjkK2EcClI",
+   "youtubeVideoId": "bLGfSMeaYuo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748488",
    "description": {
     "en": "the Spanish private national radio of the Spanish Catholic Church",
@@ -751,7 +751,7 @@
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
    "youtubeVideoId": "lAOH3OThzYk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

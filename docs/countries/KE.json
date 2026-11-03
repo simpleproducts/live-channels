@@ -1,14 +1,15 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026110310,
+ "version": 2026110318,
  "defaultTiles": [
   "ke.ntv",
   "ke.ktn",
   "ke.k24",
   "ke.citizentv",
+  "ke.tv47",
   "ke.kbc",
-  "ke.radiojambo",
+  "ke.inooro",
   "ke.radiocitizen"
  ],
  "channels": [
@@ -21,7 +22,7 @@
     "sw"
    ],
    "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g",
-   "youtubeVideoId": "c23a-xanPu8",
+   "youtubeVideoId": "IdX4kFFT6I4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -97,9 +98,9 @@
     "sw"
    ],
    "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
-   "youtubeVideoId": "cqfGoOVfq3Y",
+   "youtubeVideoId": "CyqY-rADiy0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -116,7 +117,7 @@
     "sw"
    ],
    "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg",
-   "youtubeVideoId": "nTUbMJbYDQU",
+   "youtubeVideoId": "GEzyPnDjNsM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6392548",
@@ -152,9 +153,9 @@
     "ki"
    ],
    "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw",
-   "youtubeVideoId": "ePqbzgMasbw",
+   "youtubeVideoId": "xmNzgP9B_98",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -209,7 +210,7 @@
    "youtubeChannelId": "UCOsHyjujol57SIFR0imyEKQ",
    "youtubeVideoId": "JB_kaHKNXpg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

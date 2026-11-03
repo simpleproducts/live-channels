@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110310,
+ "version": 2026110318,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
-  "us.livenow",
   "us.newsmax",
   "us.foxweather",
   "us.cbsnews",
   "us.nbcnews",
-  "us.nmasunivision",
-  "us.telemundo"
+  "us.livenow",
+  "us.scripps",
+  "us.ap"
  ],
  "channels": [
   {
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "28dhuNKlZqU",
+   "youtubeVideoId": "74WjpIH4jeE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "R6khjqIPmVA",
+   "youtubeVideoId": "MTsZwFVKRfA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "Y73UPPMQ9Y8",
+   "youtubeVideoId": "QoS5Tr0aM2w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -249,7 +249,7 @@
    "wikipedia": {
     "en": "https://en.wikipedia.org/wiki/LiveNow_from_Fox"
    },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LiveNOW_from_FOX.png?width=256",
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LiveNow_from_Fox_logo_%28vertical%29.svg?width=256",
    "website": "https://www.livenowfox.com/",
    "city": null
   },
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "7OYzRvCXD1A",
+   "youtubeVideoId": "HtDWCGGUQPo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "WqyYmVhLeOI",
+   "youtubeVideoId": "5B4dORVIvp4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -1067,7 +1067,7 @@
    "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ",
    "youtubeVideoId": "icuRZ2LXk1E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q35525",
    "description": {
     "en": "official residence and office of the President of the United States",

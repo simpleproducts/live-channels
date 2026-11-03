@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026110310,
+ "version": 2026110318,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -195,7 +195,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "V3aTwfqGvDk",
+   "youtubeVideoId": "hgqClhJELsg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5915760",
@@ -422,12 +422,15 @@
    "youtubeVideoId": "UB3PtBHUpNg",
    "embeddable": true,
    "live": false,
-   "wikidata": null,
-   "description": {},
+   "wikidata": "Q141979476",
+   "description": {
+    "en": "Argentine stockbroker",
+    "es": "sociedad de bolsa argentina"
+   },
    "wikipedia": {},
    "logo": null,
-   "website": null,
-   "city": null
+   "website": "https://www.rava.com",
+   "city": "Buenos Aires"
   },
   {
    "id": "ar.canal10cba",
@@ -505,7 +508,7 @@
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
    "youtubeVideoId": "MrKwMc-OQys",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -552,7 +555,7 @@
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
    "youtubeVideoId": "0NCMVwL5XQ0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -657,9 +660,9 @@
     "es"
    ],
    "youtubeChannelId": "UCStm2uvQKowSXrnCzTWAn6Q",
-   "youtubeVideoId": "O_G71wJTIbc",
+   "youtubeVideoId": "MPJgY-Q3TB8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2118303",
    "description": {
     "en": "upper house of Argentina Congress",
@@ -829,7 +832,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "q40ezpCjpdg",
+   "youtubeVideoId": "Z88t7qHX_as",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -847,7 +850,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "QSZHGeShEqw",
+   "youtubeVideoId": "v47h6uGOTxo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -883,7 +886,7 @@
     "es"
    ],
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
-   "youtubeVideoId": "wVyAlQ3KcpY",
+   "youtubeVideoId": "T2tSMn05Vm8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -901,9 +904,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
-   "youtubeVideoId": "h9DP4h-J898",
+   "youtubeVideoId": "WywiXMKaFw0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -919,7 +922,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "iX6nkLfPPaM",
+   "youtubeVideoId": "zcKIqn8Vc24",
    "embeddable": true,
    "live": true,
    "wikidata": "Q42912634",
@@ -961,9 +964,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "Nr9B2Uc1H7w",
+   "youtubeVideoId": "fGLU12pv4-g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -979,9 +982,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "qmf3qvYINgY",
+   "youtubeVideoId": "7FVdi9U24Nc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1169,7 +1172,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "UPdilkYvv_s",
+   "youtubeVideoId": "6IKYwVbRDtQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5961729",
@@ -1231,7 +1234,7 @@
    "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
    "youtubeVideoId": "jP9keOTPyCo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5961871",
    "description": {
     "en": "radio station in Argentina",
@@ -1320,7 +1323,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "GciSLCdkKAE",
+   "youtubeVideoId": "M3NMyJMyu_E",
    "embeddable": true,
    "live": true,
    "wikidata": null,

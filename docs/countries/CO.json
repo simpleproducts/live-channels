@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110310,
+ "version": 2026110318,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -10,8 +10,8 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio",
-  "co.lafm"
+  "co.teleantioquianoticias",
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -341,9 +341,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "3kC0s8UV4Q8",
+   "youtubeVideoId": "Dz8AxvqR9UM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -385,9 +385,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": "Prx_7y4LNRo",
+   "youtubeVideoId": "436w1yVpufs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -455,9 +455,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "CrGzm7KD93g",
+   "youtubeVideoId": "MdYQbhvMuiM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -484,7 +484,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "Ploi_uJTNCQ",
+   "youtubeVideoId": "uAoNnWzDMuI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -522,7 +522,7 @@
     "en": "https://en.wikipedia.org/wiki/Radio_Nacional_de_Colombia",
     "es": "https://es.wikipedia.org/wiki/Radio_Nacional_de_Colombia"
    },
-   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Nacional_de_Colombia_Logo_2.svg?width=256",
+   "logo": null,
    "website": "https://www.radionacional.co/",
    "city": null
   },

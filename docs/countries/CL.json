@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110310,
+ "version": 2026110318,
  "defaultTiles": [
   "cl.24horas",
-  "cl.chvnoticias",
   "cl.meganoticias",
-  "cl.cnnchile",
+  "cl.chvnoticias",
   "cl.biobio",
   "cl.senado",
   "cl.cooperativa",
   "cl.tvn",
+  "cl.chilevision",
   "cl.mega"
  ],
  "channels": [
@@ -67,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "c_WrbNgZ_oQ",
+   "youtubeVideoId": "pdcwS8arouU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -105,7 +105,7 @@
    "youtubeChannelId": "UCpOAcjJNAp0Y0fhznRrXIJQ",
    "youtubeVideoId": "XMgQ6A8y0G0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2931771",
    "description": {
     "en": "Chilean television news channel",
@@ -168,7 +168,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "QEFzsVCnn44",
+   "youtubeVideoId": "vNidi4m5ND4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -224,9 +224,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "X__gRZDSqEM",
+   "youtubeVideoId": "VZIdGyr4l6g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -266,7 +266,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "Jz-8yWLynPs",
+   "youtubeVideoId": "0J4HNqoBaB8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597946",
@@ -320,7 +320,7 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "CIAhQZid27M",
+   "youtubeVideoId": "K5ysOeOFV6o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600805",
@@ -374,9 +374,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZnboDa_k5jxFCGp6jVhpUQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "FVQlz2t52zE",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q3547157",
    "description": {
     "en": "Chilean television channel, formerly known as UCV Televisión",
@@ -504,7 +504,7 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "kneMVnmiILY",
+   "youtubeVideoId": "gn2CpuYPmIo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5653556",
@@ -531,7 +531,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
-   "youtubeVideoId": "0XSRgqBs_48",
+   "youtubeVideoId": "H-3-knBd1Wg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "A6O0Ke_3LLw",
+   "youtubeVideoId": "gy1_VaPY-I4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -621,7 +621,7 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": "pXOtkcbE4A8",
+   "youtubeVideoId": "sv_6YIDYLgM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -641,7 +641,7 @@
    "youtubeChannelId": "UCnN6wrS3nloRl0xB6Qglb0g",
    "youtubeVideoId": "jPZfgNeSQS0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

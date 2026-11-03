@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026110310,
+ "version": 2026110318,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
+  "mx.heraldo",
   "mx.adnnoticias",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.canalonce"
+  "mx.canalonce",
+  "mx.imagentv",
+  "mx.canalcongreso"
  ],
  "channels": [
   {
@@ -136,9 +139,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "bCEiAGNuWq4",
+   "youtubeVideoId": "ASDznzGUQkE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -188,7 +191,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
-   "youtubeVideoId": "H_TCEThlbAw",
+   "youtubeVideoId": "W_-RA3YCxTE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -237,12 +240,14 @@
    "description": {
     "en": "Mexican daily newspaper",
     "es": "periódico mexicano especializado en economía y finanzas",
+    "ja": "『エル・フィナンシエロ』 は、ビジネスや金融市場について扱っている、メキシコの日刊全国紙。Grupo Multimedia Lauman, S.A.P.I.",
     "fr": "périodique mexicain",
     "nl": "Mexicaanse krant"
    },
    "wikipedia": {
     "en": "https://en.wikipedia.org/wiki/El_Financiero",
-    "es": "https://es.wikipedia.org/wiki/El_Financiero"
+    "es": "https://es.wikipedia.org/wiki/El_Financiero",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%82%A8%E3%83%AD"
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Financiero_Logo.svg?width=256",
    "website": "http://www.elfinanciero.com.mx/",
@@ -286,7 +291,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "j-SYOk9jfgo",
+   "youtubeVideoId": "3eT7e-HCATM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -329,9 +334,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "5k-LmT4mSFg",
+   "youtubeVideoId": "xKLgKWlm3JU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -461,9 +466,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "_UAijRFHjs4",
+   "youtubeVideoId": "HjQ65ZDqS8s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -485,9 +490,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "iAyKqm3KG7E",
+   "youtubeVideoId": "DFl6Yv53zUY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -564,9 +569,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "dEB7QLGNLso",
+   "youtubeVideoId": "2iXRRreEETY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

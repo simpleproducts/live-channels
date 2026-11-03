@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026102900,
+ "version": 2026110318,
  "defaultTiles": [
   "tr.cnnturk",
-  "tr.trthaber",
   "tr.haberturk",
   "tr.ntv",
   "tr.sozcu",
   "tr.ahaber",
   "tr.tgrthaber",
   "tr.haberglobal",
-  "tr.tv100"
+  "tr.tv100",
+  "tr.24tv"
  ],
  "channels": [
   {
@@ -70,7 +70,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCBgTP2LOFVPmq15W-RH-WXA",
-   "youtubeVideoId": "CLQoypiXzQs",
+   "youtubeVideoId": "SiB4y9mXhHI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q535725",
@@ -470,7 +470,7 @@
    "youtubeChannelId": "UCFoe1tg8MuHjRzmqXtV816A",
    "youtubeVideoId": "b94j0fwsPGQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1723591",
    "description": {
     "en": "Turkey-based cable television channel",
