@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110415,
+ "version": 2026110421,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
+  "us.nbcnews",
   "us.newsmax",
   "us.foxweather",
+  "us.foxnews",
   "us.cbsnews",
-  "us.nbcnews",
   "us.livenow",
-  "us.scripps",
-  "us.pbsnewshour"
+  "us.scripps"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "yifzmO4ueG8",
+   "youtubeVideoId": "B9i_01yEgt0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "DJD3DXNsDM8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -547,7 +547,7 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "8zL4hAL7108",
+   "youtubeVideoId": "GvWSyescLv8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q166419",
@@ -659,9 +659,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA",
-   "youtubeVideoId": "2CyTczRdJnA",
+   "youtubeVideoId": "Oe0crPSfVDE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7739683",
    "description": {
     "en": "newspaper in Washington, D.C.",
@@ -867,7 +867,7 @@
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
    "youtubeVideoId": "g1dh9rWQKfQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",

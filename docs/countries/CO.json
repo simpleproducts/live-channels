@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110415,
+ "version": 2026110421,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.semana",
   "co.caracoltv",
   "co.rcnradio",
   "co.citytv",
-  "co.bluradio"
+  "co.bluradio",
+  "co.teleantioquia"
  ],
  "channels": [
   {
@@ -166,7 +166,7 @@
    "youtubeChannelId": "UC4oQAvXFuNlKivYjUynQKTA",
    "youtubeVideoId": "NSYi-0wIEAY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -359,9 +359,9 @@
     "es"
    ],
    "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "v-0JROewAPw",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q6140409",
    "description": {
     "en": "Colombian television network",
@@ -455,9 +455,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "MdYQbhvMuiM",
+   "youtubeVideoId": "TNcPeBMIR8E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -484,9 +484,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "A3IfLilUSdo",
+   "youtubeVideoId": "2u9qp7-zAx0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -552,9 +552,9 @@
     "es"
    ],
    "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
-   "youtubeVideoId": "laoR1vwkUDA",
+   "youtubeVideoId": "n5lOeK-iiUY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -572,7 +572,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "I4iJ6-P72UQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

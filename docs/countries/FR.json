@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026110415,
+ "version": 2026110421,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -522,7 +522,7 @@
     "fr"
    ],
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
-   "youtubeVideoId": "42z2nlwhliw",
+   "youtubeVideoId": "bly31c5uuhs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -542,7 +542,7 @@
    "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ",
    "youtubeVideoId": "aaNCG5BXisQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3205960",
    "description": {
     "en": "French National Assembly TV channel",
@@ -565,7 +565,7 @@
    "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA",
    "youtubeVideoId": "wrWdVTpWZec",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3410428",
    "description": {
     "en": "French parliamentary television channel",
@@ -714,9 +714,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A",
-   "youtubeVideoId": "HibuQyrM_Rw",
+   "youtubeVideoId": "zL1e05Bf4xU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1961361",
    "description": {
     "en": "French radio station",
