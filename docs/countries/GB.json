@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026110400,
+ "version": 2026110415,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.independent",
+  "gb.reuters",
   "gb.mirror",
   "gb.thesun",
-  "gb.bbcnewsarabic",
-  "gb.timesradio"
+  "gb.express",
+  "gb.bbcnewsarabic"
  ],
  "channels": [
   {
@@ -172,9 +172,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "xhdLo8uJ3bI",
+   "youtubeVideoId": "w0279uqz5jE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -430,7 +430,7 @@
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
    "youtubeVideoId": "ebRnqEt5l8s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -484,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "Bb8ML-J5XnA",
+   "youtubeVideoId": "DtTIWxbktJM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -502,7 +502,7 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "dO2ffaw-2mM",
+   "youtubeVideoId": "XEc1RYs9M3I",
    "embeddable": true,
    "live": true,
    "wikidata": "Q208875",
@@ -556,9 +556,9 @@
     "en"
    ],
    "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA",
-   "youtubeVideoId": "aUbqC0ZKw9s",
+   "youtubeVideoId": "0yS1kpO6IOM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -574,9 +574,9 @@
     "en"
    ],
    "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g",
-   "youtubeVideoId": "24z8TaXfHts",
+   "youtubeVideoId": "KtsQSLFL9zA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11010",
    "description": {
     "en": "supreme legislative body of the United Kingdom",
@@ -650,7 +650,7 @@
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
    "youtubeVideoId": "0FoWa0IK-WQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

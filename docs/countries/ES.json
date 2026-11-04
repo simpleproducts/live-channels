@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026110400,
+ "version": 2026110415,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
-  "es.libertaddigital",
   "es.elpais",
+  "es.libertaddigital",
   "es.elmundo",
   "es.3cat324",
   "es.canalsur",
@@ -638,9 +638,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "8MPEroRwRMY",
+   "youtubeVideoId": "LpBlwp1RUmQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",

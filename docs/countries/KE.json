@@ -1,11 +1,15 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026110400,
+ "version": 2026110415,
  "defaultTiles": [
   "ke.ntv",
+  "ke.k24",
+  "ke.citizentv",
   "ke.ktn",
-  "ke.k24"
+  "ke.tv47",
+  "ke.parliament",
+  "ke.radiocitizen"
  ],
  "channels": [
   {
@@ -17,9 +21,9 @@
     "sw"
    ],
    "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g",
-   "youtubeVideoId": "IdX4kFFT6I4",
+   "youtubeVideoId": "SrG_0iwxJAA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -55,7 +59,7 @@
     "sw"
    ],
    "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg",
-   "youtubeVideoId": "E7SkI8eoZNU",
+   "youtubeVideoId": "en3Z-kvXmgc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -93,9 +97,9 @@
     "sw"
    ],
    "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
-   "youtubeVideoId": "CyqY-rADiy0",
+   "youtubeVideoId": "Cvk52ViG3uE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -185,9 +189,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXuseB7juWB7DIgTJcwtHFQ",
-   "youtubeVideoId": "96Sjgn2v1Y4",
+   "youtubeVideoId": "qHkDR9iVprc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -221,9 +225,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCd5mKY1HUcDBySXgK1lYUvg",
-   "youtubeVideoId": "4G9B2LyUMz4",
+   "youtubeVideoId": "pF6SCEl22ww",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
