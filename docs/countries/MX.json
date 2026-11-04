@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026110400,
+ "version": 2026110406,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
-  "mx.multimedios",
-  "mx.elfinanciero",
-  "mx.radioformula"
+  "mx.multimedios"
  ],
  "channels": [
   {
@@ -231,7 +229,7 @@
    "youtubeChannelId": "UCHEZcUuC5ulaAFDq1LDqdTw",
    "youtubeVideoId": "bRkuEGNmSW0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42911288",
    "description": {
     "en": "Mexican daily newspaper",
@@ -488,7 +486,7 @@
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
    "youtubeVideoId": "zEhz93dTm6E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",

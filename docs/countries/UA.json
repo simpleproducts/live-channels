@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026110400,
+ "version": 2026110406,
  "defaultTiles": [
   "ua.suspilne",
   "ua.espreso",
-  "ua.5kanal",
   "ua.united24",
   "ua.tsn",
+  "ua.5kanal",
   "ua.freedom",
   "ua.rada"
  ],
@@ -215,7 +215,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
-   "youtubeVideoId": "zcCiiuqLQAA",
+   "youtubeVideoId": "r7lUxsanOAM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2987894",

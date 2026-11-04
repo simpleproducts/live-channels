@@ -1,17 +1,14 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110400,
+ "version": 2026110406,
  "defaultTiles": [
-  "br.recordnews",
   "br.jovempan",
+  "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
-  "br.metropoles",
   "br.canalgov",
-  "br.gaucha",
-  "br.itatiaia",
-  "br.bandeirantes"
+  "br.gaucha"
  ],
  "channels": [
   {
@@ -22,7 +19,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "YaBxImywK4s",
+   "youtubeVideoId": "PrarBEeoW3s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3056409",
@@ -52,7 +49,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "F_sAMm-Z5s4",
+   "youtubeVideoId": "iNi0jDCLaow",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +133,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "MqIJrziJ2VA",
+   "youtubeVideoId": "phYVrjY1KCk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -201,7 +198,7 @@
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
    "youtubeVideoId": "mkncoZUNLIQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -523,7 +520,7 @@
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
    "youtubeVideoId": "iLEg0qDq5Xk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10365899",
    "description": {
     "en": "Brazilian radio station in Minas Gerais",
@@ -549,7 +546,7 @@
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
    "youtubeVideoId": "Ar5SgSoe3GM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",
