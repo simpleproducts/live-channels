@@ -6,7 +6,7 @@
   {"id": "skynews", "name": "Sky News", "category": "news", "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ", "youtubeVideoId": "umLWFz4izTM", "embeddable": true, "live": true, "liveSince": "2026-10-19T17:27:56Z"},
   {"id": "bbcnews", "name": "BBC News", "category": "news", "youtubeChannelId": "UC16niRr50-MSBwiO3YDb3RA", "youtubeVideoId": "PmmEevogFZg", "embeddable": true, "live": true, "liveSince": "2026-10-15T10:00:14Z"},
   {"id": "gbnews", "name": "GB News", "category": "news", "youtubeChannelId": "UC0vn8ISa4LKMunLbzaXLnOQ", "youtubeVideoId": "EDbWwVR7i9Q", "embeddable": true, "live": true, "liveSince": "2026-10-12T11:02:06Z"},
-  {"id": "reuters", "name": "Reuters", "category": "news", "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ", "youtubeVideoId": "xhdLo8uJ3bI", "embeddable": true, "live": true, "liveSince": "2026-11-03T17:41:48Z"},
+  {"id": "reuters", "name": "Reuters", "category": "news", "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ", "youtubeVideoId": "xhdLo8uJ3bI", "embeddable": true, "live": false},
   {"id": "talktv", "name": "TalkTV", "category": "news", "youtubeChannelId": "UCm0yTweyAa0PwEIp0l3N_gA", "youtubeVideoId": "DFYaNjzI1aI", "embeddable": true, "live": true, "liveSince": "2024-04-27T09:53:01Z"},
   {"id": "bbcnewsarabic", "name": "BBC News Arabic", "category": "news", "youtubeChannelId": "UCelk6aHijZq-GJBBB9YpReA", "youtubeVideoId": "O1pGmVtj2Y8", "embeddable": true, "live": true, "liveSince": "2026-01-08T12:30:32Z", "languages": ["ar"], "wikidata": "Q973341"},
   {"id": "telegraph", "name": "The Telegraph", "category": "news", "youtubeChannelId": "UCPgLNge0xqQHWM5B5EFH9Cg", "youtubeVideoId": "3ZEHEJZ-g_Y", "embeddable": true, "live": false},
@@ -14,11 +14,11 @@
   {"id": "itvnews", "name": "ITV News", "category": "news", "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A", "youtubeVideoId": "IOK0wv5KiN8", "embeddable": true, "live": false},
   {"id": "independent", "name": "The Independent", "category": "news", "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ", "youtubeVideoId": "ebRnqEt5l8s", "embeddable": true, "live": true, "liveSince": "2026-11-03T10:36:17Z", "wikidata": "Q11149"},
   {"id": "mirror", "name": "The Mirror", "category": "news", "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q", "youtubeVideoId": "Bb8ML-J5XnA", "embeddable": true, "live": true, "liveSince": "2026-11-03T12:21:02Z"},
-  {"id": "thesun", "name": "The Sun", "category": "news", "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g", "youtubeVideoId": "6vtOHyPQb-I", "embeddable": true, "live": true, "liveSince": "2026-11-03T10:36:33Z"},
+  {"id": "thesun", "name": "The Sun", "category": "news", "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g", "youtubeVideoId": "dO2ffaw-2mM", "embeddable": true, "live": true, "liveSince": "2026-11-03T18:48:41Z"},
   {"id": "express", "name": "Daily Express", "category": "news", "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA", "youtubeVideoId": "aUbqC0ZKw9s", "embeddable": true, "live": false},
   {"id": "parliament", "name": "UK Parliament", "category": "government", "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g", "youtubeVideoId": "24z8TaXfHts", "embeddable": true, "live": false},
   {"id": "timesradio", "name": "Times Radio", "category": "radio", "youtubeChannelId": "UCF-VP3b3oH0XASqsLI5rnLw", "youtubeVideoId": "3EaWrWqt7dk", "embeddable": true, "live": true, "liveSince": "2026-08-27T12:03:23Z"},
-  {"id": "lbc", "name": "LBC", "category": "radio", "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw", "youtubeVideoId": "rhmwU0TNWes", "embeddable": true, "live": true, "liveSince": "2026-11-03T18:00:35Z", "wikidata": "Q6457273"},
+  {"id": "lbc", "name": "LBC", "category": "radio", "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw", "youtubeVideoId": "0FoWa0IK-WQ", "embeddable": true, "live": true, "liveSince": "2026-11-03T22:00:38Z", "wikidata": "Q6457273"},
   {"id": "talksport", "name": "talkSPORT", "category": "radio", "youtubeChannelId": "UCWw6scNyopJ0yjMu1SyOEyw", "youtubeVideoId": "uLWEssCrXYc", "embeddable": true, "live": true, "liveSince": "2026-05-27T11:05:58Z", "languages": ["en"]}
  ]
 }

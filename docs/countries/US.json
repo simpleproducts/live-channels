@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110318,
+ "version": 2026110400,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.scripps",
-  "us.ap"
+  "us.nmasunivision",
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "MTsZwFVKRfA",
+   "youtubeVideoId": "b043z24ErQk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "QoS5Tr0aM2w",
+   "youtubeVideoId": "8o2i_P2uyvA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "HtDWCGGUQPo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "5B4dORVIvp4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -1123,7 +1123,7 @@
    "youtubeChannelId": "UCIFD9TMCLBXvJJMe2OpCtCA",
    "youtubeVideoId": "PGuq5mJHfZ8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

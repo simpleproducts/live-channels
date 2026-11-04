@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026110318,
+ "version": 2026110400,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.reuters",
   "gb.independent",
   "gb.mirror",
   "gb.thesun",
-  "gb.bbcnewsarabic"
+  "gb.bbcnewsarabic",
+  "gb.timesradio"
  ],
  "channels": [
   {
@@ -174,7 +174,7 @@
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
    "youtubeVideoId": "xhdLo8uJ3bI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -502,7 +502,7 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "6vtOHyPQb-I",
+   "youtubeVideoId": "dO2ffaw-2mM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q208875",
@@ -648,7 +648,7 @@
     "en"
    ],
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
-   "youtubeVideoId": "rhmwU0TNWes",
+   "youtubeVideoId": "0FoWa0IK-WQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6457273",

@@ -3,7 +3,7 @@
  "languages": ["ja"],
  "defaultTiles": ["ann", "tbs", "ntvnews", "fnn", "nhkworld", "weathernews", "tvtokyobiz", "mbs", "htb"],
  "channels": [
-  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "TfkeeCXurI0", "embeddable": true, "live": true, "liveSince": "2026-11-03T10:06:46Z"},
+  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "YwI3I0kf5fE", "embeddable": true, "live": true, "liveSince": "2026-11-03T23:52:26Z"},
   {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "Yay6e8LS4PY", "embeddable": true, "live": true, "liveSince": "2026-11-03T12:00:06Z"},
   {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "VHmW7W2Dr2s", "embeddable": true, "live": true, "liveSince": "2026-11-03T15:48:53Z"},
   {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "yruAW6AuF_Q", "embeddable": true, "live": false},
