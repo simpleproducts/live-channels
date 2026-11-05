@@ -1,12 +1,14 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026110502,
+ "version": 2026110510,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
+  "de.phoenix",
   "de.dwnews",
-  "de.dwespanol"
+  "de.dwespanol",
+  "de.bundestag"
  ],
  "channels": [
   {
@@ -17,7 +19,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "WxlwxY_ZgiA",
+   "youtubeVideoId": "EdO0cbye0rA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -59,9 +61,9 @@
     "de"
    ],
    "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
-   "youtubeVideoId": "BEE1kxFsTm4",
+   "youtubeVideoId": "So0nyTupsvw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3381361",
    "description": {
     "en": "television station in Germany",
@@ -368,9 +370,9 @@
     "de"
    ],
    "youtubeChannelId": "UCbh5D3EdIHP4YQA5X-eK1ug",
-   "youtubeVideoId": "nl3LOMLWjXU",
+   "youtubeVideoId": "76uPv-Hn8fY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q154797",
    "description": {
     "en": "legislature of Germany; parliament",

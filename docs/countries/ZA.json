@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026110415,
+ "version": 2026110510,
  "defaultTiles": [
-  "za.sabcnews"
+  "za.sabcnews",
+  "za.safm"
  ],
  "channels": [
   {
@@ -196,9 +197,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w",
-   "youtubeVideoId": "x3o9yqgc8B0",
+   "youtubeVideoId": "Ui8iWmorTeM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

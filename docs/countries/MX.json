@@ -1,17 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026110502,
+ "version": 2026110510,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
-  "mx.nmas",
   "mx.multimedios",
   "mx.canalonce",
   "mx.imagentv",
-  "mx.radioformula",
-  "mx.imagenradio",
-  "mx.mvsnoticias"
+  "mx.imagenradio"
  ],
  "channels": [
   {
@@ -42,7 +39,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "8-VlGXrrxTk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -291,7 +288,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "tVGOiY9zShs",
+   "youtubeVideoId": "I82bIG-XNiM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -334,7 +331,7 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "yp1SJ2-dv7E",
+   "youtubeVideoId": "JL6Dij3TKmA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27031787",
@@ -492,7 +489,7 @@
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
    "youtubeVideoId": "VRkXweVHpeg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -533,7 +530,7 @@
     "es"
    ],
    "youtubeChannelId": "UCB0BUmdBOrH9mYU2ebs1eWA",
-   "youtubeVideoId": "FhEEYCrFFlk",
+   "youtubeVideoId": "W12432wlI4o",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -553,7 +550,7 @@
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
    "youtubeVideoId": "1tD0qRJm8SU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
