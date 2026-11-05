@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026110510,
+ "version": 2026110518,
  "defaultTiles": [
   "tr.cnnturk",
   "tr.trthaber",
@@ -470,7 +470,7 @@
    "youtubeChannelId": "UCFoe1tg8MuHjRzmqXtV816A",
    "youtubeVideoId": "iwUzq-2pNlg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1723591",
    "description": {
     "en": "Turkey-based cable television channel",
@@ -564,7 +564,7 @@
    "youtubeChannelId": "UCJEn13vDGcJTyqe-hdpFP-g",
    "youtubeVideoId": "WqEABU_04lg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16875533",
    "description": {
     "en": "Turkish public broadcasting station",

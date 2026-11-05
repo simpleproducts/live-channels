@@ -1,13 +1,12 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026110510,
+ "version": 2026110518,
  "defaultTiles": [
   "uy.ladiaria",
-  "uy.tnu",
   "uy.carve",
-  "uy.sarandi",
-  "uy.universal"
+  "uy.delsol",
+  "uy.sarandi"
  ],
  "channels": [
   {
@@ -102,7 +101,7 @@
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
    "youtubeVideoId": "M23W2V110f0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -301,7 +300,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "pODX6kGIxMY",
+   "youtubeVideoId": "QPiopN2oEOI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -326,9 +325,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "6Ln7wgOBX7o",
+   "youtubeVideoId": "l6b0AlGPemo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,7 +363,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "Wbdrgt3s2ws",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

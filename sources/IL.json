@@ -3,7 +3,7 @@
  "languages": ["he"],
  "defaultTiles": [],
  "channels": [
-  {"id": "i24en", "name": "i24NEWS English", "category": "news", "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg", "youtubeVideoId": "TTYBFICiHfQ", "embeddable": true, "live": false, "languages": ["en"]},
+  {"id": "i24en", "name": "i24NEWS English", "category": "news", "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg", "youtubeVideoId": "-x_KYDplwig", "embeddable": true, "live": true, "liveSince": "2026-11-05T12:59:20Z", "languages": ["en"]},
   {"id": "i24fr", "name": "i24NEWS Français", "category": "news", "youtubeChannelId": "UCgPYsPyGhhQJQ9zOUQDWDMA", "youtubeVideoId": "0g7grDa_N-Y", "embeddable": true, "live": true, "liveSince": "2026-10-29T16:00:10Z", "languages": ["fr"]},
   {"id": "i24ar", "name": "i24NEWS Arabic", "category": "news", "youtubeChannelId": "UC4LYR3v6kOIgEjrVARODP3w", "youtubeVideoId": "RTk9p7OUChs", "embeddable": true, "live": false, "languages": ["ar"]},
   {"id": "i24he", "name": "i24NEWS עברית", "category": "news", "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ", "youtubeVideoId": "752GlT6jVw8", "embeddable": true, "live": true, "liveSince": "2026-11-05T10:00:23Z"},

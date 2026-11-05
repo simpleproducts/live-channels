@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026110510,
+ "version": 2026110518,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
   "gb.reuters",
-  "gb.telegraph",
   "gb.itvnews",
-  "gb.independent",
-  "gb.mirror"
+  "gb.thesun",
+  "gb.bbcnewsarabic",
+  "gb.timesradio"
  ],
  "channels": [
   {
@@ -172,7 +172,7 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "3d6yyQdhxXU",
+   "youtubeVideoId": "mxP8xUDm43o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q130879",
@@ -300,7 +300,7 @@
    "youtubeChannelId": "UCPgLNge0xqQHWM5B5EFH9Cg",
    "youtubeVideoId": "LkNh8lNqQPs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q192621",
    "description": {
     "en": "British daily broadsheet newspaper",
@@ -390,7 +390,7 @@
     "en"
    ],
    "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A",
-   "youtubeVideoId": "gb37M5AZlg0",
+   "youtubeVideoId": "ZzztsPsYKrI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4189762",
@@ -430,7 +430,7 @@
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
    "youtubeVideoId": "uceYMxIBTFI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -486,7 +486,7 @@
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
    "youtubeVideoId": "5PaVV4yHy6g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -502,7 +502,7 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "tB0vyBSgeXU",
+   "youtubeVideoId": "la-IpgITiuU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q208875",
@@ -558,7 +558,7 @@
    "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA",
    "youtubeVideoId": "EFJ9EyhtZMc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -648,7 +648,7 @@
     "en"
    ],
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
-   "youtubeVideoId": "K9-R0piwJm0",
+   "youtubeVideoId": "wr2IcNU0btQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6457273",

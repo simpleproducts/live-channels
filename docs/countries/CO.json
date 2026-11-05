@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110510,
+ "version": 2026110518,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
   "co.caracoltv",
-  "co.rcnradio",
   "co.citytv",
-  "co.bluradio",
-  "co.lafm"
+  "co.rcnradio",
+  "co.teleantioquianoticias",
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -341,9 +341,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "60Ig5eC7ADY",
+   "youtubeVideoId": "L5mVjiiAAAs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -385,9 +385,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": "436w1yVpufs",
+   "youtubeVideoId": "Wv2MRtkeQCE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -455,9 +455,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "vzBlLNoyztc",
+   "youtubeVideoId": "jUO59RwuOwA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -484,7 +484,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "O9m-Pkl6yPc",
+   "youtubeVideoId": "gSYDS0ZpLf0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -570,9 +570,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
-   "youtubeVideoId": "I4iJ6-P72UQ",
+   "youtubeVideoId": "i29C5Max7yk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

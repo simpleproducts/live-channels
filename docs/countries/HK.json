@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026110510,
+ "version": 2026110518,
  "defaultTiles": [
-  "hk.phoenixtv",
-  "hk.cablenews"
+  "hk.phoenixtv"
  ],
  "channels": [
   {
@@ -53,7 +52,7 @@
    "youtubeChannelId": "UC_q7e5XYJB0JDGagcF0KW0w",
    "youtubeVideoId": "6LPZwcJWdK8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
