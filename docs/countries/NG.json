@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026110421,
+ "version": 2026110502,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
-  "ng.ntalive",
   "ng.ait"
  ],
  "channels": [
@@ -79,7 +78,7 @@
    "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg",
    "youtubeVideoId": "lKY44yFQA-k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

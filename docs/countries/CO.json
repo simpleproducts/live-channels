@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110421,
+ "version": 2026110502,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -11,7 +11,7 @@
   "co.rcnradio",
   "co.citytv",
   "co.bluradio",
-  "co.teleantioquia"
+  "co.caracolradio"
  ],
  "channels": [
   {
@@ -361,7 +361,7 @@
    "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
    "youtubeVideoId": "v-0JROewAPw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6140409",
    "description": {
     "en": "Colombian television network",
@@ -455,7 +455,7 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "TNcPeBMIR8E",
+   "youtubeVideoId": "vzBlLNoyztc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4382447",
@@ -484,7 +484,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "2u9qp7-zAx0",
+   "youtubeVideoId": "ubofYe_o9aQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -554,7 +554,7 @@
    "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
    "youtubeVideoId": "n5lOeK-iiUY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -608,7 +608,7 @@
    "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A",
    "youtubeVideoId": "q6jrvdg7lL4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

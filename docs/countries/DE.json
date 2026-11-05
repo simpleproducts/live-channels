@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026110421,
+ "version": 2026110502,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.phoenix",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -62,7 +61,7 @@
    "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
    "youtubeVideoId": "BEE1kxFsTm4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3381361",
    "description": {
     "en": "television station in Germany",

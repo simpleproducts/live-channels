@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026110421,
+ "version": 2026110502,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
@@ -40,7 +40,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "e1DlG7UcygA",
+   "youtubeVideoId": "8-VlGXrrxTk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -291,7 +291,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "9630VVEw8W8",
+   "youtubeVideoId": "tVGOiY9zShs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -334,7 +334,7 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "pUpEV2BC_6M",
+   "youtubeVideoId": "yp1SJ2-dv7E",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27031787",
@@ -490,7 +490,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "43y8pPL1AVQ",
+   "youtubeVideoId": "VRkXweVHpeg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -571,7 +571,7 @@
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
    "youtubeVideoId": "_mPHbFW8FM0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
