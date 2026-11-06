@@ -3,9 +3,9 @@
  "languages": ["ja"],
  "defaultTiles": ["ann", "tbs", "ntvnews", "fnn", "nhkworld", "weathernews", "tvtokyobiz", "mbs", "htb"],
  "channels": [
-  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "0tz4jJstruA", "embeddable": true, "live": true, "liveSince": "2026-11-05T09:38:34Z"},
-  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "xEhTj-0cQVY", "embeddable": true, "live": true, "liveSince": "2026-11-05T12:01:01Z"},
-  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "fyiEvmhgFlo", "embeddable": true, "live": true, "liveSince": "2026-11-05T16:02:16Z"},
+  {"id": "ann", "name": "ANNnewsCH", "category": "news", "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ", "youtubeVideoId": "oE5JtsGK9zA", "embeddable": true, "live": true, "liveSince": "2026-11-05T23:59:30Z"},
+  {"id": "tbs", "name": "TBS NEWS DIG", "category": "news", "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA", "youtubeVideoId": "QBzNxP-m-3E", "embeddable": true, "live": true, "liveSince": "2026-11-05T23:45:27Z"},
+  {"id": "ntvnews", "name": "日テレNEWS", "category": "news", "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ", "youtubeVideoId": "D_fz8Yojbew", "embeddable": true, "live": true, "liveSince": "2026-11-06T00:08:19Z"},
   {"id": "fnn", "name": "FNNプライムオンライン", "category": "news", "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw", "youtubeVideoId": "hUKqWqKi-RA", "embeddable": true, "live": true, "liveSince": "2026-11-05T08:00:07Z"},
   {"id": "nhkworld", "name": "NHK WORLD-JAPAN", "category": "news", "youtubeChannelId": "UCSPEjw8F2nQDtmUKPFNF7_A", "youtubeVideoId": "IimtbuqYIE8", "embeddable": true, "live": true, "liveSince": "2026-09-02T05:10:50Z", "languages": ["en"]},
   {"id": "weathernews", "name": "ウェザーニュース", "category": "news", "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ", "youtubeVideoId": "0qIZzrYlXdc", "embeddable": true, "live": true, "liveSince": "2026-11-05T16:03:03Z"},

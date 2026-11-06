@@ -1,15 +1,13 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026110518,
+ "version": 2026110600,
  "defaultTiles": [
   "py.abctv",
   "py.npy",
-  "py.gen",
   "py.monumental",
   "py.telefuturo",
-  "py.nanduti",
-  "py.caacupe"
+  "py.nanduti"
  ],
  "channels": [
   {
@@ -87,7 +85,7 @@
    "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA",
    "youtubeVideoId": "GwxpoLPaUqM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -234,7 +232,7 @@
    "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA",
    "youtubeVideoId": "LVRvQuLwBZU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

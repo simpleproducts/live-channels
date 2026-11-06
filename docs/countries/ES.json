@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026110518,
+ "version": 2026110600,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
   "es.elpais",
-  "es.europapress",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.rtvcanarias"
+  "es.rtvcanarias",
+  "es.telemadrid"
  ],
  "channels": [
   {
@@ -263,7 +263,7 @@
    "youtubeChannelId": "UCh_chnQ7OJPQ8mZ7vbXFpIQ",
    "youtubeVideoId": "Xk6VpDFZ0zI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3060712",
    "description": {
     "en": "Spanish news agency",
@@ -683,7 +683,7 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "uZhox0DAADI",
+   "youtubeVideoId": "diWRepIWdLo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2748448",

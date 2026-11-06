@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026110518,
+ "version": 2026110600,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.zdfheute",
   "de.dwnews",
   "de.dwespanol",
   "de.bundestag"
@@ -19,7 +18,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "EdO0cbye0rA",
+   "youtubeVideoId": "XouqRFnYF2U",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -144,7 +143,7 @@
    "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ",
    "youtubeVideoId": "2aQYIyyo9PM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q132108",
    "description": {
     "en": "German TV news program",

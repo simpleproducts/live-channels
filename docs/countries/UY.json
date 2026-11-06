@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026110518,
+ "version": 2026110600,
  "defaultTiles": [
   "uy.ladiaria",
   "uy.carve",
-  "uy.delsol",
-  "uy.sarandi"
+  "uy.canal10"
  ],
  "channels": [
   {
@@ -139,9 +138,9 @@
     "es"
    ],
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
-   "youtubeVideoId": "x7HcrC-R3t0",
+   "youtubeVideoId": "HxeDjfGO3pU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -300,7 +299,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "QPiopN2oEOI",
+   "youtubeVideoId": "Lvyevgv4WMA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -327,7 +326,7 @@
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
    "youtubeVideoId": "l6b0AlGPemo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -345,7 +344,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "h_R0e2w1Pjg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

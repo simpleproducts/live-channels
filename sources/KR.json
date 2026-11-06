@@ -6,12 +6,12 @@
   {"id": "ytn", "name": "YTN", "category": "news", "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w", "youtubeVideoId": "99qKCdEdrIU", "embeddable": true, "live": true, "liveSince": "2026-11-05T13:00:26Z"},
   {"id": "yonhap", "name": "연합뉴스TV", "category": "news", "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg", "youtubeVideoId": "SMhbV8NFni4", "embeddable": true, "live": true, "liveSince": "2026-11-05T14:05:19Z"},
   {"id": "mbc", "name": "MBCNEWS", "category": "news", "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw", "youtubeVideoId": "lw1z-bg5lJI", "embeddable": true, "live": true, "liveSince": "2026-11-05T15:12:15Z"},
-  {"id": "kbs", "name": "KBS News", "category": "news", "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A", "youtubeVideoId": "Xc8yeJax3Gg", "embeddable": true, "live": true, "liveSince": "2026-11-05T10:45:42Z"},
-  {"id": "sbs", "name": "SBS 뉴스", "category": "news", "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw", "youtubeVideoId": "lFlNDoYA-00", "embeddable": true, "live": true, "liveSince": "2026-11-05T12:06:49Z"},
+  {"id": "kbs", "name": "KBS News", "category": "news", "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A", "youtubeVideoId": "Cg7QAy84nSw", "embeddable": true, "live": true, "liveSince": "2026-11-05T23:56:05Z"},
+  {"id": "sbs", "name": "SBS 뉴스", "category": "news", "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw", "youtubeVideoId": "P5Q6tXvQtG0", "embeddable": true, "live": true, "liveSince": "2026-11-05T23:58:17Z"},
   {"id": "jtbc", "name": "JTBC News", "category": "news", "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ", "youtubeVideoId": "N3hqO8zeHH8", "embeddable": true, "live": true, "liveSince": "2026-11-05T10:50:36Z"},
-  {"id": "channela", "name": "채널A 뉴스", "category": "news", "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw", "youtubeVideoId": "Fvjyw2fan_Q", "embeddable": true, "live": true, "liveSince": "2026-11-05T12:24:06Z"},
+  {"id": "channela", "name": "채널A 뉴스", "category": "news", "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw", "youtubeVideoId": "BU0JioTpKjE", "embeddable": true, "live": true, "liveSince": "2026-11-05T23:45:02Z"},
   {"id": "tvchosun", "name": "TV CHOSUN NEWS", "category": "news", "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q", "youtubeVideoId": "DmFnNuoxCQI", "embeddable": true, "live": true, "liveSince": "2026-11-05T14:26:08Z"},
-  {"id": "mbn", "name": "MBN News", "category": "news", "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg", "youtubeVideoId": "kiKw6BHEHkM", "embeddable": true, "live": true, "liveSince": "2026-11-05T09:19:12Z"},
+  {"id": "mbn", "name": "MBN News", "category": "news", "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg", "youtubeVideoId": "LZubc_XOSRs", "embeddable": true, "live": true, "liveSince": "2026-11-06T00:14:25Z"},
   {"id": "arirang", "name": "Arirang TV", "category": "news", "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw", "youtubeVideoId": "wB0HCkCjINk", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "yonhapnews", "name": "연합뉴스 Yonhapnews", "category": "news", "youtubeChannelId": "UCj3_t5p4L4aFsvdW3uHjnnw", "live": false},
   {"id": "sbsbiz", "name": "SBS Biz", "category": "economy", "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw", "youtubeVideoId": "l4IpeRXCAnw", "embeddable": true, "live": false, "wikidata": "Q7388983"},
@@ -26,13 +26,13 @@
   {"id": "gwangjumbc", "name": "Gwangju MBC News", "category": "regional", "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA", "youtubeVideoId": "FEdwkxQ_Z1M", "embeddable": true, "live": true, "liveSince": "2026-11-05T12:20:07Z"},
   {"id": "natv", "name": "국회방송 NATV", "category": "government", "youtubeChannelId": "UCL-WOj1FxKR8Hlzg5tvnWKg", "youtubeVideoId": "goRNFziC4_k", "embeddable": true, "live": true, "liveSince": "2026-11-05T15:00:06Z"},
   {"id": "ktv", "name": "KTV 국민방송", "category": "government", "youtubeChannelId": "UCIMOytYIzaUpoAM2bpT4JZQ", "live": false},
-  {"id": "kbs1radio", "name": "KBS 1Radio", "category": "radio", "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A", "youtubeVideoId": "4Ts3s_-5zfA", "embeddable": true, "live": true, "liveSince": "2026-11-05T10:01:51Z", "languages": ["ko"]},
+  {"id": "kbs1radio", "name": "KBS 1Radio", "category": "radio", "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A", "youtubeVideoId": "6P-AFg_OFkw", "embeddable": true, "live": true, "liveSince": "2026-11-06T00:05:12Z", "languages": ["ko"]},
   {"id": "ytnradio", "name": "YTN Radio", "category": "radio", "youtubeChannelId": "UCwRljhjVWtLqAKbsWGPU_OA", "youtubeVideoId": "SMQJyQ0UMvI", "embeddable": true, "live": true, "liveSince": "2024-09-11T12:12:47Z", "languages": ["ko"]},
   {"id": "sbsradio", "name": "SBS Radio", "category": "radio", "youtubeChannelId": "UCAmff0euQRf6RwVlbB8PLMw", "youtubeVideoId": "F6rrT3OHCoU", "embeddable": true, "live": true, "liveSince": "2025-11-12T14:13:10Z", "languages": ["ko"]},
   {"id": "tbsefm", "name": "TBS eFM", "category": "radio", "youtubeChannelId": "UCHjDAeTbO4fQilomLD-kaXg", "youtubeVideoId": "USjec87vJVg", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "arirangradio", "name": "Arirang Radio", "category": "radio", "youtubeChannelId": "UCUSSnoEQ8DSRK-gnWS0vfyA", "youtubeVideoId": "P1fX2GGdVS0", "embeddable": true, "live": true, "liveSince": "2020-06-25T02:57:10Z", "languages": ["en"]},
   {"id": "arirangtv", "name": "Arirang TV", "category": "culture", "youtubeChannelId": "UC-PHIZjV-oX8H7zD1cCN2NQ", "youtubeVideoId": "hvVlyZ5GiE8", "embeddable": true, "live": true, "liveSince": "2026-07-10T02:56:12Z", "languages": ["en"]},
   {"id": "kbsworld", "name": "KBS WORLD TV", "category": "entertainment", "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig", "youtubeVideoId": "rIXYTUnP9Q4", "embeddable": true, "live": true, "liveSince": "2026-10-30T01:10:41Z"},
-  {"id": "ytnscience", "name": "YTN Science", "category": "culture", "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA", "youtubeVideoId": "jOUmIGsh7bc", "embeddable": true, "live": true, "liveSince": "2026-11-05T08:33:44Z"}
+  {"id": "ytnscience", "name": "YTN Science", "category": "culture", "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA", "youtubeVideoId": "Mm341mwpyYM", "embeddable": true, "live": true, "liveSince": "2026-11-05T23:08:04Z"}
  ]
 }

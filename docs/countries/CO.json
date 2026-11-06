@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110518,
+ "version": 2026110600,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -341,7 +341,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "L5mVjiiAAAs",
+   "youtubeVideoId": "5n62syZS0Cs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -387,7 +387,7 @@
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
    "youtubeVideoId": "Wv2MRtkeQCE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -455,7 +455,7 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "jUO59RwuOwA",
+   "youtubeVideoId": "0lTpSz4ZhVo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4382447",
@@ -484,7 +484,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "gSYDS0ZpLf0",
+   "youtubeVideoId": "_cEBa6Aj5Mo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -572,7 +572,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "i29C5Max7yk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

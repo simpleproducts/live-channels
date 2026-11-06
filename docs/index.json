@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-05T18:46:36Z",
+ "updated": "2026-11-06T00:17:41Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/AR.json"
   },
   {
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/BR.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/CL.json"
   },
   {
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/CO.json"
   },
   {
@@ -270,7 +270,7 @@
     "de"
    ],
    "channelCount": 11,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/DE.json"
   },
   {
@@ -330,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/ES.json"
   },
   {
@@ -390,7 +390,7 @@
     "en"
    ],
    "channelCount": 17,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/GB.json"
   },
   {
@@ -480,7 +480,7 @@
     "he"
    ],
    "channelCount": 7,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/IL.json"
   },
   {
@@ -511,7 +511,7 @@
     "en"
    ],
    "channelCount": 23,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/IN.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/JP.json"
   },
   {
@@ -602,7 +602,7 @@
     "sw"
    ],
    "channelCount": 11,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/KE.json"
   },
   {
@@ -632,7 +632,7 @@
     "ko"
    ],
    "channelCount": 31,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/KR.json"
   },
   {
@@ -662,7 +662,7 @@
     "es"
    ],
    "channelCount": 25,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/MX.json"
   },
   {
@@ -692,7 +692,7 @@
     "en"
    ],
    "channelCount": 6,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/NG.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 19,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/PE.json"
   },
   {
@@ -783,7 +783,7 @@
     "en"
    ],
    "channelCount": 16,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/PH.json"
   },
   {
@@ -843,7 +843,7 @@
     "pl"
    ],
    "channelCount": 11,
-   "version": 2026110510,
+   "version": 2026110600,
    "file": "countries/PL.json"
   },
   {
@@ -873,7 +873,7 @@
     "pt"
    ],
    "channelCount": 7,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/PT.json"
   },
   {
@@ -903,7 +903,7 @@
     "es"
    ],
    "channelCount": 10,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/PY.json"
   },
   {
@@ -963,7 +963,7 @@
     "ru"
    ],
    "channelCount": 6,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/RU.json"
   },
   {
@@ -1113,7 +1113,7 @@
     "uk"
    ],
    "channelCount": 11,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/UA.json"
   },
   {
@@ -1143,7 +1143,7 @@
     "en"
    ],
    "channelCount": 32,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/US.json"
   },
   {
@@ -1173,7 +1173,7 @@
     "es"
    ],
    "channelCount": 13,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/UY.json"
   },
   {
@@ -1233,7 +1233,7 @@
     "es"
    ],
    "channelCount": 7,
-   "version": 2026110518,
+   "version": 2026110600,
    "file": "countries/VE.json"
   },
   {
@@ -1433,40 +1433,6 @@
    "featured": true
   },
   {
-   "id": "za-elections-2026",
-   "title": {
-    "en": "South Africa local elections 2026",
-    "es": "Elecciones municipales en Sudáfrica 2026",
-    "zh-Hans": "2026 南非地方选举",
-    "ja": "2026年 南アフリカ地方選挙",
-    "fr": "Élections municipales en Afrique du Sud 2026",
-    "pt-BR": "Eleições municipais na África do Sul 2026",
-    "ko": "2026 남아프리카공화국 지방선거",
-    "it": "Elezioni locali in Sudafrica 2026",
-    "ru": "Местные выборы в ЮАР 2026",
-    "zh-Hant": "2026 南非地方選舉",
-    "ar": "الانتخابات المحلية في جنوب أفريقيا 2026",
-    "tr": "2026 Güney Afrika yerel seçimleri",
-    "nl": "Lokale verkiezingen in Zuid-Afrika 2026",
-    "pl": "Wybory samorządowe w RPA 2026",
-    "sv": "Lokalvalen i Sydafrika 2026",
-    "id": "Pemilu lokal Afrika Selatan 2026",
-    "de": "Kommunalwahlen in Südafrika 2026",
-    "ms": "Pilihan raya tempatan Afrika Selatan 2026"
-   },
-   "tiles": [
-    "za.sabcnews",
-    "qa.aje",
-    "ng.arisenews"
-   ],
-   "countries": [
-    "ZA"
-   ],
-   "start": "2026-11-04T05:00:00Z",
-   "end": "2026-11-05T22:00:00Z",
-   "featured": true
-  },
-  {
    "id": "pope-leo-uruguay-2026",
    "title": {
     "en": "Pope Leo XIV in Uruguay",
@@ -1490,6 +1456,7 @@
    },
    "tiles": [
     "va.vaticannewses",
+    "uy.canal10",
     "ar.tn",
     "ar.c5n"
    ],
@@ -1604,7 +1571,6 @@
    "tiles": [
     "gb.bbcnews",
     "gb.skynews",
-    "gb.itvnews",
     "gb.gbnews",
     "gb.talktv"
    ],
@@ -1756,8 +1722,7 @@
     "pl.tvpinfo",
     "pl.republika",
     "pl.wpolsce24",
-    "pl.tvpworld",
-    "pl.sejm"
+    "pl.tvpworld"
    ],
    "countries": [
     "PL"
@@ -1865,8 +1830,7 @@
    },
    "tiles": [
     "mx.milenio",
-    "mx.aztecanoticias",
-    "mx.canalonce"
+    "mx.aztecanoticias"
    ],
    "countries": [
     "MX"
@@ -1939,7 +1903,6 @@
    "tiles": [
     "es.rtve24h",
     "es.elpais",
-    "es.europapress",
     "es.3cat324",
     "es.euronewses",
     "es.libertaddigital"
@@ -2082,7 +2045,6 @@
     "ms": "Perayaan Perawan Caacupé"
    },
    "tiles": [
-    "py.caacupe",
     "py.abctv",
     "py.npy",
     "py.telefuturo",
@@ -2121,7 +2083,6 @@
    "tiles": [
     "mx.milenio",
     "mx.aztecanoticias",
-    "mx.imagentv",
     "mx.multimedios"
    ],
    "countries": [
@@ -2154,12 +2115,10 @@
     "ms": "Hari Jamhuri Kenya"
    },
    "tiles": [
-    "ke.kbc",
     "ke.citizentv",
     "ke.ntv",
     "ke.ktn",
-    "ke.k24",
-    "ke.tv47"
+    "ke.k24"
    ],
    "countries": [
     "KE"
@@ -2228,7 +2187,6 @@
    "tiles": [
     "es.rtve24h",
     "es.elpais",
-    "es.europapress",
     "es.3cat324",
     "es.euronewses",
     "es.telemadrid",
