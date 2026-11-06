@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026110600,
+ "version": 2026110615,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
+  "pl.polsatnews",
   "pl.tvpworld",
-  "pl.radiozet"
+  "pl.sejm"
  ],
  "channels": [
   {
@@ -58,9 +59,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCb7O4-iI4pEO5UZPlOBr0Ug",
-   "youtubeVideoId": "rr7VYQr033Q",
+   "youtubeVideoId": "FLIt6G89PRA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -154,9 +155,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCN5seY_Oy_GiJRhF06GfRlw",
-   "youtubeVideoId": "C3W6tG_Hmrc",
+   "youtubeVideoId": "cVl7VoD9CSc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q98964",
    "description": {
     "en": "lower house of Polish parliament",
@@ -254,7 +255,7 @@
    "youtubeChannelId": "UCvHFbkohgX29NhaUtmkzLmg",
    "youtubeVideoId": "aLwQU8ZsaTY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

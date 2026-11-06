@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026110606,
+ "version": 2026110615,
  "defaultTiles": [
   "za.sabcnews",
-  "za.safm"
+  "za.radio702"
  ],
  "channels": [
   {
@@ -179,9 +179,9 @@
     "en"
    ],
    "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
-   "youtubeVideoId": "VyW2WTWWWcM",
+   "youtubeVideoId": "Z9nX0k-v-UM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -199,7 +199,7 @@
    "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w",
    "youtubeVideoId": "RhpYD7GgXqU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

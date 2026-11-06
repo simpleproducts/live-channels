@@ -1,9 +1,12 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110600,
+ "version": 2026110615,
  "defaultTiles": [
-  "ph.dzrh"
+  "ph.gma",
+  "ph.news5",
+  "ph.dzrh",
+  "ph.loveradio"
  ],
  "channels": [
   {
@@ -52,9 +55,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "46k4Btggkl8",
+   "youtubeVideoId": "bJ0IJFyud54",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -124,9 +127,9 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "TPP9T0Up_vo",
+   "youtubeVideoId": "3gpBWPjbHS8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -456,9 +459,9 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "PMwTthsB58I",
+   "youtubeVideoId": "qBbGFu8cyVg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

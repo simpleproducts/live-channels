@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026110606,
+ "version": 2026110615,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
@@ -11,7 +11,7 @@
   "in.zeenews",
   "in.news18india",
   "in.tv9bharatvarsh",
-  "in.timesnowworld"
+  "in.wion"
  ],
  "channels": [
   {
@@ -23,7 +23,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ",
-   "youtubeVideoId": "EyAsu_NWCsg",
+   "youtubeVideoId": "9g10gZ98hqY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6019415",
@@ -53,7 +53,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-   "youtubeVideoId": "JkXUAXU6gXs",
+   "youtubeVideoId": "MyhS6FoPKdA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3396358",
@@ -79,7 +79,7 @@
     "en"
    ],
    "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
-   "youtubeVideoId": "_qG9vYsa1mY",
+   "youtubeVideoId": "QhCvYXLe6Jw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-   "youtubeVideoId": "Jp6Tlx5-XN8",
+   "youtubeVideoId": "AcdN9rNhz-A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2985356",
@@ -140,7 +140,7 @@
     "en"
    ],
    "youtubeChannelId": "UCwqusr8YDwM-3mEYTDeJHzw",
-   "youtubeVideoId": "dm2Ws1lm7dY",
+   "youtubeVideoId": "wYwy0loL2lw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q28180276",
@@ -168,7 +168,7 @@
     "en"
    ],
    "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
-   "youtubeVideoId": "L9yhkwITuug",
+   "youtubeVideoId": "-VbhGjSYysI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7806547",
@@ -196,7 +196,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
-   "youtubeVideoId": "8aFC2q4JD6A",
+   "youtubeVideoId": "aaTztjm7VbU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3630156",
@@ -229,7 +229,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCIvaYmXn910QMdemBG3v1pQ",
-   "youtubeVideoId": "AM1Xp22HVpM",
+   "youtubeVideoId": "UGOufq8ct6I",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5287969",
@@ -300,7 +300,7 @@
     "en"
    ],
    "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-   "youtubeVideoId": "GmITzp3x3sA",
+   "youtubeVideoId": "01vUsbP1di0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5689808",
@@ -353,7 +353,7 @@
     "en"
    ],
    "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
-   "youtubeVideoId": "wZgraC17MQg",
+   "youtubeVideoId": "MOFeETd0CO0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q19891764",
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "qpbGdBAULX0",
+   "youtubeVideoId": "eTs1ekqaNHg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",
@@ -420,7 +420,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
-   "youtubeVideoId": "asOTQgzbOcU",
+   "youtubeVideoId": "O5pd7zHXwys",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65042846",
@@ -519,7 +519,7 @@
     "en"
    ],
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
-   "youtubeVideoId": "4p7fDiPhuY4",
+   "youtubeVideoId": "mcSeOzz3aWs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2613165",
@@ -622,6 +622,38 @@
    "city": "नई दिल्ली"
   },
   {
+   "id": "in.cnbcawaaz",
+   "name": "CNBC Awaaz",
+   "category": "economy",
+   "languages": [
+    "hi"
+   ],
+   "youtubeChannelId": "UCQIycDaLsBpMKjOCeaKUYVg",
+   "youtubeVideoId": "_6DZQ7MdzyA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q5013075",
+   "description": {
+    "en": "Indian television channel",
+    "zh-Hans": "CNBC Awaaz是印度印地语付费电视商业新闻频道，由位于总部位于新德里的CNBC和TV18所有。",
+    "fr": "CNBC Awaaz est une chaîne indienne diffusant des nouvelles financières lancée conjointement par CNBC, et Network18 Group.",
+    "zh-Hant": "CNBC Awaaz是印度印地语付费电视商业新闻频道，由位于总部位于新德里的CNBC和TV18所有。",
+    "ar": "سي إن بي سي أواز هي قناة أخبار اقتصادية هندية مدفوعة، تملكها سي إن بي سي ومقرها في نيودلهي.",
+    "ms": "CNBC Awaaz merupakan usahasama CNBC dan Television Eighteen India Limited (TV18)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNBC_Awaaz",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/CNBC_Awaaz",
+    "fr": "https://fr.wikipedia.org/wiki/CNBC_Awaaz",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/CNBC_Awaaz",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%A5%D9%86_%D8%A8%D9%8A_%D8%B3%D9%8A_%D8%A3%D9%88%D8%A7%D8%B2",
+    "ms": "https://ms.wikipedia.org/wiki/CNBC_Awaaz"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CNBC_Awaaz_logo.png?width=256",
+   "website": "http://hindi.moneycontrol.com/tv/",
+   "city": "मुम्बई"
+  },
+  {
    "id": "in.zeebusiness",
    "name": "Zee Business",
    "category": "economy",
@@ -629,7 +661,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCkXopQ3ubd-rnXnStZqCl2w",
-   "youtubeVideoId": "Mq-HGF1X0JY",
+   "youtubeVideoId": "1vcAnYuvtTA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q8068393",

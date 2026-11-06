@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110606,
+ "version": 2026110615,
  "defaultTiles": [
   "cl.24horas",
   "cl.meganoticias",
   "cl.chvnoticias",
+  "cl.t13",
+  "cl.biobio",
   "cl.senado",
   "cl.cooperativa",
   "cl.tvn",
@@ -20,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "Y3D4IiBAQPc",
+   "youtubeVideoId": "QYqXVy3-NcE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -65,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "zA96DddmBPI",
+   "youtubeVideoId": "JgDOlO_d-DI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -83,9 +85,9 @@
     "es"
    ],
    "youtubeChannelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
-   "youtubeVideoId": "PPLbWyf2xak",
+   "youtubeVideoId": "CkwDl6e9dUM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -135,9 +137,9 @@
     "es"
    ],
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
-   "youtubeVideoId": "pmMYKWokyGY",
+   "youtubeVideoId": "88ZUAkvod7E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -264,9 +266,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "RuQqFpFZ9ig",
+   "youtubeVideoId": "7fUwo5BS3gE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -318,9 +320,9 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "9u0v6BPu8N8",
+   "youtubeVideoId": "22FLsUXcWgc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -454,9 +456,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA",
-   "youtubeVideoId": "FJr_YYI6F9M",
+   "youtubeVideoId": "6I7CerD8phw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2119518",
    "description": {
     "en": "Lower house of Chile's National Congress",
@@ -502,9 +504,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "ptv5OK143AM",
+   "youtubeVideoId": "Q9B3PXsaM-8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -565,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "55iHbDyWjmE",
+   "youtubeVideoId": "dVzKoX9Qd2U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -583,9 +585,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
-   "youtubeVideoId": "pycGuYiBRsE",
+   "youtubeVideoId": "f76QbdlV5RE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -601,9 +603,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4ZQZFCySssx8rM21sZ5z4A",
-   "youtubeVideoId": "lQ3lzEZdsPM",
+   "youtubeVideoId": "GZh445k2Wo0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -619,9 +621,9 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": "6yMTlDOUqI8",
+   "youtubeVideoId": "SZj_4bcR5aI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
