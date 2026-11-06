@@ -1,13 +1,12 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026110600,
+ "version": 2026110606,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
   "de.dwnews",
-  "de.dwespanol",
-  "de.bundestag"
+  "de.dwespanol"
  ],
  "channels": [
   {
@@ -18,7 +17,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "XouqRFnYF2U",
+   "youtubeVideoId": "gLQCXYX6Zig",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -371,7 +370,7 @@
    "youtubeChannelId": "UCbh5D3EdIHP4YQA5X-eK1ug",
    "youtubeVideoId": "76uPv-Hn8fY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q154797",
    "description": {
     "en": "legislature of Germany; parliament",

@@ -1,17 +1,15 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110600,
+ "version": 2026110606,
  "defaultTiles": [
-  "br.recordnews",
   "br.jovempan",
+  "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn",
-  "br.bandnewsfm",
-  "br.itatiaia"
+  "br.cbn"
  ],
  "channels": [
   {
@@ -22,7 +20,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "zqYWtm_lxgs",
+   "youtubeVideoId": "feD8ukLkGi0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3056409",
@@ -52,7 +50,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "XP1EgonxIN8",
+   "youtubeVideoId": "Nt1J7wXWTZQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +134,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "AB7G67UPC_E",
+   "youtubeVideoId": "MbImJLe4m9s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -464,7 +462,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "wWiCEpYjfa4",
+   "youtubeVideoId": "xcQhdiP8lQM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -496,7 +494,7 @@
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
    "youtubeVideoId": "nuODf5E7aRo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4854200",
    "description": {
     "en": "Brazilian all news radio network",
@@ -523,7 +521,7 @@
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
    "youtubeVideoId": "28dJEGbqquk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10365899",
    "description": {
     "en": "Brazilian radio station in Minas Gerais",
@@ -549,7 +547,7 @@
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
    "youtubeVideoId": "gJpA5r56F1M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",
