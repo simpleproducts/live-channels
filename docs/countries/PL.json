@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026110615,
+ "version": 2026110620,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
-  "pl.polsatnews",
   "pl.tvpworld",
   "pl.sejm"
  ],
@@ -61,7 +60,7 @@
    "youtubeChannelId": "UCb7O4-iI4pEO5UZPlOBr0Ug",
    "youtubeVideoId": "FLIt6G89PRA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

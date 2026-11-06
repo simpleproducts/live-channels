@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110615,
+ "version": 2026110620,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.newsmax",
   "us.foxweather",
-  "us.foxnews",
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.scripps"
+  "us.scripps",
+  "us.ap"
  ],
  "channels": [
   {
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "U9hbGO5f3lU",
+   "youtubeVideoId": "W1K79fqWh5k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -549,7 +549,7 @@
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
    "youtubeVideoId": "GvWSyescLv8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -707,9 +707,9 @@
     "en"
    ],
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
-   "youtubeVideoId": "iMSCiQbgMMs",
+   "youtubeVideoId": "KNgya51wdTQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",

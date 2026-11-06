@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026110615,
+ "version": 2026110620,
  "defaultTiles": [
-  "za.sabcnews",
-  "za.radio702"
+  "za.sabcnews"
  ],
  "channels": [
   {
@@ -181,7 +180,7 @@
    "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
    "youtubeVideoId": "Z9nX0k-v-UM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

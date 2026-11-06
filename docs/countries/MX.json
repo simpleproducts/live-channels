@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026110615,
+ "version": 2026110620,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
-  "mx.nmas",
   "mx.imagennoticias",
-  "mx.excelsior",
   "mx.heraldo",
   "mx.unotv",
-  "mx.aristegui",
-  "mx.multimedios"
+  "mx.adnnoticias",
+  "mx.multimedios",
+  "mx.canalonce",
+  "mx.imagentv"
  ],
  "channels": [
   {
@@ -42,7 +42,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "7eGkLeJF-YM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -58,7 +58,7 @@
     "es"
    ],
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
-   "youtubeVideoId": "U4BNHW2_AIU",
+   "youtubeVideoId": "IapjVtza8b8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -78,7 +78,7 @@
    "youtubeChannelId": "UClqo4ZAAZ01HQdCTlovCgkA",
    "youtubeVideoId": "63Fp6ezxVzM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16492985",
    "description": {
     "en": "Television channel",
@@ -139,7 +139,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "xZUFR4UcRFE",
+   "youtubeVideoId": "kUOHGGAkvSk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65047709",
@@ -169,7 +169,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
-   "youtubeVideoId": "KBMnjDSJ9v8",
+   "youtubeVideoId": "hDpSEeiCji8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q39080697",
@@ -191,9 +191,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
-   "youtubeVideoId": "W_-RA3YCxTE",
+   "youtubeVideoId": "to1rm1RyDaI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -211,7 +211,7 @@
    "youtubeChannelId": "UCafNntv_qTQB26AvbEQNHPw",
    "youtubeVideoId": "dpUZKbWvhSs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q61998946",
    "description": {
     "en": "Mexico online newspaper",
@@ -291,7 +291,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "QNk9yWm99F4",
+   "youtubeVideoId": "zoUsFOhzbGk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -311,7 +311,7 @@
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
    "youtubeVideoId": "XUr9hILaZsc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -334,7 +334,7 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "tHGVHMIoN20",
+   "youtubeVideoId": "loSGtrsGHnY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27031787",
@@ -440,7 +440,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w",
-   "youtubeVideoId": "zVpD04sqLu0",
+   "youtubeVideoId": "tAlJlGL87KI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5440529",
@@ -490,7 +490,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "2t-72pu4DIY",
+   "youtubeVideoId": "00Mc_0V-uYI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -569,7 +569,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "V0GquMdobVM",
+   "youtubeVideoId": "fPbY6a0Td-E",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -589,7 +589,7 @@
    "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw",
    "youtubeVideoId": "VqZspAEVOpc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42908534",
    "description": {
     "es": "canal de televisión abierta y pública en México"

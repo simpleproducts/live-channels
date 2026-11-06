@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026110615,
+ "version": 2026110620,
  "defaultTiles": [
   "ua.suspilne",
+  "ua.tsn",
   "ua.espreso",
   "ua.united24",
-  "ua.tsn",
   "ua.faktyictv",
   "ua.kyiv24",
   "ua.freedom",
@@ -76,7 +76,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA",
-   "youtubeVideoId": "lcfm_xILCoY",
+   "youtubeVideoId": "l8ognj0r4Rc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4041002",
@@ -162,7 +162,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "Z9fXXh9yjGE",
+   "youtubeVideoId": "QHZXonrJP5Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",

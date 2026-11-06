@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026110615,
+ "version": 2026110620,
  "defaultTiles": [
   "py.abctv",
   "py.npy",
+  "py.ultimahora",
   "py.gen",
   "py.monumental",
   "py.telefuturo",
@@ -56,9 +57,9 @@
     "es"
    ],
    "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "rW6zKeFNZVA",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q6175024",
    "description": {
     "en": "newspaper published in Paraguay",
@@ -103,7 +104,7 @@
     "es"
    ],
    "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA",
-   "youtubeVideoId": "Az72gjSH6hA",
+   "youtubeVideoId": "C_lDY_wsFew",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3140411",

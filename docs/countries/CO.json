@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110615,
+ "version": 2026110620,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
+  "co.canal1",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio",
-  "co.tropicana"
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -128,9 +128,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
-   "youtubeVideoId": "QxIdlIYW3TQ",
+   "youtubeVideoId": "Qfbw4s5KFIg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -455,9 +455,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "0lTpSz4ZhVo",
+   "youtubeVideoId": "kwBF_7sf810",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -484,9 +484,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "_cEBa6Aj5Mo",
+   "youtubeVideoId": "3Hvr-j1Q8Qg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -572,7 +572,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "iEuarz5NHX4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
