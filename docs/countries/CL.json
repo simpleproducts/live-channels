@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110700,
+ "version": 2026110707,
  "defaultTiles": [
   "cl.24horas",
   "cl.meganoticias",
   "cl.chvnoticias",
-  "cl.biobio",
+  "cl.t13",
   "cl.tvn",
   "cl.chilevision",
   "cl.senado",
@@ -22,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "QYqXVy3-NcE",
+   "youtubeVideoId": "RUtOV-XfiR4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -67,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "tzrrRaPpQko",
+   "youtubeVideoId": "b1wEYHazSms",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -85,9 +85,9 @@
     "es"
    ],
    "youtubeChannelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
-   "youtubeVideoId": "CkwDl6e9dUM",
+   "youtubeVideoId": "U54DP6vn6Tw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,7 +139,7 @@
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
    "youtubeVideoId": "88ZUAkvod7E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -320,7 +320,7 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "6xd8y8g9T0s",
+   "youtubeVideoId": "8MVixA_xxwI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600805",
@@ -587,7 +587,7 @@
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
    "youtubeVideoId": "f76QbdlV5RE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

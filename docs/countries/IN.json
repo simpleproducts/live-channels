@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026110700,
+ "version": 2026110707,
  "defaultTiles": [
   "in.ddnews",
+  "in.indiatv",
   "in.aajtak",
   "in.ndtvindia",
   "in.abpnews",
   "in.zeenews",
   "in.news18india",
   "in.tv9bharatvarsh",
-  "in.wion",
-  "in.timesnowworld"
+  "in.ndtv"
  ],
  "channels": [
   {
@@ -23,9 +23,9 @@
     "hi"
    ],
    "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ",
-   "youtubeVideoId": "a24zo99ItZ4",
+   "youtubeVideoId": "u7QDBdrrdPU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6019415",
    "description": {
     "en": "News in English: Latest News, Breaking News, Live Updates - IndiaTV News",
@@ -53,7 +53,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-   "youtubeVideoId": "UGX-8gm4gnI",
+   "youtubeVideoId": "_lcbf8_Yq7A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3396358",
@@ -79,7 +79,7 @@
     "en"
    ],
    "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
-   "youtubeVideoId": "iYgaPgyiB1c",
+   "youtubeVideoId": "SrZ4Zd4J_8A",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-   "youtubeVideoId": "6Ix0tgZ_hU0",
+   "youtubeVideoId": "shsDuusU7po",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2985356",
@@ -140,7 +140,7 @@
     "en"
    ],
    "youtubeChannelId": "UCwqusr8YDwM-3mEYTDeJHzw",
-   "youtubeVideoId": "5-jRkj3HJVo",
+   "youtubeVideoId": "K97Td6HhqOE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q28180276",
@@ -168,7 +168,7 @@
     "en"
    ],
    "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
-   "youtubeVideoId": "-VbhGjSYysI",
+   "youtubeVideoId": "P7-bu0VuDt0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7806547",
@@ -196,7 +196,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
-   "youtubeVideoId": "uDaAZS83TXU",
+   "youtubeVideoId": "Jk62_vkObZU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3630156",
@@ -229,7 +229,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCIvaYmXn910QMdemBG3v1pQ",
-   "youtubeVideoId": "UGOufq8ct6I",
+   "youtubeVideoId": "RqINJ-PunKc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5287969",
@@ -261,7 +261,7 @@
     "en"
    ],
    "youtubeChannelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-   "youtubeVideoId": "aVDKh8MJJWo",
+   "youtubeVideoId": "dtWvySy4-d4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q23058781",
@@ -300,7 +300,7 @@
     "en"
    ],
    "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-   "youtubeVideoId": "_1qfUrgVKHo",
+   "youtubeVideoId": "pCk6_ENRlk0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5689808",
@@ -353,7 +353,7 @@
     "en"
    ],
    "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
-   "youtubeVideoId": "MOFeETd0CO0",
+   "youtubeVideoId": "icw94HFtols",
    "embeddable": true,
    "live": true,
    "wikidata": "Q19891764",
@@ -420,7 +420,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
-   "youtubeVideoId": "O5pd7zHXwys",
+   "youtubeVideoId": "9jthQ_NnQrA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65042846",
@@ -444,7 +444,7 @@
     "en"
    ],
    "youtubeChannelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
-   "youtubeVideoId": "zxZJhtfnVvc",
+   "youtubeVideoId": "VI_Q4QLWGK0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -462,7 +462,7 @@
     "en"
    ],
    "youtubeChannelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
-   "youtubeVideoId": "UMLPPVct3Zs",
+   "youtubeVideoId": "Xd8pp5RuVD0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20647988",
@@ -484,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UCz8QaiQxApLq8sLNcszYyJw",
-   "youtubeVideoId": "OFg0R7OlnKA",
+   "youtubeVideoId": "OHypAP7qhqA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5453524",
@@ -519,7 +519,7 @@
     "en"
    ],
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
-   "youtubeVideoId": "wYJXYPhq92I",
+   "youtubeVideoId": "tB4F-N5i8QU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2613165",
@@ -585,7 +585,7 @@
     "en"
    ],
    "youtubeChannelId": "UCI_mwTKUhicNzFrhm33MzBQ",
-   "youtubeVideoId": "KGSeNNTwC94",
+   "youtubeVideoId": "V6QYMIBURvg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5324510",
@@ -607,7 +607,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3uJIdRFTGgLWrUziaHbzrg",
-   "youtubeVideoId": "4Xvoyi04wE4",
+   "youtubeVideoId": "OTOADTphQPE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6953329",
@@ -661,7 +661,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCkXopQ3ubd-rnXnStZqCl2w",
-   "youtubeVideoId": "GETcr9_tqTg",
+   "youtubeVideoId": "QwQQfzbl6E4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q8068393",
