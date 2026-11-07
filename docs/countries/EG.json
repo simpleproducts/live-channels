@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026110700,
+ "version": 2026110714,
  "defaultTiles": [
-  "eg.alqahera",
-  "eg.alghad"
+  "eg.alghad",
+  "eg.alqahera"
  ],
  "channels": [
   {
@@ -15,7 +15,7 @@
     "ar"
    ],
    "youtubeChannelId": "UCktyejXTxWaKfrgp1Oq7CMQ",
-   "youtubeVideoId": "ysk-awH4P78",
+   "youtubeVideoId": "1uMw8noWvsQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q114785261",

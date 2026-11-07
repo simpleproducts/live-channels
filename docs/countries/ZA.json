@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026110700,
+ "version": 2026110714,
  "defaultTiles": [
   "za.sabcnews",
-  "za.enca",
-  "za.newzroom",
-  "za.news24"
+  "za.iec"
  ],
  "channels": [
   {
@@ -17,9 +15,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
-   "youtubeVideoId": "TuF258otkRc",
+   "youtubeVideoId": "iZQcRewXNdA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q48767445",
    "description": {
     "en": "news channel owned by the South African Broadcasting Corporation",
@@ -163,9 +161,9 @@
     "en"
    ],
    "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ",
-   "youtubeVideoId": "kzXcv0h2zRA",
+   "youtubeVideoId": "7FmwX8MPkzc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

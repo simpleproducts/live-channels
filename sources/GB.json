@@ -14,7 +14,7 @@
   {"id": "itvnews", "name": "ITV News", "category": "news", "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A", "youtubeVideoId": "ZzztsPsYKrI", "embeddable": true, "live": false},
   {"id": "independent", "name": "The Independent", "category": "news", "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ", "youtubeVideoId": "uceYMxIBTFI", "embeddable": true, "live": false, "wikidata": "Q11149"},
   {"id": "mirror", "name": "The Mirror", "category": "news", "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q", "youtubeVideoId": "5PaVV4yHy6g", "embeddable": true, "live": false},
-  {"id": "thesun", "name": "The Sun", "category": "news", "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g", "youtubeVideoId": "la-IpgITiuU", "embeddable": true, "live": false},
+  {"id": "thesun", "name": "The Sun", "category": "news", "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g", "youtubeVideoId": "_a2gTaqDqYI", "embeddable": true, "live": true, "liveSince": "2026-11-07T12:29:41Z"},
   {"id": "express", "name": "Daily Express", "category": "news", "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA", "youtubeVideoId": "EFJ9EyhtZMc", "embeddable": true, "live": false},
   {"id": "parliament", "name": "UK Parliament", "category": "government", "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g", "youtubeVideoId": "KtsQSLFL9zA", "embeddable": true, "live": false},
   {"id": "timesradio", "name": "Times Radio", "category": "radio", "youtubeChannelId": "UCF-VP3b3oH0XASqsLI5rnLw", "youtubeVideoId": "3EaWrWqt7dk", "embeddable": true, "live": true, "liveSince": "2026-08-27T12:03:23Z"},

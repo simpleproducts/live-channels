@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110707,
+ "version": 2026110714,
  "defaultTiles": [
-  "ph.dzrh",
-  "ph.teleradyo"
+  "ph.news5",
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -125,9 +125,9 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "3gpBWPjbHS8",
+   "youtubeVideoId": "E1xGbmlmbJI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -421,7 +421,7 @@
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
    "youtubeVideoId": "rhufdtuSSKc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

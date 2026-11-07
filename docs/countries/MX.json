@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026110707,
+ "version": 2026110714,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
-  "mx.imagentv"
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -333,7 +333,7 @@
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
    "youtubeVideoId": "_uvYIyWZEnM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -487,9 +487,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "CsQJHZ-W4Eo",
+   "youtubeVideoId": "bbtmPRVlhY8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",

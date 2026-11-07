@@ -1,13 +1,12 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026110620,
+ "version": 2026110714,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
-  "pl.tvpworld",
-  "pl.sejm"
+  "pl.tvpworld"
  ],
  "channels": [
   {
@@ -156,7 +155,7 @@
    "youtubeChannelId": "UCN5seY_Oy_GiJRhF06GfRlw",
    "youtubeVideoId": "cVl7VoD9CSc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q98964",
    "description": {
     "en": "lower house of Polish parliament",

@@ -1,9 +1,12 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026110700,
+ "version": 2026110714,
  "defaultTiles": [
-  "vn.antv"
+  "vn.antv",
+  "vn.qpvn",
+  "vn.thanhnien",
+  "vn.vtcnews"
  ],
  "channels": [
   {
@@ -14,7 +17,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "ML_gQ-EtOeg",
+   "youtubeVideoId": "-wxekzMQR3s",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -32,9 +35,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw",
-   "youtubeVideoId": "qVIcAqR0_DA",
+   "youtubeVideoId": "nTJDV7FJS40",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -50,9 +53,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
-   "youtubeVideoId": "3U0I_J3Dy00",
+   "youtubeVideoId": "aYOHdcmCz2Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7710368",
    "description": {
     "en": "Vietnamese newspaper",
@@ -119,9 +122,9 @@
     "vi"
    ],
    "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg",
-   "youtubeVideoId": "w_LgvUO5IBc",
+   "youtubeVideoId": "NxyAaL8pLko",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q108492472",
    "description": {},
    "wikipedia": {},

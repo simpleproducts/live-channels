@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110707,
+ "version": 2026110714,
  "defaultTiles": [
   "br.jovempan",
   "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
+  "br.uol",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn"
+  "br.cbn",
+  "br.itatiaia"
  ],
  "channels": [
   {
@@ -50,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "KlAmk1eKy3w",
+   "youtubeVideoId": "btGjpqkcmrg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -134,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "-LiEq6x_EqA",
+   "youtubeVideoId": "Bj7GEo-9DV4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -179,9 +181,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-   "youtubeVideoId": "a6-gyv3YLZ8",
+   "youtubeVideoId": "pO6Z4Nz2Rc0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -462,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "Ny0m2pWXt_A",
+   "youtubeVideoId": "Ih4eKIlIJ4A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -519,9 +521,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "8Pz0BSKcBkQ",
+   "youtubeVideoId": "K5eQj4NcUhA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q10365899",
    "description": {
     "en": "Brazilian radio station in Minas Gerais",
@@ -545,9 +547,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "lhbjv9fhbo0",
+   "youtubeVideoId": "GS4y-npoNvk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",
