@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026110718,
+ "version": 2026110722,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -10,8 +10,8 @@
   "kr.sbs",
   "kr.jtbc",
   "kr.channela",
-  "kr.tvchosun",
-  "kr.wowtv"
+  "kr.wowtv",
+  "kr.mbn_economy"
  ],
  "channels": [
   {
@@ -127,7 +127,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "oftLzXkJMtE",
+   "youtubeVideoId": "XTT4QK0rDt0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -228,7 +228,7 @@
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
    "youtubeVideoId": "XY4JffWV39Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -510,9 +510,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
-   "youtubeVideoId": "0EIXB8Q-E8M",
+   "youtubeVideoId": "VPoqjZzCrh8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

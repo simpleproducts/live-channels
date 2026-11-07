@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110718,
+ "version": 2026110722,
  "defaultTiles": [
-  "br.recordnews",
   "br.jovempan",
+  "br.recordnews",
   "br.cnnbrasil",
+  "br.bandjornalismo",
   "br.sbtnews",
   "br.canalgov",
   "br.gaucha",
   "br.cbn",
-  "br.bandnewsfm",
-  "br.itatiaia"
+  "br.bandnewsfm"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "btmNZMrfx_8",
+   "youtubeVideoId": "SqXKFHyaxS0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3056409",
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "hKicOTcg8XA",
+   "youtubeVideoId": "u77M5Z1PR5k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -116,9 +116,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA",
-   "youtubeVideoId": "KP6kmcbUiow",
+   "youtubeVideoId": "XV_DSxEA6L8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q137910166",
    "description": {
     "en": "Official Band Journalism channel with exclusive live streams, full news programs, expert commentary, special reports, and on-demand content from Band TV."
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "FN6p2Z6LhaE",
+   "youtubeVideoId": "AJNZwMUrOt4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "gREv0mRrtVY",
+   "youtubeVideoId": "tmtHHRMwmuU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "gMg9SSmbiIA",
+   "youtubeVideoId": "7aWurdZ7BtU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",

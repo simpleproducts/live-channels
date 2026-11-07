@@ -1,15 +1,16 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026110718,
+ "version": 2026110722,
  "defaultTiles": [
   "pe.latina",
-  "pe.pbo",
+  "pe.larepublica",
   "pe.rpp",
-  "pe.willax",
+  "pe.tvperunoticias",
   "pe.elcomercio",
   "pe.congreso",
-  "pe.exitosa"
+  "pe.tvperu",
+  "pe.radionacional"
  ],
  "channels": [
   {
@@ -22,7 +23,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "j0vapRLP9fY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -38,9 +39,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "NfLHQfyb6Aw",
+   "youtubeVideoId": "68J3OccomDg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -71,7 +72,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "y_m_B7rorOU",
+   "youtubeVideoId": "OvIOVi6CiqA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -121,7 +122,7 @@
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
    "youtubeVideoId": "GhmCznHfzBk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -145,9 +146,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "nKuzRDvf6hw",
+   "youtubeVideoId": "26Elg2JRB2U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -359,9 +360,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
-   "youtubeVideoId": "GkHXq5F78LQ",
+   "youtubeVideoId": "8iiFEVokWJs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3076196",
    "description": {
     "en": "Peruvian State-owned television broadcaster, owned by the government",
@@ -465,7 +466,7 @@
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
    "youtubeVideoId": "5E4hiZT6QmI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",
@@ -487,9 +488,9 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "2YWVzgeWbhM",
+   "youtubeVideoId": "0GR5-3wjKeI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096493",
    "description": {
     "en": "radio station",

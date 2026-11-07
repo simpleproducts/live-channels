@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110718,
+ "version": 2026110722,
  "defaultTiles": [
-  "cl.24horas",
   "cl.meganoticias",
+  "cl.24horas",
   "cl.chvnoticias",
   "cl.t13",
   "cl.tvn",
   "cl.chilevision",
-  "cl.senado",
-  "cl.cooperativa",
-  "cl.mega"
+  "cl.mega",
+  "cl.canal13",
+  "cl.senado"
  ],
  "channels": [
   {
@@ -569,7 +569,7 @@
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
    "youtubeVideoId": "BU7cYqsvlPw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -19,7 +19,7 @@
   {"id": "adn", "name": "ADN Radio Chile", "category": "radio", "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA", "youtubeVideoId": "Q9B3PXsaM-8", "embeddable": true, "live": false, "wikidata": "Q5653556"},
   {"id": "t13radio", "name": "T13 Radio", "category": "radio", "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg", "youtubeVideoId": "8reCypNn-bo", "embeddable": true, "live": false},
   {"id": "cooperativa", "name": "Radio Cooperativa", "category": "radio", "youtubeChannelId": "UC13uZwIWmnmBJQuiTJWbVhQ", "youtubeVideoId": "w9I5dIrsGEs", "embeddable": true, "live": true, "liveSince": "2026-04-22T15:17:57Z", "languages": ["es"]},
-  {"id": "agricultura", "name": "Radio Agricultura", "category": "radio", "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw", "youtubeVideoId": "BU7cYqsvlPw", "embeddable": true, "live": true, "liveSince": "2026-11-07T18:00:10Z", "languages": ["es"]},
+  {"id": "agricultura", "name": "Radio Agricultura", "category": "radio", "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw", "youtubeVideoId": "BU7cYqsvlPw", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "infinita", "name": "Radio Infinita", "category": "radio", "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow", "youtubeVideoId": "f76QbdlV5RE", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "futuro", "name": "Radio Futuro", "category": "radio", "youtubeChannelId": "UC4ZQZFCySssx8rM21sZ5z4A", "youtubeVideoId": "GZh445k2Wo0", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "pudahuel", "name": "Radio Pudahuel", "category": "radio", "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA", "youtubeVideoId": "SZj_4bcR5aI", "embeddable": true, "live": false, "languages": ["es"]},

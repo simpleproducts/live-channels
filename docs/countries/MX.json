@@ -1,16 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026110718,
+ "version": 2026110722,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
-  "mx.latinus",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
   "mx.imagentv",
-  "mx.canalcongreso",
   "mx.radioformula"
  ],
  "channels": [
@@ -123,7 +121,7 @@
    "youtubeChannelId": "UC-FVhfqCwhzpJ4DTJOMMofA",
    "youtubeVideoId": "e45bIOxVTtU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -291,7 +289,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "yqqcS1w4cIA",
+   "youtubeVideoId": "W29KiimLIkw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -468,7 +466,7 @@
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
    "youtubeVideoId": "Bf-8d9keKo8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -490,7 +488,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "3VVtE9G5fUw",
+   "youtubeVideoId": "tusjyI-sxWM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",

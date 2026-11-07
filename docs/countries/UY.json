@@ -1,10 +1,13 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026110718,
+ "version": 2026110722,
  "defaultTiles": [
   "uy.elobservadoruy",
-  "uy.elpaisuy"
+  "uy.elpaisuy",
+  "uy.tnu",
+  "uy.sarandi",
+  "uy.teledoce"
  ],
  "channels": [
   {
@@ -97,9 +100,9 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "YsBLMhaImUQ",
+   "youtubeVideoId": "I0fMA1B4v2U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -168,9 +171,9 @@
     "es"
    ],
    "youtubeChannelId": "UCimPJKAbuM6z6b6DPZz86Mw",
-   "youtubeVideoId": "fkK3__z1-OM",
+   "youtubeVideoId": "fDOkPv9zeIE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3982807",
    "description": {
     "en": "Uruguayan television network",
@@ -341,9 +344,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "wyw9fT3JoPA",
+   "youtubeVideoId": "mcu3O-EXt_A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
