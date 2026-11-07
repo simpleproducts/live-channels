@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026110620,
+ "version": 2026110700,
  "defaultTiles": [
   "pe.latina",
   "pe.larepublica",
   "pe.rpp",
   "pe.willax",
   "pe.tvperunoticias",
-  "pe.atv",
-  "pe.elcomercio",
   "pe.congreso",
-  "pe.tvperu"
+  "pe.exitosa",
+  "pe.radionacional"
  ],
  "channels": [
   {
@@ -40,7 +39,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "ZTqTTs8UvA8",
+   "youtubeVideoId": "6cLLqaAexxY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1330217",
@@ -73,7 +72,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "uFTrbxMng9k",
+   "youtubeVideoId": "5Jtnx7gadmg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -121,7 +120,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "V0Q1L447zwk",
+   "youtubeVideoId": "_l2hv9rDtoY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -147,7 +146,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "2MFrR8XAqLw",
+   "youtubeVideoId": "iKrr2Sd8Otk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -173,7 +172,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "skD2ODMsFgU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -216,7 +215,7 @@
    "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg",
    "youtubeVideoId": "Uq-618mhLbU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1324020",
    "description": {
     "en": "newspaper from Peru",
@@ -363,7 +362,7 @@
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
    "youtubeVideoId": "77qgZ5ViMFs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3076196",
    "description": {
     "en": "Peruvian State-owned television broadcaster, owned by the government",
@@ -465,7 +464,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "cUkIikgZ-mU",
+   "youtubeVideoId": "1U8sFWV8iKI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -489,7 +488,7 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "-wXD_rd54sY",
+   "youtubeVideoId": "3KjbcZ9t8SA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096493",
@@ -537,7 +536,7 @@
    "youtubeChannelId": "UCkKMN1EphToEMcVeUrHHaMA",
    "youtubeVideoId": "2oNDfkMl-yo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

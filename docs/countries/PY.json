@@ -1,15 +1,12 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026110620,
+ "version": 2026110700,
  "defaultTiles": [
   "py.abctv",
   "py.npy",
-  "py.ultimahora",
-  "py.gen",
   "py.monumental",
   "py.telefuturo",
-  "py.snt",
   "py.nanduti"
  ],
  "channels": [
@@ -59,7 +56,7 @@
    "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw",
    "youtubeVideoId": "rW6zKeFNZVA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6175024",
    "description": {
     "en": "newspaper published in Paraguay",
@@ -88,7 +85,7 @@
    "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA",
    "youtubeVideoId": "GtoT3gNq9O4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -138,7 +135,7 @@
    "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig",
    "youtubeVideoId": "ktKP8oBv_Wk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q523293",
    "description": {
     "en": "Paraguayan television network",

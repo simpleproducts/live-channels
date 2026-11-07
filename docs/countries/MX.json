@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026110620,
+ "version": 2026110700,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
-  "mx.imagennoticias",
-  "mx.heraldo",
-  "mx.unotv",
   "mx.adnnoticias",
   "mx.multimedios",
   "mx.canalonce",
-  "mx.imagentv"
+  "mx.imagentv",
+  "mx.radioformula",
+  "mx.imagenradio",
+  "mx.mvsnoticias"
  ],
  "channels": [
   {
@@ -60,7 +60,7 @@
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
    "youtubeVideoId": "IapjVtza8b8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -141,7 +141,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "kUOHGGAkvSk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -171,7 +171,7 @@
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
    "youtubeVideoId": "hDpSEeiCji8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -191,7 +191,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
-   "youtubeVideoId": "to1rm1RyDaI",
+   "youtubeVideoId": "sS--8X3-1sc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -291,7 +291,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "zoUsFOhzbGk",
+   "youtubeVideoId": "ciJzJVZR4tY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -334,7 +334,7 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "loSGtrsGHnY",
+   "youtubeVideoId": "jc_HFBPnUpI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27031787",
@@ -442,7 +442,7 @@
    "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w",
    "youtubeVideoId": "tAlJlGL87KI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5440529",
    "description": {
     "en": "national government of the United Mexican States",
@@ -490,7 +490,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "00Mc_0V-uYI",
+   "youtubeVideoId": "CsQJHZ-W4Eo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -517,7 +517,7 @@
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
    "youtubeVideoId": "CUTHKyrvZAc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -571,7 +571,7 @@
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
    "youtubeVideoId": "fPbY6a0Td-E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
