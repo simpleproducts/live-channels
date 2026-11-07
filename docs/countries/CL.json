@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110707,
+ "version": 2026110718,
  "defaultTiles": [
   "cl.24horas",
   "cl.meganoticias",
@@ -85,7 +85,7 @@
     "es"
    ],
    "youtubeChannelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
-   "youtubeVideoId": "U54DP6vn6Tw",
+   "youtubeVideoId": "jEAL_jhagUw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -567,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "dVzKoX9Qd2U",
+   "youtubeVideoId": "BU7cYqsvlPw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

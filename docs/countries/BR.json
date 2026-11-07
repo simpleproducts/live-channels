@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110714,
+ "version": 2026110718,
  "defaultTiles": [
-  "br.jovempan",
   "br.recordnews",
+  "br.jovempan",
   "br.cnnbrasil",
   "br.sbtnews",
-  "br.uol",
   "br.canalgov",
   "br.gaucha",
   "br.cbn",
+  "br.bandnewsfm",
   "br.itatiaia"
  ],
  "channels": [
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "btGjpqkcmrg",
+   "youtubeVideoId": "hKicOTcg8XA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "Bj7GEo-9DV4",
+   "youtubeVideoId": "FN6p2Z6LhaE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -183,7 +183,7 @@
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
    "youtubeVideoId": "pO6Z4Nz2Rc0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "Ih4eKIlIJ4A",
+   "youtubeVideoId": "J7ZtPIvblfM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,9 +494,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "VTLsDvXUwqI",
+   "youtubeVideoId": "gREv0mRrtVY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4854200",
    "description": {
     "en": "Brazilian all news radio network",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "K5eQj4NcUhA",
+   "youtubeVideoId": "cJD6OTeOzY4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "GS4y-npoNvk",
+   "youtubeVideoId": "gMg9SSmbiIA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",

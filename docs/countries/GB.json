@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026110714,
+ "version": 2026110718,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
+  "gb.independent",
   "gb.thesun",
   "gb.bbcnewsarabic",
   "gb.timesradio",
@@ -427,9 +428,9 @@
     "en"
    ],
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
-   "youtubeVideoId": "uceYMxIBTFI",
+   "youtubeVideoId": "NrFD5n8C6BE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -501,7 +502,7 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "_a2gTaqDqYI",
+   "youtubeVideoId": "NHpIDO11zuU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q208875",

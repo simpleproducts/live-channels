@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026110714,
+ "version": 2026110718,
  "defaultTiles": [
   "ua.suspilne",
+  "ua.tsn",
   "ua.espreso",
   "ua.united24",
-  "ua.tsn",
   "ua.faktyictv",
   "ua.kyiv24",
   "ua.freedom",
@@ -162,7 +162,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "JxBAVoaFbfM",
+   "youtubeVideoId": "3NaolYY0Sm8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",

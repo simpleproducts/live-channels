@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110714,
+ "version": 2026110718,
  "defaultTiles": [
-  "ph.news5",
   "ph.dzrh"
  ],
  "channels": [
@@ -127,7 +126,7 @@
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
    "youtubeVideoId": "E1xGbmlmbJI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,13 +1,10 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026110714,
+ "version": 2026110718,
  "defaultTiles": [
-  "uy.elpaisuy",
-  "uy.carve",
-  "uy.sarandi",
-  "uy.teledoce",
-  "uy.universal"
+  "uy.elobservadoruy",
+  "uy.elpaisuy"
  ],
  "channels": [
   {
@@ -18,9 +15,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "HWjP27pXcEQ",
+   "youtubeVideoId": "7ZVedRSjteI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -173,7 +170,7 @@
    "youtubeChannelId": "UCimPJKAbuM6z6b6DPZz86Mw",
    "youtubeVideoId": "fkK3__z1-OM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3982807",
    "description": {
     "en": "Uruguayan television network",
@@ -303,7 +300,7 @@
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
    "youtubeVideoId": "K7taprD-PyA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -346,7 +343,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "wyw9fT3JoPA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,7 +361,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "KHxSoxooIWY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
