@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026110817,
+ "version": 2026110821,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -330,9 +330,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
-   "youtubeVideoId": "l4IpeRXCAnw",
+   "youtubeVideoId": "v5Ljki8np2U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7388983",
    "description": {
     "en": "news channel in South Korea",
@@ -510,9 +510,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
-   "youtubeVideoId": "VPoqjZzCrh8",
+   "youtubeVideoId": "67yjwvX3BDQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

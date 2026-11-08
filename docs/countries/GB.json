@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026110817,
+ "version": 2026110821,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
+  "gb.independent",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -426,9 +427,9 @@
     "en"
    ],
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
-   "youtubeVideoId": "NrFD5n8C6BE",
+   "youtubeVideoId": "QZq_RIOdHj0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",

@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110819,
+ "version": 2026110821,
  "defaultTiles": [
   "cl.24horas",
+  "cl.chvnoticias",
   "cl.t13",
   "cl.meganoticias",
-  "cl.chvnoticias",
   "cl.tvn",
   "cl.senado",
   "cl.cooperativa",
-  "cl.chilevision",
-  "cl.adn"
+  "cl.chilevision"
  ],
  "channels": [
   {
@@ -506,7 +505,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "pdPEH3sGTdk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -569,7 +568,7 @@
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
    "youtubeVideoId": "wg_mMdcsM1s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

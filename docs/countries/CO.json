@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110819,
+ "version": 2026110821,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -11,7 +11,7 @@
   "co.citytv",
   "co.rcnradio",
   "co.bluradio",
-  "co.caracolradio"
+  "co.senalcolombia"
  ],
  "channels": [
   {
@@ -263,9 +263,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwZjVanaSg019RVQea9V1kw",
-   "youtubeVideoId": "oC4r7VMGwmI",
+   "youtubeVideoId": "FQ3vXkI_PE8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2753712",
    "description": {
     "en": "Colombian TV channel",
@@ -486,7 +486,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "aBZaZVzazDE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -509,9 +509,9 @@
     "es"
    ],
    "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A",
-   "youtubeVideoId": "0ZBcyACICuw",
+   "youtubeVideoId": "bychCMAsMWg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5843056",
    "description": {
     "en": "public radio network in Columbia",

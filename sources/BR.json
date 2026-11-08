@@ -4,9 +4,9 @@
  "defaultTiles": ["recordnews", "cnnbrasil", "jovempan", "bandjornalismo", "sbtnews", "canalrural", "uol", "metropoles", "timesbrasil"],
  "channels": [
   {"id": "recordnews", "name": "Record News", "category": "news", "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw", "youtubeVideoId": "SqXKFHyaxS0", "embeddable": true, "live": true, "liveSince": "2026-11-07T21:25:48Z", "wikidata": "Q3056409"},
-  {"id": "cnnbrasil", "name": "CNN Brasil", "category": "news", "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw", "youtubeVideoId": "ccNO0ZIehsQ", "embeddable": true, "live": true, "liveSince": "2026-11-08T19:26:20Z"},
+  {"id": "cnnbrasil", "name": "CNN Brasil", "category": "news", "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw", "youtubeVideoId": "cpbI0t-yNX8", "embeddable": true, "live": true, "liveSince": "2026-11-08T20:05:31Z"},
   {"id": "jovempan", "name": "Jovem Pan News", "category": "news", "youtubeChannelId": "UCP391YRAjSOdM_bwievgaZA", "youtubeVideoId": "eTz4XgOQaAE", "embeddable": true, "live": true, "liveSince": "2023-12-22T22:38:33Z"},
-  {"id": "bandjornalismo", "name": "Band Jornalismo", "category": "news", "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA", "youtubeVideoId": "1vES_EMm8Gk", "embeddable": true, "live": true, "liveSince": "2026-11-08T19:00:45Z"},
+  {"id": "bandjornalismo", "name": "Band Jornalismo", "category": "news", "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA", "youtubeVideoId": "1vES_EMm8Gk", "embeddable": true, "live": false},
   {"id": "sbtnews", "name": "SBT News", "category": "news", "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA", "youtubeVideoId": "ZhI0FNn1b_Y", "embeddable": true, "live": true, "liveSince": "2026-11-08T19:22:50Z", "wikidata": "Q135520615"},
   {"id": "canalrural", "name": "Canal Rural", "category": "news", "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g", "youtubeVideoId": "9S5-3nuorkA", "embeddable": true, "live": false, "wikidata": "Q9693797"},
   {"id": "uol", "name": "UOL", "category": "news", "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q", "youtubeVideoId": "pO6Z4Nz2Rc0", "embeddable": true, "live": false},

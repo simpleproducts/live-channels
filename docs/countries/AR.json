@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026110819,
+ "version": 2026110821,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -195,7 +195,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "n06ZVEGseHA",
+   "youtubeVideoId": "5x2SCGuMLNY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5915760",
@@ -228,7 +228,7 @@
     "es"
    ],
    "youtubeChannelId": "UCHc3el42hXKKhjs_1vzWk9A",
-   "youtubeVideoId": "aRVOvVR-EPw",
+   "youtubeVideoId": "JtWb3q8j5sE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1143518",
@@ -553,9 +553,9 @@
     "es"
    ],
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-   "youtubeVideoId": "-A6uqKqwXCA",
+   "youtubeVideoId": "2cSGXmUfjM8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -1198,7 +1198,7 @@
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
    "youtubeVideoId": "FdVqUbMDDV0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

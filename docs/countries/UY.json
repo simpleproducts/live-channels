@@ -1,9 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026110819,
+ "version": 2026110821,
  "defaultTiles": [
-  "uy.tnu"
+  "uy.elobservadoruy",
+  "uy.ladiaria",
+  "uy.tnu",
+  "uy.carve",
+  "uy.delsol",
+  "uy.sarandi",
+  "uy.elpaisuy"
  ],
  "channels": [
   {
@@ -98,7 +104,7 @@
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
    "youtubeVideoId": "pxth4GmMTt4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",

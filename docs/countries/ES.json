@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026110819,
+ "version": 2026110821,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
   "es.elpais",
+  "es.elmundo",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.rtvcanarias",
-  "es.apunt"
+  "es.rtvcanarias"
  ],
  "channels": [
   {
@@ -169,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-   "youtubeVideoId": "94qXQyNuyYY",
+   "youtubeVideoId": "RdUmV7p2D-8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
