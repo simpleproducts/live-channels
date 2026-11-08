@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026110802,
+ "version": 2026110810,
  "defaultTiles": [
-  "vn.antv"
+  "vn.antv",
+  "vn.thanhnien"
  ],
  "channels": [
   {
@@ -14,7 +15,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "syHasF4sqaw",
+   "youtubeVideoId": "BKwRpT7sK3U",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -50,9 +51,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
-   "youtubeVideoId": "DA6gaummNsE",
+   "youtubeVideoId": "Di-s_KKZBzs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7710368",
    "description": {
     "en": "Vietnamese newspaper",

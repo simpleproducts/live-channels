@@ -1,9 +1,14 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110718,
+ "version": 2026110810,
  "defaultTiles": [
-  "ph.dzrh"
+  "ph.abscbn",
+  "ph.gma",
+  "ph.anc",
+  "ph.dzrh",
+  "ph.ptv",
+  "ph.teleradyo"
  ],
  "channels": [
   {
@@ -15,9 +20,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "AQgRhZcG1Zg",
+   "youtubeVideoId": "I6lxzVE7HVM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -52,9 +57,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "bJ0IJFyud54",
+   "youtubeVideoId": "hGbCo2t8WGg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -80,9 +85,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "3W0_egH3RtI",
+   "youtubeVideoId": "qVLTW0Rvmvs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -254,9 +259,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "7hKYja2nDq4",
+   "youtubeVideoId": "5AgI_LTk4QI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -418,9 +423,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "rhufdtuSSKc",
+   "youtubeVideoId": "P5jqx6EoQBU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

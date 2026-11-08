@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026110802,
+ "version": 2026110810,
  "defaultTiles": [
-  "eg.alghad"
+  "eg.alghad",
+  "eg.sadaelbalad"
  ],
  "channels": [
   {
@@ -79,9 +80,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCJWuV-EkLmRrGZ4afwUBenw",
-   "youtubeVideoId": "Cf7qeatSCso",
+   "youtubeVideoId": "aD1H97dQs34",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q63121712",
    "description": {
     "en": "Egyptian news website and satellite television channel",

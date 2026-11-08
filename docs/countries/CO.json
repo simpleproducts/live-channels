@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110802,
+ "version": 2026110810,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -10,8 +10,7 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio",
-  "co.caracolradio"
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -457,7 +456,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "U8fmKwHLIqo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -511,7 +510,7 @@
    "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A",
    "youtubeVideoId": "0ZBcyACICuw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5843056",
    "description": {
     "en": "public radio network in Columbia",

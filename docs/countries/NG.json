@@ -1,12 +1,14 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026110802,
+ "version": 2026110810,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
-  "ng.ait"
+  "ng.ntalive",
+  "ng.ait",
+  "ng.nta"
  ],
  "channels": [
   {
@@ -76,9 +78,9 @@
     "en"
    ],
    "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg",
-   "youtubeVideoId": "k_gb6FTNanY",
+   "youtubeVideoId": "fTItzbileak",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -118,9 +120,9 @@
     "en"
    ],
    "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g",
-   "youtubeVideoId": "pmst5RbyxLk",
+   "youtubeVideoId": "ZbZFGj39Qg0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
