@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110817,
+ "version": 2026110819,
  "defaultTiles": [
   "cl.24horas",
   "cl.t13",
@@ -10,6 +10,7 @@
   "cl.tvn",
   "cl.senado",
   "cl.cooperativa",
+  "cl.chilevision",
   "cl.adn"
  ],
  "channels": [
@@ -223,9 +224,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "8fPB7pClPlI",
+   "youtubeVideoId": "z9k4gdhVjGg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -503,7 +504,7 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "OdYyfy3oRb0",
+   "youtubeVideoId": "pdPEH3sGTdk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5653556",
@@ -566,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "BU7cYqsvlPw",
+   "youtubeVideoId": "wg_mMdcsM1s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

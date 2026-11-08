@@ -11,7 +11,7 @@
   {"id": "snt", "name": "SNT", "category": "broadcast", "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig", "youtubeVideoId": "ktKP8oBv_Wk", "embeddable": true, "live": false, "wikidata": "Q523293"},
   {"id": "unicanal", "name": "Unicanal", "category": "broadcast", "youtubeChannelId": "UCT9-9nG-go0cQGn9rVBzaxA", "live": false, "wikidata": "Q3549937"},
   {"id": "nanduti", "name": "Ñanduti 1020 AM", "category": "radio", "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A", "youtubeVideoId": "2ZJWmcJBW-U", "embeddable": true, "live": false},
-  {"id": "monumental", "name": "Monumental 1080 AM", "category": "radio", "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ", "youtubeVideoId": "UjoI4UD4Oj8", "embeddable": true, "live": false},
-  {"id": "caacupe", "name": "Basílica de Caacupé", "category": "religious", "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA", "youtubeVideoId": "GlQJrlQwKPs", "embeddable": true, "live": false}
+  {"id": "monumental", "name": "Monumental 1080 AM", "category": "radio", "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ", "youtubeVideoId": "oC1kOaN33qI", "embeddable": true, "live": true, "liveSince": "2026-11-08T19:03:56Z"},
+  {"id": "caacupe", "name": "Basílica de Caacupé", "category": "religious", "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA", "youtubeVideoId": "7OzooWUgykY", "embeddable": true, "live": true, "liveSince": "2026-11-08T19:38:53Z"}
  ]
 }

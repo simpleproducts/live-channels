@@ -1,10 +1,8 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026110817,
+ "version": 2026110819,
  "defaultTiles": [
-  "uy.elobservadoruy",
-  "uy.elpaisuy",
   "uy.tnu"
  ],
  "channels": [
@@ -18,7 +16,7 @@
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
    "youtubeVideoId": "4LkPUh1D9Hs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -82,7 +80,7 @@
    "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg",
    "youtubeVideoId": "UZnNhiitHSc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

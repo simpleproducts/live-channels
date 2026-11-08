@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-08T17:05:11Z",
+ "updated": "2026-11-08T19:46:36Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/AR.json"
   },
   {
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/BR.json"
   },
   {
@@ -150,7 +150,7 @@
     "fr"
    ],
    "channelCount": 11,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/CA.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/CL.json"
   },
   {
@@ -210,7 +210,7 @@
     "zh"
    ],
    "channelCount": 9,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/CN.json"
   },
   {
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/CO.json"
   },
   {
@@ -300,7 +300,7 @@
     "ar"
    ],
    "channelCount": 5,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/EG.json"
   },
   {
@@ -330,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/ES.json"
   },
   {
@@ -360,7 +360,7 @@
     "fr"
    ],
    "channelCount": 18,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/FR.json"
   },
   {
@@ -479,8 +479,8 @@
    "languages": [
     "he"
    ],
-   "channelCount": 6,
-   "version": 2026110817,
+   "channelCount": 7,
+   "version": 2026110819,
    "file": "countries/IL.json"
   },
   {
@@ -511,7 +511,7 @@
     "en"
    ],
    "channelCount": 24,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/IN.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/JP.json"
   },
   {
@@ -662,7 +662,7 @@
     "es"
    ],
    "channelCount": 25,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/MX.json"
   },
   {
@@ -692,7 +692,7 @@
     "en"
    ],
    "channelCount": 6,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/NG.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 19,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/PE.json"
   },
   {
@@ -843,7 +843,7 @@
     "pl"
    ],
    "channelCount": 11,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/PL.json"
   },
   {
@@ -873,7 +873,7 @@
     "pt"
    ],
    "channelCount": 7,
-   "version": 2026110802,
+   "version": 2026110819,
    "file": "countries/PT.json"
   },
   {
@@ -903,7 +903,7 @@
     "es"
    ],
    "channelCount": 10,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/PY.json"
   },
   {
@@ -933,7 +933,7 @@
     "ar"
    ],
    "channelCount": 7,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/QA.json"
   },
   {
@@ -993,7 +993,7 @@
     "ar"
    ],
    "channelCount": 6,
-   "version": 2026110113,
+   "version": 2026110819,
    "file": "countries/SA.json"
   },
   {
@@ -1053,7 +1053,7 @@
     "th"
    ],
    "channelCount": 15,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/TH.json"
   },
   {
@@ -1083,7 +1083,7 @@
     "tr"
    ],
    "channelCount": 19,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/TR.json"
   },
   {
@@ -1113,7 +1113,7 @@
     "uk"
    ],
    "channelCount": 11,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/UA.json"
   },
   {
@@ -1143,7 +1143,7 @@
     "en"
    ],
    "channelCount": 32,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/US.json"
   },
   {
@@ -1173,7 +1173,7 @@
     "es"
    ],
    "channelCount": 13,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/UY.json"
   },
   {
@@ -1293,7 +1293,7 @@
     "en"
    ],
    "channelCount": 8,
-   "version": 2026110817,
+   "version": 2026110819,
    "file": "countries/ZA.json"
   }
  ],
@@ -1428,45 +1428,9 @@
     "sa.asharq",
     "gb.bbcnewsarabic",
     "fr.france24ar",
+    "eg.alqahera",
     "qa.alaraby"
    ],
-   "featured": true
-  },
-  {
-   "id": "pope-leo-uruguay-2026",
-   "title": {
-    "en": "Pope Leo XIV in Uruguay",
-    "es": "El papa León XIV en Uruguay",
-    "zh-Hans": "教宗良十四世访问乌拉圭",
-    "ja": "教皇レオ14世 ウルグアイ訪問",
-    "fr": "Le pape Léon XIV en Uruguay",
-    "pt-BR": "Papa Leão XIV no Uruguai",
-    "ko": "교황 레오 14세 우루과이 방문",
-    "it": "Papa Leone XIV in Uruguay",
-    "ru": "Папа Лев XIV в Уругвае",
-    "zh-Hant": "教宗良十四世訪問烏拉圭",
-    "ar": "البابا لاوُن الرابع عشر في الأوروغواي",
-    "tr": "Papa XIV. Leo Uruguay'da",
-    "nl": "Paus Leo XIV in Uruguay",
-    "pl": "Papież Leon XIV w Urugwaju",
-    "sv": "Påven Leo XIV i Uruguay",
-    "id": "Paus Leo XIV di Uruguay",
-    "de": "Papst Leo XIV. in Uruguay",
-    "ms": "Paus Leo XIV di Uruguay"
-   },
-   "tiles": [
-    "va.vaticannewses",
-    "uy.tnu",
-    "uy.elobservadoruy",
-    "uy.elpaisuy",
-    "ar.tn",
-    "ar.c5n"
-   ],
-   "countries": [
-    "UY"
-   ],
-   "start": "2026-11-06T19:00:00Z",
-   "end": "2026-11-08T18:30:00Z",
    "featured": true
   },
   {
@@ -1575,8 +1539,7 @@
     "fr.franceinfo",
     "fr.bfmtv",
     "fr.france24",
-    "fr.euronewsfr",
-    "fr.tv5monde"
+    "fr.euronewsfr"
    ],
    "countries": [
     "FR"
@@ -1612,47 +1575,13 @@
     "pl.polsatnews",
     "pl.republika",
     "pl.wpolsce24",
-    "pl.tvpworld",
-    "pl.kanalzero"
+    "pl.tvpworld"
    ],
    "countries": [
     "PL"
    ],
    "start": "2026-11-11T10:30:00Z",
    "end": "2026-11-11T17:00:00Z",
-   "featured": true
-  },
-  {
-   "id": "ca-remembrance-2026",
-   "title": {
-    "en": "Remembrance Day in Ottawa",
-    "es": "Día del Recuerdo en Ottawa",
-    "zh-Hans": "渥太华阵亡将士纪念日",
-    "ja": "オタワ リメンブランス・デー",
-    "fr": "Jour du Souvenir à Ottawa",
-    "pt-BR": "Dia da Lembrança em Ottawa",
-    "ko": "오타와 현충일 기념식",
-    "it": "Remembrance Day a Ottawa",
-    "ru": "День памяти в Оттаве",
-    "zh-Hant": "渥太華陣亡將士紀念日",
-    "ar": "يوم الذكرى في أوتاوا",
-    "tr": "Ottawa'da Anma Günü",
-    "nl": "Remembrance Day in Ottawa",
-    "pl": "Dzień Pamięci w Ottawie",
-    "sv": "Remembrance Day i Ottawa",
-    "id": "Hari Peringatan di Ottawa",
-    "de": "Remembrance Day in Ottawa",
-    "ms": "Hari Peringatan di Ottawa"
-   },
-   "tiles": [
-    "ca.cbcnews",
-    "ca.globalnews"
-   ],
-   "countries": [
-    "CA"
-   ],
-   "start": "2026-11-11T15:00:00Z",
-   "end": "2026-11-11T17:30:00Z",
    "featured": true
   },
   {
@@ -1682,6 +1611,7 @@
     "pe.tvperunoticias",
     "pe.rpp",
     "pe.latina",
+    "pe.larepublica",
     "pe.elcomercio"
    ],
    "countries": [
@@ -1754,8 +1684,7 @@
    },
    "tiles": [
     "mx.milenio",
-    "mx.aztecanoticias",
-    "mx.adnnoticias"
+    "mx.aztecanoticias"
    ],
    "countries": [
     "MX"
@@ -1827,6 +1756,7 @@
    },
    "tiles": [
     "es.rtve24h",
+    "es.elpais",
     "es.3cat324",
     "es.euronewses",
     "es.libertaddigital"
@@ -1864,8 +1794,7 @@
     "fr.franceinfo",
     "fr.bfmtv",
     "fr.france24",
-    "fr.euronewsfr",
-    "fr.tv5monde"
+    "fr.euronewsfr"
    ],
    "countries": [
     "FR"
@@ -1949,6 +1878,40 @@
    "featured": true
   },
   {
+   "id": "py-caacupe-2026",
+   "title": {
+    "en": "Feast of the Virgin of Caacupé",
+    "es": "Fiesta de la Virgen de Caacupé",
+    "zh-Hans": "卡阿库佩圣母节",
+    "ja": "カアクペの聖母の祝日",
+    "fr": "Fête de la Vierge de Caacupé",
+    "pt-BR": "Festa da Virgem de Caacupé",
+    "ko": "카아쿠페 성모 축일",
+    "it": "Festa della Vergine di Caacupé",
+    "ru": "Праздник Девы Марии Каакупенской",
+    "zh-Hant": "卡阿庫佩聖母節",
+    "ar": "عيد عذراء كاكوبي",
+    "tr": "Caacupé Meryem Ana bayramı",
+    "nl": "Feest van de Maagd van Caacupé",
+    "pl": "Święto Matki Bożej z Caacupé",
+    "sv": "Jungfrun av Caacupés högtid",
+    "id": "Pesta Bunda Maria dari Caacupé",
+    "de": "Fest der Jungfrau von Caacupé",
+    "ms": "Perayaan Perawan Caacupé"
+   },
+   "tiles": [
+    "py.caacupe",
+    "py.abctv",
+    "py.monumental"
+   ],
+   "countries": [
+    "PY"
+   ],
+   "start": "2026-12-07T23:00:00Z",
+   "end": "2026-12-08T15:00:00Z",
+   "featured": true
+  },
+  {
    "id": "mx-guadalupe-2026",
    "title": {
     "en": "Virgin of Guadalupe: Las Mañanitas",
@@ -1973,7 +1936,6 @@
    "tiles": [
     "mx.milenio",
     "mx.aztecanoticias",
-    "mx.adnnoticias",
     "mx.multimedios"
    ],
    "countries": [
@@ -2078,6 +2040,7 @@
    },
    "tiles": [
     "es.rtve24h",
+    "es.elpais",
     "es.3cat324",
     "es.euronewses",
     "es.canalsur"

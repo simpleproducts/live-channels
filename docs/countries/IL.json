@@ -1,12 +1,14 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026110817,
+ "version": 2026110819,
  "defaultTiles": [
   "il.c14",
+  "il.i24he",
   "il.i24fr",
   "il.i24en",
-  "il.i24ar"
+  "il.i24ar",
+  "il.kan11"
  ],
  "channels": [
   {
@@ -136,6 +138,24 @@
    "city": "Tel Aviv"
   },
   {
+   "id": "il.i24he",
+   "name": "i24NEWS עברית",
+   "category": "news",
+   "languages": [
+    "he"
+   ],
+   "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
+   "youtubeVideoId": "c6m2w1W5Ee8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q136932915",
+   "description": {},
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_i24NEWS.png?width=256",
+   "website": "https://www.i24news.tv/he",
+   "city": null
+  },
+  {
    "id": "il.c14",
    "name": "ערוץ 14",
    "category": "news",
@@ -177,9 +197,9 @@
     "he"
    ],
    "youtubeChannelId": "UCKqFqiCe1dCUxRe0_YNZ6gg",
-   "youtubeVideoId": "-VBzxc57UMk",
+   "youtubeVideoId": "wVw3XFpkDB8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q29946049",
    "description": {
     "en": "Israeli Public Broadcasting television channel",

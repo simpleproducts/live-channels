@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026110817,
+ "version": 2026110819,
  "defaultTiles": [
   "pe.latina",
-  "pe.pbo",
+  "pe.larepublica",
   "pe.rpp",
   "pe.tvperunoticias",
   "pe.elcomercio",
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "6nnIUx06R20",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -40,9 +40,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "68J3OccomDg",
+   "youtubeVideoId": "hWjUTKcDBsw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -73,7 +73,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "E39YaQWjiOM",
+   "youtubeVideoId": "VaHb-1hfHXk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -147,7 +147,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "c6P4FmqP1o8",
+   "youtubeVideoId": "n85Z_McDgng",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -361,7 +361,7 @@
     "es"
    ],
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
-   "youtubeVideoId": "eSSTYU9iB8c",
+   "youtubeVideoId": "NvL73F8GBJM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3076196",
@@ -465,7 +465,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "sufq-zpPgrk",
+   "youtubeVideoId": "vQ5aKbxZlUE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -489,7 +489,7 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "vWl5rJuuHkg",
+   "youtubeVideoId": "OJtaasg0iIc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096493",

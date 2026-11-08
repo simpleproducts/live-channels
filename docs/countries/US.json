@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110817,
+ "version": 2026110819,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.nbcnews",
-  "us.newsmax",
   "us.foxweather",
   "us.livenow",
   "us.nmasunivision",
   "us.telemundo",
-  "us.cnnee"
+  "us.cnnee",
+  "us.bloomberg"
  ],
  "channels": [
   {
@@ -263,7 +263,7 @@
    "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg",
    "youtubeVideoId": "MXosVElBUJQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q18353130",
    "description": {
     "en": "American news channel",

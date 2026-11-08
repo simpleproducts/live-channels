@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026110817,
+ "version": 2026110819,
  "defaultTiles": [
-  "br.jovempan",
   "br.recordnews",
+  "br.jovempan",
   "br.cnnbrasil",
+  "br.bandjornalismo",
   "br.sbtnews",
   "br.canalgov",
   "br.gaucha",
   "br.cbn",
-  "br.bandnewsfm",
-  "br.itatiaia"
+  "br.bandnewsfm"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "V_yYU_n-KnY",
+   "youtubeVideoId": "ccNO0ZIehsQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -116,9 +116,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA",
-   "youtubeVideoId": "Y_uKkAQ4NmM",
+   "youtubeVideoId": "1vES_EMm8Gk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q137910166",
    "description": {
     "en": "Official Band Journalism channel with exclusive live streams, full news programs, expert commentary, special reports, and on-demand content from Band TV."
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "kf7IDgLsQV0",
+   "youtubeVideoId": "ZhI0FNn1b_Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "PWfs0BE6xG0",
+   "youtubeVideoId": "A6LCoE-VsxA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "R_JfRptyvak",
+   "youtubeVideoId": "p2b-Flq4SCY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "EIKXFmVnI5w",
+   "youtubeVideoId": "_UCYuZp_H5Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",

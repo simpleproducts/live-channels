@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026110817,
+ "version": 2026110819,
  "defaultTiles": [
   "cn.cgtnfr",
   "cn.cgtnru",
-  "cn.cgtneurope",
-  "cn.cgtnafrica"
+  "cn.cgtneurope"
  ],
  "channels": [
   {
@@ -230,7 +229,7 @@
    "youtubeChannelId": "UCMeYPU1YfXjxsUa6QXWsfjg",
    "youtubeVideoId": "YR430d7YZaw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10872818",
    "description": {
     "en": "television channel",
