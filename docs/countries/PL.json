@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026110810,
+ "version": 2026110817,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
+  "pl.polsatnews",
   "pl.tvpworld",
   "pl.kanalzero"
  ],
@@ -58,9 +59,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCb7O4-iI4pEO5UZPlOBr0Ug",
-   "youtubeVideoId": "sjI196LTtNs",
+   "youtubeVideoId": "jHYkA4U1w6U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026110810,
+ "version": 2026110817,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -10,8 +10,8 @@
   "ar.canal26",
   "ar.cronica",
   "ar.canalrural",
-  "ar.america",
-  "ar.canal10cba"
+  "ar.infobae",
+  "ar.america"
  ],
  "channels": [
   {
@@ -195,9 +195,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "h40WGj3pv5w",
+   "youtubeVideoId": "n06ZVEGseHA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -328,7 +328,7 @@
     "es"
    ],
    "youtubeChannelId": "UCs231K71Bnu5295_x0MB5Pg",
-   "youtubeVideoId": "nnp-OBeqI0s",
+   "youtubeVideoId": "D1Ao1SsjMhQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1032483",
@@ -922,9 +922,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "KOHOhu22b9Y",
+   "youtubeVideoId": "K7xEPRdJJ2U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -1118,7 +1118,7 @@
     "es"
    ],
    "youtubeChannelId": "UCLAj5TzCrNbqe3LosSKHLcQ",
-   "youtubeVideoId": "9lG_SwPK0yQ",
+   "youtubeVideoId": "OhIG7CpH4x8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1196,9 +1196,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "C2qxVjXxA8c",
+   "youtubeVideoId": "FdVqUbMDDV0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1325,7 +1325,7 @@
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
    "youtubeVideoId": "BNeTSDPjTCc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1341,9 +1341,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwFdmeWekV3uGthAJENUu7A",
-   "youtubeVideoId": "gmsUZjWboYU",
+   "youtubeVideoId": "GsB40kcqCvc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

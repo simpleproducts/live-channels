@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026110810,
+ "version": 2026110817,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
+  "mx.adnnoticias",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.canalonce"
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -187,9 +188,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7k--FhnJzhPTrbtldMSoQQ",
-   "youtubeVideoId": "sS--8X3-1sc",
+   "youtubeVideoId": "DtRnN4lwFEg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -289,7 +290,7 @@
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
    "youtubeVideoId": "9JECCNo3huY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -486,9 +487,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "u9zElOr9d8A",
+   "youtubeVideoId": "JPYADSoS15E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",

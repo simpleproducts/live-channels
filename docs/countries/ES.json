@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026110810,
+ "version": 2026110817,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
-  "es.elpais",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
   "es.rtvcanarias",
+  "es.apunt",
   "es.ser"
  ],
  "channels": [
@@ -99,7 +99,7 @@
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
    "youtubeVideoId": "plgomrJY3To",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -395,9 +395,9 @@
     "es"
    ],
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
-   "youtubeVideoId": "aHtg1sid9mQ",
+   "youtubeVideoId": "6kSyAZ5eW88",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -683,9 +683,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "l9lUQcko5Ac",
+   "youtubeVideoId": "XPTe2WcZg1g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",

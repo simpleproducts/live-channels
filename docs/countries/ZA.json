@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026110718,
+ "version": 2026110817,
  "defaultTiles": [
   "za.sabcnews",
-  "za.enca",
   "za.newzroom",
-  "za.news24"
+  "za.iec",
+  "za.radio702"
  ],
  "channels": [
   {
@@ -17,9 +17,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
-   "youtubeVideoId": "iZQcRewXNdA",
+   "youtubeVideoId": "-ZNQC4QLwis",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q48767445",
    "description": {
     "en": "news channel owned by the South African Broadcasting Corporation",
@@ -64,9 +64,9 @@
     "en"
    ],
    "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "TdIzOvqc_KQ",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -163,9 +163,9 @@
     "en"
    ],
    "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ",
-   "youtubeVideoId": "7FmwX8MPkzc",
+   "youtubeVideoId": "JsbwK9gsEu0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -181,9 +181,9 @@
     "en"
    ],
    "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
-   "youtubeVideoId": "Z9nX0k-v-UM",
+   "youtubeVideoId": "Aa46HFlyNfQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
