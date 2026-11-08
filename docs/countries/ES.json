@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026110722,
+ "version": 2026110802,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
-  "es.elmundo",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
   "es.rtvcanarias",
-  "es.apunt"
+  "es.tvg"
  ],
  "channels": [
   {
@@ -171,7 +170,7 @@
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
    "youtubeVideoId": "94qXQyNuyYY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -397,7 +396,7 @@
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
    "youtubeVideoId": "aHtg1sid9mQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",

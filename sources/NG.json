@@ -8,6 +8,6 @@
   {"id": "tvcnews", "name": "TVC News Nigeria", "category": "news", "youtubeChannelId": "UCgp4A6I8LCWrhUzn-5SbKvA", "youtubeVideoId": "5qZKM7m1Moc", "embeddable": true, "live": true, "liveSince": "2026-08-17T08:11:57Z"},
   {"id": "ntalive", "name": "NTA Live", "category": "news", "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg", "youtubeVideoId": "k_gb6FTNanY", "embeddable": true, "live": false},
   {"id": "ait", "name": "Africa Independent Television", "category": "broadcast", "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g", "youtubeVideoId": "zvnWzQ7EzOg", "embeddable": true, "live": true, "liveSince": "2026-11-07T19:58:27Z", "wikidata": "Q979027"},
-  {"id": "nta", "name": "NTA Network", "category": "broadcast", "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g", "youtubeVideoId": "pmst5RbyxLk", "embeddable": true, "live": true, "liveSince": "2026-11-07T12:30:54Z"}
+  {"id": "nta", "name": "NTA Network", "category": "broadcast", "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g", "youtubeVideoId": "pmst5RbyxLk", "embeddable": true, "live": false}
  ]
 }
