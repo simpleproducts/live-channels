@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026110819,
+ "version": 2026110918,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -760,9 +760,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCwI-JbGNsojunnHbFAc0M4Q",
-   "youtubeVideoId": "B56nYtuByDA",
+   "youtubeVideoId": "NGGoBavjtiw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q8073",
    "description": {
     "en": "Franco-German television channel and network",

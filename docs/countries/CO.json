@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026110907,
+ "version": 2026110918,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -10,6 +10,7 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
+  "co.teleantioquianoticias",
   "co.bluradio"
  ],
  "channels": [
@@ -340,9 +341,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "6cuK90Dcy3g",
+   "youtubeVideoId": "pdkKZPQIvlg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -384,9 +385,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": "Wv2MRtkeQCE",
+   "youtubeVideoId": "5CobH14OR9s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -426,7 +427,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "QmPc5_9TDws",
+   "youtubeVideoId": "1QgER9ap6MM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -454,9 +455,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "2gR2yfcfiZA",
+   "youtubeVideoId": "fOl8tEXzVsY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -483,9 +484,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "aBZaZVzazDE",
+   "youtubeVideoId": "qSjMLH5Rwvo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -569,9 +570,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
-   "youtubeVideoId": "iEuarz5NHX4",
+   "youtubeVideoId": "eL2Sry3kVYU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

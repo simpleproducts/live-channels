@@ -1,14 +1,9 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110907,
+ "version": 2026110918,
  "defaultTiles": [
-  "ph.abscbn",
-  "ph.untv",
-  "ph.rappler",
-  "ph.anc",
-  "ph.dzrh",
-  "ph.teleradyo"
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -22,7 +17,7 @@
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
    "youtubeVideoId": "hC6Qgc5LLOQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -87,7 +82,7 @@
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
    "youtubeVideoId": "UwGn9AXZ7pQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -150,7 +145,7 @@
    "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw",
    "youtubeVideoId": "Kug2S8KXFBM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28452148",
    "description": {
     "en": "television network in the Philippines"
@@ -192,7 +187,7 @@
    "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw",
    "youtubeVideoId": "-dmPtBo_GE0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q14903716",
    "description": {
     "en": "news website company in the Philippines",
@@ -425,7 +420,7 @@
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
    "youtubeVideoId": "u1oEUl_U0Xs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

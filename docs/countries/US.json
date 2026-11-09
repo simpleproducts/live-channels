@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110819,
+ "version": 2026110918,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
-  "us.nbcnews",
-  "us.foxweather",
   "us.livenow",
-  "us.nmasunivision",
-  "us.telemundo",
-  "us.cnnee",
-  "us.bloomberg"
+  "us.foxweather",
+  "us.nbcnews",
+  "us.newsmax",
+  "us.scripps",
+  "us.pbsnewshour",
+  "us.ap"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "4a4IWlRVth0",
+   "youtubeVideoId": "gYxWuStqezM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -261,9 +261,9 @@
     "en"
    ],
    "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-   "youtubeVideoId": "MXosVElBUJQ",
+   "youtubeVideoId": "byyV_hRHXNY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q18353130",
    "description": {
     "en": "American news channel",
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "TivR1aPk0-8",
+   "youtubeVideoId": "6CsbqoJ9s3k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -429,9 +429,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "DJD3DXNsDM8",
+   "youtubeVideoId": "faweL0xlwAE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "W1K79fqWh5k",
+   "youtubeVideoId": "YvEFG-5_o8I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -707,9 +707,9 @@
     "en"
    ],
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
-   "youtubeVideoId": "KNgya51wdTQ",
+   "youtubeVideoId": "wTqIoE1GURc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "HHU_VY1cjYA",
+   "youtubeVideoId": "OxlirqmVlwk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

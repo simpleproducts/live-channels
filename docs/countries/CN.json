@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026110821,
+ "version": 2026110918,
  "defaultTiles": [
+  "cn.cgtneurope",
   "cn.cgtnfr",
-  "cn.cgtnru",
-  "cn.cgtneurope"
+  "cn.cgtnru"
  ],
  "channels": [
   {

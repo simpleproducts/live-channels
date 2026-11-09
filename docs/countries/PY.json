@@ -1,9 +1,13 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026110907,
+ "version": 2026110918,
  "defaultTiles": [
   "py.abctv",
+  "py.npy",
+  "py.gen",
+  "py.telefuturo",
+  "py.nanduti",
   "py.monumental"
  ],
  "channels": [
@@ -15,7 +19,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
-   "youtubeVideoId": "_fErtNn64H8",
+   "youtubeVideoId": "QBiNXEpxdpI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -33,9 +37,9 @@
     "es"
    ],
    "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA",
-   "youtubeVideoId": "yOaBc8HnFJI",
+   "youtubeVideoId": "ibpY2ORubJU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -80,9 +84,9 @@
     "es"
    ],
    "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA",
-   "youtubeVideoId": "GtoT3gNq9O4",
+   "youtubeVideoId": "1r-bDiA4VEU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -98,9 +102,9 @@
     "es"
    ],
    "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA",
-   "youtubeVideoId": "C_lDY_wsFew",
+   "youtubeVideoId": "luymOyhbbyc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3140411",
    "description": {
     "en": "Paraguayan free-to-air television network",
@@ -191,9 +195,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A",
-   "youtubeVideoId": "2ZJWmcJBW-U",
+   "youtubeVideoId": "WAm15Qg0cKc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

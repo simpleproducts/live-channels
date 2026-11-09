@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "SA",
- "version": 2026110821,
+ "version": 2026110918,
  "defaultTiles": [
   "sa.alekhbariya",
   "sa.asharq",
   "sa.asharqbusiness",
-  "sa.quran",
-  "sa.sunnah",
   "sa.ksasports"
  ],
  "channels": [
@@ -113,7 +111,7 @@
    "youtubeChannelId": "UCos52azQNBgW63_9uDJoPDA",
    "youtubeVideoId": "eC4LfEVxvKg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16120292",
    "description": {
     "ar": "قناة دينية"
@@ -135,7 +133,7 @@
    "youtubeChannelId": "UCROKYPep-UuODNwyipe6JMw",
    "youtubeVideoId": "Rs7St51oDDc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16120241",
    "description": {
     "en": "A Saudi television channel broadcasting from Medina 24 hours a day",

@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110907,
+ "version": 2026110918,
  "defaultTiles": [
   "cl.24horas",
-  "cl.chvnoticias",
   "cl.t13",
   "cl.meganoticias",
+  "cl.chvnoticias",
+  "cl.biobio",
   "cl.senado",
   "cl.cooperativa",
   "cl.tvn",
@@ -21,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "dXZ2R-PWl3Q",
+   "youtubeVideoId": "ValGUKSH6FU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -66,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "RKUZ75-Vtjs",
+   "youtubeVideoId": "Sx8KJPa5tqA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -136,9 +137,9 @@
     "es"
    ],
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
-   "youtubeVideoId": "88ZUAkvod7E",
+   "youtubeVideoId": "FpMbS2hpJ2U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -373,9 +374,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZnboDa_k5jxFCGp6jVhpUQ",
-   "youtubeVideoId": "bmDXxyNp2sk",
+   "youtubeVideoId": "1hGDFldYLVs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3547157",
    "description": {
     "en": "Chilean television channel, formerly known as UCV Televisión",
@@ -455,9 +456,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA",
-   "youtubeVideoId": "6I7CerD8phw",
+   "youtubeVideoId": "iypBSDDshkw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2119518",
    "description": {
     "en": "Lower house of Chile's National Congress",
@@ -566,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "wg_mMdcsM1s",
+   "youtubeVideoId": "eEF2lsx91k8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
