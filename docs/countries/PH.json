@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026110900,
+ "version": 2026110907,
  "defaultTiles": [
   "ph.abscbn",
   "ph.untv",
+  "ph.rappler",
   "ph.anc",
   "ph.dzrh",
   "ph.teleradyo"
@@ -19,7 +20,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "J_EYcQxHS7E",
+   "youtubeVideoId": "hC6Qgc5LLOQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -84,7 +85,7 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "yUnoivsq4XE",
+   "youtubeVideoId": "UwGn9AXZ7pQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -147,7 +148,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw",
-   "youtubeVideoId": "0Ubl1vMfBqA",
+   "youtubeVideoId": "Kug2S8KXFBM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q28452148",
@@ -189,9 +190,9 @@
     "en"
    ],
    "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw",
-   "youtubeVideoId": "JxP9kmxg0po",
+   "youtubeVideoId": "-dmPtBo_GE0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q14903716",
    "description": {
     "en": "news website company in the Philippines",
@@ -422,7 +423,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "PHJTxSx6u_M",
+   "youtubeVideoId": "u1oEUl_U0Xs",
    "embeddable": true,
    "live": true,
    "wikidata": null,

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026110900,
+ "version": 2026110907,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -230,7 +230,7 @@
    "youtubeChannelId": "UCHc3el42hXKKhjs_1vzWk9A",
    "youtubeVideoId": "r3zrGTvWD2s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1143518",
    "description": {
     "en": "Argentine television network",
@@ -555,7 +555,7 @@
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
    "youtubeVideoId": "2cSGXmUfjM8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -1062,7 +1062,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYvINPByAdCcpA0sWrF3I_w",
-   "youtubeVideoId": "gLRijRdfkjU",
+   "youtubeVideoId": "4kHIIA_Dp3Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3416744",

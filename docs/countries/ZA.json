@@ -1,9 +1,9 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026110819,
+ "version": 2026110907,
  "defaultTiles": [
-  "za.iec"
+  "za.radio702"
  ],
  "channels": [
   {
@@ -162,7 +162,7 @@
    "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ",
    "youtubeVideoId": "uJ1dmUDnVPU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -178,9 +178,9 @@
     "en"
    ],
    "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
-   "youtubeVideoId": "Aa46HFlyNfQ",
+   "youtubeVideoId": "TzH1vD2hXi4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

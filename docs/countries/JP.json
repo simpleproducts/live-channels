@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026110900,
+ "version": 2026110907,
  "defaultTiles": [
   "jp.ntvnews",
-  "jp.fnn",
-  "jp.ann",
   "jp.tbs",
+  "jp.fnn",
   "jp.weathernews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
-  "jp.ytv"
+  "jp.ytv",
+  "jp.ktv"
  ],
  "channels": [
   {
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
    "youtubeVideoId": "4XqiNFJuNsU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q843772",
    "description": {
     "en": "Japanese television network",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "F-e3JSif8bE",
+   "youtubeVideoId": "yN2SzKwjLlc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -115,7 +115,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-   "youtubeVideoId": "hUKqWqKi-RA",
+   "youtubeVideoId": "6OdH9G9KbYg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q124919956",
@@ -615,7 +615,7 @@
    "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q",
    "youtubeVideoId": "XKskh8DTOgY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q843448",
    "description": {
     "en": "radio station in Tokyo",
