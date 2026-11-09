@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-08T21:12:24Z",
+ "updated": "2026-11-09T00:56:07Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/AR.json"
   },
   {
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/BR.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/CL.json"
   },
   {
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/CO.json"
   },
   {
@@ -330,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/ES.json"
   },
   {
@@ -390,7 +390,7 @@
     "en"
    ],
    "channelCount": 17,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/GB.json"
   },
   {
@@ -480,7 +480,7 @@
     "he"
    ],
    "channelCount": 7,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/IL.json"
   },
   {
@@ -511,7 +511,7 @@
     "en"
    ],
    "channelCount": 24,
-   "version": 2026110819,
+   "version": 2026110900,
    "file": "countries/IN.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/JP.json"
   },
   {
@@ -602,7 +602,7 @@
     "sw"
    ],
    "channelCount": 11,
-   "version": 2026110817,
+   "version": 2026110900,
    "file": "countries/KE.json"
   },
   {
@@ -632,7 +632,7 @@
     "ko"
    ],
    "channelCount": 31,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/KR.json"
   },
   {
@@ -662,7 +662,7 @@
     "es"
    ],
    "channelCount": 25,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/MX.json"
   },
   {
@@ -692,7 +692,7 @@
     "en"
    ],
    "channelCount": 6,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/NG.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 19,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/PE.json"
   },
   {
@@ -783,7 +783,7 @@
     "en"
    ],
    "channelCount": 16,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/PH.json"
   },
   {
@@ -873,7 +873,7 @@
     "pt"
    ],
    "channelCount": 7,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/PT.json"
   },
   {
@@ -903,7 +903,7 @@
     "es"
    ],
    "channelCount": 10,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/PY.json"
   },
   {
@@ -933,7 +933,7 @@
     "ar"
    ],
    "channelCount": 7,
-   "version": 2026110821,
+   "version": 2026110900,
    "file": "countries/QA.json"
   },
   {
@@ -1263,7 +1263,7 @@
     "vi"
    ],
    "channelCount": 8,
-   "version": 2026110817,
+   "version": 2026110900,
    "file": "countries/VN.json"
   },
   {
@@ -1362,7 +1362,6 @@
     "es.euronewses",
     "es.rtve24h",
     "ar.tn",
-    "mx.nmas",
     "co.ntn24",
     "us.telemundo"
    ],
@@ -1429,8 +1428,7 @@
     "sa.asharq",
     "gb.bbcnewsarabic",
     "fr.france24ar",
-    "eg.alqahera",
-    "qa.alaraby"
+    "eg.alqahera"
    ],
    "featured": true
   },
@@ -1464,7 +1462,6 @@
     "ar.lnmas",
     "ar.a24",
     "ar.cronica",
-    "ar.infobae",
     "ar.canal26"
    ],
    "countries": [
@@ -1610,8 +1607,7 @@
     "va.vaticannewses",
     "pe.tvperunoticias",
     "pe.latina",
-    "pe.larepublica",
-    "pe.elcomercio"
+    "pe.willax"
    ],
    "countries": [
     "PE"
@@ -1717,7 +1713,6 @@
    },
    "tiles": [
     "mx.milenio",
-    "mx.nmas",
     "mx.aztecanoticias",
     "mx.adnnoticias",
     "mx.canalonce"
@@ -1792,8 +1787,6 @@
    },
    "tiles": [
     "es.rtve24h",
-    "es.elpais",
-    "es.elmundo",
     "es.3cat324",
     "es.euronewses",
     "es.libertaddigital"
@@ -1935,7 +1928,6 @@
     "qa.aje",
     "qa.aja",
     "qa.mubasher",
-    "qa.alaraby",
     "qa.qatartv",
     "ae.skynewsarabia",
     "ae.alarabiya",
@@ -1971,9 +1963,7 @@
     "ms": "Perayaan Perawan Caacupé"
    },
    "tiles": [
-    "py.caacupe",
     "py.abctv",
-    "py.npy",
     "py.monumental"
    ],
    "countries": [
@@ -2007,7 +1997,6 @@
    },
    "tiles": [
     "mx.milenio",
-    "mx.nmas",
     "mx.aztecanoticias",
     "mx.adnnoticias",
     "mx.multimedios"
@@ -2042,7 +2031,6 @@
     "ms": "Hari Jamhuri Kenya"
    },
    "tiles": [
-    "ke.citizentv",
     "ke.ntv",
     "ke.ktn",
     "ke.k24"
@@ -2080,8 +2068,7 @@
     "qa.qatartv",
     "qa.aja",
     "qa.mubasher",
-    "qa.aje",
-    "qa.alaraby"
+    "qa.aje"
    ],
    "countries": [
     "QA"
@@ -2114,8 +2101,6 @@
    },
    "tiles": [
     "es.rtve24h",
-    "es.elpais",
-    "es.elmundo",
     "es.3cat324",
     "es.euronewses",
     "es.canalsur"

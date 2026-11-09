@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026110819,
+ "version": 2026110900,
  "defaultTiles": [
   "in.ddnews",
-  "in.indiatv",
   "in.aajtak",
   "in.ndtvindia",
   "in.abpnews",
   "in.zeenews",
   "in.news18india",
   "in.tv9bharatvarsh",
-  "in.republicworld"
+  "in.republicworld",
+  "in.timesnow"
  ],
  "channels": [
   {
@@ -25,7 +25,7 @@
    "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ",
    "youtubeVideoId": "B8EJpluT800",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6019415",
    "description": {
     "en": "News in English: Latest News, Breaking News, Live Updates - IndiaTV News",
@@ -79,7 +79,7 @@
     "en"
    ],
    "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
-   "youtubeVideoId": "_f7hVYEbojU",
+   "youtubeVideoId": "F8N7NFo87Tk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "NC76UcIwAyQ",
+   "youtubeVideoId": "FCEksEE5GQY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",
@@ -519,7 +519,7 @@
     "en"
    ],
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
-   "youtubeVideoId": "LqkoCl4CxY8",
+   "youtubeVideoId": "JKHBQqaLcNI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2613165",

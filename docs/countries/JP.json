@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026110821,
+ "version": 2026110900,
  "defaultTiles": [
   "jp.ntvnews",
   "jp.fnn",
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "UI3AMgJl2CI",
+   "youtubeVideoId": "4XqiNFJuNsU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -613,9 +613,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q",
-   "youtubeVideoId": "XpDl_DlAq0I",
+   "youtubeVideoId": "XKskh8DTOgY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q843448",
    "description": {
     "en": "radio station in Tokyo",

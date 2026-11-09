@@ -1,17 +1,13 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026110821,
+ "version": 2026110900,
  "defaultTiles": [
   "pe.latina",
-  "pe.larepublica",
+  "pe.willax",
   "pe.tvperunoticias",
-  "pe.elcomercio",
   "pe.congreso",
-  "pe.panamericana",
-  "pe.tvperu",
-  "pe.exitosa",
-  "pe.radionacional"
+  "pe.exitosa"
  ],
  "channels": [
   {
@@ -42,7 +38,7 @@
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
    "youtubeVideoId": "hWjUTKcDBsw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -121,9 +117,9 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "GhmCznHfzBk",
+   "youtubeVideoId": "OGXqIo7Z524",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -147,7 +143,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "uwHNaEcRZL4",
+   "youtubeVideoId": "1cM-QN3t_Zc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -216,7 +212,7 @@
    "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg",
    "youtubeVideoId": "RLlrpZIHM5A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1324020",
    "description": {
     "en": "newspaper from Peru",
@@ -330,7 +326,7 @@
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
    "youtubeVideoId": "7BenCoB6N4Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -363,7 +359,7 @@
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
    "youtubeVideoId": "NvL73F8GBJM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3076196",
    "description": {
     "en": "Peruvian State-owned television broadcaster, owned by the government",
@@ -465,7 +461,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "a0rGA_IzLxg",
+   "youtubeVideoId": "tzIngPQdxYg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -491,7 +487,7 @@
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
    "youtubeVideoId": "nfsBDBXrnUA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096493",
    "description": {
     "en": "radio station",

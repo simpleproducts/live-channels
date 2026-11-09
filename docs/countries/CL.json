@@ -1,15 +1,15 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026110821,
+ "version": 2026110900,
  "defaultTiles": [
   "cl.24horas",
   "cl.chvnoticias",
   "cl.t13",
   "cl.meganoticias",
-  "cl.tvn",
   "cl.senado",
   "cl.cooperativa",
+  "cl.tvn",
   "cl.chilevision"
  ],
  "channels": [
@@ -167,7 +167,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "ihMQmo-WRRo",
+   "youtubeVideoId": "Dev3dT0jEbY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -223,7 +223,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "z9k4gdhVjGg",
+   "youtubeVideoId": "LuMGec4WHlo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
