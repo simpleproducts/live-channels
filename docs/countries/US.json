@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111002,
+ "version": 2026111009,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.livenow",
-  "us.foxweather",
   "us.newsmax",
+  "us.foxweather",
+  "us.nbcnews",
+  "us.ap",
   "us.nmasunivision",
-  "us.telemundo",
-  "us.cnnee",
-  "us.bloomberg"
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -189,9 +189,9 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "gYxWuStqezM",
+   "youtubeVideoId": "lrZ_C9B4hZs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2877626",
    "description": {
     "en": "news division of NBC",
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "YvEFG-5_o8I",
+   "youtubeVideoId": "Q4rT_ZO_vSg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -967,9 +967,9 @@
     "en"
    ],
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
-   "youtubeVideoId": "bBJ9AJF2X00",
+   "youtubeVideoId": "YGE4ygTMvrI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

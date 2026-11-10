@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026111002,
+ "version": 2026111009,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -11,7 +11,7 @@
   "es.eitb",
   "es.rtvcanarias",
   "es.telemadrid",
-  "es.tvg"
+  "es.ser"
  ],
  "channels": [
   {
@@ -638,9 +638,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "Cj4Af4xV8V4",
+   "youtubeVideoId": "roX9Q7yoL2Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -683,9 +683,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "kfIuONH8nNo",
+   "youtubeVideoId": "qEpx4UwcRCY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -749,9 +749,9 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "PUxcNbtK3sA",
+   "youtubeVideoId": "FN3GMB8sd6M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

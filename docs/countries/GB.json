@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026111002,
+ "version": 2026111009,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.bbcnewsarabic",
-  "gb.timesradio",
-  "gb.talksport"
+  "gb.reuters",
+  "gb.independent",
+  "gb.mirror",
+  "gb.thesun",
+  "gb.express"
  ],
  "channels": [
   {
@@ -170,9 +172,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "haLlM9ieoVY",
+   "youtubeVideoId": "vRf9g-ot2b4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -426,9 +428,9 @@
     "en"
    ],
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
-   "youtubeVideoId": "QZq_RIOdHj0",
+   "youtubeVideoId": "KmjqEVueyp8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -482,9 +484,9 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "5PaVV4yHy6g",
+   "youtubeVideoId": "8icjrh1MAD8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -500,9 +502,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "pcER7o1luEc",
+   "youtubeVideoId": "wjD19i7Tk9A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",
@@ -554,9 +556,9 @@
     "en"
    ],
    "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA",
-   "youtubeVideoId": "EFJ9EyhtZMc",
+   "youtubeVideoId": "Tz5-_AlVXsw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

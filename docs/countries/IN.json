@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026111002,
+ "version": 2026111009,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
@@ -23,7 +23,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCttspZesZIDEwwpVIgoZtWQ",
-   "youtubeVideoId": "hXaa1Fj6Ebo",
+   "youtubeVideoId": "MN3rpc8fvu8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6019415",
@@ -53,7 +53,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-   "youtubeVideoId": "ZXBb4AP81Ik",
+   "youtubeVideoId": "t7Xx6JYnYMk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3396358",
@@ -79,7 +79,7 @@
     "en"
    ],
    "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
-   "youtubeVideoId": "QifWHr5J53Q",
+   "youtubeVideoId": "aB8lfNJo0NQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -196,7 +196,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
-   "youtubeVideoId": "hvjLtP5Iblw",
+   "youtubeVideoId": "CBtsO0TBZY8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3630156",
@@ -229,7 +229,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCIvaYmXn910QMdemBG3v1pQ",
-   "youtubeVideoId": "UxpkZV6v4GA",
+   "youtubeVideoId": "3iUmOZ9gVtE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5287969",
@@ -261,9 +261,9 @@
     "en"
    ],
    "youtubeChannelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-   "youtubeVideoId": "CfU9Bi1fq5g",
+   "youtubeVideoId": "qYMX8VSYXvg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q23058781",
    "description": {
     "en": "Indian television news channel",
@@ -300,7 +300,7 @@
     "en"
    ],
    "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-   "youtubeVideoId": "CC7whweVRDg",
+   "youtubeVideoId": "D2TEwvMZy6s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5689808",
@@ -353,7 +353,7 @@
     "en"
    ],
    "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
-   "youtubeVideoId": "PVGgsOKnO8k",
+   "youtubeVideoId": "_K9wDxC3qmU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q19891764",
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "MKyU8HVyPjM",
+   "youtubeVideoId": "_HFX-Xw8Kdw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",
@@ -420,7 +420,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
-   "youtubeVideoId": "7pLNiD7f6-M",
+   "youtubeVideoId": "J0BC8Zu2Qs8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65042846",
@@ -519,7 +519,7 @@
     "en"
    ],
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
-   "youtubeVideoId": "77uT-ehx994",
+   "youtubeVideoId": "Wyklvbxl_U4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2613165",
@@ -585,7 +585,7 @@
     "en"
    ],
    "youtubeChannelId": "UCI_mwTKUhicNzFrhm33MzBQ",
-   "youtubeVideoId": "lSpb1qD_sic",
+   "youtubeVideoId": "K-nsnZJXSMk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5324510",
@@ -607,7 +607,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3uJIdRFTGgLWrUziaHbzrg",
-   "youtubeVideoId": "wH8kqhVaAAM",
+   "youtubeVideoId": "9aw4NVaQYLc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6953329",
@@ -629,7 +629,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCQIycDaLsBpMKjOCeaKUYVg",
-   "youtubeVideoId": "SUtjEOqnlOw",
+   "youtubeVideoId": "mywO-Xt-vos",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5013075",
@@ -661,7 +661,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCkXopQ3ubd-rnXnStZqCl2w",
-   "youtubeVideoId": "gTOXo4rtdyo",
+   "youtubeVideoId": "plEHGHoZTRA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q8068393",

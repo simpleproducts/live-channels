@@ -1,12 +1,14 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026110918,
+ "version": 2026111009,
  "defaultTiles": [
   "za.sabcnews",
   "za.enca",
   "za.newzroom",
-  "za.news24"
+  "za.news24",
+  "za.radio702",
+  "za.safm"
  ],
  "channels": [
   {
@@ -17,9 +19,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
-   "youtubeVideoId": "-ZNQC4QLwis",
+   "youtubeVideoId": "fFBEViDAUCc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q48767445",
    "description": {
     "en": "news channel owned by the South African Broadcasting Corporation",
@@ -41,9 +43,9 @@
     "en"
    ],
    "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA",
-   "youtubeVideoId": "kJWsIU49u8w",
+   "youtubeVideoId": "QJJTjugZoEg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5323690",
    "description": {
     "en": "24-hour television news broadcaster owned by e.tv",
@@ -64,9 +66,9 @@
     "en"
    ],
    "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ",
-   "youtubeVideoId": "TdIzOvqc_KQ",
+   "youtubeVideoId": "Drl3nxwIx20",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -82,9 +84,9 @@
     "en"
    ],
    "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Jf680NHyRBI",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2909223",
    "description": {
     "en": "English-language South African online news publication",
@@ -181,9 +183,9 @@
     "en"
    ],
    "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
-   "youtubeVideoId": "TzH1vD2hXi4",
+   "youtubeVideoId": "rDUbsh1vTCM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -199,9 +201,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w",
-   "youtubeVideoId": "RhpYD7GgXqU",
+   "youtubeVideoId": "4nD0st3TJv4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

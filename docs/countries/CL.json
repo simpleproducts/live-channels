@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111002,
+ "version": 2026111009,
  "defaultTiles": [
   "cl.24horas",
-  "cl.t13",
   "cl.chvnoticias",
+  "cl.t13",
+  "cl.meganoticias",
   "cl.biobio",
   "cl.senado",
-  "cl.cooperativa"
+  "cl.cooperativa",
+  "cl.mega",
+  "cl.infinita"
  ],
  "channels": [
   {
@@ -19,9 +22,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "ValGUKSH6FU",
+   "youtubeVideoId": "4qf08otwDqs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -134,7 +137,7 @@
     "es"
    ],
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
-   "youtubeVideoId": "FpMbS2hpJ2U",
+   "youtubeVideoId": "QSiFHMMwZhs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096198",
@@ -263,9 +266,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "gJJHsqw-HRQ",
+   "youtubeVideoId": "TnonBxRxyO4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -582,9 +585,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
-   "youtubeVideoId": "f76QbdlV5RE",
+   "youtubeVideoId": "wGcNVaHrDHs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

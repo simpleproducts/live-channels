@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026111002,
+ "version": 2026111009,
  "defaultTiles": [
   "jp.ntvnews",
+  "jp.ann",
   "jp.tbs",
+  "jp.fnn",
   "jp.weathernews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
-  "jp.ytv",
-  "jp.ktv",
-  "jp.abctv"
+  "jp.ytv"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "4XqiNFJuNsU",
+   "youtubeVideoId": "t28uoyHqBq8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q843772",
    "description": {
     "en": "Japanese television network",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "bU5VuCH3FQ8",
+   "youtubeVideoId": "pqula4ZuTcI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -115,9 +115,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-   "youtubeVideoId": "6OdH9G9KbYg",
+   "youtubeVideoId": "cQKjabsU-OA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q124919956",
    "description": {
     "ja": "フジテレビ系FNN28局のニュースサイト"

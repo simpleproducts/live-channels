@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111002,
+ "version": 2026111009,
  "defaultTiles": [
-  "uy.carve"
+  "uy.ladiaria",
+  "uy.sarandi"
  ],
  "channels": [
   {
@@ -48,9 +49,9 @@
     "es"
    ],
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
-   "youtubeVideoId": "-WT8hP95kcc",
+   "youtubeVideoId": "-qoxFkcEj0s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -299,7 +300,7 @@
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
    "youtubeVideoId": "VsBPoezliJQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -340,9 +341,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "yhd0LjIIawk",
+   "youtubeVideoId": "jRRkY0R-Nwg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

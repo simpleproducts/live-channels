@@ -4,15 +4,15 @@
  "defaultTiles": ["citizentv", "ntv", "ktn", "k24", "kbc", "tv47"],
  "channels": [
   {"id": "citizentv", "name": "Citizen TV", "category": "news", "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g", "youtubeVideoId": "QEPyPz8SJRE", "embeddable": true, "live": false},
-  {"id": "ntv", "name": "NTV Kenya", "category": "news", "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg", "youtubeVideoId": "n65C6I_OYmc", "embeddable": true, "live": true, "liveSince": "2026-11-02T09:45:13Z"},
+  {"id": "ntv", "name": "NTV Kenya", "category": "news", "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg", "youtubeVideoId": "8v5kIuPi45g", "embeddable": true, "live": true, "liveSince": "2026-11-10T09:42:34Z"},
   {"id": "ktn", "name": "KTN News", "category": "news", "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg", "youtubeVideoId": "-zl1ESbuFvo", "embeddable": true, "live": false},
   {"id": "k24", "name": "K24 TV", "category": "news", "youtubeChannelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ", "youtubeVideoId": "uQMZvd00U4Y", "embeddable": true, "live": true, "liveSince": "2026-10-23T07:57:18Z"},
-  {"id": "tv47", "name": "TV47", "category": "news", "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw", "youtubeVideoId": "GjO-5N83xxs", "embeddable": true, "live": false},
-  {"id": "kbc", "name": "KBC Channel 1", "category": "broadcast", "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg", "youtubeVideoId": "c0VZVzEGiv4", "embeddable": true, "live": false},
-  {"id": "inooro", "name": "Inooro TV", "category": "regional", "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw", "youtubeVideoId": "OrJztC8GxBk", "embeddable": true, "live": false, "languages": ["ki"]},
-  {"id": "ramogi", "name": "Ramogi TV", "category": "regional", "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ", "youtubeVideoId": "q45dqtmCV14", "embeddable": true, "live": false},
+  {"id": "tv47", "name": "TV47", "category": "news", "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw", "youtubeVideoId": "tkjnbHmcTsM", "embeddable": true, "live": true, "liveSince": "2026-11-10T08:00:48Z"},
+  {"id": "kbc", "name": "KBC Channel 1", "category": "broadcast", "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg", "youtubeVideoId": "3MQaJWfab2o", "embeddable": true, "live": true, "liveSince": "2026-11-10T09:05:25Z"},
+  {"id": "inooro", "name": "Inooro TV", "category": "regional", "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw", "youtubeVideoId": "GBPODjpfOGc", "embeddable": true, "live": true, "liveSince": "2026-11-10T09:22:13Z", "languages": ["ki"]},
+  {"id": "ramogi", "name": "Ramogi TV", "category": "regional", "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ", "youtubeVideoId": "HykMq4AkjQ4", "embeddable": true, "live": true, "liveSince": "2026-11-10T09:44:24Z"},
   {"id": "parliament", "name": "Parliament of Kenya", "category": "government", "youtubeChannelId": "UCXuseB7juWB7DIgTJcwtHFQ", "youtubeVideoId": "qHkDR9iVprc", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "radiojambo", "name": "Radio Jambo", "category": "radio", "youtubeChannelId": "UCOsHyjujol57SIFR0imyEKQ", "youtubeVideoId": "ADC5EBEb81c", "embeddable": true, "live": false, "languages": ["sw"]},
-  {"id": "radiocitizen", "name": "Radio Citizen", "category": "radio", "youtubeChannelId": "UCd5mKY1HUcDBySXgK1lYUvg", "youtubeVideoId": "1XgV1-PemzA", "embeddable": true, "live": false, "languages": ["sw"]}
+  {"id": "radiocitizen", "name": "Radio Citizen", "category": "radio", "youtubeChannelId": "UCd5mKY1HUcDBySXgK1lYUvg", "youtubeVideoId": "JdTGHhtuh5g", "embeddable": true, "live": true, "liveSince": "2026-11-10T00:55:42Z", "languages": ["sw"]}
  ]
 }
