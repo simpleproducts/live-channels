@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026110918,
+ "version": 2026111002,
  "defaultTiles": [
   "eg.alghad",
-  "eg.alqahera",
-  "eg.sadaelbalad"
+  "eg.alqahera"
  ],
  "channels": [
   {
@@ -16,7 +15,7 @@
     "ar"
    ],
    "youtubeChannelId": "UCktyejXTxWaKfrgp1Oq7CMQ",
-   "youtubeVideoId": "7AQei2gtY3E",
+   "youtubeVideoId": "qQuDmNGdy80",
    "embeddable": true,
    "live": true,
    "wikidata": "Q114785261",
@@ -83,7 +82,7 @@
    "youtubeChannelId": "UCJWuV-EkLmRrGZ4afwUBenw",
    "youtubeVideoId": "v02JlkTTdjU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q63121712",
    "description": {
     "en": "Egyptian news website and satellite television channel",

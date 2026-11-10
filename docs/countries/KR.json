@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026110918,
+ "version": 2026111002,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "Pt_6SDc7_9E",
+   "youtubeVideoId": "YxqEOvw2d2o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "Ow6RxO9PCOk",
+   "youtubeVideoId": "jczbQCw79Vk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -89,7 +89,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "LF9XNkQnqRM",
+   "youtubeVideoId": "kdvhSbJAMMk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6495373",
@@ -145,7 +145,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "pgUR2AoeeU8",
+   "youtubeVideoId": "Hy3Qt-WrvHk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -163,7 +163,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-   "youtubeVideoId": "54RMuWDIDmo",
+   "youtubeVideoId": "mFNm5yK7FZQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "eJqKdQKZTZI",
+   "youtubeVideoId": "PEyxjad9BmI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -226,7 +226,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-   "youtubeVideoId": "ynMZZUgVi08",
+   "youtubeVideoId": "fBE6GDo4knI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -474,7 +474,7 @@
     "ko"
    ],
    "youtubeChannelId": "UC1ifSsWUG241rRfK0ezYCgA",
-   "youtubeVideoId": "wX_oc1sXZiA",
+   "youtubeVideoId": "BJAmNCr9mbo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -587,7 +587,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A",
-   "youtubeVideoId": "iGva_3NVdIs",
+   "youtubeVideoId": "Ckj5nQyGkDs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -783,7 +783,7 @@
    "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
    "youtubeVideoId": "cGBjZpPzxSE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

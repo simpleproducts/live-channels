@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026110918,
+ "version": 2026111002,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.livenow",
   "us.foxweather",
-  "us.nbcnews",
   "us.newsmax",
-  "us.scripps",
-  "us.pbsnewshour",
-  "us.ap"
+  "us.nmasunivision",
+  "us.telemundo",
+  "us.cnnee",
+  "us.bloomberg"
  ],
  "channels": [
   {
@@ -191,7 +191,7 @@
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
    "youtubeVideoId": "gYxWuStqezM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2877626",
    "description": {
     "en": "news division of NBC",
@@ -261,7 +261,7 @@
     "en"
    ],
    "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-   "youtubeVideoId": "byyV_hRHXNY",
+   "youtubeVideoId": "E0m_jmWb_yg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q18353130",
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "6CsbqoJ9s3k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "faweL0xlwAE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "YvEFG-5_o8I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "multinational nonprofit news agency headquartered in New York, United States",
@@ -709,7 +709,7 @@
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
    "youtubeVideoId": "wTqIoE1GURc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",
@@ -765,7 +765,7 @@
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
    "youtubeVideoId": "OxlirqmVlwk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
