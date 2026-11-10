@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111009,
+ "version": 2026111017,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.canalonce"
+  "mx.canalonce",
+  "mx.imagentv",
+  "mx.gobmx",
+  "mx.canalcongreso"
  ],
  "channels": [
   {
@@ -288,7 +291,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "14TX4djUj3w",
+   "youtubeVideoId": "-8p0S-RvEtw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -331,9 +334,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "GTq6_EPwlSA",
+   "youtubeVideoId": "Uyfv1spiAgU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -437,9 +440,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w",
-   "youtubeVideoId": "tAlJlGL87KI",
+   "youtubeVideoId": "aEFlm9vK7PA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5440529",
    "description": {
     "en": "national government of the United Mexican States",
@@ -463,9 +466,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "Yh2clsu-B34",
+   "youtubeVideoId": "gtm3q9h77PQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -487,9 +490,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "COWVIiTXM4E",
+   "youtubeVideoId": "8_06WXVP4os",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -512,9 +515,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "CUTHKyrvZAc",
+   "youtubeVideoId": "iaTeILrH5n8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -548,9 +551,9 @@
     "es"
    ],
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
-   "youtubeVideoId": "WeBDarF8xSI",
+   "youtubeVideoId": "AFtXRLxo9rk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -566,9 +569,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "dcssVUQpaqw",
+   "youtubeVideoId": "Acawjq-gTrU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

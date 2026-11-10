@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026111002,
+ "version": 2026111017,
  "defaultTiles": [
   "ve.vpitv",
   "ve.telesurenglish",
+  "ve.unionradio",
   "ve.vtv"
  ],
  "channels": [
@@ -142,9 +143,9 @@
     "es"
    ],
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-   "youtubeVideoId": "oxjthy9GCVE",
+   "youtubeVideoId": "fN8698-HyfM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5770016",
    "description": {
     "en": "Venezuela",

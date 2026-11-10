@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026111009,
+ "version": 2026111017,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
   "gb.reuters",
-  "gb.independent",
   "gb.mirror",
   "gb.thesun",
-  "gb.express"
+  "gb.bbcnewsarabic",
+  "gb.timesradio"
  ],
  "channels": [
   {
@@ -172,7 +172,7 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "vRf9g-ot2b4",
+   "youtubeVideoId": "W_nj-lKScOY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q130879",
@@ -430,7 +430,7 @@
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
    "youtubeVideoId": "KmjqEVueyp8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -484,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "8icjrh1MAD8",
+   "youtubeVideoId": "PNXGxW9iGpU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -502,7 +502,7 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "wjD19i7Tk9A",
+   "youtubeVideoId": "6m9gsggb-fg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q208875",
@@ -558,7 +558,7 @@
    "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA",
    "youtubeVideoId": "Tz5-_AlVXsw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

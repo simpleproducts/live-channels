@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026111002,
+ "version": 2026111017,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
   "fr.bfmtv",
   "fr.euronewsfr",
+  "fr.tv5monde",
   "fr.france24en",
   "fr.euronews",
   "fr.france24es",
-  "fr.france24ar",
-  "fr.rfi"
+  "fr.france24ar"
  ],
  "channels": [
   {
@@ -440,9 +440,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg",
-   "youtubeVideoId": "agJ5DpaenEM",
+   "youtubeVideoId": "TEARs8iVe1k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2138163",
    "description": {
     "en": "French-speaking television network",
@@ -522,9 +522,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
-   "youtubeVideoId": "bly31c5uuhs",
+   "youtubeVideoId": "338nKQ0TED4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -563,9 +563,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA",
-   "youtubeVideoId": "wrWdVTpWZec",
+   "youtubeVideoId": "MeLEJ4xQG8E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3410428",
    "description": {
     "en": "French parliamentary television channel",

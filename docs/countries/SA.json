@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "SA",
- "version": 2026110918,
+ "version": 2026111017,
  "defaultTiles": [
   "sa.alekhbariya",
   "sa.asharq",
   "sa.asharqbusiness",
-  "sa.ksasports"
+  "sa.ksasports",
+  "sa.quran"
  ],
  "channels": [
   {
@@ -109,9 +110,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCos52azQNBgW63_9uDJoPDA",
-   "youtubeVideoId": "eC4LfEVxvKg",
+   "youtubeVideoId": "IsJTAdC3-Jw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16120292",
    "description": {
     "ar": "قناة دينية"

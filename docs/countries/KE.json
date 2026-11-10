@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026111009,
+ "version": 2026111017,
  "defaultTiles": [
   "ke.k24",
   "ke.ntv",
+  "ke.ktn",
   "ke.tv47",
-  "ke.kbc",
   "ke.ramogi",
   "ke.inooro",
   "ke.radiocitizen"
@@ -59,9 +59,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg",
-   "youtubeVideoId": "-zl1ESbuFvo",
+   "youtubeVideoId": "l1IoleGzs_o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -97,7 +97,7 @@
     "sw"
    ],
    "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
-   "youtubeVideoId": "tkjnbHmcTsM",
+   "youtubeVideoId": "KWznROtpP50",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -118,7 +118,7 @@
    "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg",
    "youtubeVideoId": "3MQaJWfab2o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6392548",
    "description": {
     "en": "state-run media organisation of Kenya",

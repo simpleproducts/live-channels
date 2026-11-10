@@ -1,10 +1,13 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026111009,
+ "version": 2026111017,
  "defaultTiles": [
   "il.i24he",
-  "il.c14"
+  "il.c14",
+  "il.i24en",
+  "il.i24fr",
+  "il.i24ar"
  ],
  "channels": [
   {
@@ -15,9 +18,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg",
-   "youtubeVideoId": "yzY5Nve-KJM",
+   "youtubeVideoId": "9NiQuEbV67s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -57,9 +60,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCgPYsPyGhhQJQ9zOUQDWDMA",
-   "youtubeVideoId": "0g7grDa_N-Y",
+   "youtubeVideoId": "zZngNFM4pGg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -99,9 +102,9 @@
     "ar"
    ],
    "youtubeChannelId": "UC4LYR3v6kOIgEjrVARODP3w",
-   "youtubeVideoId": "Z2FvSaJXv5E",
+   "youtubeVideoId": "rTSg5HYSCW8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -141,7 +144,7 @@
     "he"
    ],
    "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
-   "youtubeVideoId": "Ut6tIeZihKY",
+   "youtubeVideoId": "FwUM4QOrIOE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q136932915",

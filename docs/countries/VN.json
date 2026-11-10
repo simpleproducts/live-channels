@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026111009,
+ "version": 2026111017,
  "defaultTiles": [
-  "vn.antv",
-  "vn.thanhnien"
+  "vn.antv"
  ],
  "channels": [
   {
@@ -53,7 +52,7 @@
    "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
    "youtubeVideoId": "RGyqkzRF27I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7710368",
    "description": {
     "en": "Vietnamese newspaper",

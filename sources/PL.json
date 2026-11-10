@@ -11,7 +11,7 @@
   {"id": "sejm", "name": "Sejm RP", "category": "government", "youtubeChannelId": "UCN5seY_Oy_GiJRhF06GfRlw", "youtubeVideoId": "cVl7VoD9CSc", "embeddable": true, "live": false, "languages": ["pl"]},
   {"id": "kanalzero", "name": "Kanał Zero", "category": "streaming", "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg", "youtubeVideoId": "YCeCIVZZNRY", "embeddable": true, "live": false, "languages": ["pl"]},
   {"id": "rmf24", "name": "RMF24", "category": "radio", "youtubeChannelId": "UCkC9YgH_FlqOhOIoTDFt4CA", "live": false, "languages": ["pl"]},
-  {"id": "radiozet", "name": "Radio ZET", "category": "radio", "youtubeChannelId": "UCvHFbkohgX29NhaUtmkzLmg", "youtubeVideoId": "aLwQU8ZsaTY", "embeddable": true, "live": false, "languages": ["pl"]},
+  {"id": "radiozet", "name": "Radio ZET", "category": "radio", "youtubeChannelId": "UCvHFbkohgX29NhaUtmkzLmg", "youtubeVideoId": "31S9fpPOm4o", "embeddable": true, "live": true, "liveSince": "2026-11-10T09:48:29Z", "languages": ["pl"]},
   {"id": "tokfm", "name": "TOK FM", "category": "radio", "youtubeChannelId": "UCUlZzs-r5LDqARiq1xPkQlw", "live": false, "languages": ["pl"]},
   {"id": "polskieradio24", "name": "Polskie Radio 24", "category": "radio", "youtubeChannelId": "UCTKxkwZp-aWyNsV3vdV2EpA", "youtubeVideoId": "Ek7S3RRT2qs", "embeddable": true, "live": false, "languages": ["pl"]}
  ]

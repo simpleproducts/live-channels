@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026111002,
+ "version": 2026111017,
  "defaultTiles": [
-  "ca.cbcnews"
+  "ca.cbcnews",
+  "ca.globalnews"
  ],
  "channels": [
   {
@@ -93,9 +94,9 @@
     "fr"
    ],
    "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-   "youtubeVideoId": "OdskouxzElo",
+   "youtubeVideoId": "Clv15yn7Uu4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5570514",
    "description": {
     "en": "Canadian news network, division of Global Television Network",
