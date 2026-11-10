@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026110819,
+ "version": 2026111023,
  "defaultTiles": [
   "tr.cnnturk",
   "tr.trthaber",
@@ -184,6 +184,7 @@
    "wikidata": "Q6065965",
    "description": {
     "en": "Turkish news network",
+    "fr": "chaîne de télévision turque",
     "tr": "Türkiye merkezli ulusal haber kanalı",
     "de": "türkischer Fernsehsender"
    },

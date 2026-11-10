@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026111017,
+ "version": 2026111023,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
@@ -11,7 +11,7 @@
   "in.zeenews",
   "in.news18india",
   "in.tv9bharatvarsh",
-  "in.republicworld"
+  "in.ndtv"
  ],
  "channels": [
   {
@@ -53,7 +53,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-   "youtubeVideoId": "ph96nj3v6n4",
+   "youtubeVideoId": "I6_gFvHhsbc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3396358",
@@ -300,7 +300,7 @@
     "en"
    ],
    "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-   "youtubeVideoId": "9fNvNsT1N4s",
+   "youtubeVideoId": "FKA6DDo7cOc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5689808",
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "XHtjODGi9_I",
+   "youtubeVideoId": "3nkF1G78Dqk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",
@@ -519,7 +519,7 @@
     "en"
    ],
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
-   "youtubeVideoId": "d9dtodtyZg0",
+   "youtubeVideoId": "5W0Qv2d2Sw4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2613165",
@@ -607,7 +607,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3uJIdRFTGgLWrUziaHbzrg",
-   "youtubeVideoId": "2LuSxdmrt1o",
+   "youtubeVideoId": "3ZXT1PAxuTc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6953329",

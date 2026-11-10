@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111017,
+ "version": 2026111023,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.canal1",
-  "co.semana",
   "co.caracoltv",
   "co.citytv",
-  "co.rcnradio"
+  "co.rcnradio",
+  "co.bluradio",
+  "co.caracolradio"
  ],
  "channels": [
   {
@@ -130,7 +130,7 @@
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
    "youtubeVideoId": "bZekLvl5meM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -166,7 +166,7 @@
    "youtubeChannelId": "UC4oQAvXFuNlKivYjUynQKTA",
    "youtubeVideoId": "BSpGfxTlPDg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -270,12 +270,14 @@
    "description": {
     "en": "Colombian TV channel",
     "es": "canal de televisión público de Colombia.",
-    "fr": "Señal Colombia est une chaîne de télévision colombienne créée le 9 février 1970 qui appartient à Radio Televisión Nacional de Colombia (RTVC)."
+    "fr": "Señal Colombia est une chaîne de télévision colombienne créée le 9 février 1970 qui appartient à Radio Televisión Nacional de Colombia (RTVC).",
+    "pt-BR": "Señal Colombia é um canal de televisão aberta de difusão pública da Colômbia, que oferece conteúdo educativo, cultural e desportivo."
    },
    "wikipedia": {
     "en": "https://en.wikipedia.org/wiki/Se%C3%B1al_Colombia",
     "es": "https://es.wikipedia.org/wiki/Se%C3%B1al_Colombia",
-    "fr": "https://fr.wikipedia.org/wiki/Se%C3%B1al_Colombia"
+    "fr": "https://fr.wikipedia.org/wiki/Se%C3%B1al_Colombia",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Se%C3%B1al_Colombia"
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Se%C3%B1al_Colombia_logo.svg?width=256",
    "website": "https://www.senalcolombia.tv/",
@@ -455,7 +457,7 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "cxlAT233SY8",
+   "youtubeVideoId": "ZzppZhwXXLA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4382447",
@@ -484,7 +486,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "aXE2tcdkG_w",
+   "youtubeVideoId": "aUK5MS1cn-4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -552,9 +554,9 @@
     "es"
    ],
    "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
-   "youtubeVideoId": "n5lOeK-iiUY",
+   "youtubeVideoId": "ttMF205d3C8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -572,7 +574,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "NTNlEJZ9ZmE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -606,9 +608,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A",
-   "youtubeVideoId": "q6jrvdg7lL4",
+   "youtubeVideoId": "IyLMTVB9JxE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

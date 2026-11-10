@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026111017,
+ "version": 2026111023,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -89,7 +89,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "kdvhSbJAMMk",
+   "youtubeVideoId": "dY3EGDBYhto",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6495373",
@@ -145,7 +145,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "rN77vtHFLpo",
+   "youtubeVideoId": "r9Ng9m0fT_0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "SQMFWCWXLsc",
+   "youtubeVideoId": "rp1Q9canv1o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -226,7 +226,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-   "youtubeVideoId": "dIJJQyAuhL0",
+   "youtubeVideoId": "CHVNipiEmAE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -244,7 +244,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
-   "youtubeVideoId": "kd2ZkaCUdI0",
+   "youtubeVideoId": "pSQ6tsHcgO4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -330,9 +330,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
-   "youtubeVideoId": "t9lHZkSxi60",
+   "youtubeVideoId": "qBNr_wSolC8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7388983",
    "description": {
     "en": "news channel in South Korea",
@@ -474,7 +474,7 @@
     "ko"
    ],
    "youtubeChannelId": "UC1ifSsWUG241rRfK0ezYCgA",
-   "youtubeVideoId": "f6twuffkte4",
+   "youtubeVideoId": "8nC5ebbSyGs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -510,9 +510,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
-   "youtubeVideoId": "67yjwvX3BDQ",
+   "youtubeVideoId": "gqdRsDKNVgM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -565,7 +565,7 @@
    "description": {
     "en": "South Korean broadcaster",
     "zh-Hans": "韩国的国营有线电视频道",
-    "ja": "KTV国民放送 は大韓民国政府とその傘下機関の政策を国民に分かりやすく国政関連番組を製作、放送している大韓民国（韓国）の国営放送。前身は大韓ニュース。",
+    "ja": "韓国の国営テレビ局",
     "ko": "대한민국의 케이블 방송사, 정부 국영 방송",
     "zh-Hant": "韩国的国营有线电视频道"
    },
@@ -587,7 +587,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A",
-   "youtubeVideoId": "9kzjKtnNTYg",
+   "youtubeVideoId": "EJMjCVGM3i0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -781,7 +781,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
-   "youtubeVideoId": "Ibi0llzw3gQ",
+   "youtubeVideoId": "-HD50kUvTCo",
    "embeddable": true,
    "live": true,
    "wikidata": null,

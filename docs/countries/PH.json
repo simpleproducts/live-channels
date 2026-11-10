@@ -1,10 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111017,
+ "version": 2026111023,
  "defaultTiles": [
   "ph.abscbn",
-  "ph.dzrh"
+  "ph.gma",
+  "ph.untv",
+  "ph.anc",
+  "ph.dzrh",
+  "ph.ptv",
+  "ph.teleradyo",
+  "ph.bombo",
+  "ph.loveradio"
  ],
  "channels": [
   {
@@ -16,7 +23,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "ibdardrbEoc",
+   "youtubeVideoId": "65T1ABR6UXE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -53,9 +60,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "Y-Q2kPp9eRA",
+   "youtubeVideoId": "NNgU0J0x_ms",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -81,9 +88,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "sF3qGxkmx48",
+   "youtubeVideoId": "IRIYIqyXuI0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -144,9 +151,9 @@
     "en"
    ],
    "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw",
-   "youtubeVideoId": "8zMYJDm635Q",
+   "youtubeVideoId": "wPypVhSv440",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28452148",
    "description": {
     "en": "television network in the Philippines"
@@ -255,9 +262,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "5AgI_LTk4QI",
+   "youtubeVideoId": "PVoqnzbndh4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -419,9 +426,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "_6IOAjTSLmA",
+   "youtubeVideoId": "Yg2tVW1mg04",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -438,9 +445,9 @@
     "en"
    ],
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
-   "youtubeVideoId": "l6v40uDiPBM",
+   "youtubeVideoId": "nFeaDQA-iac",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -457,9 +464,9 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "WfChcEM_nDM",
+   "youtubeVideoId": "dakwch8u1Q8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

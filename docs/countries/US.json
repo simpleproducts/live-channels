@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111017,
+ "version": 2026111023,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "FQ0NTvfhK18",
+   "youtubeVideoId": "cX0nrZnRPJI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -429,7 +429,7 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "7yNUD2Uf0No",
+   "youtubeVideoId": "RgU3x2Awh-4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7118447",
@@ -491,12 +491,12 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "Q4rT_ZO_vSg",
+   "youtubeVideoId": "LGWqH6WVKhM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
-    "en": "multinational nonprofit news agency headquartered in New York, United States",
+    "en": "American not-for-profit news agency",
     "es": "agencia estadounidense de noticias multinacional sin ánimo de lucro",
     "zh-Hans": "美国通讯社",
     "ja": "米国に本部を置く多国籍の非営利通信社",
@@ -537,7 +537,7 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Associated_Press_logo_2012.svg?width=256",
    "website": "https://ap.org/",
-   "city": "New York City"
+   "city": "Newark"
   },
   {
    "id": "us.foxnews",
@@ -549,7 +549,7 @@
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
    "youtubeVideoId": "H0mhCxloIGg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -603,9 +603,9 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "3dCexPtFavw",
+   "youtubeVideoId": "zNmImcV1cjI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -659,7 +659,7 @@
     "en"
    ],
    "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA",
-   "youtubeVideoId": "AoDpY-9h-_w",
+   "youtubeVideoId": "sw1ZZMmUjdg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7739683",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "OxlirqmVlwk",
+   "youtubeVideoId": "4IgTE_zNEHw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -847,9 +847,9 @@
     "en"
    ],
    "youtubeChannelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "ygfFGXtFQ4Q",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -867,7 +867,7 @@
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
    "youtubeVideoId": "AXM8u-Jklog",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",
@@ -967,9 +967,9 @@
     "en"
    ],
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
-   "youtubeVideoId": "YGE4ygTMvrI",
+   "youtubeVideoId": "3RoLsHwWf-4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

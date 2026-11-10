@@ -1,12 +1,14 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026111017,
+ "version": 2026111023,
  "defaultTiles": [
   "ve.vpitv",
+  "ve.elpitazo",
+  "ve.noticiasvenevision",
   "ve.telesurenglish",
-  "ve.unionradio",
-  "ve.vtv"
+  "ve.vtv",
+  "ve.unionradio"
  ],
  "channels": [
   {
@@ -59,9 +61,9 @@
     "es"
    ],
    "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA",
-   "youtubeVideoId": "n9n72AQIhb8",
+   "youtubeVideoId": "-ZZa0mO1eJY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65057048",
    "description": {
     "en": "Venezuelan news website",
@@ -83,9 +85,9 @@
     "es"
    ],
    "youtubeChannelId": "UCR1tLg8fy9dklmhZPf0qCWQ",
-   "youtubeVideoId": "Q6FV6M7xRCU",
+   "youtubeVideoId": "aNECrFN9U1k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5825366",
    "description": {
     "es": "Noticiero venezolano emitido por el canal Venevisión.",
@@ -143,7 +145,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-   "youtubeVideoId": "fN8698-HyfM",
+   "youtubeVideoId": "VbKlysLpyLA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5770016",

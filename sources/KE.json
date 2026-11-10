@@ -3,11 +3,11 @@
  "languages": ["en", "sw"],
  "defaultTiles": ["citizentv", "ntv", "ktn", "k24", "kbc", "tv47"],
  "channels": [
-  {"id": "citizentv", "name": "Citizen TV", "category": "news", "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g", "youtubeVideoId": "QEPyPz8SJRE", "embeddable": true, "live": false},
+  {"id": "citizentv", "name": "Citizen TV", "category": "news", "youtubeChannelId": "UChBQgieUidXV1CmDxSdRm3g", "youtubeVideoId": "jJM8WpkaJC8", "embeddable": true, "live": true, "liveSince": "2026-11-10T03:41:19Z"},
   {"id": "ntv", "name": "NTV Kenya", "category": "news", "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg", "youtubeVideoId": "8v5kIuPi45g", "embeddable": true, "live": true, "liveSince": "2026-11-10T09:42:34Z"},
   {"id": "ktn", "name": "KTN News", "category": "news", "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg", "youtubeVideoId": "l1IoleGzs_o", "embeddable": true, "live": true, "liveSince": "2026-11-10T05:08:51Z"},
   {"id": "k24", "name": "K24 TV", "category": "news", "youtubeChannelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ", "youtubeVideoId": "uQMZvd00U4Y", "embeddable": true, "live": true, "liveSince": "2026-10-23T07:57:18Z"},
-  {"id": "tv47", "name": "TV47", "category": "news", "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw", "youtubeVideoId": "KWznROtpP50", "embeddable": true, "live": true, "liveSince": "2026-11-10T17:23:51Z"},
+  {"id": "tv47", "name": "TV47", "category": "news", "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw", "youtubeVideoId": "KWznROtpP50", "embeddable": true, "live": false},
   {"id": "kbc", "name": "KBC Channel 1", "category": "broadcast", "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg", "youtubeVideoId": "3MQaJWfab2o", "embeddable": true, "live": false},
   {"id": "inooro", "name": "Inooro TV", "category": "regional", "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw", "youtubeVideoId": "GBPODjpfOGc", "embeddable": true, "live": true, "liveSince": "2026-11-10T09:22:13Z", "languages": ["ki"]},
   {"id": "ramogi", "name": "Ramogi TV", "category": "regional", "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ", "youtubeVideoId": "HykMq4AkjQ4", "embeddable": true, "live": true, "liveSince": "2026-11-10T09:44:24Z"},

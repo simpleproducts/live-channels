@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026111017,
+ "version": 2026111023,
  "defaultTiles": [
   "ca.cbcnews",
-  "ca.globalnews"
+  "ca.radiocanada"
  ],
  "channels": [
   {
@@ -96,7 +96,7 @@
    "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg",
    "youtubeVideoId": "Clv15yn7Uu4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5570514",
    "description": {
     "en": "Canadian news network, division of Global Television Network",
@@ -147,9 +147,9 @@
     "fr"
    ],
    "youtubeChannelId": "UClxaaAzHu1B5EoTtBYea7ig",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "SFXejAOdunU",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q140876046",
    "description": {
     "en": "YouTube channel",
