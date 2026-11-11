@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026111106,
+ "version": 2026111115,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
+  "gb.reuters",
+  "gb.guardian",
+  "gb.mirror",
   "gb.thesun",
-  "gb.bbcnewsarabic",
-  "gb.timesradio",
-  "gb.talksport"
+  "gb.bbcnewsarabic"
  ],
  "channels": [
   {
@@ -171,9 +172,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "agz56HJhzQk",
+   "youtubeVideoId": "bf6GgVTAYE4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -353,9 +354,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA",
-   "youtubeVideoId": "wDksz2cRwg4",
+   "youtubeVideoId": "c3ZQ-j4ZU-Q",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5614018",
    "description": {
     "en": "British news website",
@@ -483,9 +484,9 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "PNXGxW9iGpU",
+   "youtubeVideoId": "meseEU8e3UE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -501,7 +502,7 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "1j8OJwj1b-Y",
+   "youtubeVideoId": "i42-srOoDM4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q208875",
@@ -573,9 +574,9 @@
     "en"
    ],
    "youtubeChannelId": "UCMasyWuE1P2AaEKw_FkGq9g",
-   "youtubeVideoId": "KtsQSLFL9zA",
+   "youtubeVideoId": "mtLQzgRq6ug",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11010",
    "description": {
     "en": "supreme legislative body of the United Kingdom",

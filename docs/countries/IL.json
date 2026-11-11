@@ -1,10 +1,13 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026111023,
+ "version": 2026111115,
  "defaultTiles": [
   "il.c14",
-  "il.i24he"
+  "il.i24he",
+  "il.i24en",
+  "il.i24ar",
+  "il.knesset"
  ],
  "channels": [
   {
@@ -15,9 +18,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg",
-   "youtubeVideoId": "9NiQuEbV67s",
+   "youtubeVideoId": "28MQRp6bfR8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -57,9 +60,9 @@
     "ar"
    ],
    "youtubeChannelId": "UC4LYR3v6kOIgEjrVARODP3w",
-   "youtubeVideoId": "rTSg5HYSCW8",
+   "youtubeVideoId": "7nV8sQQBwG0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -99,7 +102,7 @@
     "he"
    ],
    "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
-   "youtubeVideoId": "aVsQWqQmAQQ",
+   "youtubeVideoId": "9VIGXyqYTKk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q136932915",
@@ -189,9 +192,9 @@
     "he"
    ],
    "youtubeChannelId": "UCpjNXONNE-JUz7QACB1Cgcw",
-   "youtubeVideoId": "FVMikeZ-dmA",
+   "youtubeVideoId": "Yukjo8ozwzw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q279320",
    "description": {
     "en": "Israeli television channel",

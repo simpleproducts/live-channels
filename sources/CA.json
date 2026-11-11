@@ -4,7 +4,7 @@
  "defaultTiles": ["cbcnews"],
  "channels": [
   {"id": "cbcnews", "name": "CBC News", "category": "news", "youtubeChannelId": "UCuFFtHWoLl5fauMMD5Ww2jA", "youtubeVideoId": "5vfaDsMhCF4", "embeddable": true, "live": true, "liveSince": "2025-04-10T14:12:36Z"},
-  {"id": "ctvnews", "name": "CTV News", "category": "news", "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg", "youtubeVideoId": "AoHu0GwcsOg", "embeddable": true, "live": false},
+  {"id": "ctvnews", "name": "CTV News", "category": "news", "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg", "youtubeVideoId": "GRuhsETaJnk", "embeddable": true, "live": true, "liveSince": "2026-11-11T15:03:51Z"},
   {"id": "globalnews", "name": "Global News", "category": "news", "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg", "youtubeVideoId": "Clv15yn7Uu4", "embeddable": true, "live": false},
   {"id": "noovo", "name": "Noovo Info", "category": "news", "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg", "youtubeVideoId": "awc8SgYUkrY", "embeddable": true, "live": false, "languages": ["fr"]},
   {"id": "radiocanada", "name": "ICI RDI / Radio-Canada Info", "category": "news", "youtubeChannelId": "UClxaaAzHu1B5EoTtBYea7ig", "youtubeVideoId": "SFXejAOdunU", "embeddable": true, "live": false, "languages": ["fr"]},
@@ -13,6 +13,6 @@
   {"id": "canadianpress", "name": "The Canadian Press", "category": "news", "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw", "youtubeVideoId": "Z1R5WxdN3iY", "embeddable": true, "live": false},
   {"id": "bnn", "name": "BNN Bloomberg", "category": "economy", "youtubeChannelId": "UC5aNPmKYwbudeNngDMTY3lw", "live": false},
   {"id": "cp24", "name": "CP24", "category": "regional", "youtubeChannelId": "UCs3o4RhBiP2wcwqkZR2QVLw", "live": false},
-  {"id": "cpac", "name": "CPAC", "category": "government", "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ", "youtubeVideoId": "I4G8bqatnsg", "embeddable": true, "live": false, "languages": ["en", "fr"]}
+  {"id": "cpac", "name": "CPAC", "category": "government", "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ", "youtubeVideoId": "NZW_onGD9Io", "embeddable": true, "live": true, "liveSince": "2026-11-11T15:11:46Z", "languages": ["en", "fr"]}
  ]
 }

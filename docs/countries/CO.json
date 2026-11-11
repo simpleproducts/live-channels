@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111106,
+ "version": 2026111115,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -9,7 +9,8 @@
   "co.eltiempo",
   "co.caracoltv",
   "co.citytv",
-  "co.rcnradio"
+  "co.rcnradio",
+  "co.tropicana"
  ],
  "channels": [
   {
@@ -570,9 +571,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
-   "youtubeVideoId": "NTNlEJZ9ZmE",
+   "youtubeVideoId": "rmi_-k8UDo8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

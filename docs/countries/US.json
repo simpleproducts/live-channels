@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111106,
+ "version": 2026111115,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
+  "us.livenow",
   "us.newsmax",
   "us.foxweather",
+  "us.cbsnews",
   "us.nbcnews",
-  "us.livenow",
-  "us.nmasunivision",
-  "us.telemundo",
-  "us.cnnee"
+  "us.scripps",
+  "us.newsnation"
  ],
  "channels": [
   {
@@ -133,9 +133,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "YLofRVL0rS4",
+   "youtubeVideoId": "q8Puv82CkFw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "cX0nrZnRPJI",
+   "youtubeVideoId": "JsaICjWKFY0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "gtbOEpSS7rg",
+   "youtubeVideoId": "Ssa7q2bIdNM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-   "youtubeVideoId": "hwIcwWXEW08",
+   "youtubeVideoId": "hex8_brQCyo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -547,9 +547,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "H0mhCxloIGg",
+   "youtubeVideoId": "WqzkDnUQ2LQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "4IgTE_zNEHw",
+   "youtubeVideoId": "Nnlcd6X7TJQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -865,9 +865,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
-   "youtubeVideoId": "AXM8u-Jklog",
+   "youtubeVideoId": "S3NTj9Cg0pM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",

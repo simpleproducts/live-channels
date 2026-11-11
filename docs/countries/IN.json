@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026111106,
+ "version": 2026111115,
  "defaultTiles": [
-  "in.zeenews",
   "in.ddnews",
   "in.indiatv",
   "in.aajtak",
   "in.ndtvindia",
   "in.abpnews",
+  "in.zeenews",
   "in.news18india",
   "in.tv9bharatvarsh",
   "in.republicworld"
@@ -53,7 +53,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-   "youtubeVideoId": "AvixKbNz5Qg",
+   "youtubeVideoId": "QrLZ9XydIlI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3396358",
@@ -79,7 +79,7 @@
     "en"
    ],
    "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
-   "youtubeVideoId": "tW_0-5P9QfQ",
+   "youtubeVideoId": "0IbBCbI_mBs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -97,9 +97,9 @@
     "en"
    ],
    "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-   "youtubeVideoId": "Wg9Q_gcNqPA",
+   "youtubeVideoId": "wmEzH0xaHWM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2985356",
    "description": {
     "en": "Indian news network",
@@ -168,7 +168,7 @@
     "en"
    ],
    "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
-   "youtubeVideoId": "0y3mv0d2zvA",
+   "youtubeVideoId": "h6cg2NkmghM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7806547",
@@ -196,7 +196,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
-   "youtubeVideoId": "mH9tJitvknc",
+   "youtubeVideoId": "t3OSVJFYc-0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3630156",
@@ -229,7 +229,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCIvaYmXn910QMdemBG3v1pQ",
-   "youtubeVideoId": "2TO4gG4sKmo",
+   "youtubeVideoId": "5qqhGifItys",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5287969",
@@ -261,9 +261,9 @@
     "en"
    ],
    "youtubeChannelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-   "youtubeVideoId": "qYMX8VSYXvg",
+   "youtubeVideoId": "p-fIfIKseTw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q23058781",
    "description": {
     "en": "Indian television news channel",
@@ -300,7 +300,7 @@
     "en"
    ],
    "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-   "youtubeVideoId": "KRhyUbV-cks",
+   "youtubeVideoId": "FPlmi_bRCY8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5689808",
@@ -353,7 +353,7 @@
     "en"
    ],
    "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
-   "youtubeVideoId": "wyNK5gl7S3A",
+   "youtubeVideoId": "sl9TlQuOKPU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q19891764",
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "LQC2r_fGBlg",
+   "youtubeVideoId": "d5jSAoTA6NE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",
@@ -420,7 +420,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
-   "youtubeVideoId": "MPpu6Pyig54",
+   "youtubeVideoId": "pU_1GaCP9dw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65042846",
@@ -484,9 +484,9 @@
     "en"
    ],
    "youtubeChannelId": "UCz8QaiQxApLq8sLNcszYyJw",
-   "youtubeVideoId": "UUWGl3fGV7s",
+   "youtubeVideoId": "9NxN_HXZ6Xs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5453524",
    "description": {
     "en": "Indian news organization",
@@ -519,7 +519,7 @@
     "en"
    ],
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
-   "youtubeVideoId": "9TXr0xWY44Q",
+   "youtubeVideoId": "nmVqBnfWyzo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2613165",
@@ -585,7 +585,7 @@
     "en"
    ],
    "youtubeChannelId": "UCI_mwTKUhicNzFrhm33MzBQ",
-   "youtubeVideoId": "C8LcYY48SeY",
+   "youtubeVideoId": "xv004cSajKA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5324510",
@@ -607,7 +607,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3uJIdRFTGgLWrUziaHbzrg",
-   "youtubeVideoId": "WLI-kzfvSPg",
+   "youtubeVideoId": "eEiSOBp7UlI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6953329",
@@ -661,7 +661,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCkXopQ3ubd-rnXnStZqCl2w",
-   "youtubeVideoId": "fVWTBADrJAY",
+   "youtubeVideoId": "8Ynr2xRDsKI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q8068393",

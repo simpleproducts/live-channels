@@ -1,15 +1,14 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111106,
+ "version": 2026111115,
  "defaultTiles": [
-  "uy.elobservadoruy",
   "uy.ladiaria",
   "uy.tnu",
   "uy.carve",
   "uy.delsol",
   "uy.sarandi",
-  "uy.elpaisuy"
+  "uy.universal"
  ],
  "channels": [
   {
@@ -54,9 +53,9 @@
     "es"
    ],
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
-   "youtubeVideoId": "-qoxFkcEj0s",
+   "youtubeVideoId": "gfBTsm4EK_M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -102,9 +101,9 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "hx7G0MFVDao",
+   "youtubeVideoId": "DkUG5wnNrq8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -303,9 +302,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "eckD53NLpSc",
+   "youtubeVideoId": "-cvCYdmoBHg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -328,9 +327,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "MFchm3m6TNA",
+   "youtubeVideoId": "bhwAAcO3-aM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -346,9 +345,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "jRRkY0R-Nwg",
+   "youtubeVideoId": "23cLwy7JLTo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,9 +363,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "mFNaNHrci7A",
+   "youtubeVideoId": "8kGZGt_3fYc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

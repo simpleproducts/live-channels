@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026111106,
+ "version": 2026111115,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
   "de.dwnews",
-  "de.dwespanol"
+  "de.dwespanol",
+  "de.bundestag"
  ],
  "channels": [
   {
@@ -368,9 +369,9 @@
     "de"
    ],
    "youtubeChannelId": "UCbh5D3EdIHP4YQA5X-eK1ug",
-   "youtubeVideoId": "76uPv-Hn8fY",
+   "youtubeVideoId": "czTmA5R6iK0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q154797",
    "description": {
     "en": "legislature of Germany; parliament",
