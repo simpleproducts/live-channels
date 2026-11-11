@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111115,
+ "version": 2026111121,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -10,7 +10,8 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.tropicana"
+  "co.canalcapital",
+  "co.teleantioquia"
  ],
  "channels": [
   {
@@ -316,9 +317,9 @@
     "es"
    ],
    "youtubeChannelId": "UCeSx6aU8UGIIHxGCQPbYY_A",
-   "youtubeVideoId": "dPytDP-dRZ8",
+   "youtubeVideoId": "bN2oCGxB8AM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5030992",
    "description": {
     "en": "Colombian channel television",
@@ -360,9 +361,9 @@
     "es"
    ],
    "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
-   "youtubeVideoId": "v-0JROewAPw",
+   "youtubeVideoId": "EUkru3AQz8M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6140409",
    "description": {
     "en": "Colombian television network",
@@ -456,9 +457,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "ZzppZhwXXLA",
+   "youtubeVideoId": "lUfoKKcWqyo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -485,9 +486,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "aUK5MS1cn-4",
+   "youtubeVideoId": "KB3yEkaPSk4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -553,9 +554,9 @@
     "es"
    ],
    "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
-   "youtubeVideoId": "ttMF205d3C8",
+   "youtubeVideoId": "M6y3eyTXT8E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -573,7 +574,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "rmi_-k8UDo8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

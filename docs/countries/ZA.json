@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026111115,
+ "version": 2026111121,
  "defaultTiles": [
+  "za.sabcnews",
   "za.enca",
-  "za.news24",
-  "za.radio702",
-  "za.safm"
+  "za.newzroom",
+  "za.news24"
  ],
  "channels": [
   {
@@ -43,7 +43,7 @@
    "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA",
    "youtubeVideoId": "F7uKP2tDpT0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5323690",
    "description": {
     "en": "24-hour television news broadcaster owned by e.tv",
@@ -84,7 +84,7 @@
    "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw",
    "youtubeVideoId": "aXaB9_v7M9k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2909223",
    "description": {
     "en": "English-language South African online news publication",
@@ -183,7 +183,7 @@
    "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
    "youtubeVideoId": "U_YenJsPZdY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -201,7 +201,7 @@
    "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w",
    "youtubeVideoId": "N_K0qYe_bxk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

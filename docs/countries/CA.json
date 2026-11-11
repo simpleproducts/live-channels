@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026111115,
+ "version": 2026111121,
  "defaultTiles": [
-  "ca.cbcnews",
-  "ca.ctvnews",
-  "ca.cpac"
+  "ca.cbcnews"
  ],
  "channels": [
   {
@@ -64,7 +62,7 @@
    "youtubeChannelId": "UCi7Zk9baY1tvdlgxIML8MXg",
    "youtubeVideoId": "GRuhsETaJnk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5014635",
    "description": {
     "en": "news division of CTV Television Network",
@@ -319,7 +317,7 @@
    "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
    "youtubeVideoId": "NZW_onGD9Io",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2931869",
    "description": {
     "en": "Canadian parliamentary broadcaster",

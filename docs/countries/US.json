@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111115,
+ "version": 2026111121,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -11,7 +11,7 @@
   "us.cbsnews",
   "us.nbcnews",
   "us.scripps",
-  "us.newsnation"
+  "us.pbsnewshour"
  ],
  "channels": [
   {
@@ -429,9 +429,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "RgU3x2Awh-4",
+   "youtubeVideoId": "HqTd-iEu5KM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -475,7 +475,7 @@
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
    "youtubeVideoId": "hex8_brQCyo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -549,7 +549,7 @@
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
    "youtubeVideoId": "WqzkDnUQ2LQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -763,7 +763,7 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "Nnlcd6X7TJQ",
+   "youtubeVideoId": "GTRH9YMTkys",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -867,7 +867,7 @@
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
    "youtubeVideoId": "S3NTj9Cg0pM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",
@@ -1011,9 +1011,9 @@
     "en"
    ],
    "youtubeChannelId": "UCb--64Gl51jIEVE-GLDAVTg",
-   "youtubeVideoId": "VnRJlQYEOow",
+   "youtubeVideoId": "jOAMnVX_eMA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1022311",
    "description": {
     "en": "American television channel",

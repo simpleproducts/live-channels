@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026110907,
+ "version": 2026111121,
  "defaultTiles": [
-  "au.abcnews"
+  "au.abcnews",
+  "au.newscomau",
+  "au.aph"
  ],
  "channels": [
   {
@@ -93,9 +95,9 @@
     "en"
    ],
    "youtubeChannelId": "UCtWWry0cgjWi9C0Ye9sh6og",
-   "youtubeVideoId": "1-RMh-CkiUo",
+   "youtubeVideoId": "8bPKGb7KLQc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16903296",
    "description": {
     "en": "Australian online newspaper",
@@ -127,9 +129,9 @@
     "en"
    ],
    "youtubeChannelId": "UCzx6ti0rql6Q2Dc2zSAPmuA",
-   "youtubeVideoId": "nyz-878MIMo",
+   "youtubeVideoId": "12I0pQw0bGI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q382118",
    "description": {
     "en": "bicameral national legislature of Australia",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026111115,
+ "version": 2026111121,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "4x_xN4tEwOU",
+   "youtubeVideoId": "5lTcZIhY2PQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -330,9 +330,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
-   "youtubeVideoId": "cBIjitO4WkM",
+   "youtubeVideoId": "xYCqolLEZ78",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7388983",
    "description": {
     "en": "news channel in South Korea",
@@ -510,9 +510,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
-   "youtubeVideoId": "iUI7-uQRlrA",
+   "youtubeVideoId": "RmCMJ45WrNg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

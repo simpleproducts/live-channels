@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026111115,
+ "version": 2026111121,
  "defaultTiles": [
   "pe.latina",
   "pe.larepublica",
@@ -10,8 +10,8 @@
   "pe.tvperunoticias",
   "pe.atv",
   "pe.elcomercio",
-  "pe.congreso",
-  "pe.exitosa"
+  "pe.peru21",
+  "pe.americatv"
  ],
  "channels": [
   {
@@ -40,7 +40,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "50mHreB3Y8Q",
+   "youtubeVideoId": "JrWuHIxJbQI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1330217",
@@ -73,7 +73,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "6DB2GlvOnhE",
+   "youtubeVideoId": "5lr3NkSSHNY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -121,7 +121,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "ttKl-DA_VrE",
+   "youtubeVideoId": "6Mb30cqB9QI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -147,7 +147,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "wv5OPacTgyY",
+   "youtubeVideoId": "Q6_P7l81-Jk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -171,7 +171,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "814D5KWCp38",
+   "youtubeVideoId": "b7wkoZ9Ib_g",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -214,7 +214,7 @@
     "es"
    ],
    "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg",
-   "youtubeVideoId": "XoaAdYkke0Q",
+   "youtubeVideoId": "vHyBCcejZ5k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1324020",
@@ -258,9 +258,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNd09h2GugrdeT_80LxOFMw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "PAQhCT9l51w",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -276,9 +276,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPhm2I2wk4vqjENwhn3px8A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "V6A5_OHuv9w",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2530659",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -328,9 +328,9 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "K_qxqEuyvik",
+   "youtubeVideoId": "ru1g-vwVG_k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -361,9 +361,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
-   "youtubeVideoId": "8pxB6YTf6q4",
+   "youtubeVideoId": "7w8Ov9VWOTc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3076196",
    "description": {
     "en": "Peruvian State-owned television broadcaster, owned by the government",
@@ -390,9 +390,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3rDtLrcgr3JS3_3JOW4BAw",
-   "youtubeVideoId": "tHZdPIHpJKg",
+   "youtubeVideoId": "vz74PIiKYS0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q967752",
    "description": {
     "en": "Peruvian free-to-air television network",
@@ -465,7 +465,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "bnCEUo3apUQ",
+   "youtubeVideoId": "eTMeQMruIsw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -489,7 +489,7 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "FoB4LatZFAg",
+   "youtubeVideoId": "5JENiPpLRBM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096493",

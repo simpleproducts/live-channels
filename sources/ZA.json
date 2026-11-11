@@ -4,12 +4,12 @@
  "defaultTiles": [],
  "channels": [
   {"id": "sabcnews", "name": "SABC News", "category": "news", "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g", "youtubeVideoId": "fFBEViDAUCc", "embeddable": true, "live": false},
-  {"id": "enca", "name": "eNCA", "category": "news", "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA", "youtubeVideoId": "F7uKP2tDpT0", "embeddable": true, "live": true, "liveSince": "2026-11-11T07:31:54Z"},
+  {"id": "enca", "name": "eNCA", "category": "news", "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA", "youtubeVideoId": "F7uKP2tDpT0", "embeddable": true, "live": false},
   {"id": "newzroom", "name": "Newzroom Afrika", "category": "news", "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ", "youtubeVideoId": "Drl3nxwIx20", "embeddable": true, "live": false},
-  {"id": "news24", "name": "News24", "category": "news", "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw", "youtubeVideoId": "aXaB9_v7M9k", "embeddable": true, "live": true, "liveSince": "2026-11-11T07:26:46Z", "wikidata": "Q2909223"},
+  {"id": "news24", "name": "News24", "category": "news", "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw", "youtubeVideoId": "aXaB9_v7M9k", "embeddable": true, "live": false, "wikidata": "Q2909223"},
   {"id": "parliament", "name": "Parliament of South Africa", "category": "government", "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ", "live": false, "wikidata": "Q2185780"},
   {"id": "iec", "name": "Electoral Commission of South Africa", "category": "government", "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ", "youtubeVideoId": "uJ1dmUDnVPU", "embeddable": true, "live": false},
-  {"id": "radio702", "name": "Radio 702", "category": "radio", "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg", "youtubeVideoId": "U_YenJsPZdY", "embeddable": true, "live": true, "liveSince": "2026-11-11T13:01:31Z"},
-  {"id": "safm", "name": "SAfm", "category": "radio", "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w", "youtubeVideoId": "N_K0qYe_bxk", "embeddable": true, "live": true, "liveSince": "2026-11-11T04:01:44Z"}
+  {"id": "radio702", "name": "Radio 702", "category": "radio", "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg", "youtubeVideoId": "U_YenJsPZdY", "embeddable": true, "live": false},
+  {"id": "safm", "name": "SAfm", "category": "radio", "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w", "youtubeVideoId": "N_K0qYe_bxk", "embeddable": true, "live": false}
  ]
 }
