@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026111023,
+ "version": 2026111106,
  "defaultTiles": [
   "jp.ntvnews",
   "jp.ann",
-  "jp.tbs",
   "jp.fnn",
   "jp.weathernews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
-  "jp.ytv"
+  "jp.ytv",
+  "jp.ktv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "jiHq-TbpJC4",
+   "youtubeVideoId": "grax3wCD3SA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -62,7 +62,7 @@
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
    "youtubeVideoId": "8NZw0d-8vJI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16143608",
    "description": {
     "en": "Internet news website",
@@ -115,7 +115,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
-   "youtubeVideoId": "6rJWRJwFp4M",
+   "youtubeVideoId": "pJ1eIy3uZhc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q124919956",

@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026111023,
+ "version": 2026111106,
  "defaultTiles": [
-  "ca.cbcnews",
-  "ca.radiocanada"
+  "ca.cbcnews"
  ],
  "channels": [
   {
@@ -149,7 +148,7 @@
    "youtubeChannelId": "UClxaaAzHu1B5EoTtBYea7ig",
    "youtubeVideoId": "SFXejAOdunU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q140876046",
    "description": {
     "en": "YouTube channel",

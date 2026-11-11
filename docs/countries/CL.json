@@ -1,17 +1,13 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111023,
+ "version": 2026111106,
  "defaultTiles": [
   "cl.24horas",
   "cl.t13",
   "cl.meganoticias",
-  "cl.chvnoticias",
-  "cl.biobio",
   "cl.senado",
-  "cl.cooperativa",
-  "cl.tvn",
-  "cl.chilevision"
+  "cl.cooperativa"
  ],
  "channels": [
   {
@@ -22,7 +18,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "4qf08otwDqs",
+   "youtubeVideoId": "ey7Bm3fKk6I",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -69,7 +65,7 @@
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
    "youtubeVideoId": "UUldqvqzBzY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,7 +135,7 @@
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
    "youtubeVideoId": "QSiFHMMwZhs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -170,7 +166,7 @@
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
    "youtubeVideoId": "AJ3SLF2J3Fs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597933",
    "description": {
     "en": "Chilean public service broadcaster",
@@ -226,7 +222,7 @@
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
    "youtubeVideoId": "ED0OeKM7AQc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -268,7 +264,7 @@
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
    "youtubeVideoId": "94NLwdZ4UB4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -458,7 +454,7 @@
    "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA",
    "youtubeVideoId": "QRw8H3sRSRA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2119518",
    "description": {
     "en": "Lower house of Chile's National Congress",
@@ -506,7 +502,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "O8QEZ4upMrs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -533,7 +529,7 @@
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
    "youtubeVideoId": "LvwXw9capFs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -587,7 +583,7 @@
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
    "youtubeVideoId": "wGcNVaHrDHs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
