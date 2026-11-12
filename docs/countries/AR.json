@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026111211,
+ "version": 2026111218,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -11,7 +11,7 @@
   "ar.cronica",
   "ar.canalrural",
   "ar.infobae",
-  "ar.america"
+  "ar.tvpublica"
  ],
  "channels": [
   {
@@ -195,7 +195,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "3gf-N99Jxqo",
+   "youtubeVideoId": "vt0KdxlmB3Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5915760",
@@ -440,7 +440,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUzonpa3XKurQVycdMY70XQ",
-   "youtubeVideoId": "5U6iwteIx8k",
+   "youtubeVideoId": "u-n1N7MWpRY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -508,7 +508,7 @@
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
    "youtubeVideoId": "JyKQbYTIrCk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -555,7 +555,7 @@
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
    "youtubeVideoId": "0NNGlMkNZxc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -578,7 +578,7 @@
     "es"
    ],
    "youtubeChannelId": "UCuJvDPQIaUhvdHiH275WjNA",
-   "youtubeVideoId": "PwIJTjoCHCo",
+   "youtubeVideoId": "3CC67ZBYfdk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16490085",
@@ -832,7 +832,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "J0csT0OViq8",
+   "youtubeVideoId": "7O8-hdtbchg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -850,7 +850,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "7Nv3rtQfOsA",
+   "youtubeVideoId": "o1smMX0epo8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -886,7 +886,7 @@
     "es"
    ],
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
-   "youtubeVideoId": "jVIUhDGlZK4",
+   "youtubeVideoId": "ac8fKENQqao",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -904,9 +904,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
-   "youtubeVideoId": "KgrssEzIutU",
+   "youtubeVideoId": "cOMpGvyxxhs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -922,7 +922,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "OwEPXt9O4-w",
+   "youtubeVideoId": "kcwlpv5-RZI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q42912634",
@@ -964,9 +964,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "TqBrUbJkv3w",
+   "youtubeVideoId": "z73K9UwrKO8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -982,9 +982,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "Pq01HJpfRbo",
+   "youtubeVideoId": "8JShTn2yiDc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1118,7 +1118,7 @@
     "es"
    ],
    "youtubeChannelId": "UCLAj5TzCrNbqe3LosSKHLcQ",
-   "youtubeVideoId": "kyOsePAc5o0",
+   "youtubeVideoId": "mgCIneeiU74",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1172,7 +1172,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "B9iqsrZnnzY",
+   "youtubeVideoId": "EnPgzf14n3o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5961729",
@@ -1234,7 +1234,7 @@
    "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
    "youtubeVideoId": "W0IxMmT1rgk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5961871",
    "description": {
     "en": "radio station in Argentina",
@@ -1323,7 +1323,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "0dBaInv3vRk",
+   "youtubeVideoId": "LXXkb_8w5MY",
    "embeddable": true,
    "live": true,
    "wikidata": null,

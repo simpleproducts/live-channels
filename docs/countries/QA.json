@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "QA",
- "version": 2026111203,
+ "version": 2026111218,
  "defaultTiles": [
   "qa.aja",
-  "qa.mubasher",
   "qa.aje",
   "qa.qatartv",
   "qa.alkass"
@@ -122,7 +121,7 @@
    "youtubeChannelId": "UCCv1Pd24oPErw5S7zJWltnQ",
    "youtubeVideoId": "NNnZLWHRmd4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3497537",
    "description": {
     "en": "public affairs television network launched by Al Jazeera Media Network originally on April 15, 2005",

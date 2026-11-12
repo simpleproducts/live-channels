@@ -3,10 +3,10 @@
  "languages": ["de"],
  "defaultTiles": ["welt", "phoenix", "dwnews", "euronewsde", "dwespanol"],
  "channels": [
-  {"id": "welt", "name": "WELT Nachrichtensender", "category": "news", "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA", "youtubeVideoId": "-iLOm-bQz3c", "embeddable": true, "live": true, "liveSince": "2026-11-12T10:40:15Z"},
-  {"id": "phoenix", "name": "phoenix", "category": "news", "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg", "youtubeVideoId": "iApXnjaB8_o", "embeddable": true, "live": true, "liveSince": "2026-11-12T07:45:58Z"},
+  {"id": "welt", "name": "WELT Nachrichtensender", "category": "news", "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA", "youtubeVideoId": "HTkGn--Khkk", "embeddable": true, "live": true, "liveSince": "2026-11-12T08:00:04Z"},
+  {"id": "phoenix", "name": "phoenix", "category": "news", "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg", "youtubeVideoId": "iApXnjaB8_o", "embeddable": true, "live": false},
   {"id": "tagesschau", "name": "tagesschau", "category": "news", "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA", "youtubeVideoId": "8LL6xLqAgUo", "embeddable": true, "live": false, "wikidata": "Q703907"},
-  {"id": "zdfheute", "name": "ZDFheute Nachrichten", "category": "news", "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ", "youtubeVideoId": "sWEOE-WfJvY", "embeddable": true, "live": false},
+  {"id": "zdfheute", "name": "ZDFheute Nachrichten", "category": "news", "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ", "youtubeVideoId": "sejyoCl1S2o", "embeddable": true, "live": true, "liveSince": "2026-11-12T18:31:07Z"},
   {"id": "bild", "name": "BILD", "category": "news", "youtubeChannelId": "UC4zcMHyrT_xyWlgy5WGpFFQ", "live": false},
   {"id": "dwnews", "name": "DW News", "category": "news", "youtubeChannelId": "UCknLrEdhRCp1aegoMqRaCZg", "youtubeVideoId": "LuKwFajn37U", "embeddable": true, "live": true, "liveSince": "2025-03-31T17:50:08Z", "languages": ["en"]},
   {"id": "euronewsde", "name": "Euronews Deutsch", "category": "news", "youtubeChannelId": "UCACdxU3VrJIJc7ujxtHWs1w", "youtubeVideoId": "CQ3KsEbsYHs", "embeddable": true, "live": true, "liveSince": "2022-09-19T16:59:24Z"},

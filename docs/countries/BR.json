@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026111211,
+ "version": 2026111218,
  "defaultTiles": [
   "br.jovempan",
   "br.recordnews",
   "br.cnnbrasil",
-  "br.bandjornalismo",
   "br.sbtnews",
+  "br.uol",
   "br.metropoles",
-  "br.canalgov",
   "br.gaucha",
-  "br.redetv"
+  "br.redetv",
+  "br.canalgov"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "uA-a_yicBpc",
+   "youtubeVideoId": "pyt4feMWYz4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -118,7 +118,7 @@
    "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA",
    "youtubeVideoId": "V-jqHRYdUt8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q137910166",
    "description": {
     "en": "Official Band Journalism channel with exclusive live streams, full news programs, expert commentary, special reports, and on-demand content from Band TV."
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "cB0XdeN3rxM",
+   "youtubeVideoId": "1EKPdOKqhvw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -181,9 +181,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-   "youtubeVideoId": "mkv06B7BHik",
+   "youtubeVideoId": "ZkSRhKLLYQk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -199,7 +199,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "RIUOzYAXI_8",
+   "youtubeVideoId": "1FR--DzuFUo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q56350071",
@@ -318,7 +318,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
-   "youtubeVideoId": "esCZNo-upAw",
+   "youtubeVideoId": "k4ltIfNOgj4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1090363",
@@ -385,7 +385,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCjaWLFTNqLkq3ZY2BJ4NYRg",
-   "youtubeVideoId": "nqfph9USEYA",
+   "youtubeVideoId": "AAtNLTCJAw0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q120762994",
@@ -411,7 +411,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ",
-   "youtubeVideoId": "j88mPjco3F0",
+   "youtubeVideoId": "Q9xP2G6RQLQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7672422",
@@ -438,7 +438,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC-ZkSRh-7UEuwXJQ9UMCFJA",
-   "youtubeVideoId": "Uu3eTYsMmY4",
+   "youtubeVideoId": "ANTLP0YJVdM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6137650",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "O9Gi6F8LyBQ",
+   "youtubeVideoId": "U-Us4uhWW2s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "OoNDxVjLNiM",
+   "youtubeVideoId": "V1Q7cvEDklk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "CD2cNGkWcc4",
+   "youtubeVideoId": "EoX-GFEv6T4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "REA-tD4-DbY",
+   "youtubeVideoId": "QDd5rUy2TRQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
@@ -592,7 +592,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w",
-   "youtubeVideoId": "hmQ8rk7-Xfg",
+   "youtubeVideoId": "IYsUKMv3ooE",
    "embeddable": true,
    "live": true,
    "wikidata": null,

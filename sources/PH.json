@@ -3,13 +3,13 @@
  "languages": ["tl", "en"],
  "defaultTiles": ["abscbn", "gma", "anc", "oneph", "news5", "untv", "net25", "rappler", "inquirer"],
  "channels": [
-  {"id": "abscbn", "name": "ABS-CBN News", "category": "news", "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA", "youtubeVideoId": "Y4HztorxXvQ", "embeddable": true, "live": true, "liveSince": "2026-11-12T10:19:46Z"},
-  {"id": "gma", "name": "GMA Integrated News", "category": "news", "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw", "youtubeVideoId": "E0SZsgw3CgA", "embeddable": true, "live": true, "liveSince": "2026-11-12T10:03:35Z"},
+  {"id": "abscbn", "name": "ABS-CBN News", "category": "news", "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA", "youtubeVideoId": "Y4HztorxXvQ", "embeddable": true, "live": false},
+  {"id": "gma", "name": "GMA Integrated News", "category": "news", "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw", "youtubeVideoId": "E0SZsgw3CgA", "embeddable": true, "live": false},
   {"id": "anc", "name": "ANC 24/7", "category": "news", "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg", "youtubeVideoId": "ZR1lAJwNhOs", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "oneph", "name": "One PH", "category": "news", "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA", "youtubeVideoId": "wEMz9fCmRyM", "embeddable": true, "live": false},
-  {"id": "news5", "name": "News5", "category": "news", "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg", "youtubeVideoId": "k8977oOwdHU", "embeddable": true, "live": false},
+  {"id": "news5", "name": "News5", "category": "news", "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg", "youtubeVideoId": "OCmPzsnpknI", "embeddable": true, "live": true, "liveSince": "2026-11-12T18:00:09Z"},
   {"id": "untv", "name": "UNTV News and Rescue", "category": "news", "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw", "youtubeVideoId": "UxQZ1yOqbQE", "embeddable": true, "live": true, "liveSince": "2026-07-12T12:35:57Z"},
-  {"id": "net25", "name": "NET25 News", "category": "news", "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw", "youtubeVideoId": "kODrQC6DKc4", "embeddable": true, "live": true, "liveSince": "2026-11-12T10:00:19Z"},
+  {"id": "net25", "name": "NET25 News", "category": "news", "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw", "youtubeVideoId": "kODrQC6DKc4", "embeddable": true, "live": false},
   {"id": "rappler", "name": "Rappler", "category": "news", "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw", "youtubeVideoId": "srsBhHsbmOw", "embeddable": true, "live": false},
   {"id": "inquirer", "name": "INQUIRER.net", "category": "news", "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w", "youtubeVideoId": "0q9F_fVBT2w", "embeddable": true, "live": false},
   {"id": "ptv", "name": "PTV", "category": "broadcast", "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ", "youtubeVideoId": "PVoqnzbndh4", "embeddable": true, "live": false},
@@ -18,6 +18,6 @@
   {"id": "dzrh", "name": "DZRH News Television", "category": "radio", "youtubeChannelId": "UCcTiBX8js_djhSSlmJRI99A", "youtubeVideoId": "VzS75VuvLxs", "embeddable": true, "live": true, "liveSince": "2026-08-26T19:15:33Z"},
   {"id": "teleradyo", "name": "DZMM TeleRadyo", "category": "radio", "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w", "youtubeVideoId": "Csuap-PkWKc", "embeddable": true, "live": false},
   {"id": "bombo", "name": "Bombo Radyo", "category": "radio", "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ", "youtubeVideoId": "EoLDwa-rcJw", "embeddable": true, "live": false},
-  {"id": "loveradio", "name": "Love Radio Manila", "category": "radio", "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg", "youtubeVideoId": "lqFrrBqPdfk", "embeddable": true, "live": true, "liveSince": "2026-11-12T09:39:08Z"}
+  {"id": "loveradio", "name": "Love Radio Manila", "category": "radio", "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg", "youtubeVideoId": "lqFrrBqPdfk", "embeddable": true, "live": false}
  ]
 }

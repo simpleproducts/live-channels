@@ -13,6 +13,6 @@
   {"id": "canadianpress", "name": "The Canadian Press", "category": "news", "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw", "youtubeVideoId": "Z1R5WxdN3iY", "embeddable": true, "live": false},
   {"id": "bnn", "name": "BNN Bloomberg", "category": "economy", "youtubeChannelId": "UC5aNPmKYwbudeNngDMTY3lw", "live": false},
   {"id": "cp24", "name": "CP24", "category": "regional", "youtubeChannelId": "UCs3o4RhBiP2wcwqkZR2QVLw", "live": false},
-  {"id": "cpac", "name": "CPAC", "category": "government", "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ", "youtubeVideoId": "NZW_onGD9Io", "embeddable": true, "live": false, "languages": ["en", "fr"]}
+  {"id": "cpac", "name": "CPAC", "category": "government", "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ", "youtubeVideoId": "DJrJ3AIeOIg", "embeddable": true, "live": true, "liveSince": "2026-11-12T18:22:43Z", "languages": ["en", "fr"]}
  ]
 }

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026111211,
+ "version": 2026111218,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "qX73twmEa9g",
+   "youtubeVideoId": "KOR6cJrKCUM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -169,7 +169,7 @@
     "es"
    ],
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-   "youtubeVideoId": "Gvtqbj6pvQA",
+   "youtubeVideoId": "Ky1JV-SC2cc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q921217",
@@ -534,7 +534,7 @@
    "youtubeChannelId": "UCT3tvU3bVxOa3ZiVD-B7h9g",
    "youtubeVideoId": "kCPgYcDsPlM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q539149",
    "description": {
     "en": "lower house of the Cortes Generales (legislative branch of Spain's national government)",
@@ -638,7 +638,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "eCfGsfxpXTg",
+   "youtubeVideoId": "edpfsbCrtyk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1025113",
@@ -683,9 +683,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "_LYsGHsQHVA",
+   "youtubeVideoId": "3krm7Km0wTw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111211,
+ "version": 2026111218,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.semana",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.teleantioquianoticias"
+  "co.teleantioquianoticias",
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -166,7 +166,7 @@
    "youtubeChannelId": "UC4oQAvXFuNlKivYjUynQKTA",
    "youtubeVideoId": "4Og0YTvGXjg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -343,7 +343,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "-cr74M3yS80",
+   "youtubeVideoId": "LwJ90sox33Y",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -387,9 +387,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": "5CobH14OR9s",
+   "youtubeVideoId": "gycrlhYh_tg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -459,7 +459,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "rT9P9NQ5toA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -486,7 +486,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "-khNl4dkx9w",
+   "youtubeVideoId": "43liW2NCUlg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -556,7 +556,7 @@
    "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
    "youtubeVideoId": "4wqS65oKLSo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -574,7 +574,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "_XOUodlupoQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -592,7 +592,7 @@
    "youtubeChannelId": "UClAlbNsawVywJF99roh7qvA",
    "youtubeVideoId": "k-M-vj5I2Xo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -610,7 +610,7 @@
    "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A",
    "youtubeVideoId": "qa8gF8XyQCY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -3,11 +3,11 @@
  "languages": ["id"],
  "defaultTiles": [],
  "channels": [
-  {"id": "kompastv", "name": "KompasTV", "category": "news", "youtubeChannelId": "UC5BMIWZe9isJXLZZWPWvBlg", "youtubeVideoId": "qLPFpcyTUhI", "embeddable": true, "live": true, "liveSince": "2026-11-12T08:56:44Z"},
+  {"id": "kompastv", "name": "KompasTV", "category": "news", "youtubeChannelId": "UC5BMIWZe9isJXLZZWPWvBlg", "youtubeVideoId": "qLPFpcyTUhI", "embeddable": true, "live": false},
   {"id": "cnnid", "name": "CNN Indonesia", "category": "news", "youtubeChannelId": "UCKII0Ml9S5wneKbHswmUrIQ", "youtubeVideoId": "jWfQVN-XKSg", "embeddable": true, "live": true, "liveSince": "2026-11-02T01:44:13Z", "wikidata": "Q18148009"},
   {"id": "metrotv", "name": "Metro TV", "category": "news", "youtubeChannelId": "UCzl0OrB3-ehunyotIQvK77A", "youtubeVideoId": "tiIOHgDI3Ow", "embeddable": true, "live": true, "liveSince": "2026-11-01T07:38:57Z", "wikidata": "Q4920542"},
   {"id": "tvone", "name": "tvOneNews", "category": "news", "youtubeChannelId": "UCER4rvDnRBPr_ncYW4UCZjg", "youtubeVideoId": "TYAkmHOfvPE", "embeddable": true, "live": false},
-  {"id": "inews", "name": "iNews", "category": "news", "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg", "youtubeVideoId": "B6zLjRh3IOk", "embeddable": true, "live": true, "liveSince": "2026-11-12T09:26:47Z", "wikidata": "Q4213609"},
+  {"id": "inews", "name": "iNews", "category": "news", "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg", "youtubeVideoId": "B6zLjRh3IOk", "embeddable": true, "live": false, "wikidata": "Q4213609"},
   {"id": "beritasatu", "name": "BeritaSatu", "category": "news", "youtubeChannelId": "UCqLsfkQSM0yfyGvONAGWd3Q", "youtubeVideoId": "G5U59WhK5Cs", "embeddable": true, "live": false},
   {"id": "cnbcid", "name": "CNBC Indonesia", "category": "economy", "youtubeChannelId": "UCGN9JsnkvK05v2lnTI_-uGA", "live": false, "wikidata": "Q25469731"},
   {"id": "tvri", "name": "TVRI Nasional", "category": "broadcast", "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ", "youtubeVideoId": "AqDsTu_9ob4", "embeddable": true, "live": false}

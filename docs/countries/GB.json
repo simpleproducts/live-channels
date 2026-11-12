@@ -1,15 +1,15 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026111211,
+ "version": 2026111218,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.reuters",
   "gb.independent",
   "gb.mirror",
+  "gb.thesun",
   "gb.bbcnewsarabic",
   "gb.timesradio"
  ],
@@ -174,7 +174,7 @@
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
    "youtubeVideoId": "MOn3jSowuA0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -428,7 +428,7 @@
     "en"
    ],
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
-   "youtubeVideoId": "rhckPzKP6k8",
+   "youtubeVideoId": "clfLRT8TBQ0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11149",
@@ -484,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "VMgEeCrnKYk",
+   "youtubeVideoId": "opq87u23czA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -502,9 +502,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "4on1B4tcC_Q",
+   "youtubeVideoId": "kJnW1hGPx0c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",
@@ -648,9 +648,9 @@
     "en"
    ],
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
-   "youtubeVideoId": "boJYbOv9z0k",
+   "youtubeVideoId": "Rk-mhKSumN0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

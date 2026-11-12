@@ -3,10 +3,10 @@
  "languages": ["ar"],
  "defaultTiles": ["alqahera", "extranews", "alghad", "sadaelbalad", "alnahar"],
  "channels": [
-  {"id": "alqahera", "name": "Al Qahera News", "category": "news", "youtubeChannelId": "UCktyejXTxWaKfrgp1Oq7CMQ", "youtubeVideoId": "mI5aAwOha0E", "embeddable": true, "live": true, "liveSince": "2026-11-11T07:03:04Z", "languages": ["ar"]},
-  {"id": "extranews", "name": "eXtra news", "category": "news", "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw", "youtubeVideoId": "_MPjtbLYGrE", "embeddable": true, "live": false, "languages": ["ar"]},
+  {"id": "alqahera", "name": "Al Qahera News", "category": "news", "youtubeChannelId": "UCktyejXTxWaKfrgp1Oq7CMQ", "youtubeVideoId": "GtBCVKHHz7E", "embeddable": true, "live": true, "liveSince": "2026-11-12T13:48:32Z", "languages": ["ar"]},
+  {"id": "extranews", "name": "eXtra news", "category": "news", "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw", "youtubeVideoId": "vZWhvzJW6ow", "embeddable": true, "live": true, "liveSince": "2026-11-12T14:02:21Z", "languages": ["ar"]},
   {"id": "alghad", "name": "Alghad TV", "category": "news", "youtubeChannelId": "UCH4UNKBHSNwstan99YDoCVg", "youtubeVideoId": "fCaS2PBaJgI", "embeddable": true, "live": true, "liveSince": "2026-11-01T12:20:09Z", "languages": ["ar"]},
   {"id": "sadaelbalad", "name": "Sada El Balad", "category": "broadcast", "youtubeChannelId": "UCJWuV-EkLmRrGZ4afwUBenw", "youtubeVideoId": "x6KDWZMsFFo", "embeddable": true, "live": false, "languages": ["ar"]},
-  {"id": "alnahar", "name": "Al Nahar TV", "category": "broadcast", "youtubeChannelId": "UCtpL6HyBK-z16GbJguHf3JQ", "youtubeVideoId": "5sZGc0Uvalc", "embeddable": true, "live": false, "languages": ["ar"]}
+  {"id": "alnahar", "name": "Al Nahar TV", "category": "broadcast", "youtubeChannelId": "UCtpL6HyBK-z16GbJguHf3JQ", "youtubeVideoId": "YvaAze8D8Rc", "embeddable": true, "live": true, "liveSince": "2026-11-12T18:47:35Z", "languages": ["ar"]}
  ]
 }

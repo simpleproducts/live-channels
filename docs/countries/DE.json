@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026111211,
+ "version": 2026111218,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.phoenix",
+  "de.zdfheute",
   "de.dwnews",
   "de.dwespanol",
   "de.bundestag"
@@ -19,7 +19,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "-iLOm-bQz3c",
+   "youtubeVideoId": "HTkGn--Khkk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -63,7 +63,7 @@
    "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
    "youtubeVideoId": "iApXnjaB8_o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3381361",
    "description": {
     "en": "television station in Germany",
@@ -142,9 +142,9 @@
     "de"
    ],
    "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ",
-   "youtubeVideoId": "sWEOE-WfJvY",
+   "youtubeVideoId": "sejyoCl1S2o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q132108",
    "description": {
     "en": "German TV news program",

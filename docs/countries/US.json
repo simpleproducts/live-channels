@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111211,
+ "version": 2026111218,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.livenow",
   "us.foxweather",
   "us.nbcnews",
-  "us.nmasunivision",
-  "us.telemundo",
-  "us.cnnee",
-  "us.bloomberg"
+  "us.newsmax",
+  "us.pbsnewshour",
+  "us.usatoday",
+  "us.forbesnews"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "D_pDLnaeFVw",
+   "youtubeVideoId": "cWdSlxa4Hhk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -261,9 +261,9 @@
     "en"
    ],
    "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-   "youtubeVideoId": "E0m_jmWb_yg",
+   "youtubeVideoId": "3eNuXj1hLT8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q18353130",
    "description": {
     "en": "American news channel",
@@ -429,9 +429,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "HqTd-iEu5KM",
+   "youtubeVideoId": "IZakQaaTs1s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -707,9 +707,9 @@
     "en"
    ],
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
-   "youtubeVideoId": "xQAx9rWTQsQ",
+   "youtubeVideoId": "Nni6KCouH0w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "GTRH9YMTkys",
+   "youtubeVideoId": "2NDKTZSD8CY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
