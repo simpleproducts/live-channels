@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "PT",
- "version": 2026111017,
+ "version": 2026111211,
  "defaultTiles": [
-  "pt.euronewspt"
+  "pt.euronewspt",
+  "pt.observador"
  ],
  "channels": [
   {
@@ -70,9 +71,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg",
-   "youtubeVideoId": "qJNDswfyxN8",
+   "youtubeVideoId": "aHLDF632wFc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q25442845",
    "description": {
     "en": "Portuguese electronic newspaper",

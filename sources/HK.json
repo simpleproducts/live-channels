@@ -7,6 +7,6 @@
   {"id": "tvbnews", "name": "TVB NEWS 無綫新聞", "category": "news", "youtubeChannelId": "UC_ifDTtFAcsj-wJ5JfM27CQ", "live": false},
   {"id": "cablenews", "name": "有線新聞 Cable News", "category": "news", "youtubeChannelId": "UC_q7e5XYJB0JDGagcF0KW0w", "youtubeVideoId": "hZvqfiTsKuc", "embeddable": true, "live": false},
   {"id": "nownews", "name": "Now 新聞", "category": "news", "youtubeChannelId": "UCg8EwsqYmiw7G267xxPyXsg", "youtubeVideoId": "GNeDh_lA7UI", "embeddable": true, "live": false},
-  {"id": "rthk", "name": "RTHK 香港電台", "category": "broadcast", "youtubeChannelId": "UC6of7UYhctnYmqABjUqzuxw", "youtubeVideoId": "asbAQDHr8-0", "embeddable": true, "live": false}
+  {"id": "rthk", "name": "RTHK 香港電台", "category": "broadcast", "youtubeChannelId": "UC6of7UYhctnYmqABjUqzuxw", "youtubeVideoId": "wGlnFAgYPfk", "embeddable": true, "live": true, "liveSince": "2026-11-12T10:59:55Z"}
  ]
 }

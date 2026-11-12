@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026111203,
+ "version": 2026111211,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "JXJhyqPymro",
+   "youtubeVideoId": "mq-uRzByVU8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -89,7 +89,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "Wj-A5gKNfiE",
+   "youtubeVideoId": "GbH8ic-5zE4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6495373",
@@ -127,7 +127,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "-S8TDViXo4Q",
+   "youtubeVideoId": "XENufR_w3CU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -145,7 +145,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "WjksRPcdpes",
+   "youtubeVideoId": "TAdbeIvDNDo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -163,7 +163,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-   "youtubeVideoId": "SDMkpbp5KvA",
+   "youtubeVideoId": "imJQR_u66N4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "pAXtGrcVrvM",
+   "youtubeVideoId": "2_LTPsx4Iok",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -244,7 +244,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
-   "youtubeVideoId": "BQ_8umRfFXM",
+   "youtubeVideoId": "ulnLHJpDTFY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -262,9 +262,9 @@
     "en"
    ],
    "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw",
-   "youtubeVideoId": "wB0HCkCjINk",
+   "youtubeVideoId": "g2OO8ZEnJik",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -332,7 +332,7 @@
    "youtubeChannelId": "UCbMjg2EvXs_RUGW-KrdM3pw",
    "youtubeVideoId": "ag8WLuv9YZA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7388983",
    "description": {
     "en": "news channel in South Korea",
@@ -366,9 +366,9 @@
     "ko"
    ],
    "youtubeChannelId": "UC6kZpTl39-_SqfBrF1-N2oQ",
-   "youtubeVideoId": "7Zejnny6--M",
+   "youtubeVideoId": "htmquqMXVBA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -510,9 +510,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
-   "youtubeVideoId": "RmCMJ45WrNg",
+   "youtubeVideoId": "Q0hJIFd4afM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -528,9 +528,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCL-WOj1FxKR8Hlzg5tvnWKg",
-   "youtubeVideoId": "t6vtXSZOByU",
+   "youtubeVideoId": "Q1-zY-rp3b8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q83624247",
    "description": {
     "en": "Korean public-service television network",
@@ -587,7 +587,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A",
-   "youtubeVideoId": "_i1BpZFXONg",
+   "youtubeVideoId": "MoBMsyuo5kE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -743,7 +743,7 @@
     "ko"
    ],
    "youtubeChannelId": "UC5BMQOsAB8hKUyHu9KI6yig",
-   "youtubeVideoId": "rIXYTUnP9Q4",
+   "youtubeVideoId": "-rleEnGt__s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q484855",
@@ -781,7 +781,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
-   "youtubeVideoId": "LDCSLFSGYoQ",
+   "youtubeVideoId": "VhE8J0CzhoA",
    "embeddable": true,
    "live": true,
    "wikidata": null,

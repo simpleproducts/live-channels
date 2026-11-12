@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026111203,
+ "version": 2026111211,
  "defaultTiles": [
   "pe.latina",
-  "pe.larepublica",
+  "pe.pbo",
   "pe.rpp",
   "pe.willax",
   "pe.tvperunoticias",
+  "pe.atv",
   "pe.congreso",
   "pe.panamericana",
-  "pe.tvperu",
-  "pe.exitosa"
+  "pe.tvperu"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "lnBarKo60k8",
+   "youtubeVideoId": "i3zyvN6fJJ4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -42,7 +42,7 @@
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
    "youtubeVideoId": "JrWuHIxJbQI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -73,7 +73,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "7BR0o874BLA",
+   "youtubeVideoId": "9Qg_pcCtwXo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -121,7 +121,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "kFSVCqYVXLU",
+   "youtubeVideoId": "KbKnMmu0Rqo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -147,7 +147,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "Q6_P7l81-Jk",
+   "youtubeVideoId": "dzB2FXZYP6s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -171,9 +171,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "b7wkoZ9Ib_g",
+   "youtubeVideoId": "L810pvq1F9Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -328,7 +328,7 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "vJWuz3xo_To",
+   "youtubeVideoId": "vW33WkDcMMk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q586523",
@@ -361,7 +361,7 @@
     "es"
    ],
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
-   "youtubeVideoId": "7w8Ov9VWOTc",
+   "youtubeVideoId": "vonv4yguwOo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3076196",
@@ -465,7 +465,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "eTMeQMruIsw",
+   "youtubeVideoId": "cLxYKhR_v6Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -489,7 +489,7 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "5JENiPpLRBM",
+   "youtubeVideoId": "XLm27948GdM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096493",

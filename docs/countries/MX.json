@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111203,
+ "version": 2026111211,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
-  "mx.nmas",
   "mx.multimedios",
+  "mx.canalonce",
+  "mx.imagentv",
   "mx.imagenradio"
  ],
  "channels": [
@@ -39,7 +40,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "4hKdqMlPHl8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -288,9 +289,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "I1ikMpAS-VI",
+   "youtubeVideoId": "2bWEeiK7By0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -331,9 +332,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "u8Y1IOp4ICs",
+   "youtubeVideoId": "NYqSzsYcIS0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",

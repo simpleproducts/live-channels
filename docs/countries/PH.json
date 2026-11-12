@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111203,
+ "version": 2026111211,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
   "ph.net25",
   "ph.dzrh",
-  "ph.teleradyo"
+  "ph.loveradio"
  ],
  "channels": [
   {
@@ -20,7 +20,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "RJKFpdfBb5s",
+   "youtubeVideoId": "Y4HztorxXvQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -57,7 +57,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "BlKgn3Pckqo",
+   "youtubeVideoId": "E0SZsgw3CgA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -171,7 +171,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "K8zkZv-GKsw",
+   "youtubeVideoId": "kODrQC6DKc4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -425,7 +425,7 @@
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
    "youtubeVideoId": "Csuap-PkWKc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -461,9 +461,9 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "97NQddWLe_8",
+   "youtubeVideoId": "lqFrrBqPdfk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

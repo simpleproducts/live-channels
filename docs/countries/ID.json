@@ -1,10 +1,12 @@
 {
  "schema": 2,
  "code": "ID",
- "version": 2026111121,
+ "version": 2026111211,
  "defaultTiles": [
   "id.cnnid",
-  "id.metrotv"
+  "id.metrotv",
+  "id.kompastv",
+  "id.inews"
  ],
  "channels": [
   {
@@ -15,9 +17,9 @@
     "id"
    ],
    "youtubeChannelId": "UC5BMIWZe9isJXLZZWPWvBlg",
-   "youtubeVideoId": "YfTh5DycUII",
+   "youtubeVideoId": "qLPFpcyTUhI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6428601",
    "description": {
     "en": "Indonesian television news network",
@@ -160,9 +162,9 @@
     "id"
    ],
    "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg",
-   "youtubeVideoId": "EhknXhREohU",
+   "youtubeVideoId": "B6zLjRh3IOk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4213609",
    "description": {
     "en": "Indonesian television news network",

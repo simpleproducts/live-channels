@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026111203,
+ "version": 2026111211,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
   "es.elpais",
+  "es.elmundo",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.rtvcanarias",
-  "es.telemadrid"
+  "es.rtvcanarias"
  ],
  "channels": [
   {
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "xLDNv1mkWoc",
+   "youtubeVideoId": "qX73twmEa9g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -169,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-   "youtubeVideoId": "aCHaDV9uvx4",
+   "youtubeVideoId": "Gvtqbj6pvQA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -491,7 +491,7 @@
     "es"
    ],
    "youtubeChannelId": "UCv2BcgqxHSrl2QQfIkjR5Eg",
-   "youtubeVideoId": "1m4a88XikDc",
+   "youtubeVideoId": "h1NzJdYtQNc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q279413",
@@ -532,9 +532,9 @@
     "es"
    ],
    "youtubeChannelId": "UCT3tvU3bVxOa3ZiVD-B7h9g",
-   "youtubeVideoId": "n1Vh-fBT6bI",
+   "youtubeVideoId": "kCPgYcDsPlM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q539149",
    "description": {
     "en": "lower house of the Cortes Generales (legislative branch of Spain's national government)",
@@ -638,7 +638,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "QcZzMLpeOhU",
+   "youtubeVideoId": "eCfGsfxpXTg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1025113",

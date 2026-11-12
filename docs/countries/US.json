@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111203,
+ "version": 2026111211,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.livenow",
-  "us.newsmax",
   "us.foxweather",
-  "us.pbsnewshour",
-  "us.foxnews",
-  "us.forbesnews",
-  "us.nmasunivision"
+  "us.nbcnews",
+  "us.nmasunivision",
+  "us.telemundo",
+  "us.cnnee",
+  "us.bloomberg"
  ],
  "channels": [
   {
@@ -189,9 +189,9 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "JsaICjWKFY0",
+   "youtubeVideoId": "D_pDLnaeFVw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2877626",
    "description": {
     "en": "news division of NBC",
@@ -263,7 +263,7 @@
    "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg",
    "youtubeVideoId": "E0m_jmWb_yg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q18353130",
    "description": {
     "en": "American news channel",
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "HqTd-iEu5KM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -549,7 +549,7 @@
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
    "youtubeVideoId": "n2IOPY5yBqU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -765,7 +765,7 @@
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
    "youtubeVideoId": "GTRH9YMTkys",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1013,7 +1013,7 @@
    "youtubeChannelId": "UCb--64Gl51jIEVE-GLDAVTg",
    "youtubeVideoId": "jOAMnVX_eMA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1022311",
    "description": {
     "en": "American television channel",

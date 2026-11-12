@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026110817,
+ "version": 2026111211,
  "defaultTiles": [
-  "hk.phoenixtv"
+  "hk.phoenixtv",
+  "hk.rthk"
  ],
  "channels": [
   {
@@ -95,9 +96,9 @@
     "zh"
    ],
    "youtubeChannelId": "UC6of7UYhctnYmqABjUqzuxw",
-   "youtubeVideoId": "asbAQDHr8-0",
+   "youtubeVideoId": "wGlnFAgYPfk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1153480",
    "description": {
     "en": "Hong Kong public broadcaster",
