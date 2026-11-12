@@ -4,7 +4,7 @@
  "defaultTiles": ["milenio", "nmas", "imagennoticias", "excelsior", "aztecanoticias", "latinus", "heraldo", "unotv", "adnnoticias"],
  "channels": [
   {"id": "milenio", "name": "Milenio", "category": "news", "youtubeChannelId": "UCFxHplbcoJK9m70c4VyTIxg", "youtubeVideoId": "oPy8a-TCjzA", "embeddable": true, "live": true, "liveSince": "2026-07-10T12:43:48Z"},
-  {"id": "nmas", "name": "N+", "category": "news", "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA", "youtubeVideoId": "HmzMZDCKD9o", "embeddable": true, "live": true, "liveSince": "2026-11-11T20:56:42Z", "wikidata": null},
+  {"id": "nmas", "name": "N+", "category": "news", "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA", "youtubeVideoId": "4hKdqMlPHl8", "embeddable": true, "live": true, "liveSince": "2026-11-12T02:59:21Z", "wikidata": null},
   {"id": "imagennoticias", "name": "Imagen Noticias", "category": "news", "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw", "youtubeVideoId": "HHIIHwpmiPE", "embeddable": true, "live": false},
   {"id": "excelsior", "name": "Excélsior TV", "category": "news", "youtubeChannelId": "UClqo4ZAAZ01HQdCTlovCgkA", "youtubeVideoId": "BR8vnjJD5pk", "embeddable": true, "live": false},
   {"id": "aztecanoticias", "name": "Azteca Noticias", "category": "news", "youtubeChannelId": "UCUP6qv-_EIL0hwTsJaKYnvw", "youtubeVideoId": "0j-UwUPyJO4", "embeddable": true, "live": true, "liveSince": "2026-05-11T21:08:06Z"},
@@ -15,18 +15,18 @@
   {"id": "aristegui", "name": "Aristegui Noticias", "category": "news", "youtubeChannelId": "UCafNntv_qTQB26AvbEQNHPw", "youtubeVideoId": "HXbksZTAdgk", "embeddable": true, "live": false, "wikidata": "Q61998946"},
   {"id": "elfinanciero", "name": "El Financiero", "category": "economy", "youtubeChannelId": "UCHEZcUuC5ulaAFDq1LDqdTw", "youtubeVideoId": "bRkuEGNmSW0", "embeddable": true, "live": false, "wikidata": "Q42911288"},
   {"id": "multimedios", "name": "Multimedios", "category": "broadcast", "youtubeChannelId": "UCo1nfa1JKNqtcUyLjLwTiIw", "youtubeVideoId": "SM864ZgPpG8", "embeddable": true, "live": true, "liveSince": "2026-08-17T02:52:49Z", "wikidata": "Q11693969"},
-  {"id": "canalonce", "name": "Canal Once", "category": "broadcast", "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A", "youtubeVideoId": "I1ikMpAS-VI", "embeddable": true, "live": true, "liveSince": "2026-11-11T21:17:02Z"},
+  {"id": "canalonce", "name": "Canal Once", "category": "broadcast", "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A", "youtubeVideoId": "I1ikMpAS-VI", "embeddable": true, "live": false},
   {"id": "canal14", "name": "Canal Catorce", "category": "broadcast", "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ", "youtubeVideoId": "N3MT0aJ1qow", "embeddable": true, "live": false},
-  {"id": "imagentv", "name": "Imagen Televisión", "category": "broadcast", "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA", "youtubeVideoId": "u8Y1IOp4ICs", "embeddable": true, "live": true, "liveSince": "2026-11-11T19:58:33Z"},
+  {"id": "imagentv", "name": "Imagen Televisión", "category": "broadcast", "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA", "youtubeVideoId": "u8Y1IOp4ICs", "embeddable": true, "live": false},
   {"id": "tvazteca", "name": "TV Azteca", "category": "broadcast", "youtubeChannelId": "UCNVrBkfp4_TG9x4h5kvLeAQ", "youtubeVideoId": "JamoD43fXNc", "embeddable": true, "live": false},
   {"id": "lasestrellas", "name": "Las Estrellas", "category": "broadcast", "youtubeChannelId": "UCZGYvP6WnVWGM5F0QEAyoyg", "youtubeVideoId": "sW7P8JsNRog", "embeddable": true, "live": false},
   {"id": "gobmx", "name": "Gobierno de México", "category": "government", "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w", "youtubeVideoId": "juJWoo2Pg3s", "embeddable": true, "live": false, "wikidata": "Q5440529"},
   {"id": "canalcongreso", "name": "Canal del Congreso", "category": "government", "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg", "youtubeVideoId": "HgvXAK0Pkfw", "embeddable": true, "live": false, "wikidata": "Q5746883"},
-  {"id": "radioformula", "name": "Radio Fórmula", "category": "radio", "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q", "youtubeVideoId": "1pDG0HLIz90", "embeddable": true, "live": true, "liveSince": "2026-11-11T21:57:06Z"},
+  {"id": "radioformula", "name": "Radio Fórmula", "category": "radio", "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q", "youtubeVideoId": "1pDG0HLIz90", "embeddable": true, "live": false},
   {"id": "wradio", "name": "W Radio México", "category": "radio", "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw", "youtubeVideoId": "q89v9dMDeT8", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "imagenradio", "name": "Imagen Radio", "category": "radio", "youtubeChannelId": "UCB0BUmdBOrH9mYU2ebs1eWA", "youtubeVideoId": "ngGEDV07BLo", "embeddable": true, "live": true, "liveSince": "2026-11-11T18:16:44Z", "languages": ["es"]},
-  {"id": "mvsnoticias", "name": "MVS Noticias", "category": "radio", "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg", "youtubeVideoId": "UWLusKzvN_g", "embeddable": true, "live": true, "liveSince": "2026-11-11T12:12:58Z", "languages": ["es"]},
-  {"id": "los40", "name": "Los 40 México", "category": "radio", "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA", "youtubeVideoId": "64YE7sk9_1c", "embeddable": true, "live": true, "liveSince": "2026-11-11T21:49:53Z", "languages": ["es"]},
+  {"id": "mvsnoticias", "name": "MVS Noticias", "category": "radio", "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg", "youtubeVideoId": "UWLusKzvN_g", "embeddable": true, "live": false, "languages": ["es"]},
+  {"id": "los40", "name": "Los 40 México", "category": "radio", "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA", "youtubeVideoId": "64YE7sk9_1c", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "canal22", "name": "Canal 22", "category": "culture", "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw", "youtubeVideoId": "K03vS7VcF7M", "embeddable": true, "live": false, "wikidata": "Q42908534"}
  ]
 }

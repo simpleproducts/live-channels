@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111121,
+ "version": 2026111203,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.livenow",
   "us.newsmax",
   "us.foxweather",
-  "us.cbsnews",
-  "us.nbcnews",
-  "us.scripps",
-  "us.pbsnewshour"
+  "us.pbsnewshour",
+  "us.foxnews",
+  "us.forbesnews",
+  "us.nmasunivision"
  ],
  "channels": [
   {
@@ -135,7 +135,7 @@
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
    "youtubeVideoId": "q8Puv82CkFw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",
@@ -191,7 +191,7 @@
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
    "youtubeVideoId": "JsaICjWKFY0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2877626",
    "description": {
     "en": "news division of NBC",
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "Ssa7q2bIdNM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -547,9 +547,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "WqzkDnUQ2LQ",
+   "youtubeVideoId": "n2IOPY5yBqU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",

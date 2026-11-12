@@ -1,13 +1,12 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111121,
+ "version": 2026111203,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
   "ph.net25",
-  "ph.anc",
   "ph.dzrh",
   "ph.teleradyo"
  ],
@@ -21,7 +20,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "7sy5HtCAlAA",
+   "youtubeVideoId": "RJKFpdfBb5s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -58,7 +57,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "YQYXikB_MFs",
+   "youtubeVideoId": "BlKgn3Pckqo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -88,7 +87,7 @@
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
    "youtubeVideoId": "ZR1lAJwNhOs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -172,7 +171,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "T6X8lC6b0l4",
+   "youtubeVideoId": "K8zkZv-GKsw",
    "embeddable": true,
    "live": true,
    "wikidata": null,

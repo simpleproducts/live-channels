@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026111121,
+ "version": 2026111203,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -685,7 +685,7 @@
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
    "youtubeVideoId": "_LYsGHsQHVA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -751,7 +751,7 @@
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
    "youtubeVideoId": "S1u0Bo4zxec",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

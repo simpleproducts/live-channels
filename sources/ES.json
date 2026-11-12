@@ -20,8 +20,8 @@
   {"id": "congreso", "name": "Congreso de los Diputados", "category": "government", "youtubeChannelId": "UCT3tvU3bVxOa3ZiVD-B7h9g", "youtubeVideoId": "n1Vh-fBT6bI", "embeddable": true, "live": false},
   {"id": "senado", "name": "Senado de España", "category": "government", "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w", "youtubeVideoId": "aL70WUD2g8g", "embeddable": true, "live": false},
   {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "QcZzMLpeOhU", "embeddable": true, "live": true, "liveSince": "2026-11-11T10:08:38Z", "wikidata": "Q1025113"},
-  {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "_LYsGHsQHVA", "embeddable": true, "live": true, "liveSince": "2026-11-11T18:00:46Z", "wikidata": "Q2748448"},
+  {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "_LYsGHsQHVA", "embeddable": true, "live": false, "wikidata": "Q2748448"},
   {"id": "cope", "name": "COPE", "category": "radio", "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ", "youtubeVideoId": "bLGfSMeaYuo", "embeddable": true, "live": false, "wikidata": "Q2748488"},
-  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "S1u0Bo4zxec", "embeddable": true, "live": true, "liveSince": "2026-11-11T18:57:21Z", "wikidata": "Q3390195"}
+  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "S1u0Bo4zxec", "embeddable": true, "live": false, "wikidata": "Q3390195"}
  ]
 }
