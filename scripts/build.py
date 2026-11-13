@@ -10,7 +10,8 @@ Usage:  python3 -I scripts/build.py [--offline] [--check] [--no-scrape]
   --no-scrape  skip the key-less live scrape (use when refresh_live.py with YT_API_KEY already ran)
 
 Featured walls: sources/walls.json is validated and published in docs/index.json as "walls" (tiles that
-are not live are dropped, walls with fewer than 2 live tiles or an end in the past are left out).
+are not live are dropped, except on walls still to come, which keep every published tile; walls with fewer
+than 2 tiles or an end in the past are left out).
 
 Live pinning: unless --no-scrape/--offline, every channel's /live page is fetched; when it is live and
 embeddable its video id is written to sources/<CC>.json as "youtubeVideoId" (+ "embeddable"). Offline
@@ -304,17 +305,22 @@ def validate_walls(walls, sources):
     return errors
 
 
-def build_walls(walls, live_gids, now):
-    """Published walls: tiles in order, non-live (or unpublished) channels dropped; walls that ended or keep
-    fewer than 2 live tiles are left out."""
+def build_walls(walls, live_gids, published_gids, now):
+    """Published walls: tiles in order, unpublished channels dropped. Once a wall has started (or when it has
+    no start), channels that aren't live are dropped too. A wall still to come keeps every published channel:
+    many only go live for the event, and the app needs the wall ahead of time for its event alert and for
+    links to it (an In-App Event opens skywall://wall/<id>); it lists the wall only from its start. Walls that
+    ended, or keep fewer than 2 tiles, are left out."""
     out = []
     for w in walls:
         if "end" in w and parse_utc(w["end"]) <= now:
             print("  wall %s left out: ended" % w["id"], file=sys.stderr)
             continue
-        tiles = [t for t in w["tiles"] if t in live_gids]
+        upcoming = "start" in w and parse_utc(w["start"]) > now
+        tiles = [t for t in w["tiles"] if t in (published_gids if upcoming else live_gids)]
         if len(tiles) < 2:
-            print("  wall %s left out: only %d live tiles" % (w["id"], len(tiles)), file=sys.stderr)
+            print("  wall %s left out: only %d %s tiles" % (w["id"], len(tiles), "published" if upcoming else "live"),
+                  file=sys.stderr)
             continue
         rec = {"id": w["id"], "title": {loc: w["title"][loc] for loc in LOCALES}, "tiles": tiles}
         if w.get("countries"):
@@ -450,6 +456,7 @@ def main():
     any_changed = False
     stats = []
     live_gids = set()
+    published_gids = set()
     live_since = {}  # gid -> liveSince (or None) for docs/live.json
     for name in sorted(sources):
         s = sources[name]
@@ -521,6 +528,7 @@ def main():
                 "city": enrich.get("city"),
             })
             out_channels.append(rec)
+            published_gids.add(gid)
             if rec["live"]:
                 live_gids.add(gid)
                 live_since[gid] = ch.get("liveSince")
@@ -549,7 +557,7 @@ def main():
                                 "file": "countries/%s.json" % cc})
         stats.append((cc, len(out_channels), matched))
 
-    out_walls = build_walls(walls, live_gids, now)
+    out_walls = build_walls(walls, live_gids, published_gids, now)
     prev_index = _prev_index()
     updated = prev_index.get("updated")
     prev_countries = prev_index.get("countries")

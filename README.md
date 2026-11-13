@@ -188,8 +188,12 @@ The app offers them next to the country lists. Source format:
 | `start`, `end` | no | ISO 8601 UTC (`Z`); the app shows the wall in that window |
 | `featured` | no | `true` to highlight it; default `false` |
 
-On every build, tiles whose channel is not live (or not published) are dropped, keeping the order.
-A wall that ends up with fewer than 2 tiles, or whose `end` is in the past, is left out. The result
+On every build, tiles whose channel is not published are dropped, keeping the order. Once a wall has
+started (or when it has no `start`), tiles whose channel is not live are dropped too. A wall still to come
+keeps every published tile: many channels only go live for the event, and the app needs the wall ahead of
+time for its event alert and for links that open it (`skywall://wall/<id>`, used by In-App Events). The app
+lists a wall only between `start` and `end`. A wall that ends up with fewer than 2 tiles, or whose `end` is
+in the past, is left out. The result
 goes into `docs/index.json` as a top-level `"walls"` array with the same fields (`countries` only
 when non-empty). The `schema` number stays 2: `walls` is a new optional key.
 
