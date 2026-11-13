@@ -4,11 +4,11 @@
  "defaultTiles": ["euronewspt"],
  "channels": [
   {"id": "euronewspt", "name": "Euronews em português", "category": "news", "youtubeChannelId": "UCUmEPYxmnyQDeRUcFkslmQw", "youtubeVideoId": "XuZAl-ZPEcA", "embeddable": true, "live": true, "liveSince": "2024-01-19T17:23:14Z"},
-  {"id": "observador", "name": "Observador", "category": "news", "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg", "youtubeVideoId": "rHP5OVgmIKg", "embeddable": true, "live": true, "liveSince": "2026-11-13T18:17:05Z", "wikidata": "Q25442845"},
+  {"id": "observador", "name": "Observador", "category": "news", "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg", "youtubeVideoId": "rHP5OVgmIKg", "embeddable": true, "live": false, "wikidata": "Q25442845"},
   {"id": "rtp", "name": "RTP Notícias", "category": "news", "youtubeChannelId": "UCIM-wfyv9hg2oEiA81mQc2A", "live": false, "wikidata": "Q3415778"},
   {"id": "cmtv", "name": "CMTV", "category": "news", "youtubeChannelId": "UCpiCOeyRdCLh8vKXYQZjOeA", "live": false, "wikidata": "Q18363883"},
   {"id": "rtp1", "name": "RTP", "category": "broadcast", "youtubeChannelId": "UCWPpeeDOykyH5ducPITCDPw", "live": false, "wikidata": "Q649618"},
   {"id": "canalparlamento", "name": "ARTV Canal Parlamento", "category": "government", "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A", "youtubeVideoId": "jC_X8ZPukoU", "embeddable": true, "live": false},
-  {"id": "renascenca", "name": "Rádio Renascença", "category": "radio", "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw", "youtubeVideoId": "PcmU9C5lri8", "embeddable": true, "live": false}
+  {"id": "renascenca", "name": "Rádio Renascença", "category": "radio", "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw", "youtubeVideoId": "zDk4mDijyGg", "embeddable": true, "live": true, "liveSince": "2026-11-13T22:34:00Z"}
  ]
 }

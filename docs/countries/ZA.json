@@ -1,9 +1,12 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026111316,
+ "version": 2026111322,
  "defaultTiles": [
-  "za.safm"
+  "za.sabcnews",
+  "za.enca",
+  "za.newzroom",
+  "za.news24"
  ],
  "channels": [
   {
@@ -198,7 +201,7 @@
    "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w",
    "youtubeVideoId": "98hGH0C3XxI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

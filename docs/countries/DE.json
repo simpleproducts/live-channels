@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026111316,
+ "version": 2026111322,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
+  "de.bild",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -17,7 +18,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "_wqP4oYAXJQ",
+   "youtubeVideoId": "rqmv6HrDCs8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -184,9 +185,9 @@
     "de"
    ],
    "youtubeChannelId": "UC4zcMHyrT_xyWlgy5WGpFFQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "3n0kxHV825Y",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q156203",
    "description": {
     "en": "German tabloid newspaper",

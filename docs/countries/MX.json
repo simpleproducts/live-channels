@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111318,
+ "version": 2026111322,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
-  "mx.heraldo",
+  "mx.unotv",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
   "mx.imagentv",
-  "mx.gobmx"
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -141,7 +141,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "uF-gUb78bG0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -169,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
-   "youtubeVideoId": "L2OlaIc7Qfk",
+   "youtubeVideoId": "RQHAVWc25mI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -291,7 +291,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "3MxkojToKFM",
+   "youtubeVideoId": "RVisv-F58xs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -334,7 +334,7 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "K0yk28TAUPk",
+   "youtubeVideoId": "ToFvbZLa62o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27031787",
@@ -442,7 +442,7 @@
    "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w",
    "youtubeVideoId": "6wi3iL3GsQk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5440529",
    "description": {
     "en": "national government of the United Mexican States",
@@ -490,7 +490,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "-w1IE6z8SjA",
+   "youtubeVideoId": "mvwcc97Uhdo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -517,7 +517,7 @@
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
    "youtubeVideoId": "wczXciYpSQY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -569,7 +569,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "mUtsVREtls4",
+   "youtubeVideoId": "tOlZFksSTGU",
    "embeddable": true,
    "live": true,
    "wikidata": null,

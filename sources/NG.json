@@ -6,8 +6,8 @@
   {"id": "channelstv", "name": "Channels Television", "category": "news", "youtubeChannelId": "UCEXGDNclvmg6RW0vipJYsTQ", "youtubeVideoId": "d4zDorDl5UE", "embeddable": true, "live": true, "liveSince": "2025-06-11T18:28:02Z"},
   {"id": "arisenews", "name": "Arise News", "category": "news", "youtubeChannelId": "UCyEJX-kSj0kOOCS7Qlq2G7g", "youtubeVideoId": "1tYNoWenZBo", "embeddable": true, "live": true, "liveSince": "2026-11-11T12:22:15Z"},
   {"id": "tvcnews", "name": "TVC News Nigeria", "category": "news", "youtubeChannelId": "UCgp4A6I8LCWrhUzn-5SbKvA", "youtubeVideoId": "5qZKM7m1Moc", "embeddable": true, "live": true, "liveSince": "2026-08-17T08:11:57Z"},
-  {"id": "ntalive", "name": "NTA Live", "category": "news", "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg", "youtubeVideoId": "esRZ2Dy-N7Q", "embeddable": true, "live": false},
-  {"id": "ait", "name": "Africa Independent Television", "category": "broadcast", "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g", "youtubeVideoId": "0OrHRKhP6vo", "embeddable": true, "live": true, "liveSince": "2026-11-13T15:51:12Z", "wikidata": "Q979027"},
-  {"id": "nta", "name": "NTA Network", "category": "broadcast", "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g", "youtubeVideoId": "qf3InbQ7fh4", "embeddable": true, "live": true, "liveSince": "2026-11-11T15:06:27Z"}
+  {"id": "ntalive", "name": "NTA Live", "category": "news", "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg", "youtubeVideoId": "HGr3AMAe40Y", "embeddable": true, "live": true, "liveSince": "2026-11-13T22:16:15Z"},
+  {"id": "ait", "name": "Africa Independent Television", "category": "broadcast", "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g", "youtubeVideoId": "YC9n_8SHhdk", "embeddable": true, "live": true, "liveSince": "2026-11-13T21:34:59Z", "wikidata": "Q979027"},
+  {"id": "nta", "name": "NTA Network", "category": "broadcast", "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g", "youtubeVideoId": "dy1oS64HsCs", "embeddable": true, "live": true, "liveSince": "2026-11-13T21:42:57Z"}
  ]
 }

@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "PT",
- "version": 2026111318,
+ "version": 2026111322,
  "defaultTiles": [
   "pt.euronewspt",
-  "pt.observador"
+  "pt.renascenca"
  ],
  "channels": [
   {
@@ -73,7 +73,7 @@
    "youtubeChannelId": "UC35F6ktZodINwjQZjuwLcjg",
    "youtubeVideoId": "rHP5OVgmIKg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q25442845",
    "description": {
     "en": "Portuguese electronic newspaper",
@@ -240,9 +240,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCrF8Ok_NkhCqrDnxcjN5ehw",
-   "youtubeVideoId": "PcmU9C5lri8",
+   "youtubeVideoId": "zDk4mDijyGg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1509626",
    "description": {
     "en": "Radio station",
