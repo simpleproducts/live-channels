@@ -1,13 +1,10 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111307,
+ "version": 2026111316,
  "defaultTiles": [
   "ph.untv",
-  "ph.abscbn",
-  "ph.gma",
-  "ph.dzrh",
-  "ph.loveradio"
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -21,7 +18,7 @@
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
    "youtubeVideoId": "niHU9OLm75A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -58,7 +55,7 @@
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
    "youtubeVideoId": "ZxjGAnf_zCg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -462,7 +459,7 @@
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
    "youtubeVideoId": "IZfh-x82jPc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

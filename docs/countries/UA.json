@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026111307,
+ "version": 2026111316,
  "defaultTiles": [
   "ua.suspilne",
   "ua.espreso",
   "ua.united24",
   "ua.tsn",
   "ua.faktyictv",
+  "ua.kyiv24",
   "ua.5kanal",
   "ua.freedom",
   "ua.rada"
@@ -144,9 +145,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
-   "youtubeVideoId": "e_fSMiWXp3c",
+   "youtubeVideoId": "Z-FsCXoHtRA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -162,7 +163,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "ozU4fI0ipZo",
+   "youtubeVideoId": "AH7lXT3xcmo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",
@@ -216,7 +217,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
-   "youtubeVideoId": "7jZO6fpHa0Q",
+   "youtubeVideoId": "7u9LZoJUAYM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2987894",

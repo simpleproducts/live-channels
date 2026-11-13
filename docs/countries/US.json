@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111307,
+ "version": 2026111316,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
-  "us.livenow",
   "us.foxweather",
   "us.cbsnews",
   "us.nbcnews",
+  "us.livenow",
   "us.newsmax",
-  "us.nmasunivision",
-  "us.telemundo"
+  "us.scripps",
+  "us.pbsnewshour"
  ],
  "channels": [
   {
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "7IhhvdVUlKM",
+   "youtubeVideoId": "b0ZhJhN_Sn8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "g4vI3ZplCys",
+   "youtubeVideoId": "65kQUIlyM-4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "Lhk3Gu0YeRs",
+   "youtubeVideoId": "z8wdRIvy2Fw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "Ssa7q2bIdNM",
+   "youtubeVideoId": "P-D23A08cAE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -429,9 +429,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "IZakQaaTs1s",
+   "youtubeVideoId": "oBXJ7SfsoMs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-   "youtubeVideoId": "5OYoXXYigRg",
+   "youtubeVideoId": "4LU0MciKYSI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "EocFRMaTT-c",
+   "youtubeVideoId": "TaEW4ytUi6g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -547,9 +547,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "n2IOPY5yBqU",
+   "youtubeVideoId": "KOMtOdPVa9M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -659,9 +659,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA",
-   "youtubeVideoId": "sw1ZZMmUjdg",
+   "youtubeVideoId": "DWNKB8HLpQI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7739683",
    "description": {
     "en": "newspaper in Washington, D.C.",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "2NDKTZSD8CY",
+   "youtubeVideoId": "wQ_WgX4aCuY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -865,9 +865,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
-   "youtubeVideoId": "S3NTj9Cg0pM",
+   "youtubeVideoId": "mFzjXepOaEA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3735740",
    "description": {
     "en": "American business channel",
@@ -1011,9 +1011,9 @@
     "en"
    ],
    "youtubeChannelId": "UCb--64Gl51jIEVE-GLDAVTg",
-   "youtubeVideoId": "jOAMnVX_eMA",
+   "youtubeVideoId": "E9yi0cu2_gE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1022311",
    "description": {
     "en": "American television channel",

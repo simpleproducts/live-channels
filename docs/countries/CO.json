@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111307,
+ "version": 2026111316,
  "defaultTiles": [
   "co.noticiascaracol",
   "co.noticiasrcn",
@@ -10,6 +10,7 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
+  "co.canalcapital",
   "co.bluradio"
  ],
  "channels": [
@@ -316,9 +317,9 @@
     "es"
    ],
    "youtubeChannelId": "UCeSx6aU8UGIIHxGCQPbYY_A",
-   "youtubeVideoId": "bN2oCGxB8AM",
+   "youtubeVideoId": "g85LfuZOrOQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5030992",
    "description": {
     "en": "Colombian channel television",
@@ -360,9 +361,9 @@
     "es"
    ],
    "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
-   "youtubeVideoId": "EUkru3AQz8M",
+   "youtubeVideoId": "8jGhLcDbtXE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6140409",
    "description": {
     "en": "Colombian television network",
@@ -386,9 +387,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": "gycrlhYh_tg",
+   "youtubeVideoId": "m--qZvhrnkk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -428,7 +429,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "Aqwrm3YM-p4",
+   "youtubeVideoId": "m-XufikqWCw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -485,9 +486,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "Aju0jnVV8nk",
+   "youtubeVideoId": "t2gvCoaZyPc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -571,9 +572,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
-   "youtubeVideoId": "_XOUodlupoQ",
+   "youtubeVideoId": "vYoh99OXv9g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

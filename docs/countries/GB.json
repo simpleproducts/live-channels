@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026111307,
+ "version": 2026111316,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.bbcnewsarabic",
-  "gb.timesradio",
-  "gb.talksport"
+  "gb.reuters",
+  "gb.itvnews",
+  "gb.independent",
+  "gb.mirror",
+  "gb.thesun"
  ],
  "channels": [
   {
@@ -170,9 +172,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "8oqEmeFSy3w",
+   "youtubeVideoId": "8NvHdj-F_j8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -388,9 +390,9 @@
     "en"
    ],
    "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A",
-   "youtubeVideoId": "FyIeZTM0Ur4",
+   "youtubeVideoId": "Ptp2_pdCdLs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4189762",
    "description": {
     "en": "British broadcaster ITV's branded news programming",
@@ -426,9 +428,9 @@
     "en"
    ],
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
-   "youtubeVideoId": "clfLRT8TBQ0",
+   "youtubeVideoId": "0rv_wqetj1g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -482,9 +484,9 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "opq87u23czA",
+   "youtubeVideoId": "UgEPNATwzMs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -500,9 +502,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "NKAH1wNJjhk",
+   "youtubeVideoId": "lWJ5zEjsFgM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",

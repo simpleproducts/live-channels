@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "ID",
- "version": 2026111307,
+ "version": 2026111316,
  "defaultTiles": [
   "id.cnnid",
-  "id.metrotv",
-  "id.tvri"
+  "id.metrotv"
  ],
  "channels": [
   {
@@ -249,7 +248,7 @@
    "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ",
    "youtubeVideoId": "RGbLOOnyOTA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1973495",
    "description": {
     "en": "Indonesian public television network",
