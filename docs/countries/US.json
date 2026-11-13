@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111300,
+ "version": 2026111307,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.cbsnews",
   "us.nbcnews",
   "us.newsmax",
-  "us.newsnation",
-  "us.ap"
+  "us.nmasunivision",
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -475,7 +475,7 @@
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
    "youtubeVideoId": "5OYoXXYigRg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "EocFRMaTT-c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -969,7 +969,7 @@
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
    "youtubeVideoId": "DOom0YUWhLg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -987,7 +987,7 @@
    "youtubeChannelId": "UCcEWv_J2SEU8XO2tEm4Phgw",
    "youtubeVideoId": "62WJTpeXDuU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q569244",
    "description": {
     "en": "US record company",

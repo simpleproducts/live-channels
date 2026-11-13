@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111300,
+ "version": 2026111307,
  "defaultTiles": [
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
   "co.ntn24",
-  "co.canal1",
-  "co.rtvc",
   "co.caracoltv",
   "co.citytv",
-  "co.rcnradio"
+  "co.rcnradio",
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -130,7 +129,7 @@
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
    "youtubeVideoId": "3e2SaC0hzdk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -148,7 +147,7 @@
    "youtubeChannelId": "UCykAfJIwT4VSQDFdRrZ1DXA",
    "youtubeVideoId": "g22vqhpJ6b4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -265,7 +264,7 @@
    "youtubeChannelId": "UCwZjVanaSg019RVQea9V1kw",
    "youtubeVideoId": "-kwB3oviFck",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2753712",
    "description": {
     "en": "Colombian TV channel",
@@ -345,7 +344,7 @@
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
    "youtubeVideoId": "NWi1mrvAL6w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -429,7 +428,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "mhl-7Ikf76Q",
+   "youtubeVideoId": "Aqwrm3YM-p4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -459,7 +458,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "bGa3GPcbKyk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -488,7 +487,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "Aju0jnVV8nk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -513,7 +512,7 @@
    "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A",
    "youtubeVideoId": "lNC3o6GiOw4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5843056",
    "description": {
     "en": "public radio network in Columbia",
@@ -628,7 +627,7 @@
    "youtubeChannelId": "UCiVHAfsq_UPsw8cm0sylDRw",
    "youtubeVideoId": "s4dYEA2ZC4k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5964328",
    "description": {
     "en": "Colombian radio station",

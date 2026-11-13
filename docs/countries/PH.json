@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111300,
+ "version": 2026111307,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
-  "ph.net25",
-  "ph.rappler",
   "ph.dzrh",
   "ph.loveradio"
  ],
@@ -21,7 +19,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "GxuYjlo09qg",
+   "youtubeVideoId": "niHU9OLm75A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -58,7 +56,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "UN6soAt7-O8",
+   "youtubeVideoId": "ZxjGAnf_zCg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -174,7 +172,7 @@
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
    "youtubeVideoId": "8kAlmg2wN20",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -193,7 +191,7 @@
    "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw",
    "youtubeVideoId": "TK6tZcYSioI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q14903716",
    "description": {
     "en": "news website company in the Philippines",
@@ -462,7 +460,7 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "YzE2F5mHTYk",
+   "youtubeVideoId": "IZfh-x82jPc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6691186",

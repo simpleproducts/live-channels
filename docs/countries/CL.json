@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111300,
+ "version": 2026111307,
  "defaultTiles": [
   "cl.24horas",
+  "cl.chvnoticias",
   "cl.t13",
   "cl.meganoticias",
-  "cl.chvnoticias",
-  "cl.biobio",
-  "cl.chilevision",
   "cl.senado",
   "cl.cooperativa",
-  "cl.tvn"
+  "cl.tvn",
+  "cl.chilevision",
+  "cl.camara"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "GfocHi7jdSE",
+   "youtubeVideoId": "jPwUGf4wfXk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -67,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "TVxe_wZN8Jc",
+   "youtubeVideoId": "XYy7z7S-rMA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -139,7 +139,7 @@
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
    "youtubeVideoId": "RPUB6Al5ZdU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -168,7 +168,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "fjyJycrgU24",
+   "youtubeVideoId": "4HQfblSW-D8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -224,7 +224,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "_BERLgDZ12M",
+   "youtubeVideoId": "jnCW702_qfo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
@@ -268,7 +268,7 @@
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
    "youtubeVideoId": "bF3x0MD7ZT0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -322,7 +322,7 @@
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
    "youtubeVideoId": "sJ80hUQ24Pc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
