@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111218,
+ "version": 2026111300,
  "defaultTiles": [
+  "cl.24horas",
   "cl.t13",
   "cl.meganoticias",
-  "cl.24horas",
+  "cl.chvnoticias",
   "cl.biobio",
+  "cl.chilevision",
   "cl.senado",
   "cl.cooperativa",
-  "cl.tvn",
-  "cl.chilevision",
-  "cl.mega"
+  "cl.tvn"
  ],
  "channels": [
   {
@@ -67,9 +67,9 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "C5MTh3XOR_A",
+   "youtubeVideoId": "TVxe_wZN8Jc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -168,7 +168,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "lJZvdyIbJqw",
+   "youtubeVideoId": "fjyJycrgU24",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -266,7 +266,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "2_FzSXR34Zg",
+   "youtubeVideoId": "bF3x0MD7ZT0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597946",
@@ -376,7 +376,7 @@
    "youtubeChannelId": "UCZnboDa_k5jxFCGp6jVhpUQ",
    "youtubeVideoId": "fSFt5MQmTNA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3547157",
    "description": {
     "en": "Chilean television channel, formerly known as UCV Televisión",
@@ -533,7 +533,7 @@
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
    "youtubeVideoId": "SHi3x8YYCzg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -569,7 +569,7 @@
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
    "youtubeVideoId": "va0dUqr5gaY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -587,7 +587,7 @@
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
    "youtubeVideoId": "JqkPf6dtQ6o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

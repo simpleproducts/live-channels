@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111218,
+ "version": 2026111300,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.livenow",
   "us.foxweather",
+  "us.cbsnews",
   "us.nbcnews",
   "us.newsmax",
-  "us.pbsnewshour",
-  "us.usatoday",
-  "us.forbesnews"
+  "us.newsnation",
+  "us.ap"
  ],
  "channels": [
   {
@@ -133,9 +133,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "q8Puv82CkFw",
+   "youtubeVideoId": "7IhhvdVUlKM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "cWdSlxa4Hhk",
+   "youtubeVideoId": "g4vI3ZplCys",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -261,7 +261,7 @@
     "en"
    ],
    "youtubeChannelId": "UCx6h-dWzJ5NpAlja1YsApdg",
-   "youtubeVideoId": "3eNuXj1hLT8",
+   "youtubeVideoId": "YecuAH1RcFA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q18353130",
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "IZakQaaTs1s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-   "youtubeVideoId": "hex8_brQCyo",
+   "youtubeVideoId": "5OYoXXYigRg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "LGWqH6WVKhM",
+   "youtubeVideoId": "EocFRMaTT-c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -709,7 +709,7 @@
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
    "youtubeVideoId": "Nni6KCouH0w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",
@@ -765,7 +765,7 @@
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
    "youtubeVideoId": "2NDKTZSD8CY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -967,9 +967,9 @@
     "en"
    ],
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
-   "youtubeVideoId": "3RoLsHwWf-4",
+   "youtubeVideoId": "DOom0YUWhLg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -985,9 +985,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEWv_J2SEU8XO2tEm4Phgw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "62WJTpeXDuU",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q569244",
    "description": {
     "en": "US record company",

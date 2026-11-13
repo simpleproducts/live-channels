@@ -1,14 +1,13 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026111218,
+ "version": 2026111300,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
   "pl.tvpworld",
-  "pl.radiozet",
-  "pl.tokfm"
+  "pl.radiozet"
  ],
  "channels": [
   {
@@ -273,7 +272,7 @@
    "youtubeChannelId": "UCUlZzs-r5LDqARiq1xPkQlw",
    "youtubeVideoId": "db1HDeao5OE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

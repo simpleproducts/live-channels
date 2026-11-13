@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026111218,
+ "version": 2026111300,
  "defaultTiles": [
   "il.c14",
-  "il.i24en",
+  "il.i24he",
   "il.i24fr"
  ],
  "channels": [
@@ -18,7 +18,7 @@
    "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg",
    "youtubeVideoId": "fhXXxL0oTJ0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -133,6 +133,24 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_i24NEWS.png?width=256",
    "website": "https://www.i24news.tv/en",
    "city": "Tel Aviv"
+  },
+  {
+   "id": "il.i24he",
+   "name": "i24NEWS עברית",
+   "category": "news",
+   "languages": [
+    "he"
+   ],
+   "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
+   "youtubeVideoId": "dRpVPPrxZH0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q136932915",
+   "description": {},
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_i24NEWS.png?width=256",
+   "website": "https://www.i24news.tv/he",
+   "city": null
   },
   {
    "id": "il.c14",

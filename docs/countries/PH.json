@@ -1,11 +1,15 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111218,
+ "version": 2026111300,
  "defaultTiles": [
   "ph.untv",
-  "ph.news5",
-  "ph.dzrh"
+  "ph.abscbn",
+  "ph.gma",
+  "ph.net25",
+  "ph.rappler",
+  "ph.dzrh",
+  "ph.loveradio"
  ],
  "channels": [
   {
@@ -17,9 +21,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "Y4HztorxXvQ",
+   "youtubeVideoId": "GxuYjlo09qg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -54,9 +58,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "E0SZsgw3CgA",
+   "youtubeVideoId": "UN6soAt7-O8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -128,7 +132,7 @@
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
    "youtubeVideoId": "OCmPzsnpknI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -168,9 +172,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "kODrQC6DKc4",
+   "youtubeVideoId": "8kAlmg2wN20",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -187,9 +191,9 @@
     "en"
    ],
    "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw",
-   "youtubeVideoId": "srsBhHsbmOw",
+   "youtubeVideoId": "TK6tZcYSioI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q14903716",
    "description": {
     "en": "news website company in the Philippines",
@@ -458,9 +462,9 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "lqFrrBqPdfk",
+   "youtubeVideoId": "YzE2F5mHTYk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

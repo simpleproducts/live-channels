@@ -1,13 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111218,
+ "version": 2026111300,
  "defaultTiles": [
   "uy.elobservadoruy",
   "uy.ladiaria",
+  "uy.tnu",
   "uy.carve",
-  "uy.delsol",
-  "uy.sarandi"
+  "uy.canal10",
+  "uy.tvciudad",
+  "uy.universal"
  ],
  "channels": [
   {
@@ -18,7 +20,7 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "NygALfMxlv8",
+   "youtubeVideoId": "DcEUkhXym0E",
    "embeddable": true,
    "live": true,
    "wikidata": "Q892935",
@@ -100,9 +102,9 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "ptRYs4jJvdQ",
+   "youtubeVideoId": "3_dvWw54S-c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -140,9 +142,9 @@
     "es"
    ],
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
-   "youtubeVideoId": "ZOKbI35pzL4",
+   "youtubeVideoId": "kWwWJtc-_4g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -227,9 +229,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "t15km9WTo3g",
+   "youtubeVideoId": "ijQM1j6ddR4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -301,7 +303,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "KmimgSQPGSo",
+   "youtubeVideoId": "IyseDZ7vydw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -328,7 +330,7 @@
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
    "youtubeVideoId": "fohQVt7LjW0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -346,7 +348,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "rchMclncwvw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -362,9 +364,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "juaWmcPDOGI",
+   "youtubeVideoId": "5tGkJgz7gII",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

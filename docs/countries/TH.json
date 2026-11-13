@@ -1,17 +1,14 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026111218,
+ "version": 2026111300,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
   "th.ch7news",
-  "th.ch3news",
   "th.tnn",
-  "th.pptv",
-  "th.amarin",
-  "th.nation",
-  "th.workpoint"
+  "th.workpoint",
+  "th.topnews"
  ],
  "channels": [
   {
@@ -22,9 +19,9 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "CjphuNsNCW4",
+   "youtubeVideoId": "bY5Wd_Hob0I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -72,9 +69,9 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "YSVMTRFo5qs",
+   "youtubeVideoId": "gkXSSCsBtdo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -108,9 +105,9 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "DHQ2o52lMos",
+   "youtubeVideoId": "jexvmJ-w0r8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -126,9 +123,9 @@
     "th"
    ],
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
-   "youtubeVideoId": "SCCZJmWwXvI",
+   "youtubeVideoId": "jRnfw1x00Uk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -206,9 +203,9 @@
     "th"
    ],
    "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ",
-   "youtubeVideoId": "MjCP54T8hbo",
+   "youtubeVideoId": "GgLefnLnx0M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -224,9 +221,9 @@
     "th"
    ],
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
-   "youtubeVideoId": "-cRdvw4Pn9E",
+   "youtubeVideoId": "J-cQ66Z-da4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
