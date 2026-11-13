@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026111316,
+ "version": 2026111318,
  "defaultTiles": [
   "ke.citizentv",
   "ke.ntv",
@@ -9,6 +9,7 @@
   "ke.ktn",
   "ke.tv47",
   "ke.kbc",
+  "ke.ramogi",
   "ke.inooro",
   "ke.radiocitizen"
  ],
@@ -98,7 +99,7 @@
     "sw"
    ],
    "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
-   "youtubeVideoId": "pjRIWATSf5g",
+   "youtubeVideoId": "z8vGJKWsMBk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -117,7 +118,7 @@
     "sw"
    ],
    "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg",
-   "youtubeVideoId": "N-yOKyShrHA",
+   "youtubeVideoId": "59sSXATzz40",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6392548",
@@ -172,9 +173,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ",
-   "youtubeVideoId": "i_3Nd3c3oPs",
+   "youtubeVideoId": "VFTuJBZ1KG8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

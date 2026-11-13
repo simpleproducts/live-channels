@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111316,
+ "version": 2026111318,
  "defaultTiles": [
   "cl.24horas",
   "cl.t13",
@@ -320,7 +320,7 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "vC4NUuYqu0Q",
+   "youtubeVideoId": "LCp0Qj-t_LA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600805",
@@ -374,9 +374,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZnboDa_k5jxFCGp6jVhpUQ",
-   "youtubeVideoId": "fSFt5MQmTNA",
+   "youtubeVideoId": "_YtP4yRPfQY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3547157",
    "description": {
     "en": "Chilean television channel, formerly known as UCV Televisión",
@@ -506,7 +506,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "xPyanZT6k6o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "jRmb1iwj5oc",
+   "youtubeVideoId": "9bgz-Ab4jQ0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -585,9 +585,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
-   "youtubeVideoId": "JqkPf6dtQ6o",
+   "youtubeVideoId": "f5RQT0N2tQ4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -623,7 +623,7 @@
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
    "youtubeVideoId": "SHKuu31RkcE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

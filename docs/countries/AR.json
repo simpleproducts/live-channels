@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026111316,
+ "version": 2026111318,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -195,7 +195,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "-IpWy7C461s",
+   "youtubeVideoId": "0JrNAW5ngHw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5915760",
@@ -286,7 +286,7 @@
    "youtubeChannelId": "UC0DM_mHV2u6dj8ig51GkQwg",
    "youtubeVideoId": "Ifee9NfNOZk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1032473",
    "description": {
     "en": "Argentine free-to-air television network",
@@ -508,7 +508,7 @@
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
    "youtubeVideoId": "WMjlhFOPED4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -555,7 +555,7 @@
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
    "youtubeVideoId": "tP9PKeNvOEU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -816,7 +816,7 @@
    "youtubeChannelId": "UCPlRurmY1Vn_lfwn-vKX6BQ",
    "youtubeVideoId": "yKwxmVWOaQw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -832,7 +832,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "EEf7hspCx-E",
+   "youtubeVideoId": "-02bSOyhYiU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -850,7 +850,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "xbFpkj0zwjg",
+   "youtubeVideoId": "g0resq1uRog",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -904,9 +904,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
-   "youtubeVideoId": "u9E1uIS2Y94",
+   "youtubeVideoId": "cpCXxqCKZYw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -922,7 +922,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "yNciIiX1cro",
+   "youtubeVideoId": "__krHS5H6Rg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q42912634",
@@ -964,7 +964,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "3pCFcs3fKUY",
+   "youtubeVideoId": "roNJF2dEDkA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -982,7 +982,7 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "GramzwWMihQ",
+   "youtubeVideoId": "lKWHN11DxoA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1118,7 +1118,7 @@
     "es"
    ],
    "youtubeChannelId": "UCLAj5TzCrNbqe3LosSKHLcQ",
-   "youtubeVideoId": "mgCIneeiU74",
+   "youtubeVideoId": "NkOtSFDY7WU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1172,7 +1172,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "w2bfP736twU",
+   "youtubeVideoId": "IHjSBw2gNjU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5961729",
@@ -1196,9 +1196,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "60ypYa6Rsus",
+   "youtubeVideoId": "vSLYsnx91NQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1214,9 +1214,9 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "wH97c6B3RJo",
+   "youtubeVideoId": "2t_awOYY-lE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111316,
+ "version": 2026111318,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
+  "us.newsmax",
   "us.foxweather",
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.newsmax",
   "us.scripps",
-  "us.pbsnewshour"
+  "us.ap"
  ],
  "channels": [
   {
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "oBXJ7SfsoMs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -475,7 +475,7 @@
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
    "youtubeVideoId": "4LU0MciKYSI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -491,7 +491,7 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "TaEW4ytUi6g",
+   "youtubeVideoId": "ae4ZfZtJ5xA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q40469",
@@ -603,9 +603,9 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "zNmImcV1cjI",
+   "youtubeVideoId": "BldUUs3n8ao",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -765,7 +765,7 @@
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
    "youtubeVideoId": "wQ_WgX4aCuY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-13T16:29:44Z",
+ "updated": "2026-11-13T18:48:51Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/AR.json"
   },
   {
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/BR.json"
   },
   {
@@ -150,7 +150,7 @@
     "fr"
    ],
    "channelCount": 11,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/CA.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/CL.json"
   },
   {
@@ -210,7 +210,7 @@
     "zh"
    ],
    "channelCount": 9,
-   "version": 2026111307,
+   "version": 2026111318,
    "file": "countries/CN.json"
   },
   {
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/CO.json"
   },
   {
@@ -300,7 +300,7 @@
     "ar"
    ],
    "channelCount": 5,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/EG.json"
   },
   {
@@ -330,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/ES.json"
   },
   {
@@ -390,7 +390,7 @@
     "en"
    ],
    "channelCount": 17,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/GB.json"
   },
   {
@@ -420,7 +420,7 @@
     "zh"
    ],
    "channelCount": 5,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/HK.json"
   },
   {
@@ -511,7 +511,7 @@
     "en"
    ],
    "channelCount": 24,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/IN.json"
   },
   {
@@ -541,7 +541,7 @@
     "it"
    ],
    "channelCount": 7,
-   "version": 2026111300,
+   "version": 2026111318,
    "file": "countries/IT.json"
   },
   {
@@ -602,7 +602,7 @@
     "sw"
    ],
    "channelCount": 11,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/KE.json"
   },
   {
@@ -662,7 +662,7 @@
     "es"
    ],
    "channelCount": 25,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/MX.json"
   },
   {
@@ -722,7 +722,7 @@
     "nl"
    ],
    "channelCount": 6,
-   "version": 2026110400,
+   "version": 2026111318,
    "file": "countries/NL.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 19,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/PE.json"
   },
   {
@@ -843,7 +843,7 @@
     "pl"
    ],
    "channelCount": 11,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/PL.json"
   },
   {
@@ -873,7 +873,7 @@
     "pt"
    ],
    "channelCount": 7,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/PT.json"
   },
   {
@@ -903,7 +903,7 @@
     "es"
    ],
    "channelCount": 10,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/PY.json"
   },
   {
@@ -933,7 +933,7 @@
     "ar"
    ],
    "channelCount": 7,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/QA.json"
   },
   {
@@ -963,7 +963,7 @@
     "ru"
    ],
    "channelCount": 6,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/RU.json"
   },
   {
@@ -1053,7 +1053,7 @@
     "th"
    ],
    "channelCount": 15,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/TH.json"
   },
   {
@@ -1113,7 +1113,7 @@
     "uk"
    ],
    "channelCount": 11,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/UA.json"
   },
   {
@@ -1143,7 +1143,7 @@
     "en"
    ],
    "channelCount": 32,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/US.json"
   },
   {
@@ -1173,7 +1173,7 @@
     "es"
    ],
    "channelCount": 13,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/UY.json"
   },
   {
@@ -1233,7 +1233,7 @@
     "es"
    ],
    "channelCount": 7,
-   "version": 2026111316,
+   "version": 2026111318,
    "file": "countries/VE.json"
   },
   {
@@ -1461,9 +1461,7 @@
     "pe.tvperunoticias",
     "pe.rpp",
     "pe.latina",
-    "pe.atv",
     "pe.larepublica",
-    "pe.willax",
     "pe.elcomercio"
    ],
    "countries": [
@@ -1471,6 +1469,46 @@
    ],
    "start": "2026-11-11T22:00:00Z",
    "end": "2026-11-16T19:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "asean-summit-2026",
+   "title": {
+    "en": "ASEAN Summit in Manila",
+    "es": "Cumbre de la ASEAN en Manila",
+    "zh-Hans": "马尼拉东盟峰会",
+    "ja": "マニラ ASEAN首脳会議",
+    "fr": "Sommet de l'ASEAN à Manille",
+    "pt-BR": "Cúpula da ASEAN em Manila",
+    "ko": "마닐라 아세안 정상회의",
+    "it": "Vertice ASEAN a Manila",
+    "ru": "Саммит АСЕАН в Маниле",
+    "zh-Hant": "馬尼拉東協峰會",
+    "ar": "قمة آسيان في مانيلا",
+    "tr": "Manila'da ASEAN Zirvesi",
+    "nl": "ASEAN-top in Manilla",
+    "pl": "Szczyt ASEAN w Manili",
+    "sv": "ASEAN-toppmötet i Manila",
+    "id": "KTT ASEAN di Manila",
+    "de": "ASEAN-Gipfel in Manila",
+    "ms": "Sidang Kemuncak ASEAN di Manila"
+   },
+   "tiles": [
+    "ph.ptv",
+    "ph.abscbn",
+    "ph.gma",
+    "ph.anc",
+    "ph.news5",
+    "ph.untv",
+    "ph.oneph",
+    "ph.inquirer",
+    "ph.rappler"
+   ],
+   "countries": [
+    "PH"
+   ],
+   "start": "2026-11-16T00:00:00Z",
+   "end": "2026-11-18T13:00:00Z",
    "featured": true
   },
   {
@@ -1536,10 +1574,13 @@
     "ms": "Perarakan Hari Revolusi Mexico"
    },
    "tiles": [
+    "mx.gobmx",
     "mx.milenio",
+    "mx.nmas",
     "mx.aztecanoticias",
     "mx.adnnoticias",
     "mx.unotv",
+    "mx.latinus",
     "mx.canal14",
     "mx.canalonce"
    ],
@@ -1580,13 +1621,49 @@
     "pk.samaa",
     "pk.expressnews",
     "pk.92news",
-    "pk.dawnnews"
+    "pk.dawnnews",
+    "cn.cgtn"
    ],
    "countries": [
     "PK"
    ],
    "start": "2026-11-24T16:00:00Z",
    "end": "2026-11-25T16:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "au-victoria-election-2026",
+   "title": {
+    "en": "Victorian state election 2026",
+    "es": "Elecciones en el estado de Victoria 2026",
+    "zh-Hans": "2026 澳大利亚维多利亚州选举",
+    "ja": "2026年 豪ビクトリア州選挙",
+    "fr": "Élections dans l'État de Victoria 2026",
+    "pt-BR": "Eleição estadual de Victoria 2026",
+    "ko": "2026 호주 빅토리아주 선거",
+    "it": "Elezioni nello stato di Victoria 2026",
+    "ru": "Выборы в штате Виктория 2026",
+    "zh-Hant": "2026 澳洲維多利亞州選舉",
+    "ar": "انتخابات ولاية فيكتوريا 2026",
+    "tr": "2026 Victoria eyalet seçimi",
+    "nl": "Verkiezingen in de staat Victoria 2026",
+    "pl": "Wybory stanowe w Wiktorii 2026",
+    "sv": "Delstatsvalet i Victoria 2026",
+    "id": "Pemilu negara bagian Victoria 2026",
+    "de": "Wahl im Bundesstaat Victoria 2026",
+    "ms": "Pilihan raya negeri Victoria 2026"
+   },
+   "tiles": [
+    "au.abcnews",
+    "au.9news",
+    "au.10news",
+    "au.newscomau"
+   ],
+   "countries": [
+    "AU"
+   ],
+   "start": "2026-11-28T06:30:00Z",
+   "end": "2026-11-28T14:00:00Z",
    "featured": true
   },
   {
@@ -1613,8 +1690,10 @@
    },
    "tiles": [
     "es.rtve24h",
+    "es.lasexta",
     "es.elpais",
     "es.elmundo",
+    "es.europapress",
     "es.3cat324",
     "es.euronewses",
     "es.libertaddigital"
@@ -1624,6 +1703,46 @@
    ],
    "start": "2026-11-29T18:30:00Z",
    "end": "2026-11-30T01:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ph-duterte-trial-2026",
+   "title": {
+    "en": "Duterte's ICC trial opens",
+    "es": "Comienza el juicio a Duterte en la CPI",
+    "zh-Hans": "杜特尔特国际刑事法院审判开庭",
+    "ja": "ドゥテルテ前大統領 ICC裁判開始",
+    "fr": "Ouverture du procès de Duterte à la CPI",
+    "pt-BR": "Começa o julgamento de Duterte no TPI",
+    "ko": "두테르테 ICC 재판 개시",
+    "it": "Al via il processo a Duterte alla Cpi",
+    "ru": "Начало суда над Дутерте в МУС",
+    "zh-Hant": "杜特蒂國際刑事法院審判開庭",
+    "ar": "بدء محاكمة دوتيرتي أمام المحكمة الجنائية الدولية",
+    "tr": "Duterte'nin UCM davası başlıyor",
+    "nl": "Proces tegen Duterte bij het ICC begint",
+    "pl": "Początek procesu Duterte przed MTK",
+    "sv": "Rättegången mot Duterte i ICC inleds",
+    "id": "Sidang Duterte di ICC dimulai",
+    "de": "Prozess gegen Duterte vor dem IStGH beginnt",
+    "ms": "Perbicaraan Duterte di ICC bermula"
+   },
+   "tiles": [
+    "ph.abscbn",
+    "ph.gma",
+    "ph.anc",
+    "ph.news5",
+    "ph.oneph",
+    "ph.untv",
+    "ph.rappler",
+    "ph.inquirer",
+    "ph.net25"
+   ],
+   "countries": [
+    "PH"
+   ],
+   "start": "2026-11-30T08:00:00Z",
+   "end": "2026-11-30T16:00:00Z",
    "featured": true
   },
   {
@@ -1652,7 +1771,10 @@
     "fr.franceinfo",
     "fr.bfmtv",
     "fr.france24",
-    "fr.euronewsfr"
+    "fr.euronewsfr",
+    "fr.tv5monde",
+    "fr.lcp",
+    "fr.publicsenat"
    ],
    "countries": [
     "FR"
@@ -1684,6 +1806,7 @@
     "ms": "Hari Kebangsaan UAE"
    },
    "tiles": [
+    "ae.abudhabitv",
     "ae.alarabiya",
     "ae.skynewsarabia",
     "ae.alhadath",
@@ -1721,6 +1844,7 @@
    "tiles": [
     "qa.aje",
     "qa.aja",
+    "qa.mubasher",
     "qa.alaraby",
     "qa.qatartv",
     "ae.skynewsarabia",
@@ -1757,9 +1881,14 @@
     "ms": "Perayaan Perawan Caacupé"
    },
    "tiles": [
+    "py.caacupe",
     "py.abctv",
     "py.npy",
+    "py.ultimahora",
     "py.telefuturo",
+    "py.snt",
+    "py.unicanal",
+    "py.nanduti",
     "py.monumental"
    ],
    "countries": [
@@ -1792,7 +1921,10 @@
     "ms": "Las Mañanitas untuk Perawan Guadalupe"
    },
    "tiles": [
+    "mx.lasestrellas",
+    "mx.tvazteca",
     "mx.milenio",
+    "mx.nmas",
     "mx.aztecanoticias",
     "mx.adnnoticias",
     "mx.imagentv",
@@ -1866,8 +1998,14 @@
    },
    "tiles": [
     "th.thaipbs",
+    "th.thaipbsnews",
+    "th.ch3news",
+    "th.ch7news",
     "th.thairath",
-    "th.tnn"
+    "th.tnn",
+    "th.pptv",
+    "th.amarin",
+    "th.nation"
    ],
    "countries": [
     "TH"
@@ -1900,7 +2038,9 @@
    },
    "tiles": [
     "qa.qatartv",
+    "qa.alrayyan",
     "qa.aja",
+    "qa.mubasher",
     "qa.aje",
     "qa.alaraby"
    ],
@@ -1935,8 +2075,10 @@
    },
    "tiles": [
     "es.rtve24h",
+    "es.lasexta",
     "es.elpais",
     "es.elmundo",
+    "es.europapress",
     "es.3cat324",
     "es.euronewses",
     "es.telemadrid",
@@ -1972,7 +2114,12 @@
     "ms": "Sidang Kemuncak Pemimpin APEC di Shenzhen"
    },
    "tiles": [
+    "cn.cgtn",
+    "cn.newchinatv",
+    "cn.cctvvna",
     "hk.phoenixtv",
+    "hk.tvbnews",
+    "hk.nownews",
     "sg.cna",
     "jp.nhkworld",
     "us.livenow"
@@ -2008,6 +2155,7 @@
     "us.cnn",
     "us.foxnews",
     "us.cspan",
+    "us.whitehouse",
     "us.ap",
     "qa.aje",
     "gb.skynews",
@@ -2047,6 +2195,7 @@
     "kr.kbs",
     "hk.phoenixtv",
     "sg.cna",
+    "ph.abscbn",
     "th.thaipbs"
    ],
    "start": "2026-12-31T09:30:00Z",

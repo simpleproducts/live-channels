@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111316,
+ "version": 2026111318,
  "defaultTiles": [
+  "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.ntn24",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.canalcapital",
+  "co.teleantioquianoticias",
   "co.bluradio"
  ],
  "channels": [
@@ -319,7 +319,7 @@
    "youtubeChannelId": "UCeSx6aU8UGIIHxGCQPbYY_A",
    "youtubeVideoId": "g85LfuZOrOQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5030992",
    "description": {
     "en": "Colombian channel television",
@@ -343,9 +343,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "NWi1mrvAL6w",
+   "youtubeVideoId": "qMwd1_A4qTs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -363,7 +363,7 @@
    "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
    "youtubeVideoId": "8jGhLcDbtXE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6140409",
    "description": {
     "en": "Colombian television network",
@@ -387,7 +387,7 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": "m--qZvhrnkk",
+   "youtubeVideoId": "fc_k8YJY09E",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5547733",
@@ -457,9 +457,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "bGa3GPcbKyk",
+   "youtubeVideoId": "-ObomgVJfkU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -486,7 +486,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "t2gvCoaZyPc",
+   "youtubeVideoId": "eGXNy2ggQ0s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -574,7 +574,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "vYoh99OXv9g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

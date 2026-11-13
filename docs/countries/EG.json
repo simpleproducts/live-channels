@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026111316,
+ "version": 2026111318,
  "defaultTiles": [
   "eg.alqahera",
-  "eg.alghad"
+  "eg.alghad",
+  "eg.alnahar"
  ],
  "channels": [
   {
@@ -104,9 +105,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCtpL6HyBK-z16GbJguHf3JQ",
-   "youtubeVideoId": "YvaAze8D8Rc",
+   "youtubeVideoId": "YCANmLzbRM0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3547019",
    "description": {
     "en": "Egyptian television channel",
