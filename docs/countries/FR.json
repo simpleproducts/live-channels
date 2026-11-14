@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026111322,
+ "version": 2026111403,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -716,7 +716,7 @@
    "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A",
    "youtubeVideoId": "fBoz0anS2KA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1961361",
    "description": {
     "en": "French radio station",

@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111322,
+ "version": 2026111403,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
-  "mx.unotv",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce",
@@ -171,7 +170,7 @@
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
    "youtubeVideoId": "RQHAVWc25mI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -291,7 +290,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "RVisv-F58xs",
+   "youtubeVideoId": "tLCtz-NCRJs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -334,7 +333,7 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "ToFvbZLa62o",
+   "youtubeVideoId": "pFK5SrsCTaE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27031787",
@@ -490,7 +489,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "mvwcc97Uhdo",
+   "youtubeVideoId": "KaGOY9BXBIw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -553,7 +552,7 @@
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
    "youtubeVideoId": "Hg6fNOV9IC0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -571,7 +570,7 @@
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
    "youtubeVideoId": "tOlZFksSTGU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

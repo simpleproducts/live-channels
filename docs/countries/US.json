@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111322,
+ "version": 2026111403,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.scripps",
-  "us.pbsnewshour"
+  "us.ap",
+  "us.usatoday"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "65kQUIlyM-4",
+   "youtubeVideoId": "Hz1cNNgtLtM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "P-D23A08cAE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "ULy36YEjcBw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -475,7 +475,7 @@
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
    "youtubeVideoId": "AoKW83PNLV4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -491,7 +491,7 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "42i1Czr7DA8",
+   "youtubeVideoId": "yJl5iujO76g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q40469",
@@ -549,7 +549,7 @@
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
    "youtubeVideoId": "E9dNEqzsLoQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
@@ -605,7 +605,7 @@
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
    "youtubeVideoId": "mQZmbMSfYB8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -849,7 +849,7 @@
    "youtubeChannelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
    "youtubeVideoId": "W7XSRMkAhfE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

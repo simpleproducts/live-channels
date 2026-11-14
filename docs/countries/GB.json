@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026111322,
+ "version": 2026111403,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
   "gb.reuters",
-  "gb.itvnews",
   "gb.independent",
   "gb.mirror",
-  "gb.thesun"
+  "gb.bbcnewsarabic",
+  "gb.timesradio"
  ],
  "channels": [
   {
@@ -172,7 +172,7 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "8NvHdj-F_j8",
+   "youtubeVideoId": "03WZomylSF8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q130879",
@@ -392,7 +392,7 @@
    "youtubeChannelId": "UCFQgi22Ht00CpaOQLtvZx2A",
    "youtubeVideoId": "fR_eVAJ0Mz0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4189762",
    "description": {
     "en": "British broadcaster ITV's branded news programming",
@@ -504,7 +504,7 @@
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
    "youtubeVideoId": "bNAlfqntKXU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",

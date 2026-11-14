@@ -1,17 +1,15 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026111322,
+ "version": 2026111403,
  "defaultTiles": [
   "pe.latina",
-  "pe.larepublica",
   "pe.rpp",
-  "pe.tvperunoticias",
-  "pe.atv",
-  "pe.elcomercio",
-  "pe.peru21",
-  "pe.americatv",
-  "pe.congreso"
+  "pe.congreso",
+  "pe.panamericana",
+  "pe.tvperu",
+  "pe.exitosa",
+  "pe.radionacional"
  ],
  "channels": [
   {
@@ -42,7 +40,7 @@
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
    "youtubeVideoId": "6mz4hs1FJXg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -73,7 +71,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "Z6ApXKe09Hs",
+   "youtubeVideoId": "sP-nRlYAuNM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -149,7 +147,7 @@
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
    "youtubeVideoId": "OW0mYLfomfw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -173,7 +171,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "CHWeUOA8nNM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -216,7 +214,7 @@
    "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg",
    "youtubeVideoId": "BO9anhUM5nA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1324020",
    "description": {
     "en": "newspaper from Peru",
@@ -260,7 +258,7 @@
    "youtubeChannelId": "UCNd09h2GugrdeT_80LxOFMw",
    "youtubeVideoId": "vlGRjzgRgSQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -278,7 +276,7 @@
    "youtubeChannelId": "UCPhm2I2wk4vqjENwhn3px8A",
    "youtubeVideoId": "i0VQpsDua9k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2530659",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -328,7 +326,7 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "gGFh5qDdwws",
+   "youtubeVideoId": "LG6ojXV3lU0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q586523",
@@ -392,7 +390,7 @@
    "youtubeChannelId": "UC3rDtLrcgr3JS3_3JOW4BAw",
    "youtubeVideoId": "H3kywl9kpUo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q967752",
    "description": {
     "en": "Peruvian free-to-air television network",
@@ -465,7 +463,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "TOanV16iY3M",
+   "youtubeVideoId": "2vhuL-siUoE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",

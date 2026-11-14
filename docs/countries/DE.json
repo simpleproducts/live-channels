@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026111322,
+ "version": 2026111403,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.bild",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -187,7 +186,7 @@
    "youtubeChannelId": "UC4zcMHyrT_xyWlgy5WGpFFQ",
    "youtubeVideoId": "3n0kxHV825Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q156203",
    "description": {
     "en": "German tabloid newspaper",
