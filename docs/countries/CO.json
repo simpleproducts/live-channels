@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111417,
+ "version": 2026111421,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -10,8 +10,7 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio",
-  "co.teleantioquia"
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -363,7 +362,7 @@
    "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
    "youtubeVideoId": "xortFM4l_fc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6140409",
    "description": {
     "en": "Colombian television network",
@@ -429,7 +428,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "YjhUu-VMB8Y",
+   "youtubeVideoId": "nR9JQfgAeUQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",

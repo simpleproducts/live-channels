@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111417,
+ "version": 2026111421,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
+  "us.nbcnews",
   "us.newsmax",
   "us.foxweather",
-  "us.nbcnews",
   "us.livenow",
   "us.nmasunivision",
   "us.telemundo",
