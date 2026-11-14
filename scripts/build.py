@@ -155,7 +155,7 @@ def get_entities(qids, props):
     for batch in chunks(sorted(set(qids)), 50):
         url = WD_API + "?" + urllib.parse.urlencode({
             "action": "wbgetentities", "format": "json", "ids": "|".join(batch), "props": props,
-            "languages": "|".join(WD_LANGS + ["pt", "hi", "ur", "ca", "eu", "gl"])})
+            "languages": "|".join(WD_LANGS + ["pt", "hi", "ur", "ca", "eu", "gl", "mul"])})
         res = http_json(url)
         if res and "entities" in res:
             out.update({k: v for k, v in res["entities"].items() if "missing" not in v})
@@ -166,6 +166,11 @@ def get_entities(qids, props):
 
 
 def pick(texts, chain):
+    # Wikidata keeps a name shared by every language under "mul" (Osasco: only "ar" and "mul" left), so
+    # "mul" comes right after English, before the other languages.
+    if "mul" not in chain:
+        at = chain.index("en") + 1 if "en" in chain else len(chain)
+        chain = list(chain[:at]) + ["mul"] + list(chain[at:])
     for code in chain:
         t = texts.get(code)
         # never accept language-fallback values (they would be English text under another locale)
