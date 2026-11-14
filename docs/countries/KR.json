@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026111410,
+ "version": 2026111417,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -11,7 +11,7 @@
   "kr.jtbc",
   "kr.channela",
   "kr.tvchosun",
-  "kr.mbn"
+  "kr.wowtv"
  ],
  "channels": [
   {
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "4kzLR2C2Dzk",
+   "youtubeVideoId": "z3TjlPJ36Dg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -127,7 +127,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "yqD-iXY1f_k",
+   "youtubeVideoId": "uff1mFox_y4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -246,7 +246,7 @@
    "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
    "youtubeVideoId": "adlNp3EDJJE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

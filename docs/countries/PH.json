@@ -1,17 +1,10 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111410,
+ "version": 2026111417,
  "defaultTiles": [
   "ph.untv",
-  "ph.abscbn",
-  "ph.gma",
-  "ph.oneph",
-  "ph.net25",
-  "ph.anc",
-  "ph.dzrh",
-  "ph.ptv",
-  "ph.teleradyo"
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -25,7 +18,7 @@
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
    "youtubeVideoId": "VjJXuowE_H8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -62,7 +55,7 @@
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
    "youtubeVideoId": "4b-g0cHqiV0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -90,7 +83,7 @@
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
    "youtubeVideoId": "UhDkE3MZolM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -109,7 +102,7 @@
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
    "youtubeVideoId": "nT5wNVxsHzE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -176,7 +169,7 @@
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
    "youtubeVideoId": "2oWb00e7EL8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -264,7 +257,7 @@
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
    "youtubeVideoId": "y4EtlnK6ry8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -428,7 +421,7 @@
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
    "youtubeVideoId": "Ibnp2-Y0B88",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -447,7 +440,7 @@
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
    "youtubeVideoId": "La5AqgOMxSo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

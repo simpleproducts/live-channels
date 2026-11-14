@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026111410,
+ "version": 2026111417,
  "defaultTiles": [
+  "il.i24he",
   "il.c14",
   "il.i24fr"
  ],
@@ -134,6 +135,24 @@
    "city": "Tel Aviv"
   },
   {
+   "id": "il.i24he",
+   "name": "i24NEWS עברית",
+   "category": "news",
+   "languages": [
+    "he"
+   ],
+   "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
+   "youtubeVideoId": "XXZPwwEyiUQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q136932915",
+   "description": {},
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_i24NEWS.png?width=256",
+   "website": "https://www.i24news.tv/he",
+   "city": null
+  },
+  {
    "id": "il.c14",
    "name": "ערוץ 14",
    "category": "news",
@@ -141,7 +160,7 @@
     "he"
    ],
    "youtubeChannelId": "UCKEImtWikw9usC1pl_9m1nQ",
-   "youtubeVideoId": "ri1Glh_siuc",
+   "youtubeVideoId": "OhEGaJXovvI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16341431",
