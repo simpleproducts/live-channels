@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026111403,
+ "version": 2026111410,
  "defaultTiles": [
   "pe.latina",
+  "pe.pbo",
   "pe.rpp",
   "pe.congreso",
-  "pe.panamericana",
-  "pe.tvperu",
+  "pe.latinatv",
   "pe.exitosa",
   "pe.radionacional"
  ],
@@ -20,9 +20,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "89mLpI_CHo8",
+   "youtubeVideoId": "i1mHIugJOjA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -71,7 +71,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "sP-nRlYAuNM",
+   "youtubeVideoId": "Y4eE7O_A-hQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -328,7 +328,7 @@
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
    "youtubeVideoId": "LG6ojXV3lU0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -361,7 +361,7 @@
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
    "youtubeVideoId": "Ao8yobRKMRU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3076196",
    "description": {
     "en": "Peruvian State-owned television broadcaster, owned by the government",
@@ -388,9 +388,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3rDtLrcgr3JS3_3JOW4BAw",
-   "youtubeVideoId": "H3kywl9kpUo",
+   "youtubeVideoId": "AeK5LBEOskE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q967752",
    "description": {
     "en": "Peruvian free-to-air television network",
@@ -463,7 +463,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "2vhuL-siUoE",
+   "youtubeVideoId": "8OXnV3JrKKM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",

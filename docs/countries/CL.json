@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111403,
+ "version": 2026111410,
  "defaultTiles": [
   "cl.meganoticias",
   "cl.24horas",
-  "cl.t13",
   "cl.chvnoticias",
+  "cl.t13",
   "cl.tvn",
   "cl.senado",
   "cl.cooperativa",
-  "cl.chilevision",
-  "cl.mega"
+  "cl.infinita",
+  "cl.chilevision"
  ],
  "channels": [
   {
@@ -224,7 +224,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "h8kdNMEtL7M",
+   "youtubeVideoId": "ck6WWFxWlJ0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
@@ -268,7 +268,7 @@
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
    "youtubeVideoId": "VU9x8HvsDvM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",

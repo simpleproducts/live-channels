@@ -1,9 +1,9 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111403,
+ "version": 2026111410,
  "defaultTiles": [
-  "uy.universal"
+  "uy.sarandi"
  ],
  "channels": [
   {
@@ -340,9 +340,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "eUftxOIe7rA",
+   "youtubeVideoId": "7JCWVFozRBE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -360,7 +360,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "budbBUYV6FU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

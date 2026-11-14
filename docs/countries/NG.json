@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026111403,
+ "version": 2026111410,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
   "ng.ntalive",
-  "ng.ait"
+  "ng.nta"
  ],
  "channels": [
   {
@@ -77,7 +77,7 @@
     "en"
    ],
    "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg",
-   "youtubeVideoId": "HGr3AMAe40Y",
+   "youtubeVideoId": "PtXdySreOZg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -97,7 +97,7 @@
    "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g",
    "youtubeVideoId": "YC9n_8SHhdk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q979027",
    "description": {
     "en": "broadcast network",
@@ -119,9 +119,9 @@
     "en"
    ],
    "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g",
-   "youtubeVideoId": "dy1oS64HsCs",
+   "youtubeVideoId": "BR5hIMDG7HQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

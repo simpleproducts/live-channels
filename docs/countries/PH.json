@@ -1,11 +1,16 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111403,
+ "version": 2026111410,
  "defaultTiles": [
   "ph.untv",
+  "ph.abscbn",
   "ph.gma",
+  "ph.oneph",
+  "ph.net25",
+  "ph.anc",
   "ph.dzrh",
+  "ph.ptv",
   "ph.teleradyo"
  ],
  "channels": [
@@ -18,9 +23,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "niHU9OLm75A",
+   "youtubeVideoId": "VjJXuowE_H8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -83,9 +88,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "ZR1lAJwNhOs",
+   "youtubeVideoId": "UhDkE3MZolM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -102,9 +107,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "wEMz9fCmRyM",
+   "youtubeVideoId": "nT5wNVxsHzE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -169,9 +174,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "8kAlmg2wN20",
+   "youtubeVideoId": "2oWb00e7EL8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -257,9 +262,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "PVoqnzbndh4",
+   "youtubeVideoId": "y4EtlnK6ry8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -421,7 +426,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "hT0KTAvgQIQ",
+   "youtubeVideoId": "Ibnp2-Y0B88",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -440,9 +445,9 @@
     "en"
    ],
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
-   "youtubeVideoId": "EoLDwa-rcJw",
+   "youtubeVideoId": "La5AqgOMxSo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

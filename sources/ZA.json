@@ -7,7 +7,7 @@
   {"id": "enca", "name": "eNCA", "category": "news", "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA", "youtubeVideoId": "ROINbwJ7N_w", "embeddable": true, "live": false},
   {"id": "newzroom", "name": "Newzroom Afrika", "category": "news", "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ", "youtubeVideoId": "Drl3nxwIx20", "embeddable": true, "live": false},
   {"id": "news24", "name": "News24", "category": "news", "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw", "youtubeVideoId": "aXaB9_v7M9k", "embeddable": true, "live": false, "wikidata": "Q2909223"},
-  {"id": "parliament", "name": "Parliament of South Africa", "category": "government", "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ", "live": false, "wikidata": "Q2185780"},
+  {"id": "parliament", "name": "Parliament of South Africa", "category": "government", "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ", "youtubeVideoId": "Hkx6MJlc8tU", "embeddable": true, "live": true, "liveSince": "2026-11-14T05:39:20Z", "wikidata": "Q2185780"},
   {"id": "iec", "name": "Electoral Commission of South Africa", "category": "government", "youtubeChannelId": "UCcvVE3B3aTL-vlVXlDPgqyQ", "youtubeVideoId": "uJ1dmUDnVPU", "embeddable": true, "live": false},
   {"id": "radio702", "name": "Radio 702", "category": "radio", "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg", "youtubeVideoId": "pnzs8UfuTDI", "embeddable": true, "live": false},
   {"id": "safm", "name": "SAfm", "category": "radio", "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w", "youtubeVideoId": "98hGH0C3XxI", "embeddable": true, "live": false}

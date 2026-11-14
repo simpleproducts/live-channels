@@ -1,12 +1,9 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026111322,
+ "version": 2026111410,
  "defaultTiles": [
-  "za.sabcnews",
-  "za.enca",
-  "za.newzroom",
-  "za.news24"
+  "za.parliament"
  ],
  "channels": [
   {
@@ -109,9 +106,9 @@
     "en"
    ],
    "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Hkx6MJlc8tU",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2185780",
    "description": {
     "en": "legislative body of South Africa",
