@@ -1,9 +1,9 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026111517,
+ "version": 2026111521,
  "defaultTiles": [
-  "th.thairath"
+  "th.ch7news"
  ],
  "channels": [
   {
@@ -66,7 +66,7 @@
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
    "youtubeVideoId": "U30-7G-cO7c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -100,9 +100,9 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "zePVIGYd7N8",
+   "youtubeVideoId": "iXYRUuoQiXk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

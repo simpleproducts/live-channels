@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026111517,
+ "version": 2026111521,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
   "fr.bfmtv",
   "fr.euronewsfr",
-  "fr.tv5monde",
   "fr.france24en",
   "fr.euronews",
   "fr.france24es",
-  "fr.france24ar"
+  "fr.france24ar",
+  "fr.rfi"
  ],
  "channels": [
   {
@@ -442,7 +442,7 @@
    "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg",
    "youtubeVideoId": "W4cTiMldRUQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2138163",
    "description": {
     "en": "French-speaking television network",
@@ -542,7 +542,7 @@
    "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ",
    "youtubeVideoId": "FNviqw2z17A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3205960",
    "description": {
     "en": "French National Assembly TV channel",

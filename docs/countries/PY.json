@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026111517,
+ "version": 2026111521,
  "defaultTiles": [
-  "py.abctv"
+  "py.abctv",
+  "py.npy",
+  "py.monumental"
  ],
  "channels": [
   {
@@ -32,9 +34,9 @@
     "es"
    ],
    "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA",
-   "youtubeVideoId": "RH6t9JOxgoo",
+   "youtubeVideoId": "2nf_CbodryI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -208,9 +210,9 @@
     "es"
    ],
    "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ",
-   "youtubeVideoId": "2VZay1xykaw",
+   "youtubeVideoId": "mxdnrKN3eik",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

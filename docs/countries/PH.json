@@ -4,7 +4,13 @@
  "version": 2026111521,
  "defaultTiles": [
   "ph.untv",
-  "ph.dzrh"
+  "ph.abscbn",
+  "ph.gma",
+  "ph.net25",
+  "ph.anc",
+  "ph.dzrh",
+  "ph.teleradyo",
+  "ph.loveradio"
  ],
  "channels": [
   {
@@ -16,9 +22,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "zaChaM_5Qc0",
+   "youtubeVideoId": "PRvSiu0BFd4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -53,9 +59,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "bDPVVPS3hE0",
+   "youtubeVideoId": "IpSacYLITD4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -81,9 +87,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "YNcc7zbnsIc",
+   "youtubeVideoId": "8QlscuKUFJM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -167,9 +173,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "2oWb00e7EL8",
+   "youtubeVideoId": "At4j_NL2V0s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,7 +370,7 @@
     "nl": "een van de twee kamers van het Filipijns Congres",
     "pl": "Izba Reprezentantów – izba niższa parlamentu Filipin, złożona z 240 członków wybieranych na trzyletnią kadencję.",
     "sv": "Filippinernas representanthus är det filippinska parlamentets underhus.",
-    "id": "Dewan Perwakilan Rakyat Filipina adalah majelis rendah dari Kongres Filipina, lembaga legislatif nasional Filipina.",
+    "id": "Dewan Perwakilan Rakyat Filipina adalah majelis rendah dari Dewan Filipina dari dua kamar Filipina yaitu Kongres Filipina.",
     "de": "Parlamentskammer auf den Philippinen",
     "ms": "Dewan Perwakilan Filipina, merupakan dewan bawah Kongres Filipina.."
    },
@@ -419,9 +425,9 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "Ibnp2-Y0B88",
+   "youtubeVideoId": "kVU9lBBIpOM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -457,9 +463,9 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "IZfh-x82jPc",
+   "youtubeVideoId": "KlDK1XSPBCY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

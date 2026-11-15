@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111517,
+ "version": 2026111521,
  "defaultTiles": [
   "cl.24horas",
   "cl.chvnoticias",
@@ -10,8 +10,8 @@
   "cl.tvn",
   "cl.senado",
   "cl.cooperativa",
-  "cl.mega",
-  "cl.agricultura"
+  "cl.chilevision",
+  "cl.adn"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "UzVjjfBx3ZM",
+   "youtubeVideoId": "Tw6B39CbaEc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -224,9 +224,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "ck6WWFxWlJ0",
+   "youtubeVideoId": "LTLt_OC6h_c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -268,7 +268,7 @@
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
    "youtubeVideoId": "u1dDFHgkCAI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -504,9 +504,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "sHlhi4ZgFos",
+   "youtubeVideoId": "H-sq5i_PJpw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "fv3KcPcMQgE",
+   "youtubeVideoId": "whdCkK9jhD4",
    "embeddable": true,
    "live": true,
    "wikidata": null,

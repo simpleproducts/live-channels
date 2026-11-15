@@ -3,15 +3,15 @@
  "code": "BR",
  "version": 2026111521,
  "defaultTiles": [
-  "br.recordnews",
   "br.jovempan",
-  "br.sbtnews",
+  "br.recordnews",
   "br.cnnbrasil",
+  "br.bandjornalismo",
+  "br.sbtnews",
   "br.canalrural",
   "br.canalgov",
   "br.gaucha",
-  "br.redetv",
-  "br.cbn"
+  "br.tvbrasil"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "5yXnn9sUVgw",
+   "youtubeVideoId": "s7tAddDkJkw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3056409",
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "uk7BpvTeiB0",
+   "youtubeVideoId": "t8KPe8v175U",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -116,9 +116,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA",
-   "youtubeVideoId": "p9alR1RWdRI",
+   "youtubeVideoId": "ywzZhk-Q0C4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q137910166",
    "description": {
     "en": "Official Band Journalism channel with exclusive live streams, full news programs, expert commentary, special reports, and on-demand content from Band TV."
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "cUurr-IT5K0",
+   "youtubeVideoId": "W2dNCjWm1cc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -241,9 +241,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCSv9d0kQegylHWpP83jWSQg",
-   "youtubeVideoId": "b6-PYNb2LsM",
+   "youtubeVideoId": "OoD0horynMg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1788146",
    "description": {
     "en": "public broadcaster in Brazil",
@@ -320,7 +320,7 @@
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
    "youtubeVideoId": "s9vIIj1RD8w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1090363",
    "description": {
     "en": "Brazilian broadcast television network",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "2_tNg07wd1o",
+   "youtubeVideoId": "3ZQ36ftR6nM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "xV_rMS7CqgI",
+   "youtubeVideoId": "jjDzJJoaIIc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
