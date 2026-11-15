@@ -1,0 +1,280 @@
+{
+ "schema": 2,
+ "code": "MY",
+ "version": 2026111521,
+ "defaultTiles": [
+  "my.awani",
+  "my.beritartm"
+ ],
+ "channels": [
+  {
+   "id": "my.awani",
+   "name": "Astro AWANI",
+   "category": "news",
+   "languages": [
+    "ms"
+   ],
+   "youtubeChannelId": "UC5dYmq91e5_g54krpO06NJw",
+   "youtubeVideoId": "mkVyNaGee8A",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4264804",
+   "description": {
+    "en": "Malaysian pay television news channel",
+    "zh-Hans": "马来西亚电视频道",
+    "ko": "말레이시아 유료 텔레비전 뉴스 채널",
+    "zh-Hant": "马来西亚电视频道",
+    "pl": "malezyjska stacja telewizyjna",
+    "id": "MEASAT Broadcast Network Systems Sdn Bhd beroperasi dengan nama Astro merupakan adalah penyedia layanan televisi satelit berbayar, layanan streaming, dan IPTV asal Malaysia.",
+    "de": "malaysischer Nachrichtensender",
+    "ms": "Saluran berita televisyen digital Malaysia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Astro_Awani",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Astro_Awani",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Astro_Awani",
+    "pl": "https://pl.wikipedia.org/wiki/Astro_Awani",
+    "id": "https://id.wikipedia.org/wiki/Astro_Awani",
+    "ms": "https://ms.wikipedia.org/wiki/Astro_Awani"
+   },
+   "logo": null,
+   "website": "http://astroawani.com/",
+   "city": null
+  },
+  {
+   "id": "my.beritartm",
+   "name": "Berita RTM",
+   "category": "news",
+   "languages": [
+    "ms"
+   ],
+   "youtubeChannelId": "UCjUxj4cyy_F0tVCT8WfmdZQ",
+   "youtubeVideoId": "KLa3JeXONak",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q96679596",
+   "description": {
+    "en": "Malaysian government television news network",
+    "zh-Hans": "RTM新聞頻道 是马来西亚广播电视台（RTM）的一个免费电视频道。",
+    "zh-Hant": "RTM新聞頻道 是马来西亚广播电视台（RTM）的一个免费电视频道。",
+    "id": "Berita RTM, yang dikenal juga sebagai Saluran Berita RTM atau BES merupakan jaringan televisi siaran gratis asal Malaysia yang dimiliki dan dioperasikan oleh Radio Televisyen Malaysia (RTM), dengan slogan Yang Sahih di Berita RTM, jaringan televisi ini berkantor pusat pada Wisma Berita RTM di Ang…",
+    "ms": "Rangkaian berita televisyen kerajaan Malaysia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Berita_RTM",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Berita_RTM",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Berita_RTM",
+    "id": "https://id.wikipedia.org/wiki/Berita_RTM",
+    "ms": "https://ms.wikipedia.org/wiki/Berita_RTM"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "my.buletintv3",
+   "name": "Buletin TV3",
+   "category": "news",
+   "languages": [
+    "ms"
+   ],
+   "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1087303",
+   "description": {
+    "en": "Malaysian private television station",
+    "es": "TV3 es una cadena de televisión malasia propiedad y operada por Media Prima Berhad.",
+    "zh-Hans": "马来西亚第一家私人电视频道",
+    "ja": "マレーシア初の民間テレビ局",
+    "fr": "chaîne de télévision malaise",
+    "pt-BR": "rede de televisão por assinatura da Malásia",
+    "ko": "TV3는 말레이시아의 텔레비전 채널이다.",
+    "it": "rete televisiva malaysiana",
+    "ru": "телевизионный канал",
+    "zh-Hant": "马来西亚第一家私人电视频道",
+    "ar": "محطة تلفزيونية ماليزية خاصة",
+    "pl": "malezyjska stacja telewizyjna",
+    "id": "Saluran televisi swasta pertama di Malaysia",
+    "de": "malaiischer Fernsehkanal",
+    "ms": "Saluran televisyen swasta Malaysia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV3_(Malaysian_TV_network)",
+    "es": "https://es.wikipedia.org/wiki/TV3_(Malasia)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%AC%AC%E4%B8%89%E7%94%B5%E8%A7%86",
+    "ja": "https://ja.wikipedia.org/wiki/TV3_(%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2)",
+    "fr": "https://fr.wikipedia.org/wiki/TV3_(Malaisie)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV3_(Mal%C3%A1sia)",
+    "ko": "https://ko.wikipedia.org/wiki/TV3_(%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84)",
+    "it": "https://it.wikipedia.org/wiki/TV3_(Malaysia)",
+    "ru": "https://ru.wikipedia.org/wiki/TV3_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB,_%D0%9C%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B8%D1%8F)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%AC%AC%E4%B8%89%E7%94%B5%E8%A7%86",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A_%D9%81%D9%8A_3",
+    "pl": "https://pl.wikipedia.org/wiki/TV3_(Malezja)",
+    "id": "https://id.wikipedia.org/wiki/TV3",
+    "de": "https://de.wikipedia.org/wiki/TV3_(Malaysia)",
+    "ms": "https://ms.wikipedia.org/wiki/TV3"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Kuala Lumpur"
+  },
+  {
+   "id": "my.sinarharian",
+   "name": "Sinar Harian",
+   "category": "news",
+   "languages": [
+    "ms"
+   ],
+   "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7521805",
+   "description": {
+    "en": "Malay language newspaper published in Shah Alam, Selangor, Malaysia",
+    "zh-Hans": "阳光日报 也称光芒日报，是马来西亚的马来文报纸之一。总部位于雪兰莪莎亚南，于2006年7月31日首次发行。该报主要在马来西亚西马东海岸发行。从2007年9月开始，该报业务扩展至雪兰莪州到整个西马地区。该报纸从星期一到星期五每周出版五天。",
+    "zh-Hant": "阳光日报 也称光芒日报，是马来西亚的马来文报纸之一。总部位于雪兰莪莎亚南，于2006年7月31日首次发行。该报主要在马来西亚西马东海岸发行。从2007年9月开始，该报业务扩展至雪兰莪州到整个西马地区。该报纸从星期一到星期五每周出版五天。",
+    "nl": "krant uit Maleisië",
+    "id": "surat kabar harian Malaysia",
+    "ms": "akhbar harian Malaysia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sinar_Harian",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%99%BD%E5%85%89%E6%97%A5%E5%A0%B1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%99%BD%E5%85%89%E6%97%A5%E5%A0%B1",
+    "id": "https://id.wikipedia.org/wiki/Sinar_Harian",
+    "ms": "https://ms.wikipedia.org/wiki/Sinar_Harian"
+   },
+   "logo": null,
+   "website": "http://www.sinarharian.com.my",
+   "city": "Shah Alam"
+  },
+  {
+   "id": "my.kinitv",
+   "name": "KiniTV",
+   "category": "news",
+   "languages": [
+    "en",
+    "ms",
+    "zh",
+    "ta"
+   ],
+   "youtubeChannelId": "UC9ULnkwvyofZ_sWrzRpyvrg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4918709",
+   "description": {
+    "en": "online news portal published in English, Malay, Chinese and Tamil",
+    "zh-Hans": "马来西亚网络媒体",
+    "ja": "オンラインニュース",
+    "zh-Hant": "马来西亚网络媒体",
+    "nl": "krant uit Maleisië",
+    "pl": "malezyjski serwis informacyjny",
+    "id": "portal berita daring Malaysia berbahasa Inggris, Melayu, Mandarin, dan Tamil",
+    "ms": "Malaysiakini merupakan media internet empat bahasa iaitu Bahasa Melayu, Bahasa Inggeris, Bahasa Mandarin dan Bahasa Tamil dalam talian dari Malaysia."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Malaysiakini",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%BD%93%E4%BB%8A%E5%A4%A7%E9%A9%AC",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%BD%93%E4%BB%8A%E5%A4%A7%E9%A9%AC",
+    "pl": "https://pl.wikipedia.org/wiki/Malaysiakini",
+    "id": "https://id.wikipedia.org/wiki/Malaysiakini",
+    "ms": "https://ms.wikipedia.org/wiki/Malaysiakini"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mk-logo-bm.svg?width=256",
+   "website": "https://www.malaysiakini.com/",
+   "city": null
+  },
+  {
+   "id": "my.beritaharian",
+   "name": "Berita Harian",
+   "category": "news",
+   "languages": [
+    "ms"
+   ],
+   "youtubeChannelId": "UCoV8oT-GyqYSJkxzuAKG3Jw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2211269",
+   "description": {
+    "en": "Malaysian newspaper",
+    "zh-Hans": "马来西亚报纸",
+    "fr": "Berita Harian est un quotidien national malaisienne dont le siège est à Kuala Lumpur.",
+    "zh-Hant": "馬來西亞報紙",
+    "ar": "صحيفة ماليزية",
+    "nl": "periodiek",
+    "pl": "malezyjski dziennik",
+    "id": "koran Malaysia",
+    "de": "Zeitung in Malaysia",
+    "ms": "akhbar Malaysia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Berita_Harian_(Malaysia)",
+    "fr": "https://fr.wikipedia.org/wiki/Berita_Harian",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%8A%D8%AA%D8%A7_%D9%87%D8%A7%D8%B1%D9%8A%D8%A7%D9%86_(%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%A7)",
+    "nl": "https://nl.wikipedia.org/wiki/Berita_Harian",
+    "pl": "https://pl.wikipedia.org/wiki/Berita_Harian",
+    "id": "https://id.wikipedia.org/wiki/Berita_Harian",
+    "ms": "https://ms.wikipedia.org/wiki/Berita_Harian"
+   },
+   "logo": null,
+   "website": "https://www.bharian.com.my/",
+   "city": "Kuala Lumpur"
+  },
+  {
+   "id": "my.parlimen",
+   "name": "Parlimen Malaysia",
+   "category": "government",
+   "languages": [
+    "ms"
+   ],
+   "youtubeChannelId": "UCu2I5HXcZudP59E5Ld10K_g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2986392",
+   "description": {
+    "en": "Bicameral legislature of Malaysia",
+    "es": "El Parlamento de Malasia es la legislatura nacional de Malasia, basada en el Sistema de Westminster.",
+    "zh-Hans": "马来西亚最高立法机关",
+    "ja": "マレーシア議会 は、マレーシアの立法府である。",
+    "fr": "parlement bicaméral de la Malaisie",
+    "pt-BR": "O Parlamento da Malásia é o poder legislativo da Malásia, o parlamento é no formato bicameral e é composto pelo Salão Nacional e Salão do Povo.",
+    "ko": "말레이시아 의회(말레이어: Parlimen Malaysia)는 웨스트민스터 체제를 기반으로 하는 말레이시아의 입법부이다.",
+    "it": "Il Parlamento della Malaysia è il parlamento bicamerale della Malaysia.",
+    "ru": "Парламент Малайзии — законодательный орган (парламент) Малайзии.",
+    "zh-Hant": "马来西亚最高立法机关",
+    "ar": "هو الهيئة التشريعية في ماليزيا وهو مجلس الشعب",
+    "tr": "Malezya Parlamentosu, Malezya'nın ulusal yasama organıdır.",
+    "id": "Parlemen Malaysia adalah badan legislatif Malaysia, yang berdasarkan pada sistem Westminster.",
+    "de": "Zweikammerparlament in Malaysia",
+    "ms": "badan perundangan tertinggi; dwidewan di Malaysia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Parliament_of_Malaysia",
+    "es": "https://es.wikipedia.org/wiki/Parlamento_de_Malasia",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%9B%BD%E4%BC%9A",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E3%81%AE%E5%9B%BD%E4%BC%9A",
+    "fr": "https://fr.wikipedia.org/wiki/Parlement_de_Malaisie",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Parlamento_da_Mal%C3%A1sia",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84_%EC%9D%98%ED%9A%8C",
+    "it": "https://it.wikipedia.org/wiki/Parlamento_della_Malaysia",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%9C%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B8%D0%B8",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%9B%BD%E4%BC%9A",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%A7",
+    "tr": "https://tr.wikipedia.org/wiki/Malezya_Parlamentosu",
+    "id": "https://id.wikipedia.org/wiki/Parlemen_Malaysia",
+    "de": "https://de.wikipedia.org/wiki/Parlament_von_Malaysia",
+    "ms": "https://ms.wikipedia.org/wiki/Parlimen_Malaysia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Parliament_Of_Malaysia.svg?width=256",
+   "website": "http://www.parlimen.gov.my/",
+   "city": null
+  }
+ ]
+}

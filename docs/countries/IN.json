@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026111517,
+ "version": 2026111521,
  "defaultTiles": [
+  "in.aajtak",
   "in.ddnews",
   "in.indiatv",
-  "in.aajtak",
   "in.ndtvindia",
   "in.abpnews",
   "in.zeenews",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111517,
+ "version": 2026111521,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -143,7 +143,7 @@
     "zh-Hans": "美国电视台",
     "ja": "アメリカ合衆国のテレビ・ラジオ放送局ネットワークCBSのニュース部門",
     "fr": "CBS News est le département de l'information du réseau de télévision et de radio américain CBS.",
-    "pt-BR": "A CBS News é o departamento de jornalismo da rede de televisão estadunidense CBS.",
+    "pt-BR": "CBS News é a divisão de jornalismo da rede de televisão norte-americana CBS, sediada em Nova Iorque.",
     "ko": "CBS 뉴스(CBS News)는 미국 방송 네트워크 CBS의 뉴스 제작 자회사이다.",
     "it": "CBS News è la testata giornalistica della CBS.",
     "ru": "новостное подразделение американской телерадиослужбы CBS",

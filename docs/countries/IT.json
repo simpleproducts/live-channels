@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026111322,
+ "version": 2026111521,
  "defaultTiles": [
   "it.euronewsit",
   "it.camera",
@@ -63,6 +63,171 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Euronews_2022.svg?width=256",
    "website": "http://www.euronews.com/",
    "city": "Lione"
+  },
+  {
+   "id": "it.ansa",
+   "name": "ANSA",
+   "category": "news",
+   "languages": [
+    "it"
+   ],
+   "youtubeChannelId": "UC7dCZ28JQUZYno7TSlLKNoQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q392934",
+   "description": {
+    "en": "news agency",
+    "es": "La Agenzia Nazionale Stampa Associata es una agencia de noticias italiana fundada el 15 de enero de 1945.",
+    "zh-Hans": "意大利通讯社",
+    "ja": "ANSA通信 はイタリアの通信社。イタリアの主要新聞社36社が加盟する非営利の協同組合という形になっている。",
+    "fr": "L'Agenzia Nazionale Stampa Associata, plus connue sous le sigle ANSA, est la principale agence de presse italienne et la cinquième dans le monde, fondée à Rome en 1945 pour succéder à l'agence Stefani.",
+    "pt-BR": "A Agenzia Nazionale Stampa Associata (ANSA) é a principal agência de notícias italiana.",
+    "ko": "ANSA(Agenzia Nazionale Stampa Associata)는 이탈리아의 주도적인 통신사이다.",
+    "it": "agenzia di informazione multimediale italiana",
+    "ru": "итальянское новостное агентство",
+    "zh-Hant": "意大利通讯社",
+    "ar": "وكالة الأنباء الإيطالية",
+    "nl": "ANSA is het algemeen persbureau van Italië.",
+    "pl": "agencja prasowa",
+    "sv": "Agenzia Nazionale Stampa Associata (Ansa) är en italiensk icke-vinstinriktad, kooperativt ägd nyhetsbyrå, som drivs av ett 30-tal nyhetshus.",
+    "de": "italienische Nachrichten- und Presseagentur"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Agenzia_Nazionale_Stampa_Associata",
+    "es": "https://es.wikipedia.org/wiki/Agenzia_Nazionale_Stampa_Associata",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%AE%89%E8%8E%8E%E9%80%9A%E8%AE%AF%E7%A4%BE",
+    "ja": "https://ja.wikipedia.org/wiki/ANSA%E9%80%9A%E4%BF%A1",
+    "fr": "https://fr.wikipedia.org/wiki/Agenzia_Nazionale_Stampa_Associata",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Agenzia_Nazionale_Stampa_Associata",
+    "ko": "https://ko.wikipedia.org/wiki/ANSA_(%ED%86%B5%EC%8B%A0%EC%82%AC)",
+    "it": "https://it.wikipedia.org/wiki/ANSA",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%9D%D0%A1%D0%90",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%AE%89%E8%8E%8E%E9%80%9A%E8%AE%AF%E7%A4%BE",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%B3%D8%A7",
+    "nl": "https://nl.wikipedia.org/wiki/Agenzia_Nazionale_Stampa_Associata",
+    "pl": "https://pl.wikipedia.org/wiki/ANSA",
+    "sv": "https://sv.wikipedia.org/wiki/Agenzia_Nazionale_Stampa_Associata",
+    "de": "https://de.wikipedia.org/wiki/Agenzia_Nazionale_Stampa_Associata"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ANSA_logo.svg?width=256",
+   "website": "http://www.ansa.it",
+   "city": "Roma"
+  },
+  {
+   "id": "it.ilfatto",
+   "name": "Il Fatto Quotidiano",
+   "category": "news",
+   "languages": [
+    "it"
+   ],
+   "youtubeChannelId": "UCPfFXhCgc6cciu3aYm-9AdA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1051087",
+   "description": {
+    "en": "Italian daily newspaper",
+    "es": "Il Fatto Quotidiano es un periódico italiano fundado el 23 de septiembre de 2009 por Antonio Padellaro, editor en jefe del mismo hasta el 3 de febrero de 2015, cuando la dirección pasó a Marco Travaglio, anteriormente codirector e incluso antes de editor adjunto.",
+    "zh-Hans": "意大利报纸",
+    "fr": "quotidien italien",
+    "it": "quotidiano italiano",
+    "zh-Hant": "意大利報紙",
+    "de": "italienische Tageszeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Il_Fatto_Quotidiano",
+    "es": "https://es.wikipedia.org/wiki/Il_Fatto_Quotidiano",
+    "fr": "https://fr.wikipedia.org/wiki/Il_Fatto_Quotidiano",
+    "it": "https://it.wikipedia.org/wiki/Il_Fatto_Quotidiano",
+    "de": "https://de.wikipedia.org/wiki/Il_Fatto_Quotidiano"
+   },
+   "logo": null,
+   "website": "https://www.ilfattoquotidiano.it",
+   "city": null
+  },
+  {
+   "id": "it.fanpage",
+   "name": "Fanpage.it",
+   "category": "news",
+   "languages": [
+    "it"
+   ],
+   "youtubeChannelId": "UCWJhBqnyVdHAuxexgjghNFw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q21234227",
+   "description": {
+    "en": "Italian online newspaper",
+    "es": "periódico en línea italiano",
+    "fr": "site italien d'actualité",
+    "it": "giornale online italiano",
+    "de": "Italienische Online-Zeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Fanpage.it",
+    "it": "https://it.wikipedia.org/wiki/Fanpage.it"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fanpage.it.png?width=256",
+   "website": "http://www.fanpage.it",
+   "city": "Napoli"
+  },
+  {
+   "id": "it.rai",
+   "name": "Rai",
+   "category": "broadcast",
+   "languages": [
+    "it"
+   ],
+   "youtubeChannelId": "UCKUzdt2sELyxd6mz-bAx3bA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q19616",
+   "description": {
+    "en": "state-owned Italian broadcasting company",
+    "es": "compañía de radio y televisión pública de Italia",
+    "zh-Hans": "意大利的國家公共服務",
+    "ja": "イタリア放送協会株式会社 は、イタリアのラテ兼営公共放送局である。",
+    "fr": "groupe audiovisuel public italien",
+    "pt-BR": "Empresa de televisão da Itália",
+    "ko": "이탈리아 방송 협회(이탈리아어: Radiotelevisione Italiana 라디오텔레비지오네 이탈리아나[*]), 약칭 RAI는 이탈리아 전 지역을 방송 대상으로 하는 이탈리아의 공영 방송이다.",
+    "it": "ente radiotelevisivo pubblico italiano",
+    "ru": "государственная телерадиокомпания Италии",
+    "zh-Hant": "意大利的國家公共服務",
+    "ar": "شركة إيطالية",
+    "tr": "İtalya'nın hükümete bağlı ulusal kanalı",
+    "nl": "publieke omroeporganisatie in Italië",
+    "pl": "włoski publiczny nadawca radiowo-telewizyjny",
+    "sv": "radio- och TV-företag i Italien",
+    "id": "RAI merupakan nama stasiun televisi Italia.",
+    "de": "staatliche Rundfunkanstalt Italiens",
+    "ms": "RAI – Radiotelevisione italiana [ˈrai ˌradjoteleviˈzjoːne itaˈljaːna]; dipendekkan sebagai Rai sejak 2000) ialah badan penyiar televisyen awam Itali milik Kementerian Ekonomi dan Kewangan negara tersebut."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RAI",
+    "es": "https://es.wikipedia.org/wiki/RAI",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%85%AC%E5%8F%B8",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%94%BE%E9%80%81%E5%8D%94%E4%BC%9A",
+    "fr": "https://fr.wikipedia.org/wiki/Rai_(audiovisuel)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/RAI",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84_%EB%B0%A9%EC%86%A1_%ED%98%91%ED%9A%8C",
+    "it": "https://it.wikipedia.org/wiki/Rai",
+    "ru": "https://ru.wikipedia.org/wiki/RAI",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%85%AC%E5%8F%B8",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D9%8A_(%D8%B1%D8%A7%D8%AF%D9%8A%D9%88_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7)",
+    "tr": "https://tr.wikipedia.org/wiki/RAI",
+    "nl": "https://nl.wikipedia.org/wiki/Radiotelevisione_Italiana",
+    "pl": "https://pl.wikipedia.org/wiki/Rai_%E2%80%93_Radiotelevisione_italiana",
+    "sv": "https://sv.wikipedia.org/wiki/Radiotelevisione_Italiana",
+    "id": "https://id.wikipedia.org/wiki/RAI",
+    "de": "https://de.wikipedia.org/wiki/Rai_%E2%80%93_Radiotelevisione_Italiana",
+    "ms": "https://ms.wikipedia.org/wiki/RAI"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_RAI_%282016%29.svg?width=256",
+   "website": "https://www.rai.it/",
+   "city": "Roma"
   },
   {
    "id": "it.ilsole24ore",

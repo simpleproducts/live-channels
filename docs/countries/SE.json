@@ -1,0 +1,41 @@
+{
+ "schema": 2,
+ "code": "SE",
+ "version": 2026111521,
+ "defaultTiles": [
+  "se.regeringen"
+ ],
+ "channels": [
+  {
+   "id": "se.regeringen",
+   "name": "Regeringskansliet",
+   "category": "government",
+   "languages": [
+    "sv"
+   ],
+   "youtubeChannelId": "UCTCf9DNzLC78u2o_4Iu2frw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10650489",
+   "description": {
+    "en": "administrative authority for Sweden's ministries",
+    "es": "autoridad administrativa de los ministerios de Suecia",
+    "ja": "スウェーデンの行政機関 (Regeringskansliet) の項では、国家レベルでスウェーデンの行政事務を担当する中央政府の行政機関について述べる。",
+    "fr": "autorité administrative de la suède ministères",
+    "it": "autorità amministrativa dei ministeri di Svezia",
+    "ru": "административный орган для министерств Швеции",
+    "sv": "svensk statlig förvaltningsmyndighet",
+    "de": "Verwaltungsbehörde für schwedischen Ministerien"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Government_Offices_of_Sweden",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%96%A2",
+    "sv": "https://sv.wikipedia.org/wiki/Regeringskansliet"
+   },
+   "logo": null,
+   "website": "https://government.se",
+   "city": null
+  }
+ ]
+}

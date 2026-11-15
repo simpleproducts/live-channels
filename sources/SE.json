@@ -1,0 +1,8 @@
+{
+ "code": "SE",
+ "languages": ["sv"],
+ "defaultTiles": ["regeringen"],
+ "channels": [
+  {"id": "regeringen", "name": "Regeringskansliet", "category": "government", "youtubeChannelId": "UCTCf9DNzLC78u2o_4Iu2frw", "live": false, "languages": ["sv"]}
+ ]
+}

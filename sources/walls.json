@@ -358,6 +358,15 @@
    "featured": true
   },
   {
+   "id": "ch-election-2027",
+   "title": {"en": "Swiss federal election 2027", "es": "Elecciones federales en Suiza 2027", "zh-Hans": "2027 瑞士联邦选举", "ja": "2027年 スイス連邦議会選挙", "fr": "Élections fédérales suisses 2027", "pt-BR": "Eleições federais na Suíça 2027", "ko": "2027 스위스 연방 선거", "it": "Elezioni federali svizzere 2027", "ru": "Федеральные выборы в Швейцарии 2027", "zh-Hant": "2027 瑞士聯邦選舉", "ar": "الانتخابات الفدرالية السويسرية 2027", "tr": "2027 İsviçre federal seçimleri", "nl": "Zwitserse federale verkiezingen 2027", "pl": "Wybory federalne w Szwajcarii 2027", "sv": "Federala valet i Schweiz 2027", "id": "Pemilu federal Swiss 2027", "de": "Eidgenössische Wahlen 2027", "ms": "Pilihan raya persekutuan Switzerland 2027"},
+   "tiles": ["ch.20minuten", "ch.bundesrat", "de.euronewsde", "fr.euronewsfr", "it.euronewsit", "fr.tv5monde", "de.tagesschau", "fr.franceinfo", "de.dwnews"],
+   "countries": ["CH"],
+   "start": "2027-10-24T10:00:00Z",
+   "end": "2027-10-24T21:00:00Z",
+   "featured": true
+  },
+  {
    "id": "cop31-leaders-2026",
    "title": {"en": "COP31 climate summit: world leaders in Antalya", "es": "Cumbre climática COP31: líderes mundiales en Antalya", "zh-Hans": "COP31 气候峰会：世界领导人齐聚安塔利亚", "ja": "COP31 気候サミット アンタルヤに世界の首脳", "fr": "COP31 : les dirigeants du monde à Antalya", "pt-BR": "Cúpula do clima COP31: líderes mundiais em Antália", "ko": "COP31 기후 정상회의: 안탈리아에 모인 세계 정상", "it": "Vertice sul clima COP31: i leader mondiali ad Antalya", "ru": "Климатический саммит COP31: мировые лидеры в Анталье", "zh-Hant": "COP31 氣候峰會：世界領袖齊聚安塔利亞", "ar": "قمة المناخ COP31: قادة العالم في أنطاليا", "tr": "COP31 iklim zirvesi: dünya liderleri Antalya'da", "nl": "Klimaattop COP31: wereldleiders in Antalya", "pl": "Szczyt klimatyczny COP31: przywódcy świata w Antalyi", "sv": "Klimattoppmötet COP31: världsledare i Antalya", "id": "KTT iklim COP31: para pemimpin dunia di Antalya", "de": "Klimagipfel COP31: Staats- und Regierungschefs in Antalya", "ms": "Sidang kemuncak iklim COP31: pemimpin dunia di Antalya"},
    "tiles": ["tr.trtworld", "tr.trthaber", "qa.aje", "gb.skynews", "fr.france24en", "de.dwnews", "au.abcnews", "us.livenow", "cn.cgtn"],

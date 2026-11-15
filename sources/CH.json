@@ -1,0 +1,9 @@
+{
+ "code": "CH",
+ "languages": ["de", "fr", "it"],
+ "defaultTiles": ["20minuten", "bundesrat"],
+ "channels": [
+  {"id": "20minuten", "name": "20 Minuten", "category": "news", "youtubeChannelId": "UCaPgDp_NNEbq9aCOu_gHkWQ", "live": false, "languages": ["de"], "wikidata": "Q212855"},
+  {"id": "bundesrat", "name": "Schweizer Bundesrat", "category": "government", "youtubeChannelId": "UCh4VTxoTL79TpMBg3yBqSPQ", "live": false, "languages": ["de", "fr", "it"], "wikidata": "Q30917"}
+ ]
+}
