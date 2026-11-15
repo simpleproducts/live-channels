@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026111513,
+ "version": 2026111517,
  "defaultTiles": [
   "br.recordnews",
   "br.jovempan",
@@ -10,7 +10,7 @@
   "br.canalrural",
   "br.canalgov",
   "br.gaucha",
-  "br.timesbrasil",
+  "br.redetv",
   "br.cbn"
  ],
  "channels": [
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "wDwSps-ZW3I",
+   "youtubeVideoId": "uk7BpvTeiB0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -159,7 +159,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
-   "youtubeVideoId": "3iZsa-omtnc",
+   "youtubeVideoId": "A7ToWzxUrqw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q9693797",
@@ -225,7 +225,7 @@
    "youtubeChannelId": "UC2vs-PnhPNxACC5wti_KMTg",
    "youtubeVideoId": "60tARL5IVmY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -318,9 +318,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
-   "youtubeVideoId": "rcTnrfHQQ6E",
+   "youtubeVideoId": "s9vIIj1RD8w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1090363",
    "description": {
     "en": "Brazilian broadcast television network",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "swWOlBuXz8Y",
+   "youtubeVideoId": "2_tNg07wd1o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "2YYIMNVebxA",
+   "youtubeVideoId": "ejHwVsctVB8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -547,9 +547,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "YnbYEi00_lY",
+   "youtubeVideoId": "xV_rMS7CqgI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",

@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026111513,
+ "version": 2026111517,
  "defaultTiles": [
   "il.c14",
   "il.i24he",
-  "il.i24fr"
+  "il.i24fr",
+  "il.i24en"
  ],
  "channels": [
   {
@@ -16,9 +17,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg",
-   "youtubeVideoId": "fhXXxL0oTJ0",
+   "youtubeVideoId": "6gUTdBCUwNI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",

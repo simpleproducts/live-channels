@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026111513,
+ "version": 2026111517,
  "defaultTiles": [
   "pe.latina",
   "pe.larepublica",
   "pe.rpp",
+  "pe.willax",
   "pe.tvperunoticias",
   "pe.atv",
-  "pe.americatv",
-  "pe.congreso",
-  "pe.panamericana",
-  "pe.tvperu"
+  "pe.elcomercio",
+  "pe.peru21",
+  "pe.americatv"
  ],
  "channels": [
   {
@@ -121,9 +121,9 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "CWGZfhwipqE",
+   "youtubeVideoId": "VdrfHpbW5L0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -214,9 +214,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg",
-   "youtubeVideoId": "0vesa7Hknxk",
+   "youtubeVideoId": "OK0fzXCfm2w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1324020",
    "description": {
     "en": "newspaper from Peru",
@@ -258,9 +258,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNd09h2GugrdeT_80LxOFMw",
-   "youtubeVideoId": "8PEiFuAc050",
+   "youtubeVideoId": "i1pWQTV-jKI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

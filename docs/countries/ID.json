@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "ID",
- "version": 2026111513,
+ "version": 2026111517,
  "defaultTiles": [
   "id.cnnid",
-  "id.metrotv",
-  "id.beritasatu"
+  "id.metrotv"
  ],
  "channels": [
   {
@@ -192,7 +191,7 @@
    "youtubeChannelId": "UCqLsfkQSM0yfyGvONAGWd3Q",
    "youtubeVideoId": "fJ4EU9lajc4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q317541",
    "description": {
     "en": "Indonesian television network",

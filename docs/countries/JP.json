@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026111513,
+ "version": 2026111517,
  "defaultTiles": [
   "jp.fnn",
-  "jp.weathernews",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
+  "jp.weathernews",
   "jp.nhkworld",
   "jp.mbs",
   "jp.satv",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "fKTgTcrHxZE",
+   "youtubeVideoId": "nIdaETdIdhI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -525,7 +525,7 @@
    "youtubeChannelId": "UCS8ZQejq2CL-nZcnRWZCA5Q",
    "youtubeVideoId": "ksuHnEIFMTs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

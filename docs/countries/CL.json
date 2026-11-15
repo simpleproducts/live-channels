@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111513,
+ "version": 2026111517,
  "defaultTiles": [
   "cl.24horas",
   "cl.chvnoticias",
@@ -10,7 +10,8 @@
   "cl.tvn",
   "cl.senado",
   "cl.cooperativa",
-  "cl.mega"
+  "cl.mega",
+  "cl.agricultura"
  ],
  "channels": [
   {
@@ -21,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "iezDsZhw9Mw",
+   "youtubeVideoId": "UzVjjfBx3ZM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -566,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "ba9egffAwSU",
+   "youtubeVideoId": "fv3KcPcMQgE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

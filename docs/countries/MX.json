@@ -1,15 +1,16 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111509,
+ "version": 2026111517,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.canalonce",
-  "mx.imagentv"
+  "mx.imagentv",
+  "mx.canalcongreso",
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -291,7 +292,7 @@
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
    "youtubeVideoId": "Xv5kq4Xj2-o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -464,9 +465,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "bzzh2USM8xk",
+   "youtubeVideoId": "gxthBHDuIME",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -488,9 +489,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "KaGOY9BXBIw",
+   "youtubeVideoId": "5cggi4YdQ7w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",

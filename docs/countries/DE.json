@@ -1,13 +1,12 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026111513,
+ "version": 2026111517,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
   "de.dwnews",
-  "de.dwespanol",
-  "de.radioeins"
+  "de.dwespanol"
  ],
  "channels": [
   {
@@ -18,7 +17,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "EOWAAFRveh0",
+   "youtubeVideoId": "g0ELboPw_1o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -427,7 +426,7 @@
    "youtubeChannelId": "UC-ZMxS-psFAo2NahWdE3I5g",
    "youtubeVideoId": "wxWtNfGVpPU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1308457",
    "description": {
     "en": "German radio station",

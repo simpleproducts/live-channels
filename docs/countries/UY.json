@@ -1,9 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111513,
+ "version": 2026111517,
  "defaultTiles": [
-  "uy.universal"
+  "uy.elobservadoruy",
+  "uy.ladiaria",
+  "uy.tnu",
+  "uy.carve",
+  "uy.delsol",
+  "uy.sarandi",
+  "uy.elpaisuy"
  ],
  "channels": [
   {
@@ -360,7 +366,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "cu0PCj403lQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

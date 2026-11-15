@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026111513,
+ "version": 2026111517,
  "defaultTiles": [
-  "py.abctv",
-  "py.nanduti",
-  "py.monumental"
+  "py.abctv"
  ],
  "channels": [
   {
@@ -16,7 +14,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
-   "youtubeVideoId": "pZ_EHM7b8Vc",
+   "youtubeVideoId": "ICrUjLOXU-g",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -194,7 +192,7 @@
    "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A",
    "youtubeVideoId": "XecMkw9ZLck",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -212,7 +210,7 @@
    "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ",
    "youtubeVideoId": "2VZay1xykaw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

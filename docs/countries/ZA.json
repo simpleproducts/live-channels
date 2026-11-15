@@ -1,12 +1,9 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026111417,
+ "version": 2026111517,
  "defaultTiles": [
-  "za.sabcnews",
-  "za.enca",
-  "za.newzroom",
-  "za.news24"
+  "za.radio702"
  ],
  "channels": [
   {
@@ -181,9 +178,9 @@
     "en"
    ],
    "youtubeChannelId": "UCpUkYQk0KKneOLClC5VUmWg",
-   "youtubeVideoId": "pnzs8UfuTDI",
+   "youtubeVideoId": "s4y38GbxYoY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
