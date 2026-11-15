@@ -1,17 +1,15 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111501,
+ "version": 2026111509,
  "defaultTiles": [
   "cl.24horas",
   "cl.chvnoticias",
   "cl.t13",
   "cl.meganoticias",
   "cl.tvn",
-  "cl.chilevision",
   "cl.senado",
-  "cl.cooperativa",
-  "cl.infinita"
+  "cl.cooperativa"
  ],
  "channels": [
   {
@@ -226,7 +224,7 @@
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
    "youtubeVideoId": "ck6WWFxWlJ0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q600815",
    "description": {
     "en": "Chilean television channel",
@@ -587,7 +585,7 @@
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
    "youtubeVideoId": "f5RQT0N2tQ4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026111501,
+ "version": 2026111509,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
@@ -79,7 +79,7 @@
     "en"
    ],
    "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
-   "youtubeVideoId": "KJ32YTMcOGI",
+   "youtubeVideoId": "OgCtmOFN3P4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-   "youtubeVideoId": "yEGTIvYoj0Y",
+   "youtubeVideoId": "c6Zi8EgTHlE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2985356",
@@ -196,7 +196,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
-   "youtubeVideoId": "Ew4dY8h9aQg",
+   "youtubeVideoId": "6afne7WY8R0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3630156",
@@ -229,7 +229,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCIvaYmXn910QMdemBG3v1pQ",
-   "youtubeVideoId": "ciwfHUjz80c",
+   "youtubeVideoId": "0FMa-cTtBEc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5287969",
@@ -261,7 +261,7 @@
     "en"
    ],
    "youtubeChannelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-   "youtubeVideoId": "H2akxE_apS4",
+   "youtubeVideoId": "GE5FIVuGn_Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q23058781",
@@ -353,7 +353,7 @@
     "en"
    ],
    "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
-   "youtubeVideoId": "zGK3mG-R0ws",
+   "youtubeVideoId": "OnJTidw2iqU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q19891764",
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "qXSEcfis0v0",
+   "youtubeVideoId": "ymDisZBQzpA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",
@@ -420,7 +420,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
-   "youtubeVideoId": "yFrBN3ELXFw",
+   "youtubeVideoId": "pp3omJTBudU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65042846",
@@ -519,9 +519,9 @@
     "en"
    ],
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
-   "youtubeVideoId": "ewXLoQeX698",
+   "youtubeVideoId": "wfruddibLus",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2613165",
    "description": {
     "en": "Indian news agency",
@@ -559,7 +559,7 @@
     "en"
    ],
    "youtubeChannelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
-   "youtubeVideoId": "weYH7hkp72o",
+   "youtubeVideoId": "YZbmaudy34Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3631483",
@@ -585,7 +585,7 @@
     "en"
    ],
    "youtubeChannelId": "UCI_mwTKUhicNzFrhm33MzBQ",
-   "youtubeVideoId": "lw6oecL44q8",
+   "youtubeVideoId": "K9_hvNf-Hvc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5324510",
@@ -661,7 +661,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCkXopQ3ubd-rnXnStZqCl2w",
-   "youtubeVideoId": "OT9whx0l6NM",
+   "youtubeVideoId": "GQTImNt603I",
    "embeddable": true,
    "live": true,
    "wikidata": "Q8068393",

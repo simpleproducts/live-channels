@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026111501,
+ "version": 2026111509,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -10,8 +10,8 @@
   "kr.sbs",
   "kr.jtbc",
   "kr.channela",
-  "kr.wowtv",
-  "kr.mbn_economy"
+  "kr.tvchosun",
+  "kr.wowtv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "utVUIIeat8g",
+   "youtubeVideoId": "vLL20_COjpI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "uuxeV7sxd1U",
+   "youtubeVideoId": "oDNzFIJpBe0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -127,7 +127,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "uff1mFox_y4",
+   "youtubeVideoId": "5yEy4E2o16k",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -145,7 +145,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "Rlbl7Pt7rRA",
+   "youtubeVideoId": "83HcA4lM93Y",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -163,7 +163,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-   "youtubeVideoId": "yLZriWGuyuA",
+   "youtubeVideoId": "AxCgOEnymh4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "7l5zf786g2I",
+   "youtubeVideoId": "7nppK8ekcmY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -226,9 +226,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-   "youtubeVideoId": "aq7CVJYDymM",
+   "youtubeVideoId": "6c5z9VBqff8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -587,7 +587,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A",
-   "youtubeVideoId": "OZ7qEbT81m4",
+   "youtubeVideoId": "u79TfhEXQEo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -781,7 +781,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
-   "youtubeVideoId": "PaBel8m2Ml4",
+   "youtubeVideoId": "TuDd6tLtxns",
    "embeddable": true,
    "live": true,
    "wikidata": null,

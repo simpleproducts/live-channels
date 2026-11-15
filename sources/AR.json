@@ -35,7 +35,7 @@
   {"id": "luzu", "name": "Luzu TV", "category": "streaming", "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw", "youtubeVideoId": "BrBnU4YVpwk", "embeddable": true, "live": false},
   {"id": "olga", "name": "Olga", "category": "streaming", "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA", "youtubeVideoId": "g0resq1uRog", "embeddable": true, "live": false},
   {"id": "blender", "name": "Blender", "category": "streaming", "youtubeChannelId": "UC6pJGaMdx5Ter_8zYbLoRgA", "youtubeVideoId": "R2cNrdTev8g", "embeddable": true, "live": false},
-  {"id": "gelatina", "name": "Gelatina", "category": "streaming", "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg", "youtubeVideoId": "BgPbC2eyrxg", "embeddable": true, "live": true, "liveSince": "2026-11-14T13:00:09Z"},
+  {"id": "gelatina", "name": "Gelatina", "category": "streaming", "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg", "youtubeVideoId": "BgPbC2eyrxg", "embeddable": true, "live": false},
   {"id": "carajo", "name": "Carajo", "category": "streaming", "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg", "youtubeVideoId": "cpCXxqCKZYw", "embeddable": true, "live": false},
   {"id": "futurock", "name": "Futurock", "category": "streaming", "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw", "youtubeVideoId": "rKs0elB0zfA", "embeddable": true, "live": false, "wikidata": "Q42912634"},
   {"id": "cenital", "name": "Cenital", "category": "streaming", "youtubeChannelId": "UCxHSIJgKZ8xVXwLGaGZEmKg", "youtubeVideoId": "EioZ5vC6A8g", "embeddable": true, "live": false},

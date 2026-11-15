@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111501,
+ "version": 2026111509,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
-  "ph.oneph",
   "ph.anc",
   "ph.dzrh"
  ],
@@ -106,7 +105,7 @@
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
    "youtubeVideoId": "FpagUelsEv8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
