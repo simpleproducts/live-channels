@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026111509,
+ "version": 2026111513,
  "defaultTiles": [
   "br.recordnews",
   "br.jovempan",
   "br.cnnbrasil",
   "br.sbtnews",
+  "br.canalrural",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn",
-  "br.bandnewsfm",
-  "br.itatiaia"
+  "br.timesbrasil",
+  "br.cbn"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "bXigAfyWgAc",
+   "youtubeVideoId": "wDwSps-ZW3I",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -149,7 +149,7 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SBT_News_2025.svg?width=256",
    "website": "https://sbtnews.sbt.com.br/",
-   "city": "أوساسكو"
+   "city": "Osasco"
   },
   {
    "id": "br.canalrural",
@@ -159,9 +159,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
-   "youtubeVideoId": "RkfSsUyt-Yg",
+   "youtubeVideoId": "3iZsa-omtnc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -223,9 +223,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC2vs-PnhPNxACC5wti_KMTg",
-   "youtubeVideoId": "IAkvYDoAtvc",
+   "youtubeVideoId": "60tARL5IVmY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -342,7 +342,7 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RedeTV%21_2019_logo.png?width=256",
    "website": "http://redetv.com.br/",
-   "city": "أوساسكو"
+   "city": "Osasco"
   },
   {
    "id": "br.tvcultura",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "JkrX_-FaJgo",
+   "youtubeVideoId": "swWOlBuXz8Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "c8E_ijA6ZpM",
+   "youtubeVideoId": "AThizPVkrFA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",

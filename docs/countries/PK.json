@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026111421,
+ "version": 2026111513,
  "defaultTiles": [
   "pk.samaa",
   "pk.geonews",
@@ -195,9 +195,9 @@
     "ur"
    ],
    "youtubeChannelId": "UC5RvV_LtR1dxPCVFGw6dxXA",
-   "youtubeVideoId": "JJ7xiisDskg",
+   "youtubeVideoId": "1VoA0qpXwTM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6583157",
    "description": {
     "en": "Pakistani News channel",

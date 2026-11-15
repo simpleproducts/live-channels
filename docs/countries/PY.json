@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026111501,
+ "version": 2026111513,
  "defaultTiles": [
   "py.abctv",
-  "py.telefuturo",
-  "py.npy",
-  "py.ultimahora",
-  "py.gen"
+  "py.nanduti",
+  "py.monumental"
  ],
  "channels": [
   {
@@ -18,9 +16,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
-   "youtubeVideoId": "xypaNwKiVn8",
+   "youtubeVideoId": "pZ_EHM7b8Vc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -194,9 +192,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A",
-   "youtubeVideoId": "zgfv9cuDMJc",
+   "youtubeVideoId": "XecMkw9ZLck",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -212,9 +210,9 @@
     "es"
    ],
    "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ",
-   "youtubeVideoId": "G1d3WKy8zDU",
+   "youtubeVideoId": "2VZay1xykaw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

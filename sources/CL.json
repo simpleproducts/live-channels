@@ -3,7 +3,7 @@
  "languages": ["es"],
  "defaultTiles": ["meganoticias", "24horas", "chvnoticias", "t13", "cnnchile", "tvn", "chilevision", "mega", "canal13"],
  "channels": [
-  {"id": "meganoticias", "name": "Meganoticias", "category": "news", "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q", "youtubeVideoId": "NahromyyVac", "embeddable": true, "live": true, "liveSince": "2026-11-15T01:15:50Z"},
+  {"id": "meganoticias", "name": "Meganoticias", "category": "news", "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q", "youtubeVideoId": "iezDsZhw9Mw", "embeddable": true, "live": true, "liveSince": "2026-11-15T11:00:26Z"},
   {"id": "24horas", "name": "24 Horas (TVN)", "category": "news", "youtubeChannelId": "UCTXNz3gjAypWp3EhlIATEJQ", "youtubeVideoId": "UndSc1KIHLE", "embeddable": true, "live": true, "liveSince": "2026-11-12T03:04:55Z", "wikidata": "Q2935885"},
   {"id": "chvnoticias", "name": "CHV Noticias", "category": "news", "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg", "youtubeVideoId": "q4p-E2q5DNQ", "embeddable": true, "live": true, "liveSince": "2026-11-13T11:02:26Z"},
   {"id": "t13", "name": "T13", "category": "news", "youtubeChannelId": "UCsRnhjcUCR78Q3Ud6OXCTNg", "youtubeVideoId": "h5efji0_wtQ", "embeddable": true, "live": true, "liveSince": "2026-11-07T15:30:53Z"},
@@ -11,7 +11,7 @@
   {"id": "biobio", "name": "BioBioChile", "category": "news", "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w", "youtubeVideoId": "E65Awd3HATQ", "embeddable": true, "live": false, "wikidata": "Q6096198"},
   {"id": "tvn", "name": "TVN", "category": "broadcast", "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ", "youtubeVideoId": "4HQfblSW-D8", "embeddable": true, "live": true, "liveSince": "2026-11-13T03:50:45Z", "wikidata": "Q597933"},
   {"id": "chilevision", "name": "Chilevisión", "category": "broadcast", "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA", "youtubeVideoId": "ck6WWFxWlJ0", "embeddable": true, "live": false},
-  {"id": "mega", "name": "Mega", "category": "broadcast", "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ", "youtubeVideoId": "tbWdKI3B4eM", "embeddable": true, "live": false},
+  {"id": "mega", "name": "Mega", "category": "broadcast", "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ", "youtubeVideoId": "u1dDFHgkCAI", "embeddable": true, "live": true, "liveSince": "2026-11-15T10:16:00Z"},
   {"id": "canal13", "name": "Canal 13", "category": "broadcast", "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw", "youtubeVideoId": "LCp0Qj-t_LA", "embeddable": true, "live": false, "wikidata": "Q600805"},
   {"id": "tvmas", "name": "TV+", "category": "broadcast", "youtubeChannelId": "UCZnboDa_k5jxFCGp6jVhpUQ", "youtubeVideoId": "_YtP4yRPfQY", "embeddable": true, "live": false, "wikidata": "Q3547157"},
   {"id": "senado", "name": "Senado de Chile", "category": "government", "youtubeChannelId": "UC4GJ43VNn4AYfiYa0RBCHQg", "youtubeVideoId": "Fxsd4UYqFAU", "embeddable": true, "live": true, "liveSince": "2026-10-20T18:34:14Z", "wikidata": "Q2119458"},

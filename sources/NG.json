@@ -6,8 +6,8 @@
   {"id": "channelstv", "name": "Channels Television", "category": "news", "youtubeChannelId": "UCEXGDNclvmg6RW0vipJYsTQ", "youtubeVideoId": "d4zDorDl5UE", "embeddable": true, "live": true, "liveSince": "2025-06-11T18:28:02Z"},
   {"id": "arisenews", "name": "Arise News", "category": "news", "youtubeChannelId": "UCyEJX-kSj0kOOCS7Qlq2G7g", "youtubeVideoId": "1tYNoWenZBo", "embeddable": true, "live": true, "liveSince": "2026-11-11T12:22:15Z"},
   {"id": "tvcnews", "name": "TVC News Nigeria", "category": "news", "youtubeChannelId": "UCgp4A6I8LCWrhUzn-5SbKvA", "youtubeVideoId": "5qZKM7m1Moc", "embeddable": true, "live": true, "liveSince": "2026-08-17T08:11:57Z"},
-  {"id": "ntalive", "name": "NTA Live", "category": "news", "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg", "youtubeVideoId": "iJMSJnW5lYo", "embeddable": true, "live": true, "liveSince": "2026-11-15T09:17:51Z"},
-  {"id": "ait", "name": "Africa Independent Television", "category": "broadcast", "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g", "youtubeVideoId": "6wkOoF7IJMg", "embeddable": true, "live": true, "liveSince": "2026-11-14T19:55:27Z", "wikidata": "Q979027"},
-  {"id": "nta", "name": "NTA Network", "category": "broadcast", "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g", "youtubeVideoId": "3nwf-4QkChw", "embeddable": true, "live": true, "liveSince": "2026-11-15T09:16:38Z"}
+  {"id": "ntalive", "name": "NTA Live", "category": "news", "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg", "youtubeVideoId": "1bOpRiTGAgQ", "embeddable": true, "live": true, "liveSince": "2026-11-15T12:23:03Z"},
+  {"id": "ait", "name": "Africa Independent Television", "category": "broadcast", "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g", "youtubeVideoId": "7OfJwSy_Ek8", "embeddable": true, "live": true, "liveSince": "2026-11-15T11:32:10Z", "wikidata": "Q979027"},
+  {"id": "nta", "name": "NTA Network", "category": "broadcast", "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g", "youtubeVideoId": "AtG1tLrveE0", "embeddable": true, "live": true, "liveSince": "2026-11-15T10:26:15Z"}
  ]
 }
