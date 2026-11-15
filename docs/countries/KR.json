@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026111421,
+ "version": 2026111501,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -10,8 +10,8 @@
   "kr.sbs",
   "kr.jtbc",
   "kr.channela",
-  "kr.tvchosun",
-  "kr.wowtv"
+  "kr.wowtv",
+  "kr.mbn_economy"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "otwZTNz50wY",
+   "youtubeVideoId": "utVUIIeat8g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "z3TjlPJ36Dg",
+   "youtubeVideoId": "uuxeV7sxd1U",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "6lXUiEHyy7Q",
+   "youtubeVideoId": "7l5zf786g2I",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -228,7 +228,7 @@
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
    "youtubeVideoId": "aq7CVJYDymM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -474,7 +474,7 @@
     "ko"
    ],
    "youtubeChannelId": "UC1ifSsWUG241rRfK0ezYCgA",
-   "youtubeVideoId": "E98-PE09swY",
+   "youtubeVideoId": "yLE2hlFaSFo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -781,7 +781,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
-   "youtubeVideoId": "YgZ8B6x3ImA",
+   "youtubeVideoId": "PaBel8m2Ml4",
    "embeddable": true,
    "live": true,
    "wikidata": null,

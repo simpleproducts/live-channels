@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026111421,
+ "version": 2026111501,
  "defaultTiles": [
   "py.abctv",
-  "py.monumental",
-  "py.caacupe"
+  "py.telefuturo",
+  "py.npy",
+  "py.ultimahora",
+  "py.gen"
  ],
  "channels": [
   {
@@ -18,7 +20,7 @@
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
    "youtubeVideoId": "xypaNwKiVn8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -212,7 +214,7 @@
    "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ",
    "youtubeVideoId": "G1d3WKy8zDU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -230,7 +232,7 @@
    "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA",
    "youtubeVideoId": "myXO-_gWgss",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

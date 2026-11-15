@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-14T21:30:50Z",
+ "updated": "2026-11-15T01:56:41Z",
  "countries": [
   {
    "code": "AE",
@@ -59,7 +59,7 @@
     "es"
    ],
    "channelCount": 57,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/AR.json"
   },
   {
@@ -119,7 +119,7 @@
     "pt"
    ],
    "channelCount": 22,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/BR.json"
   },
   {
@@ -180,7 +180,7 @@
     "es"
    ],
    "channelCount": 22,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/CL.json"
   },
   {
@@ -210,7 +210,7 @@
     "zh"
    ],
    "channelCount": 9,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/CN.json"
   },
   {
@@ -240,7 +240,7 @@
     "es"
    ],
    "channelCount": 26,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/CO.json"
   },
   {
@@ -330,7 +330,7 @@
     "es"
    ],
    "channelCount": 20,
-   "version": 2026111417,
+   "version": 2026111501,
    "file": "countries/ES.json"
   },
   {
@@ -390,7 +390,7 @@
     "en"
    ],
    "channelCount": 17,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/GB.json"
   },
   {
@@ -480,7 +480,7 @@
     "he"
    ],
    "channelCount": 7,
-   "version": 2026111417,
+   "version": 2026111501,
    "file": "countries/IL.json"
   },
   {
@@ -511,7 +511,7 @@
     "en"
    ],
    "channelCount": 24,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/IN.json"
   },
   {
@@ -571,7 +571,7 @@
     "ja"
    ],
    "channelCount": 24,
-   "version": 2026111417,
+   "version": 2026111501,
    "file": "countries/JP.json"
   },
   {
@@ -632,7 +632,7 @@
     "ko"
    ],
    "channelCount": 31,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/KR.json"
   },
   {
@@ -692,7 +692,7 @@
     "en"
    ],
    "channelCount": 6,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/NG.json"
   },
   {
@@ -752,7 +752,7 @@
     "es"
    ],
    "channelCount": 19,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/PE.json"
   },
   {
@@ -783,7 +783,7 @@
     "en"
    ],
    "channelCount": 16,
-   "version": 2026111417,
+   "version": 2026111501,
    "file": "countries/PH.json"
   },
   {
@@ -903,7 +903,7 @@
     "es"
    ],
    "channelCount": 10,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/PY.json"
   },
   {
@@ -1053,7 +1053,7 @@
     "th"
    ],
    "channelCount": 15,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/TH.json"
   },
   {
@@ -1173,7 +1173,7 @@
     "es"
    ],
    "channelCount": 13,
-   "version": 2026111421,
+   "version": 2026111501,
    "file": "countries/UY.json"
   },
   {
@@ -1233,7 +1233,7 @@
     "es"
    ],
    "channelCount": 7,
-   "version": 2026111417,
+   "version": 2026111501,
    "file": "countries/VE.json"
   },
   {
@@ -1456,10 +1456,7 @@
    },
    "tiles": [
     "va.vaticannewses",
-    "pe.tvperunoticias",
-    "pe.rpp",
     "pe.latina",
-    "pe.larepublica",
     "pe.willax"
    ],
    "countries": [

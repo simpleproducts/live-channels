@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026111421,
+ "version": 2026111501,
  "defaultTiles": [
   "br.recordnews",
   "br.jovempan",
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "dlq9r77k9-w",
+   "youtubeVideoId": "ajKtGyZZ85s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "YmxclZupIoo",
+   "youtubeVideoId": "cUurr-IT5K0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "5WsNfgcPpc4",
+   "youtubeVideoId": "ifuyPq3koeI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "-xfxHEtHmAk",
+   "youtubeVideoId": "HpF6Y9o9aDI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -549,7 +549,7 @@
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
    "youtubeVideoId": "YnbYEi00_lY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",

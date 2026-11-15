@@ -1,17 +1,9 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026111421,
+ "version": 2026111501,
  "defaultTiles": [
-  "th.thaipbs",
-  "th.thairath",
-  "th.ch7news",
-  "th.ch3news",
-  "th.tnn",
-  "th.pptv",
-  "th.amarin",
-  "th.nation",
-  "th.workpoint"
+  "th.pptv"
  ],
  "channels": [
   {
@@ -144,9 +136,9 @@
     "th"
    ],
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
-   "youtubeVideoId": "dhJOmRBlZfE",
+   "youtubeVideoId": "WZTZu8pEFag",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",

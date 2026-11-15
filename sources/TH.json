@@ -9,7 +9,7 @@
   {"id": "ch3news", "name": "Khao 3 (Ch3)", "category": "news", "youtubeChannelId": "UCirZPTc9IoKM_DsA9aKbc4g", "youtubeVideoId": "XZGlHmq4vVo", "embeddable": true, "live": false, "languages": ["th"]},
   {"id": "ch7news", "name": "Ch7HD News", "category": "news", "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w", "youtubeVideoId": "Yho6lNnEKd4", "embeddable": true, "live": false},
   {"id": "tnn", "name": "TNN16", "category": "news", "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw", "youtubeVideoId": "YYs87kr6-28", "embeddable": true, "live": false},
-  {"id": "pptv", "name": "PPTV HD 36", "category": "news", "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng", "youtubeVideoId": "dhJOmRBlZfE", "embeddable": true, "live": false},
+  {"id": "pptv", "name": "PPTV HD 36", "category": "news", "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng", "youtubeVideoId": "WZTZu8pEFag", "embeddable": true, "live": true, "liveSince": "2026-11-15T01:26:02Z"},
   {"id": "amarin", "name": "Amarin TV", "category": "news", "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A", "youtubeVideoId": "p475uhvvG6U", "embeddable": true, "live": false},
   {"id": "nation", "name": "Nation TV", "category": "news", "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg", "youtubeVideoId": "zyyZlAV01Ys", "embeddable": true, "live": false},
   {"id": "workpoint", "name": "Workpoint News", "category": "news", "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ", "youtubeVideoId": "7FIw8NRgdHE", "embeddable": true, "live": false, "languages": ["th"]},

@@ -1,14 +1,13 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026111421,
+ "version": 2026111501,
  "defaultTiles": [
   "gb.skynews",
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
   "gb.mirror",
-  "gb.thesun",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -504,7 +503,7 @@
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
    "youtubeVideoId": "GxXpR7yZk-E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",
