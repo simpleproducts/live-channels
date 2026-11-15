@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-15T17:12:29Z",
+ "updated": "2026-11-15T17:15:59Z",
  "countries": [
   {
    "code": "AE",
@@ -2089,6 +2089,166 @@
    ],
    "start": "2026-12-22T07:45:00Z",
    "end": "2026-12-22T13:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "fr-presidential-2027",
+   "title": {
+    "en": "French presidential election 2027: first round",
+    "es": "Presidenciales en Francia 2027: primera vuelta",
+    "zh-Hans": "2027 法国总统选举 第一轮",
+    "ja": "2027年 フランス大統領選挙 第1回投票",
+    "fr": "Présidentielle 2027 : premier tour",
+    "pt-BR": "Eleição presidencial na França 2027: primeiro turno",
+    "ko": "2027 프랑스 대선 1차 투표",
+    "it": "Presidenziali in Francia 2027: primo turno",
+    "ru": "Президентские выборы во Франции 2027: первый тур",
+    "zh-Hant": "2027 法國總統大選 第一輪",
+    "ar": "الانتخابات الرئاسية الفرنسية 2027: الجولة الأولى",
+    "tr": "2027 Fransa cumhurbaşkanlığı seçimi: ilk tur",
+    "nl": "Franse presidentsverkiezingen 2027: eerste ronde",
+    "pl": "Wybory prezydenckie we Francji 2027: pierwsza tura",
+    "sv": "Presidentvalet i Frankrike 2027: första omgången",
+    "id": "Pilpres Prancis 2027: putaran pertama",
+    "de": "Präsidentschaftswahl in Frankreich 2027: erster Wahlgang",
+    "ms": "Pilihan raya presiden Perancis 2027: pusingan pertama"
+   },
+   "tiles": [
+    "fr.franceinfo",
+    "fr.bfmtv",
+    "fr.france24",
+    "fr.lcp",
+    "fr.publicsenat",
+    "fr.euronewsfr",
+    "fr.tv5monde",
+    "fr.rfi",
+    "fr.france24en"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "start": "2027-04-18T17:00:00Z",
+   "end": "2027-04-18T23:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "fr-presidential-runoff-2027",
+   "title": {
+    "en": "French presidential election 2027: runoff",
+    "es": "Presidenciales en Francia 2027: segunda vuelta",
+    "zh-Hans": "2027 法国总统选举 第二轮",
+    "ja": "2027年 フランス大統領選挙 決選投票",
+    "fr": "Présidentielle 2027 : second tour",
+    "pt-BR": "Eleição presidencial na França 2027: segundo turno",
+    "ko": "2027 프랑스 대선 결선 투표",
+    "it": "Presidenziali in Francia 2027: ballottaggio",
+    "ru": "Президентские выборы во Франции 2027: второй тур",
+    "zh-Hant": "2027 法國總統大選 第二輪",
+    "ar": "الانتخابات الرئاسية الفرنسية 2027: الجولة الثانية",
+    "tr": "2027 Fransa cumhurbaşkanlığı seçimi: ikinci tur",
+    "nl": "Franse presidentsverkiezingen 2027: tweede ronde",
+    "pl": "Wybory prezydenckie we Francji 2027: druga tura",
+    "sv": "Presidentvalet i Frankrike 2027: andra omgången",
+    "id": "Pilpres Prancis 2027: putaran kedua",
+    "de": "Präsidentschaftswahl in Frankreich 2027: Stichwahl",
+    "ms": "Pilihan raya presiden Perancis 2027: pusingan kedua"
+   },
+   "tiles": [
+    "fr.franceinfo",
+    "fr.bfmtv",
+    "fr.france24",
+    "fr.lcp",
+    "fr.publicsenat",
+    "fr.euronewsfr",
+    "fr.tv5monde",
+    "fr.rfi",
+    "fr.france24en"
+   ],
+   "countries": [
+    "FR"
+   ],
+   "start": "2027-05-02T17:00:00Z",
+   "end": "2027-05-02T23:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ke-election-2027",
+   "title": {
+    "en": "Kenya general election 2027",
+    "es": "Elecciones generales en Kenia 2027",
+    "zh-Hans": "2027 肯尼亚大选",
+    "ja": "2027年 ケニア総選挙",
+    "fr": "Élections générales au Kenya 2027",
+    "pt-BR": "Eleições gerais no Quênia 2027",
+    "ko": "2027 케냐 총선",
+    "it": "Elezioni generali in Kenya 2027",
+    "ru": "Всеобщие выборы в Кении 2027",
+    "zh-Hant": "2027 肯亞大選",
+    "ar": "الانتخابات العامة في كينيا 2027",
+    "tr": "2027 Kenya genel seçimleri",
+    "nl": "Algemene verkiezingen in Kenia 2027",
+    "pl": "Wybory powszechne w Kenii 2027",
+    "sv": "Allmänna valen i Kenya 2027",
+    "id": "Pemilu Kenya 2027",
+    "de": "Wahlen in Kenia 2027",
+    "ms": "Pilihan raya umum Kenya 2027"
+   },
+   "tiles": [
+    "ke.citizentv",
+    "ke.ntv",
+    "ke.ktn",
+    "ke.k24",
+    "ke.tv47",
+    "ke.kbc",
+    "ke.inooro",
+    "ke.ramogi",
+    "qa.aje"
+   ],
+   "countries": [
+    "KE"
+   ],
+   "start": "2027-08-10T03:00:00Z",
+   "end": "2027-08-12T21:00:00Z",
+   "featured": true
+  },
+  {
+   "id": "ar-election-2027",
+   "title": {
+    "en": "Argentina general election 2027",
+    "es": "Elecciones generales 2027",
+    "zh-Hans": "2027 阿根廷大选",
+    "ja": "2027年 アルゼンチン大統領選挙",
+    "fr": "Élections générales en Argentine 2027",
+    "pt-BR": "Eleições gerais na Argentina 2027",
+    "ko": "2027 아르헨티나 대선",
+    "it": "Elezioni generali in Argentina 2027",
+    "ru": "Всеобщие выборы в Аргентине 2027",
+    "zh-Hant": "2027 阿根廷大選",
+    "ar": "الانتخابات العامة في الأرجنتين 2027",
+    "tr": "2027 Arjantin genel seçimleri",
+    "nl": "Algemene verkiezingen in Argentinië 2027",
+    "pl": "Wybory powszechne w Argentynie 2027",
+    "sv": "Allmänna valen i Argentina 2027",
+    "id": "Pemilu Argentina 2027",
+    "de": "Wahlen in Argentinien 2027",
+    "ms": "Pilihan raya umum Argentina 2027"
+   },
+   "tiles": [
+    "ar.tn",
+    "ar.c5n",
+    "ar.lnmas",
+    "ar.a24",
+    "ar.tvpublica",
+    "ar.canal26",
+    "ar.cronica",
+    "ar.infobae",
+    "ar.america"
+   ],
+   "countries": [
+    "AR"
+   ],
+   "start": "2027-10-24T20:30:00Z",
+   "end": "2027-10-25T05:00:00Z",
    "featured": true
   },
   {
