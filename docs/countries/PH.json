@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111602,
+ "version": 2026111609,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
   "ph.oneph",
+  "ph.news5",
+  "ph.net25",
+  "ph.rappler",
   "ph.anc",
-  "ph.dzrh",
-  "ph.teleradyo",
-  "ph.loveradio"
+  "ph.inquirer"
  ],
  "channels": [
   {
@@ -22,7 +23,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "E7kRENshskc",
+   "youtubeVideoId": "bpCAhKWTPnY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -87,7 +88,7 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "eTm_ksJWqs4",
+   "youtubeVideoId": "CvvM0JRil-M",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -106,7 +107,7 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "V4Z7kl_dbGY",
+   "youtubeVideoId": "O_ywYldYYo8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65074302",
@@ -131,9 +132,9 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "OCmPzsnpknI",
+   "youtubeVideoId": "MFWbp2DJ7Y8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -173,9 +174,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "At4j_NL2V0s",
+   "youtubeVideoId": "sGd9M1xWRBc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -192,9 +193,9 @@
     "en"
    ],
    "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw",
-   "youtubeVideoId": "TK6tZcYSioI",
+   "youtubeVideoId": "L0aYzPu3zEw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q14903716",
    "description": {
     "en": "news website company in the Philippines",
@@ -240,9 +241,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w",
-   "youtubeVideoId": "0q9F_fVBT2w",
+   "youtubeVideoId": "gsMG6RhVj6M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q97657682",
    "description": {
     "en": "News website from the Philippines"
@@ -261,9 +262,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "y4EtlnK6ry8",
+   "youtubeVideoId": "Tt-cyMTCu3U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -425,7 +426,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "kVU9lBBIpOM",
+   "youtubeVideoId": "QFidQ2zLO4k",
    "embeddable": true,
    "live": true,
    "wikidata": null,

@@ -1,13 +1,15 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026111602,
+ "version": 2026111609,
  "defaultTiles": [
   "my.awani",
   "my.beritartm",
   "my.buletintv3",
   "my.sinarharian",
-  "my.beritaharian"
+  "my.kinitv",
+  "my.beritaharian",
+  "my.parlimen"
  ],
  "channels": [
   {
@@ -82,7 +84,7 @@
     "ms"
    ],
    "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA",
-   "youtubeVideoId": "IeEMMfqz8is",
+   "youtubeVideoId": "FWpzoEAX98w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1087303",
@@ -132,7 +134,7 @@
     "ms"
    ],
    "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg",
-   "youtubeVideoId": "7Hqf0uT612Q",
+   "youtubeVideoId": "MXKclQxVRS8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7521805",
@@ -166,9 +168,9 @@
     "ta"
    ],
    "youtubeChannelId": "UC9ULnkwvyofZ_sWrzRpyvrg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "yH4qHCbuS1M",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q4918709",
    "description": {
     "en": "online news portal published in English, Malay, Chinese and Tamil",
@@ -200,7 +202,7 @@
     "ms"
    ],
    "youtubeChannelId": "UCoV8oT-GyqYSJkxzuAKG3Jw",
-   "youtubeVideoId": "ZzUMGA5lAgo",
+   "youtubeVideoId": "VcQ_u7EccLY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2211269",
@@ -237,9 +239,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCu2I5HXcZudP59E5Ld10K_g",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "JioiPCjLWL0",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2986392",
    "description": {
     "en": "Bicameral legislature of Malaysia",

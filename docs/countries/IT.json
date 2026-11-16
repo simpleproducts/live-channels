@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026111521,
+ "version": 2026111609,
  "defaultTiles": [
   "it.euronewsit",
   "it.camera",
-  "it.senato"
+  "it.senato",
+  "it.radiodeejay"
  ],
  "channels": [
   {
@@ -357,9 +358,9 @@
     "it"
    ],
    "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
-   "youtubeVideoId": "Tqs3qRodlmc",
+   "youtubeVideoId": "t1_qpx5Jf-w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1567359",
    "description": {
     "en": "radio station in Italy",

@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111602,
+ "version": 2026111609,
  "defaultTiles": [
   "cl.24horas",
   "cl.t13",
   "cl.meganoticias",
   "cl.chvnoticias",
+  "cl.biobio",
   "cl.senado",
   "cl.cooperativa",
   "cl.tvn",
@@ -21,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "Tw6B39CbaEc",
+   "youtubeVideoId": "9NhKhS4awKM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -136,9 +137,9 @@
     "es"
    ],
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
-   "youtubeVideoId": "E65Awd3HATQ",
+   "youtubeVideoId": "WwUAkpW7syI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096198",
    "description": {
     "en": "Chilean radio station",
@@ -167,7 +168,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "1LTaS-tnMmE",
+   "youtubeVideoId": "yoWsOHACvpc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -223,7 +224,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "LTLt_OC6h_c",
+   "youtubeVideoId": "UuPDeU2OMWM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
@@ -265,9 +266,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "u1dDFHgkCAI",
+   "youtubeVideoId": "AQt7Abh8-nY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -584,9 +585,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
-   "youtubeVideoId": "f5RQT0N2tQ4",
+   "youtubeVideoId": "kC71iFAb18w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

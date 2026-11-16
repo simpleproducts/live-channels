@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026111602,
+ "version": 2026111609,
  "defaultTiles": [
   "ua.suspilne",
   "ua.espreso",
-  "ua.united24",
   "ua.tsn",
   "ua.faktyictv",
-  "ua.freedom",
-  "ua.rada"
+  "ua.kyiv24",
+  "ua.pryamiy",
+  "ua.5kanal",
+  "ua.united24",
+  "ua.freedom"
  ],
  "channels": [
   {
@@ -75,7 +77,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA",
-   "youtubeVideoId": "P8YXHJajmKI",
+   "youtubeVideoId": "vQTYLTfQfH4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4041002",
@@ -143,9 +145,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
-   "youtubeVideoId": "UMm9ZTT6Hac",
+   "youtubeVideoId": "NyVZVJP9NcI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -161,7 +163,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "ffLDTOnr2-g",
+   "youtubeVideoId": "Q4sVxxuIepM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",
@@ -189,9 +191,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA",
-   "youtubeVideoId": "fFFui9CnWyw",
+   "youtubeVideoId": "80Rx8NFrODE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q38633974",
    "description": {
     "en": "Ukrainian TV channel",
@@ -215,9 +217,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
-   "youtubeVideoId": "RnyzyDCMTa0",
+   "youtubeVideoId": "ouscyIEAnSo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2987894",
    "description": {
     "en": "Ukrainian television network",
@@ -278,7 +280,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCX-xHRN9CnoXto5gcPskANA",
-   "youtubeVideoId": "hFti5yh1aVQ",
+   "youtubeVideoId": "y_NLo-v9-7Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q111841082",
