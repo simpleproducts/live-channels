@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026111609,
+ "version": 2026111620,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "YypnXRjEFYM",
+   "youtubeVideoId": "7dt9JDKgoPg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "5GtKsgbXOXk",
+   "youtubeVideoId": "k2mB6oK91Pg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "Yq5eVvf5pG4",
+   "youtubeVideoId": "rZLkQsso998",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "nIdaETdIdhI",
+   "youtubeVideoId": "zoJc-_JJEHQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -352,7 +352,7 @@
    "youtubeChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
    "youtubeVideoId": "Q7TKqPrwXZ8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q111151900",
    "description": {
     "ja": "経済動画サービス"

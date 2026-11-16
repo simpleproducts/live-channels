@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111609,
+ "version": 2026111620,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
+  "mx.imagennoticias",
+  "mx.heraldo",
+  "mx.unotv",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.canalonce",
-  "mx.tvazteca"
+  "mx.canalonce"
  ],
  "channels": [
   {
@@ -56,9 +58,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcHtke0raf8vNYLM1Hbq3Jw",
-   "youtubeVideoId": "HHIIHwpmiPE",
+   "youtubeVideoId": "8NwRqvvvaVA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -137,9 +139,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "uF-gUb78bG0",
+   "youtubeVideoId": "11gR9X3V9vM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -167,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
-   "youtubeVideoId": "RQHAVWc25mI",
+   "youtubeVideoId": "saeFEP53MY8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -289,7 +291,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "EvmMT_CZqP0",
+   "youtubeVideoId": "Sp1zHT8314g",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -332,9 +334,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "OmIb2G72eCk",
+   "youtubeVideoId": "4_CBMgP7U7A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -368,7 +370,7 @@
    "youtubeChannelId": "UCNVrBkfp4_TG9x4h5kvLeAQ",
    "youtubeVideoId": "MHePG_-Ts_4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -488,9 +490,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "5cggi4YdQ7w",
+   "youtubeVideoId": "YQnwo3cVKdc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -513,9 +515,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "wczXciYpSQY",
+   "youtubeVideoId": "73aPG4yOkQA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -567,9 +569,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "tOlZFksSTGU",
+   "youtubeVideoId": "R6DdE6QfDAw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

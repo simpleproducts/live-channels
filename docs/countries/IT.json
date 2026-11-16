@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026111609,
+ "version": 2026111620,
  "defaultTiles": [
   "it.euronewsit",
+  "it.fanpage",
   "it.camera",
   "it.senato",
   "it.radiodeejay"
@@ -155,9 +156,9 @@
     "it"
    ],
    "youtubeChannelId": "UCWJhBqnyVdHAuxexgjghNFw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "SMW_K0Ammk8",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q21234227",
    "description": {
     "en": "Italian online newspaper",
@@ -358,7 +359,7 @@
     "it"
    ],
    "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
-   "youtubeVideoId": "t1_qpx5Jf-w",
+   "youtubeVideoId": "lzrayz8LSYA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1567359",

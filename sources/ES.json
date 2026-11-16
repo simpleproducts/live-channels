@@ -18,10 +18,10 @@
   {"id": "rtvcanarias", "name": "Televisión Canaria", "category": "regional", "youtubeChannelId": "UCTQrUTmzCWIfG6h4EVCdOCQ", "youtubeVideoId": "DByMAYdYEmc", "embeddable": true, "live": true, "liveSince": "2026-07-07T08:50:32Z", "wikidata": "Q2303379"},
   {"id": "telemadrid", "name": "Telemadrid", "category": "regional", "youtubeChannelId": "UCv2BcgqxHSrl2QQfIkjR5Eg", "youtubeVideoId": "h1NzJdYtQNc", "embeddable": true, "live": true, "liveSince": "2026-11-12T05:56:34Z"},
   {"id": "congreso", "name": "Congreso de los Diputados", "category": "government", "youtubeChannelId": "UCT3tvU3bVxOa3ZiVD-B7h9g", "youtubeVideoId": "kCPgYcDsPlM", "embeddable": true, "live": false},
-  {"id": "senado", "name": "Senado de España", "category": "government", "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w", "youtubeVideoId": "clIrKlFU2Q8", "embeddable": true, "live": true, "liveSince": "2026-11-16T08:22:25Z"},
-  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "MkFjl5uwFRA", "embeddable": true, "live": true, "liveSince": "2026-11-16T09:12:03Z", "wikidata": "Q1025113"},
-  {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "ueEQbKxkr_8", "embeddable": true, "live": false, "wikidata": "Q2748448"},
+  {"id": "senado", "name": "Senado de España", "category": "government", "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w", "youtubeVideoId": "clIrKlFU2Q8", "embeddable": true, "live": false},
+  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "NaWn0V7owBQ", "embeddable": true, "live": true, "liveSince": "2026-11-16T04:25:59Z", "wikidata": "Q1025113"},
+  {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "dWGTdfXxO64", "embeddable": true, "live": true, "liveSince": "2026-11-16T17:56:30Z", "wikidata": "Q2748448"},
   {"id": "cope", "name": "COPE", "category": "radio", "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ", "youtubeVideoId": "bLGfSMeaYuo", "embeddable": true, "live": false, "wikidata": "Q2748488"},
-  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "TgBbfYWlYo0", "embeddable": true, "live": true, "liveSince": "2026-11-16T05:57:20Z", "wikidata": "Q3390195"}
+  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "nSs-x4hLet0", "embeddable": true, "live": true, "liveSince": "2026-11-16T18:57:21Z", "wikidata": "Q3390195"}
  ]
 }

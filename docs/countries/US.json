@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111609,
+ "version": 2026111620,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
-  "us.nbcnews",
   "us.livenow",
   "us.newsmax",
   "us.foxweather",
-  "us.nmasunivision",
-  "us.telemundo",
-  "us.cnnee"
+  "us.nbcnews",
+  "us.scripps",
+  "us.pbsnewshour",
+  "us.ap"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "Hz1cNNgtLtM",
+   "youtubeVideoId": "p3Iqs2N9THg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "P-D23A08cAE",
+   "youtubeVideoId": "UPK1oAiSsrY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -429,9 +429,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "ULy36YEjcBw",
+   "youtubeVideoId": "rKmd434CZPM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "PJoS7j9kU5Y",
+   "youtubeVideoId": "ClwKId_dJS0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "wQ_WgX4aCuY",
+   "youtubeVideoId": "1z_CSIkNGzQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -969,7 +969,7 @@
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
    "youtubeVideoId": "aX721NFSh-0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

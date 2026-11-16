@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111609,
+ "version": 2026111620,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
-  "co.eltiempo",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio"
+  "co.bluradio",
+  "co.lafm"
  ],
  "channels": [
   {
@@ -83,7 +83,7 @@
    "youtubeChannelId": "UCe5-b0fCK3eQCpwS6MT0aNw",
    "youtubeVideoId": "guKmOtQEv2M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1324658",
    "description": {
     "en": "Colombian newspaper",
@@ -428,7 +428,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "mCrlVB13EDU",
+   "youtubeVideoId": "3cGWo_2YkjM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -485,9 +485,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "HkWo6KTHCz8",
+   "youtubeVideoId": "rfud05FzC04",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",

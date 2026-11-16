@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111609,
+ "version": 2026111620,
  "defaultTiles": [
   "cl.24horas",
+  "cl.chvnoticias",
   "cl.t13",
   "cl.meganoticias",
-  "cl.chvnoticias",
   "cl.biobio",
   "cl.senado",
   "cl.cooperativa",
@@ -137,7 +137,7 @@
     "es"
    ],
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
-   "youtubeVideoId": "WwUAkpW7syI",
+   "youtubeVideoId": "oyhEeKw57Ck",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096198",
@@ -268,7 +268,7 @@
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
    "youtubeVideoId": "AQt7Abh8-nY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -320,9 +320,9 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "LCp0Qj-t_LA",
+   "youtubeVideoId": "xwRc2A7PQ7Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -456,9 +456,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA",
-   "youtubeVideoId": "PXfN2uNTMWo",
+   "youtubeVideoId": "H73fqwZLCXw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2119518",
    "description": {
     "en": "Lower house of Chile's National Congress",
@@ -567,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "whdCkK9jhD4",
+   "youtubeVideoId": "1oOkCsQrLDc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
