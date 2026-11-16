@@ -39,7 +39,7 @@
   {"id": "carajo", "name": "Carajo", "category": "streaming", "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg", "youtubeVideoId": "cpCXxqCKZYw", "embeddable": true, "live": false},
   {"id": "futurock", "name": "Futurock", "category": "streaming", "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw", "youtubeVideoId": "obC22I-LVyQ", "embeddable": true, "live": false, "wikidata": "Q42912634"},
   {"id": "cenital", "name": "Cenital", "category": "streaming", "youtubeChannelId": "UCxHSIJgKZ8xVXwLGaGZEmKg", "youtubeVideoId": "EioZ5vC6A8g", "embeddable": true, "live": false},
-  {"id": "azz", "name": "AZZ", "category": "streaming", "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ", "youtubeVideoId": "PI7Q8u38WQQ", "embeddable": true, "live": true, "liveSince": "2026-11-15T18:58:32Z"},
+  {"id": "azz", "name": "AZZ", "category": "streaming", "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ", "youtubeVideoId": "PI7Q8u38WQQ", "embeddable": true, "live": false},
   {"id": "lacasa", "name": "La Casa", "category": "streaming", "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A", "youtubeVideoId": "lKWHN11DxoA", "embeddable": true, "live": false},
   {"id": "republicaz", "name": "Republica Z", "category": "streaming", "youtubeChannelId": "UCmk9kjghfkM3k8I6jioDr3g", "youtubeVideoId": "9vB3ZzTSLKM", "embeddable": true, "live": false},
   {"id": "vodcast", "name": "Vodcast", "category": "streaming", "youtubeChannelId": "UCxM_tp9qm5Pyk30mRGr43pg", "youtubeVideoId": "P75iUBvVEUg", "embeddable": true, "live": false},

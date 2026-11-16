@@ -3,20 +3,20 @@
  "languages": ["th"],
  "defaultTiles": ["thaipbs", "thairath", "ch7news", "ch3news", "tnn", "pptv", "amarin", "nation", "workpoint"],
  "channels": [
-  {"id": "thaipbs", "name": "Thai PBS", "category": "news", "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw", "youtubeVideoId": "4zdhJmFkzEE", "embeddable": true, "live": false},
+  {"id": "thaipbs", "name": "Thai PBS", "category": "news", "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw", "youtubeVideoId": "zbZJD0yApfU", "embeddable": true, "live": true, "liveSince": "2026-11-16T02:06:22Z"},
   {"id": "thaipbsnews", "name": "Thai PBS News", "category": "news", "youtubeChannelId": "UCOFvLl4bKwCIZg0r4EBQLug", "youtubeVideoId": "UHLgaj7WsbQ", "embeddable": true, "live": false, "languages": ["th"]},
-  {"id": "thairath", "name": "Thairath TV", "category": "news", "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw", "youtubeVideoId": "U30-7G-cO7c", "embeddable": true, "live": false},
+  {"id": "thairath", "name": "Thairath TV", "category": "news", "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw", "youtubeVideoId": "l2XiKLDlxMM", "embeddable": true, "live": true, "liveSince": "2026-11-16T01:53:17Z"},
   {"id": "ch3news", "name": "Khao 3 (Ch3)", "category": "news", "youtubeChannelId": "UCirZPTc9IoKM_DsA9aKbc4g", "youtubeVideoId": "yIW3-qFhSHE", "embeddable": true, "live": false, "languages": ["th"]},
-  {"id": "ch7news", "name": "Ch7HD News", "category": "news", "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w", "youtubeVideoId": "iXYRUuoQiXk", "embeddable": true, "live": true, "liveSince": "2026-11-15T21:26:57Z"},
+  {"id": "ch7news", "name": "Ch7HD News", "category": "news", "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w", "youtubeVideoId": "iXYRUuoQiXk", "embeddable": true, "live": false},
   {"id": "tnn", "name": "TNN16", "category": "news", "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw", "youtubeVideoId": "YYs87kr6-28", "embeddable": true, "live": false},
-  {"id": "pptv", "name": "PPTV HD 36", "category": "news", "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng", "youtubeVideoId": "WZTZu8pEFag", "embeddable": true, "live": false},
-  {"id": "amarin", "name": "Amarin TV", "category": "news", "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A", "youtubeVideoId": "PyXi439XhtU", "embeddable": true, "live": false},
+  {"id": "pptv", "name": "PPTV HD 36", "category": "news", "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng", "youtubeVideoId": "3KAu3gMrh6U", "embeddable": true, "live": true, "liveSince": "2026-11-16T01:25:06Z"},
+  {"id": "amarin", "name": "Amarin TV", "category": "news", "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A", "youtubeVideoId": "3GddzPhon_s", "embeddable": true, "live": true, "liveSince": "2026-11-16T02:01:40Z"},
   {"id": "nation", "name": "Nation TV", "category": "news", "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg", "youtubeVideoId": "bX6tFcNlv4c", "embeddable": true, "live": false},
   {"id": "workpoint", "name": "Workpoint News", "category": "news", "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ", "youtubeVideoId": "7FIw8NRgdHE", "embeddable": true, "live": false, "languages": ["th"]},
-  {"id": "topnews", "name": "TOP NEWS", "category": "news", "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw", "youtubeVideoId": "FrKhaILkToI", "embeddable": true, "live": false, "languages": ["th"]},
+  {"id": "topnews", "name": "TOP NEWS", "category": "news", "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw", "youtubeVideoId": "35Tv030H_6s", "embeddable": true, "live": true, "liveSince": "2026-11-16T01:42:14Z", "languages": ["th"]},
   {"id": "tnamcot", "name": "TNA MCOT", "category": "news", "youtubeChannelId": "UC3SaG2jCoWuI50eC41OJ53Q", "live": false, "languages": ["th"]},
   {"id": "thestandard", "name": "THE STANDARD", "category": "news", "youtubeChannelId": "UCk1v3FzlMu3r34LYgoHpH2w", "youtubeVideoId": "geLc8iVQTv8", "embeddable": true, "live": false, "languages": ["th"]},
   {"id": "today", "name": "TODAY", "category": "news", "youtubeChannelId": "UCQ2ABjf4gcrF0-zfDLQhWFQ", "youtubeVideoId": "MyplEToPOII", "embeddable": true, "live": false, "languages": ["th"]},
-  {"id": "tpchannel", "name": "TP Channel (Parliament)", "category": "government", "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A", "youtubeVideoId": "lsFpOkFDaGk", "embeddable": true, "live": false, "languages": ["th"]}
+  {"id": "tpchannel", "name": "TP Channel (Parliament)", "category": "government", "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A", "youtubeVideoId": "WxAGRntqRWE", "embeddable": true, "live": true, "liveSince": "2026-11-16T02:02:42Z", "languages": ["th"]}
  ]
 }

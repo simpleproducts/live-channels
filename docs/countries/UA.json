@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026111521,
+ "version": 2026111602,
  "defaultTiles": [
   "ua.suspilne",
   "ua.espreso",
-  "ua.5kanal",
   "ua.united24",
   "ua.tsn",
   "ua.faktyictv",
@@ -218,7 +217,7 @@
    "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
    "youtubeVideoId": "RnyzyDCMTa0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2987894",
    "description": {
     "en": "Ukrainian television network",

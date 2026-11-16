@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026111517,
+ "version": 2026111602,
  "defaultTiles": [
   "ke.citizentv",
   "ke.ntv",
   "ke.k24",
-  "ke.ktn",
   "ke.ramogi",
   "ke.inooro",
   "ke.radiocitizen"
@@ -61,7 +60,7 @@
    "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg",
    "youtubeVideoId": "Pom2KN43cMU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

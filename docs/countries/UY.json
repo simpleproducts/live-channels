@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111521,
+ "version": 2026111602,
  "defaultTiles": [
-  "uy.carve",
-  "uy.universal"
+  "uy.carve"
  ],
  "channels": [
   {
@@ -361,7 +360,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "iZS0gp1AnEA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

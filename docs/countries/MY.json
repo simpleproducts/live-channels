@@ -1,10 +1,13 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026111521,
+ "version": 2026111602,
  "defaultTiles": [
   "my.awani",
-  "my.beritartm"
+  "my.beritartm",
+  "my.buletintv3",
+  "my.sinarharian",
+  "my.beritaharian"
  ],
  "channels": [
   {
@@ -79,9 +82,9 @@
     "ms"
    ],
    "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "IeEMMfqz8is",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q1087303",
    "description": {
     "en": "Malaysian private television station",
@@ -129,9 +132,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "7Hqf0uT612Q",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q7521805",
    "description": {
     "en": "Malay language newspaper published in Shah Alam, Selangor, Malaysia",
@@ -197,9 +200,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCoV8oT-GyqYSJkxzuAKG3Jw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "ZzUMGA5lAgo",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2211269",
    "description": {
     "en": "Malaysian newspaper",

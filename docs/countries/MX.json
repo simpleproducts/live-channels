@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111521,
+ "version": 2026111602,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.canalonce"
+  "mx.canalonce",
+  "mx.canal14",
+  "mx.lasestrellas",
+  "mx.canal22"
  ],
  "channels": [
   {
@@ -288,7 +291,7 @@
     "es"
    ],
    "youtubeChannelId": "UCqaOSuXiGdnuoqXBda-XD2A",
-   "youtubeVideoId": "osU1lWNMJ2Q",
+   "youtubeVideoId": "zhYqqmQYcu4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -306,9 +309,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
-   "youtubeVideoId": "XjCgOxZBbEo",
+   "youtubeVideoId": "z8AwHStA0eE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -383,9 +386,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZGYvP6WnVWGM5F0QEAyoyg",
-   "youtubeVideoId": "kLVC5D4AB0Y",
+   "youtubeVideoId": "Qr36S8Snq-o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q80478",
    "description": {
     "en": "Mexican television channel",
@@ -584,9 +587,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw",
-   "youtubeVideoId": "CnC74a_LWC4",
+   "youtubeVideoId": "3KgKXH5zMe4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42908534",
    "description": {
     "es": "canal de televisión abierta y pública en México"

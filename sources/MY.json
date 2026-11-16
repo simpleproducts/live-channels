@@ -5,10 +5,10 @@
  "channels": [
   {"id": "awani", "name": "Astro AWANI", "category": "news", "youtubeChannelId": "UC5dYmq91e5_g54krpO06NJw", "youtubeVideoId": "mkVyNaGee8A", "embeddable": true, "live": true, "liveSince": "2025-06-25T04:17:12Z"},
   {"id": "beritartm", "name": "Berita RTM", "category": "news", "youtubeChannelId": "UCjUxj4cyy_F0tVCT8WfmdZQ", "youtubeVideoId": "KLa3JeXONak", "embeddable": true, "live": true, "liveSince": "2026-09-24T14:13:24Z", "wikidata": "Q96679596"},
-  {"id": "buletintv3", "name": "Buletin TV3", "category": "news", "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA", "live": false, "wikidata": "Q1087303"},
-  {"id": "sinarharian", "name": "Sinar Harian", "category": "news", "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg", "live": false, "wikidata": "Q7521805"},
+  {"id": "buletintv3", "name": "Buletin TV3", "category": "news", "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA", "youtubeVideoId": "IeEMMfqz8is", "embeddable": true, "live": true, "liveSince": "2026-11-16T02:02:52Z", "wikidata": "Q1087303"},
+  {"id": "sinarharian", "name": "Sinar Harian", "category": "news", "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg", "youtubeVideoId": "7Hqf0uT612Q", "embeddable": true, "live": true, "liveSince": "2026-11-16T01:57:18Z", "wikidata": "Q7521805"},
   {"id": "kinitv", "name": "KiniTV", "category": "news", "youtubeChannelId": "UC9ULnkwvyofZ_sWrzRpyvrg", "live": false, "wikidata": "Q4918709"},
-  {"id": "beritaharian", "name": "Berita Harian", "category": "news", "youtubeChannelId": "UCoV8oT-GyqYSJkxzuAKG3Jw", "live": false, "wikidata": "Q2211269"},
+  {"id": "beritaharian", "name": "Berita Harian", "category": "news", "youtubeChannelId": "UCoV8oT-GyqYSJkxzuAKG3Jw", "youtubeVideoId": "ZzUMGA5lAgo", "embeddable": true, "live": true, "liveSince": "2026-11-16T02:01:12Z", "wikidata": "Q2211269"},
   {"id": "parlimen", "name": "Parlimen Malaysia", "category": "government", "youtubeChannelId": "UCu2I5HXcZudP59E5Ld10K_g", "live": false}
  ]
 }
