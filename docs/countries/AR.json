@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026111713,
+ "version": 2026111722,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -120,7 +120,7 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "75KiU2rOWBE",
+   "youtubeVideoId": "yXlbBYNY38Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q389108",
@@ -195,7 +195,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "Lx9CD0NXqV4",
+   "youtubeVideoId": "di3TBtrEGWk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5915760",
@@ -421,7 +421,7 @@
    "youtubeChannelId": "UCD83EL-fvAhaZ8_fKfefunw",
    "youtubeVideoId": "WxZYzHmeQ1k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q141979476",
    "description": {
     "en": "Argentine stockbroker",
@@ -508,7 +508,7 @@
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
    "youtubeVideoId": "1LWiY_f-AY8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -553,7 +553,7 @@
     "es"
    ],
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-   "youtubeVideoId": "p3FUXN_sh5w",
+   "youtubeVideoId": "zGLJWILt0iQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5072300",
@@ -832,7 +832,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "hD7ySqQnQkw",
+   "youtubeVideoId": "JEtsZCkc3ng",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -852,7 +852,7 @@
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
    "youtubeVideoId": "a5BUB-t-bHM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -868,9 +868,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6pJGaMdx5Ter_8zYbLoRgA",
-   "youtubeVideoId": "R2cNrdTev8g",
+   "youtubeVideoId": "3Hid-GYX2X8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -888,7 +888,7 @@
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
    "youtubeVideoId": "jq_c5dSM5CU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -922,7 +922,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "_isBa_n-Rvc",
+   "youtubeVideoId": "diGkROA3q0c",
    "embeddable": true,
    "live": true,
    "wikidata": "Q42912634",
@@ -964,9 +964,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "YAXa11Vv-Mc",
+   "youtubeVideoId": "MKlzSvj_n3k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -982,7 +982,7 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "IHZ95UKj3bo",
+   "youtubeVideoId": "bpp-FaxIypc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1174,7 +1174,7 @@
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
    "youtubeVideoId": "dJxR3ZJS8y0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5961729",
    "description": {
     "en": "Public AM radio station in Buenos Aires",
@@ -1323,7 +1323,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "x9l8fuSC7B4",
+   "youtubeVideoId": "12wupUdqobk",
    "embeddable": true,
    "live": true,
    "wikidata": null,

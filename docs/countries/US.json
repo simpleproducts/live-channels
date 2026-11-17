@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111713,
+ "version": 2026111722,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -11,7 +11,7 @@
   "us.nbcnews",
   "us.livenow",
   "us.scripps",
-  "us.ap"
+  "us.newsnation"
  ],
  "channels": [
   {
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-   "youtubeVideoId": "AoKW83PNLV4",
+   "youtubeVideoId": "DttajyxHFN4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "tNZJLydY1EA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -707,9 +707,9 @@
     "en"
    ],
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
-   "youtubeVideoId": "vu0GNcuW2ck",
+   "youtubeVideoId": "m_aq9fIkIfA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",

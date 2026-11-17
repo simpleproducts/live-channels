@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "ID",
- "version": 2026111713,
+ "version": 2026111722,
  "defaultTiles": [
   "id.cnnid",
   "id.metrotv",
-  "id.kompastv",
-  "id.tvone",
-  "id.inews"
+  "id.tvri"
  ],
  "channels": [
   {
@@ -20,7 +18,7 @@
    "youtubeChannelId": "UC5BMIWZe9isJXLZZWPWvBlg",
    "youtubeVideoId": "6pfefv_c6b4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6428601",
    "description": {
     "en": "Indonesian television news network",
@@ -133,7 +131,7 @@
    "youtubeChannelId": "UCER4rvDnRBPr_ncYW4UCZjg",
    "youtubeVideoId": "qnTc4BGrQlM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3476210",
    "description": {
     "en": "Indonesian television news network",
@@ -165,7 +163,7 @@
    "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg",
    "youtubeVideoId": "W3vNblkM-ZI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4213609",
    "description": {
     "en": "Indonesian television news network",
@@ -249,9 +247,9 @@
     "id"
    ],
    "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ",
-   "youtubeVideoId": "lMFsHTKc3y0",
+   "youtubeVideoId": "LK0bud5hHYg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1973495",
    "description": {
     "en": "Indonesian public television network",

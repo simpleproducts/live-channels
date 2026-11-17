@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111713,
+ "version": 2026111722,
  "defaultTiles": [
+  "uy.elobservadoruy",
   "uy.ladiaria",
-  "uy.elpaisuy",
+  "uy.tnu",
   "uy.carve",
   "uy.delsol",
   "uy.sarandi",
@@ -20,9 +21,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "ms9xCDcpZ_0",
+   "youtubeVideoId": "1j2Xguog6Tk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -86,7 +87,7 @@
    "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg",
    "youtubeVideoId": "xiOwu8jDbP0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -102,9 +103,9 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "2rCE-mzAf4A",
+   "youtubeVideoId": "Ip2AUvbekxQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -229,7 +230,7 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "qnww-43TTBg",
+   "youtubeVideoId": "aRleavNlJrc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630938",
@@ -303,7 +304,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "CzcQxhLUKVo",
+   "youtubeVideoId": "TaUnrw0nAJE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -328,7 +329,7 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "mJ0NKH3ysJw",
+   "youtubeVideoId": "v2jJOHupbh8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -364,7 +365,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "i0ayXwF5r8w",
+   "youtubeVideoId": "gG9AIVVqTVg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
