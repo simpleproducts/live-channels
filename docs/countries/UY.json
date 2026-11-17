@@ -1,13 +1,10 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111620,
+ "version": 2026111703,
  "defaultTiles": [
-  "uy.tnu",
   "uy.carve",
-  "uy.delsol",
-  "uy.sarandi",
-  "uy.canal10"
+  "uy.universal"
  ],
  "channels": [
   {
@@ -102,7 +99,7 @@
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
    "youtubeVideoId": "2rCE-mzAf4A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -142,7 +139,7 @@
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
    "youtubeVideoId": "THCPudRfDo4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -301,7 +298,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "4zG9tsSYIRA",
+   "youtubeVideoId": "MtVlJw501Tw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -328,7 +325,7 @@
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
    "youtubeVideoId": "yhYS1WRYWtw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -346,7 +343,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "5nJYtKRTHFM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -362,9 +359,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "iZS0gp1AnEA",
+   "youtubeVideoId": "7qrXfvSoERY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

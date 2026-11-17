@@ -1,10 +1,14 @@
 {
  "schema": 2,
  "code": "ID",
- "version": 2026111620,
+ "version": 2026111703,
  "defaultTiles": [
   "id.cnnid",
-  "id.metrotv"
+  "id.metrotv",
+  "id.kompastv",
+  "id.inews",
+  "id.beritasatu",
+  "id.tvri"
  ],
  "channels": [
   {
@@ -15,9 +19,9 @@
     "id"
    ],
    "youtubeChannelId": "UC5BMIWZe9isJXLZZWPWvBlg",
-   "youtubeVideoId": "zNjui73U8jY",
+   "youtubeVideoId": "SPs3eEALxds",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6428601",
    "description": {
     "en": "Indonesian television news network",
@@ -160,9 +164,9 @@
     "id"
    ],
    "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg",
-   "youtubeVideoId": "hCC48UG0-yc",
+   "youtubeVideoId": "iGphGmJLb0Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4213609",
    "description": {
     "en": "Indonesian television news network",
@@ -189,9 +193,9 @@
     "id"
    ],
    "youtubeChannelId": "UCqLsfkQSM0yfyGvONAGWd3Q",
-   "youtubeVideoId": "dcRbFEc4fms",
+   "youtubeVideoId": "Cz3tuBfJ_OI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q317541",
    "description": {
     "en": "Indonesian television network",
@@ -246,9 +250,9 @@
     "id"
    ],
    "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ",
-   "youtubeVideoId": "ltEySgrNfJg",
+   "youtubeVideoId": "lMFsHTKc3y0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1973495",
    "description": {
     "en": "Indonesian public television network",

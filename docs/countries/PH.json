@@ -1,11 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111620,
+ "version": 2026111703,
  "defaultTiles": [
   "ph.untv",
+  "ph.abscbn",
+  "ph.gma",
+  "ph.oneph",
+  "ph.rappler",
+  "ph.anc",
+  "ph.inquirer",
   "ph.dzrh",
-  "ph.teleradyo"
+  "ph.ptv"
  ],
  "channels": [
   {
@@ -17,9 +23,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "bpCAhKWTPnY",
+   "youtubeVideoId": "rq6oj2ta3Gw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -54,9 +60,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "04thE-YF27g",
+   "youtubeVideoId": "wKVQdElOzWY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -82,9 +88,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "CvvM0JRil-M",
+   "youtubeVideoId": "tk0s5yhSNoc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -101,9 +107,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "O_ywYldYYo8",
+   "youtubeVideoId": "bqQxa_a0FK4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -187,9 +193,9 @@
     "en"
    ],
    "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw",
-   "youtubeVideoId": "L0aYzPu3zEw",
+   "youtubeVideoId": "Ax-Gw0ssey8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q14903716",
    "description": {
     "en": "news website company in the Philippines",
@@ -235,9 +241,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w",
-   "youtubeVideoId": "gsMG6RhVj6M",
+   "youtubeVideoId": "7QHfF24lA5s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q97657682",
    "description": {
     "en": "News website from the Philippines"
@@ -256,9 +262,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "Tt-cyMTCu3U",
+   "youtubeVideoId": "wOWSvSUKjPg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -458,9 +464,9 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "KlDK1XSPBCY",
+   "youtubeVideoId": "Gyn99qaOUtk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

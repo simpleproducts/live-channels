@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026111620,
+ "version": 2026111703,
  "defaultTiles": [
   "it.euronewsit",
-  "it.fanpage",
   "it.camera",
-  "it.senato",
-  "it.radiodeejay"
+  "it.senato"
  ],
  "channels": [
   {
@@ -158,7 +156,7 @@
    "youtubeChannelId": "UCWJhBqnyVdHAuxexgjghNFw",
    "youtubeVideoId": "SMW_K0Ammk8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q21234227",
    "description": {
     "en": "Italian online newspaper",
@@ -361,7 +359,7 @@
    "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
    "youtubeVideoId": "lzrayz8LSYA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1567359",
    "description": {
     "en": "radio station in Italy",

@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026111620,
+ "version": 2026111703,
  "defaultTiles": [
   "ke.citizentv",
   "ke.ntv",
   "ke.k24",
   "ke.ktn",
   "ke.tv47",
+  "ke.kbc",
   "ke.ramogi",
   "ke.inooro",
-  "ke.radiocitizen"
+  "ke.radiojambo"
  ],
  "channels": [
   {
@@ -98,7 +99,7 @@
     "sw"
    ],
    "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
-   "youtubeVideoId": "QxTTM1kiI40",
+   "youtubeVideoId": "aWBe-c_tbDI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -117,9 +118,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg",
-   "youtubeVideoId": "xMVvmbVb-iA",
+   "youtubeVideoId": "hlj4GTPGPHM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6392548",
    "description": {
     "en": "state-run media organisation of Kenya",
@@ -208,9 +209,9 @@
     "sw"
    ],
    "youtubeChannelId": "UCOsHyjujol57SIFR0imyEKQ",
-   "youtubeVideoId": "g5IBMangoBM",
+   "youtubeVideoId": "NLCJ9bNx_j0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -226,7 +227,7 @@
     "sw"
    ],
    "youtubeChannelId": "UCd5mKY1HUcDBySXgK1lYUvg",
-   "youtubeVideoId": "Dw4zbgwHG0Y",
+   "youtubeVideoId": "D9iGB_TLF18",
    "embeddable": true,
    "live": true,
    "wikidata": null,

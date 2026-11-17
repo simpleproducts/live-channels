@@ -1,13 +1,12 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026111620,
+ "version": 2026111703,
  "defaultTiles": [
   "ua.suspilne",
-  "ua.tsn",
   "ua.espreso",
+  "ua.tsn",
   "ua.faktyictv",
-  "ua.kyiv24",
   "ua.5kanal",
   "ua.united24",
   "ua.freedom",
@@ -45,7 +44,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-   "youtubeVideoId": "XqxapUtT7QI",
+   "youtubeVideoId": "w2Fz8ZZ_Iyc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4449066",
@@ -77,7 +76,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA",
-   "youtubeVideoId": "vQTYLTfQfH4",
+   "youtubeVideoId": "8fAcRtZHP0o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4041002",
@@ -147,7 +146,7 @@
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
    "youtubeVideoId": "NyVZVJP9NcI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -163,7 +162,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "iSINB--KMsI",
+   "youtubeVideoId": "Ei3oQM-JXaE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",

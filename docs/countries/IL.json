@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026111620,
+ "version": 2026111703,
  "defaultTiles": [
-  "il.c14",
   "il.i24he",
-  "il.kan11"
+  "il.c14"
  ],
  "channels": [
   {
@@ -100,7 +99,7 @@
     "he"
    ],
    "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
-   "youtubeVideoId": "GYYgMX0dPvY",
+   "youtubeVideoId": "PumeZy8gzYk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q136932915",
@@ -118,7 +117,7 @@
     "he"
    ],
    "youtubeChannelId": "UCKEImtWikw9usC1pl_9m1nQ",
-   "youtubeVideoId": "wK3PMgAccCA",
+   "youtubeVideoId": "tVu6kftyzYs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16341431",
@@ -154,7 +153,7 @@
    "youtubeChannelId": "UCKqFqiCe1dCUxRe0_YNZ6gg",
    "youtubeVideoId": "uhq2qdg_D5A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q29946049",
    "description": {
     "en": "Israeli Public Broadcasting television channel",

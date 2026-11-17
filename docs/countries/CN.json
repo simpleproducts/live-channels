@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026111602,
+ "version": 2026111703,
  "defaultTiles": [
-  "cn.cgtnfr",
-  "cn.cgtnru"
+  "cn.cgtnfr"
  ],
  "channels": [
   {
@@ -185,7 +184,7 @@
    "youtubeChannelId": "UCA2WHG4EpVqul3TYjAF0k2A",
    "youtubeVideoId": "C3BKx6JxCQU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2944607",
    "description": {
     "en": "Russian language international news, entertainment, and education television channel owned by China Central Television",
