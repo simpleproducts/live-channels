@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026111703,
+ "version": 2026111713,
  "defaultTiles": [
   "il.i24he",
-  "il.c14"
+  "il.c14",
+  "il.i24en"
  ],
  "channels": [
   {
@@ -15,9 +16,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvHDpsWKADrDia0c99X37vg",
-   "youtubeVideoId": "6gUTdBCUwNI",
+   "youtubeVideoId": "T0x2aBWCu4I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13612085",
    "description": {
     "en": "International television news channel",
@@ -99,7 +100,7 @@
     "he"
    ],
    "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
-   "youtubeVideoId": "PumeZy8gzYk",
+   "youtubeVideoId": "5V2xaye8cjQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q136932915",

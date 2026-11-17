@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026111318,
+ "version": 2026111713,
  "defaultTiles": [
-  "hk.phoenixtv"
+  "hk.phoenixtv",
+  "hk.cablenews",
+  "hk.rthk"
  ],
  "channels": [
   {
@@ -50,9 +52,9 @@
     "zh"
    ],
    "youtubeChannelId": "UC_q7e5XYJB0JDGagcF0KW0w",
-   "youtubeVideoId": "Gt0Z9dmUPmk",
+   "youtubeVideoId": "5p1o4WcWN84",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -95,9 +97,9 @@
     "zh"
    ],
    "youtubeChannelId": "UC6of7UYhctnYmqABjUqzuxw",
-   "youtubeVideoId": "wGlnFAgYPfk",
+   "youtubeVideoId": "W3khiiHAj4M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1153480",
    "description": {
     "en": "Hong Kong public broadcaster",

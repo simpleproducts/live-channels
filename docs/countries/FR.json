@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026111703,
+ "version": 2026111713,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -540,9 +540,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ",
-   "youtubeVideoId": "FNviqw2z17A",
+   "youtubeVideoId": "1ptCbDLq5zI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3205960",
    "description": {
     "en": "French National Assembly TV channel",

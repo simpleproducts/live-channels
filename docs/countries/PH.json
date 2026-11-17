@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111703,
+ "version": 2026111713,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
-  "ph.oneph",
-  "ph.rappler",
-  "ph.anc",
+  "ph.news5",
   "ph.inquirer",
   "ph.dzrh",
-  "ph.ptv"
+  "ph.ptv",
+  "ph.teleradyo",
+  "ph.loveradio"
  ],
  "channels": [
   {
@@ -23,7 +23,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "rq6oj2ta3Gw",
+   "youtubeVideoId": "JohvLAZu7zU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -60,7 +60,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "wKVQdElOzWY",
+   "youtubeVideoId": "WhjOrhOIepE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -90,7 +90,7 @@
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
    "youtubeVideoId": "tk0s5yhSNoc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -109,7 +109,7 @@
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
    "youtubeVideoId": "bqQxa_a0FK4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -132,9 +132,9 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "MFWbp2DJ7Y8",
+   "youtubeVideoId": "o4g52SywbEk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -195,7 +195,7 @@
    "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw",
    "youtubeVideoId": "Ax-Gw0ssey8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q14903716",
    "description": {
     "en": "news website company in the Philippines",
@@ -241,7 +241,7 @@
     "en"
    ],
    "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w",
-   "youtubeVideoId": "7QHfF24lA5s",
+   "youtubeVideoId": "1w1KtspBsYM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q97657682",
@@ -262,7 +262,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "wOWSvSUKjPg",
+   "youtubeVideoId": "A0Kna1lhxEI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3550660",
@@ -426,7 +426,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "4e_8BuhTl4k",
+   "youtubeVideoId": "TEtozVvPKUg",
    "embeddable": true,
    "live": true,
    "wikidata": null,

@@ -1,15 +1,14 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026111703,
+ "version": 2026111713,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
   "th.ch7news",
-  "th.pptv",
-  "th.nation",
+  "th.amarin",
   "th.topnews",
-  "th.tpchannel"
+  "th.today"
  ],
  "channels": [
   {
@@ -20,7 +19,7 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "hXChFEsJ4S4",
+   "youtubeVideoId": "zu-IU6gK_z0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2603792",
@@ -70,7 +69,7 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "rwSTtEOhb0A",
+   "youtubeVideoId": "zyPpiPS0pLc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -106,7 +105,7 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "d0CndJSCV5w",
+   "youtubeVideoId": "Vpy1KGpm3Kw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -144,7 +143,7 @@
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
    "youtubeVideoId": "7KPacXuVxG0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",
@@ -168,9 +167,9 @@
     "th"
    ],
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
-   "youtubeVideoId": "3GddzPhon_s",
+   "youtubeVideoId": "eVYUFmOmZ08",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -188,7 +187,7 @@
    "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg",
    "youtubeVideoId": "SARMmIPBTEo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -222,7 +221,7 @@
     "th"
    ],
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
-   "youtubeVideoId": "pADEHs-mxIQ",
+   "youtubeVideoId": "8mK9abWCrdI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -276,9 +275,9 @@
     "th"
    ],
    "youtubeChannelId": "UCQ2ABjf4gcrF0-zfDLQhWFQ",
-   "youtubeVideoId": "pCMDfgt3YxY",
+   "youtubeVideoId": "fOEpvNi299I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -296,7 +295,7 @@
    "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A",
    "youtubeVideoId": "H5e-5pqOGSI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

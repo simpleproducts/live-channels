@@ -1,10 +1,13 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026111703,
+ "version": 2026111713,
  "defaultTiles": [
   "vn.antv",
-  "vn.thanhnien"
+  "vn.qpvn",
+  "vn.thanhnien",
+  "vn.vtcnews",
+  "vn.htvnews"
  ],
  "channels": [
   {
@@ -15,7 +18,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "MBfyXWNXkQQ",
+   "youtubeVideoId": "sMtf5ldJnAs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -33,9 +36,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw",
-   "youtubeVideoId": "nTJDV7FJS40",
+   "youtubeVideoId": "4E5xyNaTZKg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -51,7 +54,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
-   "youtubeVideoId": "QCVsBQL5JdA",
+   "youtubeVideoId": "IQwNC41KdtA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7710368",
@@ -120,9 +123,9 @@
     "vi"
    ],
    "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg",
-   "youtubeVideoId": "nqVu-sCK66E",
+   "youtubeVideoId": "twsJxMuSYhk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q108492472",
    "description": {},
    "wikipedia": {},
@@ -138,9 +141,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCZYKmEA2iQOSbyKc6xj5Vfw",
-   "youtubeVideoId": "5dev37IbPNs",
+   "youtubeVideoId": "DdoHsPj1l0g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

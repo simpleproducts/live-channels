@@ -1,9 +1,14 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111703,
+ "version": 2026111713,
  "defaultTiles": [
+  "uy.ladiaria",
+  "uy.elpaisuy",
   "uy.carve",
+  "uy.delsol",
+  "uy.sarandi",
+  "uy.tvciudad",
   "uy.universal"
  ],
  "channels": [
@@ -49,9 +54,9 @@
     "es"
    ],
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
-   "youtubeVideoId": "nyvW9KpsV3s",
+   "youtubeVideoId": "tkadHBTdSL0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -79,9 +84,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg",
-   "youtubeVideoId": "UZnNhiitHSc",
+   "youtubeVideoId": "xiOwu8jDbP0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -224,9 +229,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "DSJk8cuOQxc",
+   "youtubeVideoId": "qnww-43TTBg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -298,7 +303,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "MtVlJw501Tw",
+   "youtubeVideoId": "CzcQxhLUKVo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -323,9 +328,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "yhYS1WRYWtw",
+   "youtubeVideoId": "mJ0NKH3ysJw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -341,9 +346,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "5nJYtKRTHFM",
+   "youtubeVideoId": "0oQ8KBeqJCI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -359,7 +364,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "7qrXfvSoERY",
+   "youtubeVideoId": "i0ayXwF5r8w",
    "embeddable": true,
    "live": true,
    "wikidata": null,

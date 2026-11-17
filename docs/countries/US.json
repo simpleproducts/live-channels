@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111703,
+ "version": 2026111713,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
-  "us.livenow",
   "us.newsmax",
   "us.foxweather",
+  "us.cbsnews",
   "us.nbcnews",
-  "us.ap",
-  "us.nmasunivision",
-  "us.telemundo"
+  "us.livenow",
+  "us.scripps",
+  "us.ap"
  ],
  "channels": [
   {
@@ -133,9 +133,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "b0ZhJhN_Sn8",
+   "youtubeVideoId": "ASwsKXCT2qI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",
@@ -143,7 +143,7 @@
     "zh-Hans": "美国电视台",
     "ja": "アメリカ合衆国のテレビ・ラジオ放送局ネットワークCBSのニュース部門",
     "fr": "CBS News est le département de l'information du réseau de télévision et de radio américain CBS.",
-    "pt-BR": "A CBS News é o departamento de jornalismo da rede de televisão estadunidense CBS.",
+    "pt-BR": "CBS News é a divisão de jornalismo da rede de televisão norte-americana CBS, sediada em Nova Iorque.",
     "ko": "CBS 뉴스(CBS News)는 미국 방송 네트워크 CBS의 뉴스 제작 자회사이다.",
     "it": "CBS News è la testata giornalistica della CBS.",
     "ru": "новостное подразделение американской телерадиослужбы CBS",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "C5BUYsiW9n4",
+   "youtubeVideoId": "GQXZIzMiXow",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "0TtsQz8oOv4",
+   "youtubeVideoId": "rK2q5DpQwEM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "UPK1oAiSsrY",
+   "youtubeVideoId": "gVLmoSk6rh8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -377,7 +377,7 @@
     "en": "American television station",
     "es": "canal de televisión de noticias",
     "zh-Hans": "有线电视新闻网西班牙语频道 是于1997年3月17日开播，由華納媒體运营的一个美洲西班牙语付费新闻频道。",
-    "ja": "CNNエスパニョール は、スカイダンス・コーポレーション傘下のCNNワールドワイドが開設した、スペイン語放送によるニュース専門チャンネルである。1997年3月17日放送開始。アトランタにあるCNN放送センターを本拠とし、ここからアメリカ合衆国とラテンアメリカに向けてニュースを発信する。テレビ・ラジオ・インターネットでの展開の他、シリウス・サテライト・ラジオやXMサテライト・ラジオなどの衛星ラジオからも聴取可能。",
+    "ja": "CNNエスパニョール は、スカイダンス傘下のCNNワールドワイドが開設した、スペイン語放送によるニュース専門チャンネルである。1997年3月17日放送開始。アトランタにあるCNN放送センターを本拠とし、ここからアメリカ合衆国とラテンアメリカに向けてニュースを発信する。テレビ・ラジオ・インターネットでの展開の他、シリウス・サテライト・ラジオやXMサテライト・ラジオなどの衛星ラジオからも聴取可能。",
     "fr": "station de télévision américaine",
     "pt-BR": "canal de TV por assinatura",
     "it": "emittente televisiva",
@@ -491,7 +491,7 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "O_rnUmNeN_0",
+   "youtubeVideoId": "tNZJLydY1EA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q40469",

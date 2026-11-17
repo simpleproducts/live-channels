@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026111703,
+ "version": 2026111713,
  "defaultTiles": [
   "it.euronewsit",
   "it.camera",
-  "it.senato"
+  "it.senato",
+  "it.rai",
+  "it.radiodeejay"
  ],
  "channels": [
   {
@@ -181,9 +183,9 @@
     "it"
    ],
    "youtubeChannelId": "UCKUzdt2sELyxd6mz-bAx3bA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "DuP6-kSf474",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q19616",
    "description": {
     "en": "state-owned Italian broadcasting company",
@@ -357,9 +359,9 @@
     "it"
    ],
    "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg",
-   "youtubeVideoId": "lzrayz8LSYA",
+   "youtubeVideoId": "B8PUhkYszpU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1567359",
    "description": {
     "en": "radio station in Italy",

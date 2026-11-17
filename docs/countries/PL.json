@@ -1,13 +1,16 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026111513,
+ "version": 2026111713,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
+  "pl.polsatnews",
   "pl.tvpworld",
-  "pl.radiozet"
+  "pl.radiozet",
+  "pl.kanalzero",
+  "pl.sejm"
  ],
  "channels": [
   {
@@ -58,9 +61,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCb7O4-iI4pEO5UZPlOBr0Ug",
-   "youtubeVideoId": "de10BCqWpRU",
+   "youtubeVideoId": "kaAqP3s0mCI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -154,9 +157,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCN5seY_Oy_GiJRhF06GfRlw",
-   "youtubeVideoId": "cVl7VoD9CSc",
+   "youtubeVideoId": "MrQG-bgQ0QQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q98964",
    "description": {
     "en": "lower house of Polish parliament",
@@ -210,9 +213,9 @@
     "pl"
    ],
    "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg",
-   "youtubeVideoId": "sDroz6Fpg8I",
+   "youtubeVideoId": "uOM18cKy1ac",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q124607345",
    "description": {
     "en": "Polish online general-interest channel",
