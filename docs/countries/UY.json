@@ -1,16 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111814,
+ "version": 2026111821,
  "defaultTiles": [
+  "uy.elobservadoruy",
   "uy.ladiaria",
-  "uy.elpaisuy",
   "uy.tnu",
   "uy.carve",
   "uy.delsol",
   "uy.sarandi",
-  "uy.tvciudad",
-  "uy.universal"
+  "uy.tvciudad"
  ],
  "channels": [
   {
@@ -21,9 +20,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "1j2Xguog6Tk",
+   "youtubeVideoId": "Zs-9GxIxuqQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -87,7 +86,7 @@
    "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg",
    "youtubeVideoId": "zkOpHKMFG-E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -103,7 +102,7 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "7NDWDc7ZbuY",
+   "youtubeVideoId": "_JguU8eTEPQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1775667",
@@ -230,7 +229,7 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "JU3DtsMznrM",
+   "youtubeVideoId": "tCK5QIe_kpc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630938",
@@ -304,7 +303,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "kp-pzdpP3g4",
+   "youtubeVideoId": "eAMXcMgbHFw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -329,7 +328,7 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "w_4LLtYZOpM",
+   "youtubeVideoId": "LckiJiahH78",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -367,7 +366,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "QNdSp9O_Jec",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

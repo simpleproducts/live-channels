@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026111814,
+ "version": 2026111821,
  "defaultTiles": [
-  "my.awani",
-  "my.beritartm"
+  "my.awani"
  ],
  "channels": [
   {
@@ -51,7 +50,7 @@
    "youtubeChannelId": "UCjUxj4cyy_F0tVCT8WfmdZQ",
    "youtubeVideoId": "KLa3JeXONak",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q96679596",
    "description": {
     "en": "Malaysian government television news network",
