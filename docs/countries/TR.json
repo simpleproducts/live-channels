@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026111722,
+ "version": 2026111804,
  "defaultTiles": [
   "tr.cnnturk",
   "tr.trthaber",
@@ -469,9 +469,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCFoe1tg8MuHjRzmqXtV816A",
-   "youtubeVideoId": "AATPgXoEhxM",
+   "youtubeVideoId": "LeSvBemnieY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1723591",
    "description": {
     "en": "Turkey-based cable television channel",

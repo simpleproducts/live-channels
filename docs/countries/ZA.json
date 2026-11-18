@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026111722,
+ "version": 2026111804,
  "defaultTiles": [
-  "za.radio702"
+  "za.radio702",
+  "za.safm"
  ],
  "channels": [
   {
@@ -196,9 +197,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJ9H3sWhZuHphs2ucIFTh8w",
-   "youtubeVideoId": "Q-6LxyjBEMQ",
+   "youtubeVideoId": "6RG1RkmKzGM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

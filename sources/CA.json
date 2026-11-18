@@ -9,7 +9,7 @@
   {"id": "noovo", "name": "Noovo Info", "category": "news", "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg", "youtubeVideoId": "awc8SgYUkrY", "embeddable": true, "live": false, "languages": ["fr"]},
   {"id": "radiocanada", "name": "ICI RDI / Radio-Canada Info", "category": "news", "youtubeChannelId": "UClxaaAzHu1B5EoTtBYea7ig", "youtubeVideoId": "SFXejAOdunU", "embeddable": true, "live": false, "languages": ["fr"]},
   {"id": "citynews", "name": "CityNews", "category": "news", "youtubeChannelId": "UCVKAcQQCO8vv87Gk62SutAg", "youtubeVideoId": "I3oh2zJ7WZw", "embeddable": true, "live": false},
-  {"id": "thenational", "name": "CBC News: The National", "category": "news", "youtubeChannelId": "UCKjU3KzdbJE1EFcHVqXC3_g", "youtubeVideoId": "9NY3JDXPNWE", "embeddable": true, "live": false},
+  {"id": "thenational", "name": "CBC News: The National", "category": "news", "youtubeChannelId": "UCKjU3KzdbJE1EFcHVqXC3_g", "youtubeVideoId": "FzOuhCuRf20", "embeddable": true, "live": true, "liveSince": "2026-11-18T01:58:41Z"},
   {"id": "canadianpress", "name": "The Canadian Press", "category": "news", "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw", "youtubeVideoId": "Z1R5WxdN3iY", "embeddable": true, "live": false},
   {"id": "bnn", "name": "BNN Bloomberg", "category": "economy", "youtubeChannelId": "UC5aNPmKYwbudeNngDMTY3lw", "live": false},
   {"id": "cp24", "name": "CP24", "category": "regional", "youtubeChannelId": "UCs3o4RhBiP2wcwqkZR2QVLw", "live": false},

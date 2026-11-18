@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026111722,
+ "version": 2026111804,
  "defaultTiles": [
   "pe.latina",
   "pe.rpp",
-  "pe.tvperunoticias",
+  "pe.atv",
   "pe.congreso"
  ],
  "channels": [
@@ -68,7 +68,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "TLfUjK1CmRg",
+   "youtubeVideoId": "MsbsA6O4odI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -144,7 +144,7 @@
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
    "youtubeVideoId": "1VFdshgzsTg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -166,9 +166,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "0SC87wqfvvg",
+   "youtubeVideoId": "2-7EZub93Do",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

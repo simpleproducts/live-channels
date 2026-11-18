@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111722,
+ "version": 2026111804,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
+  "ph.oneph",
   "ph.net25",
+  "ph.anc",
   "ph.dzrh",
   "ph.ptv",
-  "ph.teleradyo",
-  "ph.loveradio"
+  "ph.teleradyo"
  ],
  "channels": [
   {
@@ -22,7 +23,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "uPJiI3OUaOI",
+   "youtubeVideoId": "EktEMUXW7vE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -59,7 +60,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "uKoWHoFLBXw",
+   "youtubeVideoId": "m3Edy3CtCjo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -87,9 +88,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "tk0s5yhSNoc",
+   "youtubeVideoId": "ywCmyfeMbxo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -106,9 +107,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "bqQxa_a0FK4",
+   "youtubeVideoId": "Fp1U3En2nrw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -173,7 +174,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "3TjMxyYTKEQ",
+   "youtubeVideoId": "ZlnNQwJkln0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -261,7 +262,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "zkh3nNv7iRk",
+   "youtubeVideoId": "wTL3JwlH6PU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3550660",
@@ -444,9 +445,9 @@
     "en"
    ],
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
-   "youtubeVideoId": "La5AqgOMxSo",
+   "youtubeVideoId": "wfWZbFua0RU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

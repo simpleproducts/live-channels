@@ -1,10 +1,15 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026111713,
+ "version": 2026111804,
  "defaultTiles": [
   "my.awani",
-  "my.beritartm"
+  "my.beritartm",
+  "my.buletintv3",
+  "my.sinarharian",
+  "my.kinitv",
+  "my.beritaharian",
+  "my.parlimen"
  ],
  "channels": [
   {
@@ -79,9 +84,9 @@
     "ms"
    ],
    "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA",
-   "youtubeVideoId": "6dy6g76BcM8",
+   "youtubeVideoId": "pM-uAh4QfUA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1087303",
    "description": {
     "en": "Malaysian private television station",
@@ -129,9 +134,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg",
-   "youtubeVideoId": "bHBMkKqJwjQ",
+   "youtubeVideoId": "lDz3j9bGCAo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7521805",
    "description": {
     "en": "Malay language newspaper published in Shah Alam, Selangor, Malaysia",
@@ -163,9 +168,9 @@
     "ta"
    ],
    "youtubeChannelId": "UC9ULnkwvyofZ_sWrzRpyvrg",
-   "youtubeVideoId": "9H1qv77o6PY",
+   "youtubeVideoId": "CM6bW4ZeQOE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4918709",
    "description": {
     "en": "online news portal published in English, Malay, Chinese and Tamil",
@@ -197,9 +202,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCoV8oT-GyqYSJkxzuAKG3Jw",
-   "youtubeVideoId": "vIGYDyq9bWw",
+   "youtubeVideoId": "y3rW73UHJdQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2211269",
    "description": {
     "en": "Malaysian newspaper",
@@ -234,9 +239,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCu2I5HXcZudP59E5Ld10K_g",
-   "youtubeVideoId": "bFZDVNhnEgw",
+   "youtubeVideoId": "TUi3EEtuVe8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2986392",
    "description": {
     "en": "Bicameral legislature of Malaysia",

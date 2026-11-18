@@ -1,10 +1,15 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026111722,
+ "version": 2026111804,
  "defaultTiles": [
   "th.thaipbs",
-  "th.ch7news"
+  "th.thairath",
+  "th.ch7news",
+  "th.tnn",
+  "th.pptv",
+  "th.nation",
+  "th.tpchannel"
  ],
  "channels": [
   {
@@ -15,7 +20,7 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "wSgdxgbbKM8",
+   "youtubeVideoId": "J494gV6QWHE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2603792",
@@ -65,9 +70,9 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "zyPpiPS0pLc",
+   "youtubeVideoId": "9Ey-1Ot0p8s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -101,7 +106,7 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "1uzNYh70h3w",
+   "youtubeVideoId": "AI5RCVajKnw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -119,9 +124,9 @@
     "th"
    ],
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
-   "youtubeVideoId": "YYs87kr6-28",
+   "youtubeVideoId": "T0n8p65lJX4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -137,9 +142,9 @@
     "th"
    ],
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
-   "youtubeVideoId": "7KPacXuVxG0",
+   "youtubeVideoId": "M8ulzGg8yEI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",
@@ -181,9 +186,9 @@
     "th"
    ],
    "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg",
-   "youtubeVideoId": "SARMmIPBTEo",
+   "youtubeVideoId": "b7Adw_Ws0Vc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -289,9 +294,9 @@
     "th"
    ],
    "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A",
-   "youtubeVideoId": "H5e-5pqOGSI",
+   "youtubeVideoId": "-DVndI3Lg3k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
