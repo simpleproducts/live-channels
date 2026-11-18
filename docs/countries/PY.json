@@ -1,8 +1,11 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026111804,
+ "version": 2026111814,
  "defaultTiles": [
+  "py.abctv",
+  "py.telefuturo",
+  "py.nanduti",
   "py.monumental"
  ],
  "channels": [
@@ -14,9 +17,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg",
-   "youtubeVideoId": "qqupLFwPRXk",
+   "youtubeVideoId": "vg1W4MxsrAI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -97,9 +100,9 @@
     "es"
    ],
    "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA",
-   "youtubeVideoId": "fZyHXX_Kxuk",
+   "youtubeVideoId": "tNTaV6jR9is",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3140411",
    "description": {
     "en": "Paraguayan free-to-air television network",
@@ -190,9 +193,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A",
-   "youtubeVideoId": "LiCI2LzyNvk",
+   "youtubeVideoId": "25LAwk2kWtQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

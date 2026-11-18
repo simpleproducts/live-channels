@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026111804,
+ "version": 2026111814,
  "defaultTiles": [
-  "cn.cgtnfr",
-  "cn.cgtn",
   "cn.cgtneurope",
-  "cn.cgtnru"
+  "cn.cgtnfr"
  ],
  "channels": [
   {
@@ -19,7 +17,7 @@
    "youtubeChannelId": "UCgrNz-aDmcr2uuto8_DL2jg",
    "youtubeVideoId": "HbZ9KHCGoWM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28089296",
    "description": {
     "en": "Chinese international state-media organization",
@@ -187,7 +185,7 @@
    "youtubeChannelId": "UCA2WHG4EpVqul3TYjAF0k2A",
    "youtubeVideoId": "4cdlPDJvWdg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2944607",
    "description": {
     "en": "Russian language international news, entertainment, and education television channel owned by China Central Television",

@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111804,
+ "version": 2026111814,
  "defaultTiles": [
   "ph.untv",
-  "ph.abscbn",
   "ph.gma",
   "ph.oneph",
+  "ph.news5",
   "ph.net25",
-  "ph.anc",
   "ph.dzrh",
-  "ph.ptv",
-  "ph.teleradyo"
+  "ph.teleradyo",
+  "ph.loveradio"
  ],
  "channels": [
   {
@@ -25,7 +24,7 @@
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
    "youtubeVideoId": "EktEMUXW7vE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -60,7 +59,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "m3Edy3CtCjo",
+   "youtubeVideoId": "RFpfTXWqajU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -90,7 +89,7 @@
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
    "youtubeVideoId": "ywCmyfeMbxo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -107,7 +106,7 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "Fp1U3En2nrw",
+   "youtubeVideoId": "ltaluD7uAEY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65074302",
@@ -132,9 +131,9 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "o4g52SywbEk",
+   "youtubeVideoId": "mkiZuJtFJwo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -174,7 +173,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "ZlnNQwJkln0",
+   "youtubeVideoId": "LwCkCClw2PY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -264,7 +263,7 @@
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
    "youtubeVideoId": "wTL3JwlH6PU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -426,7 +425,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "5XjfRpBDL4c",
+   "youtubeVideoId": "ZhVduqgdKlE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -447,7 +446,7 @@
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
    "youtubeVideoId": "wfWZbFua0RU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026111804,
+ "version": 2026111814,
  "defaultTiles": [
   "za.radio702",
+  "za.parliament",
   "za.safm"
  ],
  "channels": [
@@ -107,9 +108,9 @@
     "en"
    ],
    "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ",
-   "youtubeVideoId": "E0OB1BhTBTE",
+   "youtubeVideoId": "pHquwBO_Hu4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2185780",
    "description": {
     "en": "legislative body of South Africa",
