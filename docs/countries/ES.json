@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026111913,
+ "version": 2026111921,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
   "es.elpais",
+  "es.elmundo",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.rtvcanarias",
-  "es.telemadrid"
+  "es.rtvcanarias"
  ],
  "channels": [
   {
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "0Z4keBk3mPs",
+   "youtubeVideoId": "Y5eONIaptic",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -169,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-   "youtubeVideoId": "hGtV4NLm5KI",
+   "youtubeVideoId": "0_05KxYGqEI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -395,9 +395,9 @@
     "es"
    ],
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
-   "youtubeVideoId": "IE2ZsO8tXLo",
+   "youtubeVideoId": "UqqGkMXn5L0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UCv2BcgqxHSrl2QQfIkjR5Eg",
    "youtubeVideoId": "h1NzJdYtQNc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q279413",
    "description": {
     "en": "regional television channel of the Community of Madrid",
@@ -588,7 +588,7 @@
    "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w",
    "youtubeVideoId": "T-6jlSTwh_U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q855343",
    "description": {
     "en": "upper house of Spain's parliament, the Cortes Generales",
@@ -683,9 +683,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "8HTWVjJdarg",
+   "youtubeVideoId": "8WZxLDYCTv0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -716,9 +716,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ",
-   "youtubeVideoId": "bLGfSMeaYuo",
+   "youtubeVideoId": "1tiqNtuoRqs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748488",
    "description": {
     "en": "the Spanish private national radio of the Spanish Catholic Church",
@@ -749,7 +749,7 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "2cmJG9YBwqE",
+   "youtubeVideoId": "e7193gB3vlU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3390195",

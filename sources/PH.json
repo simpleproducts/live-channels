@@ -3,21 +3,21 @@
  "languages": ["tl", "en"],
  "defaultTiles": ["abscbn", "gma", "anc", "oneph", "news5", "untv", "net25", "rappler", "inquirer"],
  "channels": [
-  {"id": "abscbn", "name": "ABS-CBN News", "category": "news", "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA", "youtubeVideoId": "7GiqN12GmzY", "embeddable": true, "live": true, "liveSince": "2026-11-19T12:30:09Z"},
-  {"id": "gma", "name": "GMA Integrated News", "category": "news", "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw", "youtubeVideoId": "bXrlE01-E_M", "embeddable": true, "live": true, "liveSince": "2026-11-19T10:42:10Z"},
-  {"id": "anc", "name": "ANC 24/7", "category": "news", "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg", "youtubeVideoId": "YJ3Ucb5dGJ8", "embeddable": true, "live": false, "languages": ["en"]},
+  {"id": "abscbn", "name": "ABS-CBN News", "category": "news", "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA", "youtubeVideoId": "14b66aU7smA", "embeddable": true, "live": true, "liveSince": "2026-11-19T21:16:41Z"},
+  {"id": "gma", "name": "GMA Integrated News", "category": "news", "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw", "youtubeVideoId": "LzbaHCHud1Y", "embeddable": true, "live": true, "liveSince": "2026-11-19T21:22:40Z"},
+  {"id": "anc", "name": "ANC 24/7", "category": "news", "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg", "youtubeVideoId": "FvXwZZxMOHM", "embeddable": true, "live": true, "liveSince": "2026-11-19T21:16:40Z", "languages": ["en"]},
   {"id": "oneph", "name": "One PH", "category": "news", "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA", "youtubeVideoId": "hUc5X4HQI0c", "embeddable": true, "live": false},
-  {"id": "news5", "name": "News5", "category": "news", "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg", "youtubeVideoId": "wtFXi1eocUQ", "embeddable": true, "live": true, "liveSince": "2026-11-19T12:30:31Z"},
+  {"id": "news5", "name": "News5", "category": "news", "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg", "youtubeVideoId": "wtFXi1eocUQ", "embeddable": true, "live": false},
   {"id": "untv", "name": "UNTV News and Rescue", "category": "news", "youtubeChannelId": "UC3XaG-7UVi2vD8ZZEMNnnpw", "youtubeVideoId": "UxQZ1yOqbQE", "embeddable": true, "live": true, "liveSince": "2026-07-12T12:35:57Z"},
-  {"id": "net25", "name": "NET25 News", "category": "news", "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw", "youtubeVideoId": "rl0Q5x1vazk", "embeddable": true, "live": false},
+  {"id": "net25", "name": "NET25 News", "category": "news", "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw", "youtubeVideoId": "sLnzSdeZ4pk", "embeddable": true, "live": true, "liveSince": "2026-11-19T21:22:55Z"},
   {"id": "rappler", "name": "Rappler", "category": "news", "youtubeChannelId": "UCdnZdQxYXnbN4uWJg96oGxw", "youtubeVideoId": "1Cl3F9Ob3WM", "embeddable": true, "live": false},
   {"id": "inquirer", "name": "INQUIRER.net", "category": "news", "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w", "youtubeVideoId": "R8eOJMxGGGc", "embeddable": true, "live": false},
-  {"id": "ptv", "name": "PTV", "category": "broadcast", "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ", "youtubeVideoId": "iQNWX5xjYpE", "embeddable": true, "live": true, "liveSince": "2026-11-19T12:57:52Z"},
+  {"id": "ptv", "name": "PTV", "category": "broadcast", "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ", "youtubeVideoId": "iQNWX5xjYpE", "embeddable": true, "live": false},
   {"id": "senate", "name": "Senate of the Philippines", "category": "government", "youtubeChannelId": "UCPJWi44tskVVMNyKzYrPoGg", "youtubeVideoId": "kYuo9S0Ch1g", "embeddable": true, "live": false},
   {"id": "house", "name": "House of Representatives", "category": "government", "youtubeChannelId": "UCtGmCfZ4O1zrl9c8BEhGvRg", "youtubeVideoId": "Xzd7XiR65gw", "embeddable": true, "live": false},
   {"id": "dzrh", "name": "DZRH News Television", "category": "radio", "youtubeChannelId": "UCcTiBX8js_djhSSlmJRI99A", "youtubeVideoId": "VzS75VuvLxs", "embeddable": true, "live": true, "liveSince": "2026-08-26T19:15:33Z"},
-  {"id": "teleradyo", "name": "DZMM TeleRadyo", "category": "radio", "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w", "youtubeVideoId": "u5sqw09Mdzo", "embeddable": true, "live": true, "liveSince": "2026-11-19T11:50:55Z"},
+  {"id": "teleradyo", "name": "DZMM TeleRadyo", "category": "radio", "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w", "youtubeVideoId": "5vWfAYIA7IA", "embeddable": true, "live": true, "liveSince": "2026-11-19T19:49:16Z"},
   {"id": "bombo", "name": "Bombo Radyo", "category": "radio", "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ", "youtubeVideoId": "iC_qopEd-gI", "embeddable": true, "live": false},
-  {"id": "loveradio", "name": "Love Radio Manila", "category": "radio", "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg", "youtubeVideoId": "wzLW7kZm74Q", "embeddable": true, "live": true, "liveSince": "2026-11-18T20:55:56Z"}
+  {"id": "loveradio", "name": "Love Radio Manila", "category": "radio", "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg", "youtubeVideoId": "thhi3pVTxEU", "embeddable": true, "live": true, "liveSince": "2026-11-19T21:12:26Z"}
  ]
 }

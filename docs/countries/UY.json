@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111913,
+ "version": 2026111921,
  "defaultTiles": [
   "uy.elobservadoruy",
   "uy.ladiaria",
-  "uy.elpaisuy",
   "uy.carve",
   "uy.delsol",
   "uy.sarandi",
@@ -21,7 +20,7 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "Lfyg30Izrac",
+   "youtubeVideoId": "AIQVnikKn7A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q892935",
@@ -87,7 +86,7 @@
    "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg",
    "youtubeVideoId": "NweKxlfmWT0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -230,7 +229,7 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "K9z0mBnJ1xY",
+   "youtubeVideoId": "7fICdxSdKLw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630938",
@@ -304,7 +303,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "IplxphBzhf0",
+   "youtubeVideoId": "9nomNjC5WHg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -329,7 +328,7 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "guzjec31wu4",
+   "youtubeVideoId": "fVXwrj6aDjs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -365,7 +364,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "wUy4a0emaa8",
+   "youtubeVideoId": "sz1KNU_Hw3o",
    "embeddable": true,
    "live": true,
    "wikidata": null,

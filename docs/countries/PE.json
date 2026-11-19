@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026111913,
+ "version": 2026111921,
  "defaultTiles": [
   "pe.latina",
   "pe.pbo",
@@ -9,8 +9,7 @@
   "pe.willax",
   "pe.tvperunoticias",
   "pe.atv",
-  "pe.congreso",
-  "pe.panamericana"
+  "pe.congreso"
  ],
  "channels": [
   {
@@ -21,7 +20,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "HI7z7rpTx-o",
+   "youtubeVideoId": "2Xkaijz0eXM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -72,7 +71,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "4xuTkP194_M",
+   "youtubeVideoId": "4OGDqD8ATS8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -120,7 +119,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "OU2VXMwyacg",
+   "youtubeVideoId": "7PqL0R4F-sQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -146,7 +145,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "Ld99HpCoZw8",
+   "youtubeVideoId": "cWOfd0hJlm8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q17630941",
@@ -170,7 +169,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "GDW1wlDNKxM",
+   "youtubeVideoId": "4ExytDqm7nY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -329,7 +328,7 @@
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
    "youtubeVideoId": "0Trox95vlj4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",

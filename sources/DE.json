@@ -3,7 +3,7 @@
  "languages": ["de"],
  "defaultTiles": ["welt", "phoenix", "dwnews", "euronewsde", "dwespanol"],
  "channels": [
-  {"id": "welt", "name": "WELT Nachrichtensender", "category": "news", "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA", "youtubeVideoId": "nJnZNl7omZ4", "embeddable": true, "live": true, "liveSince": "2026-11-19T12:01:49Z"},
+  {"id": "welt", "name": "WELT Nachrichtensender", "category": "news", "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA", "youtubeVideoId": "FYjh9-WBUDk", "embeddable": true, "live": true, "liveSince": "2026-11-19T19:13:49Z"},
   {"id": "phoenix", "name": "phoenix", "category": "news", "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg", "youtubeVideoId": "kfp2QzXe1dY", "embeddable": true, "live": false},
   {"id": "tagesschau", "name": "tagesschau", "category": "news", "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA", "youtubeVideoId": "8LL6xLqAgUo", "embeddable": true, "live": false, "wikidata": "Q703907"},
   {"id": "zdfheute", "name": "ZDFheute Nachrichten", "category": "news", "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ", "youtubeVideoId": "sejyoCl1S2o", "embeddable": true, "live": false},

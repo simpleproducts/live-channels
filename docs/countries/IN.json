@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026111913,
+ "version": 2026111921,
  "defaultTiles": [
   "in.ddnews",
   "in.indiatv",
@@ -53,7 +53,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCt4t-jeY85JegMlZ-E5UWtA",
-   "youtubeVideoId": "wg4P_cxVE90",
+   "youtubeVideoId": "agYugUvy93k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3396358",
@@ -79,7 +79,7 @@
     "en"
    ],
    "youtubeChannelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
-   "youtubeVideoId": "mPXazxVcBJQ",
+   "youtubeVideoId": "LCWDZsASUWs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCZFMm1mMw0F81Z37aaEzTUA",
-   "youtubeVideoId": "K1BH659mnD4",
+   "youtubeVideoId": "3I0XXZhHmDE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2985356",
@@ -168,7 +168,7 @@
     "en"
    ],
    "youtubeChannelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
-   "youtubeVideoId": "Pg9QAndN52U",
+   "youtubeVideoId": "cSCqHwn0sUc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7806547",
@@ -196,7 +196,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCRWFSbif-RFENbBrSiez1DA",
-   "youtubeVideoId": "mm0B1ZmFtqg",
+   "youtubeVideoId": "3_3Px14WvdU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3630156",
@@ -229,7 +229,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCIvaYmXn910QMdemBG3v1pQ",
-   "youtubeVideoId": "whup1FR3vBA",
+   "youtubeVideoId": "iEsTl8PD5Kk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5287969",
@@ -300,7 +300,7 @@
     "en"
    ],
    "youtubeChannelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
-   "youtubeVideoId": "40pbbdzAt3Q",
+   "youtubeVideoId": "ML64zcFy5fE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5689808",
@@ -353,7 +353,7 @@
     "en"
    ],
    "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
-   "youtubeVideoId": "54iAZS47RsM",
+   "youtubeVideoId": "HM6NHY07A9w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q19891764",
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "aunKzMaSeQc",
+   "youtubeVideoId": "LoV2fisxe2I",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",
@@ -444,7 +444,7 @@
     "en"
    ],
    "youtubeChannelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
-   "youtubeVideoId": "ZcT23p6Kbjs",
+   "youtubeVideoId": "rkPnk9qxR3g",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -462,7 +462,7 @@
     "en"
    ],
    "youtubeChannelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
-   "youtubeVideoId": "BGVZV-LpyI8",
+   "youtubeVideoId": "eY4Nt4iJVZY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20647988",
@@ -484,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UCz8QaiQxApLq8sLNcszYyJw",
-   "youtubeVideoId": "C2pS87DKPVE",
+   "youtubeVideoId": "xr4rhskRnWc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5453524",
@@ -521,7 +521,7 @@
    "youtubeChannelId": "UCtFQDgA8J8_iiwc5-KoAQlg",
    "youtubeVideoId": "MtSdSUiwnjI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2613165",
    "description": {
     "en": "Indian news agency",
@@ -585,7 +585,7 @@
     "en"
    ],
    "youtubeChannelId": "UCI_mwTKUhicNzFrhm33MzBQ",
-   "youtubeVideoId": "WXip7KA7Ovg",
+   "youtubeVideoId": "xtOBpDagNE4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5324510",
@@ -607,7 +607,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3uJIdRFTGgLWrUziaHbzrg",
-   "youtubeVideoId": "Z3L2_CgO7Z0",
+   "youtubeVideoId": "VrBAbh902Ng",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6953329",
@@ -629,7 +629,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCQIycDaLsBpMKjOCeaKUYVg",
-   "youtubeVideoId": "RcfkR4myxgQ",
+   "youtubeVideoId": "ou8UJRxQ_bY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5013075",
@@ -661,7 +661,7 @@
     "hi"
    ],
    "youtubeChannelId": "UCkXopQ3ubd-rnXnStZqCl2w",
-   "youtubeVideoId": "_TAWnmdf_ss",
+   "youtubeVideoId": "7ZNBVo-PKpA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q8068393",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026111913,
+ "version": 2026111921,
  "defaultTiles": [
   "cl.chvnoticias",
   "cl.t13",
@@ -137,7 +137,7 @@
     "es"
    ],
    "youtubeChannelId": "UCuvM3c8rmdApmk-g22shZ7w",
-   "youtubeVideoId": "5qRxlmPzSaI",
+   "youtubeVideoId": "e-Ib3aqdHVQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096198",
@@ -168,7 +168,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "VawA273MEmc",
+   "youtubeVideoId": "XCV651OcD9c",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -320,7 +320,7 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "ZM8MRzY0lpo",
+   "youtubeVideoId": "l5R_j1FtCZ4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600805",
@@ -458,7 +458,7 @@
    "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA",
    "youtubeVideoId": "TqUpleTaFlY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2119518",
    "description": {
     "en": "Lower house of Chile's National Congress",
@@ -504,7 +504,7 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "t8PlCYacKsY",
+   "youtubeVideoId": "BF3FA8urcgs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5653556",
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "W0iD9d5kIi4",
+   "youtubeVideoId": "oLEkDnosvdg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -585,9 +585,9 @@
     "es"
    ],
    "youtubeChannelId": "UCqRSHnlmSRcHEnr0TjmmKow",
-   "youtubeVideoId": "yfgbQ-R65I8",
+   "youtubeVideoId": "BYjgVn7G9K4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -603,9 +603,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4ZQZFCySssx8rM21sZ5z4A",
-   "youtubeVideoId": "ktvuQul5ZSs",
+   "youtubeVideoId": "XCwMUk2u2U8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -621,7 +621,7 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": "GTkCHWaVumI",
+   "youtubeVideoId": "HmBpbMH8AQo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -641,7 +641,7 @@
    "youtubeChannelId": "UCnN6wrS3nloRl0xB6Qglb0g",
    "youtubeVideoId": "dUaT73hiI3w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -657,9 +657,9 @@
     "es"
    ],
    "youtubeChannelId": "UC49MwUzUI2dF_phYTg7mBXw",
-   "youtubeVideoId": "ccKicuAi2NA",
+   "youtubeVideoId": "nEBxxIehG3s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

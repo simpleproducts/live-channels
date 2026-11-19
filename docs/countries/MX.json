@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111913,
+ "version": 2026111921,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
   "mx.nmas",
-  "mx.heraldo",
-  "mx.aristegui",
   "mx.multimedios",
+  "mx.canalonce",
   "mx.imagenradio",
-  "mx.canalonce"
+  "mx.imagentv",
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -40,7 +40,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "Z3dYmxW81gs",
+   "youtubeVideoId": "L8Fe8-qBwqc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -141,7 +141,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "rbpcbpwswzI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -211,7 +211,7 @@
    "youtubeChannelId": "UCafNntv_qTQB26AvbEQNHPw",
    "youtubeVideoId": "W93U3x0wqu0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q61998946",
    "description": {
     "en": "Mexico online newspaper",
@@ -334,7 +334,7 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "rwtg3_570p4",
+   "youtubeVideoId": "NInmLbdVfC0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27031787",
@@ -490,7 +490,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "W5P89O6Ppo8",
+   "youtubeVideoId": "lm3GwM2vpqw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -515,7 +515,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "kprGsrmV5BM",
+   "youtubeVideoId": "3ubhbCNX0YU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -569,7 +569,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "XOlXBNVWJjU",
+   "youtubeVideoId": "-QeYpBuarX8",
    "embeddable": true,
    "live": true,
    "wikidata": null,

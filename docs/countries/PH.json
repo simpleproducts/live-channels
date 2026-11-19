@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026111913,
+ "version": 2026111921,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
-  "ph.news5",
+  "ph.net25",
+  "ph.anc",
   "ph.dzrh",
-  "ph.ptv",
   "ph.teleradyo",
   "ph.loveradio"
  ],
@@ -22,7 +22,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "7GiqN12GmzY",
+   "youtubeVideoId": "14b66aU7smA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -59,7 +59,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "bXrlE01-E_M",
+   "youtubeVideoId": "LzbaHCHud1Y",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -87,9 +87,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "YJ3Ucb5dGJ8",
+   "youtubeVideoId": "FvXwZZxMOHM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -133,7 +133,7 @@
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
    "youtubeVideoId": "wtFXi1eocUQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -173,9 +173,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "rl0Q5x1vazk",
+   "youtubeVideoId": "sLnzSdeZ4pk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -263,7 +263,7 @@
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
    "youtubeVideoId": "iQNWX5xjYpE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -425,7 +425,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "u5sqw09Mdzo",
+   "youtubeVideoId": "5vWfAYIA7IA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -463,7 +463,7 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "wzLW7kZm74Q",
+   "youtubeVideoId": "thhi3pVTxEU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6691186",

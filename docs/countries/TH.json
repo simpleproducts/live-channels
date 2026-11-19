@@ -1,13 +1,9 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026111913,
+ "version": 2026111921,
  "defaultTiles": [
-  "th.thaipbs",
-  "th.thairath",
-  "th.pptv",
-  "th.nation",
-  "th.today"
+  "th.ch7news"
  ],
  "channels": [
   {
@@ -20,7 +16,7 @@
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
    "youtubeVideoId": "OQWrWOMXzSg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -70,7 +66,7 @@
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
    "youtubeVideoId": "2wqLKWcsRVY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -104,9 +100,9 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "eaUO_7IOY5E",
+   "youtubeVideoId": "w10INQhcM5w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -142,7 +138,7 @@
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
    "youtubeVideoId": "1RJiMMBYVIc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",
@@ -186,7 +182,7 @@
    "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg",
    "youtubeVideoId": "kxh6fLd_RfY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -276,7 +272,7 @@
    "youtubeChannelId": "UCQ2ABjf4gcrF0-zfDLQhWFQ",
    "youtubeVideoId": "8BOYP38Q90w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
