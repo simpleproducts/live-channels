@@ -1,8 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111903,
+ "version": 2026111913,
  "defaultTiles": [
+  "uy.elobservadoruy",
+  "uy.ladiaria",
+  "uy.elpaisuy",
+  "uy.carve",
+  "uy.delsol",
+  "uy.sarandi",
+  "uy.tvciudad",
   "uy.universal"
  ],
  "channels": [
@@ -14,9 +21,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "Zs-9GxIxuqQ",
+   "youtubeVideoId": "Lfyg30Izrac",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -48,9 +55,9 @@
     "es"
    ],
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
-   "youtubeVideoId": "_uvZGCV_1io",
+   "youtubeVideoId": "N-Ysop3HvUU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -78,9 +85,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg",
-   "youtubeVideoId": "zkOpHKMFG-E",
+   "youtubeVideoId": "NweKxlfmWT0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -223,9 +230,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "tCK5QIe_kpc",
+   "youtubeVideoId": "K9z0mBnJ1xY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -297,9 +304,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "eAMXcMgbHFw",
+   "youtubeVideoId": "IplxphBzhf0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -322,9 +329,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "LckiJiahH78",
+   "youtubeVideoId": "guzjec31wu4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -340,9 +347,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "QGEBOCpJ3Zk",
+   "youtubeVideoId": "fRyaf-IVQIQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -358,7 +365,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "Z5buT_ctW-o",
+   "youtubeVideoId": "wUy4a0emaa8",
    "embeddable": true,
    "live": true,
    "wikidata": null,

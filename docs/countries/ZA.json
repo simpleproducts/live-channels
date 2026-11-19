@@ -1,9 +1,12 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026111821,
+ "version": 2026111913,
  "defaultTiles": [
-  "za.radio702"
+  "za.sabcnews",
+  "za.newzroom",
+  "za.radio702",
+  "za.parliament"
  ],
  "channels": [
   {
@@ -14,9 +17,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
-   "youtubeVideoId": "_5Q3ewV4qBU",
+   "youtubeVideoId": "_xnEYtgVPSs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q48767445",
    "description": {
     "en": "news channel owned by the South African Broadcasting Corporation",
@@ -61,9 +64,9 @@
     "en"
    ],
    "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ",
-   "youtubeVideoId": "Drl3nxwIx20",
+   "youtubeVideoId": "4BW_Gn14C-Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -106,9 +109,9 @@
     "en"
    ],
    "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ",
-   "youtubeVideoId": "pHquwBO_Hu4",
+   "youtubeVideoId": "tSuekXw-8gY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2185780",
    "description": {
     "en": "legislative body of South Africa",

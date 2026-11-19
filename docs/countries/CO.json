@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111903,
+ "version": 2026111913,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.canal1",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio"
+  "co.bluradio",
+  "co.telecaribe"
  ],
  "channels": [
   {
@@ -130,7 +130,7 @@
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
    "youtubeVideoId": "XhrxCa_tvQ8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -387,9 +387,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": "RIS2uy6e2S0",
+   "youtubeVideoId": "7emoiHlA84s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -429,7 +429,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "VT0ZjygB6Gc",
+   "youtubeVideoId": "L6Gir062r5c",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -486,9 +486,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "itF7KHg9TaM",
+   "youtubeVideoId": "UVMPo9FKgxQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -554,9 +554,9 @@
     "es"
    ],
    "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
-   "youtubeVideoId": "Jg5HYLoveIg",
+   "youtubeVideoId": "mlYM_pVb_tI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -572,9 +572,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
-   "youtubeVideoId": "Et-1k8NJa1U",
+   "youtubeVideoId": "vHqtED5oavo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -590,9 +590,9 @@
     "es"
    ],
    "youtubeChannelId": "UClAlbNsawVywJF99roh7qvA",
-   "youtubeVideoId": "3gk1pk2q2a4",
+   "youtubeVideoId": "NGjPYYPxRqM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -608,9 +608,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A",
-   "youtubeVideoId": "dcpr_ed2ees",
+   "youtubeVideoId": "GNDtjFjq9ps",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -628,7 +628,7 @@
    "youtubeChannelId": "UCiVHAfsq_UPsw8cm0sylDRw",
    "youtubeVideoId": "yQDZCIDrF5M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5964328",
    "description": {
     "en": "Colombian radio station",

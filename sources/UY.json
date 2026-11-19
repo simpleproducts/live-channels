@@ -3,18 +3,18 @@
  "languages": ["es"],
  "defaultTiles": ["elobservadoruy", "ladiaria", "tnu", "carve", "delsol", "sarandi"],
  "channels": [
-  {"id": "elobservadoruy", "name": "El Observador", "category": "news", "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ", "youtubeVideoId": "Zs-9GxIxuqQ", "embeddable": true, "live": false},
-  {"id": "ladiaria", "name": "la diaria", "category": "news", "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A", "youtubeVideoId": "_uvZGCV_1io", "embeddable": true, "live": false, "wikidata": "Q1292957"},
-  {"id": "elpaisuy", "name": "El País Uruguay", "category": "news", "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg", "youtubeVideoId": "zkOpHKMFG-E", "embeddable": true, "live": false},
+  {"id": "elobservadoruy", "name": "El Observador", "category": "news", "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ", "youtubeVideoId": "Lfyg30Izrac", "embeddable": true, "live": true, "liveSince": "2026-11-19T11:58:28Z"},
+  {"id": "ladiaria", "name": "la diaria", "category": "news", "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A", "youtubeVideoId": "N-Ysop3HvUU", "embeddable": true, "live": true, "liveSince": "2026-11-19T09:42:47Z", "wikidata": "Q1292957"},
+  {"id": "elpaisuy", "name": "El País Uruguay", "category": "news", "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg", "youtubeVideoId": "NweKxlfmWT0", "embeddable": true, "live": true, "liveSince": "2026-11-19T12:59:48Z"},
   {"id": "tnu", "name": "Canal 5 (TNU)", "category": "broadcast", "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA", "youtubeVideoId": "_JguU8eTEPQ", "embeddable": true, "live": false, "wikidata": "Q1775667"},
   {"id": "canal10", "name": "Canal 10", "category": "broadcast", "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q", "youtubeVideoId": "THCPudRfDo4", "embeddable": true, "live": false, "wikidata": "Q2436756"},
   {"id": "teledoce", "name": "Teledoce", "category": "broadcast", "youtubeChannelId": "UCimPJKAbuM6z6b6DPZz86Mw", "youtubeVideoId": "fDOkPv9zeIE", "embeddable": true, "live": false, "wikidata": "Q3982807"},
   {"id": "vtv", "name": "VTV", "category": "broadcast", "youtubeChannelId": "UCA4VRT895OOPPHq-pc2V2CQ", "live": false},
-  {"id": "tvciudad", "name": "TV Ciudad", "category": "regional", "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA", "youtubeVideoId": "tCK5QIe_kpc", "embeddable": true, "live": false, "wikidata": "Q17630938"},
+  {"id": "tvciudad", "name": "TV Ciudad", "category": "regional", "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA", "youtubeVideoId": "K9z0mBnJ1xY", "embeddable": true, "live": true, "liveSince": "2026-11-19T11:26:07Z", "wikidata": "Q17630938"},
   {"id": "parlamento", "name": "Parlamento del Uruguay", "category": "government", "youtubeChannelId": "UCvy9D0ZwbNmvNfyQUl3RQnQ", "live": false},
-  {"id": "carve", "name": "Carve Deportiva", "category": "sports", "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ", "youtubeVideoId": "eAMXcMgbHFw", "embeddable": true, "live": false, "wikidata": "Q16953379"},
-  {"id": "delsol", "name": "Del Sol FM", "category": "radio", "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA", "youtubeVideoId": "LckiJiahH78", "embeddable": true, "live": false},
-  {"id": "sarandi", "name": "Radio Sarandí", "category": "radio", "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ", "youtubeVideoId": "QGEBOCpJ3Zk", "embeddable": true, "live": false},
-  {"id": "universal", "name": "970 Universal", "category": "radio", "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg", "youtubeVideoId": "Z5buT_ctW-o", "embeddable": true, "live": true, "liveSince": "2026-11-19T03:07:09Z", "languages": ["es"]}
+  {"id": "carve", "name": "Carve Deportiva", "category": "sports", "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ", "youtubeVideoId": "IplxphBzhf0", "embeddable": true, "live": true, "liveSince": "2026-11-19T09:59:37Z", "wikidata": "Q16953379"},
+  {"id": "delsol", "name": "Del Sol FM", "category": "radio", "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA", "youtubeVideoId": "guzjec31wu4", "embeddable": true, "live": true, "liveSince": "2026-11-19T11:09:53Z"},
+  {"id": "sarandi", "name": "Radio Sarandí", "category": "radio", "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ", "youtubeVideoId": "fRyaf-IVQIQ", "embeddable": true, "live": true, "liveSince": "2026-11-19T08:21:47Z"},
+  {"id": "universal", "name": "970 Universal", "category": "radio", "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg", "youtubeVideoId": "wUy4a0emaa8", "embeddable": true, "live": true, "liveSince": "2026-11-19T11:57:49Z", "languages": ["es"]}
  ]
 }

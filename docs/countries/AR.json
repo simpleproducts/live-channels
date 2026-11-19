@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026111903,
+ "version": 2026111913,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -9,9 +9,9 @@
   "ar.a24",
   "ar.cronica",
   "ar.canalrural",
-  "ar.tvpublica",
-  "ar.america",
-  "ar.canal10cba"
+  "ar.canal26",
+  "ar.infobae",
+  "ar.tvpublica"
  ],
  "channels": [
   {
@@ -120,9 +120,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrpMfcQNog595v5gAS-oUsQ",
-   "youtubeVideoId": "ZaG5-APOeIM",
+   "youtubeVideoId": "_YxIXvfNRNQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q389108",
    "description": {
     "en": "Argentine news television channel",
@@ -195,9 +195,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "wu9TTT9-7To",
+   "youtubeVideoId": "u6jruiSWrOE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -230,7 +230,7 @@
    "youtubeChannelId": "UCHc3el42hXKKhjs_1vzWk9A",
    "youtubeVideoId": "08B4fgGDfzE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1143518",
    "description": {
     "en": "Argentine television network",
@@ -419,9 +419,9 @@
     "es"
    ],
    "youtubeChannelId": "UCD83EL-fvAhaZ8_fKfefunw",
-   "youtubeVideoId": "tUrc_OU6Fhg",
+   "youtubeVideoId": "Xt4M7WYv-QY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q141979476",
    "description": {
     "en": "Argentine stockbroker",
@@ -506,9 +506,9 @@
     "es"
    ],
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
-   "youtubeVideoId": "JDtu31JGnvg",
+   "youtubeVideoId": "1EDQ9gAKV1k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -553,9 +553,9 @@
     "es"
    ],
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-   "youtubeVideoId": "DQyfJ5OApxM",
+   "youtubeVideoId": "7c9Mg1Ouybw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -832,9 +832,9 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "z6Oo4jhhRyY",
+   "youtubeVideoId": "n-PpnEoGvmU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -850,9 +850,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "Qe9dKqWmLdw",
+   "youtubeVideoId": "lKPfoXXM2lE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -886,9 +886,9 @@
     "es"
    ],
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
-   "youtubeVideoId": "eRPGQDXTShU",
+   "youtubeVideoId": "qcAEuDvvksw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -922,9 +922,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "_wt_3RqieRw",
+   "youtubeVideoId": "dZbm0b75kj4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -966,7 +966,7 @@
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
    "youtubeVideoId": "Vwi66UfdFwI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -982,9 +982,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "atGXQ4h3V54",
+   "youtubeVideoId": "WtiRjzkV3gU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1154,9 +1154,9 @@
     "es"
    ],
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
-   "youtubeVideoId": "jtR6dj-Cr9s",
+   "youtubeVideoId": "p0XlJKOPpv8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1172,9 +1172,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
-   "youtubeVideoId": "Ny9v8MRePYE",
+   "youtubeVideoId": "2NYM5RFO0SQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961729",
    "description": {
     "en": "Public AM radio station in Buenos Aires",
@@ -1196,9 +1196,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "asSiePuqhos",
+   "youtubeVideoId": "w90DC_TQmKs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1232,9 +1232,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
-   "youtubeVideoId": "8UpV40S-smQ",
+   "youtubeVideoId": "O1uV9s1gz2c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5961871",
    "description": {
     "en": "radio station in Argentina",
@@ -1323,9 +1323,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "MFytB7CGej8",
+   "youtubeVideoId": "G3GSCYRuAok",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

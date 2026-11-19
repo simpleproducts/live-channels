@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111903,
+ "version": 2026111913,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
   "mx.nmas",
-  "mx.latinus",
   "mx.heraldo",
+  "mx.aristegui",
   "mx.multimedios",
   "mx.imagenradio",
   "mx.canalonce"
@@ -40,7 +40,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "hYNYdaaSrso",
+   "youtubeVideoId": "Z3dYmxW81gs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -123,7 +123,7 @@
    "youtubeChannelId": "UC-FVhfqCwhzpJ4DTJOMMofA",
    "youtubeVideoId": "VNTQU44hH0I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,7 +139,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "YKbcyFfYjTg",
+   "youtubeVideoId": "rbpcbpwswzI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65047709",
@@ -209,9 +209,9 @@
     "es"
    ],
    "youtubeChannelId": "UCafNntv_qTQB26AvbEQNHPw",
-   "youtubeVideoId": "Ro3Nx8yGxDE",
+   "youtubeVideoId": "W93U3x0wqu0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q61998946",
    "description": {
     "en": "Mexico online newspaper",
@@ -311,7 +311,7 @@
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
    "youtubeVideoId": "RAmgwU6O5P0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -334,9 +334,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "frkp5IJjJvU",
+   "youtubeVideoId": "rwtg3_570p4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -468,7 +468,7 @@
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
    "youtubeVideoId": "-fbvPbsNOCI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -490,7 +490,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "wprH1BZuXl8",
+   "youtubeVideoId": "W5P89O6Ppo8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -515,7 +515,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "RPd5osZtiyw",
+   "youtubeVideoId": "kprGsrmV5BM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -551,9 +551,9 @@
     "es"
    ],
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
-   "youtubeVideoId": "HstX8hWYAxM",
+   "youtubeVideoId": "ys9XEAEkDbA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -569,9 +569,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "ld6yowbLJjQ",
+   "youtubeVideoId": "XOlXBNVWJjU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
