@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026111821,
+ "version": 2026111903,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
   "mx.nmas",
+  "mx.latinus",
   "mx.heraldo",
   "mx.multimedios",
   "mx.imagenradio",
-  "mx.canalonce",
-  "mx.imagentv"
+  "mx.canalonce"
  ],
  "channels": [
   {
@@ -40,7 +40,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "oRXaN8VPaio",
+   "youtubeVideoId": "hYNYdaaSrso",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -121,9 +121,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-FVhfqCwhzpJ4DTJOMMofA",
-   "youtubeVideoId": "nNK9_p4NtfE",
+   "youtubeVideoId": "VNTQU44hH0I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,7 +139,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "95Iz9Gp9Ix4",
+   "youtubeVideoId": "YKbcyFfYjTg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65047709",
@@ -309,9 +309,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
-   "youtubeVideoId": "wplUpREPfmU",
+   "youtubeVideoId": "RAmgwU6O5P0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -336,7 +336,7 @@
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
    "youtubeVideoId": "frkp5IJjJvU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -466,9 +466,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "oBDfXCjRDsI",
+   "youtubeVideoId": "-fbvPbsNOCI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -490,7 +490,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "eBR_0wGwvyY",
+   "youtubeVideoId": "wprH1BZuXl8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -515,7 +515,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "rudHLGNySgo",
+   "youtubeVideoId": "RPd5osZtiyw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -553,7 +553,7 @@
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
    "youtubeVideoId": "HstX8hWYAxM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

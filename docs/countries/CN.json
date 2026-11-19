@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026111814,
+ "version": 2026111903,
  "defaultTiles": [
-  "cn.cgtneurope",
   "cn.cgtnfr"
  ],
  "channels": [
@@ -63,7 +62,7 @@
    "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
    "youtubeVideoId": "fM5AxEuNnTQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q97238770",
    "description": {
     "en": "television news channel",

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026111821,
+ "version": 2026111903,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
   "jp.weathernews",
+  "jp.abemanews",
   "jp.nhkworld",
   "jp.mbs",
-  "jp.satv",
-  "jp.ytv"
+  "jp.satv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "eBtqJtfumf8",
+   "youtubeVideoId": "qVzBuFMrW7U",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "ignRizLhly8",
+   "youtubeVideoId": "plI1fwvrHQY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "9WpJdjaB3Jc",
+   "youtubeVideoId": "73na7Ut7TAU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "hyYRxTGICv4",
+   "youtubeVideoId": "V6vHPctaK_E",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -274,9 +274,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCk5a240pQsTVT9CWPnTyIJw",
-   "youtubeVideoId": "jI_cDnVXQrQ",
+   "youtubeVideoId": "acfoiXOgXUI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28688104",
    "description": {
     "zh-Hans": "AbemaNews股份有限公司 是Cyber Agent和朝日電視台共同出資設立的網路新聞頻道，以及新聞節目的製作企業。ABEMA新闻频道 在2016年4月11日正式開播。",
@@ -392,9 +392,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
-   "youtubeVideoId": "kzek5RmQSN4",
+   "youtubeVideoId": "3L-_z3335is",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11222889",
    "description": {
     "ja": "北海道テレビ放送（HTB）で放送されているニュース番組",

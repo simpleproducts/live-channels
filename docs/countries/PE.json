@@ -1,16 +1,14 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026111821,
+ "version": 2026111903,
  "defaultTiles": [
   "pe.latina",
   "pe.pbo",
   "pe.rpp",
   "pe.willax",
-  "pe.tvperunoticias",
-  "pe.atv",
   "pe.congreso",
-  "pe.exitosa"
+  "pe.panamericana"
  ],
  "channels": [
   {
@@ -21,7 +19,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "cId0-g65YLw",
+   "youtubeVideoId": "kzYfvtZNxVs",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -72,7 +70,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "KaPq_RYf__U",
+   "youtubeVideoId": "KHr0Ep3yQT8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -120,7 +118,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "fMfb5QZ4slA",
+   "youtubeVideoId": "3jvu19m_kPw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -148,7 +146,7 @@
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
    "youtubeVideoId": "8U4jNXaZJZ0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -172,7 +170,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "hzm0hB5u-FU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -327,9 +325,9 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "U6givFdrZmA",
+   "youtubeVideoId": "o8YZsXSiee8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -466,7 +464,7 @@
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
    "youtubeVideoId": "zyvvI6lfICc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",

@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026111821,
+ "version": 2026111903,
  "defaultTiles": [
   "au.abcnews",
+  "au.newscomau",
   "au.aph"
  ],
  "channels": [
@@ -94,9 +95,9 @@
     "en"
    ],
    "youtubeChannelId": "UCtWWry0cgjWi9C0Ye9sh6og",
-   "youtubeVideoId": "VhggRPJ0y1Q",
+   "youtubeVideoId": "mN3_5GQTuqQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16903296",
    "description": {
     "en": "Australian online newspaper",
@@ -128,7 +129,7 @@
     "en"
    ],
    "youtubeChannelId": "UCzx6ti0rql6Q2Dc2zSAPmuA",
-   "youtubeVideoId": "eQBmQvzvpTU",
+   "youtubeVideoId": "IaP8r9oimKE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q382118",

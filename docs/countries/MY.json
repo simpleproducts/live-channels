@@ -1,9 +1,15 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026111821,
+ "version": 2026111903,
  "defaultTiles": [
-  "my.awani"
+  "my.awani",
+  "my.beritartm",
+  "my.buletintv3",
+  "my.sinarharian",
+  "my.kinitv",
+  "my.beritaharian",
+  "my.parlimen"
  ],
  "channels": [
   {
@@ -48,9 +54,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCjUxj4cyy_F0tVCT8WfmdZQ",
-   "youtubeVideoId": "KLa3JeXONak",
+   "youtubeVideoId": "mVboHERRZRQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q96679596",
    "description": {
     "en": "Malaysian government television news network",
@@ -78,9 +84,9 @@
     "ms"
    ],
    "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA",
-   "youtubeVideoId": "pM-uAh4QfUA",
+   "youtubeVideoId": "-QEaElJeod0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1087303",
    "description": {
     "en": "Malaysian private television station",
@@ -128,9 +134,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg",
-   "youtubeVideoId": "lDz3j9bGCAo",
+   "youtubeVideoId": "2u0296dxdc8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7521805",
    "description": {
     "en": "Malay language newspaper published in Shah Alam, Selangor, Malaysia",
@@ -162,9 +168,9 @@
     "ta"
    ],
    "youtubeChannelId": "UC9ULnkwvyofZ_sWrzRpyvrg",
-   "youtubeVideoId": "CM6bW4ZeQOE",
+   "youtubeVideoId": "r1p12CYX4mU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4918709",
    "description": {
     "en": "online news portal published in English, Malay, Chinese and Tamil",
@@ -196,9 +202,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCoV8oT-GyqYSJkxzuAKG3Jw",
-   "youtubeVideoId": "y3rW73UHJdQ",
+   "youtubeVideoId": "o9VwYBnCGso",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2211269",
    "description": {
     "en": "Malaysian newspaper",
@@ -233,9 +239,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCu2I5HXcZudP59E5Ld10K_g",
-   "youtubeVideoId": "TUi3EEtuVe8",
+   "youtubeVideoId": "GljiZdFpyFQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2986392",
    "description": {
     "en": "Bicameral legislature of Malaysia",
