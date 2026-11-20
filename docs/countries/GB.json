@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112003,
+ "version": 2026112011,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.independent",
-  "gb.mirror",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -429,7 +427,7 @@
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
    "youtubeVideoId": "WlNKLf3R6DM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -485,7 +483,7 @@
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
    "youtubeVideoId": "aSJKRoWiExI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

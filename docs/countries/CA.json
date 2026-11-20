@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026112003,
+ "version": 2026112011,
  "defaultTiles": [
-  "ca.cbcnews",
-  "ca.globalnews",
-  "ca.thenational"
+  "ca.cbcnews"
  ],
  "channels": [
   {
@@ -97,7 +95,7 @@
    "youtubeChannelId": "UChLtXXpo4Ge1ReTEboVvTDg",
    "youtubeVideoId": "zDJKLFcAV7s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5570514",
    "description": {
     "en": "Canadian news network, division of Global Television Network",
@@ -190,7 +188,7 @@
    "youtubeChannelId": "UCKjU3KzdbJE1EFcHVqXC3_g",
    "youtubeVideoId": "m7l9NZhIytw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2413021",
    "description": {
     "en": "flagship daily evening television news program of CBC News",

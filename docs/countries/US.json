@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112003,
+ "version": 2026112011,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.livenow",
   "us.newsmax",
   "us.foxweather",
+  "us.pbsnewshour",
   "us.cbsnews",
   "us.nbcnews",
-  "us.nmasunivision",
-  "us.telemundo"
+  "us.nmasunivision"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "Qj_oQ0yQAME",
+   "youtubeVideoId": "MZHbOOW--cI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -429,9 +429,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "rKmd434CZPM",
+   "youtubeVideoId": "v0-JdZfzsnI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",

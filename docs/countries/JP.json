@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026112003,
+ "version": 2026112011,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
   "jp.weathernews",
-  "jp.kyodo",
-  "jp.abemanews",
   "jp.nhkworld",
-  "jp.mbs"
+  "jp.mbs",
+  "jp.satv",
+  "jp.ytv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "0wxFzj28sUE",
+   "youtubeVideoId": "mNAwEiD7lUI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "CA1iStaEqx0",
+   "youtubeVideoId": "Okmn-Zk1gpI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "pnH_JuTyZkI",
+   "youtubeVideoId": "_DDGHHWSciA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "2TSUO04uVkY",
+   "youtubeVideoId": "0oxo-44lVZA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -224,7 +224,7 @@
    "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
    "youtubeVideoId": "GG5nSpFQKoQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q779730",
    "description": {
     "en": "news agency",
@@ -276,7 +276,7 @@
    "youtubeChannelId": "UCk5a240pQsTVT9CWPnTyIJw",
    "youtubeVideoId": "hlSIr3ypUT8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28688104",
    "description": {
     "zh-Hans": "AbemaNews股份有限公司 是Cyber Agent和朝日電視台共同出資設立的網路新聞頻道，以及新聞節目的製作企業。ABEMA新闻频道 在2016年4月11日正式開播。",
@@ -394,7 +394,7 @@
    "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
    "youtubeVideoId": "dLSiNVSdabo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11222889",
    "description": {
     "ja": "北海道テレビ放送（HTB）で放送されているニュース番組",

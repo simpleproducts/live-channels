@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112003,
+ "version": 2026112011,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
-  "mx.nmas",
-  "mx.latinus",
-  "mx.heraldo",
   "mx.multimedios",
   "mx.canalonce",
-  "mx.imagenradio"
+  "mx.imagenradio",
+  "mx.imagentv",
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -42,7 +41,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "5HeVyYfQ1RM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -123,7 +122,7 @@
    "youtubeChannelId": "UC-FVhfqCwhzpJ4DTJOMMofA",
    "youtubeVideoId": "Rt3_2a5-cuQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -141,7 +140,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "Jn0UXza4HFI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -311,7 +310,7 @@
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
    "youtubeVideoId": "xIoQKwMCAd8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -334,9 +333,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "NInmLbdVfC0",
+   "youtubeVideoId": "sLyiG-8IAPI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -468,7 +467,7 @@
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
    "youtubeVideoId": "6utw3rp_TSY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -490,7 +489,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "tn2I10MTJsI",
+   "youtubeVideoId": "WP5DlyksTWA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -517,7 +516,7 @@
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
    "youtubeVideoId": "ozO6nNeMnlE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

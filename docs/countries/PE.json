@@ -1,12 +1,14 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026112003,
+ "version": 2026112011,
  "defaultTiles": [
   "pe.latina",
   "pe.pbo",
   "pe.rpp",
   "pe.willax",
+  "pe.tvperunoticias",
+  "pe.atv",
   "pe.congreso",
   "pe.panamericana",
   "pe.exitosa"
@@ -20,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "O8BlfSU9VJc",
+   "youtubeVideoId": "aMnRMDoIscc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -71,7 +73,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "_aZFBaxhycY",
+   "youtubeVideoId": "oqqKig6YdM8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -119,7 +121,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "YGZlCEYMg10",
+   "youtubeVideoId": "Oa0qlnkPR7k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -145,9 +147,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "cWOfd0hJlm8",
+   "youtubeVideoId": "HBE8FwX7FvE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -169,9 +171,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "4ExytDqm7nY",
+   "youtubeVideoId": "21V_VzL4fnM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -326,7 +328,7 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "jLTqU-Gv8IE",
+   "youtubeVideoId": "w1D3Vt-jClM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q586523",
@@ -463,7 +465,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "BgNnTtNneyE",
+   "youtubeVideoId": "8pbJDlBTjWI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -487,9 +489,9 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "lTOPczdKbJs",
+   "youtubeVideoId": "oh-PueECc0M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6096493",
    "description": {
     "en": "radio station",
