@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026112011,
+ "version": 2026112020,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
@@ -96,7 +96,7 @@
     "en"
    ],
    "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g",
-   "youtubeVideoId": "BqgKd0pUYfE",
+   "youtubeVideoId": "oVuPrLln0UY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q979027",

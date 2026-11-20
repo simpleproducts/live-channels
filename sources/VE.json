@@ -4,11 +4,11 @@
  "defaultTiles": ["vpitv", "unionradio"],
  "channels": [
   {"id": "vpitv", "name": "VPItv", "category": "news", "youtubeChannelId": "UCVFiIRuxJ2GmJLUkHmlmj4w", "youtubeVideoId": "_bD3tBCrZuM", "embeddable": true, "live": true, "liveSince": "2026-11-20T11:48:20Z"},
-  {"id": "evtv", "name": "EVTV", "category": "news", "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g", "youtubeVideoId": "0J-uh6e0aPc", "embeddable": true, "live": false, "languages": ["es"]},
+  {"id": "evtv", "name": "EVTV", "category": "news", "youtubeChannelId": "UCshe7-1A5MN_ArHsG_3V41g", "youtubeVideoId": "3QbAmYXD1fY", "embeddable": true, "live": true, "liveSince": "2026-11-20T20:13:57Z", "languages": ["es"]},
   {"id": "elpitazo", "name": "El Pitazo", "category": "news", "youtubeChannelId": "UCehmligXGWQbJGQF12cK9UA", "youtubeVideoId": "-ZZa0mO1eJY", "embeddable": true, "live": false},
-  {"id": "noticiasvenevision", "name": "Noticias Venevisión", "category": "news", "youtubeChannelId": "UCR1tLg8fy9dklmhZPf0qCWQ", "youtubeVideoId": "kL3bUNW5wJo", "embeddable": true, "live": true, "liveSince": "2026-11-20T10:00:23Z", "languages": ["es"]},
+  {"id": "noticiasvenevision", "name": "Noticias Venevisión", "category": "news", "youtubeChannelId": "UCR1tLg8fy9dklmhZPf0qCWQ", "youtubeVideoId": "kL3bUNW5wJo", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "telesurenglish", "name": "teleSUR English", "category": "news", "youtubeChannelId": "UCmuTmpLY35O3csvhyA6vrkg", "youtubeVideoId": "bp3Rg7kkBKw", "embeddable": true, "live": true, "liveSince": "2026-11-13T00:18:30Z", "languages": ["en"]},
   {"id": "vtv", "name": "VTV", "category": "broadcast", "youtubeChannelId": "UC_8sCVycu3FXidPNoZwOHqA", "youtubeVideoId": "N8Fv_ak2rxs", "embeddable": true, "live": true, "liveSince": "2026-11-09T23:55:36Z", "languages": ["es"]},
-  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "KdIKpSD0kr8", "embeddable": true, "live": true, "liveSince": "2026-11-20T10:26:18Z", "wikidata": "Q5770016"}
+  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "VRHuIYVGfJ0", "embeddable": true, "live": true, "liveSince": "2026-11-20T20:17:35Z", "wikidata": "Q5770016"}
  ]
 }

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026112011,
+ "version": 2026112020,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -195,7 +195,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "lkin3JNiZeY",
+   "youtubeVideoId": "3mkmi2xMyh0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5915760",
@@ -508,7 +508,7 @@
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
    "youtubeVideoId": "8RY1VRG3Ibo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -555,7 +555,7 @@
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
    "youtubeVideoId": "U53-TMYUSik",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -832,7 +832,7 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "6y7n9Zl7bfI",
+   "youtubeVideoId": "MS7K88EWkpU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -850,7 +850,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "HzQIwCdVfts",
+   "youtubeVideoId": "TDC8gaJ4b-o",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -904,9 +904,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
-   "youtubeVideoId": "ozVetj8h4qA",
+   "youtubeVideoId": "c_SOt52c-_k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -922,7 +922,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "mFEJmEyhK38",
+   "youtubeVideoId": "pk8hxnJTnpk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q42912634",
@@ -964,9 +964,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "WBDcxwd3SU4",
+   "youtubeVideoId": "kqMJ_H9nbOg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -982,9 +982,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "7xeaeKktlfw",
+   "youtubeVideoId": "A_DI8aOzcUg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1000,9 +1000,9 @@
     "es"
    ],
    "youtubeChannelId": "UCmk9kjghfkM3k8I6jioDr3g",
-   "youtubeVideoId": "h6fwJVA_vi4",
+   "youtubeVideoId": "z9INcCZ8BmE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1174,7 +1174,7 @@
    "youtubeChannelId": "UCgcUYL6ODQniPuwD4N-Tlvg",
    "youtubeVideoId": "OX1CnvHV3Kw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5961729",
    "description": {
     "en": "Public AM radio station in Buenos Aires",
@@ -1196,7 +1196,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "1F-fVTSl08Y",
+   "youtubeVideoId": "Mn4kGC9iojc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1234,7 +1234,7 @@
    "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
    "youtubeVideoId": "jPWvg-rNpP8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5961871",
    "description": {
     "en": "radio station in Argentina",
@@ -1323,7 +1323,7 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "BMpqZu4Yy2Y",
+   "youtubeVideoId": "yQqJc9LpWwc",
    "embeddable": true,
    "live": true,
    "wikidata": null,

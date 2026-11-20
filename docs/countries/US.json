@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112011,
+ "version": 2026112020,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
-  "us.livenow",
   "us.newsmax",
   "us.foxweather",
-  "us.pbsnewshour",
   "us.cbsnews",
   "us.nbcnews",
-  "us.nmasunivision"
+  "us.livenow",
+  "us.pbsnewshour",
+  "us.ap"
  ],
  "channels": [
   {
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "-XgqNLGYxHU",
+   "youtubeVideoId": "bPYHE3vcFvM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "CiursXbr7kk",
+   "youtubeVideoId": "YhYAt1Hxe1U",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -429,7 +429,7 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "v0-JdZfzsnI",
+   "youtubeVideoId": "2qVuRMqRBIs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7118447",
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "-TiyiVY2wPQ",
+   "youtubeVideoId": "95ZI-b6FsVc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "1z_CSIkNGzQ",
+   "youtubeVideoId": "2vAGXxaxg0c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

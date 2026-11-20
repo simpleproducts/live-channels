@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112011,
+ "version": 2026112020,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
+  "gb.reuters",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -169,9 +170,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "IfdRuGeurEw",
+   "youtubeVideoId": "lQOlQH6nsys",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",

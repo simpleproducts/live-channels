@@ -4,7 +4,7 @@
  "defaultTiles": [],
  "channels": [
   {"id": "cgtn", "name": "CGTN", "category": "news", "youtubeChannelId": "UCgrNz-aDmcr2uuto8_DL2jg", "youtubeVideoId": "Ju4yz5nHB5A", "embeddable": true, "live": false, "languages": ["en"]},
-  {"id": "cgtneurope", "name": "CGTN Europe", "category": "news", "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg", "youtubeVideoId": "ztVEjcv_LVY", "embeddable": true, "live": true, "liveSince": "2026-11-20T10:50:02Z", "languages": ["en"]},
+  {"id": "cgtneurope", "name": "CGTN Europe", "category": "news", "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg", "youtubeVideoId": "XZgRCLLRLh8", "embeddable": true, "live": true, "liveSince": "2026-11-20T17:34:19Z", "languages": ["en"]},
   {"id": "cgtnes", "name": "CGTN Español", "category": "news", "youtubeChannelId": "UCd94YCD7yp6d-YZSRYWyeFA", "youtubeVideoId": "0t5RT9FYCF8", "embeddable": true, "live": false, "languages": ["es"], "wikidata": "Q1442139"},
   {"id": "cgtnfr", "name": "CGTN Français", "category": "news", "youtubeChannelId": "UCcfLuU0NFT0ZRoQy4jk6GdA", "youtubeVideoId": "oPLa1msqG7E", "embeddable": true, "live": true, "liveSince": "2026-09-23T07:31:31Z", "languages": ["fr"]},
   {"id": "cgtnru", "name": "CGTN на русском", "category": "news", "youtubeChannelId": "UCA2WHG4EpVqul3TYjAF0k2A", "youtubeVideoId": "6_VNfC3cvzQ", "embeddable": true, "live": false, "languages": ["ru"]},

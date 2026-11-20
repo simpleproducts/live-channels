@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026112011,
+ "version": 2026112020,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "tAz_eB-U_D0",
+   "youtubeVideoId": "VNxPNlo-9qo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -264,7 +264,7 @@
    "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw",
    "youtubeVideoId": "EBTFHTxnOvI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -368,7 +368,7 @@
    "youtubeChannelId": "UC6kZpTl39-_SqfBrF1-N2oQ",
    "youtubeVideoId": "bLg89ute0zQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -474,7 +474,7 @@
     "ko"
    ],
    "youtubeChannelId": "UC1ifSsWUG241rRfK0ezYCgA",
-   "youtubeVideoId": "k0XGGJ4mYbs",
+   "youtubeVideoId": "b0bsz23Or84",
    "embeddable": true,
    "live": true,
    "wikidata": null,
