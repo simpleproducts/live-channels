@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026111921,
+ "version": 2026112003,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
+  "co.canal1",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio",
-  "co.caracolradio"
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -128,9 +128,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
-   "youtubeVideoId": "XhrxCa_tvQ8",
+   "youtubeVideoId": "ZkhIAAR5oh4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -263,9 +263,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwZjVanaSg019RVQea9V1kw",
-   "youtubeVideoId": "-kwB3oviFck",
+   "youtubeVideoId": "GMxHJ0Tg4OU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2753712",
    "description": {
     "en": "Colombian TV channel",
@@ -459,7 +459,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "qo3BPfZ6vZI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -488,7 +488,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "L1b28XN8Sf4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -511,9 +511,9 @@
     "es"
    ],
    "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A",
-   "youtubeVideoId": "lNC3o6GiOw4",
+   "youtubeVideoId": "81Kznd7wUi8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5843056",
    "description": {
     "en": "public radio network in Columbia",
@@ -556,7 +556,7 @@
    "youtubeChannelId": "UCAq08FPNKlO0KQWJxugd2Ag",
    "youtubeVideoId": "Ar0xMMZUZRU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -574,7 +574,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "V5NoNxLX6yk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

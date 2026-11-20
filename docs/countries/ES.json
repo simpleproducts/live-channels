@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026111921,
+ "version": 2026112003,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
-  "es.elpais",
-  "es.elmundo",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.rtvcanarias"
+  "es.rtvcanarias",
+  "es.ser",
+  "es.tvg"
  ],
  "channels": [
   {
@@ -99,7 +99,7 @@
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
    "youtubeVideoId": "Y5eONIaptic",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -171,7 +171,7 @@
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
    "youtubeVideoId": "0_05KxYGqEI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -397,7 +397,7 @@
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
    "youtubeVideoId": "UqqGkMXn5L0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -638,7 +638,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "IDBIzguxyPA",
+   "youtubeVideoId": "BbFjb34bDeM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1025113",
@@ -685,7 +685,7 @@
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
    "youtubeVideoId": "8WZxLDYCTv0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -718,7 +718,7 @@
    "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ",
    "youtubeVideoId": "1tiqNtuoRqs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2748488",
    "description": {
     "en": "the Spanish private national radio of the Spanish Catholic Church",
@@ -751,7 +751,7 @@
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
    "youtubeVideoId": "e7193gB3vlU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

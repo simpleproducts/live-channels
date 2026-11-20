@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026111921,
+ "version": 2026112003,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.foxweather",
   "us.cbsnews",
   "us.nbcnews",
-  "us.scripps",
-  "us.newsnation"
+  "us.nmasunivision",
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "YwMKWQd1W7Y",
+   "youtubeVideoId": "-XgqNLGYxHU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "AowNYm8dxFA",
+   "youtubeVideoId": "Qj_oQ0yQAME",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "WdBx62yXUNE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -475,7 +475,7 @@
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
    "youtubeVideoId": "EYbhxKMVoYQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

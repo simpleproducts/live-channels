@@ -1,10 +1,12 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026111913,
+ "version": 2026112003,
  "defaultTiles": [
   "my.awani",
-  "my.beritartm"
+  "my.beritartm",
+  "my.sinarharian",
+  "my.kinitv"
  ],
  "channels": [
   {
@@ -129,9 +131,9 @@
     "ms"
    ],
    "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg",
-   "youtubeVideoId": "2u0296dxdc8",
+   "youtubeVideoId": "oVfkye557f4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7521805",
    "description": {
     "en": "Malay language newspaper published in Shah Alam, Selangor, Malaysia",
@@ -163,9 +165,9 @@
     "ta"
    ],
    "youtubeChannelId": "UC9ULnkwvyofZ_sWrzRpyvrg",
-   "youtubeVideoId": "r1p12CYX4mU",
+   "youtubeVideoId": "G-aP7IuBy8g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4918709",
    "description": {
     "en": "online news portal published in English, Malay, Chinese and Tamil",

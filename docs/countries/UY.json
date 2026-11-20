@@ -1,14 +1,9 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026111921,
+ "version": 2026112003,
  "defaultTiles": [
-  "uy.elobservadoruy",
-  "uy.ladiaria",
   "uy.carve",
-  "uy.delsol",
-  "uy.sarandi",
-  "uy.tvciudad",
   "uy.universal"
  ],
  "channels": [
@@ -22,7 +17,7 @@
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
    "youtubeVideoId": "AIQVnikKn7A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -56,7 +51,7 @@
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
    "youtubeVideoId": "N-Ysop3HvUU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -231,7 +226,7 @@
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
    "youtubeVideoId": "7fICdxSdKLw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -303,7 +298,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "9nomNjC5WHg",
+   "youtubeVideoId": "EpaGnRHmDBM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -330,7 +325,7 @@
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
    "youtubeVideoId": "fVXwrj6aDjs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -348,7 +343,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "fRyaf-IVQIQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,7 +359,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "sz1KNU_Hw3o",
+   "youtubeVideoId": "4O37sfbmyiU",
    "embeddable": true,
    "live": true,
    "wikidata": null,

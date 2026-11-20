@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026111921,
+ "version": 2026112003,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
   "jp.weathernews",
+  "jp.kyodo",
+  "jp.abemanews",
   "jp.nhkworld",
-  "jp.mbs",
-  "jp.satv",
-  "jp.ytv"
+  "jp.mbs"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "f4Nz59C9n-A",
+   "youtubeVideoId": "0wxFzj28sUE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "Q58845BIa8U",
+   "youtubeVideoId": "CA1iStaEqx0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "C2Hid9C5ZnU",
+   "youtubeVideoId": "pnH_JuTyZkI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "ncoBtasb5b4",
+   "youtubeVideoId": "2TSUO04uVkY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -222,9 +222,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
-   "youtubeVideoId": "rLmi5t60BXM",
+   "youtubeVideoId": "GG5nSpFQKoQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q779730",
    "description": {
     "en": "news agency",
@@ -274,9 +274,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCk5a240pQsTVT9CWPnTyIJw",
-   "youtubeVideoId": "acfoiXOgXUI",
+   "youtubeVideoId": "hlSIr3ypUT8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28688104",
    "description": {
     "zh-Hans": "AbemaNews股份有限公司 是Cyber Agent和朝日電視台共同出資設立的網路新聞頻道，以及新聞節目的製作企業。ABEMA新闻频道 在2016年4月11日正式開播。",
@@ -392,9 +392,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
-   "youtubeVideoId": "3L-_z3335is",
+   "youtubeVideoId": "dLSiNVSdabo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11222889",
    "description": {
     "ja": "北海道テレビ放送（HTB）で放送されているニュース番組",
