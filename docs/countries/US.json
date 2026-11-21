@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112020,
+ "version": 2026112102,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.cbsnews",
   "us.nbcnews",
   "us.livenow",
-  "us.pbsnewshour",
-  "us.ap"
+  "us.nmasunivision",
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "MZHbOOW--cI",
+   "youtubeVideoId": "pJZBppLlwJo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "2qVuRMqRBIs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "95ZI-b6FsVc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -765,7 +765,7 @@
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
    "youtubeVideoId": "2vAGXxaxg0c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

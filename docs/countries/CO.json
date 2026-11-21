@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026112020,
+ "version": 2026112102,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
   "co.canal1",
+  "co.noticiasuno",
   "co.caracoltv",
   "co.citytv",
-  "co.rcnradio",
-  "co.bluradio"
+  "co.rcnradio"
  ],
  "channels": [
   {
@@ -128,7 +128,7 @@
     "es"
    ],
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
-   "youtubeVideoId": "_pnLtep0nIg",
+   "youtubeVideoId": "s3bu_fe1Zi4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -182,9 +182,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3NUgxBBl05tthfGBS6kPkA",
-   "youtubeVideoId": "mKufJI1vMo4",
+   "youtubeVideoId": "icJGW54XrN0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7063021",
    "description": {
     "en": "television series",
@@ -457,7 +457,7 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "PUet1O2LQcg",
+   "youtubeVideoId": "f4a2CkaQvhg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4382447",
@@ -486,7 +486,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "WCCc3RVfRLY",
+   "youtubeVideoId": "YNfP43H4fzQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -511,9 +511,9 @@
     "es"
    ],
    "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A",
-   "youtubeVideoId": "81Kznd7wUi8",
+   "youtubeVideoId": "2RyaETcYc3Y",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5843056",
    "description": {
     "en": "public radio network in Columbia",

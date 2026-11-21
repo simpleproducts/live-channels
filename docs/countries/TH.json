@@ -1,17 +1,10 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112020,
+ "version": 2026112102,
  "defaultTiles": [
   "th.thaipbs",
-  "th.thairath",
-  "th.ch7news",
-  "th.ch3news",
-  "th.tnn",
-  "th.pptv",
-  "th.amarin",
-  "th.nation",
-  "th.workpoint"
+  "th.pptv"
  ],
  "channels": [
   {
@@ -22,9 +15,9 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "DtxP9xzfpEM",
+   "youtubeVideoId": "wR-fX7OPv4o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -144,9 +137,9 @@
     "th"
    ],
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
-   "youtubeVideoId": "dC6OPscjKa0",
+   "youtubeVideoId": "-d8IdPXSwh0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",

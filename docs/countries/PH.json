@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112020,
+ "version": 2026112102,
  "defaultTiles": [
   "ph.untv",
-  "ph.news5",
+  "ph.abscbn",
+  "ph.oneph",
   "ph.dzrh",
+  "ph.house",
   "ph.teleradyo"
  ],
  "channels": [
@@ -18,9 +20,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "r1lr-gjeFak",
+   "youtubeVideoId": "tSscwEVgXA8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -102,9 +104,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "kkVpUPllF_I",
+   "youtubeVideoId": "8JK6bQXbcAE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -129,7 +131,7 @@
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
    "youtubeVideoId": "IfM5ANArDmo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -347,9 +349,9 @@
     "en"
    ],
    "youtubeChannelId": "UCtGmCfZ4O1zrl9c8BEhGvRg",
-   "youtubeVideoId": "gpQxdroP-gk",
+   "youtubeVideoId": "6L6jtRhabZQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q678545",
    "description": {
     "en": "lower house of the Congress of the Philippines",
