@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026112109,
+ "version": 2026112117,
  "defaultTiles": [
-  "za.sabcnews",
   "za.radio702"
  ],
  "channels": [
@@ -17,7 +16,7 @@
    "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
    "youtubeVideoId": "6p6Vhxk44vA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q48767445",
    "description": {
     "en": "news channel owned by the South African Broadcasting Corporation",

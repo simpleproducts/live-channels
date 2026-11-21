@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112109,
+ "version": 2026112117,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -9,9 +9,9 @@
   "us.foxweather",
   "us.nbcnews",
   "us.livenow",
+  "us.usatoday",
   "us.nmasunivision",
-  "us.telemundo",
-  "us.cnnee"
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "YhYAt1Hxe1U",
+   "youtubeVideoId": "9ZvbYvsufDE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -707,9 +707,9 @@
     "en"
    ],
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
-   "youtubeVideoId": "m_aq9fIkIfA",
+   "youtubeVideoId": "GisOcrSvSwo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",

@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112109,
+ "version": 2026112117,
  "defaultTiles": [
-  "th.thaipbs",
-  "th.ch7news"
+  "th.thairath"
  ],
  "channels": [
   {
@@ -17,7 +16,7 @@
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
    "youtubeVideoId": "2MajvIYb5RE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -65,9 +64,9 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "O9fyt10u30U",
+   "youtubeVideoId": "EY2u6bKy0AY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -103,7 +102,7 @@
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
    "youtubeVideoId": "hexaSAW14-U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

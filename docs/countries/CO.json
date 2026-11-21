@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026112109,
+ "version": 2026112117,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -10,7 +10,8 @@
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio"
+  "co.bluradio",
+  "co.olimpica"
  ],
  "channels": [
   {
@@ -428,7 +429,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "PmEfgDI9fuo",
+   "youtubeVideoId": "98hoCyU-wGA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -607,9 +608,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A",
-   "youtubeVideoId": "Je0UXGVXcyQ",
+   "youtubeVideoId": "Dc8wb4Eauxg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
