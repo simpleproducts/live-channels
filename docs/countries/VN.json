@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026112109,
+ "version": 2026112123,
  "defaultTiles": [
-  "vn.antv"
+  "vn.antv",
+  "vn.hanoitv"
  ],
  "channels": [
   {
@@ -155,9 +156,9 @@
     "vi"
    ],
    "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w",
-   "youtubeVideoId": "LW3zJASt5e8",
+   "youtubeVideoId": "0Zvi7-zsbyI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5649326",
    "description": {
     "en": "Vietnamese radio and television network",

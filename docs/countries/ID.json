@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "ID",
- "version": 2026112117,
+ "version": 2026112123,
  "defaultTiles": [
   "id.cnnid",
   "id.metrotv",
-  "id.inews"
+  "id.inews",
+  "id.tvri"
  ],
  "channels": [
   {
@@ -247,9 +248,9 @@
     "id"
    ],
    "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ",
-   "youtubeVideoId": "X1otuHVoxUw",
+   "youtubeVideoId": "GFfzDnFh8jo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1973495",
    "description": {
     "en": "Indonesian public television network",

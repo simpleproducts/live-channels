@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112117,
+ "version": 2026112123,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
@@ -9,8 +9,8 @@
   "mx.multimedios",
   "mx.canalonce",
   "mx.imagenradio",
-  "mx.lasestrellas",
-  "mx.radioformula"
+  "mx.radioformula",
+  "mx.canal22"
  ],
  "channels": [
   {
@@ -387,7 +387,7 @@
    "youtubeChannelId": "UCZGYvP6WnVWGM5F0QEAyoyg",
    "youtubeVideoId": "_8Kz3Hz9Z9c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q80478",
    "description": {
     "en": "Mexican television channel",
@@ -489,7 +489,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "iVMkjlmqPr0",
+   "youtubeVideoId": "0Oqsr6MMnnE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -586,9 +586,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw",
-   "youtubeVideoId": "KhW_omrFdp8",
+   "youtubeVideoId": "6c-NdzEz5Uo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42908534",
    "description": {
     "es": "canal de televisión abierta y pública en México"

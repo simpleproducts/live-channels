@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112117,
+ "version": 2026112123,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
+  "us.nbcnews",
   "us.newsmax",
   "us.foxweather",
-  "us.nbcnews",
   "us.livenow",
-  "us.usatoday",
   "us.nmasunivision",
-  "us.telemundo"
+  "us.telemundo",
+  "us.cnnee"
  ],
  "channels": [
   {
@@ -709,7 +709,7 @@
    "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g",
    "youtubeVideoId": "GisOcrSvSwo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39681",
    "description": {
     "en": "American national daily newspaper",

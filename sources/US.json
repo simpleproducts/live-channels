@@ -20,7 +20,7 @@
   {"id": "foxnews", "name": "Fox News", "category": "news", "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA", "youtubeVideoId": "a9L6kvtRHxA", "embeddable": true, "live": false},
   {"id": "msnow", "name": "MS NOW", "category": "news", "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg", "youtubeVideoId": "mQZmbMSfYB8", "embeddable": true, "live": false},
   {"id": "thehill", "name": "The Hill", "category": "news", "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA", "youtubeVideoId": "QeKwvSdNq9Q", "embeddable": true, "live": false},
-  {"id": "usatoday", "name": "USA TODAY", "category": "news", "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g", "youtubeVideoId": "GisOcrSvSwo", "embeddable": true, "live": true, "liveSince": "2026-11-21T14:34:51Z"},
+  {"id": "usatoday", "name": "USA TODAY", "category": "news", "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g", "youtubeVideoId": "GisOcrSvSwo", "embeddable": true, "live": false},
   {"id": "forbesnews", "name": "Forbes Breaking News", "category": "news", "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg", "youtubeVideoId": "2vAGXxaxg0c", "embeddable": true, "live": false},
   {"id": "bloomberg", "name": "Bloomberg Television", "category": "economy", "youtubeChannelId": "UCIALMKvObZNtJ6AmdCLP7Lg", "youtubeVideoId": "QB5BNdBFujE", "embeddable": true, "live": true, "liveSince": "2026-06-14T10:32:22Z", "wikidata": "Q13975"},
   {"id": "yahoofinance", "name": "Yahoo Finance", "category": "economy", "youtubeChannelId": "UCEAZeUIeJs0IjQiqTCdVSIg", "youtubeVideoId": "KQp-e_XQnDE", "embeddable": true, "live": true, "liveSince": "2024-12-18T17:37:01Z"},
