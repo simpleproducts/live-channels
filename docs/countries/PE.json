@@ -1,16 +1,10 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026112102,
+ "version": 2026112109,
  "defaultTiles": [
   "pe.latina",
-  "pe.pbo",
-  "pe.rpp",
-  "pe.willax",
-  "pe.atv",
   "pe.congreso",
-  "pe.panamericana",
-  "pe.latinatv",
   "pe.exitosa"
  ],
  "channels": [
@@ -24,7 +18,7 @@
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
    "youtubeVideoId": "Cldk238lDmc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -75,7 +69,7 @@
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
    "youtubeVideoId": "d6UZtIaC3Us",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -123,7 +117,7 @@
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
    "youtubeVideoId": "5qEjXTDMjaI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -173,7 +167,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "54wAdtHO008",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -330,7 +324,7 @@
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
    "youtubeVideoId": "EdBswiE5CTc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -392,7 +386,7 @@
    "youtubeChannelId": "UC3rDtLrcgr3JS3_3JOW4BAw",
    "youtubeVideoId": "9SV9bsoE_w0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q967752",
    "description": {
     "en": "Peruvian free-to-air television network",
@@ -465,7 +459,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "SAgxzXjjrZI",
+   "youtubeVideoId": "IRZMaLmXEd0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24035627",
@@ -491,7 +485,7 @@
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
    "youtubeVideoId": "yK6Vgcoj9N8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096493",
    "description": {
     "en": "radio station",

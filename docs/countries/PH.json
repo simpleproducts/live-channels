@@ -1,14 +1,13 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112102,
+ "version": 2026112109,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
-  "ph.oneph",
-  "ph.dzrh",
-  "ph.house",
-  "ph.teleradyo"
+  "ph.gma",
+  "ph.anc",
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -20,7 +19,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "tSscwEVgXA8",
+   "youtubeVideoId": "MrboSo6kE-8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -57,9 +56,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "oxqhiEX7_ag",
+   "youtubeVideoId": "h4zXTWJeym8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -85,9 +84,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "I-yhVenjWKQ",
+   "youtubeVideoId": "6aJ8XzQVITk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -106,7 +105,7 @@
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
    "youtubeVideoId": "8JK6bQXbcAE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -351,7 +350,7 @@
    "youtubeChannelId": "UCtGmCfZ4O1zrl9c8BEhGvRg",
    "youtubeVideoId": "6L6jtRhabZQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q678545",
    "description": {
     "en": "lower house of the Congress of the Philippines",
@@ -425,7 +424,7 @@
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
    "youtubeVideoId": "3tVOqf3cBsY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

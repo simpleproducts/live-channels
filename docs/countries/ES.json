@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026112102,
+ "version": 2026112109,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
-  "es.elpais",
+  "es.europapress",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
@@ -99,7 +99,7 @@
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
    "youtubeVideoId": "kYsjsS5U3uc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -261,9 +261,9 @@
     "es"
    ],
    "youtubeChannelId": "UCh_chnQ7OJPQ8mZ7vbXFpIQ",
-   "youtubeVideoId": "5Iwy5UEBMr0",
+   "youtubeVideoId": "QNpPl0QgZt4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3060712",
    "description": {
     "en": "Spanish news agency",
@@ -683,9 +683,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "WxUPxmjHues",
+   "youtubeVideoId": "kKAZQnACsCQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -749,9 +749,9 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "sa1paXjplnA",
+   "youtubeVideoId": "TNfSId8T9cc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

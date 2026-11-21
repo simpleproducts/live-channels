@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112102,
+ "version": 2026112109,
  "defaultTiles": [
   "th.thaipbs",
-  "th.pptv"
+  "th.ch7news"
  ],
  "channels": [
   {
@@ -15,7 +15,7 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "wR-fX7OPv4o",
+   "youtubeVideoId": "2MajvIYb5RE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2603792",
@@ -101,9 +101,9 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "w10INQhcM5w",
+   "youtubeVideoId": "hexaSAW14-U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,7 +139,7 @@
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
    "youtubeVideoId": "-d8IdPXSwh0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",

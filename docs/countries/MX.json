@@ -1,17 +1,14 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112102,
+ "version": 2026112109,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
-  "mx.nmas",
-  "mx.heraldo",
   "mx.multimedios",
   "mx.canalonce",
-  "mx.imagenradio",
-  "mx.canal14"
+  "mx.imagenradio"
  ],
  "channels": [
   {
@@ -42,7 +39,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "0ShwGHOfHH0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -141,7 +138,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "ezWa9myNzoM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -311,7 +308,7 @@
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
    "youtubeVideoId": "-IeSOCI8p9k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -370,7 +367,7 @@
    "youtubeChannelId": "UCNVrBkfp4_TG9x4h5kvLeAQ",
    "youtubeVideoId": "cycyq5aVdxI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -492,7 +489,7 @@
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
    "youtubeVideoId": "Z5KsfuY6R-o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -517,7 +514,7 @@
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
    "youtubeVideoId": "OomSyUgidmE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -553,7 +550,7 @@
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
    "youtubeVideoId": "gseFW_jcyB0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -589,7 +586,7 @@
    "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw",
    "youtubeVideoId": "KhW_omrFdp8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42908534",
    "description": {
     "es": "canal de televisión abierta y pública en México"
