@@ -3,9 +3,9 @@
  "languages": ["de"],
  "defaultTiles": ["welt", "phoenix", "dwnews", "euronewsde", "dwespanol"],
  "channels": [
-  {"id": "welt", "name": "WELT Nachrichtensender", "category": "news", "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA", "youtubeVideoId": "ilfF7cYZiK8", "embeddable": true, "live": true, "liveSince": "2026-11-22T06:59:20Z"},
-  {"id": "phoenix", "name": "phoenix", "category": "news", "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg", "youtubeVideoId": "XQ7dXs5y9ZU", "embeddable": true, "live": true, "liveSince": "2026-11-22T11:02:20Z"},
-  {"id": "tagesschau", "name": "tagesschau", "category": "news", "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA", "youtubeVideoId": "ulg5gcHDG0A", "embeddable": true, "live": true, "liveSince": "2026-11-22T11:02:54Z", "wikidata": "Q703907"},
+  {"id": "welt", "name": "WELT Nachrichtensender", "category": "news", "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA", "youtubeVideoId": "sQtQdnGSfHA", "embeddable": true, "live": true, "liveSince": "2026-11-22T16:59:09Z"},
+  {"id": "phoenix", "name": "phoenix", "category": "news", "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg", "youtubeVideoId": "XQ7dXs5y9ZU", "embeddable": true, "live": false},
+  {"id": "tagesschau", "name": "tagesschau", "category": "news", "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA", "youtubeVideoId": "ulg5gcHDG0A", "embeddable": true, "live": false, "wikidata": "Q703907"},
   {"id": "zdfheute", "name": "ZDFheute Nachrichten", "category": "news", "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ", "youtubeVideoId": "sejyoCl1S2o", "embeddable": true, "live": false},
   {"id": "bild", "name": "BILD", "category": "news", "youtubeChannelId": "UC4zcMHyrT_xyWlgy5WGpFFQ", "youtubeVideoId": "4Bquj3zYpHQ", "embeddable": true, "live": false},
   {"id": "dwnews", "name": "DW News", "category": "news", "youtubeChannelId": "UCknLrEdhRCp1aegoMqRaCZg", "youtubeVideoId": "LuKwFajn37U", "embeddable": true, "live": true, "liveSince": "2025-03-31T17:50:08Z", "languages": ["en"]},

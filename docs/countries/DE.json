@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026112211,
+ "version": 2026112219,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.phoenix",
-  "de.tagesschau",
   "de.dwnews",
   "de.dwespanol"
  ],
@@ -19,7 +17,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "ilfF7cYZiK8",
+   "youtubeVideoId": "sQtQdnGSfHA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -63,7 +61,7 @@
    "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
    "youtubeVideoId": "XQ7dXs5y9ZU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3381361",
    "description": {
     "en": "television station in Germany",
@@ -98,7 +96,7 @@
    "youtubeChannelId": "UC5NOEUbkLheQcaaRldYW5GA",
    "youtubeVideoId": "ulg5gcHDG0A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q703907",
    "description": {
     "en": "Germany's main daily news report in television",

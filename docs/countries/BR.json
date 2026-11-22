@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026112211,
+ "version": 2026112219,
  "defaultTiles": [
   "br.recordnews",
   "br.jovempan",
   "br.cnnbrasil",
   "br.sbtnews",
+  "br.canalrural",
+  "br.uol",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn",
-  "br.bandnewsfm",
-  "br.itatiaia"
+  "br.cbn"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "kVj3PEECYks",
+   "youtubeVideoId": "GdnZDi_uN3c",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "XmN3ClDzQiI",
+   "youtubeVideoId": "dUdfEov5TSQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -159,9 +159,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
-   "youtubeVideoId": "uoHvUlS1lC0",
+   "youtubeVideoId": "AzhVMiyIl70",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -181,9 +181,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-   "youtubeVideoId": "74DG9zIt6tA",
+   "youtubeVideoId": "Q2_f7JxNnNA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -464,7 +464,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "8MqmeCXes4Q",
+   "youtubeVideoId": "badhTg_klF0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "U6yc6EwFdww",
+   "youtubeVideoId": "uUiqAiaTLME",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,9 +547,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "_E98-5-oTew",
+   "youtubeVideoId": "6nrUMPHsXf8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026112211,
+ "version": 2026112219,
  "defaultTiles": [
   "cl.24horas",
   "cl.chvnoticias",
@@ -11,7 +11,7 @@
   "cl.chilevision",
   "cl.senado",
   "cl.cooperativa",
-  "cl.agricultura"
+  "cl.canal13"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "Kr2AHreYW0s",
+   "youtubeVideoId": "mmTgV_ytVCw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -320,9 +320,9 @@
     "es"
    ],
    "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw",
-   "youtubeVideoId": "vJINiSAIRVk",
+   "youtubeVideoId": "QTA-8O4nq60",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q600805",
    "description": {
     "en": "Chilean media network",
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "OOy-xL7piZg",
+   "youtubeVideoId": "vz098bLlYMg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
