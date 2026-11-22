@@ -17,7 +17,7 @@
   {"id": "pbsnewshour", "name": "PBS NewsHour", "category": "news", "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ", "youtubeVideoId": "2qVuRMqRBIs", "embeddable": true, "live": false},
   {"id": "newsnation", "name": "NewsNation", "category": "news", "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ", "youtubeVideoId": "EYbhxKMVoYQ", "embeddable": true, "live": false},
   {"id": "ap", "name": "Associated Press", "category": "news", "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA", "youtubeVideoId": "95ZI-b6FsVc", "embeddable": true, "live": false},
-  {"id": "foxnews", "name": "Fox News", "category": "news", "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA", "youtubeVideoId": "a9L6kvtRHxA", "embeddable": true, "live": false},
+  {"id": "foxnews", "name": "Fox News", "category": "news", "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA", "youtubeVideoId": "OcgDNwejQk0", "embeddable": true, "live": true, "liveSince": "2026-11-22T03:00:07Z"},
   {"id": "msnow", "name": "MS NOW", "category": "news", "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg", "youtubeVideoId": "mQZmbMSfYB8", "embeddable": true, "live": false},
   {"id": "thehill", "name": "The Hill", "category": "news", "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA", "youtubeVideoId": "QeKwvSdNq9Q", "embeddable": true, "live": false},
   {"id": "usatoday", "name": "USA TODAY", "category": "news", "youtubeChannelId": "UCP6HGa63sBC7-KHtkme-p-g", "youtubeVideoId": "GisOcrSvSwo", "embeddable": true, "live": false},

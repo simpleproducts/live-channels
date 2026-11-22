@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026112123,
+ "version": 2026112203,
  "defaultTiles": [
-  "vn.antv",
-  "vn.hanoitv"
+  "vn.antv"
  ],
  "channels": [
   {
@@ -15,7 +14,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "sfr1tIdak34",
+   "youtubeVideoId": "S891ZdUicfU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -158,7 +157,7 @@
    "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w",
    "youtubeVideoId": "0Zvi7-zsbyI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5649326",
    "description": {
     "en": "Vietnamese radio and television network",

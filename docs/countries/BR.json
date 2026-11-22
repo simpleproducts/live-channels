@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026112123,
+ "version": 2026112203,
  "defaultTiles": [
   "br.recordnews",
   "br.jovempan",
   "br.cnnbrasil",
-  "br.bandjornalismo",
   "br.sbtnews",
-  "br.canalrural",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn"
+  "br.bandnewsfm",
+  "br.itatiaia"
  ],
  "channels": [
   {
@@ -52,7 +51,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "rMKIfOd6HYE",
+   "youtubeVideoId": "PDM7J2jOel0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -118,7 +117,7 @@
    "youtubeChannelId": "UCoa-D_VfMkFrCYodrOC9-mA",
    "youtubeVideoId": "d9FiojCPN8c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q137910166",
    "description": {
     "en": "Official Band Journalism channel with exclusive live streams, full news programs, expert commentary, special reports, and on-demand content from Band TV."
@@ -136,7 +135,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "gCj4t7WvjrQ",
+   "youtubeVideoId": "XmN3ClDzQiI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -161,7 +160,7 @@
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
    "youtubeVideoId": "uoHvUlS1lC0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -466,7 +465,7 @@
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
    "youtubeVideoId": "36ndLTH8N3o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7385857",
    "description": {
     "en": "Brazilian news radio network",
@@ -494,7 +493,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "wnEWvv8B_C4",
+   "youtubeVideoId": "ZX-UsZgC1oQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -549,7 +548,7 @@
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
    "youtubeVideoId": "_E98-5-oTew",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",

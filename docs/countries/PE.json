@@ -1,13 +1,10 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026112123,
+ "version": 2026112203,
  "defaultTiles": [
   "pe.latina",
-  "pe.rpp",
-  "pe.willax",
-  "pe.congreso",
-  "pe.exitosa"
+  "pe.congreso"
  ],
  "channels": [
   {
@@ -71,7 +68,7 @@
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
    "youtubeVideoId": "ynebSos13Kc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -119,7 +116,7 @@
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
    "youtubeVideoId": "PxwCtCR-sok",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -463,7 +460,7 @@
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
    "youtubeVideoId": "hucyqa79V7U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",

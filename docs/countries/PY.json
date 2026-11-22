@@ -1,9 +1,13 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026112123,
+ "version": 2026112203,
  "defaultTiles": [
-  "py.monumental"
+  "py.abctv",
+  "py.telefuturo",
+  "py.npy",
+  "py.ultimahora",
+  "py.gen"
  ],
  "channels": [
   {
@@ -210,7 +214,7 @@
    "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ",
    "youtubeVideoId": "wekkG2HV4-Y",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

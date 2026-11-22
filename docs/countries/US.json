@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112123,
+ "version": 2026112203,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -9,9 +9,9 @@
   "us.newsmax",
   "us.foxweather",
   "us.livenow",
+  "us.foxnews",
   "us.nmasunivision",
-  "us.telemundo",
-  "us.cnnee"
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -547,9 +547,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "a9L6kvtRHxA",
+   "youtubeVideoId": "OcgDNwejQk0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q166419",
    "description": {
     "en": "American commercial broadcast television network",
