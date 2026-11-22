@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112123,
+ "version": 2026112211,
  "defaultTiles": [
   "ph.untv",
+  "ph.gma",
   "ph.dzrh",
   "ph.teleradyo"
  ],
@@ -54,9 +55,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "h4zXTWJeym8",
+   "youtubeVideoId": "4cO2JTrf_-4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -420,7 +421,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "TG2wOxrTJaY",
+   "youtubeVideoId": "Lq2rCrFAogw",
    "embeddable": true,
    "live": true,
    "wikidata": null,

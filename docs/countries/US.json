@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112203,
+ "version": 2026112211,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
   "us.nbcnews",
+  "us.livenow",
   "us.newsmax",
   "us.foxweather",
-  "us.livenow",
   "us.foxnews",
   "us.nmasunivision",
   "us.telemundo"
@@ -547,7 +547,7 @@
     "en"
    ],
    "youtubeChannelId": "UCXIJgqnII2ZOINSWNOGFThA",
-   "youtubeVideoId": "OcgDNwejQk0",
+   "youtubeVideoId": "wcY4K5CNVx4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q166419",

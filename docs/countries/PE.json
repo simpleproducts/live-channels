@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026112203,
+ "version": 2026112211,
  "defaultTiles": [
   "pe.latina",
+  "pe.rpp",
   "pe.congreso"
  ],
  "channels": [
@@ -66,9 +67,9 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "ynebSos13Kc",
+   "youtubeVideoId": "07IvklgZm5g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
