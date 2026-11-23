@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112300,
+ "version": 2026112309,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
+  "ph.oneph",
+  "ph.news5",
   "ph.net25",
   "ph.anc",
   "ph.inquirer",
-  "ph.dzrh",
-  "ph.teleradyo",
-  "ph.loveradio"
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -23,7 +23,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "ghu4Zu84KrM",
+   "youtubeVideoId": "LFBIP4PYdws",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -60,7 +60,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "1qsUefrPfBc",
+   "youtubeVideoId": "5xB_tq5rkcg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -88,7 +88,7 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "v67oDlReP1U",
+   "youtubeVideoId": "7RI8cnpdc2s",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -107,9 +107,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "8JK6bQXbcAE",
+   "youtubeVideoId": "Co1u1-L9xqk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -132,9 +132,9 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "IfM5ANArDmo",
+   "youtubeVideoId": "zGzg0GSNwBE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -174,7 +174,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "wr3QHBfT1WI",
+   "youtubeVideoId": "ZGGI4tOcBBA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -241,7 +241,7 @@
     "en"
    ],
    "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w",
-   "youtubeVideoId": "suqeovMFL-4",
+   "youtubeVideoId": "Qz65KzpQ3Yo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q97657682",
@@ -299,9 +299,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPJWi44tskVVMNyKzYrPoGg",
-   "youtubeVideoId": "Qy-JF1JtggA",
+   "youtubeVideoId": "r2VaCaRT-xI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1418426",
    "description": {
     "en": "upper house of the Congress of the Philippines",
@@ -352,9 +352,9 @@
     "en"
    ],
    "youtubeChannelId": "UCtGmCfZ4O1zrl9c8BEhGvRg",
-   "youtubeVideoId": "6L6jtRhabZQ",
+   "youtubeVideoId": "Hyzz2dhNKVc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q678545",
    "description": {
     "en": "lower house of the Congress of the Philippines",
@@ -426,7 +426,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "vN64BGzqvX8",
+   "youtubeVideoId": "Saat0tkBHtc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -464,7 +464,7 @@
     "en"
    ],
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
-   "youtubeVideoId": "QoJrgOaM-c8",
+   "youtubeVideoId": "4PZqvtSws5s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6691186",

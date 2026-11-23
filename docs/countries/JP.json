@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026112300,
+ "version": 2026112309,
  "defaultTiles": [
-  "jp.ann",
   "jp.fnn",
+  "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
   "jp.weathernews",
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "NxBO2dhwPwU",
+   "youtubeVideoId": "oyzz1QmBQJA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "cJ41P3S7QxM",
+   "youtubeVideoId": "41cn4b4_3Mk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "vWz2qXGWo5w",
+   "youtubeVideoId": "MM4tGXe60Cc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "Z2vOwOPzLMI",
+   "youtubeVideoId": "LaSOVMts5ZM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -541,9 +541,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
-   "youtubeVideoId": "p8vaSmXx5Sc",
+   "youtubeVideoId": "-y35WdC-1mc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -615,7 +615,7 @@
    "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q",
    "youtubeVideoId": "x6DwGvmgZeI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q843448",
    "description": {
     "en": "radio station in Tokyo",

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026112300,
+ "version": 2026112309,
  "defaultTiles": [
   "br.recordnews",
   "br.jovempan",
+  "br.canalrural",
   "br.cnnbrasil",
   "br.sbtnews",
-  "br.canalrural",
   "br.canalgov",
   "br.gaucha",
-  "br.bandnewsfm",
-  "br.itatiaia"
+  "br.redetv",
+  "br.bandnewsfm"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "bykujPwDJ90",
+   "youtubeVideoId": "Tvy5gW6t7G8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "i0yj9XSxq0c",
+   "youtubeVideoId": "okMHkwTFGu0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -318,9 +318,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
-   "youtubeVideoId": "7FSgl9TkkpE",
+   "youtubeVideoId": "68r6cEVTxO8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1090363",
    "description": {
     "en": "Brazilian broadcast television network",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "SjD0r3yjU4Q",
+   "youtubeVideoId": "0VyVojFFDqI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "GaVBXIfHf0g",
+   "youtubeVideoId": "tURIgAZy1dg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "tfXHf7dncf0",
+   "youtubeVideoId": "6wyidxO1vfw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
@@ -592,7 +592,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w",
-   "youtubeVideoId": "_c11bKUeKcI",
+   "youtubeVideoId": "TkL823kTCes",
    "embeddable": true,
    "live": true,
    "wikidata": null,

@@ -19,9 +19,9 @@
   {"id": "telemadrid", "name": "Telemadrid", "category": "regional", "youtubeChannelId": "UCv2BcgqxHSrl2QQfIkjR5Eg", "youtubeVideoId": "h1NzJdYtQNc", "embeddable": true, "live": false},
   {"id": "congreso", "name": "Congreso de los Diputados", "category": "government", "youtubeChannelId": "UCT3tvU3bVxOa3ZiVD-B7h9g", "youtubeVideoId": "tzj4q1Mnfik", "embeddable": true, "live": false},
   {"id": "senado", "name": "Senado de España", "category": "government", "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w", "youtubeVideoId": "AVj5ZIPcoao", "embeddable": true, "live": false},
-  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "t-5vAsyH0IE", "embeddable": true, "live": false, "wikidata": "Q1025113"},
-  {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "mulkbwJjMLg", "embeddable": true, "live": false, "wikidata": "Q2748448"},
+  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "1y7HCn1QoNA", "embeddable": true, "live": true, "liveSince": "2026-11-23T07:30:51Z", "wikidata": "Q1025113"},
+  {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "GG9rsFu4ILE", "embeddable": true, "live": true, "liveSince": "2026-11-23T04:57:16Z", "wikidata": "Q2748448"},
   {"id": "cope", "name": "COPE", "category": "radio", "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ", "youtubeVideoId": "1tiqNtuoRqs", "embeddable": true, "live": false, "wikidata": "Q2748488"},
-  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "TNfSId8T9cc", "embeddable": true, "live": false, "wikidata": "Q3390195"}
+  {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "-toZ-yq_PYM", "embeddable": true, "live": true, "liveSince": "2026-11-23T05:57:24Z", "wikidata": "Q3390195"}
  ]
 }

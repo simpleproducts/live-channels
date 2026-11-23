@@ -1,15 +1,16 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112300,
+ "version": 2026112309,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
   "th.ch7news",
-  "th.tnn",
   "th.pptv",
+  "th.nation",
   "th.workpoint",
-  "th.topnews"
+  "th.topnews",
+  "th.today"
  ],
  "channels": [
   {
@@ -20,7 +21,7 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "OBwcVrPAvzs",
+   "youtubeVideoId": "0pUh8LJEWco",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2603792",
@@ -70,7 +71,7 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "-3S_myumv1U",
+   "youtubeVideoId": "-Bvsb5qqFSk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -106,7 +107,7 @@
     "th"
    ],
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
-   "youtubeVideoId": "mZllMpHvWXs",
+   "youtubeVideoId": "RA1SXCwYixU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -126,7 +127,7 @@
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
    "youtubeVideoId": "yUnA6WVQ6oI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -142,7 +143,7 @@
     "th"
    ],
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
-   "youtubeVideoId": "_qen6SoAiX4",
+   "youtubeVideoId": "_rE3SlfOmvU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16306127",
@@ -186,9 +187,9 @@
     "th"
    ],
    "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg",
-   "youtubeVideoId": "OO0HXPX17-A",
+   "youtubeVideoId": "DSmB4pvngb4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -204,7 +205,7 @@
     "th"
    ],
    "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ",
-   "youtubeVideoId": "Bt7VEaUj0vk",
+   "youtubeVideoId": "Fxy3mgpX2K0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -276,9 +277,9 @@
     "th"
    ],
    "youtubeChannelId": "UCQ2ABjf4gcrF0-zfDLQhWFQ",
-   "youtubeVideoId": "8BOYP38Q90w",
+   "youtubeVideoId": "mQ19XyTmjNw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

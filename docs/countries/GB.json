@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112300,
+ "version": 2026112309,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
+  "gb.skynews",
+  "gb.reuters",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -19,9 +21,9 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "tP8etKB7IIk",
+   "youtubeVideoId": "IX21YDzKhCU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -169,9 +171,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "lQOlQH6nsys",
+   "youtubeVideoId": "dj-SKmCQlLA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",

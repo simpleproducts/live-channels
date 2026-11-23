@@ -3,8 +3,8 @@
  "languages": ["en"],
  "defaultTiles": [],
  "channels": [
-  {"id": "sabcnews", "name": "SABC News", "category": "news", "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g", "youtubeVideoId": "6p6Vhxk44vA", "embeddable": true, "live": false},
-  {"id": "enca", "name": "eNCA", "category": "news", "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA", "youtubeVideoId": "Rd6k6hK0cek", "embeddable": true, "live": false},
+  {"id": "sabcnews", "name": "SABC News", "category": "news", "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g", "youtubeVideoId": "FGBplZR3c30", "embeddable": true, "live": true, "liveSince": "2026-11-23T08:21:35Z"},
+  {"id": "enca", "name": "eNCA", "category": "news", "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA", "youtubeVideoId": "6xjt3yvI9pE", "embeddable": true, "live": true, "liveSince": "2026-11-23T07:31:51Z"},
   {"id": "newzroom", "name": "Newzroom Afrika", "category": "news", "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ", "youtubeVideoId": "4BW_Gn14C-Y", "embeddable": true, "live": false},
   {"id": "news24", "name": "News24", "category": "news", "youtubeChannelId": "UC_vRepQuzI527GtEP1pGYZw", "youtubeVideoId": "aXaB9_v7M9k", "embeddable": true, "live": false, "wikidata": "Q2909223"},
   {"id": "parliament", "name": "Parliament of South Africa", "category": "government", "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ", "youtubeVideoId": "DCIXdgcJNNQ", "embeddable": true, "live": false, "wikidata": "Q2185780"},

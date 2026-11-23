@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026112300,
+ "version": 2026112309,
  "defaultTiles": [
-  "uy.canal10",
-  "uy.tvciudad"
+  "uy.sarandi"
  ],
  "channels": [
   {
@@ -139,7 +138,7 @@
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
    "youtubeVideoId": "pyoV60p66nE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -226,7 +225,7 @@
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
    "youtubeVideoId": "MRgu5OZhXU0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -341,9 +340,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
-   "youtubeVideoId": "m4VNce9Unqo",
+   "youtubeVideoId": "HuT-8EBRitY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

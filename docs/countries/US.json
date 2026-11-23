@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112300,
+ "version": 2026112309,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.foxweather",
   "us.foxnews",
   "us.livenow",
-  "us.nmasunivision",
-  "us.telemundo"
+  "us.ap",
+  "us.nmasunivision"
  ],
  "channels": [
   {
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "95ZI-b6FsVc",
+   "youtubeVideoId": "hdaZftitWBs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -967,7 +967,7 @@
     "en"
    ],
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
-   "youtubeVideoId": "pYM3momFs1M",
+   "youtubeVideoId": "4TRpVcLo6g8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
