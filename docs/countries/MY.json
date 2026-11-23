@@ -1,14 +1,10 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026112309,
+ "version": 2026112321,
  "defaultTiles": [
   "my.awani",
-  "my.beritartm",
-  "my.buletintv3",
-  "my.sinarharian",
-  "my.kinitv",
-  "my.parlimen"
+  "my.beritartm"
  ],
  "channels": [
   {
@@ -85,7 +81,7 @@
    "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA",
    "youtubeVideoId": "sjSZLOkbxmo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1087303",
    "description": {
     "en": "Malaysian private television station",
@@ -135,7 +131,7 @@
    "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg",
    "youtubeVideoId": "mBL8DoBKR_M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7521805",
    "description": {
     "en": "Malay language newspaper published in Shah Alam, Selangor, Malaysia",
@@ -169,7 +165,7 @@
    "youtubeChannelId": "UC9ULnkwvyofZ_sWrzRpyvrg",
    "youtubeVideoId": "YogLgEqi8GE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4918709",
    "description": {
     "en": "online news portal published in English, Malay, Chinese and Tamil",
@@ -240,7 +236,7 @@
    "youtubeChannelId": "UCu2I5HXcZudP59E5Ld10K_g",
    "youtubeVideoId": "yCXtQcQLGfs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2986392",
    "description": {
     "en": "Bicameral legislature of Malaysia",

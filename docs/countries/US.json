@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112309,
+ "version": 2026112321,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
-  "us.nbcnews",
   "us.newsmax",
   "us.foxweather",
   "us.foxnews",
+  "us.nbcnews",
   "us.livenow",
-  "us.ap",
-  "us.nmasunivision"
+  "us.newsnation",
+  "us.thehill"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "pJZBppLlwJo",
+   "youtubeVideoId": "oySB38T4DY0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "cQokJ-09vlk",
+   "youtubeVideoId": "meJfc4-d4tg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-   "youtubeVideoId": "EYbhxKMVoYQ",
+   "youtubeVideoId": "4X8Db0s4Otc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "hdaZftitWBs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -659,9 +659,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA",
-   "youtubeVideoId": "QeKwvSdNq9Q",
+   "youtubeVideoId": "04rjo-iZ_uE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7739683",
    "description": {
     "en": "newspaper in Washington, D.C.",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "2vAGXxaxg0c",
+   "youtubeVideoId": "f2nr8zBIbdo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -969,7 +969,7 @@
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
    "youtubeVideoId": "4TRpVcLo6g8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1065,9 +1065,9 @@
     "en"
    ],
    "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ",
-   "youtubeVideoId": "icuRZ2LXk1E",
+   "youtubeVideoId": "zFXxGsHd5eE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q35525",
    "description": {
     "en": "official residence and office of the President of the United States",

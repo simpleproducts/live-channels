@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026112309,
+ "version": 2026112321,
  "defaultTiles": [
-  "cn.cgtneurope",
-  "cn.cgtnfr"
+  "cn.cgtnfr",
+  "cn.cgtneurope"
  ],
  "channels": [
   {
@@ -61,7 +61,7 @@
     "en"
    ],
    "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
-   "youtubeVideoId": "wkU-OnTY0wk",
+   "youtubeVideoId": "mRNkmV531qY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q97238770",

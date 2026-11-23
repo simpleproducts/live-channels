@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026112309,
+ "version": 2026112321,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -10,8 +10,8 @@
   "ar.canal26",
   "ar.cronica",
   "ar.canalrural",
-  "ar.america",
-  "ar.canal10cba"
+  "ar.infobae",
+  "ar.tvpublica"
  ],
  "channels": [
   {
@@ -195,9 +195,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "2XjTvxTHenE",
+   "youtubeVideoId": "YnM9N2CoAqA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -553,9 +553,9 @@
     "es"
    ],
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-   "youtubeVideoId": "VcD45enyeFQ",
+   "youtubeVideoId": "gy90O1_9W4Q",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -922,9 +922,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "oOBpFtTXWtc",
+   "youtubeVideoId": "i0GaS24YO0w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -1154,9 +1154,9 @@
     "es"
    ],
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
-   "youtubeVideoId": "uwhEI009tx0",
+   "youtubeVideoId": "C4Vsy-3X_p8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1234,7 +1234,7 @@
    "youtubeChannelId": "UC2zO2jZCDplwm8SVsXUcxCQ",
    "youtubeVideoId": "umMx2IVCLeM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5961871",
    "description": {
     "en": "radio station in Argentina",
@@ -1323,9 +1323,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "a26beukgNRw",
+   "youtubeVideoId": "Yd5cSckzMxg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

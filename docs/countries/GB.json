@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112309,
+ "version": 2026112321,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
   "gb.skynews",
   "gb.reuters",
-  "gb.bbcnewsarabic",
-  "gb.timesradio",
-  "gb.talksport"
+  "gb.telegraph",
+  "gb.mirror",
+  "gb.thesun",
+  "gb.bbcnewsarabic"
  ],
  "channels": [
   {
@@ -21,7 +22,7 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "IX21YDzKhCU",
+   "youtubeVideoId": "zTgNo9Fyf-g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q217228",
@@ -171,7 +172,7 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "dj-SKmCQlLA",
+   "youtubeVideoId": "qFcl7JRivVI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q130879",
@@ -297,9 +298,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPgLNge0xqQHWM5B5EFH9Cg",
-   "youtubeVideoId": "ZLfLRdXLp8E",
+   "youtubeVideoId": "oRO0N-8kczw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q192621",
    "description": {
     "en": "British daily broadsheet newspaper",
@@ -483,9 +484,9 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "aSJKRoWiExI",
+   "youtubeVideoId": "y4r4KqctEZ8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -501,9 +502,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
-   "youtubeVideoId": "gX7Ssn3qlug",
+   "youtubeVideoId": "asTGV8ubyKA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",
@@ -647,9 +648,9 @@
     "en"
    ],
    "youtubeChannelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
-   "youtubeVideoId": "RGgdhC8sy90",
+   "youtubeVideoId": "HVajsYky39s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6457273",
    "description": {
     "en": "British talk radio station",

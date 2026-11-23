@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "SA",
- "version": 2026112020,
+ "version": 2026112321,
  "defaultTiles": [
   "sa.alekhbariya",
   "sa.asharq",
   "sa.asharqbusiness",
   "sa.ksasports",
-  "sa.quran"
+  "sa.quran",
+  "sa.sunnah"
  ],
  "channels": [
   {
@@ -132,9 +133,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCROKYPep-UuODNwyipe6JMw",
-   "youtubeVideoId": "Rs7St51oDDc",
+   "youtubeVideoId": "DLnqQHiDbaI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16120241",
    "description": {
     "en": "A Saudi television channel broadcasting from Medina 24 hours a day",

@@ -1,10 +1,17 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026112309,
+ "version": 2026112321,
  "defaultTiles": [
   "pe.latina",
-  "pe.congreso"
+  "pe.pbo",
+  "pe.rpp",
+  "pe.willax",
+  "pe.tvperunoticias",
+  "pe.atv",
+  "pe.congreso",
+  "pe.tvperu",
+  "pe.latinatv"
  ],
  "channels": [
   {
@@ -15,9 +22,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "Cldk238lDmc",
+   "youtubeVideoId": "9DUe1KUCivM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -66,9 +73,9 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "7zdvBvN-Bk0",
+   "youtubeVideoId": "4ElwvvfcMJo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -114,9 +121,9 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "I2NvLb0dOAc",
+   "youtubeVideoId": "sd3GitpRCwM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24038962",
    "description": {
     "en": "Peruvian free-to-air television channel",
@@ -140,9 +147,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "Yy147qX-TP0",
+   "youtubeVideoId": "SfPbkz_EnHo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -164,9 +171,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
-   "youtubeVideoId": "54wAdtHO008",
+   "youtubeVideoId": "aam4MS_sT0o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -354,9 +361,9 @@
     "es"
    ],
    "youtubeChannelId": "UCrAb_x80PtTiN3lCkQOSFPg",
-   "youtubeVideoId": "pwEpyRAq_5k",
+   "youtubeVideoId": "yRvMaANsd18",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3076196",
    "description": {
     "en": "Peruvian State-owned television broadcaster, owned by the government",
@@ -383,9 +390,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3rDtLrcgr3JS3_3JOW4BAw",
-   "youtubeVideoId": "9SV9bsoE_w0",
+   "youtubeVideoId": "pXAAUqihUpQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q967752",
    "description": {
     "en": "Peruvian free-to-air television network",
@@ -416,7 +423,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9HLcODpEZuBRLSKXZx5igw",
-   "youtubeVideoId": "91a3HUSvoFk",
+   "youtubeVideoId": "1najhfC3Ygs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1357543",
