@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "PY",
- "version": 2026112219,
+ "version": 2026112300,
  "defaultTiles": [
   "py.abctv",
+  "py.nanduti",
   "py.monumental"
  ],
  "channels": [
@@ -191,9 +192,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A",
-   "youtubeVideoId": "J5IKrMTIAq8",
+   "youtubeVideoId": "fhBKmY48_yE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

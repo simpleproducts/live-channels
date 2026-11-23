@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026112219,
+ "version": 2026112300,
  "defaultTiles": [
   "jp.ann",
   "jp.fnn",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "AlBY-RZGkSA",
+   "youtubeVideoId": "cJ41P3S7QxM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "bvJKVLHUW2E",
+   "youtubeVideoId": "Z2vOwOPzLMI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -543,7 +543,7 @@
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
    "youtubeVideoId": "p8vaSmXx5Sc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -613,9 +613,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q",
-   "youtubeVideoId": "XKskh8DTOgY",
+   "youtubeVideoId": "x6DwGvmgZeI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q843448",
    "description": {
     "en": "radio station in Tokyo",

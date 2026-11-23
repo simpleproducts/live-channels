@@ -7,7 +7,7 @@
   {"id": "ntv", "name": "NTV Kenya", "category": "news", "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg", "youtubeVideoId": "iiiPNyuVmXA", "embeddable": true, "live": true, "liveSince": "2026-11-20T03:50:33Z"},
   {"id": "ktn", "name": "KTN News", "category": "news", "youtubeChannelId": "UCKVsdeoHExltrWMuK0hOWmg", "youtubeVideoId": "8ptxgAEhUFM", "embeddable": true, "live": true, "liveSince": "2026-11-16T18:29:09Z"},
   {"id": "k24", "name": "K24 TV", "category": "news", "youtubeChannelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ", "youtubeVideoId": "uQMZvd00U4Y", "embeddable": true, "live": true, "liveSince": "2026-10-23T07:57:18Z"},
-  {"id": "tv47", "name": "TV47", "category": "news", "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw", "youtubeVideoId": "qPX30NiAbds", "embeddable": true, "live": false},
+  {"id": "tv47", "name": "TV47", "category": "news", "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw", "youtubeVideoId": "CNE96bO3vw4", "embeddable": true, "live": true, "liveSince": "2026-11-22T15:58:13Z"},
   {"id": "kbc", "name": "KBC Channel 1", "category": "broadcast", "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg", "youtubeVideoId": "JZPrgIGeltw", "embeddable": true, "live": false},
   {"id": "inooro", "name": "Inooro TV", "category": "regional", "youtubeChannelId": "UCZlNMLTVNxzwB0axilK-rDw", "youtubeVideoId": "MpYYhmYjSQ8", "embeddable": true, "live": false, "languages": ["ki"]},
   {"id": "ramogi", "name": "Ramogi TV", "category": "regional", "youtubeChannelId": "UCE0YXdRyT9WC96KZfn7C9mQ", "youtubeVideoId": "EB7wZrj03qA", "embeddable": true, "live": false},

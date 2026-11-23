@@ -1,15 +1,15 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026112219,
+ "version": 2026112300,
  "defaultTiles": [
   "in.ndtvindia",
   "in.ddnews",
-  "in.news18india",
   "in.indiatv",
   "in.aajtak",
   "in.abpnews",
   "in.zeenews",
+  "in.news18india",
   "in.tv9bharatvarsh",
   "in.republicworld"
  ],
@@ -353,7 +353,7 @@
     "en"
    ],
    "youtubeChannelId": "UCPP3etACgdUWvizcES1dJ8Q",
-   "youtubeVideoId": "8EHiLYO4NxI",
+   "youtubeVideoId": "0xtvTdQ_70A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q19891764",
@@ -378,7 +378,7 @@
     "en"
    ],
    "youtubeChannelId": "UCef1-8eOpJgud7szVPlZQAQ",
-   "youtubeVideoId": "OowwEKwUIik",
+   "youtubeVideoId": "Ls8MeV46bYk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1023924",

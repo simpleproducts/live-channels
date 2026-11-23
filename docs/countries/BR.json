@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026112219,
+ "version": 2026112300,
  "defaultTiles": [
   "br.recordnews",
   "br.jovempan",
   "br.cnnbrasil",
   "br.sbtnews",
   "br.canalrural",
-  "br.uol",
   "br.canalgov",
   "br.gaucha",
-  "br.cbn"
+  "br.bandnewsfm",
+  "br.itatiaia"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "GdnZDi_uN3c",
+   "youtubeVideoId": "bykujPwDJ90",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "dUdfEov5TSQ",
+   "youtubeVideoId": "i0yj9XSxq0c",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -183,7 +183,7 @@
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
    "youtubeVideoId": "Q2_f7JxNnNA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -466,7 +466,7 @@
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
    "youtubeVideoId": "badhTg_klF0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7385857",
    "description": {
     "en": "Brazilian news radio network",
@@ -494,7 +494,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "fgHTNJdsi5c",
+   "youtubeVideoId": "SjD0r3yjU4Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -521,7 +521,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "uUiqAiaTLME",
+   "youtubeVideoId": "GaVBXIfHf0g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -547,7 +547,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "6nrUMPHsXf8",
+   "youtubeVideoId": "tfXHf7dncf0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
@@ -592,9 +592,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w",
-   "youtubeVideoId": "dYJ1XKQJQ_Q",
+   "youtubeVideoId": "_c11bKUeKcI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

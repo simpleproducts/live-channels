@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112219,
+ "version": 2026112300,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
@@ -9,7 +9,9 @@
   "mx.multimedios",
   "mx.canalonce",
   "mx.imagenradio",
-  "mx.radioformula"
+  "mx.canal14",
+  "mx.radioformula",
+  "mx.wradio"
  ],
  "channels": [
   {
@@ -307,9 +309,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
-   "youtubeVideoId": "MXXal-r2Hr4",
+   "youtubeVideoId": "ELKI40J9xvc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -488,7 +490,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "CAOZRx13-xw",
+   "youtubeVideoId": "Zk_Ovtw3SxM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -513,9 +515,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "OomSyUgidmE",
+   "youtubeVideoId": "iOyigOvJGis",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -590,9 +592,11 @@
    "live": false,
    "wikidata": "Q42908534",
    "description": {
+    "en": "Canal Veintidós is a national public television network of Mexico, owned by Televisión Metropolitana, S.A.",
     "es": "canal de televisión abierta y pública en México"
    },
    "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_Veintid%C3%B3s",
     "es": "https://es.wikipedia.org/wiki/Canal_22_(M%C3%A9xico)"
    },
    "logo": null,

@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112219,
+ "version": 2026112300,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.independent",
   "gb.bbcnewsarabic",
   "gb.timesradio",
   "gb.talksport"
@@ -428,7 +427,7 @@
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
    "youtubeVideoId": "xa0NBUz2LWs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -508,7 +507,7 @@
     "en": "British tabloid newspaper",
     "es": "periódico del Reino Unido e Irlanda",
     "zh-Hans": "英国报纸",
-    "ja": "『ザ・サン』 は、イギリスの日刊タブロイド紙。ルパート・マードックが率いるニューズ・コープ傘下のNews Group Newspapers of News Internationalによって発行されている。世界でもっとも発行部数が多い英語日刊紙であり、2020年2月の発行部数は約120万部。社としては保守党を支持していることが多い。日曜版にあたるのは『ニュース・オブ・ザ・ワールド』であり、『サンデー・サン』 はサンとは関係がない。",
+    "ja": "イギリスの日刊タブロイド紙",
     "fr": "journal britannique de type tabloïd",
     "pt-BR": "tabloide do Reino Unido e da Irlanda",
     "ko": "《더 선》(영어: The Sun)은 영국·아일랜드에서 발행되는 일간 타블로이드이다.",

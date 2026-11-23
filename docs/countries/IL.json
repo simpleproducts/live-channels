@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026112211,
+ "version": 2026112300,
  "defaultTiles": [
-  "il.c14",
   "il.i24he",
+  "il.c14",
   "il.i24fr"
  ],
  "channels": [
@@ -142,7 +142,7 @@
     "he"
    ],
    "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
-   "youtubeVideoId": "HFmmznqqfW0",
+   "youtubeVideoId": "PQ_qoCALhK8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q136932915",
@@ -160,7 +160,7 @@
     "he"
    ],
    "youtubeChannelId": "UCKEImtWikw9usC1pl_9m1nQ",
-   "youtubeVideoId": "rd91lo1SYCU",
+   "youtubeVideoId": "SBbgmLLEhhk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16341431",

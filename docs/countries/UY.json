@@ -1,15 +1,10 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026112219,
+ "version": 2026112300,
  "defaultTiles": [
-  "uy.elobservadoruy",
-  "uy.ladiaria",
-  "uy.tnu",
-  "uy.carve",
-  "uy.delsol",
-  "uy.sarandi",
-  "uy.elpaisuy"
+  "uy.canal10",
+  "uy.tvciudad"
  ],
  "channels": [
   {
@@ -142,9 +137,9 @@
     "es"
    ],
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
-   "youtubeVideoId": "pbswQTUo39k",
+   "youtubeVideoId": "pyoV60p66nE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -229,9 +224,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "tM-rn1IIzNs",
+   "youtubeVideoId": "MRgu5OZhXU0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",

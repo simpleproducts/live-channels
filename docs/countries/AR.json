@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026112219,
+ "version": 2026112300,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -228,9 +228,9 @@
     "es"
    ],
    "youtubeChannelId": "UCHc3el42hXKKhjs_1vzWk9A",
-   "youtubeVideoId": "CCCboA-PENc",
+   "youtubeVideoId": "T1-TQ5bVwMs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1143518",
    "description": {
     "en": "Argentine television network",
@@ -284,9 +284,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0DM_mHV2u6dj8ig51GkQwg",
-   "youtubeVideoId": "Ifee9NfNOZk",
+   "youtubeVideoId": "swyzRJ2RRbs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1032473",
    "description": {
     "en": "Argentine free-to-air television network",
@@ -553,9 +553,9 @@
     "es"
    ],
    "youtubeChannelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-   "youtubeVideoId": "nAzkIYdBRnE",
+   "youtubeVideoId": "VcD45enyeFQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5072300",
    "description": {
     "en": "television channel from Rosario, Santa Fe province, Argentina",
@@ -964,7 +964,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "-6cbpKPoLcY",
+   "youtubeVideoId": "P4j9x6F8kKo",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1154,9 +1154,9 @@
     "es"
    ],
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
-   "youtubeVideoId": "cJbYJTOiA4E",
+   "youtubeVideoId": "uwhEI009tx0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1196,7 +1196,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "SME09mCf_a8",
+   "youtubeVideoId": "GEfK0t8-Fd8",
    "embeddable": true,
    "live": true,
    "wikidata": null,

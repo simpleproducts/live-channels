@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112219,
+ "version": 2026112300,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -967,9 +967,9 @@
     "en"
    ],
    "youtubeChannelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
-   "youtubeVideoId": "jFzAeIboqeA",
+   "youtubeVideoId": "pYM3momFs1M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
