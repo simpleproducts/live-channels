@@ -7,6 +7,6 @@
   {"id": "9news", "name": "9 News Australia", "category": "news", "youtubeChannelId": "UCIYLOcEUX6TbBo7HQVF2PKA", "live": false},
   {"id": "10news", "name": "10 News", "category": "news", "youtubeChannelId": "UC64A-bbH15b5kN5A32CErOA", "live": false, "wikidata": "Q7699271"},
   {"id": "newscomau", "name": "news.com.au", "category": "news", "youtubeChannelId": "UCtWWry0cgjWi9C0Ye9sh6og", "youtubeVideoId": "mN3_5GQTuqQ", "embeddable": true, "live": false},
-  {"id": "aph", "name": "Parliament of Australia", "category": "government", "youtubeChannelId": "UCzx6ti0rql6Q2Dc2zSAPmuA", "youtubeVideoId": "KlN_lEmr8t0", "embeddable": true, "live": true, "liveSince": "2026-11-24T01:08:03Z", "wikidata": "Q382118"}
+  {"id": "aph", "name": "Parliament of Australia", "category": "government", "youtubeChannelId": "UCzx6ti0rql6Q2Dc2zSAPmuA", "youtubeVideoId": "KlN_lEmr8t0", "embeddable": true, "live": false, "wikidata": "Q382118"}
  ]
 }

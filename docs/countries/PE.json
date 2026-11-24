@@ -1,10 +1,16 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026112406,
+ "version": 2026112417,
  "defaultTiles": [
   "pe.latina",
-  "pe.congreso"
+  "pe.larepublica",
+  "pe.rpp",
+  "pe.tvperunoticias",
+  "pe.elcomercio",
+  "pe.congreso",
+  "pe.panamericana",
+  "pe.exitosa"
  ],
  "channels": [
   {
@@ -33,9 +39,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
-   "youtubeVideoId": "8qcWCRQpZCo",
+   "youtubeVideoId": "IkPBMPyRtto",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -66,9 +72,9 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "4ElwvvfcMJo",
+   "youtubeVideoId": "2X2OvfvLEzw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3090686",
    "description": {
     "en": "Peruvian radio network",
@@ -140,9 +146,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
-   "youtubeVideoId": "SfPbkz_EnHo",
+   "youtubeVideoId": "eDtxgaEeMQw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -207,9 +213,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg",
-   "youtubeVideoId": "wZfZ8TOC72Q",
+   "youtubeVideoId": "enxkqtB86rw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1324020",
    "description": {
     "en": "newspaper from Peru",
@@ -321,9 +327,9 @@
     "es"
    ],
    "youtubeChannelId": "UCOyD-kV3zB8Cm4LI4qtd9tA",
-   "youtubeVideoId": "EdBswiE5CTc",
+   "youtubeVideoId": "yKVhzmu16NA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q586523",
    "description": {
     "en": "Peruvian free-to-air television station",
@@ -458,9 +464,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
-   "youtubeVideoId": "SYKH6bJ-vo0",
+   "youtubeVideoId": "dx06GK8cz1s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",

@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112406,
+ "version": 2026112417,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
+  "mx.heraldo",
   "mx.multimedios",
   "mx.canalonce",
   "mx.imagenradio",
-  "mx.wradio"
+  "mx.imagentv",
+  "mx.canalcongreso"
  ],
  "channels": [
   {
@@ -137,9 +139,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "ezWa9myNzoM",
+   "youtubeVideoId": "a96H5sA6dXc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -332,9 +334,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "SvA-iwOhMUE",
+   "youtubeVideoId": "AZtn6yVx-Os",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -464,9 +466,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "mxvBYO95Y1Y",
+   "youtubeVideoId": "kofoGeQBHag",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -488,9 +490,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "0iCq9cj5xFM",
+   "youtubeVideoId": "2Mp789VCkvk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -513,7 +515,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "pYk9ueCUD2Q",
+   "youtubeVideoId": "XQG4LkORtqE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -549,9 +551,9 @@
     "es"
    ],
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
-   "youtubeVideoId": "gseFW_jcyB0",
+   "youtubeVideoId": "A1RmcNFcdVM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -567,9 +569,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "mxebxEdYYOQ",
+   "youtubeVideoId": "-lWByg9UczI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

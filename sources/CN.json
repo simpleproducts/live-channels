@@ -3,12 +3,12 @@
  "languages": ["zh"],
  "defaultTiles": [],
  "channels": [
-  {"id": "cgtn", "name": "CGTN", "category": "news", "youtubeChannelId": "UCgrNz-aDmcr2uuto8_DL2jg", "youtubeVideoId": "M-y9Aedidvw", "embeddable": true, "live": true, "liveSince": "2026-11-24T06:03:27Z", "languages": ["en"]},
-  {"id": "cgtneurope", "name": "CGTN Europe", "category": "news", "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg", "youtubeVideoId": "mRNkmV531qY", "embeddable": true, "live": false, "languages": ["en"]},
+  {"id": "cgtn", "name": "CGTN", "category": "news", "youtubeChannelId": "UCgrNz-aDmcr2uuto8_DL2jg", "youtubeVideoId": "M-y9Aedidvw", "embeddable": true, "live": false, "languages": ["en"]},
+  {"id": "cgtneurope", "name": "CGTN Europe", "category": "news", "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg", "youtubeVideoId": "8p4Bo_D3Zd4", "embeddable": true, "live": true, "liveSince": "2026-11-24T17:03:28Z", "languages": ["en"]},
   {"id": "cgtnes", "name": "CGTN Español", "category": "news", "youtubeChannelId": "UCd94YCD7yp6d-YZSRYWyeFA", "youtubeVideoId": "0t5RT9FYCF8", "embeddable": true, "live": false, "languages": ["es"], "wikidata": "Q1442139"},
   {"id": "cgtnfr", "name": "CGTN Français", "category": "news", "youtubeChannelId": "UCcfLuU0NFT0ZRoQy4jk6GdA", "youtubeVideoId": "oPLa1msqG7E", "embeddable": true, "live": true, "liveSince": "2026-09-23T07:31:31Z", "languages": ["fr"]},
   {"id": "cgtnru", "name": "CGTN на русском", "category": "news", "youtubeChannelId": "UCA2WHG4EpVqul3TYjAF0k2A", "youtubeVideoId": "6_VNfC3cvzQ", "embeddable": true, "live": false, "languages": ["ru"]},
-  {"id": "cgtnafrica", "name": "CGTN Africa", "category": "news", "youtubeChannelId": "UCMeYPU1YfXjxsUa6QXWsfjg", "youtubeVideoId": "GkHPZcF11HA", "embeddable": true, "live": false, "languages": ["en"]},
+  {"id": "cgtnafrica", "name": "CGTN Africa", "category": "news", "youtubeChannelId": "UCMeYPU1YfXjxsUa6QXWsfjg", "youtubeVideoId": "iLNxqNRQ29g", "embeddable": true, "live": true, "liveSince": "2026-11-24T17:00:50Z", "languages": ["en"]},
   {"id": "cctvvna", "name": "CCTV Video News Agency", "category": "news", "youtubeChannelId": "UCmv5DbNpxH8X2eQxJBqEjKQ", "live": false, "languages": ["en"]},
   {"id": "newchinatv", "name": "New China TV (Xinhua)", "category": "news", "youtubeChannelId": "UCHBDXQDmqnaqIEPdEapEFVQ", "youtubeVideoId": "5VV_5ODscIs", "embeddable": true, "live": false, "languages": ["en"]},
   {"id": "cctv", "name": "CCTV中国中央电视台", "category": "broadcast", "youtubeChannelId": "UCcLK3j-XWdGBnt5bR9NJHaQ", "live": false}

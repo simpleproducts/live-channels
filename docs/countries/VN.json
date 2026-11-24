@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026112406,
+ "version": 2026112417,
  "defaultTiles": [
-  "vn.antv",
-  "vn.vtcnews"
+  "vn.antv"
  ],
  "channels": [
   {
@@ -15,7 +14,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "m-Qq0myRrZs",
+   "youtubeVideoId": "FMnJZYtQbAU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -122,7 +121,7 @@
    "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg",
    "youtubeVideoId": "XbwSQD5TyhU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q108492472",
    "description": {},
    "wikipedia": {},

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026112406,
+ "version": 2026112417,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
@@ -11,7 +11,7 @@
   "es.canalsur",
   "es.eitb",
   "es.rtvcanarias",
-  "es.ser"
+  "es.apunt"
  ],
  "channels": [
   {
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "q8i5lIZcefE",
+   "youtubeVideoId": "OfeOrtSBHMs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -395,9 +395,9 @@
     "es"
    ],
    "youtubeChannelId": "UC06jp6UgU3rzTNpuBk0OebQ",
-   "youtubeVideoId": "mDz7J-HHWe0",
+   "youtubeVideoId": "ul_DDyxVRqM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28918202",
    "description": {
     "en": "Valencian public television channel",
@@ -685,7 +685,7 @@
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
    "youtubeVideoId": "GpFScR-Viuo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -751,7 +751,7 @@
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
    "youtubeVideoId": "fDuY3NiZAGA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

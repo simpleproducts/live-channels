@@ -1,15 +1,13 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112406,
+ "version": 2026112417,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
-  "ph.oneph",
   "ph.net25",
   "ph.anc",
-  "ph.inquirer",
   "ph.dzrh",
   "ph.senate"
  ],
@@ -60,7 +58,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "fY1HOAlqgSs",
+   "youtubeVideoId": "84vW4sJoWZw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -109,7 +107,7 @@
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
    "youtubeVideoId": "CYhlH1MkthY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -243,7 +241,7 @@
    "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w",
    "youtubeVideoId": "rUjN1lPgDLY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q97657682",
    "description": {
     "en": "News website from the Philippines"
@@ -354,7 +352,7 @@
    "youtubeChannelId": "UCtGmCfZ4O1zrl9c8BEhGvRg",
    "youtubeVideoId": "WSVZeyAnBsc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q678545",
    "description": {
     "en": "lower house of the Congress of the Philippines",
@@ -428,7 +426,7 @@
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
    "youtubeVideoId": "CqwQEJ2Hof0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -466,7 +464,7 @@
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
    "youtubeVideoId": "p1j54IBpzD0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",

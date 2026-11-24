@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026112406,
+ "version": 2026112417,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -10,8 +10,8 @@
   "ar.canal26",
   "ar.cronica",
   "ar.canalrural",
-  "ar.tvpublica",
-  "ar.america"
+  "ar.infobae",
+  "ar.tvpublica"
  ],
  "channels": [
   {
@@ -195,9 +195,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
-   "youtubeVideoId": "YnM9N2CoAqA",
+   "youtubeVideoId": "iap9zUXyGmk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -506,9 +506,9 @@
     "es"
    ],
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
-   "youtubeVideoId": "8RY1VRG3Ibo",
+   "youtubeVideoId": "qo9Qjl1wTnk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -660,9 +660,9 @@
     "es"
    ],
    "youtubeChannelId": "UCStm2uvQKowSXrnCzTWAn6Q",
-   "youtubeVideoId": "H5RgohEG8Mc",
+   "youtubeVideoId": "mIx1mhuwvTk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2118303",
    "description": {
     "en": "upper house of Argentina Congress",
@@ -832,9 +832,9 @@
     "es"
    ],
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
-   "youtubeVideoId": "Akf8w0hhI_E",
+   "youtubeVideoId": "VEKBtJeAKo4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -850,9 +850,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
-   "youtubeVideoId": "TDC8gaJ4b-o",
+   "youtubeVideoId": "BPDJ4ROnffU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -886,9 +886,9 @@
     "es"
    ],
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
-   "youtubeVideoId": "f9H-1z-rpgw",
+   "youtubeVideoId": "Y2THJtbUx18",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -904,9 +904,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
-   "youtubeVideoId": "c_SOt52c-_k",
+   "youtubeVideoId": "ktIx6qhTJ3k",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -922,9 +922,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
-   "youtubeVideoId": "i0GaS24YO0w",
+   "youtubeVideoId": "C-7cP9-miGc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -964,9 +964,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "P4j9x6F8kKo",
+   "youtubeVideoId": "-rzwB5wtHqA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -982,9 +982,9 @@
     "es"
    ],
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
-   "youtubeVideoId": "A_DI8aOzcUg",
+   "youtubeVideoId": "HG9V0VwimKM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1154,9 +1154,9 @@
     "es"
    ],
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
-   "youtubeVideoId": "C4Vsy-3X_p8",
+   "youtubeVideoId": "THGSqIWz6p4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1196,9 +1196,9 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "GEfK0t8-Fd8",
+   "youtubeVideoId": "p4bw4lfstVA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1214,9 +1214,9 @@
     "es"
    ],
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
-   "youtubeVideoId": "op2MBU_qMVI",
+   "youtubeVideoId": "cy1uuwyixq0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1323,9 +1323,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
-   "youtubeVideoId": "Yd5cSckzMxg",
+   "youtubeVideoId": "yQvHHzJblZI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

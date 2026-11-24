@@ -3,14 +3,14 @@
  "languages": ["es"],
  "defaultTiles": ["abctv", "telefuturo"],
  "channels": [
-  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "VDfsThuF-Kc", "embeddable": true, "live": false},
+  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "tLhbxWwz9lI", "embeddable": true, "live": true, "liveSince": "2026-11-24T17:01:50Z"},
   {"id": "npy", "name": "NPY", "category": "news", "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA", "youtubeVideoId": "bz99T5LhX6U", "embeddable": true, "live": false},
   {"id": "ultimahora", "name": "Última Hora", "category": "news", "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw", "youtubeVideoId": "rW6zKeFNZVA", "embeddable": true, "live": false, "wikidata": "Q6175024"},
-  {"id": "gen", "name": "GEN", "category": "news", "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA", "youtubeVideoId": "l0XruVrG_9w", "embeddable": true, "live": false},
-  {"id": "telefuturo", "name": "Telefuturo", "category": "broadcast", "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA", "youtubeVideoId": "q9wtadF2aIU", "embeddable": true, "live": false, "wikidata": "Q3140411"},
+  {"id": "gen", "name": "GEN", "category": "news", "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA", "youtubeVideoId": "un-7VOp0CjM", "embeddable": true, "live": true, "liveSince": "2026-11-24T16:59:23Z"},
+  {"id": "telefuturo", "name": "Telefuturo", "category": "broadcast", "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA", "youtubeVideoId": "nmNLy0Bhh3Q", "embeddable": true, "live": true, "liveSince": "2026-11-24T13:51:20Z", "wikidata": "Q3140411"},
   {"id": "snt", "name": "SNT", "category": "broadcast", "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig", "youtubeVideoId": "xmu-Fd8Hk9c", "embeddable": true, "live": false, "wikidata": "Q523293"},
   {"id": "unicanal", "name": "Unicanal", "category": "broadcast", "youtubeChannelId": "UCT9-9nG-go0cQGn9rVBzaxA", "live": false, "wikidata": "Q3549937"},
-  {"id": "nanduti", "name": "Ñanduti 1020 AM", "category": "radio", "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A", "youtubeVideoId": "f7qEhF7OpYo", "embeddable": true, "live": false},
+  {"id": "nanduti", "name": "Ñanduti 1020 AM", "category": "radio", "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A", "youtubeVideoId": "kaHdEc9w4Cc", "embeddable": true, "live": true, "liveSince": "2026-11-24T16:57:13Z"},
   {"id": "monumental", "name": "Monumental 1080 AM", "category": "radio", "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ", "youtubeVideoId": "SPYORwQlwpE", "embeddable": true, "live": true, "liveSince": "2026-11-23T03:58:18Z"},
   {"id": "caacupe", "name": "Basílica de Caacupé", "category": "religious", "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA", "youtubeVideoId": "Sc4YDS-qkLw", "embeddable": true, "live": false}
  ]

@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026112300,
+ "version": 2026112417,
  "defaultTiles": [
-  "ca.cbcnews"
+  "ca.cbcnews",
+  "ca.canadianpress",
+  "ca.noovo"
  ],
  "channels": [
   {
@@ -128,9 +130,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg",
-   "youtubeVideoId": "awc8SgYUkrY",
+   "youtubeVideoId": "wahQmlQactU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -223,9 +225,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw",
-   "youtubeVideoId": "1VChcPrkn6g",
+   "youtubeVideoId": "Lc3r_hUlvJo",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2410130",
    "description": {
     "en": "Canadian private news agency established in 1917",

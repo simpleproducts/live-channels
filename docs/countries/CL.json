@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026112406,
+ "version": 2026112417,
  "defaultTiles": [
   "cl.24horas",
   "cl.t13",
@@ -10,7 +10,8 @@
   "cl.senado",
   "cl.cooperativa",
   "cl.tvn",
-  "cl.chilevision"
+  "cl.chilevision",
+  "cl.mega"
  ],
  "channels": [
   {
@@ -21,7 +22,7 @@
     "es"
    ],
    "youtubeChannelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
-   "youtubeVideoId": "QVyX9d-r0dA",
+   "youtubeVideoId": "Paj92TZrnSc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -66,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "6hhr6uVK9H4",
+   "youtubeVideoId": "i1ewZSIhI5A",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -265,9 +266,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "nElcK4lSYeY",
+   "youtubeVideoId": "rwDqdv-j_f0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q597946",
    "description": {
     "en": "Chilean private television network",
@@ -373,9 +374,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZnboDa_k5jxFCGp6jVhpUQ",
-   "youtubeVideoId": "_YtP4yRPfQY",
+   "youtubeVideoId": "-GOuDV8ZyBw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3547157",
    "description": {
     "en": "Chilean television channel, formerly known as UCV Televisión",
@@ -503,9 +504,9 @@
     "es"
    ],
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
-   "youtubeVideoId": "1VOnna_YomA",
+   "youtubeVideoId": "BJvWaGiq0GU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -530,9 +531,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
-   "youtubeVideoId": "oOR5f43O95I",
+   "youtubeVideoId": "GXesYyZKrEg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -566,9 +567,9 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "ra6fp03_TVw",
+   "youtubeVideoId": "abga6_sQ4kY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -620,9 +621,9 @@
     "es"
    ],
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
-   "youtubeVideoId": "-gweguGu3DM",
+   "youtubeVideoId": "TTG7vYrIDlU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,13 +1,9 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112406,
+ "version": 2026112417,
  "defaultTiles": [
-  "th.thairath",
-  "th.tnn",
-  "th.amarin",
-  "th.workpoint",
-  "th.tpchannel"
+  "th.thairath"
  ],
  "channels": [
   {
@@ -68,7 +64,7 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "TkucJTskInE",
+   "youtubeVideoId": "-JHrk7YXhSU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -124,7 +120,7 @@
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
    "youtubeVideoId": "i8xTMGw_hSk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -168,7 +164,7 @@
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
    "youtubeVideoId": "y2ykc45jsV0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -204,7 +200,7 @@
    "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ",
    "youtubeVideoId": "SbplpUMngiA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -294,7 +290,7 @@
    "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A",
    "youtubeVideoId": "tRQeVl6lUKg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

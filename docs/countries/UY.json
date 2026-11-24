@@ -1,15 +1,11 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026112406,
+ "version": 2026112417,
  "defaultTiles": [
-  "uy.elobservadoruy",
-  "uy.ladiaria",
-  "uy.tnu",
   "uy.carve",
   "uy.delsol",
-  "uy.sarandi",
-  "uy.elpaisuy"
+  "uy.universal"
  ],
  "channels": [
   {
@@ -303,9 +299,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "flcJk7iNOkE",
+   "youtubeVideoId": "zs7ztJeB1Gc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -328,9 +324,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "qHofHbKuR-U",
+   "youtubeVideoId": "VUuZjSTghYM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,9 +360,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "ibys_NvohF0",
+   "youtubeVideoId": "WOCHGxDvATs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
