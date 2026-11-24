@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026112321,
+ "version": 2026112406,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
   "pl.tvpworld",
   "pl.radiozet",
-  "pl.kanalzero"
+  "pl.polskieradio24"
  ],
  "channels": [
   {
@@ -213,7 +213,7 @@
    "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg",
    "youtubeVideoId": "BzEshQVxSRs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q124607345",
    "description": {
     "en": "Polish online general-interest channel",
@@ -289,9 +289,9 @@
     "pl"
    ],
    "youtubeChannelId": "UCTKxkwZp-aWyNsV3vdV2EpA",
-   "youtubeVideoId": "Ek7S3RRT2qs",
+   "youtubeVideoId": "ff2B6OwG8HE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

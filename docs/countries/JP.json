@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026112321,
+ "version": 2026112406,
  "defaultTiles": [
-  "jp.fnn",
   "jp.ann",
+  "jp.fnn",
   "jp.tbs",
   "jp.ntvnews",
   "jp.weathernews",
+  "jp.kyodo",
   "jp.nhkworld",
   "jp.mbs",
-  "jp.satv",
-  "jp.ytv"
+  "jp.satv"
  ],
  "channels": [
   {
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "e_5tuADb4_o",
+   "youtubeVideoId": "FWgEalYZ9Lg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "SUN8vkl3Ico",
+   "youtubeVideoId": "iVHVC5dhd9o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "K578fVjd2CI",
+   "youtubeVideoId": "TWBEWrjNtqs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -222,9 +222,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
-   "youtubeVideoId": "GG5nSpFQKoQ",
+   "youtubeVideoId": "9CS3qLhADGw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q779730",
    "description": {
     "en": "news agency",
@@ -541,7 +541,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
-   "youtubeVideoId": "bD4rVkiQ_oQ",
+   "youtubeVideoId": "w2Ba8RNkh1w",
    "embeddable": true,
    "live": true,
    "wikidata": null,

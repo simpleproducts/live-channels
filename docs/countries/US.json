@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112321,
+ "version": 2026112406,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.foxnews",
   "us.nbcnews",
   "us.livenow",
-  "us.newsnation",
-  "us.thehill"
+  "us.nmasunivision",
+  "us.telemundo"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "oySB38T4DY0",
+   "youtubeVideoId": "VjdWroHy3P0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -475,7 +475,7 @@
    "youtubeChannelId": "UCCjG8NtOig0USdrT5D1FpxQ",
    "youtubeVideoId": "4X8Db0s4Otc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -661,7 +661,7 @@
    "youtubeChannelId": "UCPWXiRWZ29zrxPFIQT7eHSA",
    "youtubeVideoId": "04rjo-iZ_uE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7739683",
    "description": {
     "en": "newspaper in Washington, D.C.",
@@ -765,7 +765,7 @@
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
    "youtubeVideoId": "f2nr8zBIbdo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1067,7 +1067,7 @@
    "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ",
    "youtubeVideoId": "zFXxGsHd5eE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q35525",
    "description": {
     "en": "official residence and office of the President of the United States",

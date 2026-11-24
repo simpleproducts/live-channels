@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "PT",
- "version": 2026112321,
+ "version": 2026112406,
  "defaultTiles": [
-  "pt.euronewspt",
-  "pt.canalparlamento"
+  "pt.euronewspt"
  ],
  "channels": [
   {
@@ -224,7 +223,7 @@
    "youtubeChannelId": "UCmlT0qh6pKr5b8gQ6LUO35A",
    "youtubeVideoId": "l9UK-aN2Qic",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

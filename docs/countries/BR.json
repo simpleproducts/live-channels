@@ -1,17 +1,15 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026112321,
+ "version": 2026112406,
  "defaultTiles": [
   "br.jovempan",
   "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
-  "br.canalrural",
-  "br.metropoles",
   "br.canalgov",
   "br.gaucha",
-  "br.record"
+  "br.cbn"
  ],
  "channels": [
   {
@@ -22,7 +20,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "NhTyyWxuw5E",
+   "youtubeVideoId": "Eu4D7TA1p4c",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3056409",
@@ -52,7 +50,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "DlFjqWJlvyg",
+   "youtubeVideoId": "-n_1FK9Vdfw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +134,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "m9i1aSHFVpI",
+   "youtubeVideoId": "u0g_xPJnpfM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -161,7 +159,7 @@
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
    "youtubeVideoId": "D8BH05m32dE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -201,7 +199,7 @@
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
    "youtubeVideoId": "uEfs9PfqlC8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -274,7 +272,7 @@
    "youtubeChannelId": "UCu_a6PAzp30Bn2mM-Ll09LA",
    "youtubeVideoId": "jdNIygsPZgA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1458581",
    "description": {
     "en": "Brazilian commercial television network",
@@ -320,7 +318,7 @@
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
    "youtubeVideoId": "N6UGkHX3fsA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1090363",
    "description": {
     "en": "Brazilian broadcast television network",
@@ -413,7 +411,7 @@
    "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ",
    "youtubeVideoId": "tM7q4wC_4ks",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7672422",
    "description": {
     "en": "Brazilian television network",
@@ -440,7 +438,7 @@
    "youtubeChannelId": "UC-ZkSRh-7UEuwXJQ9UMCFJA",
    "youtubeVideoId": "eDSCbwq_3Kc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6137650",
    "description": {
     "en": "Brazilian legislative television network",
@@ -464,7 +462,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "sz9neUKzt0w",
+   "youtubeVideoId": "A9MHmI5XekM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -496,7 +494,7 @@
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
    "youtubeVideoId": "BcVRelQLuFE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4854200",
    "description": {
     "en": "Brazilian all news radio network",
@@ -523,7 +521,7 @@
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
    "youtubeVideoId": "LGT0zg4lmNs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10365899",
    "description": {
     "en": "Brazilian radio station in Minas Gerais",
@@ -549,7 +547,7 @@
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
    "youtubeVideoId": "7d8Tkz_6Luk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7385855",
    "description": {
     "en": "Brazilian radio network",

@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026112321,
+ "version": 2026112406,
  "defaultTiles": [
   "it.euronewsit",
-  "it.fanpage",
   "it.camera",
   "it.senato"
  ],
@@ -157,7 +156,7 @@
    "youtubeChannelId": "UCWJhBqnyVdHAuxexgjghNFw",
    "youtubeVideoId": "vA5s-qX_ADc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q21234227",
    "description": {
     "en": "Italian online newspaper",

@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026112321,
+ "version": 2026112406,
  "defaultTiles": [
   "il.c14",
   "il.i24he",
-  "il.i24fr",
-  "il.knesset"
+  "il.i24fr"
  ],
  "channels": [
   {
@@ -143,7 +142,7 @@
     "he"
    ],
    "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
-   "youtubeVideoId": "TXVwmRKySZE",
+   "youtubeVideoId": "wiQCpW_Tolg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q136932915",
@@ -235,7 +234,7 @@
    "youtubeChannelId": "UCpjNXONNE-JUz7QACB1Cgcw",
    "youtubeVideoId": "thiWv0to7VU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q279320",
    "description": {
     "en": "Israeli television channel",
