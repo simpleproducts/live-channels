@@ -1,9 +1,12 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026112321,
+ "version": 2026112512,
  "defaultTiles": [
-  "za.radio702"
+  "za.sabcnews",
+  "za.enca",
+  "za.radio702",
+  "za.parliament"
  ],
  "channels": [
   {
@@ -14,9 +17,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
-   "youtubeVideoId": "FGBplZR3c30",
+   "youtubeVideoId": "ywScHgkizxg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q48767445",
    "description": {
     "en": "news channel owned by the South African Broadcasting Corporation",
@@ -38,9 +41,9 @@
     "en"
    ],
    "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA",
-   "youtubeVideoId": "6xjt3yvI9pE",
+   "youtubeVideoId": "AbZqgUzXIOM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5323690",
    "description": {
     "en": "24-hour television news broadcaster owned by e.tv",
@@ -106,9 +109,9 @@
     "en"
    ],
    "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ",
-   "youtubeVideoId": "DCIXdgcJNNQ",
+   "youtubeVideoId": "mUDhPX4EW_o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2185780",
    "description": {
     "en": "legislative body of South Africa",

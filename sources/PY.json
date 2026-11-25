@@ -3,15 +3,15 @@
  "languages": ["es"],
  "defaultTiles": ["abctv", "telefuturo"],
  "channels": [
-  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "tLhbxWwz9lI", "embeddable": true, "live": false},
+  {"id": "abctv", "name": "ABC TV Paraguay", "category": "news", "youtubeChannelId": "UCEklbFbPoMaV1ciEb-0mAxg", "youtubeVideoId": "l6T8VpKdxjw", "embeddable": true, "live": true, "liveSince": "2026-11-25T11:01:44Z"},
   {"id": "npy", "name": "NPY", "category": "news", "youtubeChannelId": "UCXm5UbX1eXIFmFE0lz1etiA", "youtubeVideoId": "bz99T5LhX6U", "embeddable": true, "live": false},
   {"id": "ultimahora", "name": "Última Hora", "category": "news", "youtubeChannelId": "UCjrwumB0Pzw_PNNYGXD8Vbw", "youtubeVideoId": "rW6zKeFNZVA", "embeddable": true, "live": false, "wikidata": "Q6175024"},
   {"id": "gen", "name": "GEN", "category": "news", "youtubeChannelId": "UC9FQShRxvepLNn6lLfvBhyA", "youtubeVideoId": "un-7VOp0CjM", "embeddable": true, "live": false},
-  {"id": "telefuturo", "name": "Telefuturo", "category": "broadcast", "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA", "youtubeVideoId": "Wk_lN1pPImg", "embeddable": true, "live": true, "liveSince": "2026-11-24T23:54:15Z", "wikidata": "Q3140411"},
+  {"id": "telefuturo", "name": "Telefuturo", "category": "broadcast", "youtubeChannelId": "UCtM-kY8-zx8zzsrWKVUffyA", "youtubeVideoId": "p9jRz2wmCeU", "embeddable": true, "live": true, "liveSince": "2026-11-25T11:48:18Z", "wikidata": "Q3140411"},
   {"id": "snt", "name": "SNT", "category": "broadcast", "youtubeChannelId": "UC8NNg2qEuMQIXlqPS-eu_ig", "youtubeVideoId": "xmu-Fd8Hk9c", "embeddable": true, "live": false, "wikidata": "Q523293"},
   {"id": "unicanal", "name": "Unicanal", "category": "broadcast", "youtubeChannelId": "UCT9-9nG-go0cQGn9rVBzaxA", "live": false, "wikidata": "Q3549937"},
-  {"id": "nanduti", "name": "Ñanduti 1020 AM", "category": "radio", "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A", "youtubeVideoId": "kaHdEc9w4Cc", "embeddable": true, "live": false},
+  {"id": "nanduti", "name": "Ñanduti 1020 AM", "category": "radio", "youtubeChannelId": "UC3MzWfxWB6ImezkL5_DSd4A", "youtubeVideoId": "97O5sg2TkMc", "embeddable": true, "live": true, "liveSince": "2026-11-25T08:55:45Z"},
   {"id": "monumental", "name": "Monumental 1080 AM", "category": "radio", "youtubeChannelId": "UCApQkTY6oHoGjZr6jfMajwQ", "youtubeVideoId": "SPYORwQlwpE", "embeddable": true, "live": true, "liveSince": "2026-11-23T03:58:18Z"},
-  {"id": "caacupe", "name": "Basílica de Caacupé", "category": "religious", "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA", "youtubeVideoId": "Sc4YDS-qkLw", "embeddable": true, "live": false}
+  {"id": "caacupe", "name": "Basílica de Caacupé", "category": "religious", "youtubeChannelId": "UClVqt_hyTvioJrly4ALnzTA", "youtubeVideoId": "re9GM7RWQ-g", "embeddable": true, "live": true, "liveSince": "2026-11-25T11:55:50Z"}
  ]
 }

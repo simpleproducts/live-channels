@@ -7,7 +7,7 @@
   {"id": "ansa", "name": "ANSA", "category": "news", "youtubeChannelId": "UC7dCZ28JQUZYno7TSlLKNoQ", "live": false},
   {"id": "ilfatto", "name": "Il Fatto Quotidiano", "category": "news", "youtubeChannelId": "UCPfFXhCgc6cciu3aYm-9AdA", "live": false},
   {"id": "fanpage", "name": "Fanpage.it", "category": "news", "youtubeChannelId": "UCWJhBqnyVdHAuxexgjghNFw", "youtubeVideoId": "vA5s-qX_ADc", "embeddable": true, "live": false},
-  {"id": "rai", "name": "Rai", "category": "broadcast", "youtubeChannelId": "UCKUzdt2sELyxd6mz-bAx3bA", "youtubeVideoId": "ferfg9icEPI", "embeddable": true, "live": false},
+  {"id": "rai", "name": "Rai", "category": "broadcast", "youtubeChannelId": "UCKUzdt2sELyxd6mz-bAx3bA", "youtubeVideoId": "y5RaQVx9-OM", "embeddable": true, "live": true, "liveSince": "2026-11-25T12:27:24Z"},
   {"id": "ilsole24ore", "name": "Il Sole 24 Ore", "category": "economy", "youtubeChannelId": "UCCuZicOOisRgknWUSQArudg", "youtubeVideoId": "uOooc3zhx6Y", "embeddable": true, "live": false, "wikidata": "Q1658262"},
   {"id": "camera", "name": "Camera dei Deputati", "category": "government", "youtubeChannelId": "UCwP4zsC0r9eqRQOethu5EFg", "youtubeVideoId": "hXMt9zCi2r8", "embeddable": true, "live": true, "liveSince": "2026-10-19T08:15:07Z"},
   {"id": "senato", "name": "Senato della Repubblica", "category": "government", "youtubeChannelId": "UCbanqpWVQ0l4v_aPUV-j9JQ", "youtubeVideoId": "kIvU73zCHX4", "embeddable": true, "live": true, "liveSince": "2026-10-21T11:38:09Z"},

@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026112502,
+ "version": 2026112512,
  "defaultTiles": [
   "vn.antv",
-  "vn.hanoitv"
+  "vn.vtcnews"
  ],
  "channels": [
   {
@@ -15,7 +15,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "7r7vyol3Rys",
+   "youtubeVideoId": "D9G9BpYF8IM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -120,9 +120,9 @@
     "vi"
    ],
    "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg",
-   "youtubeVideoId": "XbwSQD5TyhU",
+   "youtubeVideoId": "yi3aawdcHZE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q108492472",
    "description": {},
    "wikipedia": {},
@@ -158,7 +158,7 @@
    "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w",
    "youtubeVideoId": "UDcupaBO3K0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5649326",
    "description": {
     "en": "Vietnamese radio and television network",

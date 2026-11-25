@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112502,
+ "version": 2026112512,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
+  "gb.skynews",
+  "gb.reuters",
+  "gb.guardian",
+  "gb.independent",
   "gb.mirror",
-  "gb.bbcnewsarabic",
-  "gb.timesradio",
-  "gb.talksport"
+  "gb.express"
  ],
  "channels": [
   {
@@ -20,9 +22,9 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "ZGMlQig0mwA",
+   "youtubeVideoId": "Yi3sPK3Ls54",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -170,9 +172,9 @@
     "en"
    ],
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-   "youtubeVideoId": "qFcl7JRivVI",
+   "youtubeVideoId": "aImPqBavIAI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -352,9 +354,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA",
-   "youtubeVideoId": "SjbEJIlv9j0",
+   "youtubeVideoId": "s5LIe7f1mNM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5614018",
    "description": {
     "en": "British news website",
@@ -426,9 +428,9 @@
     "en"
    ],
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
-   "youtubeVideoId": "CZ6G8BVph_E",
+   "youtubeVideoId": "4_gXNgKUV7A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -482,7 +484,7 @@
     "en"
    ],
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
-   "youtubeVideoId": "nDxWh4guNKI",
+   "youtubeVideoId": "YUx7PRkXINQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -554,9 +556,9 @@
     "en"
    ],
    "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA",
-   "youtubeVideoId": "8CdkVZ3PNFw",
+   "youtubeVideoId": "sah7bpqDtu8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

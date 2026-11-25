@@ -1,15 +1,14 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112502,
+ "version": 2026112512,
  "defaultTiles": [
+  "th.thaipbs",
   "th.thairath",
-  "th.ch3news",
   "th.tnn",
   "th.pptv",
   "th.amarin",
-  "th.topnews",
-  "th.tpchannel"
+  "th.topnews"
  ],
  "channels": [
   {
@@ -20,9 +19,9 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "0pUh8LJEWco",
+   "youtubeVideoId": "fI-kmUj11sc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -70,7 +69,7 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "Azc6V54VQEM",
+   "youtubeVideoId": "ADKpfoAWmjE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -90,7 +89,7 @@
    "youtubeChannelId": "UCirZPTc9IoKM_DsA9aKbc4g",
    "youtubeVideoId": "kh1ZHckwGxc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -124,7 +123,7 @@
     "th"
    ],
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
-   "youtubeVideoId": "hp9VBWbE-E8",
+   "youtubeVideoId": "rMap9B8abJM",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -142,7 +141,7 @@
     "th"
    ],
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
-   "youtubeVideoId": "Mw1eqXpKehs",
+   "youtubeVideoId": "QgAnkKeqW_Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16306127",
@@ -168,7 +167,7 @@
     "th"
    ],
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
-   "youtubeVideoId": "0xub_lHgllw",
+   "youtubeVideoId": "gA3gIt6PACg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -222,7 +221,7 @@
     "th"
    ],
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
-   "youtubeVideoId": "fP6-p30U4cw",
+   "youtubeVideoId": "MkKna58k5sI",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -296,7 +295,7 @@
    "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A",
    "youtubeVideoId": "YfR5ykKx-Ig",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

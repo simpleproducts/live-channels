@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026112502,
+ "version": 2026112512,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "uyglN7BVJTs",
+   "youtubeVideoId": "9Xz04KGysdY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "JHjPHQ4dQlU",
+   "youtubeVideoId": "NBtyDxQiSs0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -89,7 +89,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "XfVU3vn4WSw",
+   "youtubeVideoId": "7HBC6mnQ5eo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6495373",
@@ -127,7 +127,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "-DkbrOubTnQ",
+   "youtubeVideoId": "tTdpUggfIKY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -145,7 +145,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "_50q6mO3eeg",
+   "youtubeVideoId": "xBpNWza55dw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -163,7 +163,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-   "youtubeVideoId": "MxVab6PeIVQ",
+   "youtubeVideoId": "qB41_WFypUc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "1Y_BykiHi14",
+   "youtubeVideoId": "DIET0hTJkHk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -244,7 +244,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
-   "youtubeVideoId": "dpnMEMRtF5s",
+   "youtubeVideoId": "CNzqbkqe9uY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -368,7 +368,7 @@
    "youtubeChannelId": "UC6kZpTl39-_SqfBrF1-N2oQ",
    "youtubeVideoId": "aHtKAYlPXZY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -474,7 +474,7 @@
     "ko"
    ],
    "youtubeChannelId": "UC1ifSsWUG241rRfK0ezYCgA",
-   "youtubeVideoId": "MVzSc0bMXlw",
+   "youtubeVideoId": "hdp8k6Yh7rU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -512,7 +512,7 @@
    "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
    "youtubeVideoId": "HQZC0NDayF4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -587,7 +587,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A",
-   "youtubeVideoId": "WaJnN5t1bFs",
+   "youtubeVideoId": "9knd5Xb4K3M",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -781,7 +781,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
-   "youtubeVideoId": "iGTKvtXZd1A",
+   "youtubeVideoId": "_PX58t7d6MM",
    "embeddable": true,
    "live": true,
    "wikidata": null,

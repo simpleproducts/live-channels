@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112502,
+ "version": 2026112512,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
+  "us.livenow",
   "us.newsmax",
   "us.foxweather",
   "us.foxnews",
   "us.cbsnews",
   "us.nbcnews",
-  "us.livenow",
-  "us.nmasunivision"
+  "us.scripps"
  ],
  "channels": [
   {
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "p9y2FOI49FE",
+   "youtubeVideoId": "qQKeNs9is20",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "8igLkrFYQ8k",
+   "youtubeVideoId": "-LSuaW99Bn0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "Ixr_HzHbAsY",
+   "youtubeVideoId": "p1OhtCNJT3I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -491,9 +491,9 @@
     "en"
    ],
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-   "youtubeVideoId": "hdaZftitWBs",
+   "youtubeVideoId": "BNe1VyZphFM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
