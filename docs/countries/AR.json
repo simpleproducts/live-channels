@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026112417,
+ "version": 2026112502,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -10,8 +10,8 @@
   "ar.canal26",
   "ar.cronica",
   "ar.canalrural",
-  "ar.infobae",
-  "ar.tvpublica"
+  "ar.tvpublica",
+  "ar.america"
  ],
  "channels": [
   {
@@ -197,7 +197,7 @@
    "youtubeChannelId": "UCvsU0EGXN7Su7MfNqcTGNHg",
    "youtubeVideoId": "iap9zUXyGmk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5915760",
    "description": {
     "en": "Argentine newspaper",
@@ -228,9 +228,9 @@
     "es"
    ],
    "youtubeChannelId": "UCHc3el42hXKKhjs_1vzWk9A",
-   "youtubeVideoId": "T1-TQ5bVwMs",
+   "youtubeVideoId": "Poz8Mj6sVk4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1143518",
    "description": {
     "en": "Argentine television network",
@@ -508,7 +508,7 @@
    "youtubeChannelId": "UCD4OTQquAFMT8DinS4U9J7A",
    "youtubeVideoId": "qo9Qjl1wTnk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -662,7 +662,7 @@
    "youtubeChannelId": "UCStm2uvQKowSXrnCzTWAn6Q",
    "youtubeVideoId": "mIx1mhuwvTk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2118303",
    "description": {
     "en": "upper house of Argentina Congress",
@@ -834,7 +834,7 @@
    "youtubeChannelId": "UCTHaNTsP7hsVgBxARZTuajw",
    "youtubeVideoId": "VEKBtJeAKo4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -852,7 +852,7 @@
    "youtubeChannelId": "UC7mJ2EDXFomeDIRFu5FtEbA",
    "youtubeVideoId": "BPDJ4ROnffU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -888,7 +888,7 @@
    "youtubeChannelId": "UCWSfXECGo1qK_H7SXRaUSMg",
    "youtubeVideoId": "Y2THJtbUx18",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -904,7 +904,7 @@
     "es"
    ],
    "youtubeChannelId": "UC4mdhKZXjrKoq5aVG6juHEg",
-   "youtubeVideoId": "ktIx6qhTJ3k",
+   "youtubeVideoId": "kqtInFzQ_Ao",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -924,7 +924,7 @@
    "youtubeChannelId": "UCgn6r0aGRBnEQm02tE_jzbw",
    "youtubeVideoId": "C-7cP9-miGc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42912634",
    "description": {
     "en": "Argentine radio station",
@@ -964,7 +964,7 @@
     "es"
    ],
    "youtubeChannelId": "UCgLBmUFPO8JtZ1nPIBQGMlQ",
-   "youtubeVideoId": "-rzwB5wtHqA",
+   "youtubeVideoId": "gAStTmjLvxY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -984,7 +984,7 @@
    "youtubeChannelId": "UC4u0BhsSi33PS20_1JHiC5A",
    "youtubeVideoId": "HG9V0VwimKM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1156,7 +1156,7 @@
    "youtubeChannelId": "UCz9Z9Qu-eZDkDnQ6lgI1YSQ",
    "youtubeVideoId": "THGSqIWz6p4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1196,7 +1196,7 @@
     "es"
    ],
    "youtubeChannelId": "UCxDteokWBemJvLI_I0VUGdA",
-   "youtubeVideoId": "p4bw4lfstVA",
+   "youtubeVideoId": "iVEy50wWSaQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1216,7 +1216,7 @@
    "youtubeChannelId": "UCC1kfsMJko54AqxtcFECt-A",
    "youtubeVideoId": "cy1uuwyixq0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1325,7 +1325,7 @@
    "youtubeChannelId": "UC-rI_XNppHJO-Ga4RW_CDKw",
    "youtubeVideoId": "yQvHHzJblZI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

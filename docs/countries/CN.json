@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026112417,
+ "version": 2026112502,
  "defaultTiles": [
   "cn.cgtnfr",
-  "cn.cgtneurope",
-  "cn.cgtnafrica"
+  "cn.cgtneurope"
  ],
  "channels": [
   {
@@ -62,7 +61,7 @@
     "en"
    ],
    "youtubeChannelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
-   "youtubeVideoId": "8p4Bo_D3Zd4",
+   "youtubeVideoId": "dygFxr0D0U4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q97238770",
@@ -229,7 +228,7 @@
    "youtubeChannelId": "UCMeYPU1YfXjxsUa6QXWsfjg",
    "youtubeVideoId": "iLNxqNRQ29g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10872818",
    "description": {
     "en": "television channel",

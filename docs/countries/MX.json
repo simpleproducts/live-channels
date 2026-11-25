@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112417,
+ "version": 2026112502,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
+  "mx.nmas",
   "mx.heraldo",
   "mx.multimedios",
   "mx.canalonce",
-  "mx.imagenradio",
-  "mx.imagentv",
-  "mx.canalcongreso"
+  "mx.canal14",
+  "mx.tvazteca"
  ],
  "channels": [
   {
@@ -40,9 +40,9 @@
     "es"
    ],
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
-   "youtubeVideoId": "6fA7P5f89tg",
+   "youtubeVideoId": "peUWlB3KVA0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,7 +139,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "a96H5sA6dXc",
+   "youtubeVideoId": "0rrRpk4XATA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65047709",
@@ -309,9 +309,9 @@
     "es"
    ],
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
-   "youtubeVideoId": "ELKI40J9xvc",
+   "youtubeVideoId": "s9Z6JwWWEGg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -336,7 +336,7 @@
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
    "youtubeVideoId": "AZtn6yVx-Os",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -368,9 +368,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNVrBkfp4_TG9x4h5kvLeAQ",
-   "youtubeVideoId": "XHAq92RlIzY",
+   "youtubeVideoId": "ht9cQ93Kf6A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -468,7 +468,7 @@
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
    "youtubeVideoId": "kofoGeQBHag",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -490,7 +490,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "2Mp789VCkvk",
+   "youtubeVideoId": "cyZJRIEf9RE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -515,7 +515,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "XQG4LkORtqE",
+   "youtubeVideoId": "yeE66k3zjK4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -533,7 +533,7 @@
     "es"
    ],
    "youtubeChannelId": "UCB0BUmdBOrH9mYU2ebs1eWA",
-   "youtubeVideoId": "xZAK_CDy8yA",
+   "youtubeVideoId": "UtIhEJ6Dwo8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -571,7 +571,7 @@
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
    "youtubeVideoId": "-lWByg9UczI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -587,9 +587,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw",
-   "youtubeVideoId": "6c-NdzEz5Uo",
+   "youtubeVideoId": "_cbnAPT49J4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q42908534",
    "description": {
     "en": "Canal Veintidós is a national public television network of Mexico, owned by Televisión Metropolitana, S.A.",

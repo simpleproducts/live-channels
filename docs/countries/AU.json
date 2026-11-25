@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026112417,
+ "version": 2026112502,
  "defaultTiles": [
-  "au.abcnews"
+  "au.abcnews",
+  "au.aph"
  ],
  "channels": [
   {
@@ -127,9 +128,9 @@
     "en"
    ],
    "youtubeChannelId": "UCzx6ti0rql6Q2Dc2zSAPmuA",
-   "youtubeVideoId": "KlN_lEmr8t0",
+   "youtubeVideoId": "K8yw9y_38Ds",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q382118",
    "description": {
     "en": "bicameral national legislature of Australia",

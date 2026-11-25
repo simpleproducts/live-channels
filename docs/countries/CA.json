@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026112417,
+ "version": 2026112502,
  "defaultTiles": [
   "ca.cbcnews",
-  "ca.canadianpress",
-  "ca.noovo"
+  "ca.thenational"
  ],
  "channels": [
   {
@@ -132,7 +131,7 @@
    "youtubeChannelId": "UCVXKFbyJxnx2s4LcCJ_riIg",
    "youtubeVideoId": "wahQmlQactU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -188,9 +187,9 @@
     "en"
    ],
    "youtubeChannelId": "UCKjU3KzdbJE1EFcHVqXC3_g",
-   "youtubeVideoId": "nNQxm1QeVaU",
+   "youtubeVideoId": "jtF39OxrOiE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2413021",
    "description": {
     "en": "flagship daily evening television news program of CBC News",
@@ -227,7 +226,7 @@
    "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw",
    "youtubeVideoId": "Lc3r_hUlvJo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2410130",
    "description": {
     "en": "Canadian private news agency established in 1917",

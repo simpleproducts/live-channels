@@ -1,13 +1,11 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112417,
+ "version": 2026112502,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.skynews",
-  "gb.independent",
   "gb.mirror",
   "gb.bbcnewsarabic",
   "gb.timesradio",
@@ -24,7 +22,7 @@
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
    "youtubeVideoId": "ZGMlQig0mwA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -430,7 +428,7 @@
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
    "youtubeVideoId": "CZ6G8BVph_E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026112417,
+ "version": 2026112502,
  "defaultTiles": [
   "cl.24horas",
   "cl.t13",
@@ -67,7 +67,7 @@
     "es"
    ],
    "youtubeChannelId": "UCRsUoZYC1ULUspipMRnMhwg",
-   "youtubeVideoId": "i1ewZSIhI5A",
+   "youtubeVideoId": "KIx6RFpImiw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -168,7 +168,7 @@
     "es"
    ],
    "youtubeChannelId": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-   "youtubeVideoId": "StRM1gE2gBs",
+   "youtubeVideoId": "KmQ6UXuJAC8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597933",
@@ -224,7 +224,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8EdTmyUaFIfZvVttJ9lgIA",
-   "youtubeVideoId": "XVFEsdN14o4",
+   "youtubeVideoId": "zLvLUKcjEyM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q600815",
@@ -266,7 +266,7 @@
     "es"
    ],
    "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ",
-   "youtubeVideoId": "rwDqdv-j_f0",
+   "youtubeVideoId": "-6lYDZN0Yg4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q597946",
@@ -376,7 +376,7 @@
    "youtubeChannelId": "UCZnboDa_k5jxFCGp6jVhpUQ",
    "youtubeVideoId": "-GOuDV8ZyBw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3547157",
    "description": {
     "en": "Chilean television channel, formerly known as UCV Televisión",
@@ -506,7 +506,7 @@
    "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA",
    "youtubeVideoId": "BJvWaGiq0GU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5653556",
    "description": {
     "en": "radio station in Chile",
@@ -533,7 +533,7 @@
    "youtubeChannelId": "UCQcmb3lvx7hZCoOXvcCvgBg",
    "youtubeVideoId": "GXesYyZKrEg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -567,7 +567,7 @@
     "es"
    ],
    "youtubeChannelId": "UCBkkqRIsRTbio4W7MwAZiEw",
-   "youtubeVideoId": "abga6_sQ4kY",
+   "youtubeVideoId": "AZAKpz4qI58",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -623,7 +623,7 @@
    "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA",
    "youtubeVideoId": "TTG7vYrIDlU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
