@@ -17,6 +17,11 @@
   {"id": "tnamcot", "name": "TNA MCOT", "category": "news", "youtubeChannelId": "UC3SaG2jCoWuI50eC41OJ53Q", "live": false, "languages": ["th"]},
   {"id": "thestandard", "name": "THE STANDARD", "category": "news", "youtubeChannelId": "UCk1v3FzlMu3r34LYgoHpH2w", "youtubeVideoId": "xonz7iBmAFI", "embeddable": true, "live": false, "languages": ["th"]},
   {"id": "today", "name": "TODAY", "category": "news", "youtubeChannelId": "UCQ2ABjf4gcrF0-zfDLQhWFQ", "youtubeVideoId": "mQ19XyTmjNw", "embeddable": true, "live": false, "languages": ["th"]},
+  {"id": "prachatai", "name": "Prachatai", "category": "news", "youtubeChannelId": "UCCKjgCudsO_Q52HJrmeb1wQ", "live": false, "wikidata": "Q6579863"},
+  {"id": "9mcot", "name": "9MCOT", "category": "broadcast", "youtubeChannelId": "UC59st8OON3dV50gHefqUlsg", "live": false, "wikidata": "Q1087488"},
+  {"id": "ch3thailand", "name": "Ch3Thailand", "category": "broadcast", "youtubeChannelId": "UC48h7Dst_hX82HxOf3xJw_w", "live": false, "wikidata": "Q1571768"},
+  {"id": "8thaich8", "name": "ช่อง8 : Thai Ch8", "category": "broadcast", "youtubeChannelId": "UCtBu8Wb2BUoduUXJS9Uss7Q", "live": false, "wikidata": "Q16307715"},
+  {"id": "gmm25thailand", "name": "GMM25Thailand", "category": "broadcast", "youtubeChannelId": "UCTP5z0kFg6-nPcZ79gTC67Q", "live": false, "wikidata": "Q20574161"},
   {"id": "tpchannel", "name": "TP Channel (Parliament)", "category": "government", "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A", "youtubeVideoId": "YfR5ykKx-Ig", "embeddable": true, "live": false, "languages": ["th"]}
  ]
 }

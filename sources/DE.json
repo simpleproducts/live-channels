@@ -12,7 +12,12 @@
   {"id": "euronewsde", "name": "Euronews Deutsch", "category": "news", "youtubeChannelId": "UCACdxU3VrJIJc7ujxtHWs1w", "youtubeVideoId": "CQ3KsEbsYHs", "embeddable": true, "live": true, "liveSince": "2022-09-19T16:59:24Z"},
   {"id": "dwespanol", "name": "DW Español", "category": "news", "youtubeChannelId": "UCT4Jg8h03dD0iN3Pb5L0PMA", "youtubeVideoId": "yZh3xsFqCt8", "embeddable": true, "live": true, "liveSince": "2026-04-28T18:12:42Z", "languages": ["es"]},
   {"id": "ntv", "name": "ntv Nachrichten", "category": "news", "youtubeChannelId": "UCSeil5V81-mEGB1-VNR7YEA", "live": false},
+  {"id": "dw", "name": "DW на русском", "category": "news", "youtubeChannelId": "UCXoAjrdHFa2hEL3Ug8REC1w", "youtubeVideoId": "gP7872YRFDk", "embeddable": true, "live": true, "liveSince": "2025-10-25T00:00:00Z", "languages": ["ru"], "wikidata": "Q153770"},
+  {"id": "echo", "name": "Эхо", "category": "news", "youtubeChannelId": "UCs8I8inqV5b-_UY0Hm7K0Jg", "live": false, "languages": ["ru"], "wikidata": "Q114398988"},
+  {"id": "nius", "name": "NIUS", "category": "news", "youtubeChannelId": "UCQGqiGhMjc_p4lZEhSTb12g", "live": false, "wikidata": "Q120979051"},
+  {"id": "tvberlin", "name": "tvberlin", "category": "regional", "youtubeChannelId": "UCwtBLZ8VGfchDTJ_cYZ5S1A", "youtubeVideoId": "Kwz-0udZwEQ", "embeddable": true, "live": true, "liveSince": "2026-09-17T00:00:00Z", "wikidata": "Q1714624"},
   {"id": "bundestag", "name": "Deutscher Bundestag", "category": "government", "youtubeChannelId": "UCbh5D3EdIHP4YQA5X-eK1ug", "youtubeVideoId": "LvqxsqaDluw", "embeddable": true, "live": true, "liveSince": "2026-11-25T07:42:39Z"},
-  {"id": "radioeins", "name": "radioeins", "category": "radio", "youtubeChannelId": "UC-ZMxS-psFAo2NahWdE3I5g", "youtubeVideoId": "wxWtNfGVpPU", "embeddable": true, "live": false, "languages": ["de"]}
+  {"id": "radioeins", "name": "radioeins", "category": "radio", "youtubeChannelId": "UC-ZMxS-psFAo2NahWdE3I5g", "youtubeVideoId": "wxWtNfGVpPU", "embeddable": true, "live": false, "languages": ["de"]},
+  {"id": "sat1", "name": "SAT.1", "category": "entertainment", "youtubeChannelId": "UCjIcbyvVQm_alh_Qn5OIgWQ", "youtubeVideoId": "Fy1Z-RR5mDQ", "embeddable": true, "live": true, "liveSince": "2026-09-25T00:00:00Z", "wikidata": "Q313332"}
  ]
 }

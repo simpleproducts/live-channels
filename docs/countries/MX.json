@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
   "mx.nmas",
   "mx.imagennoticias",
+  "mx.reporteindigo",
   "mx.multimedios",
   "mx.canalonce",
-  "mx.imagentv",
-  "mx.radioformula"
+  "mx.imagenradio"
  ],
  "channels": [
   {
@@ -226,6 +226,48 @@
    "city": null
   },
   {
+   "id": "mx.reporteindigo",
+   "name": "Reporte Indigo",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCCCjc1piE1mIrhcE3ejENeA",
+   "youtubeVideoId": "fo04h4Brp20",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q86493820",
+   "description": {
+    "en": "Mexican news website",
+    "es": "sitio web de noticias mexicano"
+   },
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ReporteIndigo_GDL.jpg?width=256",
+   "website": "https://www.reporteindigo.com/",
+   "city": null
+  },
+  {
+   "id": "mx.sinembargoalaire",
+   "name": "SinEmbargo Al Aire",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCt7k7y_xTkkc1Jeh7cdAjDQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q111978975",
+   "description": {
+    "en": "Mexican news publisher",
+    "ar": "دار نشر"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.sinembargo.mx/",
+   "city": null
+  },
+  {
    "id": "mx.elfinanciero",
    "name": "El Financiero",
    "category": "economy",
@@ -433,6 +475,67 @@
    "city": "Ciudad de México"
   },
   {
+   "id": "mx.el5",
+   "name": "El 5",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCRZSTf9laa2wkHPOaiOoldA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5030976",
+   "description": {
+    "en": "television network",
+    "es": "canal de televisión mexicano",
+    "fr": "chaîne de télévision",
+    "pt-BR": "Rede de televisão",
+    "ko": "텔레비전 네트워크",
+    "it": "rete televisiva",
+    "ru": "телевизионная сеть",
+    "ar": "شبكة تلفزيونية",
+    "id": "jaringan televisi",
+    "de": "Fernsehnetzwerk"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_5_(Mexican_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/Canal_5_(M%C3%A9xico)",
+    "fr": "https://fr.wikipedia.org/wiki/Canal_5_(Mexique)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_5_(M%C3%A9xico)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%82%A0_5",
+    "it": "https://it.wikipedia.org/wiki/Canal_5_(rete_televisiva_messicana)",
+    "ru": "https://ru.wikipedia.org/wiki/Canal_5",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9_(%D8%AA%D9%8A%D9%84%D9%81%D9%8A%D8%B2%D8%A7)",
+    "id": "https://id.wikipedia.org/wiki/Canal_5_(Meksiko)",
+    "de": "https://de.wikipedia.org/wiki/Canal_5"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_5_Mexico_logo_2014.svg?width=256",
+   "website": "http://www.televisa.com/canal5/",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.novedadesquintanaroo",
+   "name": "Novedades Quintana Roo",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCZijOJ1m75sq8Z28HDioEuQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q58979980",
+   "description": {
+    "en": "Cancún, Mexico newspaper",
+    "nl": "krant uit Mexico"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://sipse.com/novedades/",
+   "city": null
+  },
+  {
    "id": "mx.gobmx",
    "name": "Gobierno de México",
    "category": "government",
@@ -481,6 +584,29 @@
    "logo": null,
    "website": "http://www.canaldelcongreso.gob.mx",
    "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.tvaztecadeportes",
+   "name": "TV Azteca Deportes",
+   "category": "sports",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCe3Ev4a4Sm9L5aO9sJJ_WXw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5715132",
+   "description": {
+    "en": "sports division of TV Azteca",
+    "es": "División de Azteca TV dedicado a los eventos deportivos"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Azteca_Deportes"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aztecadeporteslogo.png?width=256",
+   "website": "https://www.tvazteca.com/aztecadeportes/",
+   "city": null
   },
   {
    "id": "mx.radioformula",
@@ -592,7 +718,7 @@
    "live": false,
    "wikidata": "Q42908534",
    "description": {
-    "en": "Canal Veintidós is a national public television network of Mexico, owned by Televisión Metropolitana, S.A.",
+    "en": "Mexican public TV network",
     "es": "canal de televisión abierta y pública en México"
    },
    "wikipedia": {
@@ -601,6 +727,87 @@
    },
    "logo": null,
    "website": "http://www.canal22.org.mx/",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.tvunam",
+   "name": "TV UNAM",
+   "category": "culture",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCrnbT_nd9Dvg87PXefx7pQA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q24729640",
+   "description": {
+    "en": "Mexican public TV network",
+    "es": "Canal de televisión",
+    "pt-BR": "TV UNAM é um canal de televisão aberta mexicano, propriedade da Universidade Nacional Autónoma de México e administrada pela Direcção Geral de Televisão Universitária que faz parte da Coordenação de Difusão Cultural da Universidade Nacional."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_UNAM",
+    "es": "https://es.wikipedia.org/wiki/TV_UNAM",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_UNAM"
+   },
+   "logo": null,
+   "website": "http://tv.unam.mx/",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.distritocomedia",
+   "name": "Distrito Comedia",
+   "category": "entertainment",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCms2rIXwmMvIpDUU69X0PoQ",
+   "youtubeVideoId": "t8HuqJeu6LE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q5164063",
+   "description": {
+    "en": "Mexican TV channel",
+    "es": "Canal de televisión por suscripción",
+    "pt-BR": "Distrito Comedia é um canal de televisão por assinatura pertencente a TelevisaUnivision Content Licensing (TelevisaUnivision) que estreou em 1 de outubro de 2012 em substituição do canal Clásico TV.",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Distrito_Comedia",
+    "es": "https://es.wikipedia.org/wiki/Distrito_Comedia",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Distrito_Comedia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/DistritoComediaLOGO2018.png?width=256",
+   "website": "https://www.televisa.com/distrito-comedia",
+   "city": "Ciudad de México"
+  },
+  {
+   "id": "mx.tlnovelas",
+   "name": "Tlnovelas",
+   "category": "entertainment",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCKyU-wd-KY4PMOcOpPQgQcw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3063060",
+   "description": {
+    "en": "Spanish-language pay television network",
+    "es": "Canal de televisión por suscripción",
+    "fr": "TLNovelas, est un réseau de télévision payante du Mexique, Amérique latine, Canada, Europe, Australie et Nouvelle-Zélande.",
+    "pt-BR": "TLNovelas é uma rede de televisão por cabo e por satélite do México."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Tlnovelas",
+    "es": "https://es.wikipedia.org/wiki/Tlnovelas",
+    "fr": "https://fr.wikipedia.org/wiki/TLNovelas",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TLNovelas"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tlnovelas_logo_2021.png?width=256",
+   "website": "https://www.televisa.com/tlnovelas",
    "city": "Ciudad de México"
   }
  ]

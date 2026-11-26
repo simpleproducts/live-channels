@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CH",
- "version": 2026111521,
+ "version": 2026112601,
  "defaultTiles": [
   "ch.20minuten",
   "ch.bundesrat"
@@ -41,6 +41,30 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/20Minuten_Logo_ab_mai_2013.jpg?width=256",
    "website": "http://www.20min.ch/de",
    "city": "Zürich"
+  },
+  {
+   "id": "ch.kontrafunkdiestimmederve",
+   "name": "Kontrafunk - Die Stimme der Vernunft",
+   "category": "broadcast",
+   "languages": [
+    "de",
+    "fr",
+    "it"
+   ],
+   "youtubeChannelId": "UCyH9w3VhfZPdjH28VFeoHUA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q129530014",
+   "description": {
+    "de": "deutschsprachiger Internet-Radiosender mit Sitz in Steckborn in der Schweiz"
+   },
+   "wikipedia": {
+    "de": "https://de.wikipedia.org/wiki/Kontrafunk"
+   },
+   "logo": null,
+   "website": "https://kontrafunk.radio/de/",
+   "city": "Steckborn"
   },
   {
    "id": "ch.bundesrat",

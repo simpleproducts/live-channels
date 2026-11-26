@@ -13,6 +13,26 @@
   {"id": "5kanal", "name": "5 канал", "category": "news", "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg", "youtubeVideoId": "0jkTYCaRBKA", "embeddable": true, "live": true, "liveSince": "2026-11-16T12:12:23Z"},
   {"id": "24kanal", "name": "24 Канал", "category": "news", "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ", "youtubeVideoId": "0JeZrU3AhNY", "embeddable": true, "live": false},
   {"id": "united24", "name": "UNITED24", "category": "news", "youtubeChannelId": "UCX-xHRN9CnoXto5gcPskANA", "youtubeVideoId": "oGvn8UqLEKE", "embeddable": true, "live": true, "liveSince": "2026-11-23T09:33:54Z", "languages": ["en", "uk"]},
-  {"id": "rada", "name": "Телеканал Рада", "category": "government", "youtubeChannelId": "UC5V8mErVFOpcQXEb3y9IMZw", "youtubeVideoId": "ApdD9Z5m2g0", "embeddable": true, "live": true, "liveSince": "2026-11-25T10:42:17Z"}
+  {"id": "tv", "name": "Апостроф TV", "category": "news", "youtubeChannelId": "UC0lnIB2qcArjFJPtq79WGZA", "youtubeVideoId": "vpSMFQyQKj0", "embeddable": true, "live": true, "liveSince": "2026-10-13T00:00:00Z", "wikidata": "Q107710688"},
+  {"id": "myukraina", "name": "Ми - Україна", "category": "news", "youtubeChannelId": "UCEduOt4TK8TtOaznB45TrhA", "youtubeVideoId": "jMmPMOUrdWg", "embeddable": true, "live": true, "liveSince": "2026-11-25T14:00:00Z", "wikidata": "Q115118046"},
+  {"id": "armytvukrainianmilitaryc", "name": "Army TV", "category": "news", "youtubeChannelId": "UCWRZ7gEgbry5FI2-46EX3jA", "live": false, "wikidata": "Q117831704"},
+  {"id": "radiosvobodaukraine", "name": "Радіо Свобода", "category": "news", "youtubeChannelId": "UC7qnYpVcuFbURi3E2E6_f6Q", "live": false, "wikidata": "Q85999798"},
+  {"id": "ukrinform", "name": "Ukrinform", "category": "news", "youtubeChannelId": "UCaDkCK6iFHPE0lmpaYL-WxQ", "live": false, "wikidata": "Q987030"},
+  {"id": "tv2", "name": "Главред TV", "category": "news", "youtubeChannelId": "UC1sx9fpIKKs780MrgWH41JQ", "youtubeVideoId": "GPPNPdPnMMM", "embeddable": true, "live": true, "liveSince": "2026-11-24T21:00:00Z", "languages": ["ru"], "wikidata": "Q12096008"},
+  {"id": "obozua", "name": "OBOZ UA", "category": "news", "youtubeChannelId": "UC97O_ce8Rm7rE0hjE82joaA", "live": false, "wikidata": "Q4329488"},
+  {"id": "ukrainianindependentinfo", "name": "УНІАН", "category": "news", "youtubeChannelId": "UCKCVeAihEfJr-pGH7B73Wyg", "youtubeVideoId": "RzMo_IEUxrU", "embeddable": true, "live": true, "liveSince": "2026-11-24T00:00:00Z", "wikidata": "Q2095222"},
+  {"id": "interfaxukraine", "name": "Інтерфакс-Україна", "category": "news", "youtubeChannelId": "UC0jDU9VRITdZQsFP0q5FPrg", "live": false, "wikidata": "Q2448686"},
+  {"id": "11", "name": "Телеканал 1+1", "category": "broadcast", "youtubeChannelId": "UCVEaAWKfv7fE1c-ZuBs7TKQ", "youtubeVideoId": "lnrp2S2L6qk", "embeddable": true, "live": true, "liveSince": "2025-06-26T00:00:00Z", "wikidata": "Q161257"},
+  {"id": "novyikanal", "name": "Новий канал", "category": "broadcast", "youtubeChannelId": "UCAptZHV2-xkB4GJGgSKRsHQ", "youtubeVideoId": "bENGIUu6TkE", "embeddable": true, "live": true, "liveSince": "2026-11-24T00:00:00Z", "wikidata": "Q2638833"},
+  {"id": "8ua", "name": "8 канал. ua", "category": "broadcast", "youtubeChannelId": "UCUIAYbkfw7sbpI4KwqShAnQ", "live": false, "wikidata": "Q65206797"},
+  {"id": "ictv2", "name": "ICTV2", "category": "broadcast", "youtubeChannelId": "UChJ5W743nHEUCcM1xCFf-5g", "youtubeVideoId": "Zx0Qn2LpJUM", "embeddable": true, "live": true, "liveSince": "2026-10-28T00:00:00Z", "wikidata": "Q115736277"},
+  {"id": "stb", "name": "Телеканал СТБ", "category": "broadcast", "youtubeChannelId": "UCrb7XNZEwPheovXjgbkH5vg", "youtubeVideoId": "Cc4G-cY3WdQ", "embeddable": true, "live": true, "liveSince": "2026-11-21T00:00:00Z", "wikidata": "Q2032137"},
+  {"id": "1podilskiy", "name": "Перший Подільський", "category": "regional", "youtubeChannelId": "UC-HlSzVsIkTw7mcH6rzxgsA", "live": false, "wikidata": "Q111369459"},
+  {"id": "ntatvchannel", "name": "NTA TV channel", "category": "regional", "youtubeChannelId": "UCQdSS9GSBbtSqW3oNB39KTw", "live": false, "wikidata": "Q12131878"},
+  {"id": "112", "name": "11 канал", "category": "regional", "youtubeChannelId": "UCwALNfmBX8f2XKt2xe4PMBA", "youtubeVideoId": "LiuZEa8jOio", "embeddable": true, "live": true, "liveSince": "2026-11-25T04:00:00Z", "wikidata": "Q65155990"},
+  {"id": "tv7plus", "name": "TV7plus", "category": "regional", "youtubeChannelId": "UCxAljB9DmPsN10Me6YYHDww", "live": false, "wikidata": "Q116871524"},
+  {"id": "rada", "name": "Телеканал Рада", "category": "government", "youtubeChannelId": "UC5V8mErVFOpcQXEb3y9IMZw", "youtubeVideoId": "ApdD9Z5m2g0", "embeddable": true, "live": true, "liveSince": "2026-11-25T10:42:17Z"},
+  {"id": "megogosport", "name": "MEGOGO SPORT", "category": "sports", "youtubeChannelId": "UCCKMcQ8NpxeEN0h8LLe-y6Q", "youtubeVideoId": "qDYp5UFdwzM", "embeddable": true, "live": true, "liveSince": "2026-11-25T19:00:00Z", "wikidata": "Q128911972"},
+  {"id": "radionv", "name": "Radio NV", "category": "radio", "youtubeChannelId": "UCVoPOHZYyNUr1GiVnRVm2ig", "live": false, "wikidata": "Q50398001"}
  ]
 }

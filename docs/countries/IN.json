@@ -1,11 +1,11 @@
 {
  "schema": 2,
  "code": "IN",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
+  "in.aajtak",
   "in.ddnews",
   "in.indiatv",
-  "in.aajtak",
   "in.ndtvindia",
   "in.abpnews",
   "in.zeenews",
@@ -552,6 +552,423 @@
    "city": "नई दिल्ली"
   },
   {
+   "id": "in.zee24taas",
+   "name": "Zee 24 Taas",
+   "category": "news",
+   "languages": [
+    "mr"
+   ],
+   "youtubeChannelId": "UCVbsFo8aCgvIRIO9RYwsQMA",
+   "youtubeVideoId": "YiuXPY1LvnQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4215755",
+   "description": {
+    "en": "Indian Marathi-language news channel",
+    "id": "ZEE 24 TAAS adalah saluran televisi berita dan urusan publik 24-jam berbahasa Marathi di Mumbai, India, diluncurkan pada 12 Februari 2007."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Zee_24_Taas",
+    "id": "https://id.wikipedia.org/wiki/Zee_24_Taas"
+   },
+   "logo": null,
+   "website": "http://zeenews.india.com/marathi/",
+   "city": null
+  },
+  {
+   "id": "in.kolkatatv",
+   "name": "Kolkata Tv",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCNvCQpcafnbW4KQ8X7oQ9kg",
+   "youtubeVideoId": "D1NMci92BKg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q6427312",
+   "description": {
+    "en": "Indian Bengali news channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Kolkata_TV"
+   },
+   "logo": null,
+   "website": "https://kolkatatv.org/",
+   "city": "कोलकाता"
+  },
+  {
+   "id": "in.ptcnews",
+   "name": "PTC NEWS",
+   "category": "news",
+   "languages": [
+    "pa"
+   ],
+   "youtubeChannelId": "UCQLEbraENUGWh6p1Rv664rQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q24905913",
+   "description": {
+    "en": "Indian Punjabi-language TV news channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/PTC_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/PTC_NEWS_LOGO.png?width=256",
+   "website": "https://www.ptcnews.tv/",
+   "city": null
+  },
+  {
+   "id": "in.tv9gujarati",
+   "name": "TV9 Gujarati",
+   "category": "news",
+   "languages": [
+    "gu"
+   ],
+   "youtubeChannelId": "UCeJWZgSMlzqYEDytDnvzHnw",
+   "youtubeVideoId": "5j6fImdcwSw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2721416",
+   "description": {
+    "en": "Indian Gujarati-language television news channel",
+    "ms": "saluran televisyen berita India berbahasa Gujarat"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.tv9gujarati.com/",
+   "city": null
+  },
+  {
+   "id": "in.prabhasakshi",
+   "name": "Prabhasakshi",
+   "category": "news",
+   "languages": [
+    "hi"
+   ],
+   "youtubeChannelId": "UCk77z4G2lg2_wFoFRz6XZSg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q15658392",
+   "description": {
+    "en": "Prabhasakshi is a digital-only Hindi news website that has been in operation since 2001. It is committed to delivering reliable, fact-based journalism, avoiding sensationalism and focusing on in depth news coverage.",
+    "nl": "krant uit India"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Prabhasakshi"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Prabhasakshi-logo.png?width=256",
+   "website": "https://www.prabhasakshi.com",
+   "city": "नई दिल्ली"
+  },
+  {
+   "id": "in.theindianexpress",
+   "name": "The Indian Express",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCJEDFSxHHOW1PpBccdSxOTA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1954843",
+   "description": {
+    "en": "daily broadsheet newspaper in India",
+    "es": "The Indian Express es un periódico diario indio en inglés.",
+    "zh-Hans": "印度报纸",
+    "ja": "日刊新聞（1932年創刊、インド）。全国紙から、1999年以降は分裂して配布を北インにド限定。",
+    "fr": "quotidien indien en langue anglaise",
+    "pt-BR": "The Indian Express é um jornal diário indiano de língua inglesa fundado em 1932.",
+    "it": "quotidiano indiano",
+    "ru": "индийская ежедневная газета на английском",
+    "zh-Hant": "印度报纸",
+    "ar": "إكسبرس الهندية أو إنديان إاكسبرس هي صحيفة يومية هندية باللغة الإنجليزية.",
+    "tr": "Indian Express, İngilizce yayınlanan bir Hint günlük gazetesidir.",
+    "nl": "The Indian Express is een Engelstalig Indiaas dagblad.",
+    "pl": "indyjski dziennik",
+    "sv": "indisk nyhetstidning",
+    "id": "The Indian Express adalah sebuah surat kabar harian India berbahasa Inggris.",
+    "de": "englischsprachige Tageszeitung in Indien",
+    "ms": "The Indian Express ialah akhbar harian berbahasa Inggeris India."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Indian_Express",
+    "es": "https://es.wikipedia.org/wiki/The_Indian_Express",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%B0%E5%BA%A6%E5%BF%AB%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9",
+    "fr": "https://fr.wikipedia.org/wiki/The_Indian_Express",
+    "pt-BR": "https://pt.wikipedia.org/wiki/The_Indian_Express",
+    "it": "https://it.wikipedia.org/wiki/The_Indian_Express",
+    "ru": "https://ru.wikipedia.org/wiki/The_Indian_Express",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%B0%E5%BA%A6%E5%BF%AB%E5%A0%B1",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%83%D8%B3%D8%A8%D8%B1%D8%B3_%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A%D8%A9",
+    "tr": "https://tr.wikipedia.org/wiki/The_Indian_Express",
+    "nl": "https://nl.wikipedia.org/wiki/The_Indian_Express",
+    "pl": "https://pl.wikipedia.org/wiki/The_Indian_Express",
+    "id": "https://id.wikipedia.org/wiki/The_Indian_Express",
+    "de": "https://de.wikipedia.org/wiki/The_Indian_Express",
+    "ms": "https://ms.wikipedia.org/wiki/The_Indian_Express"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Indian_Express_logo.svg?width=256",
+   "website": "https://indianexpress.com/",
+   "city": "मुम्बई"
+  },
+  {
+   "id": "in.thenewindianexpress",
+   "name": "The New Indian Express",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCQtVJ-76KjPds9evTODkq-A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1955025",
+   "description": {
+    "en": "Indian English-language daily newspaper",
+    "zh-Hans": "《新印度快報》 是印度英文日報，由金奈的快報出版社 出版。報紙成立於1932年，當時名為《印度快報》，總部位於金奈的P·瓦拉達拉朱魯·奈杜擁有，拉姆納特·葛印卡從資本合夥人拉賈·莫漢·普拉薩德 的手中購買。根據拉姆納特·葛印卡向拉賈·莫漢·普拉薩德提供的信託契約，後者家族的現任合法繼承人託管。1991年，所有者拉姆納特·葛印卡去世後，他的家人將集團分為兩家公司。最初，兩家機構共享《印度快報》的標題以及編輯等資源。但在1999年8月13日，總部位於孟買的北方版保留了「印度快報」的名稱，而南方版則更名為「新印度快報」。",
+    "ja": "英語版の日刊新聞（インド）",
+    "fr": "The New Indian Express est un journal quotidien indien de langue anglaise publié par Express Publications, basé à Chennai.",
+    "ru": "The New Indian Express — индийская широкоформатная ежедневная газета на английском языке.",
+    "zh-Hant": "《新印度快報》 是印度英文日報，由金奈的快報出版社 出版。報紙成立於1932年，當時名為《印度快報》，總部位於金奈的P·瓦拉達拉朱魯·奈杜擁有，拉姆納特·葛印卡從資本合夥人拉賈·莫漢·普拉薩德 的手中購買。根據拉姆納特·葛印卡向拉賈·莫漢·普拉薩德提供的信託契約，後者家族的現任合法繼承人託管。1991年，所有者拉姆納特·葛印卡去世後，他的家人將集團分為兩家公司。最初，兩家機構共享《印度快報》的標題以及編輯等資源。但在1999年8月13日，總部位於孟買的北方版保留了「印度快報」的名稱，而南方版則更名為「新印度快報」。",
+    "id": "The New Indian Express adalah surat kabar harian lembar lebar berbahasa Inggris yang diterbitkan oleh Express Publications yang berbasis Chennai."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_New_Indian_Express",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%96%B0%E5%8D%B0%E5%BA%A6%E5%BF%AB%E5%A0%B1",
+    "fr": "https://fr.wikipedia.org/wiki/The_New_Indian_Express",
+    "ru": "https://ru.wikipedia.org/wiki/The_New_Indian_Express",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%96%B0%E5%8D%B0%E5%BA%A6%E5%BF%AB%E5%A0%B1",
+    "id": "https://id.wikipedia.org/wiki/The_New_Indian_Express"
+   },
+   "logo": null,
+   "website": "https://www.newindianexpress.com/",
+   "city": "चेन्नई"
+  },
+  {
+   "id": "in.sakal",
+   "name": "Sakal (सकाळ)",
+   "category": "news",
+   "languages": [
+    "mr"
+   ],
+   "youtubeChannelId": "UC-AY02VQo-F_trSeTKUu_QQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7402792",
+   "description": {
+    "en": "Indian daily newspaper",
+    "fr": "quotidien indien",
+    "nl": "krant uit India",
+    "de": "indische Zeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sakal"
+   },
+   "logo": null,
+   "website": "http://www.esakal.com",
+   "city": "पुणे"
+  },
+  {
+   "id": "in.thehindu",
+   "name": "The Hindu",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC3njZ48-FDxLleBYaP0SZIg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q926175",
+   "description": {
+    "en": "English-language daily newspaper in India",
+    "es": "periódico de la India",
+    "zh-Hans": "印度报纸",
+    "ja": "英文の日刊新聞（インド）",
+    "fr": "journal indien",
+    "pt-BR": "The Hindu é o principal jornal diário indiano em inglês, com uma circulação de 1,17 milhões de cópias.",
+    "it": "The Hindu è un periodico in lingua inglese venduto nel sud dell'India; il Tamil Nadu è lo stato indiano dove viene venduto di più.",
+    "ru": "«Хинду» — ежедневная индийская газета на английском языке, одна из самых читаемых и авторитетных газет Индии.",
+    "zh-Hant": "印度的英語報紙",
+    "ar": "صحيفة باللغة الانجليزية في الهند",
+    "nl": "krant uit India",
+    "pl": "dziennik indyjski",
+    "sv": "indisk engelskspråklig dagstidning",
+    "id": "The Hindu adalah sebuah surat kabar harian India berbahasa Inggris.",
+    "de": "indische Zeitung",
+    "ms": "The Hindu ialah akhbar harian berbahasa Inggeris India yang dimiliki oleh The Hindu Group, yang beribu pejabat di Chennai, Tamil Nadu."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Hindu",
+    "es": "https://es.wikipedia.org/wiki/The_Hindu",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%B0%E5%BA%A6%E6%95%99%E5%BE%92%E5%A0%B1",
+    "fr": "https://fr.wikipedia.org/wiki/The_Hindu",
+    "pt-BR": "https://pt.wikipedia.org/wiki/The_Hindu",
+    "it": "https://it.wikipedia.org/wiki/The_Hindu",
+    "ru": "https://ru.wikipedia.org/wiki/The_Hindu",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%B0%E5%BA%A6%E6%95%99%E5%BE%92%E5%A0%B1",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D9%81%D8%A9_%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%88%D8%B3%D9%8A%D8%A9",
+    "nl": "https://nl.wikipedia.org/wiki/The_Hindu",
+    "pl": "https://pl.wikipedia.org/wiki/The_Hindu",
+    "sv": "https://sv.wikipedia.org/wiki/The_Hindu",
+    "id": "https://id.wikipedia.org/wiki/The_Hindu",
+    "de": "https://de.wikipedia.org/wiki/The_Hindu",
+    "ms": "https://ms.wikipedia.org/wiki/The_Hindu"
+   },
+   "logo": null,
+   "website": "https://www.thehindu.com/",
+   "city": "चेन्नई"
+  },
+  {
+   "id": "in.theprint",
+   "name": "ThePrint",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCuyRsHZILrU7ZDIAbGASHdA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q85806279",
+   "description": {
+    "en": "Indian online newspaper",
+    "zh-Hans": "印度新闻网站",
+    "fr": "site d'actualité indien",
+    "zh-Hant": "印度新聞網站",
+    "id": "ThePrint adalah sebuah situs web berita India."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ThePrint",
+    "id": "https://id.wikipedia.org/wiki/ThePrint"
+   },
+   "logo": null,
+   "website": "https://theprint.in",
+   "city": null
+  },
+  {
+   "id": "in.hindustantimes",
+   "name": "Hindustan Times",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCm7lHFkt2yB_WzL67aruVBQ",
+   "youtubeVideoId": "2Zu0D4LnNB4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q41595",
+   "description": {
+    "en": "Indian English-language newspaper",
+    "es": "periódico",
+    "zh-Hans": "印度英文报纸",
+    "ja": "英字新聞（インド）",
+    "fr": "quotidien anglophone indien",
+    "pt-BR": "Hindustan Times é um jornal diário indiano fundado em 1924 por Sunder Singh Lyallpuri, originado do Movimento de independência da Índia.",
+    "ko": "힌두스탄 타임스(Hindustan Times)는 인도 독립운동 시기인 1924년에 설립된 인도(India)의 영자 일간 신문이다.",
+    "it": "giornale",
+    "ru": "«Хиндустан Таймс» — индийская ежедневная газета на английском языке.",
+    "zh-Hant": "印度英文报纸",
+    "ar": "هندوستان تايمز هي صحيفة يومية هندية بالغة الانجليزية وهي تابعة لإتش تي ميديا ومقرها في نيودلهي وهي تابعة لعائلة كريشنا كومار بيرلا.",
+    "nl": "krant uit India",
+    "pl": "indyjski dziennik",
+    "sv": "Hindustan Times är en av de största dagstidningarna i Indien, tryckt på engelska.",
+    "id": "Hindustan Times (HT) adalah surat kabar harian berbahasa Inggris dari New Delhi, India.",
+    "de": "englischsprachige Tageszeitung in Indien",
+    "ms": "Hindustan Times adalah akhbar harian bahasa Inggeris India yang ditubuhkan pada tahun 1924 dengan kesinambungan dalam pergerakan kemerdekaan India pada masa itu."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Hindustan_Times",
+    "es": "https://es.wikipedia.org/wiki/Hindustan_Times",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%B0%E5%BA%A6%E6%96%AF%E5%9D%A6%E6%97%B6%E6%8A%A5",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%B3%E3%83%89%E3%82%A5%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA",
+    "fr": "https://fr.wikipedia.org/wiki/Hindustan_Times",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Hindustan_Times",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%9E%8C%EB%91%90%EC%8A%A4%ED%83%84_%ED%83%80%EC%9E%84%EC%8A%A4",
+    "it": "https://it.wikipedia.org/wiki/Hindustan_Times",
+    "ru": "https://ru.wikipedia.org/wiki/Hindustan_Times",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%B0%E5%BA%A6%E6%96%AF%E5%9D%A6%E6%97%B6%E6%8A%A5",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86_%D8%AA%D8%A7%D9%8A%D9%85%D8%B2",
+    "nl": "https://nl.wikipedia.org/wiki/Hindustan_Times",
+    "pl": "https://pl.wikipedia.org/wiki/Hindustan_Times",
+    "sv": "https://sv.wikipedia.org/wiki/Hindustan_Times",
+    "id": "https://id.wikipedia.org/wiki/Hindustan_Times",
+    "de": "https://de.wikipedia.org/wiki/Hindustan_Times",
+    "ms": "https://ms.wikipedia.org/wiki/The_Hindustan_Times"
+   },
+   "logo": null,
+   "website": "https://www.hindustantimes.com/",
+   "city": "नई दिल्ली"
+  },
+  {
+   "id": "in.argusnews",
+   "name": "Argus News",
+   "category": "news",
+   "languages": [
+    "or"
+   ],
+   "youtubeChannelId": "UCwBK7Cdk0wq8rCjxcvaoHzg",
+   "youtubeVideoId": "WLZF6famWUg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q126888080",
+   "description": {},
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Argus_NEWS_ODIA.png?width=256",
+   "website": "https://argusnews.in/",
+   "city": "भुवनेश्वर"
+  },
+  {
+   "id": "in.republicbangla",
+   "name": "Republic Bangla",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCajVjEHDoVn_AHsunUZz_EQ",
+   "youtubeVideoId": "RgoNTwmiQ7M",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q105740328",
+   "description": {
+    "en": "Bengali TV Channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Republic_Bangla"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/R._Bangla_transparent_PNG.png?width=256",
+   "website": "https://www.republicworld.com/",
+   "city": "कोलकाता"
+  },
+  {
+   "id": "in.ddurdu",
+   "name": "DD Urdu",
+   "category": "broadcast",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UCu9Fj9QRAg26ZY9DhF8HSrQ",
+   "youtubeVideoId": "F62OZ3mdY0k",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q16245979",
+   "description": {
+    "en": "Indian free-to-air television channel broadcasting from the Doordarshan Studios in Delhi"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DD_Urdu"
+   },
+   "logo": null,
+   "website": "https://prasarbharati.gov.in/dd-urdu-homepage/",
+   "city": null
+  },
+  {
    "id": "in.cnbctv18",
    "name": "CNBC-TV18",
    "category": "economy",
@@ -676,6 +1093,70 @@
    "city": null
   },
   {
+   "id": "in.theeconomictimes",
+   "name": "The Economic Times",
+   "category": "economy",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCJFOER35ggIWwsXh2ZDnqyg",
+   "youtubeVideoId": "axE21xYmBZY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1954757",
+   "description": {
+    "en": "Indian financial newspaper",
+    "es": "periódico financiero indio",
+    "zh-Hans": "印度报纸",
+    "fr": "quotidien économique indien",
+    "pt-BR": "jornal diário indiano",
+    "it": "quotidiano indiano",
+    "ru": "The Economic Times — индийская ежедневная газета на английском языке.",
+    "zh-Hant": "印度报纸",
+    "nl": "krant uit India",
+    "id": "The Economic Times adalah sebuah surat kabar harian India berbahasa Inggris terbitan Bennett, Coleman & Co.",
+    "de": "englischsprachige indische Zeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Economic_Times",
+    "es": "https://es.wikipedia.org/wiki/The_Economic_Times",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%B6%93%E6%BF%9F%E6%99%82%E5%A0%B1",
+    "fr": "https://fr.wikipedia.org/wiki/The_Economic_Times",
+    "pt-BR": "https://pt.wikipedia.org/wiki/The_Economic_Times",
+    "it": "https://it.wikipedia.org/wiki/The_Economic_Times",
+    "ru": "https://ru.wikipedia.org/wiki/The_Economic_Times",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%B6%93%E6%BF%9F%E6%99%82%E5%A0%B1",
+    "nl": "https://nl.wikipedia.org/wiki/The_Economic_Times",
+    "id": "https://id.wikipedia.org/wiki/The_Economic_Times",
+    "de": "https://de.wikipedia.org/wiki/The_Economic_Times"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Economic_Times_logo.svg?width=256",
+   "website": "http://economictimes.indiatimes.com/",
+   "city": "मुम्बई"
+  },
+  {
+   "id": "in.doordarshantripura",
+   "name": "Doordarshan Tripura",
+   "category": "regional",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCtmSIB1S2LsT5OXC6H6x_rA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16245974",
+   "description": {
+    "en": "Indian public television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DD_Tripura"
+   },
+   "logo": null,
+   "website": "http://www.ddkTripura.tv/",
+   "city": "अगरतला"
+  },
+  {
    "id": "in.sansadtv",
    "name": "Sansad TV",
    "category": "government",
@@ -697,6 +1178,86 @@
    "logo": null,
    "website": "http://sansadtv.nic.in/",
    "city": "दिल्ली"
+  },
+  {
+   "id": "in.angeltv",
+   "name": "Angel TV",
+   "category": "religious",
+   "languages": [
+    "hi",
+    "en"
+   ],
+   "youtubeChannelId": "UCVRh_8fyUuMj7Tuqp5O3HpA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16245722",
+   "description": {
+    "en": "Indian religious television channel",
+    "zh-Hans": "安琪TV，是印度的一家基督教电视台，由“三位一体公共电视有限公司” 创立，通过卫星电视、有线电视及网络播出。",
+    "zh-Hant": "安琪TV，是印度的一家基督教电视台，由“三位一体公共电视有限公司” 创立，通过卫星电视、有线电视及网络播出。"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%AE%89%E7%90%AATV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%AE%89%E7%90%AATV"
+   },
+   "logo": null,
+   "website": "https://www.Angeltv.orh",
+   "city": null
+  },
+  {
+   "id": "in.ddbharati",
+   "name": "DD Bharati",
+   "category": "culture",
+   "languages": [
+    "hi"
+   ],
+   "youtubeChannelId": "UCIAnlTV3O9NYWMI-DwYZaWg",
+   "youtubeVideoId": "mHn0m9pSWkk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q16245922",
+   "description": {
+    "en": "Indian television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DD_Bharati"
+   },
+   "logo": null,
+   "website": "http://bharati.ddgov.in//",
+   "city": "नई दिल्ली"
+  },
+  {
+   "id": "in.colorstv",
+   "name": "Colors TV",
+   "category": "entertainment",
+   "languages": [
+    "hi",
+    "en"
+   ],
+   "youtubeChannelId": "UC55IWqFLDH1Xp7iu1_xknRA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3595312",
+   "description": {
+    "en": "Indian general entertainment television channel",
+    "es": "canal de televisión indio",
+    "fr": "Programme de télévision en Inde",
+    "pt-BR": "canal de televisão",
+    "ar": "قناة تلفزيونية ترفيهية هندية عامة",
+    "id": "televisi hiburan berbahasa hindi",
+    "de": "indischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Colors_TV",
+    "es": "https://es.wikipedia.org/wiki/Colors_TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Colors_TV",
+    "id": "https://id.wikipedia.org/wiki/Colors"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Colors_TV_logo.svg?width=256",
+   "website": "https://www.colorstv.com/",
+   "city": null
   }
  ]
 }

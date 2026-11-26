@@ -1,0 +1,840 @@
+{
+ "schema": 2,
+ "code": "TW",
+ "version": 2026112601,
+ "defaultTiles": [
+  "tw.chungtientelevision",
+  "tw.formosatvnewsnetwork",
+  "tw.tvbsnews",
+  "tw.taiwanebcnews",
+  "tw.inews",
+  "tw.globlenewschannel",
+  "tw.mnews",
+  "tw.ustv",
+  "tw.57"
+ ],
+ "channels": [
+  {
+   "id": "tw.chungtientelevision",
+   "name": "中天電視",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC5l1Yto5oOIgRXlI4p4VKbw",
+   "youtubeVideoId": "vr3XyVCR4T0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q699106",
+   "description": {
+    "en": "Pro-People's Republic of China satellite broadcasting station in the Republic of China (Taiwan)",
+    "zh-Hans": "台湾电视台",
+    "ja": "中華民国(台湾)における親中華人民共和国系の衛星放送局",
+    "ko": "중톈 텔레비전 유한책임회사(중국어: 中天電視股份有限公司, 영어: CTI Television Incorporation)는 중화민국의 케이블 텔레비전 방송국이다.",
+    "zh-Hant": "臺灣電視台",
+    "de": "chinesischer Fernsehsender",
+    "ms": "Chung T'ien Television merupakan sebuah saluran televisyen kabel yang bertapak di Republik China di Taiwan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Chung_T'ien_Television",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96",
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A4%91%ED%86%88_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96",
+    "ms": "https://ms.wikipedia.org/wiki/Chung_T'ien_Television"
+   },
+   "logo": null,
+   "website": "http://www.ctitv.com",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.ctitvnews",
+   "name": "CTITV NEWS",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCpu3bemTQwAU8PqM4kJdoEQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5014664",
+   "description": {
+    "en": "Pro-People's Republic of China online news channels in the Republic of China (Taiwan)",
+    "zh-Hans": "台湾电视频道",
+    "ja": "中華民国(台湾)における親中華人民共和国系オンラインニュースチャンネル",
+    "zh-Hant": "臺灣電視的新聞頻道",
+    "id": "CTi News adalah saluran berita kabel satelit."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CTi_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "id": "https://id.wikipedia.org/wiki/CTi_News"
+   },
+   "logo": null,
+   "website": "http://www.ctitv.com.tw/",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.formosatvnewsnetwork",
+   "name": "民視新聞",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+   "youtubeVideoId": "ylYJSBUgaMA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q5427254",
+   "description": {
+    "en": "Taiwanese television news channel",
+    "zh-Hans": "台湾电视频道",
+    "zh-Hant": "臺灣電視新聞頻道"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/FTV_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0"
+   },
+   "logo": null,
+   "website": "http://news.ftv.com.tw/",
+   "city": "新北市"
+  },
+  {
+   "id": "tw.tvbsnews",
+   "name": "TVBS NEWS",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+   "youtubeVideoId": "m_dhMSvUCIc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7672150",
+   "description": {
+    "en": "television news channel based in Taiwan",
+    "zh-Hans": "台湾电视频道",
+    "zh-Hant": "臺灣電視新聞頻道",
+    "nl": "televisienieuwszender gevestigd in Taiwan",
+    "ms": "TVBS-NEWS merupakan saluran berita kabel an satelit di Taiwan, yang dilancarkan pada 2 Oktober 1995."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TVBS_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/TVBS%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/TVBS%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "ms": "https://ms.wikipedia.org/wiki/TVBS-NEWS"
+   },
+   "logo": null,
+   "website": "https://news.tvbs.com.tw/",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.nexttv",
+   "name": "壹電視NEXT TV",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC6hWBu1hfbNNk8Yeokd5aZQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10931647",
+   "description": {
+    "en": "Taiwanese television station",
+    "es": "Next TV (NTV) fue creada por el empresario de Hong Kong Jimmy Lai el 7 de julio de 2009 en Taipéi, Taiwán.",
+    "zh-Hans": "台湾电视台",
+    "zh-Hant": "台灣電視台"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Next_TV",
+    "es": "https://es.wikipedia.org/wiki/Next_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%A3%B9%E9%9B%BB%E8%A6%96",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%A3%B9%E9%9B%BB%E8%A6%96"
+   },
+   "logo": null,
+   "website": "http://www.nexttv.com.tw/",
+   "city": "內湖區"
+  },
+  {
+   "id": "tw.ettodaynews",
+   "name": "ETtoday News",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCl3aKvzB7uC5mTlVEWiCogA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10847025",
+   "description": {
+    "en": "Taiwanese news website",
+    "zh-Hans": "台湾新闻网站",
+    "zh-Hant": "臺灣新聞網站",
+    "nl": "website"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/ETtoday%E6%96%B0%E8%81%9E%E9%9B%B2",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/ETtoday%E6%96%B0%E8%81%9E%E9%9B%B2"
+   },
+   "logo": null,
+   "website": "https://www.ettoday.net/",
+   "city": null
+  },
+  {
+   "id": "tw.udnvideo",
+   "name": "udn video",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC2M61YK4ntt9iK-23XhDwcw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q697153",
+   "description": {
+    "en": "newspaper in Taiwan",
+    "zh-Hans": "臺灣報紙",
+    "ja": "台湾の新聞",
+    "ko": "대만의 신문",
+    "it": "quotidiano di Taiwan",
+    "ru": "тайваньская газета на китайском языке",
+    "zh-Hant": "臺灣報紙",
+    "nl": "krant uit Taiwan",
+    "pl": "tajwański dziennik",
+    "id": "surat kabar di Taiwan",
+    "de": "Zeitung in Taiwan"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/United_Daily_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%81%AF%E5%90%88%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E5%A0%B1",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%B3%B4",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8F%D0%BD%D1%8C%D1%85%D1%8D%D0%B1%D0%B0%D0%BE",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%81%AF%E5%90%88%E5%A0%B1",
+    "pl": "https://pl.wikipedia.org/wiki/United_Daily_News",
+    "id": "https://id.wikipedia.org/wiki/United_Daily_News"
+   },
+   "logo": null,
+   "website": "https://udn.com",
+   "city": "新北市"
+  },
+  {
+   "id": "tw.thelibertytimes",
+   "name": "自由時報電子報",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCrbctXCueK60wHFE2o8YL-Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q697462",
+   "description": {
+    "en": "Taiwanese daily newspaper",
+    "zh-Hans": "台湾报纸",
+    "ja": "自由時報（じゆうじほう）は中華民国（台湾）で発行されている日刊紙。現在は台湾国内で発行部数第一の新聞社（70数万部）であり、『聯合報』、『中国時報』と並び台湾3大新聞の一角を占める。1980年4月17日に設立。スローガンは「台湾優先、自由第一」。新興財閥の「聯邦グループ」に属している。",
+    "fr": "Le Liberty Times est un quotidien national taïwanais.",
+    "ko": "자유시보(自由時報) 또는 리버티 타임즈(The Liberty Times)는 중화민국에서 발행되는 전국 신문이다.",
+    "it": "Il Liberty Times è un giornale pubblicato a Taiwan in cinese tradizionale.",
+    "zh-Hant": "臺灣平面報紙媒體",
+    "nl": "krant uit Taiwan",
+    "pl": "tajwański dziennik",
+    "id": "Liberty Times adalah sebuah surat kabar nasional yang diterbitkan di Taiwan.",
+    "de": "Tageszeitung im Taiwan"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Liberty_Times",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%87%AA%E7%94%B1%E6%99%82%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E5%A0%B1",
+    "fr": "https://fr.wikipedia.org/wiki/Liberty_Times",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0%EC%8B%9C%EB%B3%B4",
+    "it": "https://it.wikipedia.org/wiki/Liberty_Times",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%87%AA%E7%94%B1%E6%99%82%E5%A0%B1",
+    "pl": "https://pl.wikipedia.org/wiki/Liberty_Times",
+    "id": "https://id.wikipedia.org/wiki/Liberty_Times",
+    "de": "https://de.wikipedia.org/wiki/Liberty_Times"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Liberty_Times_logo.svg?width=256",
+   "website": "https://www.ltn.com.tw",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.thecentralnewsagencycnat",
+   "name": "CNA Taiwan",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC7ymKGCl6EVLh7z6sq7TBZA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q697130",
+   "description": {
+    "en": "Taiwan's state-owned news agency",
+    "zh-Hans": "中華民國的國家通訊社",
+    "ja": "中華民国の国営通信社",
+    "fr": "agence de presse à Taipei",
+    "ko": "중화민국의 국영 통신사",
+    "zh-Hant": "中華民國國家通訊社",
+    "id": "kantor berita Taiwan",
+    "de": "nationale Nachrichtenagentur Taiwans"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Central_News_Agency_(Taiwan)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%A4%AE%E9%80%9A%E8%A8%8A%E7%A4%BE",
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%80%9A%E8%A8%8A%E7%A4%BE",
+    "fr": "https://fr.wikipedia.org/wiki/Central_News_Agency_(Ta%C3%AFwan)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A4%91%EC%95%99%ED%86%B5%EC%8B%A0%EC%82%AC",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%A4%AE%E9%80%9A%E8%A8%8A%E7%A4%BE",
+    "id": "https://id.wikipedia.org/wiki/Central_News_Agency_(Taiwan)"
+   },
+   "logo": null,
+   "website": "https://www.cna.com.tw/",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.taiwanebcnews",
+   "name": "東森新聞",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+   "youtubeVideoId": "V1p33hqPrUk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q5324488",
+   "description": {
+    "en": "Taiwan television channel",
+    "zh-Hans": "台湾电视新闻频道",
+    "zh-Hant": "臺灣電視新聞頻道",
+    "id": "saluran televisi di Taiwan"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/EBC_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "id": "https://id.wikipedia.org/wiki/EBC_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/EBC_News_logo_20150706.jpg?width=256",
+   "website": "https://www.ebc.net.tw/",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.ch50",
+   "name": "年代新聞CH50",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCHBv5vSp3pETSLq8oWTsmqA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5384778",
+   "description": {
+    "en": "Taiwanese television channel",
+    "zh-Hans": "台湾电视频道",
+    "zh-Hant": "臺灣電視的新聞頻道"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Era_News",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%B9%B4%E4%BB%A3%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%B9%B4%E4%BB%A3%E6%96%B0%E8%81%9E%E5%8F%B0"
+   },
+   "logo": null,
+   "website": "http://eranews.eracom.com/",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.inews",
+   "name": "三立財經iNEWS",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+   "youtubeVideoId": "pF507BLtbqU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10866562",
+   "description": {
+    "en": "Taiwanese television channel",
+    "zh-Hans": "台湾电视频道",
+    "zh-Hant": "臺灣電視新聞頻道"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/SET_iNews",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%89%E7%AB%8BiNEWS",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%89%E7%AB%8BiNEWS"
+   },
+   "logo": null,
+   "website": null,
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.globlenewschannel",
+   "name": "寰宇新聞 頻道",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCp2f7tGJGN6R9Muxipem8Nw",
+   "youtubeVideoId": "Y8eZYHy8BDc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q60995810",
+   "description": {
+    "en": "Taiwanese television channel",
+    "zh-Hans": "臺灣電視頻道",
+    "zh-Hant": "臺灣電視頻道"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0"
+   },
+   "logo": null,
+   "website": "http://globalnewstv.com.tw",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.mnews",
+   "name": "鏡新聞",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC4LjkybVKXCDlneVXlKAbmw",
+   "youtubeVideoId": "5n0y6b0Q25o",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q130380452",
+   "description": {
+    "en": "Taiwanese television channel",
+    "zh-Hans": "台湾电视频道",
+    "zh-Hant": "鏡電視旗下的新聞頻道"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0"
+   },
+   "logo": null,
+   "website": "https://www.mnews.tw/",
+   "city": null
+  },
+  {
+   "id": "tw.publictelevisionservice",
+   "name": "公視",
+   "category": "broadcast",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCXgIO9jJVsX5_2ideiSkfvA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q712020",
+   "description": {
+    "en": "main public service broadcaster of Taiwan",
+    "es": "La Fundación Servicio de Televisión Pública de Taiwán, también llamada Servicio de Televisión Pública, es el primer ente independiente de radiodifusión pública de Taiwán, que opera los canales PTS, PTS Taigi y PTS3.",
+    "zh-Hans": "台灣無線電視業者、台灣第一家公共媒體",
+    "ja": "台湾初の公共テレビ局",
+    "fr": "diffuseur de service public de Taïwan",
+    "zh-Hant": "台灣無線電視業者、公共服務性質電視臺",
+    "sv": "taiwanesisk public service-kanal",
+    "de": "taiwanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Public_Television_Service",
+    "es": "https://es.wikipedia.org/wiki/Servicio_de_Televisi%C3%B3n_P%C3%BAblica_(Rep%C3%BAblica_de_China)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E5%8F%B0"
+   },
+   "logo": null,
+   "website": "https://www.pts.org.tw/",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.ustv",
+   "name": "USTV 非凡電視",
+   "category": "economy",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCYIVkruUoN04UjV9pkBTswg",
+   "youtubeVideoId": "wAUx3pywTt8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7886932",
+   "description": {
+    "en": "Taiwanese television station",
+    "zh-Hans": "台湾电视台",
+    "zh-Hant": "臺灣電視台"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%9D%9E%E5%87%A1%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%9D%9E%E5%87%A1%E9%9B%BB%E8%A6%96%E5%8F%B0"
+   },
+   "logo": null,
+   "website": "http://www.ustv.com.tw/",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.57",
+   "name": "東森財經新聞",
+   "category": "economy",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCuzqko_GKcj9922M1gUo__w",
+   "youtubeVideoId": "1I2iq41Akmo",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q11103579",
+   "description": {
+    "en": "Taiwanese television channel",
+    "zh-Hans": "台湾电视频道",
+    "ja": "台湾のTVチャンネル",
+    "zh-Hant": "臺灣電視新聞頻道"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0"
+   },
+   "logo": null,
+   "website": null,
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.q15942762",
+   "name": "非凡商業台",
+   "category": "economy",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCLHsQL4YChylDX-06BCuNQA",
+   "youtubeVideoId": "xLqt2p6Dowo",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q15942762",
+   "description": {
+    "en": "Taiwanese television channel",
+    "zh-Hans": "台湾电视台",
+    "zh-Hant": "台灣電視頻道"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%9D%9E%E5%87%A1%E5%95%86%E6%A5%AD%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%9D%9E%E5%87%A1%E5%95%86%E6%A5%AD%E5%8F%B0"
+   },
+   "logo": null,
+   "website": "https://biz.ustv.com.tw/",
+   "city": null
+  },
+  {
+   "id": "tw.parliamentarytv",
+   "name": "國會頻道",
+   "category": "government",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCBVkoTHzszNtJsG7fWaHbsg",
+   "youtubeVideoId": "bR5UF8qNktI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q97301253",
+   "description": {
+    "en": "Taiwanese television channel",
+    "zh-Hans": "台湾电视频道",
+    "zh-Hant": "台灣電視頻道"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%93_(%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%93_(%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B)"
+   },
+   "logo": null,
+   "website": "https://www.parliamentarytv.org.tw/",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.yoyotv",
+   "name": "YOYOTV",
+   "category": "kids",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCiWRSesvSYmY7YOyz0tv_zQ",
+   "youtubeVideoId": "BjY_jXI15ks",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4022145",
+   "description": {
+    "en": "Taiwanese children's cable TV channel",
+    "zh-Hans": "臺灣有線電視頻道",
+    "ja": "東森幼幼台 は、台湾の東森電視傘下のケーブルテレビのチャンネルである。1998年1月に放送開始。幼児・子ども向けのチャンネルであり、アニメや幼児教育番組の放送が多くを占める。「YoYo」のうち「o」は渦巻き形をしており、その形がカタツムリ（蝸牛）に似ているため「蝸牛台」とも呼ばれる。",
+    "it": "rete televisiva taiwanese",
+    "zh-Hant": "臺灣有線電視頻道",
+    "de": "chinesischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/EBC_Yoyo",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC%E5%8F%B0",
+    "it": "https://it.wikipedia.org/wiki/YOYO_TV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC%E5%8F%B0"
+   },
+   "logo": null,
+   "website": "http://yoyotv.ebc.net.tw/",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.ilikeradio",
+   "name": "中廣流行網",
+   "category": "radio",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCCKuLtumYbtQsSRASl9H_iw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q698965",
+   "description": {
+    "en": "radio broadcasting company of the Republic of China",
+    "es": "empresa de radio difusión de la República de China",
+    "zh-Hans": "中华民国媒体公司",
+    "ja": "台湾のラジオ放送事業者",
+    "ko": "중국라디오방송공사(중국광파공사.",
+    "zh-Hant": "中華民國的一家媒體企業",
+    "ar": "شركة",
+    "nl": "Broadcasting Corporation of China is een radio-omroep van Republiek China."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Broadcasting_Corporation_of_China",
+    "es": "https://es.wikipedia.org/wiki/Corporaci%C3%B3n_de_radiodifusi%C3%B3n_de_China",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9C%8B%E5%BB%A3%E6%92%AD%E5%85%AC%E5%8F%B8",
+    "ja": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%BA%83%E6%92%AD%E5%85%AC%E5%8F%B8",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A4%91%EA%B5%AD%EB%9D%BC%EB%94%94%EC%98%A4%EB%B0%A9%EC%86%A1%EA%B3%B5%EC%82%AC",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B%E5%BB%A3%E6%92%AD%E5%85%AC%E5%8F%B8",
+    "nl": "https://nl.wikipedia.org/wiki/Broadcasting_Corporation_of_China"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/2013_BCC_CHT-ENG_title.png?width=256",
+   "website": "https://www.bcc.com.tw/",
+   "city": "中山區"
+  },
+  {
+   "id": "tw.popradio",
+   "name": "POP Radio",
+   "category": "radio",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCJ5rBA0z4WFGtUTS83sAb_A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3247910",
+   "description": {
+    "en": "radio station based in Taipei, Taiwan",
+    "zh-Hans": "台湾广播电台",
+    "zh-Hant": "台灣廣播電台",
+    "de": "chinesischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Taipei_Pop_Radio",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/POP_Radio%E8%81%AF%E6%92%AD%E7%B6%B2",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/POP_Radio%E8%81%AF%E6%92%AD%E7%B6%B2"
+   },
+   "logo": null,
+   "website": "http://www.pop917.com",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.hitfm",
+   "name": "hitfm",
+   "category": "radio",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCTTq-Hhcb_eUq0-dWpdlvpg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5871347",
+   "description": {
+    "en": "pop music radio station",
+    "zh-Hans": "台湾广播联播网",
+    "ja": "Hit FMは、台湾（中華民国）のポップ・ミュージック専門のラジオ局である。台北、台中、高雄を中心に放送されている。Hit FMの運営は台北の音放送 となっている。",
+    "zh-Hant": "臺灣廣播聯播網",
+    "id": "stasiun radio",
+    "de": "Radiostation"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Hit_FM_(Taiwan)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Hit_FM%E8%81%AF%E6%92%AD%E7%B6%B2",
+    "ja": "https://ja.wikipedia.org/wiki/Hit_FM",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Hit_FM%E8%81%AF%E6%92%AD%E7%B6%B2",
+    "id": "https://id.wikipedia.org/wiki/Hit_FM_(Taiwan)"
+   },
+   "logo": null,
+   "website": "http://www.hitoradio.com",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.ufonetwork",
+   "name": "飛碟聯播網",
+   "category": "radio",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCUaf4I5TYCExf9mWzv1cB_A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5969604",
+   "description": {
+    "en": "radio station in Taiwan",
+    "zh-Hans": "臺灣廣播電台",
+    "ja": "飛碟電台 は、台湾台北市の1996年10月16日に放送開始したラジオ放送局である。正式名称は飛碟聯播網。スローガンは「空中的夢想家」。",
+    "zh-Hant": "臺灣廣播電台"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/UFO_Radio",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%A3%9B%E7%A2%9F%E8%81%AF%E6%92%AD%E7%B6%B2",
+    "ja": "https://ja.wikipedia.org/wiki/%E9%A3%9B%E7%A2%9F%E9%9B%BB%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%A3%9B%E7%A2%9F%E8%81%AF%E6%92%AD%E7%B6%B2"
+   },
+   "logo": null,
+   "website": "http://www.uforadio.com.tw",
+   "city": "臺北市"
+  },
+  {
+   "id": "tw.superfm",
+   "name": "寶島聯播網",
+   "category": "radio",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCS5EoJjZ3vZzjoPCezowCdA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10956162",
+   "description": {
+    "en": "Taiwanese radio station",
+    "zh-Hans": "台湾电台",
+    "zh-Hant": "臺灣電台"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%AF%B6%E5%B3%B6%E8%81%AF%E6%92%AD%E7%B6%B2",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%AF%B6%E5%B3%B6%E8%81%AF%E6%92%AD%E7%B6%B2"
+   },
+   "logo": null,
+   "website": "http://www.superfm98-5.com.tw",
+   "city": null
+  },
+  {
+   "id": "tw.tzuchidaaivideo",
+   "name": "大愛電視",
+   "category": "religious",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UClrEYreVkBee7ZQYei_6Jqg",
+   "youtubeVideoId": "pM-1ytfQhos",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q516800",
+   "description": {
+    "en": "Television channel in Taiwan",
+    "es": "canal de television en Taiwan",
+    "zh-Hans": "台湾电视台",
+    "ja": "大愛電視 は、中華民国台北市にある台湾のテレビ局の1つで、慈済基金会が運営する非営利テレビ局である。",
+    "zh-Hant": "台湾电视台",
+    "nl": "Da Ai TV is een Chinees-boeddhistische televisiemaatschappij in Taiwan.",
+    "id": "Da Ai TV adalah perusahaan televisi Buddhis Tiongkok di Republik Tiongkok (Taiwan).",
+    "de": "Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Da_Ai_Television",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96",
+    "nl": "https://nl.wikipedia.org/wiki/Da_Ai_TV",
+    "id": "https://id.wikipedia.org/wiki/Da_Ai_TV"
+   },
+   "logo": null,
+   "website": "http://classic.daai.tv/daai-web/main/",
+   "city": null
+  },
+  {
+   "id": "tw.sanlihetelevision",
+   "name": "三立娛樂",
+   "category": "entertainment",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCPARDnYdJQBJID-qyefVKcw",
+   "youtubeVideoId": "P6_vlmrVpLk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q703248",
+   "description": {
+    "en": "cable TV network operated in Taiwan",
+    "es": "Sanlih E-Television (SET) es una productora de televisión por cable/satélite que opera y trasmite en Taiwán.",
+    "zh-Hans": "台灣有線電視媒體",
+    "pt-BR": "Sanlih E-Television é uma rede de televisão por assinatura taiwanesa.",
+    "it": "rete televisiva taiwanese",
+    "zh-Hant": "台灣有線電視媒體",
+    "de": "chinesischer Fernsehsender",
+    "ms": "Sanlih Entertainment Television atau Sanlih E-Television ialah sebuah rangkaian penyiaran televisyen kabel dan penerbitan televisyen Taiwan yang ditubuhkan pada Mei 1983."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sanlih_E-Television",
+    "es": "https://es.wikipedia.org/wiki/Sanlih_Television",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%89%E7%AB%8B%E9%9B%BB%E8%A6%96",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Sanlih_E-Television",
+    "it": "https://it.wikipedia.org/wiki/Sanlih_E-Television",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%89%E7%AB%8B%E9%9B%BB%E8%A6%96",
+    "ms": "https://ms.wikipedia.org/wiki/Sanlih_E-Television"
+   },
+   "logo": null,
+   "website": "http://www.settv.com.tw/",
+   "city": "內湖區"
+  },
+  {
+   "id": "tw.ebc",
+   "name": "東森綜合台",
+   "category": "entertainment",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCet3uxeYnTk3n1acNCNlJgA",
+   "youtubeVideoId": "cimbpAZUjzw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q11103578",
+   "description": {
+    "en": "Taiwanese channel",
+    "es": "cadena de television taiwanesa",
+    "zh-Hans": "東森電視旗下的頻道",
+    "zh-Hant": "東森電視旗下的頻道"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9D%B1%E6%A3%AE%E7%B6%9C%E5%90%88%E5%8F%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9D%B1%E6%A3%AE%E7%B6%9C%E5%90%88%E5%8F%B0"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

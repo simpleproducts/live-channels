@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AR",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "ar.tn",
   "ar.c5n",
@@ -10,8 +10,8 @@
   "ar.canal26",
   "ar.cronica",
   "ar.canalrural",
-  "ar.infobae",
-  "ar.tvpublica"
+  "ar.argentina12",
+  "ar.infobae"
  ],
  "channels": [
   {
@@ -219,6 +219,96 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Infobae_logo.svg?width=256",
    "website": "https://www.infobae.com",
    "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.argentina12",
+   "name": "Argentina 12",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC1bBjOZieJWHbsFA0LwjjJA",
+   "youtubeVideoId": "21UP3XoRIBU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q97369452",
+   "description": {
+    "en": "Argentine news television channel",
+    "es": "canal de noticias de Argentina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Argentina%2F12",
+    "es": "https://es.wikipedia.org/wiki/Argentina%2F12"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Argentina12_2025.svg?width=256",
+   "website": "https://www.pagina12.com.ar/argentina12/",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.nodalnoticiasdeamericala",
+   "name": "NODAL",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC-qmVwrNHRUd-8oGJ6hbTfg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q121505421",
+   "description": {
+    "en": "online newspaper"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.nodal.am",
+   "city": null
+  },
+  {
+   "id": "ar.eltribunodejujuy",
+   "name": "El Tribuno de Jujuy",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCMywWPYWcnMqkgIOdyeYgyA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q135812278",
+   "description": {
+    "en": "Argentine daily newspaper",
+    "es": "periódico argentino"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://eltribunodejujuy.com/",
+   "city": "San Salvador de Jujuy"
+  },
+  {
+   "id": "ar.derechadiariotv",
+   "name": "Derecha Diario TV",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCicmqOz0mgEUY_NqgEbWy1A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q136658631",
+   "description": {
+    "en": "Argentine online newspaper",
+    "es": "Periodico de opinión y noticias en línea",
+    "pt-BR": "La Derecha Diario é um jornal online de notícias e opinião fundado em 2020 na Argentina por Juan Pablo Carreira, Ezequiel Acuña e Fernando Cerimedo."
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/La_Derecha_Diario",
+    "pt-BR": "https://pt.wikipedia.org/wiki/La_Derecha_Diario"
+   },
+   "logo": null,
+   "website": "https://derechadiario.com.ar",
+   "city": null
   },
   {
    "id": "ar.telefe",
@@ -611,6 +701,30 @@
    "city": null
   },
   {
+   "id": "ar.teleferosario",
+   "name": "Telefe Rosario",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCPr0HEFKN8wtDIfcPsVB10Q",
+   "youtubeVideoId": "kHdrrb49HuA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q581867",
+   "description": {
+    "en": "television channel from Rosario, province of Santa Fe, Argentina",
+    "es": "canal de televisión de Rosario, provincia de Santa Fe, Argentina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Telefe_Rosario",
+    "es": "https://es.wikipedia.org/wiki/Telefe_Rosario"
+   },
+   "logo": null,
+   "website": "https://rosario.mitelefe.com/",
+   "city": "Rosario"
+  },
+  {
    "id": "ar.canalciudad",
    "name": "Canal de la Ciudad",
    "category": "government",
@@ -823,6 +937,59 @@
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "ar.tycsports",
+   "name": "TyC Sports",
+   "category": "sports",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC72ZaBKI-Bo5fjmWEYonhJw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5637730",
+   "description": {
+    "en": "Argentine sports TV network",
+    "es": "canal deportivo de Argentina",
+    "pt-BR": "TyC Sports é um canal de televisão de esportes argentino pertencentes à empresa Torneos y Competencias, com programação baseada integralmente em relação ao desporto, principalmente, o futebol em Buenos Aires.",
+    "de": "argentinischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TyC_Sports",
+    "es": "https://es.wikipedia.org/wiki/TyC_Sports",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TyC_Sports"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TyC_Sports_Logo.svg?width=256",
+   "website": "https://www.tycsports.com/",
+   "city": "Buenos Aires"
+  },
+  {
+   "id": "ar.tntsportsargentina",
+   "name": "TNT Sports Argentina",
+   "category": "sports",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCI5RY8G0ar-hLIaUJvx58Lw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q31147931",
+   "description": {
+    "en": "Argentine sports television channel",
+    "es": "canal deportivo con sede en Argentina",
+    "pt-BR": "canal de televisão por assinatura"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TNT_Sports_(Argentina)",
+    "es": "https://es.wikipedia.org/wiki/TNT_Sports_(Argentina)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TNT_Sports_(Argentina)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TNT_Sports_%282023%29.svg?width=256",
+   "website": "https://www.tntsports.com/",
+   "city": "Buenos Aires"
   },
   {
    "id": "ar.luzu",
@@ -1350,6 +1517,96 @@
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "ar.fmvida",
+   "name": "FM VIDA",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCAFrs1tFvZB0WclEiU03DnA",
+   "youtubeVideoId": "_wQtERpHYSA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q136109957",
+   "description": {
+    "en": "Argentine radio station",
+    "es": "Estación de radio argentina"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/FM_Vida"
+   },
+   "logo": null,
+   "website": "https://fmvida.com.ar/",
+   "city": "Rosario"
+  },
+  {
+   "id": "ar.radio2envivo",
+   "name": "Radio 2 Rosario",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCTJ0n6Hal7PpHERq4To6iHg",
+   "youtubeVideoId": "xMj-QE8vCHQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q136091881",
+   "description": {
+    "en": "Argentine radio station",
+    "es": "Estación de radio argentina"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/LT2_Radio_2"
+   },
+   "logo": null,
+   "website": "https://www.rosario3.com/",
+   "city": "Rosario"
+  },
+  {
+   "id": "ar.radiosol915santafe",
+   "name": "Radio Sol 91.5",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCBRWjgdwXsnWMI9-VKc4hWQ",
+   "youtubeVideoId": "bSQmL6rymkE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q136328055",
+   "description": {
+    "en": "radio station in Argentina",
+    "es": "emisora de radio en Santa Fe, Argentina"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.sol915.com.ar/",
+   "city": "Santa Fe"
+  },
+  {
+   "id": "ar.radioboing",
+   "name": "Radio Boing",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCOdvb87kehTSzs1pfVExHwA",
+   "youtubeVideoId": "12j8qFFXiTc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q136099181",
+   "description": {
+    "en": "Argentine radio station",
+    "es": "Estación de radio argentina"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Boing_97.3"
+   },
+   "logo": null,
+   "website": "https://radioboing.com/",
+   "city": "Rosario"
   },
   {
    "id": "ar.pinamar",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
@@ -199,6 +199,28 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Noticias_Uno_logo.svg?width=256",
    "website": null,
    "city": null
+  },
+  {
+   "id": "co.pulzo",
+   "name": "Pulzo",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCEOTRMgfd7uXZD6goFTQP6A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q62129644",
+   "description": {
+    "es": "Pulzo es un medio de comunicación, fundado en 2014 por Luis Fernando Santos, Guillermo Franco y otros integrantes de InQlab, sociedad registrada en Panamá que pertenece al grupo Santo Domingo."
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Pulzo_(medio_digital)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lgo_pulzo.svg?width=256",
+   "website": "https://www.pulzo.com/",
+   "city": "Bogotá"
   },
   {
    "id": "co.caracoltv",
@@ -420,6 +442,79 @@
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "co.canaltro",
+   "name": "Canal TRO",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC34ir-riqZUiCOy90X5AFjg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7697153",
+   "description": {
+    "en": "television channel",
+    "es": "canal de televisión colombiano"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Televisi%C3%B3n_Regional_del_Oriente",
+    "es": "https://es.wikipedia.org/wiki/Canal_TRO"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_tro_logo.PNG?width=256",
+   "website": "http://www.canaltro.com/",
+   "city": null
+  },
+  {
+   "id": "co.canaltelecafe",
+   "name": "Canal Telecafé",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCoIrkYZ161GtRP9yl_F-YRA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6140430",
+   "description": {
+    "en": "Colombian public television channel",
+    "es": "canal de televisión"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Telecaf%C3%A9",
+    "es": "https://es.wikipedia.org/wiki/Telecaf%C3%A9"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Telecaf%C3%A9_logo.svg?width=256",
+   "website": "https://telecafe.gov.co/",
+   "city": "Manizales"
+  },
+  {
+   "id": "co.futbolrcn",
+   "name": "Fútbol RCN",
+   "category": "sports",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC8xfBVSEAryXew78mZbFZFg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q8200525",
+   "description": {
+    "en": "radio station in Colombia",
+    "es": "cadena de radio colombiana, propiedad de RCN Radio.",
+    "pt-BR": "Antena 2 era uma rede de rádio desportiva colombiana pertencente à Rádio RCN."
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Antena_2",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Antena_2_(Col%C3%B4mbia)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Antena_2_logo.svg?width=256",
+   "website": "http://www.antena2.com.co/",
+   "city": "Bogotá"
   },
   {
    "id": "co.bluradio",

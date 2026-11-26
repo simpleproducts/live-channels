@@ -1,0 +1,134 @@
+{
+ "schema": 2,
+ "code": "KZ",
+ "version": 2026112601,
+ "defaultTiles": [
+  "kz.24kz",
+  "kz.qazaqstantv"
+ ],
+ "channels": [
+  {
+   "id": "kz.24kz",
+   "name": "24KZ",
+   "category": "news",
+   "languages": [
+    "kk",
+    "ru"
+   ],
+   "youtubeChannelId": "UCnAFKvDuqBGkIfV8Vn0J_CQ",
+   "youtubeVideoId": "zZrslgu3260",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4030316",
+   "description": {
+    "en": "24-hour TV news channel in Kazakhstan",
+    "ru": "казахстанский круглосуточный информационный телеканал",
+    "tr": "Kazakistan'daki bir haber kanalı",
+    "de": "kasachischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/24KZ",
+    "ru": "https://ru.wikipedia.org/wiki/24KZ_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/24KZ_logo.svg?width=256",
+   "website": "https://24.kz/ru/",
+   "city": null
+  },
+  {
+   "id": "kz.1612",
+   "name": "16/12",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UC6wZggQydceHuEwIT5GUgBA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q17317619",
+   "description": {
+    "en": "television channel",
+    "ru": "Телеканал 16/12 — новостной телевизионный канал в Казахстане."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Channel_16%2F12",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_16%2F12"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_1612.jpg?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kz.qazaqstantv",
+   "name": "Qazaqstan TV",
+   "category": "broadcast",
+   "languages": [
+    "kk"
+   ],
+   "youtubeChannelId": "UCg7YNHS1ld_LBCupWa1I_AQ",
+   "youtubeVideoId": "4mS98wFcHKQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1388078",
+   "description": {
+    "en": "television station",
+    "es": "canal de televisión de Kazajistán",
+    "zh-Hans": "哈薩克斯坦 是哈薩克斯坦廣播電視公司一條於1958年開播的電視頻道，為該國首條和最具歷史的電視頻道。這條頻道播放新聞、音樂、綜藝、文化以及電視劇等各類節目，而其總部則設在首都阿斯塔納。",
+    "fr": "Qazaqstan est la principale chaîne de télévision publique du Kazakhstan.",
+    "ru": "казахстанский телеканал",
+    "zh-Hant": "哈薩克斯坦 是哈薩克斯坦廣播電視公司一條於1958年開播的電視頻道，為該國首條和最具歷史的電視頻道。這條頻道播放新聞、音樂、綜藝、文化以及電視劇等各類節目，而其總部則設在首都阿斯塔納。",
+    "ar": "قزاقستان اسم قناة تلفزية حكومية قزاقستانية تبُثُّ منذ 8 مارس آذار 1958.",
+    "tr": "Qazaqstan TV, 8 Mart 1958'de kurulan, Kazakistan'ın ilk ulusal yayın yapan televizyon kanalıdır.",
+    "nl": "Wikimedia-doorverwijspagina",
+    "pl": "Qazaqstan – kazachski kanał telewizyjny.",
+    "id": "Qazaqstan adalah sebuah saluran televisi negara Kazakhstan.",
+    "de": "staatlicher und nationaler Fernsehsender in Kasachstan"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Qazaqstan_(TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/Qazaqstan_(canal_de_televisi%C3%B3n)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%93%88%E8%96%A9%E5%85%8B%E6%96%AF%E5%9D%A6_(%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93)",
+    "fr": "https://fr.wikipedia.org/wiki/Qazaqstan",
+    "ru": "https://ru.wikipedia.org/wiki/Qazaqstan_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%93%88%E8%96%A9%E5%85%8B%E6%96%AF%E5%9D%A6_(%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93)",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86_(%D9%82%D9%86%D8%A7%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/Qazaqstan_(televizyon_kanal%C4%B1)",
+    "pl": "https://pl.wikipedia.org/wiki/Qazaqstan",
+    "id": "https://id.wikipedia.org/wiki/Qazaqstan_(saluran)",
+    "de": "https://de.wikipedia.org/wiki/Qazaqstan"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kazakhstan_%28channel%29_logo.png?width=256",
+   "website": "https://qazaqstan.tv",
+   "city": "Astana"
+  },
+  {
+   "id": "kz.qazsporttvtv",
+   "name": "QAZSPORT TV",
+   "category": "sports",
+   "languages": [
+    "kk",
+    "ru"
+   ],
+   "youtubeChannelId": "UC5H6wThXeNmhScP-eJgyDQA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q15779281",
+   "description": {
+    "en": "television channel",
+    "ru": "государственный спортивный телеканал Казахстана",
+    "tr": "Kazsport, Kazakistan Radyo ve Televizyon Kurumu'na bağlı bir spor televizyon kanalıdır.",
+    "pl": "kazachski kanał telewizyjny",
+    "de": "kasachischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Qazsport",
+    "tr": "https://tr.wikipedia.org/wiki/Kazsport",
+    "pl": "https://pl.wikipedia.org/wiki/Qazsport"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Qazsport_logo.svg?width=256",
+   "website": "https://www.qazsporttv.kz/",
+   "city": null
+  }
+ ]
+}

@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "za.sabcnews",
   "za.enca",
   "za.radio702",
+  "za.cnbcafrica",
   "za.parliament"
  ],
  "channels": [
@@ -102,6 +103,32 @@
    "city": null
   },
   {
+   "id": "za.cnbcafrica",
+   "name": "CNBC Africa",
+   "category": "economy",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCsba91UGiQLFOb5DN3Z_AdQ",
+   "youtubeVideoId": "pKqpK_E1Vb8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4259574",
+   "description": {
+    "en": "African feed of CNBC",
+    "id": "perusahaan asal Amerika Serikat",
+    "ms": "CNBC Africa adalah saluran televisyen untuk Sub-Sahara Afrika yang dilancarkan oleh CNBC."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CNBC_Africa",
+    "id": "https://id.wikipedia.org/wiki/CNBC_Africa",
+    "ms": "https://ms.wikipedia.org/wiki/CNBC_Africa"
+   },
+   "logo": null,
+   "website": "http://www.cnbcafrica.com",
+   "city": null
+  },
+  {
    "id": "za.parliament",
    "name": "Parliament of South Africa",
    "category": "government",
@@ -171,6 +198,28 @@
    "wikipedia": {},
    "logo": null,
    "website": null,
+   "city": null
+  },
+  {
+   "id": "za.sabcsport",
+   "name": "SABC Sport",
+   "category": "sports",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCfqRpFJSVSUKMO-LwrvPUOw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q107584236",
+   "description": {
+    "en": "South African television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/SABC_Sport"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SABC%2BSport%2B300x169.jpg?width=256",
+   "website": "http://www.sabcsport.co.za/",
    "city": null
   },
   {

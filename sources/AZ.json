@@ -1,0 +1,11 @@
+{
+ "code": "AZ",
+ "languages": ["az"],
+ "defaultTiles": ["tvmusavat"],
+ "channels": [
+  {"id": "tvmusavat", "name": "Tv Musavat", "category": "news", "youtubeChannelId": "UCtvU8QAYnxFGCH7v9-dUOYw", "live": false, "wikidata": "Q12847974"},
+  {"id": "ictimaitv", "name": "İCTİMAİ TV", "category": "broadcast", "youtubeChannelId": "UCCYhaH52lUEmfUjX-_OBAHg", "youtubeVideoId": "GaiAhlgcBdU", "embeddable": true, "live": true, "liveSince": "2026-11-25T20:00:00Z", "wikidata": "Q343446"},
+  {"id": "aztv", "name": "AZTV", "category": "broadcast", "youtubeChannelId": "UCVf7OL0jKiO1OMHN_qaNf0w", "youtubeVideoId": "cUO-7q6h_yY", "embeddable": true, "live": true, "liveSince": "2026-11-25T20:00:00Z", "wikidata": "Q616799"},
+  {"id": "bakutv", "name": "Baku TV", "category": "broadcast", "youtubeChannelId": "UCINwqO8Scgq___xJAVjfn7g", "youtubeVideoId": "mbc_LfSzz-M", "embeddable": true, "live": true, "liveSince": "2026-11-25T19:00:00Z", "wikidata": "Q119252675"}
+ ]
+}

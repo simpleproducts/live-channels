@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IT",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "it.euronewsit",
   "it.camera",
@@ -175,6 +175,35 @@
    "city": "Napoli"
   },
   {
+   "id": "it.adnkronos",
+   "name": "Adnkronos",
+   "category": "news",
+   "languages": [
+    "it"
+   ],
+   "youtubeChannelId": "UCXXWh7wQAmi751M1X_ggQkA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q359875",
+   "description": {
+    "en": "Italian news agency",
+    "fr": "maison d'édition",
+    "it": "agenzia di stampa italiana",
+    "ar": "دار نشر",
+    "de": "italienische Nachrichtenagentur"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Adnkronos",
+    "fr": "https://fr.wikipedia.org/wiki/Adnkronos",
+    "it": "https://it.wikipedia.org/wiki/Adnkronos",
+    "de": "https://de.wikipedia.org/wiki/Adnkronos"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Adnkronos_Logo.svg?width=256",
+   "website": "https://www.adnkronos.com",
+   "city": "Roma"
+  },
+  {
    "id": "it.rai",
    "name": "Rai",
    "category": "broadcast",
@@ -273,6 +302,27 @@
    "city": "Milano"
   },
   {
+   "id": "it.moneyit",
+   "name": "Money.it",
+   "category": "economy",
+   "languages": [
+    "it"
+   ],
+   "youtubeChannelId": "UCYZpcYxa-2fXWg-jNJOL8Ww",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q138347575",
+   "description": {
+    "en": "Italian online newspaper specializing in economics, finance, and business",
+    "it": "Testata giornalistica online italiana specializzata in economia, finanza e borsa"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.money.it",
+   "city": "Roma"
+  },
+  {
    "id": "it.camera",
    "name": "Camera dei Deputati",
    "category": "government",
@@ -349,6 +399,40 @@
    "logo": null,
    "website": "http://www.senato.it/lavori/21426/29292/28906/webtv.htm",
    "city": null
+  },
+  {
+   "id": "it.inter",
+   "name": "Inter",
+   "category": "sports",
+   "languages": [
+    "it"
+   ],
+   "youtubeChannelId": "UCvXzEblUa0cfny4HAJ_ZOWw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2259328",
+   "description": {
+    "en": "subscription-based channel, entirely dedicated to the Italian professional football club Inter",
+    "ja": "インテル・ミラノ・チャンネルとは、イタリアのサッカー・セリエAに属するインテル・ミラノのクラブ公認テレビ番組である。2008-09シーズンよりスカイ・A sports+で放送されている。",
+    "fr": "chaîne de télévision nationale italienne",
+    "it": "canale televisivo tematico a pagamento di proprietà della società calcistica italiana Inter",
+    "ru": "«Inter TV» — итальянский телевизионный канал, базирующийся в Милане (Ломбардия), посвящённый футбольному клубу «Интернационале».",
+    "ar": "قناة تلفزيونية مدفوعة الأجر مخصصة كليةً لنادي كرة القدم المحترف إنتر",
+    "id": "Inter TV adalah saluran berlangganan yang sepenuhnya didedikasikan untuk klub sepak bola profesional Italia, Inter.",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Inter_TV",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%8E_%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+    "fr": "https://fr.wikipedia.org/wiki/Inter_TV",
+    "it": "https://it.wikipedia.org/wiki/Inter_TV",
+    "ru": "https://ru.wikipedia.org/wiki/Inter_TV",
+    "id": "https://id.wikipedia.org/wiki/Inter_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Inter_TV_-_Logo_2021.png?width=256",
+   "website": "https://www.inter.it/it/intertv",
+   "city": "Appiano Gentile"
   },
   {
    "id": "it.radiodeejay",
@@ -443,6 +527,30 @@
    "logo": null,
    "website": "http://www.radio24.it/",
    "city": null
+  },
+  {
+   "id": "it.romereportsinenglish",
+   "name": "ROME REPORTS in English",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCxshhzR907v2w6DjICyAgLQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q64821996",
+   "description": {
+    "en": "website",
+    "es": "agencia de noticias",
+    "it": "istituzione archivistica italiana"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Rome_Reports"
+   },
+   "logo": null,
+   "website": "https://www.romereports.com",
+   "city": "Roma"
   }
  ]
 }

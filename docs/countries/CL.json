@@ -1,16 +1,16 @@
 {
  "schema": 2,
  "code": "CL",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "cl.24horas",
   "cl.t13",
   "cl.meganoticias",
   "cl.chvnoticias",
+  "cl.chilevision",
   "cl.senado",
   "cl.cooperativa",
   "cl.tvn",
-  "cl.chilevision",
   "cl.mega"
  ],
  "channels": [
@@ -403,6 +403,28 @@
    "city": "Viña del Mar"
   },
   {
+   "id": "cl.los40chile",
+   "name": "Los40 Chile",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCdrMBPlRp8mzz1YWO1revxA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5979248",
+   "description": {
+    "es": "cadena de radio musical privada chilena"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Los_40_(Chile)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Los_40.svg?width=256",
+   "website": "http://www.los40.cl",
+   "city": null
+  },
+  {
    "id": "cl.senado",
    "name": "Senado de Chile",
    "category": "government",
@@ -470,7 +492,7 @@
     "it": "camera bassa del Congresso nazionale cileno",
     "ru": "нижняя палата Национального Конгресса Чили",
     "zh-Hant": "智利众议院是智利国会两院中的下议院，自2017年開始通过汉狄法開放名單比例代表制选举产生。",
-    "ar": "مجلس نواب تشيلي هو الهيئة التشريعية في دولة تشيلي، ويتكون من 120 ، و155 مقعداً، وتبلغ عدد دوائره الانتخابية 28 دائرة، وهو المجلس الأدنى في National Congress of Chile ‏.",
+    "ar": "الهيئة التشريعية في دولة تشيلي",
     "tr": "Temsilciler Meclisi, Şili Ulusal Kongresi'nin alt meclisi olan yasama organıdır.",
     "nl": "De Cámara de Diputados de Chile is het lagerhuis van het Congreso Nacional de Chile.",
     "pl": "izba niższa chilijskiego Kongresu Narodowego",
@@ -665,6 +687,31 @@
    "wikipedia": {},
    "logo": null,
    "website": null,
+   "city": null
+  },
+  {
+   "id": "cl.subela",
+   "name": "SÚBELA",
+   "category": "radio",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC2XAmdUgYy23fkg5nC6Spag",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q17462578",
+   "description": {
+    "en": "radio station in Chile",
+    "es": "radio digital de Chile",
+    "id": "stasiun radio di Chili",
+    "de": "chilenischer Hörfunksender"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/S%C3%BAbela_Radio"
+   },
+   "logo": null,
+   "website": "https://subela.cl",
    "city": null
   }
  ]

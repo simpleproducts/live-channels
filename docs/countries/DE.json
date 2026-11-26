@@ -1,13 +1,16 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
   "de.phoenix",
   "de.dwnews",
   "de.dwespanol",
+  "de.dw",
+  "de.tvberlin",
+  "de.sat1",
   "de.bundestag"
  ],
  "channels": [
@@ -363,6 +366,136 @@
    "city": null
   },
   {
+   "id": "de.dw",
+   "name": "DW на русском",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCXoAjrdHFa2hEL3Ug8REC1w",
+   "youtubeVideoId": "gP7872YRFDk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q153770",
+   "description": {
+    "en": "international German public radio and television channel",
+    "es": "servicio público de comunicación de Alemania",
+    "zh-Hans": "德国媒体",
+    "ja": "ドイツ連邦共和国の国際放送事業体",
+    "fr": "média allemand",
+    "pt-BR": "agência de notícias e canais públicos de rádio e televisão alemães",
+    "ko": "독일의 국제 방송",
+    "it": "rete radiotelevisiva tedesca internazionale",
+    "ru": "международная телерадиокомпания Германии",
+    "zh-Hant": "德国媒体",
+    "ar": "قناة إذاعية وتلفزيونية ألمانية حكومية موجهة للخارج",
+    "tr": "Alman kamu yayıncısı",
+    "nl": "Duits internationaal radio- en televisieuitzendstation",
+    "pl": "niemiecki kanał radiowy i telewizyjny",
+    "sv": "tysk tv-kanal",
+    "id": "stasiun radio di Jerman",
+    "de": "Auslandsrundfunk der Bundesrepublik Deutschland",
+    "ms": "DW atau Deutsche Welle dibentuk tahun 1953."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Deutsche_Welle",
+    "es": "https://es.wikipedia.org/wiki/Deutsche_Welle",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%AC",
+    "fr": "https://fr.wikipedia.org/wiki/Deutsche_Welle",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Deutsche_Welle",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%9D%B4%EC%B2%B4_%EB%B2%A8%EB%A0%88",
+    "it": "https://it.wikipedia.org/wiki/Deutsche_Welle",
+    "ru": "https://ru.wikipedia.org/wiki/Deutsche_Welle",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D9%8A%D8%AA%D8%B4%D9%87_%D9%81%D9%8A%D9%84%D9%87",
+    "tr": "https://tr.wikipedia.org/wiki/Deutsche_Welle",
+    "nl": "https://nl.wikipedia.org/wiki/Deutsche_Welle",
+    "pl": "https://pl.wikipedia.org/wiki/Deutsche_Welle",
+    "sv": "https://sv.wikipedia.org/wiki/Deutsche_Welle",
+    "id": "https://id.wikipedia.org/wiki/Deutsche_Welle",
+    "de": "https://de.wikipedia.org/wiki/Deutsche_Welle",
+    "ms": "https://ms.wikipedia.org/wiki/Deutsche_Welle"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutsche_Welle_symbol_2012.svg?width=256",
+   "website": "https://www.dw.com",
+   "city": "Bonn"
+  },
+  {
+   "id": "de.echo",
+   "name": "Эхо",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCs8I8inqV5b-_UY0Hm7K0Jg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q114398988",
+   "description": {
+    "en": "Russian-language online media",
+    "ru": "русскоязычное интернет-издание"
+   },
+   "wikipedia": {
+    "ru": "https://ru.wikipedia.org/wiki/%D0%AD%D1%85%D0%BE_(%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Echo_logo.png?width=256",
+   "website": "https://echofm.online",
+   "city": "Berlin"
+  },
+  {
+   "id": "de.nius",
+   "name": "NIUS",
+   "category": "news",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UCQGqiGhMjc_p4lZEhSTb12g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q120979051",
+   "description": {
+    "en": "German right-wing populist news platform",
+    "fr": "journal en ligne",
+    "it": "giornale online",
+    "de": "deutschsprachiges rechtspopulistisches Onlinemedium"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Nius",
+    "de": "https://de.wikipedia.org/wiki/Nius"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Nius_Logo_2026.svg?width=256",
+   "website": "https://www.nius.de/",
+   "city": "Berlin"
+  },
+  {
+   "id": "de.tvberlin",
+   "name": "tvberlin",
+   "category": "regional",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UCwtBLZ8VGfchDTJ_cYZ5S1A",
+   "youtubeVideoId": "Kwz-0udZwEQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1714624",
+   "description": {
+    "en": "local TV channel based in Berlin, Germany",
+    "fr": "station de télévision allemand",
+    "it": "emittente televisiva",
+    "de": "deutscher Fernsehsender"
+   },
+   "wikipedia": {
+    "de": "https://de.wikipedia.org/wiki/TV_Berlin"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tv.berlin_2009.svg?width=256",
+   "website": "https://www.tvb.de/",
+   "city": "Berlin"
+  },
+  {
    "id": "de.bundestag",
    "name": "Deutscher Bundestag",
    "category": "government",
@@ -447,6 +580,56 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rbb_radioeins_Logo_2021.svg?width=256",
    "website": "https://www.radioeins.de/",
    "city": null
+  },
+  {
+   "id": "de.sat1",
+   "name": "SAT.1",
+   "category": "entertainment",
+   "languages": [
+    "de"
+   ],
+   "youtubeChannelId": "UCjIcbyvVQm_alh_Qn5OIgWQ",
+   "youtubeVideoId": "Fy1Z-RR5mDQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q313332",
+   "description": {
+    "en": "German TV station",
+    "es": "Sat.1 es un canal de televisión privado de Alemania, que emite en abierto a nivel nacional.",
+    "zh-Hans": "德国卫星一台 是一个综合性的私营电视台，总部设于慕尼黑附近的下弗灵。该台由ProSiebenSat.1 Media所持有，其创始人为莱奥·基尔希。",
+    "fr": "Sat.1 est une chaîne de télévision généraliste privée allemande, dont le siège est situé à Unterföhring près de Munich.",
+    "pt-BR": "Sat.1 é um canal de televisão alemão, que faz parte da ProSiebenSat.1 Media.",
+    "ko": "Sat.1(한국어: 자트아인스)는 독일의 민영 텔레비전 방송국이다.",
+    "it": "rete televisiva tedesca",
+    "ru": "Sat.1 — частный немецкий телеканал.",
+    "zh-Hant": "德国卫星一台 是一个综合性的私营电视台，总部设于慕尼黑附近的下弗灵。该台由ProSiebenSat.1 Media所持有，其创始人为莱奥·基尔希。",
+    "tr": "Sat.1, ProsiebenSat.1 Media grubuna bağlı bir özel Alman televizyon kanalıdır.",
+    "nl": "Sat.1 is een Duitse commerciële televisiezender van de Europese mediagroep ProSiebenSat.1 Media.",
+    "pl": "Sat.1 – jedna z największych komercyjnych stacji telewizyjnych w Niemczech.",
+    "sv": "Sat.1 är en tysk TV-kanal som ingår i ProSiebenSat.1 Media.",
+    "id": "Sat.1 adalah saluran televisi siaran gratis Jerman yang dianggap sebagai jaringan televisi swasta pertama di Jerman, yang diluncurkan pada Januari 1984 sebagai PKS, yang awalnya merupakan perusahaan patungan dari berbagai penerbit, dan telah diganti namanya menjadi Sat.1 pada Januari 1985.",
+    "de": "privater deutscher Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sat.1",
+    "es": "https://es.wikipedia.org/wiki/Sat.1",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Sat.1",
+    "fr": "https://fr.wikipedia.org/wiki/Sat.1",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Sat.1",
+    "ko": "https://ko.wikipedia.org/wiki/Sat.1",
+    "it": "https://it.wikipedia.org/wiki/Sat.1",
+    "ru": "https://ru.wikipedia.org/wiki/Sat.1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Sat.1",
+    "tr": "https://tr.wikipedia.org/wiki/Sat.1",
+    "nl": "https://nl.wikipedia.org/wiki/Sat.1",
+    "pl": "https://pl.wikipedia.org/wiki/Sat.1",
+    "sv": "https://sv.wikipedia.org/wiki/Sat.1",
+    "id": "https://id.wikipedia.org/wiki/Sat.1",
+    "de": "https://de.wikipedia.org/wiki/Sat.1"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Neues_Sat._1_Logo_transparent.png?width=256",
+   "website": "https://www.sat1.de/",
+   "city": "Berlin"
   }
  ]
 }

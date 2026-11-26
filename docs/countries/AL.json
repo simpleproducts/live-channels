@@ -1,0 +1,146 @@
+{
+ "schema": 2,
+ "code": "AL",
+ "version": 2026112601,
+ "defaultTiles": [
+  "al.teve1",
+  "al.syritv",
+  "al.rtsh"
+ ],
+ "channels": [
+  {
+   "id": "al.teve1",
+   "name": "TËVË 1",
+   "category": "news",
+   "languages": [
+    "sq"
+   ],
+   "youtubeChannelId": "UCm7xhcX-x1Yi3E0WYy4RiZQ",
+   "youtubeVideoId": "ZTQCV7Dwz8s",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q112195066",
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://teve1.info/",
+   "city": "Pristina"
+  },
+  {
+   "id": "al.syritv",
+   "name": "SYRI TV",
+   "category": "news",
+   "languages": [
+    "sq"
+   ],
+   "youtubeChannelId": "UCrhOdWxeea0IF_H7jV4y7tQ",
+   "youtubeVideoId": "OTgij_2znJE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q115801956",
+   "description": {
+    "en": "Abanian television channel and news agency"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Syri_Television"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Syri_TV.svg?width=256",
+   "website": "https://www.syri.net/",
+   "city": "Tirana"
+  },
+  {
+   "id": "al.topchannelalbania",
+   "name": "Top Channel Albania",
+   "category": "broadcast",
+   "languages": [
+    "sq"
+   ],
+   "youtubeChannelId": "UCyny-dfYPbE-CjAkzkZqF8A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q968899",
+   "description": {
+    "en": "Albanian television network",
+    "es": "canal de televisión albanés",
+    "zh-Hans": "Top Channel是阿尔巴尼亚的一个全国性的商业电视台，总部位于地拉那。该电视台成立于2001年，由商业巨头Dritan Hoxha和Top传媒集团的部分建立。Top Channel是阿尔巴尼亚首个采用16:9比例的高清电视台。2003年9月起，该台开始上星广播。",
+    "fr": "Top Channel est une chaîne de télévision commerciale nationale basée à Tirana, fondée en 2001 par Dritan Hoxha.",
+    "it": "Rete televisiva Albanese",
+    "ru": "Top Channel — албанский коммерческий телеканал, начал вещание 30 июля 2001.",
+    "zh-Hant": "Top Channel是阿尔巴尼亚的一个全国性的商业电视台，总部位于地拉那。该电视台成立于2001年，由商业巨头Dritan Hoxha和Top传媒集团的部分建立。Top Channel是阿尔巴尼亚首个采用16:9比例的高清电视台。2003年9月起，该台开始上星广播。",
+    "tr": "Top Channel, Arnavutluk merkezli bir televizyon ağıdır.",
+    "pl": "Top Channel – albańska komercyjna stacja telewizyjna.",
+    "sv": "Top Channel är en kommersiell TV-kanal baserad i Tirana i Albanien.",
+    "de": "Albanisches fernsehsendernetzwerk"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Top_Channel",
+    "es": "https://es.wikipedia.org/wiki/Top_Channel",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Top_Channel",
+    "fr": "https://fr.wikipedia.org/wiki/Top_Channel",
+    "it": "https://it.wikipedia.org/wiki/Top_Channel",
+    "ru": "https://ru.wikipedia.org/wiki/Top_Channel",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Top_Channel",
+    "tr": "https://tr.wikipedia.org/wiki/Top_Channel",
+    "pl": "https://pl.wikipedia.org/wiki/Top_Channel",
+    "sv": "https://sv.wikipedia.org/wiki/Top_Channel",
+    "de": "https://de.wikipedia.org/wiki/Top_Channel"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Top_Channel.svg?width=256",
+   "website": "http://www.top-channel.tv/",
+   "city": "Tirana"
+  },
+  {
+   "id": "al.rtsh",
+   "name": "RTSH",
+   "category": "broadcast",
+   "languages": [
+    "sq"
+   ],
+   "youtubeChannelId": "UCpiewjt_Bvzkebn6l1hwWOg",
+   "youtubeVideoId": "0oFmX49l_DU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1334457",
+   "description": {
+    "en": "Albanian public broadcasting company",
+    "es": "Radio Televizioni Shqiptar, más conocida por sus siglas RTSH, es la compañía estatal de radiodifusión pública de Albania.",
+    "zh-Hans": "媒体",
+    "ja": "シュチプタルラジオ・テレビ は、アルバニアの放送局である。",
+    "fr": "groupe de radio-télévision public albanais",
+    "pt-BR": "Radio Televizioni Shqiptar (RTSH) traduzido para português como Rádiotelevisão da Albânia (RTA) é uma televisão pública albanesa, fundada em 1938 e operada pela Tirana.",
+    "ko": "RTSH(알바니아어: Radio Televizioni Shqiptar 라디오 텔레비지오니 슈치퍼타르) 혹은 알바니아 방송 협회는 알바니아의 라디오와 텔레비전 방송이다.",
+    "it": "ente radiotelevisivo pubblico albanese",
+    "ru": "албанская центральная радиокомпания",
+    "zh-Hant": "媒体",
+    "ar": "راديو وتلفزيون شقيبتار أو الإذاعة والتلفزيون الألبانية ; تسمى في الغالب (RTSH) هي شركة الإذاعة العامة الوطنية في ألبانيا.",
+    "tr": "Arnavutluk merkezli bir kamu yayıncılığı kurumu",
+    "pl": "albański publiczny nadawca radiowo-telewizyjny",
+    "sv": "albanskt TV-bolag",
+    "id": "Radio Televizioni Shqiptar adalah penyiaran publik Albania, yang didirikan pada 1938 di Tirana.",
+    "de": "öffentlich-rechtliche Rundfunkanstalt Albaniens"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RTSH",
+    "es": "https://es.wikipedia.org/wiki/Radio_Televizioni_Shqiptar",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%81%E3%83%97%E3%82%BF%E3%83%AB%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%86%E3%83%AC%E3%83%93",
+    "fr": "https://fr.wikipedia.org/wiki/Radio_Televizioni_Shqiptar",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Radio_Televizioni_Shqiptar",
+    "ko": "https://ko.wikipedia.org/wiki/RTSH",
+    "it": "https://it.wikipedia.org/wiki/Radio_Televizioni_Shqiptar",
+    "ru": "https://ru.wikipedia.org/wiki/Radio_Televizioni_Shqiptar",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%A3%D9%84%D8%A8%D8%A7%D9%86%D9%8A%D8%A9",
+    "tr": "https://tr.wikipedia.org/wiki/Arnavutluk_Devlet_Radyo_ve_Televizyonu",
+    "pl": "https://pl.wikipedia.org/wiki/Radio_Televizioni_Shqiptar",
+    "sv": "https://sv.wikipedia.org/wiki/Radio_Televizioni_Shqiptar",
+    "id": "https://id.wikipedia.org/wiki/Radio_Televizioni_Shqiptar",
+    "de": "https://de.wikipedia.org/wiki/Radio_Televizioni_Shqiptar"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RTSH_-_Radio_Televizioni_Shqiptar.svg?width=256",
+   "website": "https://www.rtsh.al/",
+   "city": "Tirana"
+  }
+ ]
+}

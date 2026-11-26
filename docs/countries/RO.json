@@ -1,0 +1,265 @@
+{
+ "schema": 2,
+ "code": "RO",
+ "version": 2026112601,
+ "defaultTiles": [
+  "ro.romaniatv",
+  "ro.alephnews",
+  "ro.trinitastv"
+ ],
+ "channels": [
+  {
+   "id": "ro.romaniatv",
+   "name": "Romania TV",
+   "category": "news",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UC5Bb0itu0pB46xykW32ck0g",
+   "youtubeVideoId": "ls6qmE9wlxw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7363432",
+   "description": {
+    "en": "Romanian news television channel",
+    "es": "România TV es un canal de televisión privado de Rumanía, perteneciente a Ridzone Computers.",
+    "ja": "România TVはルーマニアのテレビチャンネル。実業家・政治家のセバスティアン・ギツァによって立ち上げられ、当時経営危機に陥っていたRealitatea TVから一部の資産を借用・分裂する形で2011年10月23日に開局した。",
+    "fr": "chaîne de télévision roumaine d'information en continu",
+    "de": "rumänischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Rom%C3%A2nia_TV",
+    "es": "https://es.wikipedia.org/wiki/Rom%C3%A2nia_TV",
+    "ja": "https://ja.wikipedia.org/wiki/Rom%C3%A2nia_TV",
+    "de": "https://de.wikipedia.org/wiki/Rom%C3%A2nia_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rom%C3%A2nia_TV_logo_nou.png?width=256",
+   "website": "https://www.romaniatv.net/",
+   "city": "Bucharest"
+  },
+  {
+   "id": "ro.alephnews",
+   "name": "Aleph News",
+   "category": "news",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UC9OlWHkFGBz08r7OXwqx3Sg",
+   "youtubeVideoId": "I_v29WJp_HY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q131442430",
+   "description": {
+    "en": "Romanian news television channel",
+    "fr": "télévision d'information de Roumanie"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Aleph_News"
+   },
+   "logo": null,
+   "website": "https://alephnews.ro/",
+   "city": "Bucharest"
+  },
+  {
+   "id": "ro.primanews",
+   "name": "Prima News",
+   "category": "news",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UCKjvqO6SaQdjGaqcnT7zDew",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q118949488",
+   "description": {
+    "en": "television channel"
+   },
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Prima_News_logo_2022.svg?width=256",
+   "website": "https://www.primanews.ro/",
+   "city": "Sector 2"
+  },
+  {
+   "id": "ro.gandul",
+   "name": "Gândul",
+   "category": "news",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UCQDHc1PDTAxM-8ca9ssR0bQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q954232",
+   "description": {
+    "en": "Romanian online newspaper",
+    "fr": "journal en ligne roumain",
+    "it": "Gândul è un quotidiano romeno.",
+    "nl": "krant uit Roemenië",
+    "pl": "Gândul – rumuński dziennik wydawany w Bukareszcie."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/G%C3%A2ndul",
+    "it": "https://it.wikipedia.org/wiki/G%C3%A2ndul",
+    "pl": "https://pl.wikipedia.org/wiki/G%C3%A2ndul"
+   },
+   "logo": null,
+   "website": "https://www.gandul.ro/",
+   "city": null
+  },
+  {
+   "id": "ro.adevarul",
+   "name": "Adevărul",
+   "category": "news",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UC7mCSbw-7a7m3U1W0wxy2VA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q426356",
+   "description": {
+    "en": "Romanian newspaper",
+    "es": "Adevărul es un periódico diario en rumano de información general y de distribución matinal publicado en Bucarest, Rumania.",
+    "zh-Hans": "罗马尼亚报纸",
+    "fr": "quotidien roumain",
+    "it": "quotidiano romeno",
+    "nl": "krant uit Roemenië",
+    "pl": "Adevărul – rumuński dziennik wydawany w Bukareszcie.",
+    "de": "rumänische Zeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Adev%C4%83rul",
+    "es": "https://es.wikipedia.org/wiki/Adev%C4%83rul",
+    "fr": "https://fr.wikipedia.org/wiki/Adev%C4%83rul",
+    "it": "https://it.wikipedia.org/wiki/Adev%C4%83rul",
+    "pl": "https://pl.wikipedia.org/wiki/Adev%C4%83rul",
+    "de": "https://de.wikipedia.org/wiki/Adev%C4%83rul"
+   },
+   "logo": null,
+   "website": "https://adevarul.ro",
+   "city": "Bucharest"
+  },
+  {
+   "id": "ro.dcnewsro",
+   "name": "DCNEWS RO",
+   "category": "news",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UCM0GcCS1HPUhVxRVOvxg2ag",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q18539605",
+   "description": {
+    "en": "Romanian online newspaper"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.dcnews.ro",
+   "city": null
+  },
+  {
+   "id": "ro.antena1",
+   "name": "Antena 1",
+   "category": "broadcast",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UCbyawH6yI56MxZid7m2yLiA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q658376",
+   "description": {
+    "en": "television network in Romania",
+    "es": "Antena 1 es un canal de televisión de Rumanía, perteneciente a Intact Media Group.",
+    "fr": "chaîne de télévision roumaine",
+    "it": "rete televisiva romena",
+    "pl": "rumuńska stacja telewizyjna",
+    "de": "rumänischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Antena_1_(Romania)",
+    "es": "https://es.wikipedia.org/wiki/Antena_1_(Rumania)",
+    "fr": "https://fr.wikipedia.org/wiki/Antena_1_(Roumanie)",
+    "it": "https://it.wikipedia.org/wiki/Antena_1",
+    "pl": "https://pl.wikipedia.org/wiki/Antena_1_(Rumunia)",
+    "de": "https://de.wikipedia.org/wiki/Antena_1_(Rum%C3%A4nien)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Antena_1_%282010%29.svg?width=256",
+   "website": "https://a1.ro/",
+   "city": "Bucharest"
+  },
+  {
+   "id": "ro.digifmnewsicradio",
+   "name": "Digi FM",
+   "category": "radio",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UCRWXfuZFnbyF5waJJao1YEg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q25462988",
+   "description": {
+    "en": "Romanian radio station"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Digi_FM"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Digi_FM_%282021%29.svg?width=256",
+   "website": "https://www.digifm.ro",
+   "city": null
+  },
+  {
+   "id": "ro.trinitastv",
+   "name": "TRINITAS TV",
+   "category": "religious",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UCcqFHIDYfKsaJ5KXZjzW7ZQ",
+   "youtubeVideoId": "W3OEty_o2AU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q12742552",
+   "description": {
+    "en": "TV Channel of the Romanian Orthodox Church",
+    "ja": "Trinitas TVはルーマニアの.",
+    "fr": "chaîne de télévision du Patriarcat Orthodoxe de Roumanie",
+    "de": "Fernsehsender des Patriarchen von Rumänien"
+   },
+   "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/Trinitas_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Trinitas_TV_%282018%29.svg?width=256",
+   "website": "https://www.trinitas.tv/",
+   "city": null
+  },
+  {
+   "id": "ro.cancan",
+   "name": "Cancan",
+   "category": "entertainment",
+   "languages": [
+    "ro"
+   ],
+   "youtubeChannelId": "UCLvPuOCRIk8-fmUVbGY6K7w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q18538556",
+   "description": {
+    "en": "newspaper"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.cancan.ro/",
+   "city": null
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -488,6 +488,135 @@
    "city": "Paris"
   },
   {
+   "id": "fr.laprovence",
+   "name": "La Provence",
+   "category": "news",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UC2i-BljAg1w_MMMA1JuFm7w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1799045",
+   "description": {
+    "en": "French newspaper belonging to CMA CGM",
+    "zh-Hans": "法国报纸",
+    "fr": "quotidien régional français diffusé en Provence",
+    "pt-BR": "La Provence é um jornal diário regional publicado em Marselha, na França.",
+    "it": "quotidiano francese",
+    "zh-Hant": "普罗旺斯报 是法国南部的一家地方性综合日报，总部设于马赛，发行与报道范围涵盖罗讷河口省、沃克吕兹省和上普罗旺斯阿尔卑斯省，现由LA PROVENCE出版，所有权归属CMA CGM。",
+    "ar": "جريدة يومية فرنسية تتبع مجموعة هيرسانت ميديا",
+    "tr": "La Provence, Fransa'da yayınlanan günlük gazete.",
+    "pl": "La Provence – francuski dziennik lokalny wydawany w regionie Prowansji.",
+    "de": "französische Zeitung, die zur Groupe Hersant Média gehört"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/La_Provence",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%8A%A5",
+    "fr": "https://fr.wikipedia.org/wiki/La_Provence",
+    "pt-BR": "https://pt.wikipedia.org/wiki/La_Provence",
+    "it": "https://it.wikipedia.org/wiki/La_Provence",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%99%AE%E7%BD%97%E6%97%BA%E6%96%AF%E6%8A%A5",
+    "tr": "https://tr.wikipedia.org/wiki/La_Provence",
+    "pl": "https://pl.wikipedia.org/wiki/La_Provence_(gazeta)",
+    "de": "https://de.wikipedia.org/wiki/La_Provence_(Tageszeitung)"
+   },
+   "logo": null,
+   "website": "https://www.laprovence.com/",
+   "city": "Marseille"
+  },
+  {
+   "id": "fr.afp",
+   "name": "AFP",
+   "category": "news",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCckz6n8QccTd6K_xdwKqa0A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q40464",
+   "description": {
+    "en": "international news agency headquartered in Paris",
+    "es": "agencia de noticias internacional francesa",
+    "zh-Hans": "法國最大型的新聞通訊社",
+    "ja": "フランスの通信社",
+    "fr": "agence de presse mondiale française",
+    "pt-BR": "agência de notícias francesa",
+    "ko": "프랑스의 통신사",
+    "it": "agenzia di stampa francese",
+    "ru": "международное информационное агентство, старейшее в мире",
+    "zh-Hant": "法國最大型的新聞通訊社",
+    "ar": "وكالة أنباء عالمية يقع مقرها الرئيسي في باريس",
+    "tr": "Fransa merkezli uluslararası haber ajansı",
+    "nl": "Agence France-Presse (AFP) is een Frans persbureau gevestigd in Parijs.",
+    "pl": "Agence France-Presse (AFP) – francuska agencja prasowa z siedzibą w Paryżu, nazwana AFP w 1944, kontynuatorka założonej w 1835 agencji Havas: Agence des feuilles politiques, correspondance générale – najstarsza światowa agencja informacyjna.",
+    "sv": "nyhetsbyrå",
+    "id": "Agence France-Presse (AFP) adalah sebuah kantor berita internasional yang berkantor pusat di Paris, Prancis.",
+    "de": "französische Nachrichtenagentur",
+    "ms": "Agence France-Presse (AFP) ialah agensi berita antarabangsa yang beribu pejabat di Paris, Perancis."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Agence_France-Presse",
+    "es": "https://es.wikipedia.org/wiki/Agence_France-Presse",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B3%95%E6%96%B0%E7%A4%BE",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%80%9A%E4%BF%A1%E7%A4%BE",
+    "fr": "https://fr.wikipedia.org/wiki/Agence_France-Presse",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Agence_France-Presse",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%91%EC%8A%A4_%ED%86%B5%EC%8B%A0%EC%82%AC",
+    "it": "https://it.wikipedia.org/wiki/Agence_France-Presse",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%81_%D0%9F%D1%80%D0%B5%D1%81%D1%81",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B3%95%E6%96%B0%E7%A4%BE",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%88%D9%83%D8%A7%D9%84%D8%A9_%D9%81%D8%B1%D8%A7%D9%86%D8%B3_%D8%A8%D8%B1%D8%B3",
+    "tr": "https://tr.wikipedia.org/wiki/Agence_France-Presse",
+    "nl": "https://nl.wikipedia.org/wiki/Agence_France-Presse",
+    "pl": "https://pl.wikipedia.org/wiki/Agence_France-Presse",
+    "sv": "https://sv.wikipedia.org/wiki/Agence_France-Presse",
+    "id": "https://id.wikipedia.org/wiki/Agence_France-Presse",
+    "de": "https://de.wikipedia.org/wiki/Agence_France-Presse",
+    "ms": "https://ms.wikipedia.org/wiki/Agence_France-Presse"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Agence_France-Presse_Logo.svg?width=256",
+   "website": "https://www.afp.com",
+   "city": "Paris"
+  },
+  {
+   "id": "fr.montecarlodoualiya",
+   "name": "مونت كارلو الدولية / Monte Carlo Doualiya",
+   "category": "broadcast",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCzyAonkXMAIi8bp7_05PV-Q",
+   "youtubeVideoId": "zP95pzO99zw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3322519",
+   "description": {
+    "en": "French international public radio station mostly in Arabic",
+    "zh-Hans": "法国国际广播电台下属国际广播",
+    "fr": "chaîne de radio française en arabe",
+    "it": "stazione radiofonica francese",
+    "zh-Hant": "法国国际广播电台下属国际广播",
+    "ar": "محطة إذاعية فرنسية ناطقة بشكلٍ أساسي باللغة العربية",
+    "id": "stasiun radio di Perancis",
+    "de": "französischer Hörfunksender für das arabischsprachige Ausland"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Monte_Carlo_Doualiya",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E4%B8%AD%E4%B8%9C%E7%94%B5%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/Monte_Carlo_Doualiya",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E4%B8%AD%E4%B8%9C%E7%94%B5%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%85%D9%88%D9%86%D8%AA_%D9%83%D8%A7%D8%B1%D9%84%D9%88_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+    "de": "https://de.wikipedia.org/wiki/Monte_Carlo_Doualiya"
+   },
+   "logo": null,
+   "website": "http://www.mc-doualiya.com/",
+   "city": null
+  },
+  {
    "id": "fr.bfmbusiness",
    "name": "BFM Business",
    "category": "economy",
@@ -513,6 +642,98 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_BFM_Business_2020.svg?width=256",
    "website": "http://www.bfmbusiness.com",
    "city": null
+  },
+  {
+   "id": "fr.bsmart",
+   "name": "B SMART",
+   "category": "economy",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCHKib3PFscrSEFOINC2ZJCQ",
+   "youtubeVideoId": "L_v2sHkaPco",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q99205506",
+   "description": {
+    "en": "French private television channel",
+    "es": "Canal de televisión privado francés",
+    "fr": "chaîne de télévision privée française",
+    "de": "Französischer privater Fernsehsender"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/B_SMART"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/B_SMART_logo.png?width=256",
+   "website": "https://www.bsmart.fr/",
+   "city": "Paris"
+  },
+  {
+   "id": "fr.canal10televisionradio",
+   "name": "Canal 10",
+   "category": "regional",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCafjyDNKyp3_gpiFgU42Slg",
+   "youtubeVideoId": "woRRmBiqiPU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2935872",
+   "description": {
+    "fr": "chaîne de télévision généraliste française"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/Canal_10_(Guadeloupe)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Canal_10.png?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "fr.demaintv",
+   "name": "demaintv",
+   "category": "regional",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCvGQ0lxN0jn4Ia5l9FxnWUQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3021981",
+   "description": {
+    "fr": "chaîne de télévision française"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "http://www.demain.fr/",
+   "city": null
+  },
+  {
+   "id": "fr.francetvicibretagne",
+   "name": "France TV - ICI Bretagne",
+   "category": "regional",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCW3mewW-ZMdk3byz5F8gfHA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3080593",
+   "description": {
+    "en": "French television channel",
+    "fr": "Antenne de proximité de la chaîne de télévision France 3",
+    "de": "französischer Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/France_3_Bretagne",
+    "fr": "https://fr.wikipedia.org/wiki/France_3_Bretagne"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/France_3_Bretagne_-_Logo_2018.svg?width=256",
+   "website": "https://france3-regions.franceinfo.fr/bretagne/",
+   "city": "Rennes"
   },
   {
    "id": "fr.assemblee",
@@ -577,6 +798,31 @@
    },
    "logo": null,
    "website": "https://www.publicsenat.fr/",
+   "city": "Paris"
+  },
+  {
+   "id": "fr.rmcsport",
+   "name": "RMCSport",
+   "category": "sports",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCR5V8BTvlkyYtw6T_9swNEw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3415245",
+   "description": {
+    "en": "French sports news publisher",
+    "fr": "Média d'actualités sportives",
+    "ar": "شركة فرنسية",
+    "nl": "bedrijf uit Frankrijk"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/RMC_Sport_(agence_de_presse)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_RMC_Sport_2018.svg?width=256",
+   "website": "https://rmcsport.bfmtv.com/",
    "city": "Paris"
   },
   {
@@ -751,6 +997,99 @@
    "logo": null,
    "website": "https://www.nrj.fr/",
    "city": "Paris"
+  },
+  {
+   "id": "fr.lignedroitelamatinaleder",
+   "name": "Radio Courtoisie",
+   "category": "radio",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCIA3flGw7EPkw9c7S-qGjbQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2209224",
+   "description": {
+    "en": "French radio station and cultural associative union",
+    "zh-Hans": "法國廣播電台和文化聯合會",
+    "fr": "station de radio associative diffusée dans plusieurs villes françaises",
+    "it": "stazione radiofonica francese",
+    "ru": "французская радиостанция",
+    "zh-Hant": "法國廣播電台和文化聯合會",
+    "nl": "Radio Courtoisie is een ongesubsidieerde Franse radiozender, die volledig wordt bekostigd door de vrijwillige bijdragen van de luisteraars.",
+    "id": "stasiun radio di Perancis",
+    "de": "französischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_Courtoisie",
+    "fr": "https://fr.wikipedia.org/wiki/Radio_Courtoisie",
+    "nl": "https://nl.wikipedia.org/wiki/Radio_Courtoisie"
+   },
+   "logo": null,
+   "website": "https://www.rc.fr/",
+   "city": "Paris"
+  },
+  {
+   "id": "fr.skyrockfm",
+   "name": "Skyrock FM",
+   "category": "radio",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UC5BYACI8gIm3wDlVnhKFG5A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3486468",
+   "description": {
+    "en": "French radio station",
+    "fr": "station de radio française",
+    "it": "stazione radiofonica francese",
+    "id": "stasiun radio rap dan R&B di Paris, Prancis",
+    "de": "französischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Skyrock_(radio_station)",
+    "fr": "https://fr.wikipedia.org/wiki/Skyrock",
+    "id": "https://id.wikipedia.org/wiki/Skyrock"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyrock_2011_logo.png?width=256",
+   "website": "https://skyrock.fm/",
+   "city": "Paris"
+  },
+  {
+   "id": "fr.ktotv",
+   "name": "KTO TV",
+   "category": "religious",
+   "languages": [
+    "fr"
+   ],
+   "youtubeChannelId": "UCg0L6cPMNLv1gjsyzYqMG7g",
+   "youtubeVideoId": "gcRVTjVGmiY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q539409",
+   "description": {
+    "en": "French catholic TV channel",
+    "es": "canal de televisión católico francés",
+    "fr": "chaîne de télévision catholique française",
+    "pt-BR": "O KTO é um canal de televisão católico em língua francesa.",
+    "it": "rete televisiva francese",
+    "nl": "Franse televisiezender",
+    "pl": "KTO – francuska telewizja katolicka założona w 1999 z inicjatywy arcybiskupa Paryża kardynała Jean-Marie Lustigera."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KTO_(TV_channel)",
+    "fr": "https://fr.wikipedia.org/wiki/KTO",
+    "pt-BR": "https://pt.wikipedia.org/wiki/KTO",
+    "it": "https://it.wikipedia.org/wiki/KTO_(televisione)",
+    "nl": "https://nl.wikipedia.org/wiki/KTO",
+    "pl": "https://pl.wikipedia.org/wiki/KTO_(stacja_telewizyjna)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KTO_t%C3%A9l%C3%A9vision_catholique_-_logo_2022.png?width=256",
+   "website": "https://www.ktotv.com",
+   "city": "Malakoff"
   },
   {
    "id": "fr.arte",

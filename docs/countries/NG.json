@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
   "ng.ntalive",
-  "ng.ait",
-  "ng.nta"
+  "ng.nta",
+  "ng.ait"
  ],
  "channels": [
   {
@@ -89,6 +89,26 @@
    "city": null
   },
   {
+   "id": "ng.trusttvnews",
+   "name": "TrustTV News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCTlqstA2Wrt4fimd_VWKr8g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q109578701",
+   "description": {
+    "de": "Fernsehsender aus Nigeria"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://trusttv.com/",
+   "city": "Abuja"
+  },
+  {
    "id": "ng.ait",
    "name": "Africa Independent Television",
    "category": "broadcast",
@@ -128,6 +148,92 @@
    "wikipedia": {},
    "logo": null,
    "website": null,
+   "city": null
+  },
+  {
+   "id": "ng.businessdaytelevision",
+   "name": "BusinessDay Television",
+   "category": "economy",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCsVZWCV-LutMa89JgR8-KGw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16733394",
+   "description": {
+    "en": "Nigerian business newspaper",
+    "fr": "BusinessDay est un journal économique quotidien basé à Lagos au Nigéria créé en 2001."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/BusinessDay_(Nigeria)",
+    "fr": "https://fr.wikipedia.org/wiki/BusinessDay"
+   },
+   "logo": null,
+   "website": "http://www.businessdayonline.com/",
+   "city": "Lagos State"
+  },
+  {
+   "id": "ng.dovetelevision",
+   "name": "DOVE TELEVISION",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCbgM7xAXYYB6eX_CipYlTQw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q99519020",
+   "description": {
+    "en": "television station of The Redeemed Christian Church of God",
+    "de": "nigerianischer Fernsehsender"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://dovevision.org/",
+   "city": "Lagos"
+  },
+  {
+   "id": "ng.thelord39schosencharisma",
+   "name": "THE LORD'S CHOSEN CHARISMATIC REVIVAL MINISTRIES",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCTpSz18J4PkEN6a2_HsZsSw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q131274225",
+   "description": {
+    "en": "The Lord's Chosen Charismatic Revival Church, founded by Pastor Lazarus Muoka, is a Christian Ministry. The channel is based in Lagos, Nigeria.",
+    "tr": "Nijerya'da kilise"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://tlccrm.org/",
+   "city": "Lagos"
+  },
+  {
+   "id": "ng.christmercyland",
+   "name": "Mercy TV",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCwdHnoBwdoccyGV1bpetYWg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q131375717",
+   "description": {
+    "en": "Christ Mercyland Deliverance Ministries – Arena of Solutions"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://christmercyland.org/",
    "city": null
   }
  ]

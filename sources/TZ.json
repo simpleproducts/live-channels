@@ -1,0 +1,10 @@
+{
+ "code": "TZ",
+ "languages": ["sw", "en"],
+ "defaultTiles": ["itvtanzania", "hopechanneltanzania", "ariseandshinetanzania"],
+ "channels": [
+  {"id": "itvtanzania", "name": "ITV Tanzania", "category": "broadcast", "youtubeChannelId": "UCRmReUqNqc-GSZeD48QKjhQ", "live": false, "wikidata": "Q124391607"},
+  {"id": "hopechanneltanzania", "name": "Hope Channel Tanzania", "category": "religious", "youtubeChannelId": "UCd-Q13Ld2cuutzCcQk7OD8w", "live": false, "wikidata": "Q115209378"},
+  {"id": "ariseandshinetanzania", "name": "Arise and Shine TV", "category": "religious", "youtubeChannelId": "UC7WineEJjDvj7K1bbYNXYww", "live": false, "wikidata": "Q125343715"}
+ ]
+}

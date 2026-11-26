@@ -8,11 +8,16 @@
   {"id": "republika", "name": "Telewizja Republika", "category": "news", "youtubeChannelId": "UCc282c_TN8xIba_Z6GaDnQw", "youtubeVideoId": "dzntyCTgJMQ", "embeddable": true, "live": true, "liveSince": "2023-12-20T13:02:48Z"},
   {"id": "wpolsce24", "name": "wPolsce24", "category": "news", "youtubeChannelId": "UCPiu4CZlknkTworskK79CPg", "youtubeVideoId": "jkDQs_xNYVQ", "embeddable": true, "live": true, "liveSince": "2026-10-19T12:43:19Z"},
   {"id": "tvpworld", "name": "TVP World", "category": "news", "youtubeChannelId": "UCBjUPsHj7bXt24SUWNoZ0zA", "youtubeVideoId": "tvXWIgsWuK0", "embeddable": true, "live": true, "liveSince": "2026-07-21T16:51:14Z", "languages": ["en"]},
+  {"id": "vottak", "name": "ВОТ ТАК", "category": "news", "youtubeChannelId": "UCSqO8lV-ric7ow5G5q9roWw", "live": false, "languages": ["ru"], "wikidata": "Q134391702"},
+  {"id": "life", "name": "БЕЛСАТ LIFE", "category": "broadcast", "youtubeChannelId": "UCa1QVip2HeQwoXENc98QTFQ", "live": false, "languages": ["be"], "wikidata": "Q187409"},
   {"id": "sejm", "name": "Sejm RP", "category": "government", "youtubeChannelId": "UCN5seY_Oy_GiJRhF06GfRlw", "youtubeVideoId": "ervCX9f14os", "embeddable": true, "live": false, "languages": ["pl"]},
+  {"id": "tvpsport", "name": "TVP Sport", "category": "sports", "youtubeChannelId": "UCalwFtq-BVcszKLZ5k2vbLw", "live": false, "wikidata": "Q1026357"},
   {"id": "kanalzero", "name": "Kanał Zero", "category": "streaming", "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg", "youtubeVideoId": "BzEshQVxSRs", "embeddable": true, "live": false, "languages": ["pl"]},
   {"id": "rmf24", "name": "RMF24", "category": "radio", "youtubeChannelId": "UCkC9YgH_FlqOhOIoTDFt4CA", "live": false, "languages": ["pl"]},
   {"id": "radiozet", "name": "Radio ZET", "category": "radio", "youtubeChannelId": "UCvHFbkohgX29NhaUtmkzLmg", "youtubeVideoId": "31S9fpPOm4o", "embeddable": true, "live": true, "liveSince": "2026-11-10T09:48:29Z", "languages": ["pl"]},
   {"id": "tokfm", "name": "TOK FM", "category": "radio", "youtubeChannelId": "UCUlZzs-r5LDqARiq1xPkQlw", "youtubeVideoId": "0NzMR6MIrag", "embeddable": true, "live": false, "languages": ["pl"]},
-  {"id": "polskieradio24", "name": "Polskie Radio 24", "category": "radio", "youtubeChannelId": "UCTKxkwZp-aWyNsV3vdV2EpA", "youtubeVideoId": "ff2B6OwG8HE", "embeddable": true, "live": false, "languages": ["pl"]}
+  {"id": "polskieradio24", "name": "Polskie Radio 24", "category": "radio", "youtubeChannelId": "UCTKxkwZp-aWyNsV3vdV2EpA", "youtubeVideoId": "ff2B6OwG8HE", "embeddable": true, "live": false, "languages": ["pl"]},
+  {"id": "europeanradioforbelarus", "name": "Еўрарадыё", "category": "radio", "youtubeChannelId": "UC1v_dekbxqgQjBQ2fg39uBg", "live": false, "languages": ["be"], "wikidata": "Q1374265"},
+  {"id": "radiownet", "name": "Radio WNET", "category": "radio", "youtubeChannelId": "UCMA-v2JV_9ZYNoY4uY4mRWA", "live": false, "wikidata": "Q9302326"}
  ]
 }

@@ -1,0 +1,135 @@
+{
+ "schema": 2,
+ "code": "NI",
+ "version": 2026112601,
+ "defaultTiles": [
+  "ni.confidencialnicaragua",
+  "ni.laprensanicaragua"
+ ],
+ "channels": [
+  {
+   "id": "ni.confidencialnicaragua",
+   "name": "Confidencial Nicaragua",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCMBDmj_hrxj8CV-bpa8nSCQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5160091",
+   "description": {
+    "en": "Nicaraguan newspaper",
+    "es": "periódico nicaragüense",
+    "fr": "journal nicaraguayen",
+    "nl": "periodiek",
+    "de": "nicaraguanische Zeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Confidencial",
+    "es": "https://es.wikipedia.org/wiki/Confidencial_(peri%C3%B3dico)",
+    "fr": "https://fr.wikipedia.org/wiki/Confidencial"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Confidencial_logo.svg?width=256",
+   "website": "https://confidencial.com.ni/",
+   "city": null
+  },
+  {
+   "id": "ni.laprensanicaragua",
+   "name": "La Prensa Nicaragua",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCc3cBMPnUvyP4-pz_nYuXGg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3211909",
+   "description": {
+    "en": "Nicaraguan newspaper founded in 1926; online-only since 2021",
+    "es": "periódico nicaragüense fundado en 1926; solo en línea desde 2021",
+    "zh-Hans": "1926年创办的尼加拉瓜报纸；自2021年起仅在线出版",
+    "ja": "1926年創刊のニカラグアの新聞、2021年からオンラインのみ",
+    "fr": "journal nicaraguayen fondé en 1926, uniquement en ligne depuis 2021",
+    "pt-BR": "jornal nicaraguense fundado em 1926; apenas on-line desde 2021",
+    "ko": "1926년 창간된 니카라과 신문; 2021년부터 온라인으로만 발행",
+    "it": "quotidiano nicaraguense fondato nel 1926; solo online dal 2021",
+    "ru": "никарагуанская газета, основанная в 1926 году; с 2021 года только онлайн",
+    "zh-Hant": "1926年創辦的尼加拉瓜報紙；自2021年起僅在線出版",
+    "ar": "صحيفة نيكاراغوية تأسست عام 1926؛ تصدر عبر الإنترنت فقط منذ 2021",
+    "tr": "1926'da kurulan Nikaragua gazetesi; 2021'den beri yalnızca çevrimiçi",
+    "nl": "Nicaraguaanse krant, opgericht in 1926; sinds 2021 alleen online",
+    "pl": "nikaraguański dziennik założony w 1926; od 2021 wyłącznie internetowy",
+    "sv": "nicaraguansk tidning grundad 1926; endast på nätet sedan 2021",
+    "id": "surat kabar Nikaragua yang didirikan pada 1926; hanya daring sejak 2021",
+    "de": "nicaraguanische Zeitung, 1926 gegründet; seit 2021 nur online",
+    "ms": "akhbar Nicaragua yang diasaskan pada 1926; dalam talian sahaja sejak 2021"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/La_Prensa_(Managua)",
+    "es": "https://es.wikipedia.org/wiki/La_Prensa_(Nicaragua)",
+    "fr": "https://fr.wikipedia.org/wiki/La_Prensa_(Managua)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/La_Prensa",
+    "it": "https://it.wikipedia.org/wiki/La_Prensa_(Nicaragua)",
+    "ru": "https://ru.wikipedia.org/wiki/La_Prensa_(%D0%9C%D0%B0%D0%BD%D0%B0%D0%B3%D1%83%D0%B0)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Prensa_NI.png?width=256",
+   "website": "https://www.laprensani.com/",
+   "city": "Managua"
+  },
+  {
+   "id": "ni.canal4nicaragua",
+   "name": "Canal 4 Nicaragua",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCWIsW6Kqu-swX6xH9jSQXow",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2935898",
+   "description": {
+    "en": "National TV channel in Nicaragua",
+    "es": "Canal 4 es un canal de televisión abierta nicaragüense, fundado por Nueva Imagen, S.A., propiedad de Informativos de Televisión y Radio S.A.",
+    "fr": "Canal 4 est une chaîne de télévision nicaraguayenne propriété de Sistema Nacional de Television (SNTV)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_4_(Nicaraguan_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/Canal_4_Multinoticias",
+    "fr": "https://fr.wikipedia.org/wiki/Canal_4_(Nicaragua)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png?width=256",
+   "website": "https://www.canal4.com.ni/",
+   "city": "Managua"
+  },
+  {
+   "id": "ni.vivanicaragua13",
+   "name": "Viva Nicaragua 13",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCAWB76NUxj1OWEE_yaOfBLg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2935877",
+   "description": {
+    "en": "television channel",
+    "es": "Viva Nicaragua es un canal de televisión abierta nicaragüense.",
+    "fr": "chaîne de télévision au Nicaragua"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Viva_Nicaragua",
+    "es": "https://es.wikipedia.org/wiki/Viva_Nicaragua",
+    "fr": "https://fr.wikipedia.org/wiki/Canal_13_(Nicaragua)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Viva_Nicaragua_Canal_13_2017.svg?width=256",
+   "website": "https://www.vivanicaragua.com.ni/",
+   "city": "Managua"
+  }
+ ]
+}

@@ -7,6 +7,10 @@
   {"id": "tvbnews", "name": "TVB NEWS 無綫新聞", "category": "news", "youtubeChannelId": "UC_ifDTtFAcsj-wJ5JfM27CQ", "live": false},
   {"id": "cablenews", "name": "有線新聞 Cable News", "category": "news", "youtubeChannelId": "UC_q7e5XYJB0JDGagcF0KW0w", "youtubeVideoId": "-vzmM1Yb0xk", "embeddable": false, "live": false},
   {"id": "nownews", "name": "Now 新聞", "category": "news", "youtubeChannelId": "UCg8EwsqYmiw7G267xxPyXsg", "youtubeVideoId": "vu0SRdqhXQs", "embeddable": true, "live": false},
+  {"id": "passiontimeshk", "name": "PassionTimes hk", "category": "news", "youtubeChannelId": "UCoAf_IAZKhnUb0AajE5VSyA", "youtubeVideoId": "nS8NM_LWxZo", "embeddable": true, "live": true, "liveSince": "2026-11-25T16:00:00Z", "wikidata": "Q15904208"},
+  {"id": "southchinamorningpost", "name": "South China Morning Post", "category": "news", "youtubeChannelId": "UC4SUWizzKc1tptprBkWjX2Q", "live": false, "wikidata": "Q1198574"},
+  {"id": "01", "name": "香港01", "category": "news", "youtubeChannelId": "UCTxyBu9VWUq5LXezXwy_SGg", "live": false, "wikidata": "Q22774484"},
+  {"id": "hongkongchinanewsagency", "name": "通視", "category": "news", "youtubeChannelId": "UC2P4BOQlye13d9l0Cl-kTTg", "live": false, "wikidata": "Q15956559"},
   {"id": "rthk", "name": "RTHK 香港電台", "category": "broadcast", "youtubeChannelId": "UC6of7UYhctnYmqABjUqzuxw", "youtubeVideoId": "1Nl55uq63S0", "embeddable": true, "live": false}
  ]
 }

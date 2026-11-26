@@ -12,6 +12,9 @@
   {"id": "dawnnews", "name": "Dawn News", "category": "news", "youtubeChannelId": "UCaxR-D8FjZ-2otbU0_Y2grg", "youtubeVideoId": "CxtDizYfoQE", "embeddable": true, "live": true, "liveSince": "2026-09-19T10:36:40Z", "wikidata": "Q5242486"},
   {"id": "ptvnews", "name": "PTV News", "category": "news", "youtubeChannelId": "UC5RvV_LtR1dxPCVFGw6dxXA", "youtubeVideoId": "1VoA0qpXwTM", "embeddable": true, "live": true, "liveSince": "2026-11-15T10:42:17Z"},
   {"id": "humnews", "name": "Hum News", "category": "news", "youtubeChannelId": "UC0Um3pnZ2WGBEeoA3BX2sKw", "youtubeVideoId": "AHEhtZUMML8", "embeddable": true, "live": true, "liveSince": "2026-10-24T16:04:44Z", "wikidata": "Q56278122"},
-  {"id": "gnn", "name": "GNN", "category": "news", "youtubeChannelId": "UC35KuZBNIj4S5Ls0yjY-UHQ", "youtubeVideoId": "Pzv58lUgiVo", "embeddable": true, "live": true, "liveSince": "2026-04-07T08:54:46Z"}
+  {"id": "gnn", "name": "GNN", "category": "news", "youtubeChannelId": "UC35KuZBNIj4S5Ls0yjY-UHQ", "youtubeVideoId": "Pzv58lUgiVo", "embeddable": true, "live": true, "liveSince": "2026-04-07T08:54:46Z"},
+  {"id": "lahorenewshd", "name": "Lahore News HD", "category": "news", "youtubeChannelId": "UC0CbUVRC1d1RvunYbp3w2qQ", "youtubeVideoId": "Gg1btOFUCq8", "embeddable": true, "live": true, "liveSince": "2026-11-03T00:00:00Z", "wikidata": "Q30643249"},
+  {"id": "24newshd", "name": "24 News HD", "category": "news", "youtubeChannelId": "UCcmpeVbSSQlZRvHfdC-CRwg", "live": false, "wikidata": "Q20647024"},
+  {"id": "aryqtv", "name": "ARY Qtv", "category": "religious", "youtubeChannelId": "UCE2oY4S4wOu6WofU2YbfWsw", "youtubeVideoId": "k0unDXRANyc", "embeddable": true, "live": true, "liveSince": "2023-05-11T00:00:00Z", "wikidata": "Q4653987"}
  ]
 }

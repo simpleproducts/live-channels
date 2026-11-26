@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
@@ -284,6 +284,198 @@
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "th.prachatai",
+   "name": "Prachatai",
+   "category": "news",
+   "languages": [
+    "th",
+    "en"
+   ],
+   "youtubeChannelId": "UCCKjgCudsO_Q52HJrmeb1wQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6579863",
+   "description": {
+    "en": "Thai independent online newspaper"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Prachatai"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Prachatai_Logo_%282024%29.svg?width=256",
+   "website": "https://prachatai.com/",
+   "city": null
+  },
+  {
+   "id": "th.9mcot",
+   "name": "9MCOT",
+   "category": "broadcast",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UC59st8OON3dV50gHefqUlsg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1087488",
+   "description": {
+    "en": "Thai free-to-air television network",
+    "zh-Hans": "泰国首个电视台，称作MCOT",
+    "ja": "Channel 9 MCOT HD は、タイで最初の地上波テレビチャンネルである。Dhewindra Wongwanichが社長を務める、オーソーモートー が運営する。",
+    "fr": "MCOT HD, anciennement Channel 9 et ModerNine TV est une chaîne de télévision thaï en libre accès lancée le 24 juin 1955 et détenue par la Mass Communication Organization of Thailand (MCOT).",
+    "pt-BR": "Channel 9 MCOT HD é uma rede de televisão aberta tailandesa, fundada em 24 de junho de 1955.",
+    "it": "rete televisiva thailandese",
+    "zh-Hant": "泰国首个电视台，称作MCOT",
+    "ar": "إم سي أو تي إتش دي هي شبكة تلفزيونية أرضية تايلاندية تم إطلاقها في 24 يونيو 1955 وتملكها إم سي أو تي.",
+    "pl": "tajski kanał telewizyjny",
+    "id": "jaringan televisi siaran gratis Thailand",
+    "de": "thailändischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/9MCOT",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/MCOT_HD",
+    "ja": "https://ja.wikipedia.org/wiki/Channel_9_MCOT_HD",
+    "fr": "https://fr.wikipedia.org/wiki/MCOT_HD",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Channel_9_MCOT_HD",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B1%84%EB%84%90_9_MCOT_HD",
+    "it": "https://it.wikipedia.org/wiki/Channel_9_MCOT_HD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/MCOT_HD",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%85_%D8%B3%D9%8A_%D8%A3%D9%88_%D8%AA%D9%8A_%D8%A5%D8%AA%D8%B4_%D8%AF%D9%8A",
+    "pl": "https://pl.wikipedia.org/wiki/MCOT_HD",
+    "id": "https://id.wikipedia.org/wiki/MCOT_HD",
+    "de": "https://de.wikipedia.org/wiki/Modernine_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_MCOT_%281977-2002%29.svg?width=256",
+   "website": "https://tv.mcot.net/mcothd",
+   "city": "Bangkok"
+  },
+  {
+   "id": "th.ch3thailand",
+   "name": "Ch3Thailand",
+   "category": "broadcast",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UC48h7Dst_hX82HxOf3xJw_w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1571768",
+   "description": {
+    "en": "TV channel in Thailand",
+    "es": "canal de televisión de Tailandia",
+    "zh-Hans": "泰國電視頻道",
+    "ja": "チャンネル3(タイ語： สถานีโทรทัศน์ไทยทีวีสีช่อง 3 )は、1970年3月26日にタイで最初の商業テレビ局として開始されたタイの無料テレビネットワーク。",
+    "fr": "Channel 3 HD, est une chaîne de télévision de service public thaïlandaise exploité par BEC en vertu de l'accord de concession conclu avec MCOT PCL (Thaïlande).",
+    "pt-BR": "rede de televisão aberta tailandesa",
+    "ko": "태국의 지상파 방송사",
+    "it": "rete televisiva thailandese",
+    "ru": "тайский телеканал",
+    "zh-Hant": "泰國電視頻道",
+    "ar": "القناة 3 هي شبكة تلفزيونية أرضية تايلاندية تم إطلاقها في 26 مارس 1970.",
+    "tr": "Channel 3 veya Türkçe adıyla Kanal 3, 26 Mart 1970 tarihinde Tayland'ın ikinci ticari televizyon kanalı olarak yayın hayatına başlayan Tayland merkezli bir televizyon kanalıdır.",
+    "pl": "Channel 3 HD – tajski kanał telewizyjny.",
+    "sv": "Kanal 3 är ett statligt regionalt TV- och radiobolag i Thailand.",
+    "id": "Thailand Colour Television Channel 3 adalah saluran televisi Thailand diluncurkan pada tahun 1969.",
+    "de": "Fernsehsender in Thailand",
+    "ms": "Thai TV Color Channel 3 ialah saluran televisyen Negara Thai yang dimilik oleh BEC-TERO yang berpusatnya di Bangkok, Thailand."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Channel_3_(Thailand)",
+    "es": "https://es.wikipedia.org/wiki/Canal_3_(Tailandia)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B3%B0%E5%9C%8B%E7%AC%AC3%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB3",
+    "fr": "https://fr.wikipedia.org/wiki/Channel_3_(Tha%C3%AFlande)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Channel_3_(Tail%C3%A2ndia)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B1%84%EB%84%90_3_(%ED%83%9C%EA%B5%AD)",
+    "it": "https://it.wikipedia.org/wiki/Channel_3_(rete_televisiva_thailandese)",
+    "ru": "https://ru.wikipedia.org/wiki/Channel_3_(%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B3%B0%E5%9C%8B%E7%AC%AC3%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_3_(%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF)",
+    "tr": "https://tr.wikipedia.org/wiki/Channel_3_(Tayland)",
+    "pl": "https://pl.wikipedia.org/wiki/Channel_3",
+    "sv": "https://sv.wikipedia.org/wiki/Kanal_3_(Thailand)",
+    "id": "https://id.wikipedia.org/wiki/Channel_3",
+    "de": "https://de.wikipedia.org/wiki/Kanal_3",
+    "ms": "https://ms.wikipedia.org/wiki/Channel_3_(Thailand)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch3HDLogo.png?width=256",
+   "website": "https://ch3plus.com/",
+   "city": "Bangkok"
+  },
+  {
+   "id": "th.8thaich8",
+   "name": "ช่อง8 : Thai Ch8",
+   "category": "broadcast",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCtBu8Wb2BUoduUXJS9Uss7Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16307715",
+   "description": {
+    "en": "television channel in Thailand",
+    "zh-Hans": "泰國有線電視頻道",
+    "zh-Hant": "泰國有線電視頻道",
+    "de": "thailändischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Channel_8_(Thailand)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/8%E9%A2%91%E9%81%93_(%E6%B3%B0%E5%9B%BD)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/8%E9%A2%91%E9%81%93_(%E6%B3%B0%E5%9B%BD)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Channel_8_2026.svg?width=256",
+   "website": "https://www.thaich8.com/",
+   "city": "Bangkok"
+  },
+  {
+   "id": "th.gmm25thailand",
+   "name": "GMM25Thailand",
+   "category": "broadcast",
+   "languages": [
+    "th"
+   ],
+   "youtubeChannelId": "UCTP5z0kFg6-nPcZ79gTC67Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q20574161",
+   "description": {
+    "en": "Thai Television Channel managed by GMM Channel Co., Ltd.",
+    "es": "es un canal de televisión digital terrestre de Tailandia propiedad del grupo GMM Grammy.",
+    "zh-Hans": "GMM 25，是泰國的一條地面數碼電視頻道，由演藝公司GMM Grammy持有。此頻道製作各種節目予觀眾收看，包括電視劇、音樂節目、新聞等，亦有為年輕人製作的娛樂節目。",
+    "ja": "Channel GMM 25 は、GMMグラミーが所有し、The One Enterpriseが運営する地上デジタルテレビ放送チャンネル。ドラマ、音楽、ニュース、エンターテインメント番組を含む10代の若者向けの多様なコンテンツを提供している。",
+    "fr": "chaîne de télévision thaïlandaise",
+    "pt-BR": "GMM 25 é um canal de televisão aberta tailandesa que faz parte da GMM Grammy.",
+    "ko": "GMM 25(태국어: จีเอ็มเอ็ม 25)는 GMM 그램미가 소유한 태국의 텔레비전 채널이다.",
+    "it": "rete televisiva thailandese",
+    "ru": "тайский телеканал",
+    "zh-Hant": "泰國的電視頻道",
+    "id": "saluran televisi Thailand",
+    "de": "thailändischer Fernsehsender",
+    "ms": "GMM 25ialah Siaran televisyen Digital Terestial Thailand kepunyaan GMM Grammy."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/GMM25",
+    "es": "https://es.wikipedia.org/wiki/GMM_25",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/GMM_25",
+    "ja": "https://ja.wikipedia.org/wiki/GMM_25",
+    "fr": "https://fr.wikipedia.org/wiki/GMM_25",
+    "pt-BR": "https://pt.wikipedia.org/wiki/GMM_25",
+    "ko": "https://ko.wikipedia.org/wiki/GMM_25",
+    "it": "https://it.wikipedia.org/wiki/GMM_25",
+    "ru": "https://ru.wikipedia.org/wiki/GMM_25",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/GMM_25",
+    "id": "https://id.wikipedia.org/wiki/GMM_25",
+    "ms": "https://ms.wikipedia.org/wiki/GMM_25"
+   },
+   "logo": null,
+   "website": "http://www.gmm25.com",
+   "city": "Bangkok"
   },
   {
    "id": "th.tpchannel",

@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026112502,
+ "version": 2026112601,
  "defaultTiles": [
-  "hk.phoenixtv"
+  "hk.phoenixtv",
+  "hk.passiontimeshk"
  ],
  "channels": [
   {
@@ -68,6 +69,142 @@
    "logo": null,
    "website": "https://www.nownews.com/",
    "city": "內湖區"
+  },
+  {
+   "id": "hk.passiontimeshk",
+   "name": "PassionTimes hk",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCoAf_IAZKhnUb0AajE5VSyA",
+   "youtubeVideoId": "nS8NM_LWxZo",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q15904208",
+   "description": {
+    "en": "Hong Kong news company",
+    "zh-Hans": "香港媒体",
+    "zh-Hant": "香港媒體"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%86%B1%E8%A1%80%E6%99%82%E5%A0%B1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%86%B1%E8%A1%80%E6%99%82%E5%A0%B1"
+   },
+   "logo": null,
+   "website": "https://www.passiontimes.hk/",
+   "city": null
+  },
+  {
+   "id": "hk.southchinamorningpost",
+   "name": "South China Morning Post",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC4SUWizzKc1tptprBkWjX2Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1198574",
+   "description": {
+    "en": "Hong Kong newspaper",
+    "es": "periódico impreso y digital de Hong Kong",
+    "zh-Hans": "香港报章",
+    "ja": "香港の英字新聞",
+    "fr": "journal quotidien de Hong Kong",
+    "pt-BR": "jornal de língua inglesa de Hong Kong",
+    "ko": "《남화조보》(중국어: 南華早報 난화자오바오[*]) 또는 《사우스 차이나 모닝 포스트》(영어: South China Morning Post, SCMP)는 홍콩의 신문으로, 알리바바 그룹의 계열사이다.",
+    "it": "Il South China Morning Post (SCMP), noto anche come The Post, è un giornale cinese di Hong Kong pubblicato in inglese da SCMP Group, che insieme alla sua edizione domenicale, il Sunday Morning Post, arriva a distribuire 104 000 copie.",
+    "ru": "Старейшая англоязычная газета Гонконга",
+    "zh-Hant": "香港報章",
+    "ar": "صحيفة صينية",
+    "tr": "South China Morning Post, pazar günlerinde yayınladığı sürümle Sunday Morning Post, İngilizce dilinde yayınlanan Hong Kong merkezli bir gazete.",
+    "nl": "Hong Kongs dagblad",
+    "pl": "South China Morning Post (SCMP) oraz jej niedzielne wydanie Sunday Morning Post – anglojęzyczna gazeta codzienna wydawana z Hongkongu od 1903 roku.",
+    "sv": "Hong Kong-baserad tidning",
+    "id": "surat kabar Hong Kong",
+    "de": "größte englischsprachige Tageszeitung in Hongkong",
+    "ms": "South China Morning Post serta edisi mingguannya Sunday Morning Post merupakan akhbar berbahasa Inggeris yang utama di Hong Kong."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/South_China_Morning_Post",
+    "es": "https://es.wikipedia.org/wiki/South_China_Morning_Post",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%97%E8%8F%AF%E6%97%A9%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B9%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8A%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%9D%E3%82%B9%E3%83%88",
+    "fr": "https://fr.wikipedia.org/wiki/South_China_Morning_Post",
+    "pt-BR": "https://pt.wikipedia.org/wiki/South_China_Morning_Post",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%B0%EC%8A%A4_%EC%B0%A8%EC%9D%B4%EB%82%98_%EB%AA%A8%EB%8B%9D_%ED%8F%AC%EC%8A%A4%ED%8A%B8",
+    "it": "https://it.wikipedia.org/wiki/South_China_Morning_Post",
+    "ru": "https://ru.wikipedia.org/wiki/South_China_Morning_Post",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%97%E8%8F%AF%E6%97%A9%E5%A0%B1",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B1%D9%8A%D8%AF%D8%A9_%D8%AC%D9%86%D9%88%D8%A8_%D8%A7%D9%84%D8%B5%D9%8A%D9%86_%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%D9%8A%D8%A9",
+    "tr": "https://tr.wikipedia.org/wiki/South_China_Morning_Post",
+    "nl": "https://nl.wikipedia.org/wiki/South_China_Morning_Post",
+    "pl": "https://pl.wikipedia.org/wiki/South_China_Morning_Post",
+    "id": "https://id.wikipedia.org/wiki/South_China_Morning_Post",
+    "de": "https://de.wikipedia.org/wiki/South_China_Morning_Post",
+    "ms": "https://ms.wikipedia.org/wiki/South_China_Morning_Post"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SCMP_logo.svg?width=256",
+   "website": "http://www.scmp.com/",
+   "city": null
+  },
+  {
+   "id": "hk.01",
+   "name": "香港01",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCTxyBu9VWUq5LXezXwy_SGg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q22774484",
+   "description": {
+    "en": "Hong Kong online news organization",
+    "es": "organización de noticias de Hong Kong",
+    "zh-Hans": "香港媒体",
+    "ja": "香港01（ほんこんぜろいち）は、『明報』の元編集者であるユー・パン・ホイが設立した、香港に拠点を置くオンライン・ニュースポータル。2015年6月10日に設立された、香港01有限公司によって運営されている。ウェブサイトは2016年1月11日に公開された。この会社には、約700人の従業員がいる。",
+    "zh-Hant": "香港網路傳媒公司",
+    "nl": "website",
+    "id": "organisasi berita online Hong Kong"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/HK01",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%A6%99%E6%B8%AF01",
+    "ja": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF01",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%A6%99%E6%B8%AF01",
+    "id": "https://id.wikipedia.org/wiki/HK01"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/HK01_Logo.svg?width=256",
+   "website": "https://www.hk01.com",
+   "city": null
+  },
+  {
+   "id": "hk.hongkongchinanewsagency",
+   "name": "通視",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC2P4BOQlye13d9l0Cl-kTTg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q15956559",
+   "description": {
+    "zh-Hans": "香港媒体",
+    "zh-Hant": "香港媒体"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%AE%AF%E7%A4%BE",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%AE%AF%E7%A4%BE"
+   },
+   "logo": null,
+   "website": "http://www.hkcna.hk",
+   "city": null
   },
   {
    "id": "hk.rthk",

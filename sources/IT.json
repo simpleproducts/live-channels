@@ -7,12 +7,16 @@
   {"id": "ansa", "name": "ANSA", "category": "news", "youtubeChannelId": "UC7dCZ28JQUZYno7TSlLKNoQ", "live": false},
   {"id": "ilfatto", "name": "Il Fatto Quotidiano", "category": "news", "youtubeChannelId": "UCPfFXhCgc6cciu3aYm-9AdA", "live": false},
   {"id": "fanpage", "name": "Fanpage.it", "category": "news", "youtubeChannelId": "UCWJhBqnyVdHAuxexgjghNFw", "youtubeVideoId": "vA5s-qX_ADc", "embeddable": true, "live": false},
+  {"id": "adnkronos", "name": "Adnkronos", "category": "news", "youtubeChannelId": "UCXXWh7wQAmi751M1X_ggQkA", "live": false, "wikidata": "Q359875"},
   {"id": "rai", "name": "Rai", "category": "broadcast", "youtubeChannelId": "UCKUzdt2sELyxd6mz-bAx3bA", "youtubeVideoId": "y5RaQVx9-OM", "embeddable": true, "live": true, "liveSince": "2026-11-25T12:27:24Z"},
   {"id": "ilsole24ore", "name": "Il Sole 24 Ore", "category": "economy", "youtubeChannelId": "UCCuZicOOisRgknWUSQArudg", "youtubeVideoId": "uOooc3zhx6Y", "embeddable": true, "live": false, "wikidata": "Q1658262"},
+  {"id": "moneyit", "name": "Money.it", "category": "economy", "youtubeChannelId": "UCYZpcYxa-2fXWg-jNJOL8Ww", "live": false, "wikidata": "Q138347575"},
   {"id": "camera", "name": "Camera dei Deputati", "category": "government", "youtubeChannelId": "UCwP4zsC0r9eqRQOethu5EFg", "youtubeVideoId": "hXMt9zCi2r8", "embeddable": true, "live": true, "liveSince": "2026-10-19T08:15:07Z"},
   {"id": "senato", "name": "Senato della Repubblica", "category": "government", "youtubeChannelId": "UCbanqpWVQ0l4v_aPUV-j9JQ", "youtubeVideoId": "kIvU73zCHX4", "embeddable": true, "live": true, "liveSince": "2026-10-21T11:38:09Z"},
+  {"id": "inter", "name": "Inter", "category": "sports", "youtubeChannelId": "UCvXzEblUa0cfny4HAJ_ZOWw", "live": false, "wikidata": "Q2259328"},
   {"id": "radiodeejay", "name": "Radio Deejay", "category": "radio", "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg", "youtubeVideoId": "uQG15XqtQyU", "embeddable": true, "live": false},
   {"id": "rtl1025", "name": "RTL 102.5", "category": "radio", "youtubeChannelId": "UCdRQAy9c5cJ4oQG_US3qq-g", "live": false, "wikidata": "Q1812894"},
-  {"id": "radio24", "name": "Radio 24", "category": "radio", "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA", "youtubeVideoId": "LJIH3D5xVB0", "embeddable": true, "live": false, "languages": ["it"]}
+  {"id": "radio24", "name": "Radio 24", "category": "radio", "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA", "youtubeVideoId": "LJIH3D5xVB0", "embeddable": true, "live": false, "languages": ["it"]},
+  {"id": "romereportsinenglish", "name": "ROME REPORTS in English", "category": "religious", "youtubeChannelId": "UCxshhzR907v2w6DjICyAgLQ", "live": false, "languages": ["en"], "wikidata": "Q64821996"}
  ]
 }

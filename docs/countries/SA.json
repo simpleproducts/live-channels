@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "SA",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "sa.alekhbariya",
   "sa.asharq",
   "sa.asharqbusiness",
   "sa.quran",
-  "sa.sunnah"
+  "sa.sunnah",
+  "sa.iqraatv"
  ],
  "channels": [
   {
@@ -148,6 +149,56 @@
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "sa.iqraatv",
+   "name": "اقرأ",
+   "category": "religious",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCiC_h4iC9s7Ddr3CT82_EpA",
+   "youtubeVideoId": "7yIMyi3AR1w",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3477804",
+   "description": {
+    "en": "Saudi Arabian television channel",
+    "ar": "قناة تلفزيونية دينية إسلامية",
+    "nl": "Iqra TV is een Saoedi-Arabisch televisienetwerk, gefinancierd door Saoedische investeerders."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Iqraa",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%82%D8%B1%D8%A3_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9",
+    "nl": "https://nl.wikipedia.org/wiki/Iqraa_TV"
+   },
+   "logo": null,
+   "website": "https://iqraa.com/",
+   "city": "جدة"
+  },
+  {
+   "id": "sa.almajdtvnetwork",
+   "name": "شبكة المجد",
+   "category": "religious",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCwrOzs_R_1zmb5HZr3DDilg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4121863",
+   "description": {
+    "en": "Television Saudi Network",
+    "ar": "شبكة قنوات سعودية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al-Majd_TV_Network",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.png?width=256",
+   "website": "https://almajdtv.com/",
+   "city": "الرياض"
   }
  ]
 }

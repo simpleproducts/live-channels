@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "ke.citizentv",
   "ke.ktn",
   "ke.k24",
-  "ke.ntv",
   "ke.tv47",
+  "ke.ntv",
   "ke.kbc",
   "ke.parliament",
   "ke.radiocitizen"

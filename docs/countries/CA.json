@@ -1,9 +1,11 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
-  "ca.cbcnews"
+  "ca.cbcnews",
+  "ca.theweathernetwork",
+  "ca.lovenature"
  ],
  "channels": [
   {
@@ -253,6 +255,59 @@
    "city": "Toronto"
   },
   {
+   "id": "ca.theweathernetwork",
+   "name": "The Weather Network",
+   "category": "news",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UClQK9j4uUAnrZamq1_FhtcQ",
+   "youtubeVideoId": "8QqfFfN6-tg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q664520",
+   "description": {
+    "en": "Canadian specialty television channel",
+    "fr": "chaîne de télévision météorologique canadienne",
+    "de": "kanadischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Weather_Network",
+    "de": "https://de.wikipedia.org/wiki/The_Weather_Network"
+   },
+   "logo": null,
+   "website": "https://www.theweathernetwork.com/",
+   "city": "Oakville"
+  },
+  {
+   "id": "ca.aptnnews",
+   "name": "APTN News",
+   "category": "news",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UCA-IcIBtmwCirNr1f-n_SRA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2819340",
+   "description": {
+    "en": "Canadian national news program focusing on aboriginal issues",
+    "es": "serie de televisión",
+    "fr": "émission de nouvelles nationales canadiennes centré sur les questions autochtones",
+    "nl": "televisieserie uit Canada"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/APTN_National_News",
+    "fr": "https://fr.wikipedia.org/wiki/APTN_National_News"
+   },
+   "logo": null,
+   "website": "https://www.aptnnews.ca/",
+   "city": "Winnipeg"
+  },
+  {
    "id": "ca.bnn",
    "name": "BNN Bloomberg",
    "category": "economy",
@@ -334,6 +389,71 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/2021_CPAC_logo.svg?width=256",
    "website": "https://www.cpac.ca/en",
    "city": "Ottawa"
+  },
+  {
+   "id": "ca.saltlightmedia",
+   "name": "Salt + Light Media",
+   "category": "religious",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UCCXCw4PeDbuezlKDTJ5hWAg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3546722",
+   "description": {
+    "en": "Roman Catholic television channel in Canada",
+    "pt-BR": "Emissora de televisão católica canadense",
+    "id": "Salt + Light Television adalah sebuah saluran televisi Kategori B multi-bahasa Kanada milik organisasi nirlaba Salt and Light Catholic Media Foundation dan bermarkas di Toronto, Ontario.",
+    "de": "religiöse Organisation"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Salt_%2B_Light_Television",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Salt_%2B_Light_Television",
+    "id": "https://id.wikipedia.org/wiki/Salt_%2B_Light_Television",
+    "de": "https://de.wikipedia.org/wiki/Salt_and_Light_Catholic_Media_Foundation"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Salt_%2B_Light_Television_logo_%28en%29.svg?width=256",
+   "website": "https://saltandlighttv.org/",
+   "city": "Toronto"
+  },
+  {
+   "id": "ca.lovenature",
+   "name": "Love Nature",
+   "category": "culture",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "youtubeChannelId": "UCRZPkuHwaoKwTP3CYPdVldg",
+   "youtubeVideoId": "QhahoVG0BfI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3347892",
+   "description": {
+    "en": "Canadian-based English language television channel",
+    "es": "Canal de televisión en inglés en Canadá",
+    "zh-Hans": "Love Nature是以自然生態及野生動物為主要內容的國際電視頻道品牌，由加拿大媒體公司Blue Ant Media營運。頻道前身為Oasis HD，2006年於加拿大開播，2015年更名為Love Nature，並發展4K自然紀實節目及國際頻道服務。",
+    "fr": "chaîne de télévision spécialisée canadienne",
+    "pt-BR": "Love Nature é um canal de televisão por assinatura canadense, de propriedade da Blue Ant Media.",
+    "ru": "канадский телеканал",
+    "zh-Hant": "Love Nature是以自然生態及野生動物為主要內容的國際電視頻道品牌，由加拿大媒體公司Blue Ant Media營運。頻道前身為Oasis HD，2006年於加拿大開播，2015年更名為Love Nature，並發展4K自然紀實節目及國際頻道服務。",
+    "tr": "Love Nature, Kanada merkezli Blue Ant Media'nın sahip olduğu bir belgesel kanalıdır."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Love_Nature",
+    "es": "https://es.wikipedia.org/wiki/Love_Nature",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/Love_Nature",
+    "fr": "https://fr.wikipedia.org/wiki/Love_Nature",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Love_Nature",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/Love_Nature",
+    "tr": "https://tr.wikipedia.org/wiki/Love_Nature"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Love_Nature_logo_%282025%29.svg?width=256",
+   "website": "https://lovenature.com",
+   "city": "Toronto"
   }
  ]
 }

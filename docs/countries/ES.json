@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
   "es.elpais",
+  "es.eltorotv",
+  "es.eldebate",
   "es.3cat324",
   "es.canalsur",
-  "es.eitb",
-  "es.rtvcanarias",
-  "es.ser"
+  "es.eitb"
  ],
  "channels": [
   {
@@ -317,6 +317,184 @@
    "city": "Madrid"
   },
   {
+   "id": "es.eltorotv",
+   "name": "El Toro TV",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC2T6NU6-JLWzAzaGdqvNyzA",
+   "youtubeVideoId": "P0pDxSt6VN8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3064786",
+   "description": {
+    "en": "Spanish television network",
+    "es": "cadena de televisión privada española de emisión digital (TDT)",
+    "fr": "chaîne de télévision espagnole"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Toro_TV",
+    "es": "https://es.wikipedia.org/wiki/El_Toro_TV",
+    "fr": "https://fr.wikipedia.org/wiki/El_Toro_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eltorotv.png?width=256",
+   "website": "https://eltorotv.com/",
+   "city": "Madrid"
+  },
+  {
+   "id": "es.vilaweb",
+   "name": "VilaWeb",
+   "category": "news",
+   "languages": [
+    "ca"
+   ],
+   "youtubeChannelId": "UCaYXWVFYirJdDmprjozHdmA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3312518",
+   "description": {
+    "en": "digital newspaper in Catalan Language",
+    "es": "diario digital en lengua catalana",
+    "fr": "Journal digital catalan",
+    "sv": "Vilaweb,, med egen skrivning VilaWeb, är en katalanskspråkig webbportal och daglig nyhetstjänst."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/VilaWeb",
+    "es": "https://es.wikipedia.org/wiki/VilaWeb",
+    "sv": "https://sv.wikipedia.org/wiki/Vilaweb"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Espai_Vilaweb_-_1_%28detail%29.jpg?width=256",
+   "website": "http://www.vilaweb.cat",
+   "city": "Barcelona"
+  },
+  {
+   "id": "es.cronicaglobal",
+   "name": "Crónica Global",
+   "category": "news",
+   "languages": [
+    "es",
+    "ca"
+   ],
+   "youtubeChannelId": "UCasoYl00U85F9QW4j5xgMNQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q20105526",
+   "description": {
+    "es": "Crónica Global es un diario digital en castellano y en catalán con sede en Barcelona fundado en 2013.",
+    "fr": "Crónica Global est un site espagnol d'actualité fondé le 9 septembre 2013 et basé à Barcelone, Catalogne."
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/Cr%C3%B3nica_Global",
+    "fr": "https://fr.wikipedia.org/wiki/Cr%C3%B3nica_Global"
+   },
+   "logo": null,
+   "website": "https://cronicaglobal.com",
+   "city": "Barcelona"
+  },
+  {
+   "id": "es.theobjective",
+   "name": "The Objective",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCkCYv06O4w0GOfdW2Ey8jvg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q30034736",
+   "description": {
+    "en": "Spanish online newspaper",
+    "es": "Periódico digital español"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/The_Objective"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Objective_logo.svg?width=256",
+   "website": "https://theobjective.com",
+   "city": null
+  },
+  {
+   "id": "es.eldebate",
+   "name": "El Debate",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC8FOhz3iXhF1iqqzAFfBjmA",
+   "youtubeVideoId": "xX5Qs5ZIbkc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q114050859",
+   "description": {
+    "en": "Spanish online newspaper since 2021",
+    "es": "periódico digital español desde 2021",
+    "fr": "journal en ligne espagnol"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ElDebate.com",
+    "es": "https://es.wikipedia.org/wiki/El_Debate_(peri%C3%B3dico_digital)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Debate.png?width=256",
+   "website": "https://www.eldebate.com",
+   "city": "Madrid"
+  },
+  {
+   "id": "es.canalred",
+   "name": "Canal Red",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UC3PhLH0Rj2e_-0hNvwTLxGA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q119628658",
+   "description": {
+    "en": "television channel",
+    "es": "canal de televisión",
+    "it": "Canal RED è un canale di televisione in spagnolo che trasmette attraverso internet e TDT."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_Red",
+    "es": "https://es.wikipedia.org/wiki/Canal_Red",
+    "it": "https://it.wikipedia.org/wiki/Canal_RED"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-canal-red.svg?width=256",
+   "website": "https://canalred.tv/",
+   "city": "Madrid"
+  },
+  {
+   "id": "es.ten",
+   "name": "TEN",
+   "category": "broadcast",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCX_GBaJP8CtYdI8-lH2VrJA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q21834504",
+   "description": {
+    "en": "Private Spanish Entertainment Television Network",
+    "es": "canal español de televisión digital abierta",
+    "pt-BR": "TEN é um canal de televisão aberta espanhol, pertencente a Central Broadcaster Média, do Grupo Secuoya - New Atlantis."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Ten_(Spanish_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/Ten_(canal_de_televisi%C3%B3n)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Ten_(canal_de_televis%C3%A3o)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TEN_2024_Logo.svg?width=256",
+   "website": "https://tentv.es/",
+   "city": "Granada"
+  },
+  {
    "id": "es.canalsur",
    "name": "Canal Sur",
    "category": "regional",
@@ -525,6 +703,55 @@
    "city": "Pozuelo de Alarcón"
   },
   {
+   "id": "es.laseptima",
+   "name": "LA SÉPTIMA",
+   "category": "regional",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCOCGPFW1UqPP9zdol7vEK1A",
+   "youtubeVideoId": "ErraEILevPE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q141107920",
+   "description": {
+    "en": "Spanish private television channel",
+    "es": "canal de televisión generalista español privado",
+    "fr": "chaîne de télévision espagnole"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/La_S%C3%A9ptima",
+    "es": "https://es.wikipedia.org/wiki/La_S%C3%A9ptima",
+    "fr": "https://fr.wikipedia.org/wiki/La_S%C3%A9ptima"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/La_S%C3%A9ptima.svg?width=256",
+   "website": "https://laseptima.com/",
+   "city": "San Sebastián de los Reyes"
+  },
+  {
+   "id": "es.tac12",
+   "name": "TAC12",
+   "category": "regional",
+   "languages": [
+    "ca"
+   ],
+   "youtubeChannelId": "UCZsjqc-ue4XUXwckuIopKmg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q11704187",
+   "description": {
+    "en": "regional TV station in Catalan",
+    "es": "canal de televisión del Camp de Tarragona"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/TAC_12"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tac_12_logo.svg?width=256",
+   "website": "https://www.tac12.tv/",
+   "city": "Tarragona"
+  },
+  {
    "id": "es.congreso",
    "name": "Congreso de los Diputados",
    "category": "government",
@@ -628,6 +855,107 @@
    },
    "logo": null,
    "website": "http://www.senado.es",
+   "city": "Madrid"
+  },
+  {
+   "id": "es.mundodeportivo",
+   "name": "Mundo Deportivo",
+   "category": "sports",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCWSZJ4r3s5xk8zICXEveFpg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1458864",
+   "description": {
+    "en": "Spanish nationwide daily sports newspaper",
+    "es": "periódico diario deportivo español de ámbito nacional",
+    "zh-Hans": "西班牙体育报纸",
+    "ja": "ムンド・デポルティーボ は、スペイン・カタルーニャ州バルセロナ県バルセロナで発行されている日刊紙（スポーツ新聞）。言語はスペイン語。紙名は「スポーツの世界」を意味する。",
+    "fr": "quotidien sportif espagnol",
+    "pt-BR": "Mundo Deportivo é um jornal esportivo diário espanhol publicado em Barcelona, Catalunha.",
+    "ko": "엘 문도 데포르티보(스페인어: El Mundo Deportivo)는 스페인의 스포츠 신문이다.",
+    "it": "quotidiano sportivo spagnolo",
+    "ru": "Мундо Депортиво — испанская общенациональная ежедневная спортивная газета, выходящая в Барселоне с 1906 года.",
+    "zh-Hant": "西班牙体育报纸",
+    "ar": "صحيفة إل موندو ديبورتيفو هي صحيفة رياضية إسبانية تأسست عام 1906 في برشلونة إسبانيا.",
+    "tr": "İspanyol ulusal günlük spor gazetesi",
+    "nl": "Spaanse sportkrant",
+    "pl": "hiszpański dziennik sportowy",
+    "sv": "El Mundo Deportivo är en spansk dagstidning för sportnyheter.",
+    "de": "spanische Sporttageszeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Mundo_Deportivo",
+    "es": "https://es.wikipedia.org/wiki/Mundo_Deportivo",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E9%AB%94%E8%82%B2%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%B3%E3%83%89%E3%83%BB%E3%83%87%E3%83%9D%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC%E3%83%9C",
+    "fr": "https://fr.wikipedia.org/wiki/Mundo_Deportivo",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Mundo_Deportivo",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%97%98_%EB%AC%B8%EB%8F%84_%EB%8D%B0%ED%8F%AC%EB%A5%B4%ED%8B%B0%EB%B3%B4",
+    "it": "https://it.wikipedia.org/wiki/Mundo_Deportivo",
+    "ru": "https://ru.wikipedia.org/wiki/Mundo_Deportivo",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%96%E7%95%8C%E9%AB%94%E8%82%B2%E5%A0%B1",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%84_%D9%85%D9%88%D9%86%D8%AF%D9%88_%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88",
+    "tr": "https://tr.wikipedia.org/wiki/Mundo_Deportivo",
+    "nl": "https://nl.wikipedia.org/wiki/El_Mundo_Deportivo",
+    "sv": "https://sv.wikipedia.org/wiki/El_Mundo_Deportivo",
+    "de": "https://de.wikipedia.org/wiki/Mundo_Deportivo"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/MundoDeportivo.svg?width=256",
+   "website": "https://www.mundodeportivo.com/",
+   "city": "Barcelona"
+  },
+  {
+   "id": "es.diarioas",
+   "name": "Diario AS",
+   "category": "sports",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCXISYK3xagaK5DHnhQ4X0hw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q719880",
+   "description": {
+    "en": "Spanish sports newspaper",
+    "es": "periódico deportivo español",
+    "zh-Hans": "西班牙体育报纸",
+    "ja": "『ディアリオ・アス』 は、スペインで発行されている日刊スポーツ紙。",
+    "fr": "quotidien sportif espagnol",
+    "pt-BR": "O As é um jornal desportivo diário espanhol, recebe e divulga informações sobre as principais ligas europeias e mundiais transmitidas \"ao segundo\" pela FIFA e UEFA.",
+    "ko": "as는 스페인의 스포츠 신문이다.",
+    "it": "quotidiano sportivo spagnolo",
+    "ru": "Diario AS — ежедневная испанская спортивная газета, которая выходит в Мадриде.",
+    "zh-Hant": "西班牙体育报纸",
+    "ar": "صحيفة رياضية إسبانية",
+    "tr": "Diario AS, İspanya'da yayımlanan günlük spor gazetesi.",
+    "nl": "krant uit Spanje",
+    "sv": "As är en spansk daglig sporttidning med förmiddagsdistribution som ges ut av Grupo PRISA.",
+    "id": "Surat kabar olahraga di Spanyol",
+    "de": "spanische Sportzeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Diario_AS",
+    "es": "https://es.wikipedia.org/wiki/As_(peri%C3%B3dico)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%98%BF%E6%96%AF%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9_(%E6%96%B0%E8%81%9E)",
+    "fr": "https://fr.wikipedia.org/wiki/As_(journal)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/As_(jornal)",
+    "ko": "https://ko.wikipedia.org/wiki/As_(%EC%8B%A0%EB%AC%B8)",
+    "it": "https://it.wikipedia.org/wiki/AS_(quotidiano)",
+    "ru": "https://ru.wikipedia.org/wiki/Diario_AS",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%98%BF%E6%96%AF%E5%A0%B1",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D8%B3_(%D8%B5%D8%AD%D9%8A%D9%81%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/Diario_AS",
+    "sv": "https://sv.wikipedia.org/wiki/As_(tidning)",
+    "de": "https://de.wikipedia.org/wiki/As_(Tageszeitung)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Diario_AS.svg?width=256",
+   "website": "https://as.com",
    "city": "Madrid"
   },
   {
@@ -769,6 +1097,26 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/EsRadio_logo.svg?width=256",
    "website": "https://esradio.libertaddigital.com/",
    "city": null
+  },
+  {
+   "id": "es.ewtnespana",
+   "name": "EWTN ESPAÑA",
+   "category": "religious",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCP-G5PtNEjL257XFBGqsy-w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q126057755",
+   "description": {
+    "en": "television channel in Spain"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://ewtn.es",
+   "city": "Madrid"
   }
  ]
 }

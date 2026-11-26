@@ -1,0 +1,11 @@
+{
+ "code": "GR",
+ "languages": ["el"],
+ "defaultTiles": ["open", "enachannelgreece", "besttv", "4etv"],
+ "channels": [
+  {"id": "open", "name": "OPEN", "category": "broadcast", "youtubeChannelId": "UCllCEPTcZ_GplDaFsdq_utA", "live": false, "wikidata": "Q19571549"},
+  {"id": "enachannelgreece", "name": "ENA CHANNEL GREECE", "category": "regional", "youtubeChannelId": "UC_E3ROtebnZXH708dOeBgDQ", "live": false, "wikidata": "Q22026457"},
+  {"id": "besttv", "name": "BEST TV", "category": "regional", "youtubeChannelId": "UCTVXGD32pMoSWnbRhHAEh6g", "live": false, "wikidata": "Q127123914"},
+  {"id": "4etv", "name": "4E TV", "category": "religious", "youtubeChannelId": "UCme3CT1jvhMFAHDhY589Eyw", "live": false, "wikidata": "Q4638896"}
+ ]
+}

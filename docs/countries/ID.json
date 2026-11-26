@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "ID",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "id.kompastv",
   "id.cnnid",
   "id.metrotv",
   "id.inews",
-  "id.beritasatu"
+  "id.beritasatu",
+  "id.kompastvjambi"
  ],
  "channels": [
   {
@@ -213,6 +214,71 @@
    "city": "Jakarta"
   },
   {
+   "id": "id.tribuntimur",
+   "name": "Tribun Timur",
+   "category": "news",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCK6c4qk3hRaa6fMIEZrhiXQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q12522332",
+   "description": {
+    "en": "daily newspaper published in South Sulawesi, Indonesia",
+    "fr": "quotidien publié dans le sud de Sulawesi, en Indonésie",
+    "id": "Surat kabar hariann"
+   },
+   "wikipedia": {
+    "id": "https://id.wikipedia.org/wiki/Tribun_Timur"
+   },
+   "logo": null,
+   "website": "http://www.tribun-timur.com",
+   "city": null
+  },
+  {
+   "id": "id.antaranews",
+   "name": "ANTARA News",
+   "category": "news",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCC-C46T69Ymv3WBeYMAFMRQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q571116",
+   "description": {
+    "en": "Indonesian news agency",
+    "zh-Hans": "印尼通讯社",
+    "ja": "インドネシアの通信社",
+    "fr": "agence de presse indonésienne",
+    "ru": "Антара — информационное агентство Индонезии.",
+    "zh-Hant": "印尼新聞社",
+    "ar": "شركة",
+    "nl": "ANTARA is het persbureau van de Indonesische overheid.",
+    "pl": "indonezyjska agencja informacyjna",
+    "id": "perusahaan asal Indonesia",
+    "de": "Gewerbebetrieb",
+    "ms": "Perusahaan Umum Lembaga Kantor Berita Nasional Antara ialah sebuah agensi berita negara Indonesia yang dimiliki oleh pemerintah Indonesia sebagai Badan Usaha Milik Negara (BUMN)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Antara_(news_agency)",
+    "fr": "https://fr.wikipedia.org/wiki/Antara_(agence_de_presse)",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B0%D1%80%D0%B0_(%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE)",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%88%D9%83%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D9%86%D8%A8%D8%A7%D8%A1_%D8%A7%D9%84%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A9",
+    "nl": "https://nl.wikipedia.org/wiki/ANTARA",
+    "pl": "https://pl.wikipedia.org/wiki/Antara_(agencja_prasowa)",
+    "id": "https://id.wikipedia.org/wiki/Lembaga_Kantor_Berita_Nasional_Antara",
+    "de": "https://de.wikipedia.org/wiki/Antara_News",
+    "ms": "https://ms.wikipedia.org/wiki/Antara_(agensi_berita)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Antara-logo.gif?width=256",
+   "website": "http://www.antaranews.com/",
+   "city": "Jakarta"
+  },
+  {
    "id": "id.cnbcid",
    "name": "CNBC Indonesia",
    "category": "economy",
@@ -290,6 +356,103 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRILogo2019.svg?width=256",
    "website": "http://tvri.go.id/",
    "city": "Jakarta"
+  },
+  {
+   "id": "id.rcti",
+   "name": "RCTI",
+   "category": "broadcast",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCE9-bV_MCGgLnH7v4HSApDg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5257835",
+   "description": {
+    "en": "television network in Indonesia",
+    "es": "RCTI es una cadena de televisión indonesia propiedad y operada por Media Nusantara Citra.",
+    "zh-Hans": "鷹記電視台，一译雄鹰电视台，是印度尼西亚第一个商业和私营電視聯播網，总部设在西雅加达。成立于1988年。这个电视台播出《印尼偶像》、《X因素》、《印尼大廚》、《新星印度尼西亞》、《印尼之音》、《印尼達人》（2018年年底），以及电影、新闻和时事、真人秀和宗教节目。该网络的旗舰新闻节目是Seputar Indonesia，后来在2009年2月扩大到4个版本。",
+    "ja": "ラジャワリ・シトラ・テレビシ・インドネシア(インドネシア語: Rajawali Citra Televisi Indonesia, RCTI)は、西ジャカルタに拠点を置くインドネシアの地上波テレビネットワーク。",
+    "fr": "chaîne de télévision indonésienne",
+    "pt-BR": "RCTI é uma rede de televisão da Indonésia.",
+    "ko": "펀잡어 전문 14번째 인도 텔레비전 채널",
+    "it": "rete televisiva indonesiana",
+    "zh-Hant": "鷹記電視台，一译雄鹰电视台，是印度尼西亚第一个商业和私营電視聯播網，总部设在西雅加达。成立于1988年。这个电视台播出《印尼偶像》、《X因素》、《印尼大廚》、《新星印度尼西亞》、《印尼之音》、《印尼達人》（2018年年底），以及电影、新闻和时事、真人秀和宗教节目。该网络的旗舰新闻节目是Seputar Indonesia，后来在2009年2月扩大到4个版本。",
+    "ar": "آر سي تي آي هي شبكة تلفزيونية إندونيسية مجانية مقرها في جاكرتا الغربية.",
+    "pl": "indonezyjska stacja telewizyjna",
+    "sv": "Rajawali Citra Televisi Indonesia (RCTI) är en indonesisk TV-kanal, som ägs av Media Nusantara Citra.",
+    "id": "Jaringan televisi di Indonesia",
+    "de": "indonesischer Fernsehsender",
+    "ms": "RCTI ialah sebuah stesen televisyen swasta pertama di Indonesia."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RCTI",
+    "es": "https://es.wikipedia.org/wiki/RCTI",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%B7%B9%E8%A8%98%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/RCTI",
+    "fr": "https://fr.wikipedia.org/wiki/RCTI",
+    "pt-BR": "https://pt.wikipedia.org/wiki/RCTI",
+    "ko": "https://ko.wikipedia.org/wiki/RCTI",
+    "it": "https://it.wikipedia.org/wiki/RCTI",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%B7%B9%E8%A8%98%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A2%D8%B1_%D8%B3%D9%8A_%D8%AA%D9%8A_%D8%A2%D9%8A",
+    "pl": "https://pl.wikipedia.org/wiki/RCTI",
+    "sv": "https://sv.wikipedia.org/wiki/RCTI",
+    "id": "https://id.wikipedia.org/wiki/RCTI",
+    "de": "https://de.wikipedia.org/wiki/Rajawali_Citra_Televisi_Indonesia",
+    "ms": "https://ms.wikipedia.org/wiki/RCTI"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RCTI_logo_2015.svg?width=256",
+   "website": "http://www.rcti.tv/",
+   "city": "Jakarta"
+  },
+  {
+   "id": "id.tvriworld",
+   "name": "TVRI World",
+   "category": "broadcast",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCR2p5aYh29pVfgh2xvtq8Nw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q97587290",
+   "description": {
+    "en": "Indonesian television channel",
+    "id": "Saluran televisi internasional asal Indonesia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TVRI_World",
+    "id": "https://id.wikipedia.org/wiki/TVRI_World"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVRI-World.svg?width=256",
+   "website": "https://tvri-world.tvrinews.com/",
+   "city": null
+  },
+  {
+   "id": "id.kompastvjambi",
+   "name": "KOMPASTV JAMBI",
+   "category": "regional",
+   "languages": [
+    "id"
+   ],
+   "youtubeChannelId": "UCKaq83ZVkCk5g2Kqdr4aLeA",
+   "youtubeVideoId": "oFOFLiYYXhc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q115114658",
+   "description": {
+    "en": "Indonesian television station",
+    "id": "stasiun televisi Kompas TV di Kota Jambi, Jambi"
+   },
+   "wikipedia": {
+    "id": "https://id.wikipedia.org/wiki/Kompas_TV_Jambi"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Jambi"
   }
  ]
 }

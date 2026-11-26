@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "il.c14",
   "il.i24he",
@@ -187,6 +187,85 @@
    "city": null
   },
   {
+   "id": "il.9",
+   "name": "9 канал",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCixtbfonx_QIjS1DB96zcFg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2910200",
+   "description": {
+    "en": "Russian-speaking Israeli television channel",
+    "es": "Canal 9 es un canal de televisión privado de Israel.",
+    "ru": "телеканал",
+    "ar": "منظمة إسرائيلية",
+    "de": "russischsprachiger Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Channel_9_(Israel)",
+    "es": "https://es.wikipedia.org/wiki/Canal_9_(Israel)",
+    "ru": "https://ru.wikipedia.org/wiki/9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_(%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_9_(%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arutz_9_logo.png?width=256",
+   "website": "https://www.9tv.co.il/",
+   "city": "Neve Ilan"
+  },
+  {
+   "id": "il.israelhayom",
+   "name": "ישראל היום - Israel Hayom",
+   "category": "news",
+   "languages": [
+    "he"
+   ],
+   "youtubeChannelId": "UCYNmQ9W-0CYoW8a4thzxB0g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1632726",
+   "description": {
+    "en": "Israeli daily newspaper",
+    "es": "diario gratuito israelí",
+    "zh-Hans": "《今日以色列報》 是以色列全國性的希伯來語免費日報。",
+    "ja": "イスラエル・ハヨム は、イスラエル全国紙のヘブライ語日刊フリーペーパーである。2007年7月30日に発刊され、タブロイド判で出版され流通している。その名前イスラエル・ハヨム は、よく知られるUSAトゥデイ と同様のバリエーションであるが、その2紙間に関連性はない。イスラエル・ハヨムはイスラエルで2番目の発行部数で、2009年後半に23.2パーセントから26.6パーセントにマーケットシェアを拡大した。",
+    "fr": "quotidien israélien conservateur",
+    "pt-BR": "Israel Hayom é um jornal diário gratuito hebraico nacional israelense, publicado pela primeira vez em 2007.",
+    "ko": "이스라엘 하욤(히브리어: ישראל היום, 영어: Israel HaYom→이스라엘 오늘)은 이스라엘의 전국 신문 히브리어 일간 무료 신문이다.",
+    "it": "quotidiano israeliano",
+    "ru": "«Исраэ́ль хайо́м» — бесплатная ежедневная израильская газета на иврите, выходящая с 30 июля 2007 года.",
+    "zh-Hant": "《今日以色列報》 是以色列全國性的希伯來語免費日報。",
+    "ar": "صحيفة إسرائيلية",
+    "tr": "Israil Hayom İsrail'in İbranice yayınlanan milli gazetelerden biridir.",
+    "sv": "israelisk dagstidning",
+    "id": "Israel HaYom adalah sebuah surat kabar harian bebas berbahasa Ibrani di negara Israel yang pertama kali diterbitkan pada 30 Juli 2007 dan saat ini diterbitkan dalam format tabloid.",
+    "de": "Israelische Tageszeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Israel_Hayom",
+    "es": "https://es.wikipedia.org/wiki/Israel_Hayom",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%BB%8A%E6%97%A5%E4%BB%A5%E8%89%B2%E5%88%97%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%A8%E3%83%A0",
+    "fr": "https://fr.wikipedia.org/wiki/Israel_Hayom",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Israel_Hayom",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98_%ED%95%98%EC%9A%A4",
+    "it": "https://it.wikipedia.org/wiki/Israel_HaYom",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%80%D0%B0%D1%8D%D0%BB%D1%8C_%D1%85%D0%B0%D0%B9%D0%BE%D0%BC",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%BB%8A%E6%97%A5%E4%BB%A5%E8%89%B2%E5%88%97%E5%A0%B1",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84_%D9%87%D9%8A%D9%88%D9%85",
+    "tr": "https://tr.wikipedia.org/wiki/%C4%B0srail_Hayom",
+    "sv": "https://sv.wikipedia.org/wiki/Israel_Hayom",
+    "id": "https://id.wikipedia.org/wiki/Israel_HaYom",
+    "de": "https://de.wikipedia.org/wiki/Israel_HaYom"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Israel_Hayom.svg?width=256",
+   "website": "https://www.israelhayom.com/",
+   "city": "Tel Aviv"
+  },
+  {
    "id": "il.kan11",
    "name": "כאן 11",
    "category": "broadcast",
@@ -247,6 +326,51 @@
    "logo": null,
    "website": "https://knesset.tv",
    "city": "Jerusalem"
+  },
+  {
+   "id": "il.pervoeradio",
+   "name": "Pervoe Radio",
+   "category": "radio",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UC9GyDf7Dju8U74cLeqKwmaQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4349233",
+   "description": {
+    "en": "Russian-language radio station in Israel broadcasting on 89.1 FM since 2001",
+    "ru": "«Первое радио 89.1FM»(ивр פרוויה רדיו) — первая русскоязычная, официальная музыкальная, коммерческая радиостанция в Израиле.",
+    "id": "stasiun radio di Israel",
+    "de": "israelitischer Hörfunksender"
+   },
+   "wikipedia": {
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_89.1FM"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_fool.png?width=256",
+   "website": "https://www.891fm.co.il/",
+   "city": "Rishon LeZion"
+  },
+  {
+   "id": "il.hidabroot",
+   "name": "הידברות",
+   "category": "religious",
+   "languages": [
+    "he"
+   ],
+   "youtubeChannelId": "UCzqiIOm_TUH0lG3pwlbMkyA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6691090",
+   "description": {
+    "en": "Jewish organization"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.hidabroot.org/",
+   "city": "Petah Tikva"
   }
  ]
 }

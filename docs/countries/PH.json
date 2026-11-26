@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
   "ph.oneph",
   "ph.news5",
+  "ph.dzxlnews",
   "ph.anc",
   "ph.dzrh",
-  "ph.senate",
-  "ph.teleradyo"
+  "ph.senate"
  ],
  "channels": [
   {
@@ -254,6 +254,56 @@
    "city": null
   },
   {
+   "id": "ph.onenewsph",
+   "name": "One News PH",
+   "category": "news",
+   "languages": [
+    "tl",
+    "en"
+   ],
+   "youtubeChannelId": "UCzEAC4xGrhpShopTYgBhGJA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q55627576",
+   "description": {
+    "en": "news channel in the Philippines",
+    "id": "One News adalah 24 jam Filipina saluran televisi berita yang dimiliki oleh MediaQuest Holdings melalui anak perusahaannya Cignal TV."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/One_News_(TV_channel)",
+    "id": "https://id.wikipedia.org/wiki/One_News_(Filipina_TV_saluran)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/OneNewsPH_logo.svg?width=256",
+   "website": null,
+   "city": "Mandaluyong"
+  },
+  {
+   "id": "ph.dzxlnews",
+   "name": "DZXL News",
+   "category": "news",
+   "languages": [
+    "tl",
+    "en"
+   ],
+   "youtubeChannelId": "UC0x58b8W1OdhFcr3RJmJbmg",
+   "youtubeVideoId": "dbLN_UDQ7vE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3551666",
+   "description": {
+    "en": "radio station in Mega Manila",
+    "ko": "필리핀의 라디오 방송국",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DZXL"
+   },
+   "logo": null,
+   "website": "http://www.rmn.ph",
+   "city": "Makati"
+  },
+  {
    "id": "ph.ptv",
    "name": "PTV",
    "category": "broadcast",
@@ -289,6 +339,108 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg?width=256",
    "website": "https://ptvnews.ph",
    "city": null
+  },
+  {
+   "id": "ph.rx931",
+   "name": "RX931",
+   "category": "broadcast",
+   "languages": [
+    "tl",
+    "en"
+   ],
+   "youtubeChannelId": "UCMgKa-bzBoj40sQUqvX7kag",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3545769",
+   "description": {
+    "en": "CHR station in Mega Manila",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DWRX"
+   },
+   "logo": null,
+   "website": "https://www.rx931.com",
+   "city": "Pasig"
+  },
+  {
+   "id": "ph.easyrockmanila",
+   "name": "Easy Rock Manila",
+   "category": "broadcast",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCZTlGPEnQ66TFG0m6Wa3KFQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3547823",
+   "description": {
+    "en": "radio station in Mega Manila",
+    "es": "estación de radio en Filipinas",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DWRK"
+   },
+   "logo": null,
+   "website": "http://www.easyrock.com.ph/",
+   "city": "Mandaluyong"
+  },
+  {
+   "id": "ph.tv5philippines",
+   "name": "TV5 Philippines",
+   "category": "broadcast",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCiFx0kZFjR29u0uJxTSq5MQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4015057",
+   "description": {
+    "en": "commercial television network in the Philippines",
+    "es": "canal de televisión de Filipinas",
+    "zh-Hans": "菲律宾电视频道",
+    "ja": "フィリピンのテレビチャンネル",
+    "fr": "chaîne de télévision philippine",
+    "pt-BR": "rede de televisão filipina",
+    "ko": "필리핀의 텔레비전 채널",
+    "it": "rete televisiva filippina",
+    "ru": "филиппинский телеканал",
+    "zh-Hant": "菲律宾电视频道",
+    "ar": "تي في 5 الفلبين ، سابقًا ABC، هي شبكة تلفزيونية فلبينية يقع مقرها الرئيسي في ماندالويونغ.",
+    "tr": "Filipinler televizyon kanalı",
+    "pl": "filipiński kanał telewizyjny",
+    "sv": "TV-kanal i Filippinerna",
+    "id": "Saluran televisi Filipina",
+    "de": "philippinischer Fernsehsender",
+    "ms": "Saluran televisyen Filipina"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV5_(Philippine_TV_network)",
+    "es": "https://es.wikipedia.org/wiki/TV5_(canal_de_televisi%C3%B3n_de_Filipinas)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/TV5_(%E8%8F%B2%E5%BE%8B%E5%AE%BE)",
+    "ja": "https://ja.wikipedia.org/wiki/TV5_(%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3)",
+    "fr": "https://fr.wikipedia.org/wiki/TV5_(Philippines)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV5_(canal_de_televis%C3%A3o_filipino)",
+    "ko": "https://ko.wikipedia.org/wiki/TV5_(%ED%95%84%EB%A6%AC%ED%95%80)",
+    "it": "https://it.wikipedia.org/wiki/TV5_(rete_televisiva_filippina)",
+    "ru": "https://ru.wikipedia.org/wiki/TV5_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB,_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/TV5_(%E8%8F%B2%E5%BE%8B%E5%AE%BE)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A_%D9%81%D9%8A_5_(%D8%A7%D9%84%D9%81%D9%84%D8%A8%D9%8A%D9%86)",
+    "tr": "https://tr.wikipedia.org/wiki/TV5_(Filipinler)",
+    "pl": "https://pl.wikipedia.org/wiki/TV5_(Filipiny)",
+    "sv": "https://sv.wikipedia.org/wiki/TV5_(Filippinerna)",
+    "id": "https://id.wikipedia.org/wiki/TV5_(saluran_televisi_Filipina)",
+    "de": "https://de.wikipedia.org/wiki/TV5_(Philippinen)",
+    "ms": "https://ms.wikipedia.org/wiki/TV5_(saluran_TV_Filipina)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TV5_%28Philippines%29_logo.svg?width=256",
+   "website": "http://www.tv5.com.ph/",
+   "city": "TV5 Media Center"
   },
   {
    "id": "ph.senate",
@@ -399,6 +551,31 @@
    "city": "Quezon City"
   },
   {
+   "id": "ph.onesports",
+   "name": "One Sports",
+   "category": "sports",
+   "languages": [
+    "tl",
+    "en"
+   ],
+   "youtubeChannelId": "UCXDG9ue-emCN8Ad3h7lERqQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q60769590",
+   "description": {
+    "en": "Philippine sports television network",
+    "ms": "One Sports ialah rangkaian televisyen percuma ke udara Filipina yang dimiliki oleh Nation Broadcasting Corporation (NBC) dan dikendalikan bersama oleh TV5 Network, Inc., anak syarikat milik penuh MediaQuest Holdings, Inc."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/One_Sports_(TV_channel)",
+    "ms": "https://ms.wikipedia.org/wiki/One_Sports_(saluran_TV_Filipina)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/One_Sports_logo.svg?width=256",
+   "website": "https://www.onesports.ph/",
+   "city": null
+  },
+  {
    "id": "ph.dzrh",
    "name": "DZRH News Television",
    "category": "radio",
@@ -477,6 +654,98 @@
    },
    "logo": null,
    "website": "https://www.loveradio.com.ph",
+   "city": "Pasay"
+  },
+  {
+   "id": "ph.dyvlaksyonradyo819khz",
+   "name": "DYVL Aksyon Radyo",
+   "category": "radio",
+   "languages": [
+    "tl",
+    "en"
+   ],
+   "youtubeChannelId": "UCiDFC9vocweG8qWZOVSHVLw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q85755437",
+   "description": {
+    "en": "radio station in Palo"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DYVL-AM"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Leyte"
+  },
+  {
+   "id": "ph.dzrj810amradyobandido",
+   "name": "DZRJ Radyo Bandido",
+   "category": "radio",
+   "languages": [
+    "tl",
+    "en"
+   ],
+   "youtubeChannelId": "UC1f5yN0Hdibzm3JqqUswKvA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3545756",
+   "description": {
+    "en": "radio station in the Philippines",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DZRJ-AM"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Makati"
+  },
+  {
+   "id": "ph.aksyonradyoiloilo",
+   "name": "Aksyon Radyo Iloilo",
+   "category": "radio",
+   "languages": [
+    "tl",
+    "en"
+   ],
+   "youtubeChannelId": "UCOUVnDQoatGEuN35FrAV0Aw",
+   "youtubeVideoId": "RaLS1WgQJs0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q5206882",
+   "description": {
+    "en": "radio station in Iloilo City, Philippines",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/DYOK"
+   },
+   "logo": null,
+   "website": "http://www.aksyonradyoiloilo.com.ph",
+   "city": "Iloilo City"
+  },
+  {
+   "id": "ph.yesfmmanila",
+   "name": "Yes FM Manila",
+   "category": "radio",
+   "languages": [
+    "tl",
+    "en"
+   ],
+   "youtubeChannelId": "UCBb8SMaygsCq8Mo0cJA0b9g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q141126212",
+   "description": {
+    "en": "Broadcast radio network in the Philippines"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.yesfm.com.ph/",
    "city": "Pasay"
   }
  ]

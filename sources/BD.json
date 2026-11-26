@@ -1,0 +1,30 @@
+{
+ "code": "BD",
+ "languages": ["bn"],
+ "defaultTiles": ["banglavisionnews", "atnnews", "boishakhitvnews", "independenttelevision", "jamunatv", "rtvnews", "ntvnews", "channel24", "maasranganews"],
+ "channels": [
+  {"id": "banglavisionnews", "name": "BanglaVision NEWS", "category": "news", "youtubeChannelId": "UCA4y9g_GRdNrZLH_u5LLSdw", "live": false, "wikidata": "Q3346898"},
+  {"id": "atnnews", "name": "ATN News", "category": "news", "youtubeChannelId": "UC9Rgo0CrNyd7OWliLekqqGA", "youtubeVideoId": "B1vkvU81FGY", "embeddable": true, "live": true, "liveSince": "2026-11-25T06:00:00Z", "wikidata": "Q4654772"},
+  {"id": "boishakhitvnews", "name": "Boishakhi Tv News", "category": "news", "youtubeChannelId": "UCTSvHZkOStz5Ak2J_q6YRlA", "live": false, "wikidata": "Q4938489"},
+  {"id": "independenttelevision", "name": "Independent Television", "category": "news", "youtubeChannelId": "UCATUkaOHwO9EP_W87zCiPbA", "youtubeVideoId": "iWq2kH0iq2Q", "embeddable": true, "live": true, "liveSince": "2026-10-06T00:00:00Z", "wikidata": "Q334694"},
+  {"id": "jamunatv", "name": "Jamuna TV", "category": "news", "youtubeChannelId": "UCN6sm8iHiPd0cnoUardDAnw", "youtubeVideoId": "P9j_bo_dg44", "embeddable": true, "live": true, "liveSince": "2026-11-21T00:00:00Z", "wikidata": null},
+  {"id": "rtvnews", "name": "Rtv News", "category": "news", "youtubeChannelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw", "live": false, "wikidata": "Q7277893"},
+  {"id": "ntvnews", "name": "NTV News", "category": "news", "youtubeChannelId": "UCUDQdVsKssximyFwg4IxnOQ", "live": false, "wikidata": "Q7025410"},
+  {"id": "channel24", "name": "Channel 24", "category": "news", "youtubeChannelId": "UCHLqIOMPk20w-6cFgkA90jw", "youtubeVideoId": "WMlDSbd6uB0", "embeddable": true, "live": true, "liveSince": "2026-11-11T00:00:00Z", "wikidata": "Q13057879"},
+  {"id": "maasranganews", "name": "Maasranga News", "category": "news", "youtubeChannelId": "UCHR-p802PibDYG1btNJcOew", "live": false, "wikidata": "Q6721245"},
+  {"id": "ekhontv", "name": "EKHON TV", "category": "news", "youtubeChannelId": "UCWVqdPTigfQ-cSNwG7O9MeA", "youtubeVideoId": "VfTpNyBbvEQ", "embeddable": true, "live": true, "liveSince": "2026-10-26T00:00:00Z", "wikidata": "Q112474677"},
+  {"id": "somoytv", "name": "SOMOY TV", "category": "news", "youtubeChannelId": "UCxHoBXkY88Tb8z1Ssj6CWsQ", "youtubeVideoId": "1na8me3DYKM", "embeddable": true, "live": true, "liveSince": "2026-11-18T00:00:00Z", "wikidata": "Q26327"},
+  {"id": "dailyjugantor", "name": "Daily Jugantor", "category": "news", "youtubeChannelId": "UCKbhCXpZwAmFN4UHeT8HTjA", "live": false, "wikidata": "Q6304791"},
+  {"id": "newagebd", "name": "New Age BD", "category": "news", "youtubeChannelId": "UCcXngksKUkE4sLl5Jgg9w5w", "live": false, "wikidata": "Q16764706"},
+  {"id": "prothomalo", "name": "Prothom Alo", "category": "news", "youtubeChannelId": "UCeG7m5-AJ4I0H4EIleIty4Q", "live": false, "wikidata": "Q2156338"},
+  {"id": "jagonews", "name": "Jago News", "category": "news", "youtubeChannelId": "UCWJkfdG6J2HUxOHrORuHZ2g", "live": false, "wikidata": "Q61362171"},
+  {"id": "ekusheytelevisionetv", "name": "Ekushey Television - ETV", "category": "broadcast", "youtubeChannelId": "UCBQxpxkI2qLRAFR_6PNdwIA", "live": false, "wikidata": "Q3350409"},
+  {"id": "mohonatvltd", "name": "Mohona TV", "category": "broadcast", "youtubeChannelId": "UC9b_MnX3HN9ABYT89QqYMTw", "live": false, "wikidata": "Q164162"},
+  {"id": "mytvbangladesh", "name": "mytv Bangladesh", "category": "broadcast", "youtubeChannelId": "UC9zgYOQB6zkleAQjW53DLeQ", "live": false, "wikidata": "Q192284"},
+  {"id": "nagoriktv", "name": "Nagorik TV", "category": "broadcast", "youtubeChannelId": "UCig6MgICx3g8p3IHZM45oEA", "live": false, "wikidata": "Q61361818"},
+  {"id": "bangladeshtelevision", "name": "Bangladesh Television", "category": "broadcast", "youtubeChannelId": "UClzwimpLoZu9us9MwalLbtA", "live": false, "wikidata": "Q3348663"},
+  {"id": "dailypurbokone", "name": "Daily Purbokone", "category": "regional", "youtubeChannelId": "UCPczt8v8G_NtXh8vbTUOh6Q", "live": false, "wikidata": "Q19739647"},
+  {"id": "tsports", "name": "T Sports", "category": "sports", "youtubeChannelId": "UC2t9imwIR7xlDfma3CmRKJQ", "live": false, "wikidata": "Q102037696"},
+  {"id": "944jagofm", "name": "94.4 JAGO FM", "category": "radio", "youtubeChannelId": "UCUyT1ZfnUldi1GK2uN27Qew", "live": false, "wikidata": "Q63153130"}
+ ]
+}

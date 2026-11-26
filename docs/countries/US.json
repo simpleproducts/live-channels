@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -9,9 +9,9 @@
   "us.newsmax",
   "us.foxweather",
   "us.foxnews",
+  "us.salemnewschannel",
   "us.cbsnews",
-  "us.nbcnews",
-  "us.scripps"
+  "us.nbcnews"
  ],
  "channels": [
   {
@@ -774,6 +774,464 @@
    "city": null
   },
   {
+   "id": "us.ntd",
+   "name": "NTD",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC8Ioh4atNDO5a0Vy2qFmauQ",
+   "youtubeVideoId": "vCSm6qUXXR8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1334450",
+   "description": {
+    "en": "television station",
+    "es": "estación de televisión",
+    "zh-Hans": "美国的中文电视频道",
+    "ja": "新唐人テレビ は、アメリカ合衆国ニューヨークに本部を置く中国語を主要な言語のひとつとしているテレビ局である。",
+    "fr": "chaîne de télévision américaine",
+    "ko": "파룬궁 연관 방송국",
+    "it": "televisione indipendente e no-profit",
+    "zh-Hant": "不受中共審查之中文電視頻道",
+    "pl": "New Tang Dynasty Television (NTDTV) – chińska niezależna stacja telewizja, nadająca z Nowego Jorku.",
+    "sv": "New Tang Dynasty Television är ett tevebolag i New York i USA.",
+    "id": "Televisi New Tang Dynasty (NTDTV) adalah stasiun televisi independen dengan basis bahasa Mandarin yang didirikan oleh perantauan keturunan Tionghoa.",
+    "de": "chinesischsprachiger Fernsehsender seit 2001 mit Sitz in NewYork"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/New_Tang_Dynasty_Television",
+    "es": "https://es.wikipedia.org/wiki/New_Tang_Dynasty_Television",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/New_Tang_Dynasty_Television",
+    "ko": "https://ko.wikipedia.org/wiki/NTD_TV",
+    "it": "https://it.wikipedia.org/wiki/New_Tang_Dynasty_Television",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "pl": "https://pl.wikipedia.org/wiki/NTDTV",
+    "sv": "https://sv.wikipedia.org/wiki/New_Tang_Dynasty_Television",
+    "id": "https://id.wikipedia.org/wiki/NTDTV",
+    "de": "https://de.wikipedia.org/wiki/New_Tang_Dynasty_Television"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NTD_Logo_with_symbol.svg?width=256",
+   "website": "https://www.ntd.com/",
+   "city": "New York City"
+  },
+  {
+   "id": "us.salemnewschannel",
+   "name": "Salem News Channel",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCgV4zjmG_mUuCl_VwcXoRgg",
+   "youtubeVideoId": "Il0Qu5gZG_8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q123485538",
+   "description": {
+    "en": "American conservative streaming channel"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://salemnewschannel.com/",
+   "city": null
+  },
+  {
+   "id": "us.martinoticias",
+   "name": "Martí Noticias",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCT6G68lD2FQvHwIJ5FEZgcg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1621355",
+   "description": {
+    "en": "international broadcaster based in Miami, Florida, financed by the federal government of the United States through the U.S. Agency for Global Media",
+    "es": "emisora de radio",
+    "zh-Hans": "马蒂广播电视台 是美国政府创建的国有政治宣傳机构，由美國国际媒体署管辖。广播节目于1985年5月20日开播，电视节目首播日期是1990年3月27日。现在其播音室位于迈阿密。马蒂电视台以前通过位于佛罗里达州卡德喬礁上方10英里處的一个热气球每天广播西班牙语节目。其受到了古巴政府的无线电干扰及封锁。",
+    "fr": "diffuseur international basé à Miami, en Floride, financé par le gouvernement fédéral des États-Unis par l'intermédiaire de l'Agence américaine pour les médias mondiaux",
+    "zh-Hant": "马蒂广播电视台 是美国政府创建的国有政治宣傳机构，由美國国际媒体署管辖。广播节目于1985年5月20日开播，电视节目首播日期是1990年3月27日。现在其播音室位于迈阿密。马蒂电视台以前通过位于佛罗里达州卡德喬礁上方10英里處的一个热气球每天广播西班牙语节目。其受到了古巴政府的无线电干扰及封锁。",
+    "pl": "Radio Martí, pełna nazwa Radio y Televisión Martí – rozgłośnia radiowa i stacja telewizyjna w Stanach Zjednoczonych z siedzibą w Miami, nadająca w języku hiszpańskim program radiowy i telewizyjny dla Kuby na falach średnich i krótkich.",
+    "de": "exilkubanischer Rundfunksender der US-Regierung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_y_Televisi%C3%B3n_Mart%C3%AD",
+    "es": "https://es.wikipedia.org/wiki/Radio_y_Televisi%C3%B3n_Mart%C3%AD",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%A9%AC%E8%92%82%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/Radio_et_T%C3%A9l%C3%A9vision_Mart%C3%AD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%A9%AC%E8%92%82%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "pl": "https://pl.wikipedia.org/wiki/Radio_Mart%C3%AD",
+    "de": "https://de.wikipedia.org/wiki/Radio_and_TV_Mart%C3%AD"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg?width=256",
+   "website": "https://www.martinoticias.com/",
+   "city": "Miami"
+  },
+  {
+   "id": "us.voiceofamerica",
+   "name": "Голос Америки",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCSHyZxDokOBevPI5rXymIaw",
+   "youtubeVideoId": "5y0OGj91kIw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q228389",
+   "description": {
+    "en": "United States international broadcaster",
+    "es": "servicio de radio y televisión internacional del gobierno de los Estados Unidos",
+    "zh-Hans": "美国之音，美国外宣机构",
+    "ja": "アメリカ合衆国の国営放送局",
+    "fr": "service de diffusion internationale par radio et télévision du gouvernement américain, directement contrôlé par l’État",
+    "pt-BR": "Voice of America é uma emissora internacional, financiada pelo governo federal dos Estados Unidos e criada em 1942.",
+    "ko": "미국 정부 라디오 방송",
+    "it": "ente radiotelevisivo pubblico statunitense",
+    "ru": "американский международный телерадиовещатель",
+    "zh-Hant": "美國聯邦政府的官方外部廣播機構",
+    "ar": "مؤسسة البث الرسمية للحكومة الفدرالية في الولايات المتحدة",
+    "tr": "ABD'ye ait uluslararası yayıncı",
+    "nl": "Voice of America (VoA) is de officiële buitenlandse zender van de Verenigde Staten en is gevestigd in Washington Naast het Engels, zijn er uitzendingen in 43 andere talen.",
+    "pl": "Głos Ameryki, potocznie Głos Ameryki z Waszyngtonu – rządowa rozgłośnia Stanów Zjednoczonych powstała 1 lutego 1942 roku, nadająca programy dla zagranicy po angielsku i w ponad 40 innych językach.",
+    "sv": "Voice of America (VoA) är USA:s officiella radiostation för sändningar riktade till utlandet.",
+    "id": "stasiun radio di Amerika Serikat",
+    "de": "US-amerikanischer Auslandshörfunk- und -fernsehsender",
+    "ms": "Voice of America atau VOA adalah lembaga penyiaran multimedia antarabangsa dalam 44 bahasa."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Voice_of_America",
+    "es": "https://es.wikipedia.org/wiki/Voz_de_Am%C3%A9rica",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB",
+    "fr": "https://fr.wikipedia.org/wiki/Voice_of_America",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Voz_da_Am%C3%A9rica",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD%EC%9D%98_%EC%86%8C%EB%A6%AC",
+    "it": "https://it.wikipedia.org/wiki/Voice_of_America",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D1%81_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B5%D9%88%D8%AA_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7",
+    "tr": "https://tr.wikipedia.org/wiki/Amerika'n%C4%B1n_Sesi",
+    "nl": "https://nl.wikipedia.org/wiki/Voice_of_America",
+    "pl": "https://pl.wikipedia.org/wiki/G%C5%82os_Ameryki",
+    "sv": "https://sv.wikipedia.org/wiki/Voice_of_America",
+    "id": "https://id.wikipedia.org/wiki/Voice_of_America",
+    "de": "https://de.wikipedia.org/wiki/Voice_of_America",
+    "ms": "https://ms.wikipedia.org/wiki/Voice_of_America"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/VOA_logo.svg?width=256",
+   "website": "https://www.voanews.com/",
+   "city": "Washington, D.C."
+  },
+  {
+   "id": "us.worldjournal",
+   "name": "世界新聞網 World Journal",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UCkohPTwjkan3z7_cPylpTKg",
+   "youtubeVideoId": "q8S1P6ynNIM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q8035879",
+   "description": {
+    "en": "Chinese language broadsheet newspaper published in North America",
+    "zh-Hans": "北美中文报纸",
+    "ja": "北アメリカの中国語新聞",
+    "zh-Hant": "北美中文报纸",
+    "nl": "krant uit Verenigde Staten van Amerika"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/World_Journal",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E6%97%A5%E5%A0%B1_(%E5%8C%97%E7%BE%8E)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B8%96%E7%95%8C%E6%97%A5%E5%A0%B1_(%E5%8C%97%E7%BE%8E)"
+   },
+   "logo": null,
+   "website": "http://www.worldjournal.com/",
+   "city": "College Point"
+  },
+  {
+   "id": "us.newyorkpost",
+   "name": "New York Post",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q211374",
+   "description": {
+    "en": "daily tabloid newspaper (1801-)",
+    "es": "periódico sensacionalista estadounidense",
+    "zh-Hans": "美国报纸",
+    "ja": "アメリカ合衆国のタブロイド紙",
+    "fr": "quotidien new-yorkais",
+    "pt-BR": "jornal tablóide diário",
+    "ko": "미국의 일간 신문",
+    "it": "quotidiano statunitense",
+    "ru": "New York Post — консервативная ежедневная таблоидная газета, издающаяся в Нью-Йорке.",
+    "zh-Hant": "美国报纸",
+    "ar": "صحيفة أمريكيّة",
+    "tr": "ABD'de yayımlanan tabloid formatında günlük gazete",
+    "nl": "Amerikaans medium",
+    "pl": "amerykańska gazeta (Nowy Jork; zał. 1801)",
+    "sv": "amerikansk dagstidning",
+    "id": "perusahaan asal Amerika Serikat",
+    "de": "Boulevardzeitung aus New York"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/New_York_Post",
+    "es": "https://es.wikipedia.org/wiki/New_York_Post",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%B4%90%E7%B4%84%E9%83%B5%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%9D%E3%82%B9%E3%83%88",
+    "fr": "https://fr.wikipedia.org/wiki/New_York_Post",
+    "pt-BR": "https://pt.wikipedia.org/wiki/New_York_Post",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%89%B4%EC%9A%95_%ED%8F%AC%EC%8A%A4%ED%8A%B8",
+    "it": "https://it.wikipedia.org/wiki/New_York_Post",
+    "ru": "https://ru.wikipedia.org/wiki/New_York_Post",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%B4%90%E7%B4%84%E9%83%B5%E5%A0%B1",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83_%D8%A8%D9%88%D8%B3%D8%AA",
+    "tr": "https://tr.wikipedia.org/wiki/New_York_Post",
+    "nl": "https://nl.wikipedia.org/wiki/New_York_Post",
+    "pl": "https://pl.wikipedia.org/wiki/New_York_Post",
+    "sv": "https://sv.wikipedia.org/wiki/New_York_Post",
+    "id": "https://id.wikipedia.org/wiki/New_York_Post",
+    "de": "https://de.wikipedia.org/wiki/New_York_Post"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_Post.svg?width=256",
+   "website": "https://nypost.com",
+   "city": "New York City"
+  },
+  {
+   "id": "us.thewashingtonexaminer",
+   "name": "The Washington Examiner",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC8BxSGcBKriJvoeyKOnJ6tA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q255700",
+   "description": {
+    "en": "American newspaper",
+    "es": "periódico de Estados Unidos editado como sitio web y revista semanal, ubicado en Washington DC",
+    "zh-Hans": "美国新闻媒体",
+    "ja": "アメリカ合衆国のメディア",
+    "fr": "site et magazine de journalisme politique américain",
+    "pt-BR": "O Washington Examiner é uma revista de notícias conservadora estadunidense sediada em Washington, D.C., com um site e uma edição impressa semanal.",
+    "ko": "워싱턴 이그재미너(Washington Examiner)는 워싱턴 D.C.에 본사를 둔 미국의 보수 언론 매체로 주로 웹사이트와 주간지로 구성되어 있다.",
+    "ru": "Washington Examiner, транскрипция «Вашингтон экзаминер» — американский журнал и сайт о политике.",
+    "zh-Hant": "美国新闻媒体",
+    "ar": "صحيفة في الولايات المتحدة",
+    "nl": "Amerikaanse krant",
+    "de": "amerikanische Zeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Washington_Examiner",
+    "es": "https://es.wikipedia.org/wiki/The_Washington_Examiner",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%8F%AF%E7%9B%9B%E9%A0%93%E6%AA%A2%E6%9F%A5%E8%80%85%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E3%83%BB%E3%82%A8%E3%82%B0%E3%82%B6%E3%83%9F%E3%83%8A%E3%83%BC",
+    "fr": "https://fr.wikipedia.org/wiki/Washington_Examiner",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Washington_Examiner",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9B%8C%EC%8B%B1%ED%84%B4_%EC%9D%B4%EA%B7%B8%EC%9E%AC%EB%AF%B8%EB%84%88",
+    "ru": "https://ru.wikipedia.org/wiki/Washington_Examiner",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%8F%AF%E7%9B%9B%E9%A0%93%E6%AA%A2%E6%9F%A5%E8%80%85%E5%A0%B1",
+    "nl": "https://nl.wikipedia.org/wiki/The_Washington_Examiner",
+    "de": "https://de.wikipedia.org/wiki/Washington_Examiner"
+   },
+   "logo": null,
+   "website": "https://www.washingtonexaminer.com",
+   "city": "Washington, D.C."
+  },
+  {
+   "id": "us.thedailysignal",
+   "name": "The Daily Signal",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCHqkXbgqrDrDVInBMSoGQgQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q19876693",
+   "description": {
+    "en": "news website published by the Heritage Foundation",
+    "es": "sitio web conservador editado por la Fundación Heritage",
+    "ja": "アメリカのワシントンD.C.のニュースサイト",
+    "fr": "site web à Washington, D.C., District of Columbia",
+    "ko": "더 데일리 시그널(영어: 'The Daily Signal')은 2014년 6월에 설립된 미국의 보수주의 성향의 뉴스 및 논평 웹사이트이다.",
+    "nl": "krant uit Verenigde Staten van Amerika",
+    "de": "Website in Washington, D.C., District of Columbia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Daily_Signal",
+    "es": "https://es.wikipedia.org/wiki/The_Daily_Signal",
+    "fr": "https://fr.wikipedia.org/wiki/The_Daily_Signal",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%BC%EB%A6%AC_%EC%8B%9C%EA%B7%B8%EB%84%90"
+   },
+   "logo": null,
+   "website": "http://www.dailysignal.com",
+   "city": null
+  },
+  {
+   "id": "us.justthenews",
+   "name": "Just the News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC588htN7jqso3D80OnGGrAw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q103844322",
+   "description": {
+    "en": "American news website",
+    "de": "News website"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Just_the_News"
+   },
+   "logo": null,
+   "website": "https://justthenews.com/",
+   "city": null
+  },
+  {
+   "id": "us.semafor",
+   "name": "Semafor",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCtB4ylCuQW0ue8ACIsHmD1w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q112966863",
+   "description": {
+    "en": "American news website",
+    "zh-Hans": "美国新闻网站",
+    "fr": "journal en ligne américain",
+    "it": "giornale online",
+    "ru": "американский новостной сайт",
+    "zh-Hant": "美國新聞網站",
+    "de": "US-amerikanische News-Website"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Semafor_(website)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Semafor_logo.png?width=256",
+   "website": "https://www.semafor.com/",
+   "city": null
+  },
+  {
+   "id": "us.oneamericanewsnetwork",
+   "name": "One America News Network",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCNbIDJNNgaRrXOD7VllIMRQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q17107494",
+   "description": {
+    "en": "American television news channel",
+    "es": "Canal de televisión por cable conservador estadounidense",
+    "zh-Hans": "美国新闻频道",
+    "ja": "ワン・アメリカ・ニュース・ネットワーク は、2013年7月4日にロバート・ヘリング・シニアによって設立され、ヘリング・ネットワークが所有する、極右の親ドナルド・トランプケーブルチャンネル。",
+    "fr": "chaîne de télévision américaine",
+    "pt-BR": "One America News Network (OANN), também conhecida como One America News (OAN), é um canal de televisão de extrema-direita de notícias e comentário político e website fundado por Robert Herring Sr.",
+    "ko": "원 아메리카 뉴스 네트워크(OANN)는 원 아메리카 뉴스(OAN)라고도 알려져 있으며, 극우 뉴스 및 정치 평론 텔레비전 방송국이자 웹사이트로, 로버트 헤링 시니어가 설립하고 헤링 네트웍스가 소유하고 있으며, 2013년 7월 4일에 개국했다.",
+    "it": "canale televisivo americano di orientamento di estrema destra",
+    "zh-Hant": "美国新闻频道",
+    "ar": "قناة تلفزيونية أمريكية",
+    "pl": "amerykański płatny kanał telewizyjny o charakterze skrajnie prawicowym",
+    "id": "One America News Network (OANN), juga dikenal sebagai One America News (OAN), adalah sebuah saluran kabel pro-Trump sayap kanan jauh milik Herring Networks, Inc., yang diluncurkan pada 4 Juli 2013.",
+    "de": "rechts-konservativer US-amerikanischer TV-Nachrichtensender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/One_America_News_Network",
+    "es": "https://es.wikipedia.org/wiki/One_America_News_Network",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%90%8C%E4%B8%80%E4%B8%AA%E7%BE%8E%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF",
+    "fr": "https://fr.wikipedia.org/wiki/One_America_News_Network",
+    "pt-BR": "https://pt.wikipedia.org/wiki/One_America_News_Network",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9B%90_%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4_%EB%89%B4%EC%8A%A4_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC",
+    "it": "https://it.wikipedia.org/wiki/One_America_News_Network",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%90%8C%E4%B8%80%E4%B8%AA%E7%BE%8E%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91",
+    "id": "https://id.wikipedia.org/wiki/One_America_News_Network",
+    "de": "https://de.wikipedia.org/wiki/One_America_News_Network"
+   },
+   "logo": null,
+   "website": "https://www.oann.com",
+   "city": "San Diego"
+  },
+  {
+   "id": "us.thefirst",
+   "name": "The First",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCQVhgOxzt5W1fZhOd0l2E6g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q100976339",
+   "description": {
+    "en": "online American news opinion and analysis TV shows",
+    "ko": "더 퍼스트(The First)는 더 퍼스트 TV(The First TV)로도 불리며 더 퍼스트(The F1rst)로 표기하기도 하는, 2019년 10월에 시작된 미국의 보수 성향 의견 및 논평 네트워크이다."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_First_TV",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8D%94_%ED%8D%BC%EC%8A%A4%ED%8A%B8_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/The_First_TV_logo.png?width=256",
+   "website": "https://www.thefirsttv.com/",
+   "city": null
+  },
+  {
+   "id": "us.realamerica39svoice",
+   "name": "Real America's Voice",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCMGZ8pfQHgZ6Yj0-92PMENg",
+   "youtubeVideoId": "EbdVTXI-oNw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q111426457",
+   "description": {
+    "en": "American conservative television channel",
+    "es": "«Real America's Voice» : Es un canal de televisión por streaming, Televisión por cable y Televisión por satélite de ideología política de derecha a extrema derecha fundado en 2020 y propiedad de Robert J.",
+    "ko": "리얼 아메리카스 보이스(RAV)는 미국 센테니얼 (콜로라도주)에 본사를 둔 미디어 기업 퍼포먼스 원 미디어(Performance One Media, LLC)가 소유한 미국의 우익 스트리밍, 케이블 및 위성 텔레비전 채널이다.",
+    "ar": "صوت أمريكا الحقيقي هي قناة تلفزيونية يمينية إلى يمينية المتطرفة ، تعمل عبر الكببل والأقمار الصناعية، تأسست في عام 2020، ويملكها روبرت جي سيج.",
+    "de": "US-amerikanischer Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Real_America's_Voice",
+    "es": "https://es.wikipedia.org/wiki/Real_America's_Voice",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%96%BC_%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EC%8A%A4_%EB%B3%B4%EC%9D%B4%EC%8A%A4",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B5%D9%88%D8%AA_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7_%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Real_America%27s_Voice.svg?width=256",
+   "website": "https://americasvoice.news/",
+   "city": null
+  },
+  {
    "id": "us.bloomberg",
    "name": "Bloomberg Television",
    "category": "economy",
@@ -1004,6 +1462,1403 @@
    "city": null
   },
   {
+   "id": "us.abc30actionnews",
+   "name": "ABC30 Action News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCEs-K_xio8n6PKKbTCZpaSA",
+   "youtubeVideoId": "OWa4603KGkQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3050385",
+   "description": {
+    "en": "ABC-owned television station in Fresno, California",
+    "es": "estación televisiva de la cadena ABC en la ciudad de Fresno, California",
+    "fr": "station de télévision à Fresno, Californie, affiliée au réseau ABC",
+    "pt-BR": "Disney General Entertainment Content, anteriormente Capital Cities/ABC, Inc., ABC Group, Disney–ABC Television Group e a segunda encarnação da Walt Disney Television, é uma divisão da The Walt Disney Company que supervisiona seu conteúdo de televisão próprio e operado, ativos e subdivisões.",
+    "id": "stasiun televisi milik ABC di Fresno, California",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KFSN-TV",
+    "es": "https://es.wikipedia.org/wiki/KFSN-TV",
+    "fr": "https://fr.wikipedia.org/wiki/KFSN-TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/KFSN-TV",
+    "id": "https://id.wikipedia.org/wiki/KFSN-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KFSN_%282022%29.svg?width=256",
+   "website": "https://abc30.com/",
+   "city": "Fresno"
+  },
+  {
+   "id": "us.abc10news",
+   "name": "ABC 10 News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCQv44qD9R5Ae6Z3iUeZm7iQ",
+   "youtubeVideoId": "lPoXur0iIzg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3191396",
+   "description": {
+    "en": "channel 10 television station in San Diego, California",
+    "fr": "station de télévision à San Diego, Californie, affiliée au réseau ABC",
+    "id": "Stasiun televisi saluran 10 di San Diego, California",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KGTV",
+    "fr": "https://fr.wikipedia.org/wiki/KGTV",
+    "id": "https://id.wikipedia.org/wiki/KGTV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KGTV_%282022%29.svg?width=256",
+   "website": "https://www.10news.com/",
+   "city": "San Diego"
+  },
+  {
+   "id": "us.12newsnow",
+   "name": "12NewsNow",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCEkv1hU_NpLPcw4HK5Y_iYw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3191338",
+   "description": {
+    "en": "ABC/NBC television affiliate in Beaumont, Texas, United States",
+    "fr": "station de télévision américaine à Beaumont au Texas, affilié aux réseaux ABC et NBC",
+    "pt-BR": "afiliada da ABC/NBC em Beaumont, Texas"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KBMT",
+    "fr": "https://fr.wikipedia.org/wiki/KBMT",
+    "pt-BR": "https://pt.wikipedia.org/wiki/KBMT-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KBMT_2000.svg?width=256",
+   "website": "https://www.12newsnow.com/",
+   "city": "Beaumont"
+  },
+  {
+   "id": "us.king5seattle",
+   "name": "KING 5 Seattle",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCp1KrVaZDZ7BOI_QBuTWWmg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3191412",
+   "description": {
+    "en": "television station",
+    "fr": "station de télévision du réseau NBC à Seattle",
+    "ar": "قناة تيليفيزيونية",
+    "de": "US-amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KING-TV",
+    "fr": "https://fr.wikipedia.org/wiki/KING-TV",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D9%83%D9%8A%D9%86%D8%BA%D8%B2_5"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KING-TV_%282016%29.svg?width=256",
+   "website": "https://www.king5.com/",
+   "city": "Seattle"
+  },
+  {
+   "id": "us.ktvufox2sanfrancisco",
+   "name": "KTVU FOX 2 San Francisco",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCVhtkN7-c8mA8GXEoxS4YQw",
+   "youtubeVideoId": "rM8rkzxKZRs",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q766453",
+   "description": {
+    "en": "Fox television station in Oakland, California, United States",
+    "es": "estación afilada a la cadena FOX para la Área de la Bahia de San Francisco",
+    "fr": "station de télévision à Oakland, Californie, affiliée au réseau Fox",
+    "pt-BR": "KTVU é uma emissora de TV localizada na cidade de Oakland, Califórnia.",
+    "id": "KTVU, saluran 2, adalah sebuah Fox Broadcasting Company stasiun televisi O&O yang berlisensi di Oakland, California, dan melayani Wilayah Teluk San Francisco."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KTVU",
+    "es": "https://es.wikipedia.org/wiki/KTVU",
+    "fr": "https://fr.wikipedia.org/wiki/KTVU",
+    "pt-BR": "https://pt.wikipedia.org/wiki/KTVU",
+    "id": "https://id.wikipedia.org/wiki/KTVU"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KTVU_2020_blue_logo.svg?width=256",
+   "website": "https://www.ktvu.com/",
+   "city": "Oakland"
+  },
+  {
+   "id": "us.gbhnews",
+   "name": "GBH News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCx_SjDi4CS5ALkWCS9ffldQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3564675",
+   "description": {
+    "en": "PBS member television station in Boston",
+    "ja": "WGBH-TV は、アメリカ・マサチューセッツ州ボストンに認可された主要な公共放送サービス（PBS）メンバーのテレビ局。ボストンのPBS二次メンバーであるWGBX-TV（チャンネル44）とスプリングフィールドのPBSメンバー局であるWGBY-TV（チャンネル57、ニューイングランド・パブリック・メディアが運営）、ボストン地域のクラスAテレビジョンサービスのビズTV系列のWFXZ-CD（チャンネル24）と公共ラジオ局WGBH (FM) とWCRB 、ケープコッドのWCAIラジオ（及びサテライト局のWZAIとWNAN）を所有するWGBH教育財団の旗艦 (放送)所有物である。WGBH-TVも効…",
+    "fr": "station de télévision à Boston affiliée au réseau PBS",
+    "pt-BR": "A WGBH-TV é uma emissora de televisão estadunidense sediada em Boston, Massachusetts, e afiliada ao Public Broadcasting Service (PBS).",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WGBH-TV",
+    "ja": "https://ja.wikipedia.org/wiki/WGBH-TV",
+    "fr": "https://fr.wikipedia.org/wiki/WGBH",
+    "pt-BR": "https://pt.wikipedia.org/wiki/WGBH-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WGBH-TV_2_logo_%282020%29.svg?width=256",
+   "website": "https://www.wgbh.org/",
+   "city": "Boston"
+  },
+  {
+   "id": "us.wkbwtv",
+   "name": "WKBW TV",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCfbPQcdF5an7ui8bwwry1Cw",
+   "youtubeVideoId": "J8veTXwmuMM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3564713",
+   "description": {
+    "en": "ABC television affiliate in Buffalo, New York, United States",
+    "fr": "station de télévision américaine affiliée au réseau de télévision ABC",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WKBW-TV",
+    "fr": "https://fr.wikipedia.org/wiki/WKBW-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WKBW_logo_2021.jpg?width=256",
+   "website": "https://www.wkbw.com/",
+   "city": "Buffalo"
+  },
+  {
+   "id": "us.abc3340",
+   "name": "ABC 33/40",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCIul30v9pU1JxKx6jlI7wBA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3564624",
+   "description": {
+    "en": "ABC television affiliate in Birmingham, Alabama, United States",
+    "fr": "station de télévision à Birmingham, Alabama, affiliée au réseau ABC",
+    "pt-BR": "Esta é uma lista de estações de televisão próprias e afiliadas a rede de televisão estadunidense American Broadcasting Company (ABC).",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ABC_33%2F40",
+    "fr": "https://fr.wikipedia.org/wiki/WBMA",
+    "pt-BR": "https://pt.wikipedia.org/wiki/WBMA-LP"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ABC_3340_logo_2020s.svg?width=256",
+   "website": "https://abc3340.com/",
+   "city": "Birmingham"
+  },
+  {
+   "id": "us.clickondetroit",
+   "name": "Local 4 WDIV Detroit",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCqMdEOPBZbGPykVOhUqWqfA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3564661",
+   "description": {
+    "en": "NBC affiliate in Detroit",
+    "fr": "station de télévision à Détroit affiliée au réseau NBC",
+    "ko": "WDIV-TV는 미국 NBC 계열의 방송국이다.",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WDIV-TV",
+    "fr": "https://fr.wikipedia.org/wiki/WDIV-TV",
+    "ko": "https://ko.wikipedia.org/wiki/WDIV-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WDIV-TV_logo_2014.svg?width=256",
+   "website": "https://www.clickondetroit.com",
+   "city": "Detroit"
+  },
+  {
+   "id": "us.wisn12news",
+   "name": "WISN 12 News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC8Tm7Xuz8QekHzjsDxgFNnw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3564700",
+   "description": {
+    "en": "ABC television affiliate in Milwaukee",
+    "fr": "station de télévision à Milwaukee, Wisconsin, affiliée au réseau ABC",
+    "pt-BR": "Esta é uma lista de estações de televisão próprias e afiliadas a rede de televisão estadunidense American Broadcasting Company (ABC).",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WISN-TV",
+    "fr": "https://fr.wikipedia.org/wiki/WISN-TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/WISN-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WISN-TV_logo_2022.svg?width=256",
+   "website": "https://www.wisn.com/",
+   "city": "Milwaukee"
+  },
+  {
+   "id": "us.eyewitnessnewsabc7ny",
+   "name": "Eyewitness News ABC7NY",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCrlIS7z20CnVaCrMvdkig_g",
+   "youtubeVideoId": "VrhYz4CL70I",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2699014",
+   "description": {
+    "en": "ABC flagship television station in New York City - channel number 7",
+    "es": "estación televisiva de la cadena ABC en la ciudad de Nueva York, Nueva York",
+    "ja": "WABC-TVとは、アメリカ合衆国・ニューヨークを中心としたエリアを対象に放送を行うABC放送の支局である。1948年8月10日創立。チャンネルは7、キャッチコピーはNumber One in New York。",
+    "fr": "station de télévision à New York affiliée à ABC",
+    "pt-BR": "emissora de televisão estadunidense de Nova Iorque, NY, Estados Unidos",
+    "ko": "WABC-TV는 미국의 뉴욕주를 중심으로 하는 ABC 계열 방송국이다.",
+    "it": "rete televisiva statunitense",
+    "id": "WABC-TV, saluran 7, adalah stasiun televisi flagship dari jaringan televisi Amerika Serikat ABC dan Live Well Network, yang berlokasi di New York City.",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WABC-TV",
+    "es": "https://es.wikipedia.org/wiki/WABC-TV",
+    "ja": "https://ja.wikipedia.org/wiki/WABC-TV",
+    "fr": "https://fr.wikipedia.org/wiki/WABC-TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/WABC-TV",
+    "ko": "https://ko.wikipedia.org/wiki/WABC-TV",
+    "it": "https://it.wikipedia.org/wiki/WABC-TV",
+    "id": "https://id.wikipedia.org/wiki/WABC-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WABC-TV_%282021%29.svg?width=256",
+   "website": "https://abc7ny.com",
+   "city": "7 Hudson Square"
+  },
+  {
+   "id": "us.cbs17",
+   "name": "CBS 17",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC1dVGItBqV4w-4xQHoX1UDg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2537497",
+   "description": {
+    "en": "CBS television affiliate in Goldsboro, North Carolina, United States",
+    "de": "Sendemast zwischen Garner und Clayton in der Nähe von Auburn, North Carolina, USA"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WNCN",
+    "de": "https://de.wikipedia.org/wiki/WNCN-Sendemast"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WNCN_CBS17.svg?width=256",
+   "website": "https://www.cbs17.com/",
+   "city": "North Carolina"
+  },
+  {
+   "id": "us.wral",
+   "name": "WRAL",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCfmkz6A3aTJwJzox2xhAuRw",
+   "youtubeVideoId": "PeTHS4MivaE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1390360",
+   "description": {
+    "en": "NBC television affiliate in Raleigh, North Carolina, United States",
+    "id": "stasiun televisi NBC di Raleigh, Carolina Utara, Amerika Serikat"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WRAL-TV",
+    "id": "https://id.wikipedia.org/wiki/WRAL-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WRAL-TV_%281993%29.svg?width=256",
+   "website": "http://www.wral.com/",
+   "city": "North Carolina"
+  },
+  {
+   "id": "us.iowapbs",
+   "name": "Iowa PBS",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCHHphhxRHZpMS96kUr4DuwA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6064557",
+   "description": {
+    "en": "PBS member network located in Iowa",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Iowa_PBS"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Iowa_PBS_2020.svg?width=256",
+   "website": "http://site.iptv.org/",
+   "city": "Iowa"
+  },
+  {
+   "id": "us.fox5newyork",
+   "name": "FOX 5 New York",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCIjSUWHWp6KohfnR5OQTXnQ",
+   "youtubeVideoId": "tFuciq0hm6o",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1540364",
+   "description": {
+    "en": "Fox flagship television station in New York City",
+    "es": "estación de la cadena FOX en la Ciudad de Nueva York, Nueva York",
+    "ja": "Fox社の旗艦テレビ局（ニューヨーク市）",
+    "fr": "station de télévision à New York affiliée au réseau Fox",
+    "pt-BR": "emissora de televisão estadunidense de Nova Iorque, NY, Estados Unidos",
+    "id": "WNYW, saluran 5, adalah stasiun televisi flagship dari jaringan televisi Amerika Serikat Fox Broadcasting Company, yang berlokasi di New York City.",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WNYW",
+    "es": "https://es.wikipedia.org/wiki/WNYW",
+    "ja": "https://ja.wikipedia.org/wiki/WNYW",
+    "fr": "https://fr.wikipedia.org/wiki/WNYW",
+    "pt-BR": "https://pt.wikipedia.org/wiki/WNYW",
+    "id": "https://id.wikipedia.org/wiki/WNYW",
+    "de": "https://de.wikipedia.org/wiki/WNYW"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fts-new-york-a.svg?width=256",
+   "website": "https://www.fox5ny.com/",
+   "city": "New York City"
+  },
+  {
+   "id": "us.kvue",
+   "name": "KVUE",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCxXTyFekH99JnS3qaXIQW7A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6340321",
+   "description": {
+    "en": "ABC television affiliate in Austin, Texas, United States",
+    "ja": "KVUE（仮想チャンネル24・UHFデジタルチャンネル33）は、アメリカ・テキサス州オースティンに認可されたABC系列のテレビ局。バージニア州マクリーン (バージニア州)に本拠を置くテグナが所有している。スタジオは、オースティン北西部のテキサス州高速道路ループ1のすぐ東にあるステック・アベニュー にあり、送信所は、オースティンのダウンタウンの北西にあるウェスト・オースティン・アンテナ・ファーム にある。",
+    "pt-BR": "Esta é uma lista de estações de televisão próprias e afiliadas a rede de televisão estadunidense American Broadcasting Company (ABC).",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KVUE",
+    "ja": "https://ja.wikipedia.org/wiki/KVUE",
+    "pt-BR": "https://pt.wikipedia.org/wiki/KVUE"
+   },
+   "logo": null,
+   "website": "https://www.kvue.com/",
+   "city": "Austin"
+  },
+  {
+   "id": "us.kwqcnews",
+   "name": "KWQC News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCdAVIb4dBhAHhUaxfM5gAbg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6340808",
+   "description": {
+    "en": "NBC television affiliate in Davenport, Iowa, United States"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KWQC-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KWQC-TV_NBC_6_Davenport%2C_Iowa_Logo.svg?width=256",
+   "website": "http://www.kwqc.com/",
+   "city": "Davenport"
+  },
+  {
+   "id": "us.abc10",
+   "name": "ABC10",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCT350j4u6alUKyF9eu2bGug",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6341618",
+   "description": {
+    "en": "channel 10 television station in Sacramento",
+    "id": "KXTV adalah sebuah stasiun televisi yang berbasis di Sacramento, California, Amerika Serikat, dan berafiliasi dengan jaringan ABC.",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KXTV",
+    "id": "https://id.wikipedia.org/wiki/KXTV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KXTV_2021.svg?width=256",
+   "website": "http://www.abc10.com",
+   "city": "Sacramento"
+  },
+  {
+   "id": "us.kfox14",
+   "name": "KFOX14",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC73LU2udy27QFNIgurlBvXg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5561616",
+   "description": {
+    "en": "Fox television affiliate in El Paso, Texas, United States",
+    "es": "Afiliado de Fox Television en El Paso, Texas, Estados Unidos",
+    "ja": "KFOX-TV（チャンネル14）は、アメリカ・テキサス州エルパソにあるテレビ局で、FOXネットワークと提携している。デュアルCBS/マイネットワークTV系列のKDBC-TV（チャンネル4）と共にシンクレア・ブロードキャスト・グループによって所有されている。両局はエルパソ北西部のサウス・アルト・メサ・ドライブ にあるスタジオを共有しているが、KFOX-TVの送信所はエルパソ市境のフランクリン山地の頂上にある。",
+    "fr": "Affilié de télévision Fox à El Paso, Texas, États-Unis",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KFOX-TV",
+    "es": "https://es.wikipedia.org/wiki/KFOX-TV",
+    "ja": "https://ja.wikipedia.org/wiki/KFOX-TV"
+   },
+   "logo": null,
+   "website": "http://www.kfoxtv.com/",
+   "city": "El Paso"
+  },
+  {
+   "id": "us.kpbsnews",
+   "name": "KPBS News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCP9Zo2a0-bS9oPd_8tl92rQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6335464",
+   "description": {
+    "en": "PBS member station in San Diego",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KPBS_(TV)"
+   },
+   "logo": null,
+   "website": "https://www.kpbs.org/",
+   "city": "California"
+  },
+  {
+   "id": "us.fox13newsutah",
+   "name": "FOX 13 News Utah",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCxjC_VVez3w8Uyh7LWPnkXA",
+   "youtubeVideoId": "d-3QveG_Ilg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q6338271",
+   "description": {
+    "en": "Fox television affiliate in Salt Lake City",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KSTU"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KSTU_2022.svg?width=256",
+   "website": "http://fox13now.com",
+   "city": "Salt Lake City"
+  },
+  {
+   "id": "us.fox7austin",
+   "name": "FOX 7 Austin",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC5maSolHQX9er0BOxrzjMwA",
+   "youtubeVideoId": "4qiWy7ohNUI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q6338498",
+   "description": {
+    "en": "Fox television station in Austin, Texas, United States",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KTBC_(TV)"
+   },
+   "logo": null,
+   "website": "http://www.myfoxaustin.com/",
+   "city": "Texas"
+  },
+  {
+   "id": "us.kprc2click2houston",
+   "name": "KPRC 2 Click2Houston",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCKQECjul8nw1KW_JzfBTP1A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6335827",
+   "description": {
+    "en": "NBC television affiliate in Houston, Texas",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KPRC-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KPRC_2_%282025%29.svg?width=256",
+   "website": "https://www.click2houston.com/",
+   "city": "Houston"
+  },
+  {
+   "id": "us.krcg13",
+   "name": "KRCG 13",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCNXjJ4Igw2Ir8774eBNb4yA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6336552",
+   "description": {
+    "en": "CBS television affiliate in Jefferson City, Missouri, United States",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KRCG"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KRCG_2016.svg?width=256",
+   "website": "http://www.krcgtv.com/",
+   "city": null
+  },
+  {
+   "id": "us.ktsm9news",
+   "name": "KTSM 9 NEWS",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCmZJz1J64RD7Ur7tI09s-FA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6339150",
+   "description": {
+    "en": "NBC television affiliate in El Paso, Texas, United States",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KTSM-TV"
+   },
+   "logo": null,
+   "website": "http://www.ktsm.com/",
+   "city": null
+  },
+  {
+   "id": "us.kutv2newssaltlakecity",
+   "name": "KUTV 2 News Salt Lake City",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCFVUStJ4azXbWMhFO4yTELg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6339773",
+   "description": {
+    "en": "CBS television affiliate in Salt Lake City",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KUTV"
+   },
+   "logo": null,
+   "website": "http://www.kutv.com/",
+   "city": "Salt Lake City"
+  },
+  {
+   "id": "us.fox43news",
+   "name": "FOX43 News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCyWzxBs28XSI4_5NAmKFYbw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7954384",
+   "description": {
+    "en": "Fox television affiliate in York, Pennsylvania, United States",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WPMT"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WPMTegna.svg?width=256",
+   "website": "http://fox43.com/",
+   "city": null
+  },
+  {
+   "id": "us.wlosnews13",
+   "name": "WLOS News 13",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCu0Gn50PSjozOgwgPVTBB4A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7952401",
+   "description": {
+    "en": "ABC television affiliate in Asheville, North Carolina, United States",
+    "pt-BR": "Esta é uma lista de estações de televisão próprias e afiliadas a rede de televisão estadunidense American Broadcasting Company (ABC)."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WLOS",
+    "pt-BR": "https://pt.wikipedia.org/wiki/WLOS"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WLOS_%282021%29.svg?width=256",
+   "website": "http://www.wlos.com/",
+   "city": null
+  },
+  {
+   "id": "us.wlwt",
+   "name": "WLWT",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCkr9qZ5tj9dGd7JvE3a8X4Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7952573",
+   "description": {
+    "en": "NBC television affiliate in Cincinnati",
+    "ko": "WLWT-TV는 미국 NBC 소속의 지역방송이다.",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WLWT",
+    "ko": "https://ko.wikipedia.org/wiki/WLWT-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WLWT_2.1.svg?width=256",
+   "website": "https://www.wlwt.com/",
+   "city": null
+  },
+  {
+   "id": "us.13wmaz",
+   "name": "13WMAZ",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCRNf0_t4Qo5eojj8sSvd_8A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7952652",
+   "description": {
+    "en": "CBS/CW television affiliate in Macon, Georgia, United States"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WMAZ-TV"
+   },
+   "logo": null,
+   "website": "https://www.13wmaz.com/",
+   "city": "Macon"
+  },
+  {
+   "id": "us.firstalert6",
+   "name": "First Alert 6",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCHyFuvaP40uvL0RE48NbsMw",
+   "youtubeVideoId": "6eZ9sNgE0I8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7954042",
+   "description": {
+    "en": "NBC television affiliate in Omaha, Nebraska, United States",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WOWT"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WOWT_First_Alert_6_Logo_2024.svg?width=256",
+   "website": "http://www.wowt.com/",
+   "city": "Omaha"
+  },
+  {
+   "id": "us.wpdeabc15",
+   "name": "WPDE ABC15",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCn0sxo5Ocp8eSFqr9F1URpg",
+   "youtubeVideoId": "U0Fr5efZHXI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7954212",
+   "description": {
+    "en": "ABC television affiliate in Florence, South Carolina, United States"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WPDE-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WPDE-TV_logo.svg?width=256",
+   "website": "http://wpde.com/",
+   "city": "Florence"
+  },
+  {
+   "id": "us.wsls10",
+   "name": "WSLS 10",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCaFgN6V43Xo1pRjQ4PjlSqw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7955753",
+   "description": {
+    "en": "NBC affiliate in Roanoke, Virginia",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WSLS-TV"
+   },
+   "logo": null,
+   "website": "http://www.wsls.com/",
+   "city": null
+  },
+  {
+   "id": "us.69newswfmztv",
+   "name": "69News WFMZ-TV",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCeJX2RHhMt-IR5MDoeGHXLA",
+   "youtubeVideoId": "9UIHO3BTNhk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7949410",
+   "description": {
+    "en": "independent television station in Allentown, Pennsylvania, United States"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WFMZ-TV"
+   },
+   "logo": null,
+   "website": "http://www.wfmz.com/",
+   "city": null
+  },
+  {
+   "id": "us.gulfcoastnews",
+   "name": "Gulf Coast News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCIYVU7fPs_n6gJIBso3ryeg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7946994",
+   "description": {
+    "en": "NBC television affiliate in Fort Myers, Florida, United States",
+    "zh-Hans": "美国佛罗里达州麦尔兹堡电视台",
+    "fr": "station de télévision à Fort Myers, Floride, affiliée au réseau NBC",
+    "zh-Hant": "美国佛罗里达州麦尔兹堡电视台",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WBBH-TV"
+   },
+   "logo": null,
+   "website": "https://www.gulfcoastnewsnow.com",
+   "city": "Fort Myers"
+  },
+  {
+   "id": "us.wcpo9",
+   "name": "WCPO 9",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCQaDjAIpg-pd44ats-HXCyA",
+   "youtubeVideoId": "-7CZXVVCZnM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7948020",
+   "description": {
+    "en": "American television station",
+    "es": "Estación afilada de la cadena ABC en Cincinnati, Ohio",
+    "fr": "chaîne de télévision américaine",
+    "pt-BR": "Esta é uma lista de estações de televisão próprias e afiliadas a rede de televisão estadunidense American Broadcasting Company (ABC).",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WCPO-TV",
+    "es": "https://es.wikipedia.org/wiki/WCPO-TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/WCPO-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WCPO-TV_logo_2020.png?width=256",
+   "website": "https://www.wcpo.com/",
+   "city": "Cincinnati"
+  },
+  {
+   "id": "us.tampabay28",
+   "name": "Tampa Bay 28",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCK0UUsCjtMRNtS3BPh1Yc4w",
+   "youtubeVideoId": "s1QSKRiMzoA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7949547",
+   "description": {
+    "en": "television station in Tampa, Florida, United States of America",
+    "zh-Hans": "美国电视台",
+    "fr": "station de télévision à Tampa, en Floride, affiliée au réseau ABC",
+    "ko": "WFTS-TV는 미국 플로리다주의 세인트 피터스버그와 템파 지역을 관할하는 ABC 소속의 지역방송이다.",
+    "zh-Hant": "美国电视台",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WFTS-TV",
+    "ko": "https://ko.wikipedia.org/wiki/WFTS-TV"
+   },
+   "logo": null,
+   "website": "https://www.abcactionnews.com",
+   "city": "Tampa"
+  },
+  {
+   "id": "us.atlantanewsfirst",
+   "name": "Atlanta News First",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCWElIIlFx2JiyI9UVrbrEcw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7949690",
+   "description": {
+    "en": "Independent television station in Atlanta",
+    "fr": "Station de télévision indépendante à Atlanta"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WANF"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WANF_logo_%28stacked_version%29_2022.svg?width=256",
+   "website": "https://www.atlantanewsfirst.com/",
+   "city": "Atlanta"
+  },
+  {
+   "id": "us.wgxa",
+   "name": "WGXA",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCofFquMFcHB_a0eeEwh5UmA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7950009",
+   "description": {
+    "en": "Fox/ABC television affiliate in Macon, Georgia, United States"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WGXA"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WGXA_Fox24-2017_%28flat%29.svg?width=256",
+   "website": "http://www.wgxa.tv/",
+   "city": "Macon"
+  },
+  {
+   "id": "us.kcci",
+   "name": "KCCI",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCKATGvvbOznaWNZcOBCLGng",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6326610",
+   "description": {
+    "en": "CBS/MyNetworkTV affiliate in Des Moines, Iowa, United States",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KCCI"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KCCI_with_CBS_eye_co-brand_%28cropped%29_2.svg?width=256",
+   "website": "https://www.kcci.com/",
+   "city": "Des Moines"
+  },
+  {
+   "id": "us.kcra3",
+   "name": "KCRA 3",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC-BSVXejMFhhml4V_VyoGxg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6327252",
+   "description": {
+    "en": "NBC television affiliate in Sacramento, California, United States",
+    "de": "US-amerikanischer regionaler NBC-Fernsehsender in Sacramento, Kalifornien"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KCRA-TV"
+   },
+   "logo": null,
+   "website": "http://www.kcra.com/",
+   "city": "Sacramento"
+  },
+  {
+   "id": "us.cnycentral",
+   "name": "CNY Central",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCIC6B4ULFCqa8bXKVc1sjYA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7955942",
+   "description": {
+    "en": "NBC television affiliate in Syracuse, New York, United States"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WSTM-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WSTM-TV_NBC_3_%28cropped%29.svg?width=256",
+   "website": "https://cnycentral.com",
+   "city": null
+  },
+  {
+   "id": "us.wtaetvpittsburgh",
+   "name": "WTAE-TV Pittsburgh",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCWAsWgFVqxDzwExfOdYjAcg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7956049",
+   "description": {
+    "en": "ABC-affiliated television station in Pittsburgh, Pennsylvania"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WTAE-TV"
+   },
+   "logo": null,
+   "website": "http://www.wtae.com/",
+   "city": "Pittsburgh"
+  },
+  {
+   "id": "us.newschannel5",
+   "name": "NewsChannel 5",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCO6kzQ-7wcG0x8W5LpBA9RQ",
+   "youtubeVideoId": "hfhgKXErfno",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7956467",
+   "description": {
+    "en": "CBS television affiliate in Nashville, Tennessee, United States",
+    "ja": "WTVF（チャンネル5）は、アメリカ・テネシー州ナッシュビルにあるCBS系列のテレビ局。これは、E・W・スクリップス・カンパニーと、イオン・テレビジョン直営局のWNPX-TV（チャンネル28）が所有している。WTVFのスタジオは、ナッシュビルのダウンタウンにあるジェームズ・ロバートソン・パークウェイにあり、送信所は、ダウンタウンの北、ホワイツ・クリーク近くのI-24沿いにある。",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WTVF",
+    "ja": "https://ja.wikipedia.org/wiki/WTVF"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/NewsChannel_5_Network.svg?width=256",
+   "website": "https://www.newschannel5.com/",
+   "city": "Nashville"
+  },
+  {
+   "id": "us.fox29philadelphia",
+   "name": "FOX 29 Philadelphia",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCqdOvfSmM2NKRNE0FSbATuw",
+   "youtubeVideoId": "NJidthD4Z-I",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7956506",
+   "description": {
+    "en": "Fox-owned television station in Philadelphia, Pennsylvania",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WTXF-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fts-philadelphia-a.svg?width=256",
+   "website": "http://www.myfoxphilly.com/",
+   "city": "Philadelphia"
+  },
+  {
+   "id": "us.wxii12news",
+   "name": "WXII 12 News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC0ZsHHC_frpcqneDpMiteCQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7957644",
+   "description": {
+    "en": "NBC television affiliate in Winston-Salem, North Carolina, United States"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WXII-TV"
+   },
+   "logo": null,
+   "website": "https://www.wxii12.com/",
+   "city": null
+  },
+  {
+   "id": "us.texomashomepagecomkfdxkj",
+   "name": "KFDX 3",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC1_tbS2W2Pn2cAhnxiDAa2w",
+   "youtubeVideoId": "tdDb-vXU8hI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q6328929",
+   "description": {
+    "en": "NBC television affiliate in Wichita Falls, Texas, United States",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KFDX-TV"
+   },
+   "logo": null,
+   "website": "http://www.texomashomepage.com/",
+   "city": "Wichita Falls"
+  },
+  {
+   "id": "us.cw39houston",
+   "name": "CW39 Houston",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCXMzgZiNJF4GUi8E7aat1Ew",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6330510",
+   "description": {
+    "en": "CW television affiliate in Houston"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KIAH"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiah-2020.svg?width=256",
+   "website": "https://cw39.com/",
+   "city": "Houston"
+  },
+  {
+   "id": "us.cbs8sandiego",
+   "name": "CBS 8 San Diego",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCMscWako8oDvpdF4pppku-g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6329080",
+   "description": {
+    "en": "CBS/CW/MyNetworkTV affiliate in San Diego",
+    "ja": "米国カリフォルニア州、サンディエゴにあるCBS系列のテレビ局",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KFMB-TV",
+    "ja": "https://ja.wikipedia.org/wiki/KFMB-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KFMB_CBS_8_%282013%2C_single-color_version%29.svg?width=256",
+   "website": "https://www.cbs8.com/",
+   "city": "San Diego"
+  },
+  {
+   "id": "us.wkycchannel3",
+   "name": "WKYC Channel 3",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCNBmxc6FvKyxtCpUygcdINA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q408095",
+   "description": {
+    "en": "NBC television station in Cleveland",
+    "fr": "station de télévision à Cleveland, Ohio, affiliée au réseau NBC",
+    "pt-BR": "WKYC é uma emissora de televisão localizada em Cleveland, Ohio, nos Estados Unidos, afiliada à NBC.",
+    "ko": "텔레비전 방송국",
+    "id": "WKYC-TV channel 3 adalah saluran berita yang berpusat di Cleveland, Ohio.",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WKYC",
+    "fr": "https://fr.wikipedia.org/wiki/WKYC",
+    "pt-BR": "https://pt.wikipedia.org/wiki/WKYC",
+    "id": "https://id.wikipedia.org/wiki/WKYC-TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/WKYC_logo_2019_%28circle_3%29.svg?width=256",
+   "website": "https://www.wkyc.com/",
+   "city": "Cleveland"
+  },
+  {
+   "id": "us.wusf",
+   "name": "WUSF",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCsN1ZItTKcJ4AGsBIni35gg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7956680",
+   "description": {
+    "en": "American radio station in Tampa, Florida, United States",
+    "it": "stazione radiofonica statunitense",
+    "tr": "WUSF (FM) ABD'nin Florida eyaletinin Tampa şehrinde bulunan bir radyo kuruluşudur.",
+    "id": "stasiun radio di Amerika Serikat",
+    "de": "amerikanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/WUSF_(FM)",
+    "tr": "https://tr.wikipedia.org/wiki/WUSF_(FM)"
+   },
+   "logo": null,
+   "website": "https://www.wusf.org",
+   "city": "Florida"
+  },
+  {
+   "id": "us.purpledaily",
+   "name": "KSTP 5 Eyewitness News",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCYR_XRri5HpG02PRn92Cxjg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6338258",
+   "description": {
+    "en": "clear-channel ESPN Radio affiliate in the Minneapolis–St. Paul metropolitan area",
+    "fr": "station de radio de Minneapolis-St. Paul",
+    "it": "stazione radiofonica statunitense",
+    "id": "stasiun radio di Amerika Serikat",
+    "de": "amerikanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/KSTP_(AM)",
+    "de": "https://de.wikipedia.org/wiki/KSTP-AM"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KSTP_AM_logo.jpg?width=256",
+   "website": "http://www.1500espn.com/",
+   "city": "Saint Paul"
+  },
+  {
+   "id": "us.hawaiinewsnow",
+   "name": "Hawaii News Now",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCBnLE14tUHTDyDc8Xij9rAg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16842281",
+   "description": {
+    "en": "television series",
+    "es": "serie de televisión",
+    "ja": "『ハワイ・ニュース・ナウ 』 は、アメリカ・ハワイ州ホノルルにある3つのテレビ局 が共同で運営するニュース部門。ニュース番組は、これらKGMB、KHNL、KFVEを所有するグレイ・メディアによって制作されている。また、KBFDとも提携関係にあり、KBFDの23:00の韓国語ニュース番組では、KGMBが現地取材した録画リポートが韓国語字幕付きで使用されている。さらに、ラジオ局KHKAとも提携している。",
+    "fr": "série télévisée",
+    "it": "serie televisiva",
+    "tr": "Hawaii News Now (HNN), Honolulu, Hawaii'deki üç televizyon kanalı CBS üyesi KGMB, NBC üyesi KHNL ve Telemundo üyesi KFVE tarafından paylaşılan bir haber departmanıdır.",
+    "nl": "televisieserie uit Verenigde Staten van Amerika"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Hawaii_News_Now",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AF%E3%82%A4%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%8A%E3%82%A6",
+    "tr": "https://tr.wikipedia.org/wiki/Hawaii_News_Now"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hawaii_news_now.png?width=256",
+   "website": "http://www.hawaiinewsnow.com",
+   "city": null
+  },
+  {
+   "id": "us.lasvegasreviewjournal",
+   "name": "Las Vegas Review-Journal",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCKk6TkLfOoXs2T4vfvdGlnw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3632498",
+   "description": {
+    "en": "newspaper published in Las Vegas, Nevada",
+    "es": "El periódico Las Vegas Review-Journal es publicado en Las Vegas, Nevada, Estados Unidos.",
+    "zh-Hans": "美国报纸",
+    "fr": "Le Las Vegas Review-Journal est un quotidien en anglais diffusé dans la région de Las Vegas aux États-Unis.",
+    "pt-BR": "Las Vegas Review-Journal é um jornal diário pago publicado em Las Vegas, Nevada, desde 1909.",
+    "it": "quotidiano statunitense",
+    "zh-Hant": "美国报纸",
+    "ar": "جريدة تُنشر في مدينة لاس فيغاس الأمريكية",
+    "nl": "krant uit Verenigde Staten van Amerika",
+    "de": "Tageszeitung in Las Vegas, Nevada"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Las_Vegas_Review-Journal",
+    "es": "https://es.wikipedia.org/wiki/Las_Vegas_Review-Journal",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%8B%89%E6%96%AF%E7%B6%AD%E5%8A%A0%E6%96%AF%E8%A9%95%E8%AB%96%E5%A0%B1",
+    "fr": "https://fr.wikipedia.org/wiki/Las_Vegas_Review-Journal",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Las_Vegas_Review-Journal",
+    "it": "https://it.wikipedia.org/wiki/Las_Vegas_Review-Journal",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%8B%89%E6%96%AF%E7%B6%AD%E5%8A%A0%E6%96%AF%E8%A9%95%E8%AB%96%E5%A0%B1",
+    "de": "https://de.wikipedia.org/wiki/Las_Vegas_Review-Journal"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Vegas_Review-Journal_%282020-01-12%29.svg?width=256",
+   "website": "http://www.reviewjournal.com/",
+   "city": "Las Vegas"
+  },
+  {
+   "id": "us.thebaltimorebanner",
+   "name": "The Baltimore Banner",
+   "category": "regional",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCA2BYct7d-hTRyQJ8_3-gmw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q109236522",
+   "description": {
+    "en": "American newspaper",
+    "de": "amerikanische Zeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Baltimore_Banner"
+   },
+   "logo": null,
+   "website": "https://www.thebanner.com/",
+   "city": null
+  },
+  {
    "id": "us.cspan",
    "name": "C-SPAN",
    "category": "government",
@@ -1114,6 +2969,188 @@
    "city": "Washington, D.C."
   },
   {
+   "id": "us.espn",
+   "name": "ESPN",
+   "category": "sports",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCiWLfSweyRNmLpgEHekhoAg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q217776",
+   "description": {
+    "en": "American broadcast sports network",
+    "es": "canal estadounidense de deportes de radio y televisión",
+    "zh-Hans": "美國的電視節目和運動廣播的電視網絡",
+    "ja": "ディズニー傘下のスポーツ専門チャンネル",
+    "fr": "chaîne de télévision sportive américaine",
+    "pt-BR": "canais de TV por assinatura",
+    "ko": "미국의 스포츠 전문 케이블 텔레비전 네트워크",
+    "it": "rete televisiva statunitense",
+    "ru": "американский кабельный спортивный телевизионный канал",
+    "zh-Hant": "美國的電視節目和運動廣播的電視網絡",
+    "ar": "شركة أمريكية للبث الرياضي تملك الشبكة التي تحمل الاسم نفسه",
+    "tr": "Entertainment and Sports Programming Network ya da resmî kısaltmasıyla ESPN, Walt Disney Company ile Hearst Communications ortaklığında faaliyet gösteren Amerikan merkezli uluslararası bir spor medya şirketidir.",
+    "nl": "Amerikaans televisienetwerk",
+    "pl": "amerykańska stacja telewizyjna",
+    "sv": "ESPN är en samling amerikanska sportkanaler ägda av Walt Disney Company.",
+    "id": "Televisi Kabel Olahraga",
+    "de": "amerikanisches Fernseh-Netzwerk",
+    "ms": "ESPN, asalanya singkatan bagi Entertainment and Sports Programming Network, merupakan satu rangkaian televisyen kabel Amerika Syarikat yang ditujukan kepada penyiaran dan menghasilkan program-program berkaitan dengan sukan 24 jam sehari."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ESPN",
+    "es": "https://es.wikipedia.org/wiki/ESPN",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/ESPN",
+    "ja": "https://ja.wikipedia.org/wiki/ESPN",
+    "fr": "https://fr.wikipedia.org/wiki/ESPN_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/ESPN",
+    "ko": "https://ko.wikipedia.org/wiki/ESPN",
+    "it": "https://it.wikipedia.org/wiki/ESPN",
+    "ru": "https://ru.wikipedia.org/wiki/ESPN",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/ESPN",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A_%D8%A5%D8%B3_%D8%A8%D9%8A_%D8%A5%D9%86",
+    "tr": "https://tr.wikipedia.org/wiki/ESPN",
+    "nl": "https://nl.wikipedia.org/wiki/ESPN",
+    "pl": "https://pl.wikipedia.org/wiki/ESPN",
+    "sv": "https://sv.wikipedia.org/wiki/ESPN",
+    "id": "https://id.wikipedia.org/wiki/ESPN",
+    "de": "https://de.wikipedia.org/wiki/ESPN",
+    "ms": "https://ms.wikipedia.org/wiki/ESPN"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_wordmark.svg?width=256",
+   "website": "https://www.espn.com/",
+   "city": "Bristol"
+  },
+  {
+   "id": "us.pbskids",
+   "name": "PBS KIDS",
+   "category": "kids",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCrNnk0wFBnCS1awGjq_ijGQ",
+   "youtubeVideoId": "z2EWnolxa90",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3245159",
+   "description": {
+    "en": "American PBS children's programming brand since 1999",
+    "es": "cadena infantil de la PBS, operador público de televisión de los Estados Unidos",
+    "zh-Hans": "PBS兒童台 是美国公共电视网 (PBS) 播出的大多数儿童节目的品牌。目标受众是2岁至8岁的儿童。PBS兒童台品牌节目每天在大多数当地 PBS 电视台的白天时段播出，通常安排在早上，此外还有一个单独的24/7频道。区块链和全天候服务都通过有线电视和卫星提供商以及流媒体平台进行空中广播。国际上也提供精选节目。",
+    "ja": "PBS Kidsは、1999年9月6日に開局されたアメリカ合衆国の公共放送サービスのことである。主に子供向け番組が放送されており、日本では一部の番組が放送されている。",
+    "fr": "brand for children's programming aired by the Public Broadcasting Service",
+    "pt-BR": "Kids uma das maiores marcas",
+    "ko": "PBS 키즈는 미국에서 대부분의 어린이 프로그램 브랜드이다.",
+    "it": "PBS, acronimo di Public Broadcasting Service, è un'azienda non profit statunitense di televisione pubblica che appartiene ad un consorzio che rappresenta 349 stazioni televisive pubbliche nazionali; si occupa delle sole trasmissioni televisive, mentre delle trasmissioni radiofoniche pubbliche si…",
+    "ru": "PBS Kids, — бренд для большинства детских программ, транслируемых Общественной вещательной службой в США и название телеканала.",
+    "zh-Hant": "brand for children's programming aired by the Public Broadcasting Service",
+    "ar": "بي پي إس للأطفال هي العلامة التجارية لمعظم برامج الأطفال التي تبثها بي پي إس في الولايات المتحدة ، وكذلك قناة تلفزيونية تعمل على مدار الساعة طوال أيام الأسبوع.",
+    "pl": "amerykański kanał telewizyjny",
+    "sv": "varumärket för de flesta barnprogram som sänds av Public Broadcasting Service",
+    "de": "US-amerikanischer Fernsehsender des Public Broadcasting Service"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/PBS_Kids",
+    "es": "https://es.wikipedia.org/wiki/PBS_Kids",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/PBS%E5%85%92%E7%AB%A5%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/PBS_Kids",
+    "fr": "https://fr.wikipedia.org/wiki/PBS_Kids",
+    "pt-BR": "https://pt.wikipedia.org/wiki/PBS_Kids",
+    "ko": "https://ko.wikipedia.org/wiki/PBS_%ED%82%A4%EC%A6%88",
+    "it": "https://it.wikipedia.org/wiki/PBS_Kids",
+    "ru": "https://ru.wikipedia.org/wiki/PBS_Kids",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/PBS%E5%85%92%E7%AB%A5%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A_%D9%BE%D9%8A_%D8%A5%D8%B3_%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+    "pl": "https://pl.wikipedia.org/wiki/PBS_Kids",
+    "de": "https://de.wikipedia.org/wiki/PBS_Kids"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/PBS_Kids_logo_%282022%29.svg?width=256",
+   "website": "https://pbskids.org/",
+   "city": "Crystal City"
+  },
+  {
+   "id": "us.cartooncartoons",
+   "name": "Cartoon Cartoons",
+   "category": "kids",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCx8nU9xWEyden60hkKBaAvg",
+   "youtubeVideoId": "fccqawtx-ig",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q157906",
+   "description": {
+    "en": "American cable television channel",
+    "es": "canal de televisión estadounidense",
+    "zh-Hans": "迴旋鏢（Boomerang）是Cartoon Network的兄弟頻道。其主網絡位於美國，另在英國、澳洲、香港、德國、西班牙、法國、巴西、台灣和一些東歐國家播放。",
+    "ja": "アメリカ合衆国のケーブル・テレビジョン放送局",
+    "fr": "chaîne de télévision américaine",
+    "pt-BR": "canal de televisão a cabo",
+    "ko": "최근 폐국한 채널",
+    "ru": "телеканал",
+    "zh-Hant": "兄弟頻道",
+    "ar": "بوميرانغ هي شبكة تلفزيون أمريكية عبر الكابل وخدمة بث مملوكة لقسم الأطفال والشباب والكلاسيكيات تابعة لوارنر براذرز، وهي شركة تابعة لشركة وارنر ميديا التابعة لشركة AT&T.",
+    "tr": "Türk TV Kanalı",
+    "nl": "televisiezender in de VS",
+    "pl": "amerykańska stacja telewizyjna",
+    "sv": "Boomerang är en amerikansk TV-kanal, som sänder dygnet runt och inledde sina sändningar den 1 april år 2000.",
+    "id": "Siaran Televisi",
+    "de": "US-amerikanischer Kabelfernsehkanal",
+    "ms": "Boomerang ialah rangkaian televisyen berbayar Amerika serta perkhidmatan penstriman yang dimiliki oleh Turner Broadcasting System, anak syarikat Warner Bros."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Boomerang_(TV_network)",
+    "es": "https://es.wikipedia.org/wiki/Boomerang_(canal_de_televisi%C3%B3n)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%BF%B4%E6%97%8B%E9%8F%A2_(%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93)",
+    "ja": "https://ja.wikipedia.org/wiki/BOOMERANG",
+    "fr": "https://fr.wikipedia.org/wiki/Boomerang_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Boomerang",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B6%80%EB%A9%94%EB%9E%91_(%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)",
+    "ru": "https://ru.wikipedia.org/wiki/Boomerang_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%BF%B4%E6%97%8B%E9%8F%A2_(%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%85%D8%B1%D9%86%D8%BA_(%D8%B4%D8%A8%D9%83%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/Boomerang_(TV_kanal%C4%B1)",
+    "nl": "https://nl.wikipedia.org/wiki/Boomerang_(zender)",
+    "pl": "https://pl.wikipedia.org/wiki/Boomerang_(stacja_telewizyjna)",
+    "sv": "https://sv.wikipedia.org/wiki/Boomerang_(TV-kanal)",
+    "id": "https://id.wikipedia.org/wiki/Boomerang_(saluran_televisi)",
+    "ms": "https://ms.wikipedia.org/wiki/Boomerang_(saluran_TV)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Boomerang_2014_logo.svg?width=256",
+   "website": "https://www.boomerang.com",
+   "city": "Atlanta"
+  },
+  {
+   "id": "us.twittechpodcastnetwork",
+   "name": "TWiT",
+   "category": "streaming",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCwY9B5_8QDGP8niZhBtTh8w",
+   "youtubeVideoId": "VrVq9b69r_E",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7672568",
+   "description": {
+    "en": "podcast network",
+    "zh-Hans": "网站",
+    "zh-Hant": "网站"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TWiT.tv",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/TWiT.tv",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/TWiT.tv"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TWiT.svg?width=256",
+   "website": "https://twit.tv/",
+   "city": null
+  },
+  {
    "id": "us.wtop",
    "name": "WTOP News",
    "category": "radio",
@@ -1147,6 +3184,256 @@
    "wikipedia": {},
    "logo": null,
    "website": null,
+   "city": null
+  },
+  {
+   "id": "us.daystar",
+   "name": "Daystar",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCMJ4wAQ3-NcmPADJ7_GURpw",
+   "youtubeVideoId": "3CGGTwSf9Q4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q827000",
+   "description": {
+    "en": "television station",
+    "zh-Hans": "晨星电视台(英文：Daystar TV)是一家总部位于美国的基督教电视台。由Marcus Lamb和Joni Lamb于1997年创立，是全球规模第二大的福音电视网络。晨星电视网运作有五十个电视台，覆盖美国每个城市以及世界上每个国家。香港有線電視曾經轉播此頻道，惟現已停播。",
+    "pt-BR": "Daystar Television Network é uma rede de televisão cristã evangélica norte-americana, sediada em Bedford (Texas).",
+    "it": "rete televisiva statunitense",
+    "zh-Hant": "晨星电视台(英文：Daystar TV)是一家总部位于美国的基督教电视台。由Marcus Lamb和Joni Lamb于1997年创立，是全球规模第二大的福音电视网络。晨星电视网运作有五十个电视台，覆盖美国每个城市以及世界上每个国家。香港有線電視曾經轉播此頻道，惟現已停播。",
+    "sv": "amerikansk kristen TV-kanal",
+    "de": "amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Daystar_Television_Network",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%99%A8%E6%98%9F%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Daystar_Television_Network",
+    "it": "https://it.wikipedia.org/wiki/Daystar_Television_Network",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%99%A8%E6%98%9F%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "sv": "https://sv.wikipedia.org/wiki/Daystar",
+    "de": "https://de.wikipedia.org/wiki/Daystar_Television_Network"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Daystar_%282008%E2%80%93present%29_unmodified_logo.svg?width=256",
+   "website": "https://daystar.com/",
+   "city": "Dallas-Fort Worth metroplex"
+  },
+  {
+   "id": "us.godtv",
+   "name": "GOD TV",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC1_JSuk0BSA_FWzSvMsezGg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q826862",
+   "description": {
+    "en": "television station",
+    "pt-BR": "God TV é uma rede de televisão cristã, com sede em Jerusalém, Israel.",
+    "ar": "قناة الله أو غاد تي في هي شبكة تلفزيون دينيّة دولية والتي لديها عدد مشاهدين يصل إلى حوالي 951 مليون مشاهد.",
+    "sv": "GOD TV är en internationell religiös tv-kanal grundad 1995, med säte i Jerusalem, Israel.",
+    "de": "Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/GOD_TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/God_TV",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%84%D9%87",
+    "sv": "https://sv.wikipedia.org/wiki/GOD_TV",
+    "de": "https://de.wikipedia.org/wiki/God_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/God-TV-Logo.svg?width=256",
+   "website": "https://www.god.tv/",
+   "city": "Jerusalem"
+  },
+  {
+   "id": "us.ewtn",
+   "name": "EWTN",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCijDos-LUTh9RQvSCMQqN6Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1276539",
+   "description": {
+    "en": "American and multinational religious cable and satellite television station",
+    "es": "cadena de televisión religiosa estadounidense",
+    "ja": "アメリカ合衆国および多国籍の宗教系ケーブルテレビ局、衛星テレビ局",
+    "fr": "chaîne de télévision américaine",
+    "pt-BR": "A Eternal Word Television Network (EWTN) é uma rede de televisão por assinatura dos Estados Unidos que transmite programação católica 24 horas por dia, sem intervalos comerciais.",
+    "it": "rete televisiva statunitense",
+    "nl": "EWTN is een katholieke Amerikaanse radio- en televisiezender.",
+    "pl": "Amerykańska Stacja Telewizyjna",
+    "sv": "Eternal Word Television Network (EWTN) är ett amerikanskt katolskt TV-nätverk.",
+    "id": "Satelit Televisi asal Amerika Serikat",
+    "de": "katholischer amerikanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/EWTN",
+    "es": "https://es.wikipedia.org/wiki/EWTN",
+    "fr": "https://fr.wikipedia.org/wiki/Eternal_Word_Television_Network",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Eternal_Word_Television_Network",
+    "it": "https://it.wikipedia.org/wiki/EWTN",
+    "nl": "https://nl.wikipedia.org/wiki/Eternal_Word_Television_Network",
+    "pl": "https://pl.wikipedia.org/wiki/EWTN_(stacja_telewizyjna)",
+    "sv": "https://sv.wikipedia.org/wiki/Eternal_Word_Television_Network",
+    "id": "https://id.wikipedia.org/wiki/EWTN_Global_Catholic_Network",
+    "de": "https://de.wikipedia.org/wiki/EWTN"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/New_EWTN_logo.jpg?width=256",
+   "website": "https://www.ewtn.com/",
+   "city": "Irondale"
+  },
+  {
+   "id": "us.mohabattv",
+   "name": "Mohabat TV",
+   "category": "religious",
+   "languages": [
+    "fa"
+   ],
+   "youtubeChannelId": "UC_MJPm4CvGV9PMV5QA8HlpQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q125107089",
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://mohabat.tv/",
+   "city": null
+  },
+  {
+   "id": "us.thewordnetwork",
+   "name": "The Word Network",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCUscE8qWnagk8wu5zIbC6Gw",
+   "youtubeVideoId": "s1zvHSHrKfY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q17031421",
+   "description": {
+    "en": "religious broadcasting network that claims to be the largest African-American religious network in the world"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Word_Network"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TWN_LOGO_1.png?width=256",
+   "website": "https://www.thewordnetwork.org/",
+   "city": null
+  },
+  {
+   "id": "us.icatholicradio",
+   "name": "iCatholicRadio",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCG3_hegQz3q-_eWiBcWcofA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q17021760",
+   "description": {
+    "en": "Catholic radio network in New York State and Massachusetts",
+    "id": "stasiun radio",
+    "de": "amerikanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Station_of_the_Cross"
+   },
+   "logo": null,
+   "website": "http://www.thestationofthecross.com/",
+   "city": null
+  },
+  {
+   "id": "us.relevantradio",
+   "name": "Relevant Radio",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC57YZqlPU8c3wQWLvncjzqQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7310975",
+   "description": {
+    "en": "Catholic talk radio network in the United States"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Relevant_Radio"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Relevant_Radio_logo_2017.png?width=256",
+   "website": "https://www.relevantradio.com",
+   "city": "Green Bay"
+  },
+  {
+   "id": "us.ewtnnews",
+   "name": "EWTN News",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCaJBwb7XkojUOPbz_6uzPag",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2899069",
+   "description": {
+    "en": "American news agency reporting on news related to the Catholic Church",
+    "es": "agencia de noticias en Estados Unidos relacionada con la Iglesia católica",
+    "fr": "Catholic News Agency (CNA) est un service d'information appartenant à Eternal Word Television Network (EWTN), qui fournit des informations liées à l'Église catholique à un public anglophone mondial.",
+    "pt-BR": "EWTN News, anteriormente denominada Catholic News Agency (CNA), é um serviço de notícias pertencente à Eternal Word Television Network (EWTN) que fornece notícias relacionadas à Igreja Católica para um público anglófono em todo o mundo.",
+    "ko": "가톨릭 뉴스 에이전시(Catholic News Agency)는 콜로라도주 덴버에 본사를 둔 가톨릭 관련 뉴스 업체이다.",
+    "it": "agenzia di stampa cattolica statunitense",
+    "pl": "EWTN News, dawniej Catholic News Agency (CNA) – agencja prasowa należąca do sieci Eternal Word Television Network (EWTN), która dostarcza wiadomości ze świata Kościoła katolickiego dla globalnej publiczności anglojęzycznej.",
+    "id": "Catholic News Agency (CNA) adalah layanan berita yang dimiliki oleh Eternal Word Television Network (EWTN) yang menyediakan berita terkait Gereja Katolik kepada khalayak anglophone global.",
+    "de": "römisch-katholische Nachrichtenagentur"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/EWTN_News",
+    "fr": "https://fr.wikipedia.org/wiki/Catholic_News_Agency",
+    "pt-BR": "https://pt.wikipedia.org/wiki/EWTN_News",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B0%80%ED%86%A8%EB%A6%AD_%EB%89%B4%EC%8A%A4_%EC%97%90%EC%9D%B4%EC%A0%84%EC%8B%9C",
+    "it": "https://it.wikipedia.org/wiki/Catholic_News_Agency",
+    "pl": "https://pl.wikipedia.org/wiki/EWTN_(agencja_prasowa)",
+    "id": "https://id.wikipedia.org/wiki/Catholic_News_Agency",
+    "de": "https://de.wikipedia.org/wiki/Catholic_News_Agency"
+   },
+   "logo": null,
+   "website": "https://catholicnewsagency.com",
+   "city": "Washington, D.C."
+  },
+  {
+   "id": "us.thevictorychannel",
+   "name": "The Victory Channel",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCvYVGf_JFME9dVe3WtljP1Q",
+   "youtubeVideoId": "puUHK7ahyLo",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q125774649",
+   "description": {
+    "en": "United States religious television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Victory_Channel"
+   },
+   "logo": null,
+   "website": "https://www.govictory.com/",
    "city": null
   },
   {
@@ -1206,6 +3493,115 @@
    "city": "Washington, D.C."
   },
   {
+   "id": "us.nationalgeographic",
+   "name": "National Geographic",
+   "category": "culture",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+   "youtubeVideoId": "tbLcWRxPel0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q157118",
+   "description": {
+    "en": "American television channel",
+    "es": "canal de televisión",
+    "zh-Hans": "国家地理，前称“国家地理频道 ”，是美国一家付费电视网和旗舰频道，由华特迪士尼公司（占股73%）和国家地理学会（占股27%）共同投资组建的国家地理合股有限公司所有，日常经营归华特迪士尼电视集团负责。该旗舰频道会播放由国家地理及其他公司所制作的非虚构类节目。与历史频道和探索频道一样，国家地理频道也会播出涉及自然、科学、文化和历史的纪录片，以及一些真人秀和伪科学类娱乐节目。国家地理在美国的最主要姊妹频道为国家地理野生频道，这是一个播放主要与动物有关节目的频道，其中就包括广受欢迎的《报告狗班长》。",
+    "ja": "ドキュメンタリー番組専門チャンネルのひとつ",
+    "fr": "chaîne de télévision américaine",
+    "pt-BR": "canal de televisão por assinatura",
+    "ko": "미국의 다큐멘터리 전문 TV 채널",
+    "it": "rete televisiva statunitense",
+    "ru": "канал, транслирующий научно-информационные фильмы",
+    "zh-Hant": "国家地理，前称“国家地理频道 ”，是美国一家付费电视网和旗舰频道，由华特迪士尼公司（占股73%）和国家地理学会（占股27%）共同投资组建的国家地理合股有限公司所有，日常经营归华特迪士尼电视集团负责。该旗舰频道会播放由国家地理及其他公司所制作的非虚构类节目。与历史频道和探索频道一样，国家地理频道也会播出涉及自然、科学、文化和历史的纪录片，以及一些真人秀和伪科学类娱乐节目。国家地理在美国的最主要姊妹频道为国家地理野生频道，这是一个播放主要与动物有关节目的频道，其中就包括广受欢迎的《报告狗班长》。",
+    "ar": "قناة فضائية وثائقية",
+    "tr": "National Geographic, belgesel kanalıdır.",
+    "nl": "Amerikaans televisienetwerk",
+    "pl": "satelitarny kanał telewizyjny Towarzystwa National Geographic",
+    "sv": "TV-kanal",
+    "id": "perusahaan asal Amerika Serikat",
+    "de": "US-amerikanischer Fernsehsender",
+    "ms": "National Geographic adalah sebuah rangkaian televisyen langganan program dokumentari dikeluarkan oleh National Geographic Society."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/National_Geographic_(American_TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/National_Geographic_(canal_de_televisi%C3%B3n)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86_(%E7%BE%8E%E5%9B%BD%E7%94%B5%E8%A7%86%E9%A2%91%E9%81%93)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB_%E3%82%B8%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF_(%E3%83%86%E3%83%AC%E3%83%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB)",
+    "fr": "https://fr.wikipedia.org/wiki/National_Geographic_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/National_Geographic_(canal_de_televis%C3%A3o)",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%B4%EC%85%94%EB%84%90_%EC%A7%80%EC%98%A4%EA%B7%B8%EB%9E%98%ED%94%BD_(%EB%AF%B8%EA%B5%AD%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EC%B1%84%EB%84%90)",
+    "it": "https://it.wikipedia.org/wiki/National_Geographic_(rete_televisiva)",
+    "ru": "https://ru.wikipedia.org/wiki/National_Geographic_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86_(%E7%BE%8E%E5%9B%BD%E7%94%B5%E8%A7%86%E9%A2%91%E9%81%93)",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%86%D8%A7%D8%B4%D9%8A%D9%88%D9%86%D8%A7%D9%84_%D8%AC%D9%8A%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D9%83_(%D9%82%D9%86%D8%A7%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/National_Geographic_(televizyon_kanal%C4%B1)",
+    "nl": "https://nl.wikipedia.org/wiki/National_Geographic_Channel",
+    "pl": "https://pl.wikipedia.org/wiki/National_Geographic_(stacja_telewizyjna)",
+    "sv": "https://sv.wikipedia.org/wiki/National_Geographic_Channel",
+    "id": "https://id.wikipedia.org/wiki/National_Geographic_(saluran_televisi)",
+    "ms": "https://ms.wikipedia.org/wiki/National_Geographic_Channel"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Natgeologo.svg?width=256",
+   "website": "https://www.nationalgeographic.com/tv/",
+   "city": "Washington, D.C."
+  },
+  {
+   "id": "us.animalplanet",
+   "name": "Animal Planet",
+   "category": "culture",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCkEBDbzLyH-LbB2FgMoSMaQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q43429",
+   "description": {
+    "en": "American basic cable and satellite television channel",
+    "es": "canal de televisión estadounidense.",
+    "zh-Hans": "動物星球頻道 簡稱：AP，創立於1996年，為一家由探索通信 出資百分之八十及BBC Worldwide出資百分之二十所創立的动物纪录片頻道。2005年起由銳迅多媒體獨家代理台灣動物星球影音版權。部分系統業者已啟用高畫質。",
+    "ja": "動物番組専門チャンネルのひとつ",
+    "fr": "chaîne de télévision spécialisée américaine",
+    "pt-BR": "Canal de televisão por assinatura",
+    "ko": "동물 방송 전문 채널의 하나",
+    "ru": "Animal Planet — дочерний телеканал американского Discovery Channel.",
+    "zh-Hant": "動物星球頻道 簡稱：AP，創立於1996年，為一家由探索通信 出資百分之八十及BBC Worldwide出資百分之二十所創立的动物纪录片頻道。2005年起由銳迅多媒體獨家代理台灣動物星球影音版權。部分系統業者已啟用高畫質。",
+    "ar": "أنيمال بلانت هي قناة أمريكية أطلقت في يونيو عام 1996، وتتبع فريق ديسكفري كوميونيكيشنز ، إضافة إلى قناة بي بي سي.",
+    "tr": "Televizyon Kanalı",
+    "nl": "Amerikaans televisienetwerk",
+    "pl": "stacja telewizyjna nadająca w Stanach Zjednoczonych od 1996 roku",
+    "sv": "Animal Planet är en amerikansk TV-kanal som lanserades 1 oktober 1996, och ägs av Discovery Channel.",
+    "id": "Animal Planet adalah jaringan televisi kabel dan satelit multinasional yang dimiliki oleh Warner Bros.",
+    "de": "Fernsehsender",
+    "ms": "Animal Planet ialah sebuah televisyen kabel dan satelit yang dimiliki oleh Warner Bros."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Animal_Planet",
+    "es": "https://es.wikipedia.org/wiki/Animal_Planet",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8B%95%E7%89%A9%E6%98%9F%E7%90%83%E9%A0%BB%E9%81%93",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%83%9E%E3%83%AB%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88",
+    "fr": "https://fr.wikipedia.org/wiki/Animal_Planet",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Animal_Planet",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%A0%EB%8B%88%EB%A9%80_%ED%94%8C%EB%9E%98%EB%8B%9B",
+    "ru": "https://ru.wikipedia.org/wiki/Animal_Planet",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8B%95%E7%89%A9%E6%98%9F%E7%90%83%E9%A0%BB%E9%81%93",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D9%8A%D9%85%D8%A7%D9%84_%D8%A8%D9%84%D8%A7%D9%86%D8%AA",
+    "tr": "https://tr.wikipedia.org/wiki/Animal_Planet",
+    "nl": "https://nl.wikipedia.org/wiki/Animal_Planet",
+    "pl": "https://pl.wikipedia.org/wiki/Animal_Planet",
+    "sv": "https://sv.wikipedia.org/wiki/Animal_Planet",
+    "id": "https://id.wikipedia.org/wiki/Animal_Planet",
+    "de": "https://de.wikipedia.org/wiki/Animal_Planet",
+    "ms": "https://ms.wikipedia.org/wiki/Animal_Planet"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/2018_Animal_Planet_logo.svg?width=256",
+   "website": "http://www.animalplanet.com",
+   "city": "Silver Spring"
+  },
+  {
    "id": "us.telemundotv",
    "name": "Telemundo",
    "category": "entertainment",
@@ -1260,6 +3656,228 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Telemundo_logo_2018.svg?width=256",
    "website": "http://msnlatino.telemundo.com",
    "city": "Miami"
+  },
+  {
+   "id": "us.investigationdiscovery",
+   "name": "Investigation Discovery",
+   "category": "entertainment",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC08wrceRCWhajGG4udhETww",
+   "youtubeVideoId": "Ur5q6ct7wCs",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q668203",
+   "description": {
+    "en": "television station",
+    "es": "cadena de televisión suministro de información internacional",
+    "fr": "chaine de télévision spécialisée américaine",
+    "pt-BR": "Canal de TV Por Assinatura, Pertence a Discovery Inc.",
+    "ko": "인베스티게이션 디스커버리(Investigation Discovery, 약칭 ID)는 미국의 텔레비전 방송국으로, 수사와 토론 관련 프로그램 등을 송출하는 방송국이다.",
+    "it": "Rete televisiva del gruppo Discovery",
+    "ru": "IDx — спутниковый телеканал производства медиахолдинга «Discovery Communications», который показывает документальные фильмы и программы о расследованиях таинственных исчезновений, загадочных убийств и других преступлений.",
+    "tr": "ABD TV Kanalı",
+    "nl": "digitaal kanaal van Discovery Benelux",
+    "sv": "Investigation Discovery är en amerikansk digital kabel-tv-kanal som ägs av Discovery Communications och lanserades på hemmamarknaden 2008.",
+    "id": "Investigation Discovery adalah saluran milik Warner Bros.",
+    "de": "amerikanischer Fernsehsender",
+    "ms": "Investigation Discovery ialah rangkaian televisyen Amerika yang dimiliki oleh Warner Bros."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Investigation_Discovery",
+    "es": "https://es.wikipedia.org/wiki/Investigation_Discovery",
+    "fr": "https://fr.wikipedia.org/wiki/Investigation_Discovery",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Investigation_Discovery_(Estados_Unidos)",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8B%B0%EA%B2%8C%EC%9D%B4%EC%85%98_%EB%94%94%EC%8A%A4%EC%BB%A4%EB%B2%84%EB%A6%AC",
+    "ru": "https://ru.wikipedia.org/wiki/Investigation_Discovery",
+    "tr": "https://tr.wikipedia.org/wiki/Investigation_Discovery",
+    "nl": "https://nl.wikipedia.org/wiki/Investigation_Discovery",
+    "sv": "https://sv.wikipedia.org/wiki/Investigation_Discovery",
+    "id": "https://id.wikipedia.org/wiki/Investigation_Discovery",
+    "de": "https://de.wikipedia.org/wiki/Investigation_Discovery",
+    "ms": "https://ms.wikipedia.org/wiki/Investigation_Discovery"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/InvestigationDiscoveryLogo2020.svg?width=256",
+   "website": "http://www.investigationdiscovery.com",
+   "city": "Maryland"
+  },
+  {
+   "id": "us.foodnetwork",
+   "name": "Food Network",
+   "category": "entertainment",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UC8Y-jrV8oR3s2Ix4viDkZtA",
+   "youtubeVideoId": "VaolUdgzS5k",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q1435969",
+   "description": {
+    "en": "American basic cable channel launched in 1993",
+    "es": "canal de televisión estadounidense",
+    "zh-Hans": "美国美食頻道 是美国有線电视頻道，主要播放飲食節目。目前美国美食頻道总部位于纽约，但是在洛杉矶、芝加哥和旧金山等共计7个城市均有办事处。",
+    "ja": "フード・ネットワーク は食をテーマとした専門テレビ局。スカイダンスとネクスター・メディア・グループが共同で出資している。",
+    "fr": "chaîne de télévision culinaire américaine",
+    "pt-BR": "canal de televisão por assinatura",
+    "ko": "푸드 네트워크(Food Network)는 음식을 테마로 한 전문 방송국이다.",
+    "zh-Hant": "美国美食頻道 是美国有線电视頻道，主要播放飲食節目。目前美国美食頻道总部位于纽约，但是在洛杉矶、芝加哥和旧金山等共计7个城市均有办事处。",
+    "tr": "Yemek Kanalı",
+    "nl": "Food Network is een Amerikaanse themazender met programma's over eten en koken.",
+    "id": "perusahaan asal Amerika Serikat",
+    "de": "amerikanischer Fernsehsender",
+    "ms": "Food Network ialah saluran televisyen berbayar Amerika yang dimiliki oleh Television Food Network, G.P., usaha sama dan perkongsian am antara Warner Bros."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Food_Network",
+    "es": "https://es.wikipedia.org/wiki/Food_Network",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%BE%8E%E9%A3%9F%E9%A0%BB%E9%81%93_(%E7%BE%8E%E5%9C%8B)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%BC%E3%83%89%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF",
+    "fr": "https://fr.wikipedia.org/wiki/Food_Network_(%C3%89tats-Unis)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Food_Network",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%91%B8%EB%93%9C_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%BE%8E%E9%A3%9F%E9%A0%BB%E9%81%93_(%E7%BE%8E%E5%9C%8B)",
+    "tr": "https://tr.wikipedia.org/wiki/Food_Network_(T%C3%BCrkiye)",
+    "nl": "https://nl.wikipedia.org/wiki/Food_Network",
+    "id": "https://id.wikipedia.org/wiki/Food_Network",
+    "de": "https://de.wikipedia.org/wiki/Food_Network",
+    "ms": "https://ms.wikipedia.org/wiki/Food_Network"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Food_Network_logo.svg?width=256",
+   "website": "https://www.foodnetwork.com",
+   "city": "New York City"
+  },
+  {
+   "id": "us.courttv",
+   "name": "COURT TV",
+   "category": "entertainment",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCo5E9pEhK_9kWG7-5HHcyRg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q60656247",
+   "description": {
+    "en": "American digital broadcast television network",
+    "es": "red de televisión digital estadounidense"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Court_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CourtTV_Logo.jpg?width=256",
+   "website": "http://www.courttv.com/",
+   "city": "Atlanta"
+  },
+  {
+   "id": "us.ign",
+   "name": "IGN",
+   "category": "entertainment",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q207708",
+   "description": {
+    "en": "American video game and entertainment media website",
+    "es": "sitio web sobre videojuegos",
+    "zh-Hans": "美國電子遊戲和娛樂媒體網站",
+    "ja": "アメリカのエンターテインメント情報サイト",
+    "fr": "site internet anglophone de jeux vidéo",
+    "pt-BR": "plataforma de entretenimento on-line",
+    "ko": "미국의 엔터테인먼트 정보 사이트",
+    "it": "sito web",
+    "ru": "новостной и информационный веб-сайт, освещающий тематику компьютерных игр, сериалов и кинофильмов",
+    "zh-Hant": "美國電子遊戲和娛樂媒體網站",
+    "ar": "شركة أمريكية",
+    "tr": "1996'da kurulmuş video oyunlarıyla ilgili inceleme yapan ve haber sunan ağ sayfası",
+    "nl": "website",
+    "pl": "amerykański portal poświęcony grom komputerowym i rozrywce",
+    "sv": "Amerikansk datorspels- och underhållningswebbplats",
+    "id": "media berita hiburan Amerika Serikat",
+    "de": "US-amerikanisches Onlinemagazin für Videospiele und Unterhaltungsmedien",
+    "ms": "laman sesawang hiburan Amerika syarikat"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/IGN",
+    "es": "https://es.wikipedia.org/wiki/IGN_(sitio_web)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/IGN",
+    "ja": "https://ja.wikipedia.org/wiki/IGN",
+    "fr": "https://fr.wikipedia.org/wiki/IGN_(site_web)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/IGN",
+    "ko": "https://ko.wikipedia.org/wiki/IGN",
+    "it": "https://it.wikipedia.org/wiki/IGN",
+    "ru": "https://ru.wikipedia.org/wiki/IGN",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/IGN",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A2%D9%8A_%D8%AC%D9%8A_%D8%A5%D9%86",
+    "tr": "https://tr.wikipedia.org/wiki/IGN",
+    "nl": "https://nl.wikipedia.org/wiki/IGN_(website)",
+    "pl": "https://pl.wikipedia.org/wiki/IGN",
+    "sv": "https://sv.wikipedia.org/wiki/IGN",
+    "id": "https://id.wikipedia.org/wiki/IGN",
+    "de": "https://de.wikipedia.org/wiki/IGN",
+    "ms": "https://ms.wikipedia.org/wiki/IGN"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/IGN_logo.svg?width=256",
+   "website": "https://www.ign.com",
+   "city": "San Francisco"
+  },
+  {
+   "id": "us.tlc",
+   "name": "TLC",
+   "category": "entertainment",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCqf2gzmKtH3PaAbt-qgFFsw",
+   "youtubeVideoId": "tfE2uL7_c3w",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q130866",
+   "description": {
+    "en": "U.S. basic cable TV channel",
+    "es": "TLC es un canal de televisión por suscripción estadounidense propiedad de Skydance Corporation Inicialmente enfocado en contenido educativo y de aprendizaje, a fines de la década de 1990, la red comenzó a enfocarse principalmente en series de realidad que involucran estilos de vida, vida familiar…",
+    "zh-Hans": "美国电视频道",
+    "ja": "TLC はアメリカのケーブルテレビチャンネルであり、ワーナー・ブラザース・ディスカバリーで運営されている。",
+    "fr": "chaîne de télévision américaine",
+    "pt-BR": "canal de TV a cabo dos EUA",
+    "ko": "TLC는 미국의 케이블 채널이며, 워너 브라더스 디스커버리가 운영하고 있다.",
+    "it": "rete televisiva statunitense",
+    "ru": "TLC [ˈtiː ˈel ˈsiː] — развлекательный телевизионный канал семейства Discovery, адресованный женской аудитории.",
+    "zh-Hant": "美国电视频道",
+    "ar": "تي إل سي (كانت في الأصل فكرة مبدئية لاسم قناة التعلم هي قناة تلفزيونية أمريكية مدفوعة مملوكة لشركة ديسكفري ركزت القناة في البداية على المحتوى التعليمي والتعليمي، وبحلول أواخر التسعينات، بدأت الشبكة في التركيز في المقام الأول على سلسلة البرامج الواقعية التي تشمل أنماط الحياة والحياة الأسرية والقصص…",
+    "tr": "Amerikan TV kanalı",
+    "nl": "televisiezender",
+    "pl": "amerykański kanał telewizyjny (od 1980)",
+    "sv": "amerikansk TV-kanal",
+    "de": "US-amerikanischer Kabel-TV-Sender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TLC_(TV_network)",
+    "es": "https://es.wikipedia.org/wiki/TLC_(canal_de_televisi%C3%B3n)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/TLC_(%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93)",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+    "fr": "https://fr.wikipedia.org/wiki/TLC_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TLC_(canal_de_televis%C3%A3o)",
+    "ko": "https://ko.wikipedia.org/wiki/TLC_(%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)",
+    "it": "https://it.wikipedia.org/wiki/TLC_(Stati_Uniti_d'America)",
+    "ru": "https://ru.wikipedia.org/wiki/TLC_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/TLC_(%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%8A_%D8%A5%D9%84_%D8%B3%D9%8A_(%D9%82%D9%86%D8%A7%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/TLC_(televizyon_kanal%C4%B1)",
+    "nl": "https://nl.wikipedia.org/wiki/TLC_(televisiezender)",
+    "pl": "https://pl.wikipedia.org/wiki/TLC_(stacja_telewizyjna)",
+    "sv": "https://sv.wikipedia.org/wiki/TLC_(TV-kanal)",
+    "de": "https://de.wikipedia.org/wiki/TLC_(Fernsehsender)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TLC_Logo.svg?width=256",
+   "website": "https://www.tlc.com/",
+   "city": "Silver Spring"
   }
  ]
 }

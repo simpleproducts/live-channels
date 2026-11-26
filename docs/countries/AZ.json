@@ -1,0 +1,154 @@
+{
+ "schema": 2,
+ "code": "AZ",
+ "version": 2026112601,
+ "defaultTiles": [
+  "az.ictimaitv",
+  "az.aztv",
+  "az.bakutv"
+ ],
+ "channels": [
+  {
+   "id": "az.tvmusavat",
+   "name": "Tv Musavat",
+   "category": "news",
+   "languages": [
+    "az"
+   ],
+   "youtubeChannelId": "UCtvU8QAYnxFGCH7v9-dUOYw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q12847974",
+   "description": {
+    "en": "newspaper in Azerbaijan"
+   },
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Yeni_M%C3%BCsavat_%28q%C9%99zet%29.jpg?width=256",
+   "website": "https://www.musavat.com/",
+   "city": null
+  },
+  {
+   "id": "az.ictimaitv",
+   "name": "İCTİMAİ TV",
+   "category": "broadcast",
+   "languages": [
+    "az"
+   ],
+   "youtubeChannelId": "UCCYhaH52lUEmfUjX-_OBAHg",
+   "youtubeVideoId": "GaiAhlgcBdU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q343446",
+   "description": {
+    "en": "Azerbaijani public television station",
+    "es": "İctimai Televiziya və Radio Yayımları Şirkəti, más conocida por sus siglas İTV, es la empresa de radiodifusión pública de Azerbaiyán.",
+    "fr": "chaîne de télévision azerbaïdjanaise",
+    "pt-BR": "İctimai Televiziya və Radio Yayımları Şirkəti, ou İTV, é um canal público de televisão no Azerbaijão.",
+    "it": "ente radiotelevisivo pubblico azero",
+    "ru": "информационно-развлекательный телеканал Азербайджана",
+    "tr": "İctimai TV, Azerbaycan'da devletin parasal desteğiyle çalışan toplumsal televizyon kanalıdır.",
+    "nl": "İctimai is een Azerbeidzjaanse televisiezender.",
+    "pl": "publiczny nadawca radiowo-telewizyjny (Azerbejdżan; od 2005)",
+    "sv": "azerbajdzjansk tv-kanal",
+    "id": "İctimai Television atau İTV adalah sebuah saluran televisi publik di Azerbaijan.",
+    "de": "aserbaidschanischer Fernsehsender",
+    "ms": "elevisyen İctimai, secara rasminya Syarikat Siaran Radio dan Televisyen Awam, adalah saluran terestrial percuma Azerbaijan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/%C4%B0ctimai_Television",
+    "es": "https://es.wikipedia.org/wiki/%C4%B0ctimai_Televiziya",
+    "fr": "https://fr.wikipedia.org/wiki/%C4%B0ctimai_Televiziya",
+    "pt-BR": "https://pt.wikipedia.org/wiki/%C4%B0ctimai_Televiziya_v%C9%99_Radio_Yay%C4%B1mlar%C4%B1_%C5%9Eirk%C9%99ti",
+    "it": "https://it.wikipedia.org/wiki/%C4%B0ctimai_Televiziya_v%C9%99_Radio_Yay%C4%B1mlar%C4%B1_%C5%9Eirk%C9%99ti",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD)",
+    "tr": "https://tr.wikipedia.org/wiki/%C4%B0ctimai_TV",
+    "nl": "https://nl.wikipedia.org/wiki/%C4%B0ctimai",
+    "pl": "https://pl.wikipedia.org/wiki/%C4%B0ctimai_Televiziya_v%C9%99_Radio_Yay%C4%B1mlar%C4%B1_%C5%9Eirk%C9%99ti",
+    "sv": "https://sv.wikipedia.org/wiki/Ictimai_Televiziya",
+    "id": "https://id.wikipedia.org/wiki/%C4%B0ctimai_Televiziya",
+    "de": "https://de.wikipedia.org/wiki/%C4%B0ctimai_Televiziya_v%C9%99_Radio_Yay%C4%B1mlar%C4%B1_%C5%9Eirk%C9%99ti",
+    "ms": "https://ms.wikipedia.org/wiki/%C4%B0ctimai_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%C4%B0ctimai_TV_%282021%29.png?width=256",
+   "website": "https://itv.az/",
+   "city": "Baku"
+  },
+  {
+   "id": "az.aztv",
+   "name": "AZTV",
+   "category": "broadcast",
+   "languages": [
+    "az"
+   ],
+   "youtubeChannelId": "UCVf7OL0jKiO1OMHN_qaNf0w",
+   "youtubeVideoId": "cUO-7q6h_yY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q616799",
+   "description": {
+    "en": "state-controlled national television station in Azerbaijan",
+    "es": "canal de televisión pública azerbayana",
+    "zh-Hans": "媒体",
+    "fr": "Azərbaycan Televiziyası ou AzTV est une chaîne de télévision publique diffusée en Azerbaïdjan.",
+    "ko": "AzTV 또는 아제르바이잔 텔레비전(아제르바이잔어: Azərbaycan Televiziyası)은 아제르바이잔의 국영 텔레비전 방송국이다.",
+    "it": "ente televisivo pubblico azero",
+    "ru": "азербайджанский телеканал",
+    "zh-Hant": "媒体",
+    "tr": "AzTV, Azerbaycan'ın ilk millî televizyon ve radyo kanalıdır.",
+    "nl": "Azerbeidzjaanse televisiezender",
+    "pl": "AzTV – radio oraz telewizja w Azerbejdżanie.",
+    "sv": "Azerbajdzjan TeleVision, AzTV Azerbajdzjanska: Azərbaycan Televiziyası; förkortat AzTV), är ett nationellt televisionsbolag i Azerbajdzjan sina sändningar av television år 1956.",
+    "id": "Saluran Televisi di Azerbaijan",
+    "de": "aserbaidschanischer Fernsehsender",
+    "ms": "AzTV adalah saluran nasional Azerbaijan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/AzTV",
+    "es": "https://es.wikipedia.org/wiki/Az%C9%99rbaycan_Televiziya",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "fr": "https://fr.wikipedia.org/wiki/AzTV",
+    "ko": "https://ko.wikipedia.org/wiki/AzTV",
+    "it": "https://it.wikipedia.org/wiki/AzTV",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "tr": "https://tr.wikipedia.org/wiki/AzTV",
+    "nl": "https://nl.wikipedia.org/wiki/AzTV",
+    "pl": "https://pl.wikipedia.org/wiki/AzTV",
+    "sv": "https://sv.wikipedia.org/wiki/Azeri_TeleVision",
+    "id": "https://id.wikipedia.org/wiki/AzTV",
+    "ms": "https://ms.wikipedia.org/wiki/AzTV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/AzTV_%282019%29.png?width=256",
+   "website": "http://www.aztv.az/",
+   "city": "Baku"
+  },
+  {
+   "id": "az.bakutv",
+   "name": "Baku TV",
+   "category": "broadcast",
+   "languages": [
+    "az"
+   ],
+   "youtubeChannelId": "UCINwqO8Scgq___xJAVjfn7g",
+   "youtubeVideoId": "mbc_LfSzz-M",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q119252675",
+   "description": {
+    "en": "Azerbaijani television channel",
+    "fr": "chaîne de télévision azerbaïdjanaise",
+    "tr": "Azərbaycan televizyon kanalı",
+    "sv": "azerbajdzjansk TV-kanal",
+    "de": "aserbaidschanischer Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Baku_TV",
+    "tr": "https://tr.wikipedia.org/wiki/Baku_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Baku_TV_%282018%29.png?width=256",
+   "website": "https://baku.tv/",
+   "city": null
+  }
+ ]
+}

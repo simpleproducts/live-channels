@@ -1,0 +1,171 @@
+{
+ "schema": 2,
+ "code": "MA",
+ "version": 2026112601,
+ "defaultTiles": [
+  "ma.m24tv",
+  "ma.radiomars"
+ ],
+ "channels": [
+  {
+   "id": "ma.m24tv",
+   "name": "M24TV",
+   "category": "news",
+   "languages": [
+    "ar",
+    "fr"
+   ],
+   "youtubeChannelId": "UCxzxd8IK9u5WieWqRS7ULjw",
+   "youtubeVideoId": "IssB8zo3uM0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q110741266",
+   "description": {
+    "fr": "chaîne d’info en continu de Agence MAP"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.m24tv.ma/",
+   "city": null
+  },
+  {
+   "id": "ma.medradioofficiel",
+   "name": "MedRadio",
+   "category": "radio",
+   "languages": [
+    "ar",
+    "fr"
+   ],
+   "youtubeChannelId": "UCgEL_zmaQl_8FzOLscGIA-g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q25451081",
+   "description": {
+    "en": "radio station in Morocco",
+    "fr": "Med Radio est une station de radio généraliste privée marocaine, basée à Casablanca.",
+    "ar": "محطة راديو مغربية",
+    "de": "marokkanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/Med_Radio",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D8%AF_%D8%B1%D8%A7%D8%AF%D9%8A%D9%88"
+   },
+   "logo": null,
+   "website": "https://medradio.ma/",
+   "city": "الدار البيضاء"
+  },
+  {
+   "id": "ma.radiochadafm",
+   "name": "Radio Chada FM",
+   "category": "radio",
+   "languages": [
+    "ar",
+    "fr"
+   ],
+   "youtubeChannelId": "UCr_1Tio_MlHkWeEABoyg-QA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2947458",
+   "description": {
+    "en": "radio station in Morocco",
+    "fr": "radio privée",
+    "ar": "شدى إف إم هي إذاعة مغربية ، أسست في 13 من شتنبر 2006 ، توفر مجموعة من البرامج في إطار تقديم المعلومة والخدمات والترفيه، وتتميز بكونها إذاعة متعددة اللغات.",
+    "id": "stasiun radio",
+    "de": "marokkanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/Chada_FM",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B4%D8%AF%D9%89_%D8%A5%D9%81_%D8%A5%D9%85"
+   },
+   "logo": null,
+   "website": "https://chadafm.net/",
+   "city": null
+  },
+  {
+   "id": "ma.radiomars",
+   "name": "Radio Mars",
+   "category": "radio",
+   "languages": [
+    "ar",
+    "fr"
+   ],
+   "youtubeChannelId": "UCGBuA7vzbaAzrImRWmI8Iwg",
+   "youtubeVideoId": "503ccgqAGjM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3416731",
+   "description": {
+    "en": "Moroccan sports radio station",
+    "fr": "radio sportive privée marocaine",
+    "ar": "إذاعة مغربية متخصصة  في مجال كرة القدم",
+    "id": "stasiun radio",
+    "de": "marokkanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/Radio_Mars",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%AF%D9%8A%D9%88_%D9%85%D8%A7%D8%B1%D8%B3"
+   },
+   "logo": null,
+   "website": "https://www.radiomars.ma/",
+   "city": "الدار البيضاء"
+  },
+  {
+   "id": "ma.medinafm",
+   "name": "Medina FM",
+   "category": "radio",
+   "languages": [
+    "ar",
+    "fr"
+   ],
+   "youtubeChannelId": "UCZxvB2-FYGYt4DRNUF5EJsQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3304022",
+   "description": {
+    "en": "radio station in Morocco",
+    "fr": "Medina FM Radio est une station radiophonique privée marocaine, basée à Meknès.",
+    "ar": "مدينة إف إم هي محطة إذاعية مغربية خاصة، يقع مقرها في مدينة مكناس.",
+    "id": "stasiun radio di Maroko",
+    "de": "marokkanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/Medina_FM",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A5%D9%81_%D8%A5%D9%85_(%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9)"
+   },
+   "logo": null,
+   "website": "https://medinafm.ma/",
+   "city": null
+  },
+  {
+   "id": "ma.radioaswat",
+   "name": "Radio Aswat",
+   "category": "radio",
+   "languages": [
+    "ar",
+    "fr"
+   ],
+   "youtubeChannelId": "UC1qvMMpzeoZoogITNnIYtMA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2868676",
+   "description": {
+    "en": "Radio station in Morocco",
+    "fr": "Station de radio privée marocaine",
+    "ar": "راديو أصوات هي إذاعة مغربية، تهتم بشكل كبير بأمور الجالية المغربية في جميع أنحاء العالم وكذلك مستمعي المملكة المغربية، فالإذاعة تبث عدة برامج منها «صحاب الطريق» إبتداءا من السادسة صباحا الذي يهتم بأمور السائقين وأحوالهم وكذلك برنامج «ناس الصباح» وهو عبارة عن برنامج ترفيهي يحتوي على مجموعة من الفق…",
+    "id": "stasiun radio",
+    "de": "marokkanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "fr": "https://fr.wikipedia.org/wiki/Radio_Aswat",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%AF%D9%8A%D9%88_%D8%A3%D8%B5%D9%88%D8%A7%D8%AA"
+   },
+   "logo": null,
+   "website": "http://radioaswat.ma/",
+   "city": null
+  }
+ ]
+}

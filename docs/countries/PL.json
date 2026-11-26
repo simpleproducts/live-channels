@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026112417,
+ "version": 2026112601,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
@@ -147,6 +147,63 @@
    "city": "Warszawa"
   },
   {
+   "id": "pl.vottak",
+   "name": "ВОТ ТАК",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UCSqO8lV-ric7ow5G5q9roWw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q134391702",
+   "description": {
+    "ru": "Польский телеканал и веб-ресурс на русском языке",
+    "pl": "Vot Tak – rosyjskojęzyczny kanał informacyjno-publicystyczny i portal internetowy Telewizji Polskiej, działający w ramach Ośrodka Mediów dla Zagranicy."
+   },
+   "wikipedia": {
+    "ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%82_%D0%A2%D0%B0%D0%BA_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "pl": "https://pl.wikipedia.org/wiki/Vot_Tak_(telewizja)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vot_Tak_1.jpg?width=256",
+   "website": "https://vot-tak.tv/",
+   "city": "Warszawa"
+  },
+  {
+   "id": "pl.life",
+   "name": "БЕЛСАТ LIFE",
+   "category": "broadcast",
+   "languages": [
+    "be"
+   ],
+   "youtubeChannelId": "UCa1QVip2HeQwoXENc98QTFQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q187409",
+   "description": {
+    "en": "Polish television station for Belarus",
+    "es": "emisora de televisión polaca dirigida a Bielorrusia",
+    "fr": "station de télévision en langue biélorusse basée en Pologne",
+    "it": "rete televisiva polacca",
+    "ru": "польский спутниковый телеканал, вещающий в основном на белорусском языке",
+    "pl": "polska stacja telewizyjna dla Białorusi (2007–)",
+    "de": "polnischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Belsat",
+    "fr": "https://fr.wikipedia.org/wiki/Bielsat_TV",
+    "it": "https://it.wikipedia.org/wiki/Bie%C5%82sat_TV",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%81%D0%B0%D1%82",
+    "pl": "https://pl.wikipedia.org/wiki/Belsat",
+    "de": "https://de.wikipedia.org/wiki/Belsat_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotypy_1920k_tvpbelsat.svg?width=256",
+   "website": "http://www.belsat.eu",
+   "city": "Warszawa"
+  },
+  {
    "id": "pl.sejm",
    "name": "Sejm RP",
    "category": "government",
@@ -201,6 +258,44 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sejm_RP_logo_and_wordmark.svg?width=256",
    "website": "https://sejm.gov.pl",
    "city": "Śródmieście"
+  },
+  {
+   "id": "pl.tvpsport",
+   "name": "TVP Sport",
+   "category": "sports",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCalwFtq-BVcszKLZ5k2vbLw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1026357",
+   "description": {
+    "en": "television station",
+    "es": "TVP Sport es un canal de televisión público de Polonia, perteneciente a TVP.",
+    "zh-Hans": "波蘭電視台體育頻道 是波蘭電視台一條於2006年開播的電視頻道，主要播放全球各類體育賽事。這條頻道在2010年改用 16:9 比例播出，並於2014年正式開播高清電視訊號。",
+    "fr": "station de télévision",
+    "it": "rete televisiva polacca",
+    "ru": "польский телеканал",
+    "zh-Hant": "波蘭電視台體育頻道 是波蘭電視台一條於2006年開播的電視頻道，主要播放全球各類體育賽事。這條頻道在2010年改用 16:9 比例播出，並於2014年正式開播高清電視訊號。",
+    "pl": "polska publiczna stacja telewizyjna (2006–)",
+    "de": "Polnischer Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TVP_Sport",
+    "es": "https://es.wikipedia.org/wiki/TVP_Sport",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E8%98%AD%E9%9B%BB%E8%A6%96%E5%8F%B0%E9%AB%94%E8%82%B2%E9%A0%BB%E9%81%93",
+    "fr": "https://fr.wikipedia.org/wiki/TVP_Sport",
+    "it": "https://it.wikipedia.org/wiki/TVP_Sport",
+    "ru": "https://ru.wikipedia.org/wiki/TVP_Sport",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B3%A2%E8%98%AD%E9%9B%BB%E8%A6%96%E5%8F%B0%E9%AB%94%E8%82%B2%E9%A0%BB%E9%81%93",
+    "pl": "https://pl.wikipedia.org/wiki/TVP_Sport",
+    "de": "https://de.wikipedia.org/wiki/TVP_Sport"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVP_Sport_%282021%29.svg?width=256",
+   "website": "https://sport.tvp.pl/",
+   "city": "Warszawa"
   },
   {
    "id": "pl.kanalzero",
@@ -297,6 +392,67 @@
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "pl.europeanradioforbelarus",
+   "name": "Еўрарадыё",
+   "category": "radio",
+   "languages": [
+    "be"
+   ],
+   "youtubeChannelId": "UC1v_dekbxqgQjBQ2fg39uBg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1374265",
+   "description": {
+    "en": "radio station",
+    "fr": "La Radio européenne pour la Biélorussie est une station de radio émettant à destination des populations biélorusses.",
+    "it": "stazione radiofonica bielorussa",
+    "ru": "«Европе́йское ра́дио для Беларуси» (Еврорадио) — радиостанция, основанная в сентябре 2005 года в Варшаве.",
+    "pl": "stacja radiowa",
+    "id": "stasiun radio",
+    "de": "polnischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/European_Radio_for_Belarus",
+    "fr": "https://fr.wikipedia.org/wiki/Radio_europ%C3%A9enne_pour_la_Bi%C3%A9lorussie",
+    "it": "https://it.wikipedia.org/wiki/Radio_europea_per_la_Bielorussia",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D0%B4%D0%BB%D1%8F_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8",
+    "pl": "https://pl.wikipedia.org/wiki/Europejskie_Radio_dla_Bia%C5%82orusi",
+    "de": "https://de.wikipedia.org/wiki/Eurapejskaje_Radyjo_dlja_Belarussi"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D1%8F%D0%B3%D0%B0%D1%82%D1%8B%D0%BF_%D0%95%D1%9E%D1%80%D0%B0%D1%80%D0%B0%D0%B4%D1%8B%D1%91.svg?width=256",
+   "website": "https://euroradio.fm/",
+   "city": "Warszawa"
+  },
+  {
+   "id": "pl.radiownet",
+   "name": "Radio WNET",
+   "category": "radio",
+   "languages": [
+    "pl"
+   ],
+   "youtubeChannelId": "UCMA-v2JV_9ZYNoY4uY4mRWA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q9302326",
+   "description": {
+    "en": "radio station in Warsaw",
+    "fr": "station de radio polonaise",
+    "it": "stazione radiofonica polacca",
+    "pl": "polska stacja radiowa",
+    "id": "stasiun radio di Polandia",
+    "de": "polnischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_Wnet",
+    "pl": "https://pl.wikipedia.org/wiki/Radio_Wnet"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Wnet.png?width=256",
+   "website": "https://wnet.fm/",
+   "city": "Warszawa"
   }
  ]
 }

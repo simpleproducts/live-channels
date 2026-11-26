@@ -1,0 +1,11 @@
+{
+ "code": "KZ",
+ "languages": ["kk", "ru"],
+ "defaultTiles": ["24kz", "1612"],
+ "channels": [
+  {"id": "24kz", "name": "24KZ", "category": "news", "youtubeChannelId": "UCnAFKvDuqBGkIfV8Vn0J_CQ", "youtubeVideoId": "zZrslgu3260", "embeddable": true, "live": true, "liveSince": "2026-11-21T00:00:00Z", "languages": ["kk", "ru"], "wikidata": "Q4030316"},
+  {"id": "1612", "name": "16/12", "category": "news", "youtubeChannelId": "UC6wZggQydceHuEwIT5GUgBA", "live": false, "languages": ["ru"], "wikidata": "Q17317619"},
+  {"id": "qazaqstantv", "name": "Qazaqstan TV", "category": "broadcast", "youtubeChannelId": "UCg7YNHS1ld_LBCupWa1I_AQ", "youtubeVideoId": "4mS98wFcHKQ", "embeddable": true, "live": true, "liveSince": "2026-09-02T00:00:00Z", "languages": ["kk"], "wikidata": "Q1388078"},
+  {"id": "qazsporttvtv", "name": "QAZSPORT TV", "category": "sports", "youtubeChannelId": "UC5H6wThXeNmhScP-eJgyDQA", "live": false, "wikidata": "Q15779281"}
+ ]
+}

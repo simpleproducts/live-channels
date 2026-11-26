@@ -14,6 +14,7 @@
   {"id": "mega", "name": "Mega", "category": "broadcast", "youtubeChannelId": "UCEpId-jtRABuZyX6D2z6FZQ", "youtubeVideoId": "i468Mcj14Kc", "embeddable": true, "live": true, "liveSince": "2026-11-25T09:04:22Z"},
   {"id": "canal13", "name": "Canal 13", "category": "broadcast", "youtubeChannelId": "UCd4D3LfXC_9MY2zSv_3gMgw", "youtubeVideoId": "Q4i2s1cs9Hc", "embeddable": true, "live": true, "liveSince": "2026-11-25T10:51:02Z", "wikidata": "Q600805"},
   {"id": "tvmas", "name": "TV+", "category": "broadcast", "youtubeChannelId": "UCZnboDa_k5jxFCGp6jVhpUQ", "youtubeVideoId": "-GOuDV8ZyBw", "embeddable": true, "live": false, "wikidata": "Q3547157"},
+  {"id": "los40chile", "name": "Los40 Chile", "category": "broadcast", "youtubeChannelId": "UCdrMBPlRp8mzz1YWO1revxA", "live": false, "wikidata": "Q5979248"},
   {"id": "senado", "name": "Senado de Chile", "category": "government", "youtubeChannelId": "UC4GJ43VNn4AYfiYa0RBCHQg", "youtubeVideoId": "Fxsd4UYqFAU", "embeddable": true, "live": true, "liveSince": "2026-10-20T18:34:14Z", "wikidata": "Q2119458"},
   {"id": "camara", "name": "Cámara de Diputados de Chile", "category": "government", "youtubeChannelId": "UCYd5k2TyOyOmUJNx0SH17KA", "youtubeVideoId": "4hVCjV93_Bk", "embeddable": true, "live": true, "liveSince": "2026-11-25T11:57:47Z", "wikidata": "Q2119518"},
   {"id": "adn", "name": "ADN Radio Chile", "category": "radio", "youtubeChannelId": "UCczkrFICr0xEgDsk51zZojA", "youtubeVideoId": "B0xp8jPr5IY", "embeddable": true, "live": true, "liveSince": "2026-11-25T11:59:35Z", "wikidata": "Q5653556"},
@@ -24,6 +25,7 @@
   {"id": "futuro", "name": "Radio Futuro", "category": "radio", "youtubeChannelId": "UC4ZQZFCySssx8rM21sZ5z4A", "youtubeVideoId": "9duOPvAiOO4", "embeddable": true, "live": false, "languages": ["es"]},
   {"id": "pudahuel", "name": "Radio Pudahuel", "category": "radio", "youtubeChannelId": "UCoWsL-wFoohh78hRo_eZARA", "youtubeVideoId": "wuJr40i_a7k", "embeddable": true, "live": true, "liveSince": "2026-11-25T11:59:28Z", "languages": ["es"]},
   {"id": "concierto", "name": "Radio Concierto", "category": "radio", "youtubeChannelId": "UCnN6wrS3nloRl0xB6Qglb0g", "youtubeVideoId": "lh4SabNxCQY", "embeddable": true, "live": false, "languages": ["es"]},
-  {"id": "rockandpop", "name": "Rock & Pop", "category": "radio", "youtubeChannelId": "UC49MwUzUI2dF_phYTg7mBXw", "youtubeVideoId": "nEBxxIehG3s", "embeddable": true, "live": false, "languages": ["es"]}
+  {"id": "rockandpop", "name": "Rock & Pop", "category": "radio", "youtubeChannelId": "UC49MwUzUI2dF_phYTg7mBXw", "youtubeVideoId": "nEBxxIehG3s", "embeddable": true, "live": false, "languages": ["es"]},
+  {"id": "subela", "name": "SÚBELA", "category": "radio", "youtubeChannelId": "UC2XAmdUgYy23fkg5nC6Spag", "live": false, "wikidata": "Q17462578"}
  ]
 }

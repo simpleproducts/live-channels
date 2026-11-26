@@ -1,0 +1,100 @@
+{
+ "schema": 2,
+ "code": "GR",
+ "version": 2026112601,
+ "defaultTiles": [
+  "gr.open",
+  "gr.enachannelgreece",
+  "gr.besttv",
+  "gr.4etv"
+ ],
+ "channels": [
+  {
+   "id": "gr.open",
+   "name": "OPEN",
+   "category": "broadcast",
+   "languages": [
+    "el"
+   ],
+   "youtubeChannelId": "UCllCEPTcZ_GplDaFsdq_utA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q19571549",
+   "description": {
+    "en": "Greek television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Open_TV"
+   },
+   "logo": null,
+   "website": "https://www.tvopen.gr",
+   "city": "Athens"
+  },
+  {
+   "id": "gr.enachannelgreece",
+   "name": "ENA CHANNEL GREECE",
+   "category": "regional",
+   "languages": [
+    "el"
+   ],
+   "youtubeChannelId": "UC_E3ROtebnZXH708dOeBgDQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q22026457",
+   "description": {
+    "en": "television station in Greece"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ENA_Channel"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ena_Channel_Kavala_logo.png?width=256",
+   "website": "https://enachannel.gr",
+   "city": null
+  },
+  {
+   "id": "gr.besttv",
+   "name": "BEST TV",
+   "category": "regional",
+   "languages": [
+    "el"
+   ],
+   "youtubeChannelId": "UCTVXGD32pMoSWnbRhHAEh6g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q127123914",
+   "description": {
+    "de": "griechischer Fernsehsender"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://best-tv.gr/",
+   "city": "Kalamata"
+  },
+  {
+   "id": "gr.4etv",
+   "name": "4E TV",
+   "category": "religious",
+   "languages": [
+    "el"
+   ],
+   "youtubeChannelId": "UCme3CT1jvhMFAHDhY589Eyw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4638896",
+   "description": {
+    "en": "Greek orthodox television",
+    "de": "griechischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/4E_TV"
+   },
+   "logo": null,
+   "website": "http://www.tv4e.gr",
+   "city": null
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "jp.fnn",
   "jp.weathernews",
@@ -343,6 +343,63 @@
    "city": "大阪市"
   },
   {
+   "id": "jp.theasahishimbuncompany",
+   "name": "朝日新聞",
+   "category": "news",
+   "languages": [
+    "ja",
+    "en"
+   ],
+   "youtubeChannelId": "UCMKvT0YVLufHMdGLH89J1oA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q720503",
+   "description": {
+    "en": "Japanese newspaper",
+    "es": "periódico japonés",
+    "zh-Hans": "日本傳媒",
+    "ja": "日本の新聞",
+    "fr": "un des grands quotidiens nationaux japonais fondé en 1879",
+    "pt-BR": "jornal japonês",
+    "ko": "일본의 종합 일간지",
+    "it": "giornale",
+    "ru": "японская газета",
+    "zh-Hant": "日本傳媒",
+    "ar": "صحيفة أساهي أو هي أحد أشهر خمسة صحف في اليابان.",
+    "tr": "gazete",
+    "nl": "Japanse krant",
+    "pl": "Asahi Shimbun – japońska gazeta wydawana w Tokio, Osace, Nagoi i kilku innych głównych miastach Japonii.",
+    "sv": "Asahi Shimbun är en av de tre största japanska dagstidningarna.",
+    "id": "Asahi Shimbun (朝日新聞) adalah surat kabar nasional Jepang yang diterbitkan oleh penerbit The Asahi Shimbun.",
+    "de": "zweitgrößte Zeitung Japans",
+    "ms": "Asahi Shimbun adalah salah satu daripada akhbar di Jepun."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Asahi_Shimbun",
+    "es": "https://es.wikipedia.org/wiki/Asahi_Shimbun",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E",
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E",
+    "fr": "https://fr.wikipedia.org/wiki/Asahi_shinbun",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Asahi_Shimbun",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%95%84%EC%82%AC%ED%9E%88_%EC%8B%A0%EB%AC%B8",
+    "it": "https://it.wikipedia.org/wiki/Asahi_Shinbun",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D0%B0%D1%85%D0%B8_%D1%81%D0%B8%D0%BC%D0%B1%D1%83%D0%BD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9_%D8%A3%D8%B3%D8%A7%D9%87%D9%8A",
+    "tr": "https://tr.wikipedia.org/wiki/Asahi_Shimbun",
+    "nl": "https://nl.wikipedia.org/wiki/Asahi_Shimbun",
+    "pl": "https://pl.wikipedia.org/wiki/Asahi_Shimbun",
+    "sv": "https://sv.wikipedia.org/wiki/Asahi_Shimbun",
+    "id": "https://id.wikipedia.org/wiki/Asahi_Shimbun",
+    "de": "https://de.wikipedia.org/wiki/Asahi_Shimbun",
+    "ms": "https://ms.wikipedia.org/wiki/Asahi_Shimbun"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Asahi_Shimbun_logo.svg?width=256",
+   "website": "http://www.asahi.com",
+   "city": "大阪市"
+  },
+  {
    "id": "jp.tvtokyobiz",
    "name": "テレ東BIZ",
    "category": "economy",
@@ -606,6 +663,300 @@
    "city": null
   },
   {
+   "id": "jp.chibatelevisionbroadcast",
+   "name": "チバテレ",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCMoWRXDR4-S_R8479Ru0HjQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1071746",
+   "description": {
+    "en": "television station in Chiba Prefecture, Japan",
+    "es": "Chiba Television broadcasting Corporation (CTC) hace negocios con el nombre Chiba TV , es una empresa japonesa de radiodifusión comercial de televisión terrestre con sede en 11-25 Miyako-chō 1-chōme, Chūō-ku, Chiba; y aunque su sede de operaciones está ubicada en la prefectura de Chiba, su señal…",
+    "zh-Hans": "日本千葉縣電視台",
+    "ja": "千葉県の独立系民放テレビ局",
+    "fr": "chaîne de télévision japonaise dont le siège social est basé à Chūō-ku, Chiba",
+    "pt-BR": "Chiba Television Broadcasting Corporation (CTC) , conhecida como Chiba TV (チバテレビ), é um canal de televisão japonês.",
+    "ko": "지바 TV는 1971년 5월 1일 지바현의 독립 UHF 방송국으로 개국했다.",
+    "it": "rete televisiva giapponese",
+    "ru": "Chiba Television broadcasting Corporation (CTC) (яп.",
+    "zh-Hant": "日本千葉縣電視台",
+    "pl": "Chiba TV – japońska stacja telewizyjna, założona w 1970 roku.",
+    "id": "Perusahaan Penyiaran Televisi Chiba , yang lebih dikenal sebagai Chiba TV (チバテレビ), adalah sebuah perusahaan penyiaran televisi terestrial komersial Jepang yang bermarkas besar di 11-25 Miyako-chō 1-chōme, Chūō-ku, Chiba.",
+    "de": "japanischer Fernsehsender",
+    "ms": "Chiba Television broadcasting Corporation (CTC) , juga dikenali dalam bidang korporat sebagai Chiba TV (チバテレビ), ialah sebuah syarikat penyiaran televisyen terestrial komersial Jepun yang terletak di 11-25 Miyako-chō 1-chōme, Chiba yang menyiarkan saluran mereka di bahagian Chiba."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Chiba_Television_Broadcasting",
+    "es": "https://es.wikipedia.org/wiki/Chiba_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%83%E8%91%89%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E3%83%86%E3%83%AC%E3%83%93%E6%94%BE%E9%80%81",
+    "fr": "https://fr.wikipedia.org/wiki/Chiba_TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Chiba_TV",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A7%80%EB%B0%94_TV",
+    "it": "https://it.wikipedia.org/wiki/Chiba_TV",
+    "ru": "https://ru.wikipedia.org/wiki/Chiba_TV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%83%E8%91%89%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "pl": "https://pl.wikipedia.org/wiki/Chiba_TV",
+    "id": "https://id.wikipedia.org/wiki/Chiba_Television_Broadcasting",
+    "de": "https://de.wikipedia.org/wiki/Chiba_TV",
+    "ms": "https://ms.wikipedia.org/wiki/Chiba_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiba_TV_logo.svg?width=256",
+   "website": "https://www.chiba-tv.com/",
+   "city": "中央区"
+  },
+  {
+   "id": "jp.news",
+   "name": "テレビ金沢NEWS",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q843432",
+   "description": {
+    "en": "company",
+    "zh-Hans": "株式會社金澤電視台 是日本的一家以石川縣為放送地域的電視臺。簡稱為KTK。呼出訊號為JOWX-DTV，是日本電視臺聯播網NNN·NNS的成員。開播于1990年4月1日，2006年7月1日起，開始播出數位電視訊號。",
+    "ja": "石川県の日本テレビ系列局",
+    "ko": "TV 가나자와는 1990년 4월 1일 이시카와현의 3번째 민영방송국으로 개국했다.",
+    "zh-Hant": "株式會社金澤電視台 是日本的一家以石川縣為放送地域的電視臺。簡稱為KTK。呼出訊號為JOWX-DTV，是日本電視臺聯播網NNN·NNS的成員。開播于1990年4月1日，2006年7月1日起，開始播出數位電視訊號。",
+    "ar": "شركة يابانية",
+    "tr": "şirket",
+    "nl": "bedrijf uit Japan",
+    "id": "Stasiun televisi lokal di Prefektur Ishikawa, Jepang",
+    "de": "japanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Kanazawa",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%87%91%E6%BE%A4%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%93%E9%87%91%E6%B2%A2",
+    "ko": "https://ko.wikipedia.org/wiki/TV_%EA%B0%80%EB%82%98%EC%9E%90%EC%99%80",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%87%91%E6%BE%A4%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "id": "https://id.wikipedia.org/wiki/TV_Kanazawa"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ktk_logo.svg?width=256",
+   "website": "https://www.tvkanazawa.co.jp/",
+   "city": "石川県"
+  },
+  {
+   "id": "jp.mro",
+   "name": "MRO北陸放送",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCF5te9Y8oBT7oVJNyQkhWWQ",
+   "youtubeVideoId": "JO_1dwOwE2w",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q843469",
+   "description": {
+    "en": "Radio/TV Broadcasting station in Ishikawa Prefecture, Japan",
+    "zh-Hans": "北陸放送株式會社，通稱北陸放送，簡稱MRO，是日本的一家以石川縣為播出地域的電視台和廣播電台。北陸放送的廣播服務開始于1952年5月10日，識別呼號是JOMR，是JRN及NRN成員；電視服務開始于1958年12月1日，並且自2006年7月1日開始播出數位電視，是TBS電視台系列聯播網JNN成員，識別呼號是JOMR-DTV，遙控器號碼是6頻道。北陸放送總部位於石川縣金澤市本多町三丁目2番1号。",
+    "ja": "石川県のTBSテレビ（JNN）系列局、及びJRN・NRN系列ラジオ局",
+    "ko": "호쿠리쿠방송(일본어: 北陸放送)은 이시카와현에서 처음 개국한 라디오·텔레비전 겸영 방송국으로 라디오 방송국은 1952년 5월 10일에, 텔레비전 방송국은 1958년 12월 1일 개국했다.",
+    "zh-Hant": "北陸放送株式會社，通稱北陸放送，簡稱MRO，是日本的一家以石川縣為播出地域的電視台和廣播電台。北陸放送的廣播服務開始于1952年5月10日，識別呼號是JOMR，是JRN及NRN成員；電視服務開始于1958年12月1日，並且自2006年7月1日開始播出數位電視，是TBS電視台系列聯播網JNN成員，識別呼號是JOMR-DTV，遙控器號碼是6頻道。北陸放送總部位於石川縣金澤市本多町三丁目2番1号。",
+    "ar": "شركة يابانية",
+    "nl": "bedrijf uit Japan",
+    "de": "japanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Hokuriku_Broadcasting",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8C%97%E9%99%B8%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%99%B8%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%98%B8%EC%BF%A0%EB%A6%AC%EC%BF%A0_%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8C%97%E9%99%B8%E6%94%BE%E9%80%81"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/MRO_logo_2022.svg?width=256",
+   "website": "https://www.mro.co.jp/",
+   "city": "石川県"
+  },
+  {
+   "id": "jp.nankaibroadcasting",
+   "name": "南海放送",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCInyVB_TFV16f0yoqKa3Ftg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q843695",
+   "description": {
+    "en": "company",
+    "zh-Hans": "南海放送株式會社，通稱南海放送、RNB，是日本的一家以愛媛縣為播出範圍的廣電兼營台，也是愛媛縣唯一的廣電兼營台。南海放送的廣播服務於1953年10月1日開播，識別呼號為JOAF，是JRN和NRN聯播網成員。電視服務於1958年12月1日開播，識別呼號為JOAF-DTV，遙控器號碼是4頻道，是NNN及NNS聯播網成員。",
+    "ja": "愛媛県の日本テレビ系列局、及びJRN・NRN系列ラジオ局",
+    "ko": "에히메현을 가시청권역으로 하는 방송국",
+    "zh-Hant": "南海放送株式會社，通稱南海放送、RNB，是日本的一家以愛媛縣為播出範圍的廣電兼營台，也是愛媛縣唯一的廣電兼營台。南海放送的廣播服務於1953年10月1日開播，識別呼號為JOAF，是JRN和NRN聯播網成員。電視服務於1958年12月1日開播，識別呼號為JOAF-DTV，遙控器號碼是4頻道，是NNN及NNS聯播網成員。",
+    "ar": "شركة يابانية",
+    "tr": "şirket",
+    "nl": "bedrijf uit Japan",
+    "id": "Nankai Broadcasting Co., Ltd , juga disebut sebagai RNB, adalah jaringan penyiaran Jepang yang berafiliasi dengan Nippon News Network (NNN).",
+    "de": "japanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Nankai_Broadcasting",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%8D%97%E6%B5%B7%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B5%B7%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%82%9C%EC%B9%B4%EC%9D%B4_%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%8D%97%E6%B5%B7%E6%94%BE%E9%80%81",
+    "id": "https://id.wikipedia.org/wiki/Nankai_Broadcasting"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rnb_logo.svg?width=256",
+   "website": "https://www.rnb.co.jp/",
+   "city": "松山市"
+  },
+  {
+   "id": "jp.tbc",
+   "name": "tbc東北放送",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCFUbielypfKRLADGekw0TnA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q843723",
+   "description": {
+    "en": "Sendai, Japan, TV/radio station",
+    "zh-Hans": "東北放送株式會社，通稱東北放送，簡稱TBC，是日本一家以宮城縣為播出區域的廣播公司，東北放送是宮城縣內唯一的廣電兼營台，同時提供AM電台廣播及電視廣播服務。東北放送的電台服務開始於1952年5月1日，為JRN和NRN聯播網成員，識別呼號是JOIR（仙台）和JOIO（氣仙沼）。電視服務開始於1959年4月1日，為JNN聯播網的成員，識別呼號是JOIR-DTV，遙控器號碼是1頻道。",
+    "ja": "宮城県のTBSテレビ系列局、およびJRN・NRN系列ラジオ局",
+    "ko": "도호쿠 방송은 미야기현에 처음 세워진 민영 방송국으로 라디오 방송국은 1952년 5월 1일, 텔레비전 방송국은 1959년 4월 1일 개국했다.",
+    "zh-Hant": "東北放送株式會社，通稱東北放送，簡稱TBC，是日本一家以宮城縣為播出區域的廣播公司，東北放送是宮城縣內唯一的廣電兼營台，同時提供AM電台廣播及電視廣播服務。東北放送的電台服務開始於1952年5月1日，為JRN和NRN聯播網成員，識別呼號是JOIR（仙台）和JOIO（氣仙沼）。電視服務開始於1959年4月1日，為JNN聯播網的成員，識別呼號是JOIR-DTV，遙控器號碼是1頻道。",
+    "ar": "شركة يابانية",
+    "nl": "bedrijf uit Japan",
+    "de": "japanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Tohoku_Broadcasting_Company",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9D%B1%E5%8C%97%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8F%84%ED%98%B8%EC%BF%A0_%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9D%B1%E5%8C%97%E6%94%BE%E9%80%81"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TBC_logo_%282020%29.svg?width=256",
+   "website": "https://www.tbc-sendai.co.jp/",
+   "city": "仙台市"
+  },
+  {
+   "id": "jp.ksb",
+   "name": "KSB瀬戸内海放送",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCH9jlbggZY_mRx7Q0k49TuQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q843734",
+   "description": {
+    "en": "company",
+    "zh-Hans": "株式會社瀨戶內海放送 開播于1969年4月1日。其總部位于香川縣高松市和岡山縣岡山市，播出地域為岡山縣和香川縣。簡稱KSB。英文名稱Setonaikai Broadcasting Co.Ltd.。呼出訊號為JOVH-DTV。為朝日電視台系列聯播網ANN的成員。",
+    "ja": "岡山県・香川県のテレ朝系列局",
+    "ko": "세토나이카이 방송은 1969년 4월 1일 가가와현의 2번째 민영방송국으로 개국했다가 오카야마현과의 방송구역 광역화로 1979년 4월 1일부터 오카야마현에서도 방송을 시작했다.",
+    "zh-Hant": "株式會社瀨戶內海放送 開播于1969年4月1日。其總部位于香川縣高松市和岡山縣岡山市，播出地域為岡山縣和香川縣。簡稱KSB。英文名稱Setonaikai Broadcasting Co.Ltd.。呼出訊號為JOVH-DTV。為朝日電視台系列聯播網ANN的成員。",
+    "ar": "شركة يابانية",
+    "tr": "şirket",
+    "nl": "bedrijf uit Japan"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Setonaikai_Broadcasting",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%80%A8%E6%88%B6%E5%85%A7%E6%B5%B7%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%84%B8%ED%86%A0%EB%82%98%EC%9D%B4%EC%B9%B4%EC%9D%B4_%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%80%A8%E6%88%B6%E5%85%A7%E6%B5%B7%E6%94%BE%E9%80%81"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KSB_logo_2020.svg?width=256",
+   "website": "https://www.ksb.co.jp/",
+   "city": "高松市"
+  },
+  {
+   "id": "jp.suntelevision",
+   "name": "サンテレビ",
+   "category": "regional",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCoslznRuvXIAriI5z51-DPg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q328268",
+   "description": {
+    "en": "Japanese commercial TV station in Kobe, Hyogo Prefecture",
+    "es": "Sun Television Co.",
+    "zh-Hans": "日本兵庫縣電視台",
+    "ja": "兵庫県の独立系民放テレビ局",
+    "fr": "chaîne de télévision commerciale basée à Kōbe, Préfecture de Hyōgo au Japon",
+    "pt-BR": "Sun Television Co.",
+    "ko": "효고 현 독립 텔레비전 방송사",
+    "it": "rete televisiva giapponese",
+    "zh-Hant": "日本兵庫縣電視台",
+    "ar": "قناة بث يابانية",
+    "tr": "Sun Television, Japonya merkezli bir bağımsız televizyon ağıdır.",
+    "pl": "Sun TV – japońska stacja telewizyjna.",
+    "sv": "japansk TV-station baserad i Kobe",
+    "id": "Sun Television Co.",
+    "de": "japanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sun_Television",
+    "es": "https://es.wikipedia.org/wiki/Sun_Television",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/SUN%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3",
+    "fr": "https://fr.wikipedia.org/wiki/Sun_Television",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Sun_Television",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%84%A0_TV",
+    "it": "https://it.wikipedia.org/wiki/Sun_Television",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/SUN%E9%9B%BB%E8%A6%96%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D9%86_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86",
+    "tr": "https://tr.wikipedia.org/wiki/Sun_Television",
+    "pl": "https://pl.wikipedia.org/wiki/Sun_TV",
+    "sv": "https://sv.wikipedia.org/wiki/Sun_Television",
+    "id": "https://id.wikipedia.org/wiki/Sun_Television",
+    "de": "https://de.wikipedia.org/wiki/Sun_Television"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/SUN-TV_wordmark_2019.png?width=256",
+   "website": "https://sun-tv.co.jp/",
+   "city": "神戸駅前JUSTスクエア"
+  },
+  {
+   "id": "jp.gaorasports",
+   "name": "GAORA SPORTS",
+   "category": "sports",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCc8GvFE9z3j6vphwhGpyjMQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q11200860",
+   "description": {
+    "en": "television channel",
+    "ja": "日本のCSテレビ放送",
+    "ar": "شركة"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Gaora",
+    "ja": "https://ja.wikipedia.org/wiki/GAORA"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/GAORA_SPORTS_logo.svg?width=256",
+   "website": "https://www.gaora.co.jp/",
+   "city": "北区"
+  },
+  {
    "id": "jp.tbsradio",
    "name": "TBS Radio",
    "category": "radio",
@@ -639,6 +990,94 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TBS_Radio_2020_logo.svg?width=256",
    "website": "https://www.tbsradio.jp/",
    "city": "港区"
+  },
+  {
+   "id": "jp.interfm",
+   "name": "interfm",
+   "category": "radio",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCKIaAZrcBJvCTCoBv2K6VLg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q843755",
+   "description": {
+    "en": "Japanese radio station",
+    "zh-Hans": "日本FM廣播電台",
+    "ja": "東京都の民間放送FMラジオ局",
+    "ko": "FM인터웨이브는 일본의 FM라디오 방송국으로 간토광역권의 외국어 방송구역인 도쿄 23구·사이타마 시·지바 시·요코하마 시·가와사키 시·나리타 국제공항에서 방송을 실시하고 있다.",
+    "zh-Hant": "日本FM廣播電台",
+    "id": "stasiun radio",
+    "de": "japanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/InterFM",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/InterFM897",
+    "ja": "https://ja.wikipedia.org/wiki/InterFM897",
+    "ko": "https://ko.wikipedia.org/wiki/FM%EC%9D%B8%ED%84%B0%EC%9B%A8%EC%9D%B4%EB%B8%8C",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/InterFM897"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/InterFM_Logo_2022.svg?width=256",
+   "website": "https://www.interfm.co.jp/",
+   "city": "品川区"
+  },
+  {
+   "id": "jp.abc",
+   "name": "ABCラジオ",
+   "category": "radio",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UCiUISLbVeo45aIQry4Zlr1w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q11188791",
+   "description": {
+    "en": "Japanese radio station",
+    "zh-Hans": "朝日放送集團控股旗下的調幅廣播業者",
+    "ja": "近畿広域圏のJRN・NRN系列ラジオ局、朝日放送グループホールディングス中核企業",
+    "zh-Hant": "朝日放送集團控股旗下的調幅廣播業者",
+    "de": "japanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9C%9D%E6%97%A5%E6%94%BE%E9%80%81%E5%BB%A3%E6%92%AD%E9%9B%BB%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E6%94%BE%E9%80%81%E3%83%A9%E3%82%B8%E3%82%AA",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9C%9D%E6%97%A5%E6%94%BE%E9%80%81%E5%BB%A3%E6%92%AD%E9%9B%BB%E5%8F%B0"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ABCRadio_jp_2018.svg?width=256",
+   "website": "https://abcradio.asahi.co.jp/",
+   "city": "大阪市"
+  },
+  {
+   "id": "jp.hbcyoutube",
+   "name": "HBCラジオ",
+   "category": "radio",
+   "languages": [
+    "ja"
+   ],
+   "youtubeChannelId": "UC8rxpPuEcXB19TY4yphKulA",
+   "youtubeVideoId": "UZIcdPpGZjA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q11222333",
+   "description": {
+    "en": "radio station in Chuo-ku, Japan",
+    "zh-Hans": "HBC電台 是日本廣電兼營業者北海道放送運營的AM廣播部門的名稱。HBC電台是北海道第一家民營廣播公司，也是JRN及NRN的跨網台。HBC電台雖然以北海道為播出地區，但在青森縣亦能收聽到節目。",
+    "ja": "北海道のJRN・NRN系列ラジオ局。北海道放送のラジオ部門",
+    "zh-Hant": "HBC電台 是日本廣電兼營業者北海道放送運營的AM廣播部門的名稱。HBC電台是北海道第一家民營廣播公司，也是JRN及NRN的跨網台。HBC電台雖然以北海道為播出地區，但在青森縣亦能收聽到節目。",
+    "pl": "regionalna stacja radiowa na Hokkaido"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/HBC%E9%9B%BB%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/HBC%E3%83%A9%E3%82%B8%E3%82%AA",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/HBC%E9%9B%BB%E5%8F%B0"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Hbc_logo.svg?width=256",
+   "website": "https://www.hbc.co.jp/radio/",
+   "city": "中央区"
   }
  ]
 }

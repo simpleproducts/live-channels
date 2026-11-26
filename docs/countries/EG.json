@@ -1,11 +1,15 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "eg.alqahera",
   "eg.alghad",
-  "eg.extranews"
+  "eg.extranews",
+  "eg.alkaherawalnas",
+  "eg.masperozaman",
+  "eg.koraplus",
+  "eg.alahlytv"
  ],
  "channels": [
   {
@@ -74,6 +78,30 @@
    "city": null
   },
   {
+   "id": "eg.elwatannews",
+   "name": "ElWatan News - جريدة الوطن",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UChCCLbpmrhgCI1rS3-1GLjQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q12205286",
+   "description": {
+    "en": "Egyptian Newspaper",
+    "ar": "صحيفة مصرية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/El_Watan_News",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D8%B7%D9%86_(%D8%AC%D8%B1%D9%8A%D8%AF%D8%A9_%D9%85%D8%B5%D8%B1%D9%8A%D8%A9)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Elwatan.svg?width=256",
+   "website": "https://www.elwatannews.com/",
+   "city": null
+  },
+  {
    "id": "eg.sadaelbalad",
    "name": "Sada El Balad",
    "category": "broadcast",
@@ -120,6 +148,151 @@
    "logo": null,
    "website": null,
    "city": "القاهرة"
+  },
+  {
+   "id": "eg.alkaherawalnas",
+   "name": "القاهرة والناس",
+   "category": "broadcast",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCzWdc0aUo0IDk5ysLrt04hw",
+   "youtubeVideoId": "RBYbt3n9Zs8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3546991",
+   "description": {
+    "en": "Egyptian television channel",
+    "ar": "قناة فضائية"
+   },
+   "wikipedia": {
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B3"
+   },
+   "logo": null,
+   "website": "http://www.alkaherawalnas.com",
+   "city": "الجيزة"
+  },
+  {
+   "id": "eg.masperozaman",
+   "name": "ماسبيرو زمان",
+   "category": "broadcast",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UColf1L4k9OVGwzuwNkzEOLg",
+   "youtubeVideoId": "1f4Euja4GYM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q25453713",
+   "description": {
+    "en": "Egyptian tv channel",
+    "ar": "قناة تلفزيونية مصرية"
+   },
+   "wikipedia": {
+    "ar": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B3%D8%A8%D9%8A%D8%B1%D9%88_%D8%B2%D9%85%D8%A7%D9%86"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "eg.koraplus",
+   "name": "kora plus",
+   "category": "sports",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCoTREVo1yJwXXDY0TbTA4EQ",
+   "youtubeVideoId": "lY9aYELxpYM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q132058274",
+   "description": {
+    "en": "Electronic sports newspaper and Digital TV platform",
+    "ar": "صحيفة رياضية إلكترونية ومنصة تلفزيونية ديجيتال"
+   },
+   "wikipedia": {
+    "ar": "https://ar.wikipedia.org/wiki/%D9%83%D9%88%D8%B1%D8%A9_%D8%A8%D9%84%D8%B3"
+   },
+   "logo": null,
+   "website": "https://koraplus.com/",
+   "city": "الجيزة"
+  },
+  {
+   "id": "eg.alahlytv",
+   "name": "Al AHLY TV",
+   "category": "sports",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCmeqakSoEdmxEtTnCFSbunw",
+   "youtubeVideoId": "vmdzHRKnqZc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4702164",
+   "description": {
+    "en": "Sports television channel for Al Ahly SC Egypt",
+    "ar": "قناة تلفزيونية رياضية تابعة للنادي الأهلي المصري"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al_Ahly_TV",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A"
+   },
+   "logo": null,
+   "website": "https://alahlyegypt.com/",
+   "city": null
+  },
+  {
+   "id": "eg.aghapytv",
+   "name": "Aghapy TV",
+   "category": "religious",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UC97YtaFaO3lUTcG4dCmgr5Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q390496",
+   "description": {
+    "en": "Coptic Christian TV channel",
+    "ar": "قناة تلفزيونية مصرية",
+    "de": "koptischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Aghapy_TV",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A3%D8%BA%D8%A7%D8%A8%D9%8A_(%D9%82%D9%86%D8%A7%D8%A9)",
+    "de": "https://de.wikipedia.org/wiki/Agaphy_TV"
+   },
+   "logo": null,
+   "website": "http://www.aghapy.tv/",
+   "city": null
+  },
+  {
+   "id": "eg.ctvegypt",
+   "name": "CTV Egypt",
+   "category": "religious",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCYohbAToXhhGvZONgZ1xAGw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q847733",
+   "description": {
+    "en": "Egyptian TV channel",
+    "ar": "قناة تلفزيونية مصرية",
+    "de": "koptisch-orthodoxer Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/CTV_(Egyptian_TV_channel)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A_%D8%AA%D9%8A_%D9%81%D9%8A_(%D9%85%D8%B5%D8%B1)",
+    "de": "https://de.wikipedia.org/wiki/C-TV_Coptic_Channel"
+   },
+   "logo": null,
+   "website": "https://www.ctvchannel.tv/en",
+   "city": null
   }
  ]
 }

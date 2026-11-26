@@ -1,0 +1,578 @@
+{
+ "schema": 2,
+ "code": "BD",
+ "version": 2026112601,
+ "defaultTiles": [
+  "bd.independenttelevision",
+  "bd.jamunatv",
+  "bd.channel24",
+  "bd.ekhontv",
+  "bd.somoytv",
+  "bd.atnnews"
+ ],
+ "channels": [
+  {
+   "id": "bd.banglavisionnews",
+   "name": "BanglaVision NEWS",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCA4y9g_GRdNrZLH_u5LLSdw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3346898",
+   "description": {
+    "en": "Bangladeshi TV channel",
+    "ar": "شركة بنغلاديشية",
+    "nl": "bedrijf uit Bangladesh",
+    "id": "Bangla Vision adalah saluran TV satelit disiarkan dari Bangladesh."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Banglavision",
+    "id": "https://id.wikipedia.org/wiki/Bangla_Vision"
+   },
+   "logo": null,
+   "website": "http://www.bvnews24.com/",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.atnnews",
+   "name": "ATN News",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UC9Rgo0CrNyd7OWliLekqqGA",
+   "youtubeVideoId": "B1vkvU81FGY",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4654772",
+   "description": {
+    "en": "Bangladeshi television channel",
+    "de": "bangladeschischer Nachrichtensender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ATN_News",
+    "de": "https://de.wikipedia.org/wiki/ATN_News"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ATN_News_logo.svg?width=256",
+   "website": "http://www.atnnewstv.com/",
+   "city": null
+  },
+  {
+   "id": "bd.boishakhitvnews",
+   "name": "Boishakhi Tv News",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCTSvHZkOStz5Ak2J_q6YRlA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4938489",
+   "description": {
+    "en": "private satellite television channel based in Bangladesh",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Boishakhi_Television"
+   },
+   "logo": null,
+   "website": "http://www.boishakhionline.com/",
+   "city": null
+  },
+  {
+   "id": "bd.independenttelevision",
+   "name": "Independent Television",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCATUkaOHwO9EP_W87zCiPbA",
+   "youtubeVideoId": "iWq2kH0iq2Q",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q334694",
+   "description": {
+    "en": "Bangladeshi News channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Independent_Television_(Bangladesh)"
+   },
+   "logo": null,
+   "website": "https://www.independent24.com/",
+   "city": null
+  },
+  {
+   "id": "bd.jamunatv",
+   "name": "Jamuna TV",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCN6sm8iHiPd0cnoUardDAnw",
+   "youtubeVideoId": "P9j_bo_dg44",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "bd.rtvnews",
+   "name": "Rtv News",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7277893",
+   "description": {
+    "en": "television channel from Bangladesh"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RTV_(Bangladeshi_TV_channel)"
+   },
+   "logo": null,
+   "website": "http://www.rtvonline.com/",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.ntvnews",
+   "name": "NTV News",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCUDQdVsKssximyFwg4IxnOQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7025410",
+   "description": {
+    "en": "Bangladeshi television channel",
+    "ar": "قناة تلفزية في بنغلادش"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/NTV_(Bangladeshi_TV_channel)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86_%D8%AA%D9%8A_%D9%81%D9%8A_(%D9%82%D9%86%D8%A7%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D8%A9_%D8%A8%D9%86%D8%BA%D9%84%D8%A7%D8%AF%D9%8A%D8%B4%D9%8A%D8%A9)"
+   },
+   "logo": null,
+   "website": "http://www.ntvbd.com/",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.channel24",
+   "name": "Channel 24",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCHLqIOMPk20w-6cFgkA90jw",
+   "youtubeVideoId": "WMlDSbd6uB0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q13057879",
+   "description": {
+    "en": "Bangladeshi News channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Channel_24_(Bangladeshi_TV_channel)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Channel24logo.svg?width=256",
+   "website": "https://www.channel24bd.tv/",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.maasranganews",
+   "name": "Maasranga News",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCHR-p802PibDYG1btNJcOew",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6721245",
+   "description": {
+    "en": "Bangladeshi TV channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Maasranga_Television"
+   },
+   "logo": null,
+   "website": "http://www.maasranga.tv/",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.ekhontv",
+   "name": "EKHON TV",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCWVqdPTigfQ-cSNwG7O9MeA",
+   "youtubeVideoId": "VfTpNyBbvEQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q112474677",
+   "description": {
+    "en": "Bangladeshi business-related television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Ekhon"
+   },
+   "logo": null,
+   "website": "https://www.ekhon.tv/",
+   "city": null
+  },
+  {
+   "id": "bd.somoytv",
+   "name": "SOMOY TV",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCxHoBXkY88Tb8z1Ssj6CWsQ",
+   "youtubeVideoId": "1na8me3DYKM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q26327",
+   "description": {
+    "en": "Bangladeshi television channel",
+    "fr": "chaîne de télévision du Bangladesh",
+    "de": "bangladeschischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Somoy_TV"
+   },
+   "logo": null,
+   "website": "https://www.somoynews.tv/j",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.dailyjugantor",
+   "name": "Daily Jugantor",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCKbhCXpZwAmFN4UHeT8HTjA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6304791",
+   "description": {
+    "en": "Bangladeshi daily newspaper",
+    "fr": "quotidien en bengali",
+    "de": "Tageszeitung in Bangladesch"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Jugantor",
+    "fr": "https://fr.wikipedia.org/wiki/Jugantor"
+   },
+   "logo": null,
+   "website": "https://jugantor.com",
+   "city": null
+  },
+  {
+   "id": "bd.newagebd",
+   "name": "New Age BD",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCcXngksKUkE4sLl5Jgg9w5w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16764706",
+   "description": {
+    "en": "Bangladeshi English-language daily",
+    "fr": "journal bangladais",
+    "it": "giornale",
+    "ar": "العصر الجديد صحيفة بنغلادشية يومية باللغة الإنجليزية نشرت من دكا.",
+    "de": "Zeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/New_Age_(Bangladesh)",
+    "fr": "https://fr.wikipedia.org/wiki/New_Age_(Bangladesh)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF_(%D8%B5%D8%AD%D9%8A%D9%81%D8%A9)",
+    "de": "https://de.wikipedia.org/wiki/New_Age_(bangladeschische_Zeitung)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/New_Age_Logo.svg?width=256",
+   "website": "http://www.newagebd.net",
+   "city": null
+  },
+  {
+   "id": "bd.prothomalo",
+   "name": "Prothom Alo",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCeG7m5-AJ4I0H4EIleIty4Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2156338",
+   "description": {
+    "en": "Bangladeshi daily newspaper",
+    "zh-Hans": "曙光报 是孟加拉国的一份孟加拉语日报，報社總部位於达卡。该报是孟加拉国发行量最大的报纸之一。根据Kantar MRB Bangladesh于2018年开展的全国媒体调查，曙光报的每日线上读者超过660万人。根据美国网络流量分析公司Alexa Internet的数据，曙光报的在线门户网站是全球访问量最大的孟加拉语网站。2025年12月19日，该报因其办公室及各分社遭到袭击，27年来首次未能出版当日的紙質报纸。",
+    "fr": "The Daily Prothom Alo est un grand quotidien du Bangladesh, publié à partir de Dacca en langue bengali.",
+    "it": "Prothom Alo è un quotidiano bengalese fondato a Dacca nel 1998.",
+    "zh-Hant": "曙光报 是孟加拉国的一份孟加拉语日报，報社總部位於达卡。该报是孟加拉国发行量最大的报纸之一。根据Kantar MRB Bangladesh于2018年开展的全国媒体调查，曙光报的每日线上读者超过660万人。根据美国网络流量分析公司Alexa Internet的数据，曙光报的在线门户网站是全球访问量最大的孟加拉语网站。2025年12月19日，该报因其办公室及各分社遭到袭击，27年来首次未能出版当日的紙質报纸。",
+    "nl": "krant uit Bangladesh",
+    "de": "bengalischsprachige Tageszeitung in Bangladesch"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Prothom_Alo",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9B%99%E5%85%89%E6%8A%A5",
+    "fr": "https://fr.wikipedia.org/wiki/Prothom_Alo",
+    "it": "https://it.wikipedia.org/wiki/Prothom_Alo",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9B%99%E5%85%89%E6%8A%A5",
+    "nl": "https://nl.wikipedia.org/wiki/Prothom_Alo",
+    "de": "https://de.wikipedia.org/wiki/Prothom_Alo"
+   },
+   "logo": null,
+   "website": "http://www.prothomalo.com/",
+   "city": "Dhaka District"
+  },
+  {
+   "id": "bd.jagonews",
+   "name": "Jago News",
+   "category": "news",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCWJkfdG6J2HUxOHrORuHZ2g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q61362171",
+   "description": {
+    "en": "Bangladeshi online news portal",
+    "fr": "Jagonews24.com est un portail d'information en ligne en langue bengalie au Bangladesh."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Jagonews24.com",
+    "fr": "https://fr.wikipedia.org/wiki/Jagonews24.com"
+   },
+   "logo": null,
+   "website": "https://www.jagonews24.com/",
+   "city": null
+  },
+  {
+   "id": "bd.ekusheytelevisionetv",
+   "name": "Ekushey Television - ETV",
+   "category": "broadcast",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCBQxpxkI2qLRAFR_6PNdwIA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3350409",
+   "description": {
+    "en": "Bangladeshi TV channel",
+    "id": "Ekushey Television (ETV) adalah saluran terestrial swasta pertama di Bangladesh."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Ekushey_Television",
+    "id": "https://id.wikipedia.org/wiki/Ekushey_TV"
+   },
+   "logo": null,
+   "website": "https://www.ekushey-tv.com/",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.mohonatvltd",
+   "name": "Mohona TV",
+   "category": "broadcast",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UC9b_MnX3HN9ABYT89QqYMTw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q164162",
+   "description": {
+    "en": "Bangladeshi TV channel",
+    "ar": "شركة بنغلاديشية",
+    "nl": "bedrijf in Bangladesh"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Mohona_Television"
+   },
+   "logo": null,
+   "website": "http://www.mohonatv.com/",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.mytvbangladesh",
+   "name": "mytv Bangladesh",
+   "category": "broadcast",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UC9zgYOQB6zkleAQjW53DLeQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q192284",
+   "description": {
+    "en": "Bangladeshi Television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/My_TV_(Bangladeshi_TV_channel)"
+   },
+   "logo": null,
+   "website": "https://mytvbd.tv/",
+   "city": null
+  },
+  {
+   "id": "bd.nagoriktv",
+   "name": "Nagorik TV",
+   "category": "broadcast",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCig6MgICx3g8p3IHZM45oEA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q61361818",
+   "description": {
+    "en": "Bangladeshi TV channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Nagorik_(TV_channel)"
+   },
+   "logo": null,
+   "website": "https://nagorik.com/",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.bangladeshtelevision",
+   "name": "Bangladesh Television",
+   "category": "broadcast",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UClzwimpLoZu9us9MwalLbtA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3348663",
+   "description": {
+    "en": "National Television channel of Bangladesh",
+    "es": "Canal Nacional de Televisión de Bangladesh",
+    "zh-Hans": "孟加拉国电视台（国营） 于1964年成立，简称BTV，直属中央政府领导。该电视台在达卡和吉大港有二个站点，在全国有11个转播站，还设有2个地面卫星转播站。除新闻节目外，孟加拉国电视台还播放一些外国故事片或连续剧及儿童、教育节目。此外还有ATN、Channel-I、N-tv等私营电视台。共有约2万台电视机从17个中继站收看节目。在90年代中期，孟加拉国电视台开始播放BBC和CNN的新闻节目。2004年，孟加拉国电视台通过其基于卫星的分支开始向全世界播放其姊妹频道BTV World。",
+    "ja": "バングラデシュ・テレビジョン は、バングラデシュ人民共和国の国営テレビ局である。通称および広く知られる略称はBTV。",
+    "fr": "Bangladesh Télévision (BTV) ou Télé Bangladesh est la chaine publique de télévision et la chaîne principale de télévision du Bangladesh.",
+    "pt-BR": "A Bangladesh Television, mais conhecida pelo acrónimo BTV, é a rede de televisão estatal do Bangladesh.",
+    "it": "ente televisivo pubblico bengalese",
+    "zh-Hant": "孟加拉国电视台（国营） 于1964年成立，简称BTV，直属中央政府领导。该电视台在达卡和吉大港有二个站点，在全国有11个转播站，还设有2个地面卫星转播站。除新闻节目外，孟加拉国电视台还播放一些外国故事片或连续剧及儿童、教育节目。此外还有ATN、Channel-I、N-tv等私营电视台。共有约2万台电视机从17个中继站收看节目。在90年代中期，孟加拉国电视台开始播放BBC和CNN的新闻节目。2004年，孟加拉国电视台通过其基于卫星的分支开始向全世界播放其姊妹频道BTV World。",
+    "ar": "قناة بنغلاديش أو تلفاز بنغلاديش بالبنغالية وغالباً ماتعرف بالاختصار BTV، وهي قناة تمتلكها الحكومة البنغالية.",
+    "id": "Siaran Televisi di Bangladesh",
+    "de": "staatliche Fernsehanbieter von Bangladesch",
+    "ms": "Bangladesh Television atau biasanya dikenali sebagai BTV merupakan siaran TV awam di Bangladesh."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Bangladesh_Television",
+    "es": "https://es.wikipedia.org/wiki/Bangladesh_Television",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3",
+    "fr": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9-Bangladesh",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Bangladesh_Television",
+    "it": "https://it.wikipedia.org/wiki/Bangladesh_Television",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E7%94%B5%E8%A7%86%E5%8F%B0",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A8%D9%86%D8%BA%D9%84%D8%A7%D8%AF%D9%8A%D8%B4",
+    "id": "https://id.wikipedia.org/wiki/Bangladesh_Television",
+    "de": "https://de.wikipedia.org/wiki/Bangladesh_Television",
+    "ms": "https://ms.wikipedia.org/wiki/Bangladesh_Television"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh_Television_logo.svg?width=256",
+   "website": "http://www.btv.gov.bd/",
+   "city": "Dhaka"
+  },
+  {
+   "id": "bd.dailypurbokone",
+   "name": "Daily Purbokone",
+   "category": "regional",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCPczt8v8G_NtXh8vbTUOh6Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q19739647",
+   "description": {
+    "en": "Bengali daily newspaper in Bangladesh"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Dainik_Purbokone"
+   },
+   "logo": null,
+   "website": "http://www.dainikpurbokone.net/",
+   "city": "Chittagong"
+  },
+  {
+   "id": "bd.tsports",
+   "name": "T Sports",
+   "category": "sports",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UC2t9imwIR7xlDfma3CmRKJQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q102037696",
+   "description": {
+    "en": "Bangladesh's first sports channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/T_Sports"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/T_Sports_logo.svg?width=256",
+   "website": "https://www.tsports.com.bd",
+   "city": null
+  },
+  {
+   "id": "bd.944jagofm",
+   "name": "94.4 JAGO FM",
+   "category": "radio",
+   "languages": [
+    "bn"
+   ],
+   "youtubeChannelId": "UCUyT1ZfnUldi1GK2uN27Qew",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q63153130",
+   "description": {
+    "en": "radio station in Dhaka"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Jago_FM"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

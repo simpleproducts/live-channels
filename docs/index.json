@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "updated": "2026-11-25T12:56:38Z",
+ "updated": "2026-11-26T01:26:26Z",
  "countries": [
   {
    "code": "AE",
@@ -28,9 +28,39 @@
    "languages": [
     "ar"
    ],
-   "channelCount": 9,
-   "version": 2026112123,
+   "channelCount": 10,
+   "version": 2026112601,
    "file": "countries/AE.json"
+  },
+  {
+   "code": "AL",
+   "flag": "🇦🇱",
+   "name": {
+    "en": "Albania",
+    "es": "Albania",
+    "zh-Hans": "阿尔巴尼亚",
+    "ja": "アルバニア",
+    "fr": "Albanie",
+    "pt-BR": "Albânia",
+    "ko": "알바니아",
+    "it": "Albania",
+    "ru": "Албания",
+    "zh-Hant": "阿爾巴尼亞",
+    "ar": "ألبانيا",
+    "tr": "Arnavutluk",
+    "nl": "Albanië",
+    "pl": "Albania",
+    "sv": "Albanien",
+    "id": "Albania",
+    "de": "Albanien",
+    "ms": "Albania"
+   },
+   "languages": [
+    "sq"
+   ],
+   "channelCount": 4,
+   "version": 2026112601,
+   "file": "countries/AL.json"
   },
   {
    "code": "AR",
@@ -58,8 +88,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 57,
-   "version": 2026112512,
+   "channelCount": 68,
+   "version": 2026112601,
    "file": "countries/AR.json"
   },
   {
@@ -93,6 +123,66 @@
    "file": "countries/AU.json"
   },
   {
+   "code": "AZ",
+   "flag": "🇦🇿",
+   "name": {
+    "en": "Azerbaijan",
+    "es": "Azerbaiyán",
+    "zh-Hans": "阿塞拜疆",
+    "ja": "アゼルバイジャン",
+    "fr": "Azerbaïdjan",
+    "pt-BR": "Azerbaijão",
+    "ko": "아제르바이잔",
+    "it": "Azerbaigian",
+    "ru": "Азербайджан",
+    "zh-Hant": "亞塞拜然",
+    "ar": "أذربيجان",
+    "tr": "Azerbaycan",
+    "nl": "Azerbeidzjan",
+    "pl": "Azerbejdżan",
+    "sv": "Azerbajdzjan",
+    "id": "Azerbaijan",
+    "de": "Aserbaidschan",
+    "ms": "Azerbaijan"
+   },
+   "languages": [
+    "az"
+   ],
+   "channelCount": 4,
+   "version": 2026112601,
+   "file": "countries/AZ.json"
+  },
+  {
+   "code": "BD",
+   "flag": "🇧🇩",
+   "name": {
+    "en": "Bangladesh",
+    "es": "Bangladés",
+    "zh-Hans": "孟加拉国",
+    "ja": "バングラデシュ",
+    "fr": "Bangladesh",
+    "pt-BR": "Bangladesh",
+    "ko": "방글라데시",
+    "it": "Bangladesh",
+    "ru": "Бангладеш",
+    "zh-Hant": "孟加拉國",
+    "ar": "بنغلاديش",
+    "tr": "Bangladeş",
+    "nl": "Bangladesh",
+    "pl": "Bangladesz",
+    "sv": "Bangladesh",
+    "id": "Bangladesh",
+    "de": "Bangladesch",
+    "ms": "Bangladesh"
+   },
+   "languages": [
+    "bn"
+   ],
+   "channelCount": 23,
+   "version": 2026112601,
+   "file": "countries/BD.json"
+  },
+  {
    "code": "BR",
    "flag": "🇧🇷",
    "name": {
@@ -118,8 +208,8 @@
    "languages": [
     "pt"
    ],
-   "channelCount": 22,
-   "version": 2026112512,
+   "channelCount": 73,
+   "version": 2026112601,
    "file": "countries/BR.json"
   },
   {
@@ -149,8 +239,8 @@
     "en",
     "fr"
    ],
-   "channelCount": 11,
-   "version": 2026112512,
+   "channelCount": 15,
+   "version": 2026112601,
    "file": "countries/CA.json"
   },
   {
@@ -181,8 +271,8 @@
     "fr",
     "it"
    ],
-   "channelCount": 2,
-   "version": 2026111521,
+   "channelCount": 3,
+   "version": 2026112601,
    "file": "countries/CH.json"
   },
   {
@@ -211,8 +301,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 22,
-   "version": 2026112512,
+   "channelCount": 24,
+   "version": 2026112601,
    "file": "countries/CL.json"
   },
   {
@@ -271,8 +361,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 26,
-   "version": 2026112512,
+   "channelCount": 30,
+   "version": 2026112601,
    "file": "countries/CO.json"
   },
   {
@@ -301,8 +391,8 @@
    "languages": [
     "de"
    ],
-   "channelCount": 11,
-   "version": 2026112512,
+   "channelCount": 16,
+   "version": 2026112601,
    "file": "countries/DE.json"
   },
   {
@@ -331,8 +421,8 @@
    "languages": [
     "ar"
    ],
-   "channelCount": 5,
-   "version": 2026112512,
+   "channelCount": 12,
+   "version": 2026112601,
    "file": "countries/EG.json"
   },
   {
@@ -361,8 +451,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 20,
-   "version": 2026112512,
+   "channelCount": 32,
+   "version": 2026112601,
    "file": "countries/ES.json"
   },
   {
@@ -391,8 +481,8 @@
    "languages": [
     "fr"
    ],
-   "channelCount": 18,
-   "version": 2026112512,
+   "channelCount": 29,
+   "version": 2026112601,
    "file": "countries/FR.json"
   },
   {
@@ -421,9 +511,39 @@
    "languages": [
     "en"
    ],
-   "channelCount": 17,
-   "version": 2026112512,
+   "channelCount": 27,
+   "version": 2026112601,
    "file": "countries/GB.json"
+  },
+  {
+   "code": "GR",
+   "flag": "🇬🇷",
+   "name": {
+    "en": "Greece",
+    "es": "Grecia",
+    "zh-Hans": "希腊",
+    "ja": "ギリシャ",
+    "fr": "Grèce",
+    "pt-BR": "Grécia",
+    "ko": "그리스",
+    "it": "Grecia",
+    "ru": "Греция",
+    "zh-Hant": "希臘",
+    "ar": "اليونان",
+    "tr": "Yunanistan",
+    "nl": "Griekenland",
+    "pl": "Grecja",
+    "sv": "Grekland",
+    "id": "Yunani",
+    "de": "Griechenland",
+    "ms": "Yunani"
+   },
+   "languages": [
+    "el"
+   ],
+   "channelCount": 4,
+   "version": 2026112601,
+   "file": "countries/GR.json"
   },
   {
    "code": "HK",
@@ -451,8 +571,8 @@
    "languages": [
     "zh"
    ],
-   "channelCount": 4,
-   "version": 2026112502,
+   "channelCount": 8,
+   "version": 2026112601,
    "file": "countries/HK.json"
   },
   {
@@ -481,8 +601,8 @@
    "languages": [
     "id"
    ],
-   "channelCount": 8,
-   "version": 2026112512,
+   "channelCount": 13,
+   "version": 2026112601,
    "file": "countries/ID.json"
   },
   {
@@ -511,8 +631,8 @@
    "languages": [
     "he"
    ],
-   "channelCount": 7,
-   "version": 2026112512,
+   "channelCount": 11,
+   "version": 2026112601,
    "file": "countries/IL.json"
   },
   {
@@ -542,8 +662,8 @@
     "hi",
     "en"
    ],
-   "channelCount": 24,
-   "version": 2026112512,
+   "channelCount": 43,
+   "version": 2026112601,
    "file": "countries/IN.json"
   },
   {
@@ -572,8 +692,8 @@
    "languages": [
     "it"
    ],
-   "channelCount": 11,
-   "version": 2026112512,
+   "channelCount": 15,
+   "version": 2026112601,
    "file": "countries/IT.json"
   },
   {
@@ -602,8 +722,8 @@
    "languages": [
     "ja"
    ],
-   "channelCount": 24,
-   "version": 2026112512,
+   "channelCount": 36,
+   "version": 2026112601,
    "file": "countries/JP.json"
   },
   {
@@ -634,7 +754,7 @@
     "sw"
    ],
    "channelCount": 11,
-   "version": 2026112512,
+   "version": 2026112601,
    "file": "countries/KE.json"
   },
   {
@@ -663,9 +783,71 @@
    "languages": [
     "ko"
    ],
-   "channelCount": 31,
-   "version": 2026112512,
+   "channelCount": 51,
+   "version": 2026112601,
    "file": "countries/KR.json"
+  },
+  {
+   "code": "KZ",
+   "flag": "🇰🇿",
+   "name": {
+    "en": "Kazakhstan",
+    "es": "Kazajistán",
+    "zh-Hans": "哈萨克斯坦",
+    "ja": "カザフスタン",
+    "fr": "Kazakhstan",
+    "pt-BR": "Cazaquistão",
+    "ko": "카자흐스탄",
+    "it": "Kazakistan",
+    "ru": "Казахстан",
+    "zh-Hant": "哈薩克",
+    "ar": "كازاخستان",
+    "tr": "Kazakistan",
+    "nl": "Kazachstan",
+    "pl": "Kazachstan",
+    "sv": "Kazakstan",
+    "id": "Kazakhstan",
+    "de": "Kasachstan",
+    "ms": "Kazakhstan"
+   },
+   "languages": [
+    "kk",
+    "ru"
+   ],
+   "channelCount": 4,
+   "version": 2026112601,
+   "file": "countries/KZ.json"
+  },
+  {
+   "code": "MA",
+   "flag": "🇲🇦",
+   "name": {
+    "en": "Morocco",
+    "es": "Marruecos",
+    "zh-Hans": "摩洛哥",
+    "ja": "モロッコ",
+    "fr": "Maroc",
+    "pt-BR": "Marrocos",
+    "ko": "모로코",
+    "it": "Marocco",
+    "ru": "Марокко",
+    "zh-Hant": "摩洛哥",
+    "ar": "المغرب",
+    "tr": "Fas",
+    "nl": "Marokko",
+    "pl": "Maroko",
+    "sv": "Marocko",
+    "id": "Maroko",
+    "de": "Marokko",
+    "ms": "Maghribi"
+   },
+   "languages": [
+    "ar",
+    "fr"
+   ],
+   "channelCount": 6,
+   "version": 2026112601,
+   "file": "countries/MA.json"
   },
   {
    "code": "MX",
@@ -693,8 +875,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 25,
-   "version": 2026112512,
+   "channelCount": 33,
+   "version": 2026112601,
    "file": "countries/MX.json"
   },
   {
@@ -723,8 +905,8 @@
    "languages": [
     "ms"
    ],
-   "channelCount": 7,
-   "version": 2026112512,
+   "channelCount": 10,
+   "version": 2026112601,
    "file": "countries/MY.json"
   },
   {
@@ -753,32 +935,62 @@
    "languages": [
     "en"
    ],
-   "channelCount": 6,
-   "version": 2026112512,
+   "channelCount": 11,
+   "version": 2026112601,
    "file": "countries/NG.json"
+  },
+  {
+   "code": "NI",
+   "flag": "🇳🇮",
+   "name": {
+    "en": "Nicaragua",
+    "es": "Nicaragua",
+    "zh-Hans": "尼加拉瓜",
+    "ja": "ニカラグア",
+    "fr": "Nicaragua",
+    "pt-BR": "Nicarágua",
+    "ko": "니카라과",
+    "it": "Nicaragua",
+    "ru": "Никарагуа",
+    "zh-Hant": "尼加拉瓜",
+    "ar": "نيكاراغوا",
+    "tr": "Nikaragua",
+    "nl": "Nicaragua",
+    "pl": "Nikaragua",
+    "sv": "Nicaragua",
+    "id": "Nikaragua",
+    "de": "Nicaragua",
+    "ms": "Nicaragua"
+   },
+   "languages": [
+    "es"
+   ],
+   "channelCount": 4,
+   "version": 2026112601,
+   "file": "countries/NI.json"
   },
   {
    "code": "NL",
    "flag": "🇳🇱",
    "name": {
-    "en": "Netherlands",
-    "es": "Países Bajos",
-    "zh-Hans": "荷兰",
-    "ja": "オランダ",
-    "fr": "Pays-Bas",
-    "pt-BR": "Países Baixos",
-    "ko": "네덜란드",
-    "it": "Paesi Bassi",
-    "ru": "Нидерланды",
-    "zh-Hant": "荷蘭",
-    "ar": "هولندا",
-    "tr": "Hollanda",
-    "nl": "Nederland",
-    "pl": "Holandia",
-    "sv": "Nederländerna",
-    "id": "Belanda",
-    "de": "Niederlande",
-    "ms": "Belanda"
+    "en": "Kingdom of the Netherlands",
+    "es": "Reino de los Países Bajos",
+    "zh-Hans": "荷兰王国",
+    "ja": "オランダ王国",
+    "fr": "Royaume des Pays-Bas",
+    "pt-BR": "Reino dos Países Baixos",
+    "ko": "네덜란드 왕국",
+    "it": "Regno dei Paesi Bassi",
+    "ru": "Королевство Нидерландов",
+    "zh-Hant": "荷蘭王國",
+    "ar": "مملكة هولندا",
+    "tr": "Hollanda Krallığı",
+    "nl": "Koninkrijk der Nederlanden",
+    "pl": "Królestwo Niderlandów",
+    "sv": "Konungariket Nederländerna",
+    "id": "Kerajaan Belanda",
+    "de": "Königreich der Niederlande",
+    "ms": "Kerajaan Belanda"
    },
    "languages": [
     "nl"
@@ -844,8 +1056,8 @@
     "tl",
     "en"
    ],
-   "channelCount": 16,
-   "version": 2026112512,
+   "channelCount": 26,
+   "version": 2026112601,
    "file": "countries/PH.json"
   },
   {
@@ -874,8 +1086,8 @@
    "languages": [
     "ur"
    ],
-   "channelCount": 10,
-   "version": 2026111609,
+   "channelCount": 13,
+   "version": 2026112601,
    "file": "countries/PK.json"
   },
   {
@@ -904,8 +1116,8 @@
    "languages": [
     "pl"
    ],
-   "channelCount": 11,
-   "version": 2026112417,
+   "channelCount": 16,
+   "version": 2026112601,
    "file": "countries/PL.json"
   },
   {
@@ -934,8 +1146,8 @@
    "languages": [
     "pt"
    ],
-   "channelCount": 7,
-   "version": 2026112512,
+   "channelCount": 8,
+   "version": 2026112601,
    "file": "countries/PT.json"
   },
   {
@@ -999,6 +1211,36 @@
    "file": "countries/QA.json"
   },
   {
+   "code": "RO",
+   "flag": "🇷🇴",
+   "name": {
+    "en": "Romania",
+    "es": "Rumania",
+    "zh-Hans": "罗马尼亚",
+    "ja": "ルーマニア",
+    "fr": "Roumanie",
+    "pt-BR": "Romênia",
+    "ko": "루마니아",
+    "it": "Romania",
+    "ru": "Румыния",
+    "zh-Hant": "羅馬尼亞",
+    "ar": "رومانيا",
+    "tr": "Romanya",
+    "nl": "Roemenië",
+    "pl": "Rumunia",
+    "sv": "Rumänien",
+    "id": "Rumania",
+    "de": "Rumänien",
+    "ms": "Romania"
+   },
+   "languages": [
+    "ro"
+   ],
+   "channelCount": 10,
+   "version": 2026112601,
+   "file": "countries/RO.json"
+  },
+  {
    "code": "RU",
    "flag": "🇷🇺",
    "name": {
@@ -1024,8 +1266,8 @@
    "languages": [
     "ru"
    ],
-   "channelCount": 6,
-   "version": 2026112502,
+   "channelCount": 7,
+   "version": 2026112601,
    "file": "countries/RU.json"
   },
   {
@@ -1054,8 +1296,8 @@
    "languages": [
     "ar"
    ],
-   "channelCount": 6,
-   "version": 2026112512,
+   "channelCount": 8,
+   "version": 2026112601,
    "file": "countries/SA.json"
   },
   {
@@ -1119,6 +1361,36 @@
    "file": "countries/SG.json"
   },
   {
+   "code": "SY",
+   "flag": "🇸🇾",
+   "name": {
+    "en": "Syria",
+    "es": "Siria",
+    "zh-Hans": "叙利亚",
+    "ja": "シリア",
+    "fr": "Syrie",
+    "pt-BR": "Síria",
+    "ko": "시리아",
+    "it": "Siria",
+    "ru": "Сирия",
+    "zh-Hant": "敘利亞",
+    "ar": "سوريا",
+    "tr": "Suriye",
+    "nl": "Syrië",
+    "pl": "Syria",
+    "sv": "Syrien",
+    "id": "Suriah",
+    "de": "Syrien",
+    "ms": "Syria"
+   },
+   "languages": [
+    "ar"
+   ],
+   "channelCount": 4,
+   "version": 2026112601,
+   "file": "countries/SY.json"
+  },
+  {
    "code": "TH",
    "flag": "🇹🇭",
    "name": {
@@ -1144,8 +1416,8 @@
    "languages": [
     "th"
    ],
-   "channelCount": 15,
-   "version": 2026112512,
+   "channelCount": 20,
+   "version": 2026112601,
    "file": "countries/TH.json"
   },
   {
@@ -1174,9 +1446,70 @@
    "languages": [
     "tr"
    ],
-   "channelCount": 19,
-   "version": 2026111921,
+   "channelCount": 47,
+   "version": 2026112601,
    "file": "countries/TR.json"
+  },
+  {
+   "code": "TW",
+   "flag": "🇹🇼",
+   "name": {
+    "en": "Taiwan",
+    "es": "República de China",
+    "zh-Hans": "中华民国",
+    "ja": "中華民国",
+    "fr": "Taïwan",
+    "pt-BR": "Taiwan",
+    "ko": "중화민국",
+    "it": "Taiwan",
+    "ru": "Китайская Республика",
+    "zh-Hant": "中華民國",
+    "ar": "تايوان",
+    "tr": "Tayvan",
+    "nl": "Taiwan",
+    "pl": "Republika Chińska",
+    "sv": "Taiwan",
+    "id": "Taiwan",
+    "de": "Taiwan",
+    "ms": "Taiwan"
+   },
+   "languages": [
+    "zh"
+   ],
+   "channelCount": 28,
+   "version": 2026112601,
+   "file": "countries/TW.json"
+  },
+  {
+   "code": "TZ",
+   "flag": "🇹🇿",
+   "name": {
+    "en": "Tanzania",
+    "es": "Tanzania",
+    "zh-Hans": "坦桑尼亚",
+    "ja": "タンザニア",
+    "fr": "Tanzanie",
+    "pt-BR": "Tanzânia",
+    "ko": "탄자니아",
+    "it": "Tanzania",
+    "ru": "Танзания",
+    "zh-Hant": "坦尚尼亞",
+    "ar": "تنزانيا",
+    "tr": "Tanzanya",
+    "nl": "Tanzania",
+    "pl": "Tanzania",
+    "sv": "Tanzania",
+    "id": "Tanzania",
+    "de": "Tansania",
+    "ms": "Tanzania"
+   },
+   "languages": [
+    "sw",
+    "en"
+   ],
+   "channelCount": 3,
+   "version": 2026112601,
+   "file": "countries/TZ.json"
   },
   {
    "code": "UA",
@@ -1204,8 +1537,8 @@
    "languages": [
     "uk"
    ],
-   "channelCount": 11,
-   "version": 2026112512,
+   "channelCount": 31,
+   "version": 2026112601,
    "file": "countries/UA.json"
   },
   {
@@ -1234,8 +1567,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 32,
-   "version": 2026112512,
+   "channelCount": 120,
+   "version": 2026112601,
    "file": "countries/US.json"
   },
   {
@@ -1324,8 +1657,8 @@
    "languages": [
     "es"
    ],
-   "channelCount": 7,
-   "version": 2026112512,
+   "channelCount": 8,
+   "version": 2026112601,
    "file": "countries/VE.json"
   },
   {
@@ -1354,8 +1687,8 @@
    "languages": [
     "vi"
    ],
-   "channelCount": 8,
-   "version": 2026112512,
+   "channelCount": 17,
+   "version": 2026112601,
    "file": "countries/VN.json"
   },
   {
@@ -1384,8 +1717,8 @@
    "languages": [
     "en"
    ],
-   "channelCount": 8,
-   "version": 2026112512,
+   "channelCount": 10,
+   "version": 2026112601,
    "file": "countries/ZA.json"
   }
  ],
@@ -1523,45 +1856,6 @@
     "fr.france24ar",
     "eg.alqahera"
    ],
-   "featured": true
-  },
-  {
-   "id": "pk-shenzhou-24-2026",
-   "title": {
-    "en": "Pakistan's first astronaut: Shenzhou-24 launch",
-    "es": "El primer astronauta de Pakistán: lanzamiento de la Shenzhou-24",
-    "zh-Hans": "神舟二十四号发射：巴基斯坦首位航天员",
-    "ja": "神舟24号打ち上げ パキスタン初の宇宙飛行士",
-    "fr": "Premier astronaute pakistanais : lancement de Shenzhou-24",
-    "pt-BR": "Primeiro astronauta do Paquistão: lançamento da Shenzhou-24",
-    "ko": "선저우 24호 발사: 파키스탄 첫 우주비행사",
-    "it": "Il primo astronauta pakistano: lancio della Shenzhou-24",
-    "ru": "Первый космонавт Пакистана: запуск «Шэньчжоу-24»",
-    "zh-Hant": "神舟二十四號發射：巴基斯坦首位太空人",
-    "ar": "أول رائد فضاء باكستاني: إطلاق شنتشو-24",
-    "tr": "Pakistan'ın ilk astronotu: Shenzhou-24 fırlatışı",
-    "nl": "Eerste Pakistaanse astronaut: lancering van Shenzhou-24",
-    "pl": "Pierwszy astronauta Pakistanu: start Shenzhou-24",
-    "sv": "Pakistans första astronaut: uppskjutningen av Shenzhou-24",
-    "id": "Astronaut pertama Pakistan: peluncuran Shenzhou-24",
-    "de": "Pakistans erster Astronaut: Start von Shenzhou-24",
-    "ms": "Angkasawan pertama Pakistan: pelancaran Shenzhou-24"
-   },
-   "tiles": [
-    "pk.ptvnews",
-    "pk.geonews",
-    "pk.arynews",
-    "pk.dunyanews",
-    "pk.samaa",
-    "pk.expressnews",
-    "pk.92news",
-    "pk.dawnnews"
-   ],
-   "countries": [
-    "PK"
-   ],
-   "start": "2026-11-24T16:00:00Z",
-   "end": "2026-11-25T16:00:00Z",
    "featured": true
   },
   {

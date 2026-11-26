@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "ua.suspilne",
-  "ua.espreso",
-  "ua.5kanal",
-  "ua.united24",
   "ua.tsn",
   "ua.faktyictv",
+  "ua.espreso",
   "ua.kyiv24",
-  "ua.freedom",
-  "ua.rada"
+  "ua.5kanal",
+  "ua.united24",
+  "ua.tv",
+  "ua.ukrainianindependentinfo"
  ],
  "channels": [
   {
@@ -311,6 +311,517 @@
    "city": null
   },
   {
+   "id": "ua.tv",
+   "name": "Апостроф TV",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UC0lnIB2qcArjFJPtq79WGZA",
+   "youtubeVideoId": "vpSMFQyQKj0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q107710688",
+   "description": {
+    "en": "Ukrainian television station"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://apostrophe.ua/tv",
+   "city": null
+  },
+  {
+   "id": "ua.myukraina",
+   "name": "Ми - Україна",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCEduOt4TK8TtOaznB45TrhA",
+   "youtubeVideoId": "jMmPMOUrdWg",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q115118046",
+   "description": {
+    "en": "Ukrainian information channel",
+    "ru": "украинский информационный телеканал",
+    "de": "My — Ukraina ist ein ukrainischer Nachrichtensender, der aus ehemaligen Mitarbeitern der geschlossenen Fernsehsender Ukraina und Ukraina 24 besteht, die dem ukrainischen Oligarchen Rinat Achmetow gehörten."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/My-Ukraina",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8B_%E2%80%94_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0",
+    "de": "https://de.wikipedia.org/wiki/My_%E2%80%94_Ukraina"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/My-Ukraina_%282022%2C_blue_box%29.svg?width=256",
+   "website": "http://weukraine.tv/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.armytvukrainianmilitaryc",
+   "name": "Army TV",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCWRZ7gEgbry5FI2-46EX3jA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q117831704",
+   "description": {},
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D1%80%D0%BC%D1%96%D1%8F_TV_%282023%29.svg?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ua.radiosvobodaukraine",
+   "name": "Радіо Свобода",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UC7qnYpVcuFbURi3E2E6_f6Q",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q85999798",
+   "description": {
+    "en": "RFE/RL's Ukrainian Service"
+   },
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Liberty.svg?width=256",
+   "website": "https://www.radiosvoboda.org/",
+   "city": null
+  },
+  {
+   "id": "ua.ukrinform",
+   "name": "Ukrinform",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCaDkCK6iFHPE0lmpaYL-WxQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q987030",
+   "description": {
+    "en": "Ukrainian state news agency",
+    "es": "La Agencia Nacional de Información de Ucrania o Ukrinform es la agencia de información del Estado ucraniano.",
+    "zh-Hans": "乌克兰官方通讯社",
+    "ja": "ウクライナの国営通信社",
+    "fr": "agence nationale de presse d'Ukraine",
+    "pt-BR": "agência de notícias estatal ucraniana",
+    "ko": "우크린포름(우크라이나어: Укрінформ, 영어: Ukrinform)은 우크라이나의 국유 정보통신사이자 국제 방송사이다.",
+    "ru": "государственное информационное агентство Украины",
+    "zh-Hant": "乌克兰官方通讯社",
+    "ar": "أوكرانفورم",
+    "nl": "bedrijf uit Oekraïne",
+    "pl": "Ukrinform – państwowa agencja prasowa Ukrainy, założona w 1918 r.",
+    "de": "Unternehmen mit Sitz in Kyjiw, Ukraine",
+    "ms": "agensi berita Ukraine"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Ukrinform",
+    "es": "https://es.wikipedia.org/wiki/Ukrinform",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9B%BD%E5%AE%B6%E9%80%9A%E8%AE%AF%E7%A4%BE",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%AB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AB%E3%83%A0",
+    "fr": "https://fr.wikipedia.org/wiki/Ukrinform",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Ukrinform",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9A%B0%ED%81%AC%EB%A6%B0%ED%8F%AC%EB%A6%84",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9B%BD%E5%AE%B6%E9%80%9A%E8%AE%AF%E7%A4%BE",
+    "ar": "https://ar.wikipedia.org/wiki/%D9%88%D9%83%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D8%A7%D8%A1_%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9",
+    "nl": "https://nl.wikipedia.org/wiki/Ukrinform",
+    "pl": "https://pl.wikipedia.org/wiki/Ukrinform",
+    "de": "https://de.wikipedia.org/wiki/Ukrinform",
+    "ms": "https://ms.wikipedia.org/wiki/Ukrinform"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Ukrinform.svg?width=256",
+   "website": "https://www.ukrinform.ua",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.tv2",
+   "name": "Главред TV",
+   "category": "news",
+   "languages": [
+    "ru"
+   ],
+   "youtubeChannelId": "UC1sx9fpIKKs780MrgWH41JQ",
+   "youtubeVideoId": "GPPNPdPnMMM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q12096008",
+   "description": {
+    "en": "Ukrainian online newspaper",
+    "ru": "украинское интернет-издание"
+   },
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%81%D0%B0%D0%B9%D1%82%D1%83_%D0%93%D0%BB%D0%B0%D0%B2%D1%80%D0%B5%D0%B4.png?width=256",
+   "website": "https://glavred.net/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.obozua",
+   "name": "OBOZ UA",
+   "category": "news",
+   "languages": [
+    "uk",
+    "ru",
+    "en"
+   ],
+   "youtubeChannelId": "UC97O_ce8Rm7rE0hjE82joaA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4329488",
+   "description": {
+    "en": "leading Ukrainian online news and media platform covering politics, economy, entertainment, sports, and lifestyle.",
+    "es": "«Oborzevatel» es una publicación de Internet ucraniana de orientación sociopolítica, creada en 2001.",
+    "fr": "média en ligne ukrainien",
+    "ru": "одно из ведущих украинских новостных онлайн-медиаресурсов, освещающий политику, экономику, развлечения, спорт и стиль жизни"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Obozrevatel",
+    "es": "https://es.wikipedia.org/wiki/Obozrevatel",
+    "fr": "https://fr.wikipedia.org/wiki/Obozrevatel",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C_(%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_OBOZ.UA.png?width=256",
+   "website": "https://www.obozrevatel.com/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.ukrainianindependentinfo",
+   "name": "УНІАН",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCKCVeAihEfJr-pGH7B73Wyg",
+   "youtubeVideoId": "RzMo_IEUxrU",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2095222",
+   "description": {
+    "en": "Ukrainian news agency",
+    "es": "agencia de información ucraniana",
+    "zh-Hans": "乌克兰通讯社",
+    "ja": "ウクライナ独立通信社 は、キーウに本社を置くウクライナ最大の民営通信社。略称はウニアン。日本語ではウニアン通信とも呼ばれる。",
+    "fr": "agence d'information ukrainienne",
+    "ko": "우크라이나 독립통신사(우크라이나어: Українське Незалежне Інформаційне Агентство Новин, 영어: Ukrainian Independent Information Agency, 약칭: 우니안 )는 키이우에 위치한 우크라이나의 통신사이다.",
+    "it": "UNIAN o Ukrainian Independent Information Agency è una agenzia di stampa ucraina.",
+    "ru": "украинское информационное агентство",
+    "zh-Hant": "乌克兰通讯社",
+    "pl": "ukraińska agencja informacyjna",
+    "de": "private ukrainische Nachrichtenagentur"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Ukrainian_Independent_Information_Agency",
+    "es": "https://es.wikipedia.org/wiki/Agencia_de_Informaci%C3%B3n_Independiente_Ucraniana",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%83%8F%E5%85%8B%E8%98%AD%E7%8D%A8%E7%AB%8B%E6%96%B0%E8%81%9E%E7%A4%BE",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E7%8B%AC%E7%AB%8B%E9%80%9A%E4%BF%A1%E7%A4%BE",
+    "fr": "https://fr.wikipedia.org/wiki/Agence_ukrainienne_d'information_ind%C3%A9pendante",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98_%EB%8F%85%EB%A6%BD%ED%86%B5%EC%8B%A0%EC%82%AC",
+    "it": "https://it.wikipedia.org/wiki/UNIAN",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%9D%D0%98%D0%90%D0%9D",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%83%8F%E5%85%8B%E8%98%AD%E7%8D%A8%E7%AB%8B%E6%96%B0%E8%81%9E%E7%A4%BE",
+    "pl": "https://pl.wikipedia.org/wiki/Ukrai%C5%84ska_Niezale%C5%BCna_Agencja_Informacyjna",
+    "de": "https://de.wikipedia.org/wiki/UNIAN"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/UNIAN_logo.gif?width=256",
+   "website": "https://www.unian.ua/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.interfaxukraine",
+   "name": "Інтерфакс-Україна",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UC0jDU9VRITdZQsFP0q5FPrg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q2448686",
+   "description": {
+    "en": "Ukrainian news agency",
+    "es": "La Agencia de Noticias Interfax-Ucrania es una agencia de noticias ucraniana con sede en Kiev fundada en 1992.",
+    "zh-Hans": "乌克兰的通讯社",
+    "fr": "agence de presse ukrainienne",
+    "pt-BR": "Interfax-Ucrânia é uma agência de notícias ucraniana.",
+    "it": "Interfax-Ucraina è un'agenzia di stampa ucraina con sede a Kiev fondata nel 1992.",
+    "ru": "информационное агентство",
+    "zh-Hant": "乌克兰的通讯社",
+    "ar": "شركة أوكرانية",
+    "nl": "bedrijf uit Oekraïne",
+    "pl": "ukraińska agencja informacyjna"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Interfax-Ukraine",
+    "es": "https://es.wikipedia.org/wiki/Interfax-Ucrania",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E7%83%8F%E5%85%8B%E8%98%AD%E5%9C%8B%E9%9A%9B%E6%96%87%E5%82%B3%E9%9B%BB%E8%A8%8A%E7%A4%BE",
+    "fr": "https://fr.wikipedia.org/wiki/Interfax-Ukraine",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Interfax-Ucr%C3%A2nia",
+    "it": "https://it.wikipedia.org/wiki/Interfax-Ucraina",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B0%D0%BA%D1%81-%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E7%83%8F%E5%85%8B%E8%98%AD%E5%9C%8B%E9%9A%9B%E6%96%87%E5%82%B3%E9%9B%BB%E8%A8%8A%E7%A4%BE",
+    "nl": "https://nl.wikipedia.org/wiki/Interfax-Oekra%C3%AFne",
+    "pl": "https://pl.wikipedia.org/wiki/Interfax-Ukrajina"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Interfax_Ukraine_EN_logo.svg?width=256",
+   "website": "https://en.interfax.com.ua",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.11",
+   "name": "Телеканал 1+1",
+   "category": "broadcast",
+   "languages": [
+    "uk",
+    "ru"
+   ],
+   "youtubeChannelId": "UCVEaAWKfv7fE1c-ZuBs7TKQ",
+   "youtubeVideoId": "lnrp2S2L6qk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q161257",
+   "description": {
+    "en": "national Ukrainian-language TV channel",
+    "es": "canal de TV",
+    "zh-Hans": "1+1 是烏克蘭1+1媒體集團的其中一個電視頻道。1+1覆蓋烏克蘭全國95%的國土，目標觀眾是18歲至54歲的觀眾。1+1电视台成立于1995年8月，同年9月开播，1+1媒體集團下屬另外有六個頻道，如2+2與PLUSPLUS等。",
+    "ja": "テレビ局",
+    "fr": "chaîne de télévision ukrainienne",
+    "pt-BR": "1+1 é uma rede de televisão ucraniana.",
+    "ko": "1+1(우크라이나어: один плюс один 오딘 플류스 오딘[*])은 우크라이나의 국영 텔레비전 방송국이다.",
+    "it": "rete televisiva ucraina",
+    "ru": "украинский телеканал",
+    "zh-Hant": "烏克蘭的電視頻道",
+    "ar": "قناة تلفزيونية",
+    "tr": "Ukraynaca yayın yapan televizyon kanalı",
+    "nl": "Oekraïense tv-zender",
+    "pl": "prywatna stacja telewizyjna na Ukrainie",
+    "sv": "1+1 är en tv-station i Ukraina.",
+    "de": "ukrainischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/1%2B1_(TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/1%2B1_(canal_de_televisi%C3%B3n)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/1%2B1_(%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93)",
+    "ja": "https://ja.wikipedia.org/wiki/1%2B1_(%E3%83%86%E3%83%AC%E3%83%93%E5%B1%80)",
+    "fr": "https://fr.wikipedia.org/wiki/1%2B1_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/1%2B1_(rede_de_televis%C3%A3o)",
+    "ko": "https://ko.wikipedia.org/wiki/1%2B1_(%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EC%B1%84%EB%84%90)",
+    "it": "https://it.wikipedia.org/wiki/1%2B1_(rete_televisiva)",
+    "ru": "https://ru.wikipedia.org/wiki/1%2B1_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/1%2B1_(%E9%9B%BB%E8%A6%96%E9%A0%BB%E9%81%93)",
+    "ar": "https://ar.wikipedia.org/wiki/1%2B1_(%D9%82%D9%86%D8%A7%D8%A9_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D8%A9)",
+    "tr": "https://tr.wikipedia.org/wiki/1%2B1",
+    "nl": "https://nl.wikipedia.org/wiki/1%2B1_(televisiezender)",
+    "pl": "https://pl.wikipedia.org/wiki/1%2B1",
+    "sv": "https://sv.wikipedia.org/wiki/1%2B1_(TV-kanal)",
+    "de": "https://de.wikipedia.org/wiki/1%2B1"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/1%2B1_logo.svg?width=256",
+   "website": "https://1plus1.ua",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.novyikanal",
+   "name": "Новий канал",
+   "category": "broadcast",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCAptZHV2-xkB4GJGgSKRsHQ",
+   "youtubeVideoId": "bENGIUu6TkE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2638833",
+   "description": {
+    "en": "Ukrainian television channel",
+    "es": "canal de televisión ucraniano",
+    "fr": "Novyi Kanal est une chaîne de télévision généraliste ukrainienne fondée le 15 août 1998.",
+    "ru": "украинский развлекательный телеканал",
+    "pl": "Nowyj kanał – ukraińska stacja telewizyjna będąca własnością StarLightMedia, uruchomiona 15 sierpnia 1998, chociaż datę startu stacji przewidziano na 15 lipca 1998 roku.",
+    "sv": "Novyj Kanal är en ukrainsk tv-kanal.",
+    "de": "Fernsehkanal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Novyi_Kanal",
+    "es": "https://es.wikipedia.org/wiki/Novyi_Kanal",
+    "fr": "https://fr.wikipedia.org/wiki/Novyi_Kanal",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB",
+    "pl": "https://pl.wikipedia.org/wiki/Nowyj_kana%C5%82",
+    "sv": "https://sv.wikipedia.org/wiki/Novyj_Kanal",
+    "de": "https://de.wikipedia.org/wiki/Nowyj_kanal"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Novyi_kanal.svg?width=256",
+   "website": "https://novy.tv",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.8ua",
+   "name": "8 канал. ua",
+   "category": "broadcast",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCUIAYbkfw7sbpI4KwqShAnQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q65206797",
+   "description": {
+    "de": "ukrainischer Fernsehsender"
+   },
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/8CHANNELUA_logo.png?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "ua.ictv2",
+   "name": "ICTV2",
+   "category": "broadcast",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UChJ5W743nHEUCcM1xCFf-5g",
+   "youtubeVideoId": "Zx0Qn2LpJUM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q115736277",
+   "description": {
+    "en": "Ukrainan TV-channel",
+    "ru": "украинский телеканал"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ICTV2",
+    "ru": "https://ru.wikipedia.org/wiki/ICTV2"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ICTV_2_%282022%29.svg?width=256",
+   "website": "http://ictv.ua/ictv2/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.stb",
+   "name": "Телеканал СТБ",
+   "category": "broadcast",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCrb7XNZEwPheovXjgbkH5vg",
+   "youtubeVideoId": "Cc4G-cY3WdQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2032137",
+   "description": {
+    "en": "Ukrainian TV channel",
+    "es": "STB es un canal de televisión privado de Ucrania, perteneciente a Starlight Media.",
+    "ja": "ウクライナのTVチャンネル",
+    "fr": "chaine de télévision ukrainienne",
+    "it": "rete televisiva ucraina",
+    "ru": "украинский телеканал",
+    "pl": "STB – ukraiński prywatny kanał telewizyjny, uruchomiony 2 czerwca 1997 roku, koncentrujący się na wyświetleniu tematyki wszechstronnej, będący własnością spółki StarLightMedia.",
+    "de": "ukrainischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/STB_(TV_channel)",
+    "es": "https://es.wikipedia.org/wiki/STB_(Ucrania)",
+    "fr": "https://fr.wikipedia.org/wiki/STB_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "it": "https://it.wikipedia.org/wiki/STB_(rete_televisiva)",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%A2%D0%91",
+    "pl": "https://pl.wikipedia.org/wiki/STB_(stacja_telewizyjna)",
+    "de": "https://de.wikipedia.org/wiki/STB_(Fernsehsender)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/STB_logo.svg?width=256",
+   "website": "https://www.stb.ua/ua/",
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.1podilskiy",
+   "name": "Перший Подільський",
+   "category": "regional",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UC-HlSzVsIkTw7mcH6rzxgsA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q111369459",
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://1podilskiy.com.ua/",
+   "city": "Khmelnytskyi"
+  },
+  {
+   "id": "ua.ntatvchannel",
+   "name": "NTA TV channel",
+   "category": "regional",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCQdSS9GSBbtSqW3oNB39KTw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q12131878",
+   "description": {
+    "en": "Ukrainian TV channel",
+    "ru": "украинский телеканал"
+   },
+   "wikipedia": {
+    "ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%A2%D0%90_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)"
+   },
+   "logo": null,
+   "website": "http://www.nta.ua/",
+   "city": null
+  },
+  {
+   "id": "ua.112",
+   "name": "11 канал",
+   "category": "regional",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCwALNfmBX8f2XKt2xe4PMBA",
+   "youtubeVideoId": "LiuZEa8jOio",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q65155990",
+   "description": {
+    "en": "Ukrainian TV-channel from Dnipro"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://11tv.dp.ua/",
+   "city": null
+  },
+  {
+   "id": "ua.tv7plus",
+   "name": "TV7plus",
+   "category": "regional",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCxAljB9DmPsN10Me6YYHDww",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q116871524",
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://tv7plus.com",
+   "city": "Khmelnytskyi"
+  },
+  {
    "id": "ua.rada",
    "name": "Телеканал Рада",
    "category": "government",
@@ -337,6 +848,47 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rada_TV_%282021%29.svg?width=256",
    "website": "http://tv.rada.gov.ua/",
    "city": "Kyiv"
+  },
+  {
+   "id": "ua.megogosport",
+   "name": "MEGOGO SPORT",
+   "category": "sports",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCCKMcQ8NpxeEN0h8LLe-y6Q",
+   "youtubeVideoId": "qDYp5UFdwzM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q128911972",
+   "description": {},
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Megogo_%D0%A1%D0%BF%D0%BE%D1%80%D1%82.png?width=256",
+   "website": null,
+   "city": "Kyiv"
+  },
+  {
+   "id": "ua.radionv",
+   "name": "Radio NV",
+   "category": "radio",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCVoPOHZYyNUr1GiVnRVm2ig",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q50398001",
+   "description": {
+    "en": "radio station in Ukraine",
+    "ru": "Радио НВ — украинская негосударственная радиостанция информационно-разговорного направления."
+   },
+   "wikipedia": {
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE_%D0%9D%D0%92"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
   }
  ]
 }

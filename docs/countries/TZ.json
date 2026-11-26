@@ -1,0 +1,76 @@
+{
+ "schema": 2,
+ "code": "TZ",
+ "version": 2026112601,
+ "defaultTiles": [
+  "tz.itvtanzania",
+  "tz.hopechanneltanzania",
+  "tz.ariseandshinetanzania"
+ ],
+ "channels": [
+  {
+   "id": "tz.itvtanzania",
+   "name": "ITV Tanzania",
+   "category": "broadcast",
+   "languages": [
+    "sw",
+    "en"
+   ],
+   "youtubeChannelId": "UCRmReUqNqc-GSZeD48QKjhQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q124391607",
+   "description": {
+    "en": "Tanzanian commercial TV network",
+    "de": "tansanianischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Independent_Television_(Tanzania)"
+   },
+   "logo": null,
+   "website": "https://www.itv.co.tz/",
+   "city": "Dar es Salaam"
+  },
+  {
+   "id": "tz.hopechanneltanzania",
+   "name": "Hope Channel Tanzania",
+   "category": "religious",
+   "languages": [
+    "sw",
+    "en"
+   ],
+   "youtubeChannelId": "UCd-Q13Ld2cuutzCcQk7OD8w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q115209378",
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://hopetv.or.tz/",
+   "city": "Dar es Salaam"
+  },
+  {
+   "id": "tz.ariseandshinetanzania",
+   "name": "Arise and Shine TV",
+   "category": "religious",
+   "languages": [
+    "sw",
+    "en"
+   ],
+   "youtubeChannelId": "UC7WineEJjDvj7K1bbYNXYww",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q125343715",
+   "description": {
+    "de": "tansanianischer Fernsehsender"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "schema": 2,
+ "code": "SY",
+ "version": 2026112601,
+ "defaultTiles": [
+  "sy.syriannewschannel",
+  "sy.syriatv"
+ ],
+ "channels": [
+  {
+   "id": "sy.syriannewschannel",
+   "name": "قناة الإخبارية السورية",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UClm30t2F4FHzzkN9Irtr-8A",
+   "youtubeVideoId": "93RiCjjE-yA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q11641908",
+   "description": {
+    "en": "television station based in Damascus, Syria",
+    "es": "Canal Sirio de Noticias, es un canal de televisión con sede en Damasco, Siria.",
+    "fr": "chaîne d'information en continu détenue par l'État syrien",
+    "ar": "قناة تلفزيونية سورية",
+    "de": "syrischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Syrian_News_Channel",
+    "es": "https://es.wikipedia.org/wiki/Canal_Sirio_de_Noticias",
+    "fr": "https://fr.wikipedia.org/wiki/Al-Ikhbariya",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",
+    "de": "https://de.wikipedia.org/wiki/Syrian_News_Channel"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Al_Ikhbariya_logo.png?width=256",
+   "website": "https://alikhbariah.com/",
+   "city": "دمشق"
+  },
+  {
+   "id": "sy.syriatv",
+   "name": "Syria TV",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCJsZ22yL1IW0R2u0jnnyYog",
+   "youtubeVideoId": "h6cB5IUmVF0",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q60572782",
+   "description": {
+    "en": "Syrian television network",
+    "ar": "قناة تلفزيونية سورية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Syria_TV_(Fadaat_Media)",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
+   },
+   "logo": null,
+   "website": "https://www.syria.tv/",
+   "city": "إسطنبول"
+  },
+  {
+   "id": "sy.alsouriya",
+   "name": "Al Souriya",
+   "category": "broadcast",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCUoKu7F5tdWfSLyfiiySKYg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7663132",
+   "description": {
+    "en": "television channel",
+    "es": "Siria TV, anteriormente conocida como Syrian Satellite Channel es un canal de televisión sirio lanzado en 1995.",
+    "ja": "シリア国営放送 は、シリア衛星放送として知られていて、the Syrian General Organization of Radio and TV and broadcast nationwideによるデジタル放送である。",
+    "fr": "Syria TV, ou Al-Souriya TV est la principale chaîne de la télévision d'État en Syrie, gérée l'Autorité générale de la radio et de la télévision (GART) et basée à Damas depuis 1995.",
+    "it": "rete televisiva siriana",
+    "ar": "قناة تلفزيونية سورية",
+    "de": "syrischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al-Souriya_TV",
+    "es": "https://es.wikipedia.org/wiki/Siria_TV",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AA%E3%82%A2%E5%9B%BD%E5%96%B6%E6%94%BE%E9%80%81",
+    "fr": "https://fr.wikipedia.org/wiki/Al-Souriya_TV",
+    "it": "https://it.wikipedia.org/wiki/Syria_TV",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
+    "de": "https://de.wikipedia.org/wiki/Syria_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Al-Souriya_TV_logo.svg?width=256",
+   "website": "https://alsouriya.tv/",
+   "city": "دمشق"
+  },
+  {
+   "id": "sy.radiodamascus",
+   "name": "إذاعة دمشق",
+   "category": "radio",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCuRhKxUq_3-NP1D8aKfIHLw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q20393961",
+   "description": {
+    "en": "radio station in Syria",
+    "es": "Radio Damasco es la emisora de radio nacional de Siria, de carácter estatal.",
+    "fr": "Radio Damas est la principale et la plus ancienne station de radio nationale en Syrie, fondée en 1947, opérant sous l'égide de l'Autorité générale de la radio et de la télévision depuis 2025, le radiodiffuseur public qui succède à l'ORTAS de la Syrie baasiste.",
+    "ar": "الإذاعة الرسمية للجمهورية العربية السورية",
+    "id": "stasiun radio di Suriah",
+    "de": "syrischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Radio_Damascus",
+    "es": "https://es.wikipedia.org/wiki/Radio_Damasco",
+    "fr": "https://fr.wikipedia.org/wiki/Radio_Damas",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9_%D8%AF%D9%85%D8%B4%D9%82",
+    "de": "https://de.wikipedia.org/wiki/Radio_Damaskus"
+   },
+   "logo": null,
+   "website": "https://damasradio.fm/",
+   "city": "دمشق"
+  }
+ ]
+}

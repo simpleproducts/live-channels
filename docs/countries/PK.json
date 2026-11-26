@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026111609,
+ "version": 2026112601,
  "defaultTiles": [
   "pk.samaa",
   "pk.geonews",
@@ -260,6 +260,82 @@
    "logo": null,
    "website": "http://www.gnnhd.tv/",
    "city": "لاہور"
+  },
+  {
+   "id": "pk.lahorenewshd",
+   "name": "Lahore News HD",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UC0CbUVRC1d1RvunYbp3w2qQ",
+   "youtubeVideoId": "Gg1btOFUCq8",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q30643249",
+   "description": {
+    "en": "Local television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Lahore_News_HD"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lahore_News_Logo_%28For_Tv_Screen%29.png?width=256",
+   "website": "https://lahorenews.tv/",
+   "city": null
+  },
+  {
+   "id": "pk.24newshd",
+   "name": "24 News HD",
+   "category": "news",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UCcmpeVbSSQlZRvHfdC-CRwg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q20647024",
+   "description": {
+    "en": "Pakistani Urdu-language TV channel",
+    "id": "24 Digital merupakan stasiun televisi berita milik City News Group yang berasal dari Pakistan."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/24_Digital",
+    "id": "https://id.wikipedia.org/wiki/24_Digital"
+   },
+   "logo": null,
+   "website": "https://www.24newshd.tv/",
+   "city": null
+  },
+  {
+   "id": "pk.aryqtv",
+   "name": "ARY Qtv",
+   "category": "religious",
+   "languages": [
+    "ur"
+   ],
+   "youtubeChannelId": "UCE2oY4S4wOu6WofU2YbfWsw",
+   "youtubeVideoId": "k0unDXRANyc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4653987",
+   "description": {
+    "en": "Pakistani television channel",
+    "zh-Hans": "ARY古兰经卫视，前身为古兰经卫视，是巴基斯坦一个具有逊尼派伊斯兰教信仰电视频道，主要制作以逊尼派为重点的节目。古兰经卫视是巴基斯坦ARY数字网络一部分。",
+    "zh-Hant": "ARY古兰经卫视，前身为古兰经卫视，是巴基斯坦一个具有逊尼派伊斯兰教信仰电视频道，主要制作以逊尼派为重点的节目。古兰经卫视是巴基斯坦ARY数字网络一部分。",
+    "id": "ARY Qtv merupakan stasiun televisi dari Pakistan yang fokus menyiarkan acara Islam Sunni.",
+    "ms": "Quran TV (Qtv) merupakan satu saluran televisyen yang berfokuskan agama Islam."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/ARY_Qtv",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/ARY%E5%8F%A4%E5%85%B0%E7%BB%8F%E5%8D%AB%E8%A7%86",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/ARY%E5%8F%A4%E5%85%B0%E7%BB%8F%E5%8D%AB%E8%A7%86",
+    "id": "https://id.wikipedia.org/wiki/ARY_Qtv",
+    "ms": "https://ms.wikipedia.org/wiki/Quran_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ARY_Qtv_logo.png?width=256",
+   "website": "https://aryqtv.tv/",
+   "city": "کراچی"
   }
  ]
 }

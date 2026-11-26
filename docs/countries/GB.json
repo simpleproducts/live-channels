@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
@@ -567,6 +567,153 @@
    "city": null
   },
   {
+   "id": "gb.ibctamil",
+   "name": "IBC Tamil",
+   "category": "news",
+   "languages": [
+    "ta"
+   ],
+   "youtubeChannelId": "UCZinho9wu3iAeRpUXvAMzBQ",
+   "youtubeVideoId": "imDKwoLh7Ik",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q12978896",
+   "description": {
+    "en": "London-based multimedia company",
+    "de": "britischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/IBC_Tamil"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_IBC_GLOSSY.png?width=256",
+   "website": "https://ibctamil.com/",
+   "city": "Ruislip"
+  },
+  {
+   "id": "gb.bbcnews2",
+   "name": "BBC News Україна",
+   "category": "news",
+   "languages": [
+    "uk"
+   ],
+   "youtubeChannelId": "UCZctsW8Tpx8Tz9Ln4KUmR3g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3631725",
+   "description": {
+    "en": "Ukrainian service of the BBC",
+    "it": "stazione radiofonica britannica",
+    "ru": "Украинская служба Би-би-си — подразделение Би-би-си на территории Украины, занимающееся освещением последних политических, социальных, экономических и спортивных событий, актуальных для Украины и связанных с ней в остальном мире.",
+    "de": "ukrainisches Nachrichtenangebot der BBC"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/BBC_News_Ukrainian",
+    "it": "https://it.wikipedia.org/wiki/BBC_Ukrainian",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0_%D0%91%D0%B8-%D0%B1%D0%B8-%D1%81%D0%B8"
+   },
+   "logo": null,
+   "website": "http://www.bbc.co.uk/ukrainian",
+   "city": null
+  },
+  {
+   "id": "gb.thenewarab",
+   "name": "The New Arab",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCtTSYCBRRUStmL2oQLaqbDQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q20389499",
+   "description": {
+    "en": "a Pan-Arab media outlet headquartered in London",
+    "es": "The New Arab o Al-Araby Al-Jadeed es un medio de comunicación panárabe con sede en Londres, propiedad de la empresa catarí Fadaat Media.",
+    "zh-Hans": "总部位于伦敦的泛阿拉伯出版物",
+    "ja": "汎アラブ語ニュースメディア",
+    "fr": "publication centrée sur les questions relatives au moyen-Orient",
+    "pt-BR": "The New Arab ou Al-Araby Al-Jadeed é um veículo de notícias pan-árabe com sede em Londres, pertencente à empresa catariana Fadaat Media.",
+    "zh-Hant": "总部位于伦敦的泛阿拉伯出版物",
+    "ar": "صحيفة يومية وموقع إلكتروني",
+    "id": "crystal code",
+    "de": "englisch-arabisches Onlinemedium"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_New_Arab",
+    "es": "https://es.wikipedia.org/wiki/The_New_Arab",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%96%B0%E9%98%BF%E6%8B%89%E4%BC%AF%E4%BA%BA%E6%8A%A5",
+    "pt-BR": "https://pt.wikipedia.org/wiki/The_New_Arab",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%96%B0%E9%98%BF%E6%8B%89%E4%BC%AF%E4%BA%BA%E6%8A%A5",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF",
+    "id": "https://id.wikipedia.org/wiki/The_New_Arab",
+    "de": "https://de.wikipedia.org/wiki/The_New_Arab"
+   },
+   "logo": null,
+   "website": "http://www.alaraby.co.uk",
+   "city": "London"
+  },
+  {
+   "id": "gb.manchestereveningnews",
+   "name": "Manchester Evening News",
+   "category": "news",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCPFSLlkwCqpy23jwYDwAPrg",
+   "youtubeVideoId": "BfiP76cNTtc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q3070672",
+   "description": {
+    "en": "newspaper covering the Manchester area of the United Kingdom",
+    "fr": "Le Manchester Evening News (MEN) est un quotidien d'information britannique, publié dans le comté du Grand Manchester en Angleterre du lundi au samedi.",
+    "pt-BR": "Manchester Evening News é um periódico britânico sediado em Grande Manchester, Inglaterra, e fundado em 1868 por Mitchell Henry.",
+    "it": "quotidiano inglese",
+    "ru": "Manchester Evening News — английская газета, которая издаётся в графстве Большой Манчестер, Северо-Западная Англия.",
+    "ar": "صحيفة يومية بريطانية",
+    "tr": "Manchester Evening News, Greater Manchester'da yayımlanan günlük bir gazetedir.",
+    "sv": "Manchester Evening News är en engelsk dagstidning."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Manchester_Evening_News",
+    "fr": "https://fr.wikipedia.org/wiki/Manchester_Evening_News",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Manchester_Evening_News",
+    "it": "https://it.wikipedia.org/wiki/Manchester_Evening_News",
+    "ru": "https://ru.wikipedia.org/wiki/Manchester_Evening_News",
+    "tr": "https://tr.wikipedia.org/wiki/Manchester_Evening_News",
+    "sv": "https://sv.wikipedia.org/wiki/Manchester_Evening_News"
+   },
+   "logo": null,
+   "website": "https://www.manchestereveningnews.co.uk/",
+   "city": "Chadderton"
+  },
+  {
+   "id": "gb.alhiwartv",
+   "name": "Al Hiwar TV قناة الحوار",
+   "category": "news",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UC_fNP2ettM5ius4BZ6G7MOg",
+   "youtubeVideoId": "x9hmK1-AKNQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q4704044",
+   "description": {
+    "en": "Arabic-language TV channel",
+    "ar": "قناة تلفزيونية عربية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Al-Hiwar",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1_(%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9)"
+   },
+   "logo": null,
+   "website": "http://www.alhiwar.tv/",
+   "city": null
+  },
+  {
    "id": "gb.parliament",
    "name": "UK Parliament",
    "category": "government",
@@ -621,6 +768,50 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Crowned_Portcullis_redesign_2018.svg?width=256",
    "website": "https://www.parliament.uk/",
    "city": "City of Westminster"
+  },
+  {
+   "id": "gb.babytvnurseryrhymescarto",
+   "name": "BabyTV",
+   "category": "kids",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCGxnmQJquvQwlV_ICDfAKNA",
+   "youtubeVideoId": "Avbf2OoSevQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q2014847",
+   "description": {
+    "en": "Television channel for babies, toddlers, and parents",
+    "es": "canal infantil de televisión por suscripción",
+    "ja": "Baby TV（ベイビーティーヴィ）は2003年12月4日にFOXインターナショナル・チャンネルズ → FOXネットワークス・グループ（FOX）によりイギリスで開局。14言語、85カ国・地域で展開している24時間幼児向け教育専門テレビチャンネル。",
+    "fr": "chaîne de télévision internationale",
+    "pt-BR": "Canal de televisão por assinatura para bebês.",
+    "it": "rete televisiva internazionale",
+    "ar": "قناة تلفزيونية موجهة للأطفال",
+    "tr": "Çocuk Kanalı",
+    "nl": "Britse televisiezender",
+    "pl": "kanał telewizyjny dla dzieci",
+    "id": "saluran televisi bayi, balita, dan anak-anak prasekolah berusia 4 tahun ke bawah",
+    "ms": "Baby TV adalah saluran khusus bagi kanak-kanak berumur 2-6 tahun."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/BabyTV",
+    "es": "https://es.wikipedia.org/wiki/BabyTV",
+    "ja": "https://ja.wikipedia.org/wiki/Baby_TV",
+    "fr": "https://fr.wikipedia.org/wiki/Baby_TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/BabyTV",
+    "it": "https://it.wikipedia.org/wiki/BabyTV",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A8%D9%8A_%D8%AA%D9%8A_%D9%81%D9%8A",
+    "tr": "https://tr.wikipedia.org/wiki/BabyTV",
+    "nl": "https://nl.wikipedia.org/wiki/BabyTV",
+    "pl": "https://pl.wikipedia.org/wiki/Baby_TV",
+    "id": "https://id.wikipedia.org/wiki/BabyTV",
+    "ms": "https://ms.wikipedia.org/wiki/Baby_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/BabyTV_text_logo.svg?width=256",
+   "website": "https://www.babytv.com",
+   "city": "London"
   },
   {
    "id": "gb.timesradio",
@@ -710,6 +901,100 @@
    "logo": null,
    "website": "https://talksport.com/",
    "city": null
+  },
+  {
+   "id": "gb.ahlebaittv",
+   "name": "Ahlebait TV",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCAPHc46G6sf7l7iVnSfuWLA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q4695180",
+   "description": {
+    "en": "British Shia Muslim TV channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Ahlebait_TV"
+   },
+   "logo": null,
+   "website": "https://ahlebaittv.net/",
+   "city": null
+  },
+  {
+   "id": "gb.kalemehtv",
+   "name": "Kalemeh TV",
+   "category": "religious",
+   "languages": [
+    "fa"
+   ],
+   "youtubeChannelId": "UCZxeVXevnh5yelsYfZN2m1g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q110621537",
+   "description": {
+    "en": "Persian language Sunni Islamic television channel"
+   },
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo-kalemeh2.jpg?width=256",
+   "website": "https://kalemeh.tv/",
+   "city": null
+  },
+  {
+   "id": "gb.mtaonline3",
+   "name": "MTA3 Al-Arabia",
+   "category": "religious",
+   "languages": [
+    "ar"
+   ],
+   "youtubeChannelId": "UCfxZ4ukHXzWqZnI9brMONXw",
+   "youtubeVideoId": "_IZxTaXP4Xc",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q16953933",
+   "description": {
+    "en": "Muslim television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/MTA3_Al-Arabia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/MTA_3.jpg?width=256",
+   "website": "https://mta.tv",
+   "city": "London Borough of Wandsworth"
+  },
+  {
+   "id": "gb.mtaonline1",
+   "name": "MTA International",
+   "category": "religious",
+   "languages": [
+    "en"
+   ],
+   "youtubeChannelId": "UCW4QTka08QOHRNxKcJLEuUA",
+   "youtubeVideoId": "e2NELtEb_nI",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q444233",
+   "description": {
+    "en": "an Islamic TV network run by the Ahmadiyya Muslim Community",
+    "es": "Una red de televisión Islamica que es dirigida por la comunidad Musalmana Ahmadiá",
+    "it": "gruppo televisivo britannico internazionale",
+    "ar": "شركة",
+    "nl": "De satellietzender Muslim Television Ahmadiyya, kortweg MTA, werd in 1994 opgericht door Mirza Tahir Ahmad, de religieuze leider van de Ahmadiyya Moslim Gemeenschap.",
+    "de": "britischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/MTA_International",
+    "it": "https://it.wikipedia.org/wiki/Muslim_Television_Ahmadiyya_International",
+    "nl": "https://nl.wikipedia.org/wiki/Muslim_Television_Ahmadiyya",
+    "de": "https://de.wikipedia.org/wiki/Muslim_Television_Ahmadiyya"
+   },
+   "logo": null,
+   "website": "http://www.mta.tv/",
+   "city": "London Borough of Wandsworth"
   }
  ]
 }

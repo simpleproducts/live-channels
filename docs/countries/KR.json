@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
+  "kr.tvchosun",
   "kr.ytn",
   "kr.yonhap",
   "kr.mbc",
@@ -10,7 +11,6 @@
   "kr.sbs",
   "kr.jtbc",
   "kr.channela",
-  "kr.tvchosun",
   "kr.mbn"
  ],
  "channels": [
@@ -323,6 +323,124 @@
    "city": "종로구"
   },
   {
+   "id": "kr.tv",
+   "name": "경향TV",
+   "category": "news",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCHXvjavEtkPFJCfGlm0wTXw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q497170",
+   "description": {
+    "en": "South Korean newspaper",
+    "zh-Hans": "韓國報章",
+    "ja": "大韓民国の日刊紙",
+    "fr": "quotidien sud-coréen",
+    "ko": "대한민국의 주요 진보 성향 조간 일간지",
+    "ru": "южнокорейская газета",
+    "zh-Hant": "報紙",
+    "nl": "krant uit Zuid-Korea",
+    "de": "südkoreanische Tageszeitung",
+    "ms": "Kyunghyang Shinmun ialah sebuah akhbar harian umum di Korea Selatan dan beribu pejabat di Seoul."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Kyunghyang_Shinmun",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E4%BA%AC%E9%84%89%E6%96%B0%E8%81%9E",
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%B7%E6%96%B0%E8%81%9E",
+    "fr": "https://fr.wikipedia.org/wiki/Kyunghyang_Shinmun",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B2%BD%ED%96%A5%EC%8B%A0%EB%AC%B8",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E4%BA%AC%E9%84%89%E6%96%B0%E8%81%9E",
+    "de": "https://de.wikipedia.org/wiki/Kyunghyang_Shinmun",
+    "ms": "https://ms.wikipedia.org/wiki/Kyunghyang_Shinmun"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/The_kyunghyang_shinmun_logo.svg?width=256",
+   "website": "http://www.khan.co.kr/",
+   "city": "서울특별시"
+  },
+  {
+   "id": "kr.thechosunilbo",
+   "name": "조선일보",
+   "category": "news",
+   "languages": [
+    "ko",
+    "en",
+    "zh",
+    "ja"
+   ],
+   "youtubeChannelId": "UCdp4_yTBhQmB8E339Lafzow",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q483924",
+   "description": {
+    "en": "newspaper in Korea",
+    "es": "periódico surcoreano",
+    "zh-Hans": "韩国报纸",
+    "ja": "韓国の新聞",
+    "fr": "Le Chosun Ilbo est l’un des trois principaux quotidiens sud-coréens, de sensibilité conservatrice, fondé en 1920 par son premier président Jo Jin-Tae, au lendemain du soulèvement du 1er mars 1919 contre l'occupation japonaise de la Corée.",
+    "pt-BR": "The Chosun Ilbo é um dos principais jornais da Coreia do Sul.",
+    "ko": "대한민국의 보수 성향 조간 일간지",
+    "it": "giornale",
+    "ru": "«Чосон ильбо» — крупнейшая газета Республики Корея.",
+    "zh-Hant": "韓國報紙",
+    "ar": "صحيفة كورية جنوبية",
+    "tr": "Chosun Ilbo, Güney Kore'nin en büyük gazetelerinden biridir.",
+    "nl": "krant uit Zuid-Korea",
+    "pl": "południowokoreański dziennik",
+    "id": "Joseon Ilbo adalah salah satu surat kabar utama di Korea Selatan.",
+    "de": "südkoreanische Zeitung",
+    "ms": "akhbar harian Korea Selatan"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/The_Chosun_Ilbo",
+    "es": "https://es.wikipedia.org/wiki/Chosun_Ilbo",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%9C%9D%E9%AE%AE%E6%97%A5%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E6%97%A5%E5%A0%B1",
+    "fr": "https://fr.wikipedia.org/wiki/Chosun_Ilbo",
+    "pt-BR": "https://pt.wikipedia.org/wiki/The_Chosun_Ilbo",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A1%B0%EC%84%A0%EC%9D%BC%EB%B3%B4",
+    "it": "https://it.wikipedia.org/wiki/The_Chosun_Ilbo",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D1%81%D0%BE%D0%BD_%D0%B8%D0%BB%D1%8C%D0%B1%D0%BE",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%9C%9D%E9%AE%AE%E6%97%A5%E5%A0%B1",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B4%D9%88%D8%B3%D9%88%D9%86_%D8%A5%D9%84%D8%A8%D9%88",
+    "tr": "https://tr.wikipedia.org/wiki/Chosun_Ilbo",
+    "pl": "https://pl.wikipedia.org/wiki/Chosun_Ilbo",
+    "id": "https://id.wikipedia.org/wiki/Joseon_Ilbo",
+    "de": "https://de.wikipedia.org/wiki/Chosun_Ilbo",
+    "ms": "https://ms.wikipedia.org/wiki/Chosun_Ilbo"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chosun_IIbo_Logo.svg?width=256",
+   "website": "https://www.chosun.com/",
+   "city": "서울특별시"
+  },
+  {
+   "id": "kr.tbn",
+   "name": "한국도로교통공단tbn교통방송",
+   "category": "broadcast",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCz2tPcPyYNpTHHd3FdRduVA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q11664010",
+   "description": {
+    "ja": "韓国・道路交通公団が運営するラジオ放送ネットワーク",
+    "ko": "도로교통공단 운영하는 라디오 방송사"
+   },
+   "wikipedia": {
+    "ja": "https://ja.wikipedia.org/wiki/%E9%9F%93%E5%9B%BD%E4%BA%A4%E9%80%9A%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B5%90%ED%86%B5%EB%B0%A9%EC%86%A1"
+   },
+   "logo": null,
+   "website": "https://www.tbn.or.kr/",
+   "city": null
+  },
+  {
    "id": "kr.sbsbiz",
    "name": "SBS Biz",
    "category": "economy",
@@ -521,6 +639,373 @@
    "city": null
   },
   {
+   "id": "kr.tbc2",
+   "name": "TBC",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCV5FUnJ-dcymMrHINxrH1mA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5208189",
+   "description": {
+    "en": "television station in Daegu, South Korea",
+    "zh-Hans": "TBC股份有限公司，前稱大邱廣播，是韓國大邱的一家地区性广播电视公司，廣播範圍涵蓋大邱及慶尚北道。於1994年10月7日成立，並於1995年5月14日开播。属于SBS聯播網成員。",
+    "ja": "韓国・大邱広域市に本社を置く地域民営放送事業者",
+    "ko": "대구경북권의 민영방송사",
+    "zh-Hant": "TBC股份有限公司，前稱大邱廣播，是韓國大邱的一家地区性广播电视公司，廣播範圍涵蓋大邱及慶尚北道。於1994年10月7日成立，並於1995年5月14日开播。属于SBS聯播網成員。",
+    "id": "stasiun radio",
+    "de": "südkoreanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Taegu_Broadcasting_Corporation",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/TBC%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+    "ja": "https://ja.wikipedia.org/wiki/TBC_(%E9%9F%93%E5%9B%BD)",
+    "ko": "https://ko.wikipedia.org/wiki/TBC_(%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EB%B0%A9%EC%86%A1%EC%82%AC)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/TBC%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8"
+   },
+   "logo": null,
+   "website": "https://www.tbc.co.kr/",
+   "city": "대구광역시"
+  },
+  {
+   "id": "kr.mbc2",
+   "name": "대전MBC",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCmOwgVyR_Faye31Wk5v38bw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1578051",
+   "description": {
+    "en": "TV and radio station in South Korea",
+    "zh-Hans": "大田文化放送 是位于韩国忠清南道和大田广域市的文化广播（MBC）的放送局。",
+    "ja": "大田広域市周辺を放送エリアとするMBC傘下の地上波テレビ・ラジオ放送事業者",
+    "ko": "대한민국의 방송사",
+    "zh-Hant": "大田文化放送 是位于韩国忠清南道和大田广域市的文化广播（MBC）的放送局。",
+    "id": "stasiun radio",
+    "de": "südkoreanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Daejeon_Munhwa_Broadcasting_Corporation",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%A4%A7%E7%94%B0%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%94%B0%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%A0%84%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%A4%A7%E7%94%B0%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81"
+   },
+   "logo": null,
+   "website": "http://www.tjmbc.co.kr/",
+   "city": "대전광역시"
+  },
+  {
+   "id": "kr.mbc3",
+   "name": "부산MBC",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCg-qGip7EZ1ALNVElht5HXw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1578080",
+   "description": {
+    "en": "Broadcasting in Busan, South Korea",
+    "zh-Hans": "釜山文化广播 是位于韩国釜山的文化广播（MBC）的放送局，亦是文化广播最初创建的位置。",
+    "ja": "釜山広域市周辺を放送エリアとするMBC傘下の地上波テレビ・ラジオ放送事業者",
+    "ko": "부산광역시와 경상남도 양산시 등을 주요 거점으로 하고 있는 문화방송 산하의 지상파 TV 및 라디오 방송 사업자",
+    "zh-Hant": "釜山文化广播 是位于韩国釜山的文化广播（MBC）的放送局，亦是文化广播最初创建的位置。",
+    "id": "stasiun radio",
+    "de": "südkoreanischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Busan_Munhwa_Broadcasting_Corporation",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%87%9C%E5%B1%B1%E6%96%87%E5%8C%96%E5%B9%BF%E6%92%AD",
+    "ja": "https://ja.wikipedia.org/wiki/%E9%87%9C%E5%B1%B1%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%87%9C%E5%B1%B1%E6%96%87%E5%8C%96%E5%B9%BF%E6%92%AD"
+   },
+   "logo": null,
+   "website": "http://www.busanmbc.co.kr/",
+   "city": "부산광역시"
+  },
+  {
+   "id": "kr.obstv",
+   "name": "OBS TV",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCKRzvNMudg0lZQ41lafuahg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q483438",
+   "description": {
+    "en": "television station in Gyeonggi, South Korea",
+    "zh-Hans": "韩国民营无线电视台",
+    "ja": "OBS京仁テレビ は大韓民国のテレビ放送局。2007年12月28日に開局した民間放送。本社を京畿道富川市に置く。京畿道を中心とした2,400万人、877万世帯が視聴エリア。また、CATV網によりソウル特別市でも視聴可能。また韓国のテレビで唯一、特定の全国ネットワークに加盟していない独立局となっている。",
+    "ko": "인천과 수도권 전역으로 방송 채널",
+    "zh-Hant": "韩国民营无线电视台",
+    "id": "OBS Gyeongin TV adalah stasiun televisi regional Korea Selatan yang bersiaran di Provinsi Gyeonggi, Incheon dan Seoul sejak 2011.",
+    "de": "südkoreanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/OBS_Gyeongin_TV",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/OBS%E4%BA%AC%E4%BB%81TV",
+    "ja": "https://ja.wikipedia.org/wiki/OBS%E4%BA%AC%E4%BB%81%E3%83%86%E3%83%AC%E3%83%93",
+    "ko": "https://ko.wikipedia.org/wiki/OBS%EA%B2%BD%EC%9D%B8TV",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/OBS%E4%BA%AC%E4%BB%81TV",
+    "id": "https://id.wikipedia.org/wiki/OBS_Gyeongin_TV"
+   },
+   "logo": null,
+   "website": "http://www.obs.co.kr/",
+   "city": "부천시"
+  },
+  {
+   "id": "kr.mbc4",
+   "name": "광주MBC",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCRvrYUbatHPDc-snY-jCG0A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1576864",
+   "description": {
+    "en": "TV and radio station in South Korea",
+    "zh-Hans": "光州文化放送 是文化广播公司位于韩国光州廣域市的一家放送局。",
+    "ja": "大韓民国の放送局",
+    "ko": "MBC의 광주ㆍ전남 지역 네트워크 공영 방송",
+    "zh-Hant": "光州文化放送 是文化广播公司位于韩国光州廣域市的一家放送局。"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Gwangju_Munhwa_Broadcasting_Corporation",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%85%89%E5%B7%9E%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%85%89%E5%B7%9E%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%EA%B4%91%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%85%89%E5%B7%9E%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81"
+   },
+   "logo": null,
+   "website": "http://www.kjmbc.co.kr/",
+   "city": "광주광역시"
+  },
+  {
+   "id": "kr.kbs2",
+   "name": "KBS뉴스 대구경북",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCoB4UzVRPcnNlosZfzJURhg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q625000",
+   "description": {
+    "en": "South Korean broadcasting station",
+    "zh-Hans": "KBS大邱放送总局 是韓国放送公社（KBS）在大邱的地域总局。",
+    "ja": "KBS大邱放送総局 は大韓民国大邱広域市と慶尚北道西·南部を放送エリアとする韓国放送公社（KBS）の地域放送局。",
+    "ko": "대구경북권, 한국방송공사 계열사",
+    "zh-Hant": "KBS大邱放送总局 是韓国放送公社（KBS）在大邱的地域总局。"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/KBS%E5%A4%A7%E9%82%B1%E6%94%BE%E9%80%81%E7%B8%BD%E5%B1%80",
+    "ja": "https://ja.wikipedia.org/wiki/KBS%E5%A4%A7%E9%82%B1%E6%94%BE%E9%80%81%E7%B7%8F%E5%B1%80",
+    "ko": "https://ko.wikipedia.org/wiki/KBS%EB%8C%80%EA%B5%AC%EB%B0%A9%EC%86%A1%EC%B4%9D%EA%B5%AD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/KBS%E5%A4%A7%E9%82%B1%E6%94%BE%E9%80%81%E7%B8%BD%E5%B1%80"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.kbs3",
+   "name": "KBS제주",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCV1i2By7x5vWxA5K7JVomdQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q625883",
+   "description": {
+    "zh-Hans": "KBS济州放送总局 是位于韩国济州特别自治道的韓国放送公社（KBS）的地域总局。",
+    "ja": "KBS済州放送総局 は、大韓民国済州特別自治道を放送対象地域とする韓国放送公社（KBS）の地域放送総局。",
+    "ko": "KBS제주방송총국(KBS濟州放送總局)은 제주특별자치도 전역을 대상으로 하는 한국방송공사의 지역방송총국이다.",
+    "zh-Hant": "KBS济州放送总局 是位于韩国济州特别自治道的韓国放送公社（KBS）的地域总局。"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/KBS%E6%BF%9F%E5%B7%9E%E6%94%BE%E9%80%81%E7%B8%BD%E5%B1%80",
+    "ja": "https://ja.wikipedia.org/wiki/KBS%E6%B8%88%E5%B7%9E%E6%94%BE%E9%80%81%E7%B7%8F%E5%B1%80",
+    "ko": "https://ko.wikipedia.org/wiki/KBS%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1%EC%B4%9D%EA%B5%AD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/KBS%E6%BF%9F%E5%B7%9E%E6%94%BE%E9%80%81%E7%B8%BD%E5%B1%80"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.kbsjeonju",
+   "name": "KBS Jeonju",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCpzc0K6Y6AxQq9m3dPtQWXw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q626100",
+   "description": {
+    "zh-Hans": "KBS全州放送总局 是位于韩国全罗北道的韓国放送公社（KBS）的地域总局。",
+    "ja": "KBS全州放送総局 は、大韓民国全北特別自治道を放送エリアとする韓国放送公社（KBS）の地域放送局。",
+    "ko": "KBS전주방송총국(KBS全州放送總局)은 전북특별자치도 지역을 대상으로 하는 한국방송공사의 지역방송총국이다.",
+    "zh-Hant": "KBS全州放送总局 是位于韩国全罗北道的韓国放送公社（KBS）的地域总局。"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/KBS%E5%85%A8%E5%B7%9E%E6%94%BE%E9%80%81%E7%B8%BD%E5%B1%80",
+    "ja": "https://ja.wikipedia.org/wiki/KBS%E5%85%A8%E5%B7%9E%E6%94%BE%E9%80%81%E7%B7%8F%E5%B1%80",
+    "ko": "https://ko.wikipedia.org/wiki/KBS%EC%A0%84%EC%A3%BC%EB%B0%A9%EC%86%A1%EC%B4%9D%EA%B5%AD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/KBS%E5%85%A8%E5%B7%9E%E6%94%BE%E9%80%81%E7%B8%BD%E5%B1%80"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.jtvon",
+   "name": "JTV ON",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCZCH_GHFMsFO2hso59kwXHQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q6180346",
+   "description": {
+    "en": "television station in North Jeolla Province, South Korea",
+    "zh-Hans": "全州廣播，為坐落在韩国全北特別自治道全州市的一家地区性民间广播电视公司，於1997年1月15日成立，於同年9月27日开播，為SBS聯播網成員之一。",
+    "ja": "株式会社全州放送は大韓民国の全北特別自治道全域、忠清南道の南部を放送エリアとする民間放送局。略称はJTV。1997年1月15日に設立して、1997年9月27日に開局。本社を全北特別自治道全州市徳津区に置く。",
+    "ko": "전주방송(全州放送)은 전북특별자치도와 인근 일부 지역이 함께 가시청권으로 하는 대한민국의 SBS의 네트워크 지상파 민영방송이다.",
+    "zh-Hant": "全州廣播，為坐落在韩国全北特別自治道全州市的一家地区性民间广播电视公司，於1997年1月15日成立，於同年9月27日开播，為SBS聯播網成員之一。",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Jeonju_Television",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%85%A8%E5%B7%9E%E5%BB%A3%E6%92%AD",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%85%A8%E5%B7%9E%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%85%A8%E5%B7%9E%E5%BB%A3%E6%92%AD"
+   },
+   "logo": null,
+   "website": "https://www.jtv.co.kr/",
+   "city": "전주시"
+  },
+  {
+   "id": "kr.cjbnews",
+   "name": "CJB NEWS",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCNaTUVRdXYsPlZwxic63icw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5091651",
+   "description": {
+    "en": "television station in North Chungcheong Province, South Korea",
+    "zh-Hans": "清州廣播 是韩国忠清北道清州市的一家地区性民间广播电视公司。在1997年2月27日成立，1997年10月17日开播電視頻道。属SBS聯播網成員。",
+    "ja": "株式会社清州放送は大韓民国の忠清北道、忠清南道一部、京畿道東·南部の一部を放送エリアとする民間放送局。略称はCJB。1997年2月27日に設立して、1997年10月18日に開局。本社を忠清北道清州市西原区に置く。",
+    "ko": "대한민국 충청북도를 거점으로 하는 방송사이자 SBS계 방송 네트워크로 협약을 맺은 지역 민영방송사",
+    "zh-Hant": "清州廣播 是韩国忠清北道清州市的一家地区性民间广播电视公司。在1997年2月27日成立，1997年10月17日开播電視頻道。属SBS聯播網成員。",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Cheongju_Broadcasting",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E6%B8%85%E5%B7%9E%E5%BB%A3%E6%92%AD",
+    "ja": "https://ja.wikipedia.org/wiki/%E6%B8%85%E5%B7%9E%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%B2%AD%EC%A3%BC%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E6%B8%85%E5%B7%9E%E5%BB%A3%E6%92%AD"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cjb_logo.svg?width=256",
+   "website": "http://www.cjb.co.kr/",
+   "city": "청주시"
+  },
+  {
+   "id": "kr.kbs4",
+   "name": "KBS창원",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCUsCKdK1HlmBfAjaftDcEJw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q626380",
+   "description": {
+    "zh-Hans": "KBS昌原放送总局 是韓国放送公社（KBS）在庆尚南道的地域总局。",
+    "ja": "KBS昌原放送総局 は、慶尚南道東部を放送エリアとする韓国放送公社（KBS）の地域放送局。",
+    "ko": "경상남도 중심부 권역 방송사",
+    "zh-Hant": "KBS昌原放送总局 是韓国放送公社（KBS）在庆尚南道的地域总局。"
+   },
+   "wikipedia": {
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/KBS%E6%98%8C%E5%8E%9F%E6%94%BE%E9%80%81%E6%80%BB%E5%B1%80",
+    "ja": "https://ja.wikipedia.org/wiki/KBS%E6%98%8C%E5%8E%9F%E6%94%BE%E9%80%81%E7%B7%8F%E5%B1%80",
+    "ko": "https://ko.wikipedia.org/wiki/KBS%EC%B0%BD%EC%9B%90%EB%B0%A9%EC%86%A1%EC%B4%9D%EA%B5%AD",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/KBS%E6%98%8C%E5%8E%9F%E6%94%BE%E9%80%81%E6%80%BB%E5%B1%80"
+   },
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "kr.tv2",
+   "name": "부산일보TV",
+   "category": "regional",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCHMl6cx4Q1JsvTwAT2gA8Vw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q608410",
+   "description": {
+    "en": "daily newspaper in South Korea",
+    "es": "Busan Ilbo es un periódico en idioma coreano publicado en la ciudad surcoreana de Busan.",
+    "zh-Hans": "韩国报纸",
+    "ja": "釜山日報 は、大韓民国釜山広域市で刊行されている日刊新聞。現在は夕刊紙である。",
+    "ko": "대한민국의 동남권 지방 신문사",
+    "it": "giornale",
+    "zh-Hant": "韩国报纸"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Busan_Ilbo",
+    "es": "https://es.wikipedia.org/wiki/Busan_Ilbo",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E9%87%9C%E5%B1%B1%E6%97%A5%E5%A0%B1",
+    "ja": "https://ja.wikipedia.org/wiki/%E9%87%9C%E5%B1%B1%E6%97%A5%E5%A0%B1",
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B6%80%EC%82%B0%EC%9D%BC%EB%B3%B4",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E9%87%9C%E5%B1%B1%E6%97%A5%E5%A0%B1"
+   },
+   "logo": null,
+   "website": "http://www.busan.com/",
+   "city": null
+  },
+  {
    "id": "kr.natv",
    "name": "국회방송 NATV",
    "category": "government",
@@ -578,6 +1063,56 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/KTV_logo.svg?width=256",
    "website": null,
    "city": null
+  },
+  {
+   "id": "kr.tvbaduktv",
+   "name": "바둑TVㅣBADUK TV",
+   "category": "sports",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UC_kyhuCGhgbur6g7NJ_Nrqw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q12596397",
+   "description": {
+    "en": "South Korean TV station",
+    "zh-Hans": "韩国电视台",
+    "ko": "재단법인 한국기원이 운영하는 방송채널사업자",
+    "zh-Hant": "韩国电视台",
+    "de": "südkoreanischer Fernsehsender"
+   },
+   "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%91%91TV"
+   },
+   "logo": null,
+   "website": "http://www.tvbaduk.com",
+   "city": null
+  },
+  {
+   "id": "kr.thesportschosun",
+   "name": "스포츠조선",
+   "category": "sports",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCgf99FxnJYCee6WEeH58n2w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16184321",
+   "description": {
+    "en": "newspaper in Korea",
+    "ko": "대한민국의 스포츠·엔터테인먼트 전문 일간지"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Sportschosun",
+    "ko": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8F%AC%EC%B8%A0%EC%A1%B0%EC%84%A0"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sportchosun.svg?width=256",
+   "website": "https://www.sportschosun.com/",
+   "city": "서울특별시"
   },
   {
    "id": "kr.kbs1radio",
@@ -680,6 +1215,89 @@
    "logo": null,
    "website": "http://www.arirangradio.com/",
    "city": "서울특별시"
+  },
+  {
+   "id": "kr.kfn",
+   "name": "KFN라디오",
+   "category": "radio",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UCV4cmyiTY4g8zlF2_1uCTYw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q12585810",
+   "description": {
+    "ko": "대한민국 국방부가 운영하고 있는 라디오 방송국"
+   },
+   "wikipedia": {
+    "ko": "https://ko.wikipedia.org/wiki/KFN_%EB%9D%BC%EB%94%94%EC%98%A4"
+   },
+   "logo": null,
+   "website": "https://radio.dema.mil.kr/web/radio/main.do",
+   "city": "서울특별시"
+  },
+  {
+   "id": "kr.cbsjoy",
+   "name": "CBSJOY",
+   "category": "religious",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UC0NOO9jkIj_4ML7IbtTwQHQ",
+   "youtubeVideoId": "cxtw2RuOYac",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10855703",
+   "description": {
+    "en": "South Korean broadcaster",
+    "zh-Hans": "基督教放送 是一家韩国基督教广播机构，也是韩国最早的民营广播公司。",
+    "ja": "基督教放送 はキリスト教（プロテスタント）の関連番組を中心に扱う大韓民国の放送局である。略称はCBS。社是として、デモクラシーの発展、地域・階層間対立の融和、南北朝鮮の融和と統一を掲げている。キャッチフレーズは『美しい世の中を作って行くCBS』。本部はソウル特別市陽川区木洞（SBSの向かい）。",
+    "ko": "대한민국의 기독교 방송사",
+    "zh-Hant": "基督教放送 是一家韩国基督教广播机构，也是韩国最早的民营广播公司。",
+    "de": "südkoreanischer Rundfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Christian_Broadcasting_System",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E5%9F%BA%E7%9D%A3%E6%95%99%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E5%9F%BA%E7%9D%A3%E6%95%99%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/CBS_(%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%EB%B0%A9%EC%86%A1%EC%82%AC)",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E5%9F%BA%E7%9D%A3%E6%95%99%E6%94%BE%E9%80%81"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Broadcasting_System_logo.svg?width=256",
+   "website": "http://www.cbs.co.kr/",
+   "city": "서울특별시"
+  },
+  {
+   "id": "kr.bbs",
+   "name": "BBS 불교방송",
+   "category": "religious",
+   "languages": [
+    "ko"
+   ],
+   "youtubeChannelId": "UC3d8VqSnGnMofo35EM_fIVQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q11246661",
+   "description": {
+    "en": "South Korean broadcasting company",
+    "zh-Hans": "韓國電視頻道",
+    "ja": "韓国のラジオ放送局",
+    "ko": "대한민국의 케이블 방송사",
+    "zh-Hant": "韓國電視頻道"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Buddhist_Broadcasting_System",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/BBS%E4%BD%9B%E6%95%99%E6%94%BE%E9%80%81",
+    "ja": "https://ja.wikipedia.org/wiki/%E4%BB%8F%E6%95%99%E6%94%BE%E9%80%81",
+    "ko": "https://ko.wikipedia.org/wiki/BBS%EB%B6%88%EA%B5%90%EB%B0%A9%EC%86%A1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/BBS%E4%BD%9B%E6%95%99%E6%94%BE%E9%80%81"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Buddhist_Broadcasting_System_logo.png?width=256",
+   "website": "https://www.bbs.or.kr/",
+   "city": "마포구"
   },
   {
    "id": "kr.arirangtv",

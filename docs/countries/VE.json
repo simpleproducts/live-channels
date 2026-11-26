@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "ve.vpitv",
+  "ve.laiguanatv",
   "ve.telesurenglish",
   "ve.vtv",
   "ve.unionradio"
@@ -115,6 +116,24 @@
    "wikipedia": {},
    "logo": null,
    "website": null,
+   "city": null
+  },
+  {
+   "id": "ve.laiguanatv",
+   "name": "La Iguana TV",
+   "category": "news",
+   "languages": [
+    "es"
+   ],
+   "youtubeChannelId": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
+   "youtubeVideoId": "02EDsr1s1Lw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q141914802",
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.laiguana.tv/",
    "city": null
   },
   {

@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
   "vn.antv",
-  "vn.vtcnews"
+  "vn.vtcnews",
+  "vn.baotienphongnews"
  ],
  "channels": [
   {
@@ -131,6 +132,148 @@
    "city": null
   },
   {
+   "id": "vn.baotienphongnews",
+   "name": "Báo Tiền Phong News",
+   "category": "news",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCotkNLf_Y3jfbLWuSFUCSBQ",
+   "youtubeVideoId": "x0mE-J6EkhM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q7801032",
+   "description": {
+    "en": "newspaper",
+    "zh-Hans": "越南报纸",
+    "fr": "journal",
+    "zh-Hant": "越南報紙",
+    "nl": "periodiek"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Ti%E1%BB%81n_Phong_(newspaper)",
+    "fr": "https://fr.wikipedia.org/wiki/Ti%E1%BB%81n_Phong_(journal)"
+   },
+   "logo": null,
+   "website": "https://tienphong.vn/",
+   "city": null
+  },
+  {
+   "id": "vn.vietnamnewsagencymediadi",
+   "name": "Vietnam News Agency",
+   "category": "news",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCmBT5CqUxf3-K5_IU9tVtBg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10825953",
+   "description": {
+    "en": "government agency of Vietnam; the only legal news agency in the country. Publishes in several languages",
+    "es": "La Agencia Vietnamita de Noticias (VNA) es un órgano gubernamental y la voz oficial de la República Socialista de Vietnam.",
+    "zh-Hans": "越南的国家通讯社",
+    "ru": "Вьетнамское информационное агентство — национальное информационное агентство, находящееся в непосредственном подчинении правительства Вьетнама, и официальный печатный орган Социалистической Республики Вьетнам.",
+    "zh-Hant": "越南的国家通讯社",
+    "id": "Vietnam News Agency (VNA) merupakan badan pemerintah yang menyediakan berita resmi dari negara Vietnam",
+    "ms": "Vietnam News Agency (VNA) merupakan badan kerajaan yang menyediakan berita rasmi dari negara Vietnam"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Vietnam_News_Agency",
+    "es": "https://es.wikipedia.org/wiki/Agencia_Vietnamita_de_Noticias",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%B6%8A%E5%8D%97%E9%80%9A%E8%A8%8A%E7%A4%BE",
+    "ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%8C%D0%B5%D1%82%D0%BD%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%B6%8A%E5%8D%97%E9%80%9A%E8%A8%8A%E7%A4%BE",
+    "id": "https://id.wikipedia.org/wiki/Vietnam_News_Agency",
+    "ms": "https://ms.wikipedia.org/wiki/Vietnam_News_Agency"
+   },
+   "logo": null,
+   "website": "https://vietnammedia.vnanet.vn/",
+   "city": "Hanoi"
+  },
+  {
+   "id": "vn.vietnamthegioi",
+   "name": "Việt Nam & Thế Giới",
+   "category": "broadcast",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCnj2uChd-yhQk6t3hTGM8tA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10828467",
+   "description": {
+    "en": "Vietnamese television network",
+    "es": "VTC Digital Television, también conocida como Vietnam Digital Television, abreviada como VTC o VTC Radio, es una emisora de televisión afiliada a la Voz de Vietnam (VOV).",
+    "ar": "شبكة تلفزيونية فيتنامية"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/VTC_Digital_Television",
+    "es": "https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_televisi%C3%B3n_digital_VTC",
+    "ar": "https://ar.wikipedia.org/wiki/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D9%81%D9%8A_%D8%AA%D9%8A_%D8%B3%D9%8A_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vtc3.jpg?width=256",
+   "website": "https://vtc.org.vn/vi",
+   "city": null
+  },
+  {
+   "id": "vn.vtv10aitruyenhinhvietnam",
+   "name": "VTV10",
+   "category": "broadcast",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCk2LTxj-wLiAnmgjnZ_a8Iw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10832314",
+   "description": {
+    "en": "Vietnamese television channel",
+    "de": "vietnamesischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/VTV10"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/VTV10_logo_2026.png?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "vn.vtv3",
+   "name": "VTV3",
+   "category": "broadcast",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCl-Wf44-szOK5QjSmQ2KCug",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7907629",
+   "description": {
+    "en": "Vietnamese television channel",
+    "ja": "sports-entertainmentの一般チャンネル",
+    "fr": "chaîne de télévision vietnamienne",
+    "ru": "телеканал",
+    "id": "saluran TV Vietnam",
+    "de": "vietnamesischer Fernsehsender",
+    "ms": "VTV3 ialah saluran sukan umum - hiburan Vietnam, dipandu pada tahun 1994 dan disiarkan secara rasmi mulai 31 Mac 1996."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/VTV3",
+    "fr": "https://fr.wikipedia.org/wiki/VTV_3",
+    "ru": "https://ru.wikipedia.org/wiki/VTV3",
+    "id": "https://id.wikipedia.org/wiki/VTV3",
+    "ms": "https://ms.wikipedia.org/wiki/VTV3"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/VTV3_logo_2026.png?width=256",
+   "website": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv3.htm",
+   "city": "Hanoi"
+  },
+  {
    "id": "vn.htvnews",
    "name": "HTV Tin Tức",
    "category": "regional",
@@ -178,6 +321,92 @@
    },
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_%26_Truy%E1%BB%81n_h%C3%ACnh_H%C3%A0_N%E1%BB%99i_-_HTV.svg?width=256",
    "website": "https://hanoionline.vn/",
+   "city": null
+  },
+  {
+   "id": "vn.vtv8aitruyenhinhvietnam",
+   "name": "VTV8",
+   "category": "regional",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCKSzIR-Eb4gol3Zj0kAjHNw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q24958410",
+   "description": {
+    "en": "Vietnamese television channel",
+    "de": "vietnamesischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/VTV8"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/VTV8_logo_2026.png?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "vn.baovaphatthanhtruyenhinh",
+   "name": "Đà Nẵng TV",
+   "category": "regional",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCp7D27kB0DUbFOs3iWExtTQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q30921140",
+   "description": {
+    "en": "Vietnamese television channel"
+   },
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_DaNangtv_2018.png?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "vn.htvthethao",
+   "name": "HTV Thể Thao",
+   "category": "sports",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UC_OBG47Y3PswSHnMWSlrgZA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q16480856",
+   "description": {
+    "en": "Vietnamese television channel",
+    "de": "vietnamesischer Fernsehsender"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "vn.vtvthethao",
+   "name": "VTV Thể Thao",
+   "category": "sports",
+   "languages": [
+    "vi"
+   ],
+   "youtubeChannelId": "UCrI4iNMPZ2vT_G-TqRO6yrw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10832301",
+   "description": {
+    "en": "Vietnamese television channel"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/VTV6"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/VTV6_logo_2026_final.svg?width=256",
+   "website": "https://vtv6.vtv.vn/",
    "city": null
   },
   {

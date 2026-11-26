@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
-  "br.jovempan",
   "br.recordnews",
+  "br.jovempan",
   "br.cnnbrasil",
   "br.bandjornalismo",
   "br.sbtnews",
+  "br.tv247",
+  "br.tvthsbtvale",
   "br.canalgov",
-  "br.gaucha",
-  "br.redetv",
-  "br.tvsenado"
+  "br.gaucha"
  ],
  "channels": [
   {
@@ -216,6 +216,180 @@
    "city": null
   },
   {
+   "id": "br.g1",
+   "name": "g1",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCaGmdJSSiR7fkh2A-c6emsA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q5512664",
+   "description": {
+    "en": "Brazilian online news portal",
+    "es": "portal de noticias brasileño",
+    "zh-Hans": "g1是环球集团旗下的一個巴西新聞門戶網站，於2006年9月18日上線。成立兩年後，g1成為巴西訪問量第一的新聞網站，每月擁有超過 5500 萬名活躍用戶。g1 在巴西所有州都設有編輯部。該網站原本是叫G1，2021年9月，G1改成g1，即原本的大寫G變成小寫g。",
+    "fr": "site internet brésilien",
+    "pt-BR": "portal de notícias do Grupo Globo",
+    "ko": "브라질 온라인 뉴스 포털",
+    "it": "sito web di notizie brasiliano",
+    "ru": "g1 — бразильский новостной интернет-портал, принадлежащий холдингу Grupo Globo и находящийся под управлением Центрального отдела журналистики Globo.",
+    "zh-Hant": "g1是环球集团旗下的一個巴西新聞門戶網站，於2006年9月18日上線。成立兩年後，g1成為巴西訪問量第一的新聞網站，每月擁有超過 5500 萬名活躍用戶。g1 在巴西所有州都設有編輯部。該網站原本是叫G1，2021年9月，G1改成g1，即原本的大寫G變成小寫g。",
+    "nl": "website",
+    "de": "brasilianisches Nachrichtenportal"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/G1_(website)",
+    "es": "https://es.wikipedia.org/wiki/G1_(sitio_web)",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/G1_(%E7%B6%B2%E7%AB%99)",
+    "fr": "https://fr.wikipedia.org/wiki/G1_(site_web)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/G1",
+    "ko": "https://ko.wikipedia.org/wiki/G1_(%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8)",
+    "it": "https://it.wikipedia.org/wiki/G1_(sito_web)",
+    "ru": "https://ru.wikipedia.org/wiki/G1",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/G1_(%E7%B6%B2%E7%AB%99)",
+    "nl": "https://nl.wikipedia.org/wiki/G1_(website)",
+    "de": "https://de.wikipedia.org/wiki/G1_(Nachrichtenportal)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_g1.svg?width=256",
+   "website": "https://g1.globo.com",
+   "city": "Rio de Janeiro"
+  },
+  {
+   "id": "br.tv247",
+   "name": "TV 247",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCRuy5PigeeBuecKnwqhM4yg",
+   "youtubeVideoId": "Wrwfuy0DAmw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q9663951",
+   "description": {
+    "en": "digital newspaper",
+    "es": "Periódico digital brasileño",
+    "pt-BR": "portal de notícias brasileiro"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Brasil_247",
+    "es": "https://es.wikipedia.org/wiki/Brasil_247",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Brasil_247"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Brasil_247_2024.png?width=256",
+   "website": "https://www.brasil247.com/",
+   "city": null
+  },
+  {
+   "id": "br.folhadespaulo",
+   "name": "Folha de S.Paulo",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCmYuiV9wAR3i8p19Ygc7izg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1435379",
+   "description": {
+    "en": "Brazilian daily newspaper",
+    "es": "periódico brasileño",
+    "zh-Hans": "巴西报纸",
+    "fr": "périodique brésilien",
+    "pt-BR": "jornal brasileiro",
+    "it": "La Folha de S.Paulo è un quotidiano brasiliano fondato nel 1921 sotto il nome Folha da Noite e pubblicato a San Paolo dalla società Folha da Manhã.",
+    "ru": "Folha de S.Paulo, также известная как Folha de São Paulo или просто Folha — бразильская газета, издающаяся в городе Сан-Паулу.",
+    "zh-Hant": "巴西報紙",
+    "tr": "Brezilya gazetesi",
+    "nl": "Braziliaans dagblad",
+    "pl": "Folha de São Paulo – brazylijski dziennik, ukazujący się od 19 lutego 1921 roku.",
+    "sv": "Folha de S.",
+    "id": "Folha de S.",
+    "de": "brasilianische Tageszeitung"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Folha_de_S.Paulo",
+    "es": "https://es.wikipedia.org/wiki/Folha_de_S._Paulo",
+    "zh-Hans": "https://zh.wikipedia.org/zh-hans/%E8%81%96%E4%BF%9D%E7%BE%85%E9%A0%81%E5%A0%B1",
+    "fr": "https://fr.wikipedia.org/wiki/Folha_de_S.Paulo",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Folha_de_S.Paulo",
+    "it": "https://it.wikipedia.org/wiki/Folha_de_S._Paulo",
+    "ru": "https://ru.wikipedia.org/wiki/Folha_de_S.Paulo",
+    "zh-Hant": "https://zh.wikipedia.org/zh-hant/%E8%81%96%E4%BF%9D%E7%BE%85%E9%A0%81%E5%A0%B1",
+    "nl": "https://nl.wikipedia.org/wiki/Folha_de_S.Paulo",
+    "pl": "https://pl.wikipedia.org/wiki/Folha_de_S%C3%A3o_Paulo",
+    "sv": "https://sv.wikipedia.org/wiki/Folha_de_S._Paulo",
+    "id": "https://id.wikipedia.org/wiki/Folha_de_S._Paulo",
+    "de": "https://de.wikipedia.org/wiki/Folha_de_S._Paulo"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Folha_de_S._Paulo.svg?width=256",
+   "website": "http://folha.uol.com.br",
+   "city": "São Paulo"
+  },
+  {
+   "id": "br.terrabrasil",
+   "name": "Terra Brasil",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCWeXgaH6wwyTRAkA3n6sRxg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1135120",
+   "description": {
+    "en": "web portal and internet company, subsidiary of Telefônica Brasil",
+    "es": "portal web y compañía de internet",
+    "fr": "portail internet et FAI hispanophone",
+    "pt-BR": "empresa de internet e portal web, subsidiária da Telefônica Brasil",
+    "ko": "테라 네트웍스(Terra Networks)는 스페인에 소재한 인터넷 다국적 기업이다.",
+    "it": "Terra Networks, S.A., citata anche semplicemente come Terra è una multinazionale spagnola del settore media con sede in Spagna e uffici in Brasile, Cile, Colombia, Messico, Stati Uniti e Perù.",
+    "ar": "شركة برازيلية",
+    "nl": "bedrijf uit Spanje"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Terra_(company)",
+    "es": "https://es.wikipedia.org/wiki/Terra_Networks",
+    "fr": "https://fr.wikipedia.org/wiki/Terra_Networks",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Terra_(empresa)",
+    "ko": "https://ko.wikipedia.org/wiki/%ED%85%8C%EB%9D%BC_%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4",
+    "it": "https://it.wikipedia.org/wiki/Terra_Networks"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Terra_Logo.svg?width=256",
+   "website": "https://www.terra.com.br/",
+   "city": "São Paulo"
+  },
+  {
+   "id": "br.agenciapublica",
+   "name": "Agência Pública",
+   "category": "news",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCRVbqma6TaIHp9E151nC8sA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q30931474",
+   "description": {
+    "en": "Brazilian investigative journalism agency",
+    "pt-BR": "agência de jornalismo investigativo brasileira",
+    "ar": "مركز ثقافي في ساو باولو، البرازيل"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Ag%C3%AAncia_P%C3%BAblica",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Ag%C3%AAncia_P%C3%BAblica"
+   },
+   "logo": null,
+   "website": "https://apublica.org/",
+   "city": "São Paulo"
+  },
+  {
    "id": "br.timesbrasil",
    "name": "Times Brasil CNBC",
    "category": "economy",
@@ -378,6 +552,816 @@
    "city": "São Paulo"
   },
   {
+   "id": "br.canaldoboi",
+   "name": "Canal do Boi",
+   "category": "broadcast",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCumKvcgpO2MCQ45pi-fXf_g",
+   "youtubeVideoId": "dmpHsQ5jt8c",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q18242204",
+   "description": {
+    "en": "Television network",
+    "pt-BR": "Emissora de televisão brasileira"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Canal_do_Boi",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Canal_do_Boi"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Canal_do_Boi_-_PNG.png?width=256",
+   "website": null,
+   "city": null
+  },
+  {
+   "id": "br.valoreconomico",
+   "name": "Valor Econômico",
+   "category": "economy",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC48mLXk1ASg1EQbaS3MheWQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q958931",
+   "description": {
+    "en": "Brazilian economic newspaper",
+    "fr": "Le Valor Econômico est un quotidien brésilien spécialisé dans l'économie, les affaires et les marchés financiers.",
+    "pt-BR": "jornal de economia, finanças e negócios brasileiro",
+    "ru": "Valor Econômico — бразильская газета об экономике, финансах и бизнесе, созданная в результате партнёрства между группами Folha и Globo, которые также издают газеты Folha de S.Paulo и O Globo соответственно.",
+    "nl": "krant uit Brazilië",
+    "de": "Valor Econômico ist eine brasilianische Tageszeitung mit Schwerpunkt auf Wirtschaftsberichterstattung und gilt laut dem Instituto Verificador de Circulações (IVC) als auflagenstärkstes Wirtschaftsmagazin des Landes."
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Valor_Econ%C3%B4mico",
+    "fr": "https://fr.wikipedia.org/wiki/Valor_Econ%C3%B4mico",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Valor_Econ%C3%B4mico",
+    "ru": "https://ru.wikipedia.org/wiki/Valor_Econ%C3%B4mico",
+    "de": "https://de.wikipedia.org/wiki/Valor_Econ%C3%B4mico"
+   },
+   "logo": null,
+   "website": "http://www.valor.com.br",
+   "city": null
+  },
+  {
+   "id": "br.infomoney",
+   "name": "InfoMoney",
+   "category": "economy",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCxm0tptjIc76-i26EKQ9NpA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q121141771",
+   "description": {
+    "en": "Brazilian news paper",
+    "pt-BR": "Brazilian economy news portal",
+    "de": "brasilianisches Nachrichtenportal"
+   },
+   "wikipedia": {},
+   "logo": null,
+   "website": "https://www.infomoney.com.br",
+   "city": null
+  },
+  {
+   "id": "br.tvbandminas",
+   "name": "TV Band Minas",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC4HvOqEHSll8ieikr6ffvqQ",
+   "youtubeVideoId": "Zkp4gi_GugM",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q16496650",
+   "description": {
+    "en": "television station in Minas Gerais, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Belo Horizonte, MG"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_Minas",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_Minas"
+   },
+   "logo": null,
+   "website": "https://bandtv.band.uol.com.br/tv/minasgerais",
+   "city": "Belo Horizonte"
+  },
+  {
+   "id": "br.sistemapericuma",
+   "name": "Sistema Pericumã",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCQ2eZOhL9FiAnrd-oeR0ZNg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10377458",
+   "description": {
+    "en": "SBT-affiliated TV station in Pinheiro, Maranhão, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Pinheiro, MA afiliada a Record"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Pericum%C3%A3"
+   },
+   "logo": null,
+   "website": "https://pericuma.com.br/",
+   "city": "Pinheiro"
+  },
+  {
+   "id": "br.tvtapajoara",
+   "name": "TV TAPAJOARA",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC0BRJ5CnbHAvdOx2sv9XNnA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10358163",
+   "description": {
+    "pt-BR": "emissora de televisão brasileira de Itaituba, PA"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Tapajoara"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Itaituba"
+  },
+  {
+   "id": "br.tvalterosazonadamata",
+   "name": "TV Alterosa Zona da Mata",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCCRuzLAGWPYIb54swA8kgvg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10376854",
+   "description": {
+    "en": "Brazilian television station in Juiz de Fora, Minas Gerais",
+    "pt-BR": "emissora de televisão brasileira de Juiz de Fora, MG"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Alterosa_Zona_da_Mata"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Juiz de Fora"
+  },
+  {
+   "id": "br.tvaratu",
+   "name": "TV Aratu",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCX_Nxpcz-9EXhRIlaoo2c-w",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10376895",
+   "description": {
+    "en": "Brazilian television station of Salvador, BA",
+    "pt-BR": "emissora de televisão brasileira de Salvador, Bahia",
+    "de": "brasilianischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Aratu",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Aratu"
+   },
+   "logo": null,
+   "website": "https://aratuon.com.br",
+   "city": "Salvador"
+  },
+  {
+   "id": "br.bandbrasilia",
+   "name": "Band Brasília",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC7nLWNgxf_v0dVzU8RnQYiA",
+   "youtubeVideoId": "1MtfWEhH58A",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10376926",
+   "description": {
+    "en": "television station in Brasília, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Brasília, DF"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_Bras%C3%ADlia",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_Bras%C3%ADlia"
+   },
+   "logo": null,
+   "website": "http://bandtv.band.uol.com.br/tv/brasilia",
+   "city": "Brasília"
+  },
+  {
+   "id": "br.bandcampinas",
+   "name": "Band Campinas",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCgIkaEvC4jBudVhxoZx9pGA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10376925",
+   "description": {
+    "en": "television station in São Paulo, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Campinas, SP"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_Mais",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_Campinas"
+   },
+   "logo": null,
+   "website": "https://bandmulti.com.br",
+   "city": "Campinas"
+  },
+  {
+   "id": "br.bandamazonas",
+   "name": "Band Amazonas",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCi0ftpk_k9UhC2oNrnxatNA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10376930",
+   "description": {
+    "en": "television station in Manaus, Brazil",
+    "pt-BR": "emissora de televisão brasileira sediada em Manaus, Amazonas"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_Amazonas",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_Amazonas"
+   },
+   "logo": null,
+   "website": "https://bandtv.band.uol.com.br/tv/amazonas",
+   "city": "Manaus"
+  },
+  {
+   "id": "br.bandparana",
+   "name": "Band Paraná",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCsO2cCvQPPDl7MC_nsfnnwg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10376928",
+   "description": {
+    "en": "television station in Curitiba, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Curitiba, PR"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_Paran%C3%A1",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_Paran%C3%A1"
+   },
+   "logo": null,
+   "website": "https://bandparana.com.br",
+   "city": "Curitiba"
+  },
+  {
+   "id": "br.bandrs",
+   "name": "Band RS",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC8PdrO-xSiQm7L_PJpDqbrA",
+   "youtubeVideoId": "SjRlqfoXGEw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10376934",
+   "description": {
+    "en": "television station in Rio Grande do Sul, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Porto Alegre, RS"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_RS",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_RS"
+   },
+   "logo": null,
+   "website": "http://bandtv.band.uol.com.br/tv/rs",
+   "city": "Porto Alegre"
+  },
+  {
+   "id": "br.bandrn",
+   "name": "BAND RN",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCGLsX_hLUxuqRkA-T1E0IuA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10376933",
+   "description": {
+    "en": "television station in Rio Grande do Norte, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Natal, RN"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_RN",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_RN"
+   },
+   "logo": null,
+   "website": "https://bandtv.band.uol.com.br/tv/rn",
+   "city": "Natal"
+  },
+  {
+   "id": "br.tvbandrio",
+   "name": "TV Band Rio",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCzQxHUiLa5prpJoyOxS0GSA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10376936",
+   "description": {
+    "en": "television station in Rio de Janeiro, Brazil",
+    "pt-BR": "emissora de televisão brasileira do Rio de Janeiro, RJ"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_Rio",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_Rio"
+   },
+   "logo": null,
+   "website": "https://bandrio.band.uol.com.br",
+   "city": "Rio de Janeiro"
+  },
+  {
+   "id": "br.bandvale",
+   "name": "Band Vale",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCfMTd6CM_6K0PAmhdfHv9Ag",
+   "youtubeVideoId": "4AsgMFMKrTk",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10376942",
+   "description": {
+    "en": "television station in São Paulo, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Taubaté, SP"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_Vale",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_Vale"
+   },
+   "logo": null,
+   "website": "http://band.uol.com.br/band-vale",
+   "city": "Taubaté"
+  },
+  {
+   "id": "br.bandtriangulo",
+   "name": "Band Triângulo",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC2v6ld0iLyzDJBlyh3HC-Bw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10376941",
+   "description": {
+    "en": "television station in Minas Gerais, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Uberaba, MG"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_Tri%C3%A2ngulo",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_Tri%C3%A2ngulo"
+   },
+   "logo": null,
+   "website": "http://bandtv.band.uol.com.br/tv/triangulo",
+   "city": "Uberaba"
+  },
+  {
+   "id": "br.tvguararapes",
+   "name": "TV Guararapes",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCOFMoDHG-vKXs-f5vcG7JaQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10377072",
+   "description": {
+    "en": "television station in Pernambuco, Brazil",
+    "pt-BR": "emissora de televisão brasileira do Recife, PE"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Guararapes",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Guararapes"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Recife"
+  },
+  {
+   "id": "br.recordbahia",
+   "name": "RECORD BAHIA",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCoK3R5BtoYTmVblO_3wpGGg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7672349",
+   "description": {
+    "en": "television station in Salvador, Bahia",
+    "pt-BR": "emissora de televisão brasileira de Salvador, Bahia",
+    "de": "Fernsehsender in Salvador, Bahia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Record_Bahia",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Record_Bahia"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Salvador"
+  },
+  {
+   "id": "br.tvgazetaac",
+   "name": "TV GAZETA AC",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC5R9fUkH1iru752mgABqpGw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q18275293",
+   "description": {
+    "en": "television station in Acre, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Rio Branco, AC"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Gazeta_(Acre)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Gazeta_(Rio_Branco)"
+   },
+   "logo": null,
+   "website": "http://agazeta.net",
+   "city": "Rio Branco"
+  },
+  {
+   "id": "br.tvalterosasulesudoestede",
+   "name": "TV Alterosa - Sul e Sudoeste de Minas",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCxuEmxHgHZMG9j0QIKrDfBw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q110551887",
+   "description": {
+    "en": "Brazilian television station in Varginha, Minas Gerais",
+    "pt-BR": "emissora de televisão brasileira de Varginha, MG"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Alterosa_Sul_de_Minas"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Varginha"
+  },
+  {
+   "id": "br.tvalterosacentrooeste",
+   "name": "TV Alterosa Centro-Oeste",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC8WDrBPHNMLuS6lW1Wg8-6A",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q110551982",
+   "description": {
+    "pt-BR": "emissora de televisão brasileira de Divinópolis, MG"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Alterosa_Centro-Oeste"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Divinópolis"
+  },
+  {
+   "id": "br.tvcidadebacabalrecordtv",
+   "name": "TV Cidade Bacabal Record TV",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC-lgd682nAX962k_DxllU1g",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q110920533",
+   "description": {
+    "en": "Record-affiliated TV station in Bacabal, Maranhão, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Bacabal, MA"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Cidade_(Bacabal)"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Bacabal"
+  },
+  {
+   "id": "br.ricrecordlondrina",
+   "name": "Ric RECORD Londrina",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC9GobOkoAvmuw3pXSjwQnIg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10356621",
+   "description": {
+    "pt-BR": "emissora de televisão brasileira de Cornélio Procópio, PR"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/RIC_Record_Londrina"
+   },
+   "logo": null,
+   "website": "https://ricmais.com.br/londrina",
+   "city": "Londrina"
+  },
+  {
+   "id": "br.ricrecordoeste",
+   "name": "Ric RECORD Oeste",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCDes47D0_xrzOm_r7b9RQAQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10356627",
+   "description": {
+    "pt-BR": "emissora de televisão brasileira de Toledo, PR"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/RIC_Record_Oeste"
+   },
+   "logo": null,
+   "website": "https://ricmais.com.br/oeste-do-parana",
+   "city": "Toledo"
+  },
+  {
+   "id": "br.ricrecordmaringa",
+   "name": "Ric RECORD Maringá",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UClG5ECaZCBQCzCpSqI7hWUA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10356628",
+   "description": {
+    "pt-BR": "emissora de televisão brasileira de Maringá, PR"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/RIC_Record_Maring%C3%A1"
+   },
+   "logo": null,
+   "website": "https://ricmais.com.br/maringa",
+   "city": "Maringá"
+  },
+  {
+   "id": "br.thsbtinterior",
+   "name": "TH+ SBT Interior",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCfgLINec5p8KFyWVnogp1BA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10366361",
+   "description": {
+    "pt-BR": "emissora de televisão brasileira de Araçatuba, SP"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TH%2B_SBT_Interior"
+   },
+   "logo": null,
+   "website": "http://sbtinterior.com",
+   "city": "Araçatuba"
+  },
+  {
+   "id": "br.tvthsbtvale",
+   "name": "TV TH+ SBT Vale",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCyXRmWbmyB7TSJekXsPCZKQ",
+   "youtubeVideoId": "f-YmCV9XKBE",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q106777322",
+   "description": {
+    "pt-BR": "emissora de televisão brasileira de São José dos Campos, SP"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TH%2B_SBT_Vale"
+   },
+   "logo": null,
+   "website": "https://thmais.com.br/vale/",
+   "city": "São José dos Campos"
+  },
+  {
+   "id": "br.bandceara",
+   "name": "Band Ceará",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCMSrXa-KdG0C8QyujHjJVEg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q97172493",
+   "description": {
+    "en": "television station in Ceará, Brazil",
+    "pt-BR": "estação de televisão comercial brasileira"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Band_Cear%C3%A1",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Band_Cear%C3%A1"
+   },
+   "logo": null,
+   "website": "http://bandtv.band.uol.com.br/tv/ceara",
+   "city": "Fortaleza"
+  },
+  {
+   "id": "br.ricrecordparana",
+   "name": "Ric RECORD Paraná",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCBiZg7ojHPU8ShY7s8xQ6bg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q7276770",
+   "description": {
+    "en": "Brazilian regional television network based in Paraná",
+    "fr": "Rede Independência de Comunicação, ou RIC TV, est un réseau de télévision brésilien fondé le 26 avril 1987 par l'entrepreneur brésilien Mário Gonzaga Petrelli, après la scission avec Rede Manchete.",
+    "pt-BR": "rede de televisão regional brasileira baseada no Paraná",
+    "it": "rete televisiva brasiliana"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/RIC_TV",
+    "fr": "https://fr.wikipedia.org/wiki/RIC_TV",
+    "pt-BR": "https://pt.wikipedia.org/wiki/RIC_Record",
+    "it": "https://it.wikipedia.org/wiki/RIC_TV"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/RICTV_logo_%282025%29.png?width=256",
+   "website": "https://ricmais.com.br/",
+   "city": "Curitiba"
+  },
+  {
+   "id": "br.tvebahia",
+   "name": "TVE Bahia",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC3croy4Mmkr_CpssQihMytw",
+   "youtubeVideoId": "G6wDiOMMj3s",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10377135",
+   "description": {
+    "en": "television station in Bahia, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Salvador, Bahia"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/TV_Educativa_da_Bahia",
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Educativa_da_Bahia"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TVE_Bahia_logo_%282022%29.svg?width=256",
+   "website": "http://www.irdeb.ba.gov.br/tveonline",
+   "city": "Salvador"
+  },
+  {
+   "id": "br.tvnorteamazonas",
+   "name": "TV Norte Amazonas",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC4WNZYa1d0HVzdVWlfJEGjw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q132181341",
+   "description": {
+    "pt-BR": "Rede de televisão regional brasileira"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Norte"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_Norte_%282024%29_logo.png?width=256",
+   "website": null,
+   "city": "Amazonas"
+  },
+  {
+   "id": "br.cbncampinas",
+   "name": "CBN Campinas",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCy_naU-R1MwrRNXkVXcUiIw",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q9669650",
+   "description": {
+    "pt-BR": "estação de rádio brasileira de Campinas, SP",
+    "id": "stasiun radio",
+    "de": "brasilianischer Hörfunksender"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/CBN_Campinas"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CBN_Campinas_logo_2019.png?width=256",
+   "website": "http://www.portalcbncampinas.com.br",
+   "city": "Campinas"
+  },
+  {
+   "id": "br.agazeta",
+   "name": "A Gazeta",
+   "category": "regional",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCNVrdbEJ_n7EPoBKkNVKvfg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q18285196",
+   "description": {
+    "en": "Brazilian newspaper based in Espírito Santo",
+    "es": "A Gazeta es un portal de noticias brasileño editado en la ciudad de Vitória, capital del estado de Espírito Santo, propiedad del grupo de medios Rede Gazeta.",
+    "zh-Hans": "巴西报纸",
+    "pt-BR": "jornal diário editado no Espírito Santo",
+    "de": "brasilianische Zeitung"
+   },
+   "wikipedia": {
+    "es": "https://es.wikipedia.org/wiki/A_Gazeta_(Esp%C3%ADrito_Santo)",
+    "pt-BR": "https://pt.wikipedia.org/wiki/A_Gazeta_(Esp%C3%ADrito_Santo)"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marca_grafica_agazeta_horizontal_1.png?width=256",
+   "website": "https://www.agazeta.com.br/",
+   "city": "Vitória"
+  },
+  {
    "id": "br.canalgov",
    "name": "Canal Gov",
    "category": "government",
@@ -455,6 +1439,83 @@
    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Marca_TV_C%C3%A2mara_-_2018.png?width=256",
    "website": "https://www.camara.leg.br/tv",
    "city": null
+  },
+  {
+   "id": "br.tvalba",
+   "name": "TV ALBA",
+   "category": "government",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCSv_XzKsyDzIsOOHRpme_Ow",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q98417574",
+   "description": {
+    "pt-BR": "emissora brasileira de televisão da Assembleia Legislativa da Bahia"
+   },
+   "wikipedia": {},
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/TV_Alba_01.jpg?width=256",
+   "website": "https://www.al.ba.gov.br/midia-center/tvalba",
+   "city": "Salvador"
+  },
+  {
+   "id": "br.riotvcamara",
+   "name": "Rio TV Câmara",
+   "category": "government",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCmkgkpuRbUGzwLSpnV2nevQ",
+   "youtubeVideoId": "Zldtty4arbo",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q131721910",
+   "description": {
+    "en": "Rio de Janeiro City Council Legislative TV",
+    "pt-BR": "TV legislativa da Câmara Municipal do Rio de Janeiro"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/Rio_TV_C%C3%A2mara"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rio_TV_C%C3%A2mara_Logo.jpg?width=256",
+   "website": "https://www.camara.rio/comunicacao/tv-camara",
+   "city": "Rio de Janeiro"
+  },
+  {
+   "id": "br.uolesporte",
+   "name": "UOL Esporte",
+   "category": "sports",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC3KHYFWeB0WimMBfm3NEahQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q1783492",
+   "description": {
+    "en": "Brazilian web content, products and services firm",
+    "es": "proveedor de servicios de Internet brasileño",
+    "ja": "ブラジルの企業",
+    "fr": "fournisseur d'accès à internet brésilien",
+    "pt-BR": "empresa brasileira de conteúdo, produtos e serviços de internet",
+    "ar": "شركة برازيلية",
+    "nl": "bedrijf uit Brazilië",
+    "de": "brasilianischer Online-Dienstleister und Internet-Provider"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Universo_Online",
+    "es": "https://es.wikipedia.org/wiki/Universo_Online",
+    "ja": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%8B%E3%83%B4%E3%82%A7%E3%83%AB%E3%82%BD%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3",
+    "fr": "https://fr.wikipedia.org/wiki/Universo_Online",
+    "pt-BR": "https://pt.wikipedia.org/wiki/UOL",
+    "de": "https://de.wikipedia.org/wiki/Universo_Online"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_do_UOL_%282021%29.svg?width=256",
+   "website": "https://www.uol.com.br/",
+   "city": "São Paulo"
   },
   {
    "id": "br.cbn",
@@ -601,6 +1662,228 @@
    "logo": null,
    "website": null,
    "city": null
+  },
+  {
+   "id": "br.radiosuper1005fm",
+   "name": "Rádio Super 100.5 FM",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCIOosFcrtBhEwlVeGcYSqiQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10358277",
+   "description": {
+    "en": "Religious broadcasting",
+    "pt-BR": "Rede Super é uma rede de televisão brasileira com sede em Belo Horizonte, Minas Gerais fundada em maio de 1997 como Rede de Televisão Comunitária.",
+    "de": "brasilianischer Fernsehsender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Rede_Super",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Rede_Super"
+   },
+   "logo": null,
+   "website": "http://redesuper.com.br/",
+   "city": "Belo Horizonte"
+  },
+  {
+   "id": "br.jovempanentretenimento",
+   "name": "Jovem Pan FM",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCsahCqRiZarflb9vXpAOVtQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q3187172",
+   "description": {
+    "en": "Brazilian radio network for the younger crowd",
+    "fr": "Jovem Pan est un réseau de radios FM et AM diffusant dans tout le Brésil et dans quelques autres parties du monde, dont l'écoute est principalement destinée au jeune public.",
+    "pt-BR": "rede de rádio brasileira destinado ao público jovem",
+    "it": "stazione radiofonica brasiliana",
+    "id": "stasiun radio di Brasil",
+    "de": "brasilianischer Hörfunksender"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Jovem_Pan_FM",
+    "fr": "https://fr.wikipedia.org/wiki/Jovem_Pan_FM",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Jovem_Pan_FM"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Jovem_Pan_FM_logo_2018.png?width=256",
+   "website": "http://jovempanfm.uol.com.br/",
+   "city": null
+  },
+  {
+   "id": "br.fmodia",
+   "name": "FM O Dia",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCs11lqGV02Y-gu2f6G1r4ug",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10279069",
+   "description": {
+    "en": "radio station in Brazil",
+    "pt-BR": "FM O Dia é uma rede de rádios brasileira com sede no município do Rio de Janeiro, capital do estado homônimo.",
+    "id": "stasiun radio"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/FM_O_Dia"
+   },
+   "logo": null,
+   "website": "http://www.fmodia.com.br",
+   "city": null
+  },
+  {
+   "id": "br.capitalcomvoce",
+   "name": "Rádio Capital",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UC1utYBZoJk4zUN3KsTbAIKQ",
+   "youtubeVideoId": "IGj7aQipZRA",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10365620",
+   "description": {
+    "en": "Brazilian radio station in São Paulo city",
+    "pt-BR": "estação de rádio brasileira de São Paulo, SP",
+    "it": "stazione radiofonica brasiliana",
+    "id": "stasiun radio di Brasil",
+    "de": "brasilianischer Hörfunksender"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/R%C3%A1dio_Capital_(S%C3%A3o_Paulo)"
+   },
+   "logo": null,
+   "website": "https://www.capitalcomvoce.com.br/",
+   "city": "São Paulo"
+  },
+  {
+   "id": "br.radiocidadeverde",
+   "name": "Rádio Cidade Verde",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCx5Fpaof_T0-4qpztpbjlWg",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q113018493",
+   "description": {
+    "en": "radio station in Piauí, Brazil",
+    "pt-BR": "estação de rádio brasileira de Teresina, PI"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/R%C3%A1dio_Cidade_Verde"
+   },
+   "logo": null,
+   "website": "http://radiocidadeverde.com.br/",
+   "city": "Teresina"
+  },
+  {
+   "id": "br.energia97fm",
+   "name": "Energia 97 FM",
+   "category": "radio",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCIkAO7iHS6R9AtcABE9MdRQ",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q10272846",
+   "description": {
+    "en": "radio station in São Paulo, Brazil",
+    "pt-BR": "estação de rádio brasileira da cidade de São Paulo",
+    "it": "stazione radiofonica brasiliana",
+    "id": "stasiun radio di Brasil",
+    "de": "brasilianischer Hörfunksender"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/Energia_97"
+   },
+   "logo": null,
+   "website": "http://www.97fm.com.br/",
+   "city": "São Paulo"
+  },
+  {
+   "id": "br.boasnovasbelem",
+   "name": "Boas Novas Belém",
+   "category": "religious",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCEmUHwR_7CXNttDPGJuujpA",
+   "youtubeVideoId": "U03dpJWm4Iw",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10377200",
+   "description": {
+    "en": "television station in Pará, Brazil",
+    "pt-BR": "emissora de televisão brasileira de Belém, PA"
+   },
+   "wikipedia": {
+    "en": "https://en.wikipedia.org/wiki/Boas_Novas_Bel%C3%A9m",
+    "pt-BR": "https://pt.wikipedia.org/wiki/Boas_Novas_Bel%C3%A9m"
+   },
+   "logo": null,
+   "website": null,
+   "city": "Belém"
+  },
+  {
+   "id": "br.cancaonovaaracaju",
+   "name": "Canção Nova Aracaju",
+   "category": "religious",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCPpcVh9-JbPxyJq99S1p_Wg",
+   "youtubeVideoId": "aOOhwUDy8g4",
+   "embeddable": true,
+   "live": true,
+   "wikidata": "Q10376992",
+   "description": {
+    "pt-BR": "emissora de televisão brasileira de Aracaju, SE"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Can%C3%A7%C3%A3o_Nova_Aracaju"
+   },
+   "logo": null,
+   "website": "http://blog.cancaonova.com/aracaju",
+   "city": "Aracaju"
+  },
+  {
+   "id": "br.tvunesp",
+   "name": "TV Unesp",
+   "category": "culture",
+   "languages": [
+    "pt"
+   ],
+   "youtubeChannelId": "UCaRwlcHcvQbrfdbTF500zLA",
+   "youtubeVideoId": null,
+   "embeddable": null,
+   "live": false,
+   "wikidata": "Q30936627",
+   "description": {
+    "en": "public television station of São Paulo State University in Bauru, Brazil",
+    "pt-BR": "emissora de televisão pública da Universidade Estadual Paulista, em Bauru"
+   },
+   "wikipedia": {
+    "pt-BR": "https://pt.wikipedia.org/wiki/TV_Unesp"
+   },
+   "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_da_TV_Unesp.svg?width=256",
+   "website": "https://tv.unesp.br/",
+   "city": "Bauru"
   }
  ]
 }

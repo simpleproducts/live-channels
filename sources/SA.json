@@ -8,6 +8,8 @@
   {"id": "asharqbusiness", "name": "Asharq Bloomberg", "category": "economy", "youtubeChannelId": "UCxjpGbfoLy6oodYdiyzQE4g", "youtubeVideoId": "ntCQbyvAKG0", "embeddable": true, "live": true, "liveSince": "2026-08-12T09:04:51Z", "languages": ["ar"]},
   {"id": "ksasports", "name": "KSA Sports", "category": "sports", "youtubeChannelId": "UCLo2xigvxv9ksxp78AyCBTw", "youtubeVideoId": "jgAiTtx_8xc", "embeddable": true, "live": false},
   {"id": "quran", "name": "Saudi Quran TV (Makkah)", "category": "religious", "youtubeChannelId": "UCos52azQNBgW63_9uDJoPDA", "youtubeVideoId": "IsJTAdC3-Jw", "embeddable": true, "live": true, "liveSince": "2026-11-10T14:18:25Z", "languages": ["ar"]},
-  {"id": "sunnah", "name": "Saudi Sunnah TV (Madinah)", "category": "religious", "youtubeChannelId": "UCROKYPep-UuODNwyipe6JMw", "youtubeVideoId": "DLnqQHiDbaI", "embeddable": true, "live": true, "liveSince": "2026-11-23T14:23:51Z", "languages": ["ar"]}
+  {"id": "sunnah", "name": "Saudi Sunnah TV (Madinah)", "category": "religious", "youtubeChannelId": "UCROKYPep-UuODNwyipe6JMw", "youtubeVideoId": "DLnqQHiDbaI", "embeddable": true, "live": true, "liveSince": "2026-11-23T14:23:51Z", "languages": ["ar"]},
+  {"id": "iqraatv", "name": "اقرأ", "category": "religious", "youtubeChannelId": "UCiC_h4iC9s7Ddr3CT82_EpA", "youtubeVideoId": "7yIMyi3AR1w", "embeddable": true, "live": true, "liveSince": "2026-11-22T00:00:00Z", "wikidata": "Q3477804"},
+  {"id": "almajdtvnetwork", "name": "شبكة المجد", "category": "religious", "youtubeChannelId": "UCwrOzs_R_1zmb5HZr3DDilg", "live": false, "wikidata": "Q4121863"}
  ]
 }
