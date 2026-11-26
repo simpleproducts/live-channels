@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "pk.geonews",
   "pk.arynews",
@@ -22,7 +22,7 @@
     "ur"
    ],
    "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-   "youtubeVideoId": "FqW-m8Fzpmk",
+   "youtubeVideoId": "aiod9yHW7kU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7388622",
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCcmpeVbSSQlZRvHfdC-CRwg",
    "youtubeVideoId": "ph3AK85VIWw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20647024",
    "description": {
     "en": "Pakistani Urdu-language TV channel",

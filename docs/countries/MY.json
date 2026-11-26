@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "my.awani",
   "my.beritartm",
-  "my.suriamalaysia",
-  "my.aifm"
+  "my.suriamalaysia"
  ],
  "channels": [
   {
@@ -313,7 +312,7 @@
    "youtubeChannelId": "UCywk3jQt1NzS4iSdyCYa45g",
    "youtubeVideoId": "MMNe5qCRd90",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1705610",
    "description": {
     "en": "Malaysian radio station",

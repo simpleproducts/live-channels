@@ -24,7 +24,7 @@
   {"id": "nagoriktv", "name": "Nagorik TV", "category": "broadcast", "youtubeChannelId": "UCig6MgICx3g8p3IHZM45oEA", "live": false, "wikidata": "Q61361818"},
   {"id": "bangladeshtelevision", "name": "Bangladesh Television", "category": "broadcast", "youtubeChannelId": "UClzwimpLoZu9us9MwalLbtA", "live": false, "wikidata": "Q3348663"},
   {"id": "dailypurbokone", "name": "Daily Purbokone", "category": "regional", "youtubeChannelId": "UCPczt8v8G_NtXh8vbTUOh6Q", "live": false, "wikidata": "Q19739647"},
-  {"id": "tsports", "name": "T Sports", "category": "sports", "youtubeChannelId": "UC2t9imwIR7xlDfma3CmRKJQ", "youtubeVideoId": "OSE_cW0L6jc", "embeddable": true, "live": true, "liveSince": "2026-11-26T14:16:17Z", "wikidata": "Q102037696"},
+  {"id": "tsports", "name": "T Sports", "category": "sports", "youtubeChannelId": "UC2t9imwIR7xlDfma3CmRKJQ", "youtubeVideoId": "OSE_cW0L6jc", "embeddable": true, "live": false, "wikidata": "Q102037696"},
   {"id": "944jagofm", "name": "94.4 JAGO FM", "category": "radio", "youtubeChannelId": "UCUyT1ZfnUldi1GK2uN27Qew", "live": false, "wikidata": "Q63153130"}
  ]
 }

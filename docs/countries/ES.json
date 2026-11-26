@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
   "es.elpais",
+  "es.elmundo",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
-  "es.rtvcanarias",
-  "es.laseptima"
+  "es.rtvcanarias"
  ],
  "channels": [
   {
@@ -97,7 +97,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "c5ior8aIqtE",
+   "youtubeVideoId": "1nECvKLHxO8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q50009",
@@ -169,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-   "youtubeVideoId": "aaQyRMrcfTs",
+   "youtubeVideoId": "FmuK8Qc2ObQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -478,7 +478,7 @@
    "youtubeChannelId": "UCX_GBaJP8CtYdI8-lH2VrJA",
    "youtubeVideoId": "3_IOTVkCoCw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q21834504",
    "description": {
     "en": "Private Spanish Entertainment Television Network",
@@ -1011,9 +1011,9 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "GpFScR-Viuo",
+   "youtubeVideoId": "nDUXxvJMdeE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -1044,9 +1044,9 @@
     "es"
    ],
    "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ",
-   "youtubeVideoId": "1tiqNtuoRqs",
+   "youtubeVideoId": "5usZwwNGTkA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2748488",
    "description": {
     "en": "the Spanish private national radio of the Spanish Catholic Church",

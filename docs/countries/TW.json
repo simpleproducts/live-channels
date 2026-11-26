@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TW",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "tw.chungtientelevision",
   "tw.formosatvnewsnetwork",
@@ -10,8 +10,8 @@
   "tw.inews",
   "tw.globlenewschannel",
   "tw.mnews",
-  "tw.ustv",
-  "tw.57"
+  "tw.ctitvnews",
+  "tw.ustv"
  ],
  "channels": [
   {
@@ -55,9 +55,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCpu3bemTQwAU8PqM4kJdoEQ",
-   "youtubeVideoId": "DzDt_3S5wss",
+   "youtubeVideoId": "6B1OaF4ym44",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5014664",
    "description": {
     "en": "Pro-People's Republic of China online news channels in the Republic of China (Taiwan)",
@@ -603,9 +603,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCCKuLtumYbtQsSRASl9H_iw",
-   "youtubeVideoId": "E8xbWK62Vb0",
+   "youtubeVideoId": "GWQhMIRDkvc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q698965",
    "description": {
     "en": "radio broadcasting company of the Republic of China",
@@ -638,9 +638,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCJ5rBA0z4WFGtUTS83sAb_A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "c4pZvJdUJfw",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q3247910",
    "description": {
     "en": "radio station based in Taipei, Taiwan",
@@ -665,9 +665,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCTTq-Hhcb_eUq0-dWpdlvpg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "TjNBI47yWZQ",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q5871347",
    "description": {
     "en": "pop music radio station",
@@ -696,9 +696,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCUaf4I5TYCExf9mWzv1cB_A",
-   "youtubeVideoId": "gL7yDNeuuvo",
+   "youtubeVideoId": "IxiWqwfIR1I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5969604",
    "description": {
     "en": "radio station in Taiwan",
@@ -724,9 +724,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCS5EoJjZ3vZzjoPCezowCdA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "dqldx4Os_Uo",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q10956162",
    "description": {
     "en": "Taiwanese radio station",

@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "RO",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "ro.romaniatv",
-  "ro.gandul",
   "ro.trinitastv"
  ],
  "channels": [
@@ -90,7 +89,7 @@
    "youtubeChannelId": "UCQDHc1PDTAxM-8ca9ssR0bQ",
    "youtubeVideoId": "UdtHgub3EvQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q954232",
    "description": {
     "en": "Romanian online newspaper",

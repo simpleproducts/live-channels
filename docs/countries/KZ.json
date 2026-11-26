@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "KZ",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
-  "kz.1612",
   "kz.qazaqstantv"
  ],
  "channels": [
@@ -44,7 +43,7 @@
    "youtubeChannelId": "UC6wZggQydceHuEwIT5GUgBA",
    "youtubeVideoId": "6km69rUAHYg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17317619",
    "description": {
     "en": "television channel",

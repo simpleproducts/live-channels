@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
-  "br.jovempan",
   "br.recordnews",
+  "br.jovempan",
   "br.cnnbrasil",
   "br.sbtnews",
   "br.canalrural",
-  "br.uol",
+  "br.metropoles",
   "br.tv247",
   "br.tvthsbtvale",
   "br.canalgov"
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "8Am4DOXf-uc",
+   "youtubeVideoId": "sPawuxQP15A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "Iu9_rrM6NCM",
+   "youtubeVideoId": "uRJFuVLl_RU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -159,7 +159,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
-   "youtubeVideoId": "AGrccXYgDIc",
+   "youtubeVideoId": "S1K_cXWeNkg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q9693797",
@@ -183,7 +183,7 @@
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
    "youtubeVideoId": "BZF_esWDIDU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -199,9 +199,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "_h3DMTs4wdY",
+   "youtubeVideoId": "1LocTleAmbI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -265,7 +265,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCRuy5PigeeBuecKnwqhM4yg",
-   "youtubeVideoId": "omATqavit44",
+   "youtubeVideoId": "sOw1RYuN3sk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q9663951",
@@ -561,7 +561,7 @@
    "youtubeChannelId": "UCumKvcgpO2MCQ45pi-fXf_g",
    "youtubeVideoId": "d8pUxn8bdY8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q18242204",
    "description": {
     "en": "Television network",
@@ -638,7 +638,7 @@
    "youtubeChannelId": "UC4HvOqEHSll8ieikr6ffvqQ",
    "youtubeVideoId": "9OR9aHaNmSw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16496650",
    "description": {
     "en": "television station in Minas Gerais, Brazil",
@@ -685,7 +685,7 @@
    "youtubeChannelId": "UC0BRJ5CnbHAvdOx2sv9XNnA",
    "youtubeVideoId": "IeyXdNss0sQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10358163",
    "description": {
     "pt-BR": "emissora de televisão brasileira de Itaituba, PA"
@@ -730,7 +730,7 @@
    "youtubeChannelId": "UCX_Nxpcz-9EXhRIlaoo2c-w",
    "youtubeVideoId": "ErYh-dcx98s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10376895",
    "description": {
     "en": "Brazilian television station of Salvador, BA",
@@ -755,7 +755,7 @@
    "youtubeChannelId": "UC7nLWNgxf_v0dVzU8RnQYiA",
    "youtubeVideoId": "h3UAKLNN-cQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10376926",
    "description": {
     "en": "television station in Brasília, Brazil",
@@ -779,7 +779,7 @@
    "youtubeChannelId": "UCgIkaEvC4jBudVhxoZx9pGA",
    "youtubeVideoId": "zxiLYOweJYg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10376925",
    "description": {
     "en": "television station in São Paulo, Brazil",
@@ -803,7 +803,7 @@
    "youtubeChannelId": "UCi0ftpk_k9UhC2oNrnxatNA",
    "youtubeVideoId": "2fuWtdUa3Bg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10376930",
    "description": {
     "en": "television station in Manaus, Brazil",
@@ -827,7 +827,7 @@
    "youtubeChannelId": "UCsO2cCvQPPDl7MC_nsfnnwg",
    "youtubeVideoId": "YEkyT63UcV8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10376928",
    "description": {
     "en": "television station in Curitiba, Brazil",
@@ -875,7 +875,7 @@
    "youtubeChannelId": "UCGLsX_hLUxuqRkA-T1E0IuA",
    "youtubeVideoId": "MTw22kbva5c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10376933",
    "description": {
     "en": "television station in Rio Grande do Norte, Brazil",
@@ -899,7 +899,7 @@
    "youtubeChannelId": "UCzQxHUiLa5prpJoyOxS0GSA",
    "youtubeVideoId": "Ab76HhEYuWY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10376936",
    "description": {
     "en": "television station in Rio de Janeiro, Brazil",
@@ -947,7 +947,7 @@
    "youtubeChannelId": "UC2v6ld0iLyzDJBlyh3HC-Bw",
    "youtubeVideoId": "JAjCU1CKnHU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10376941",
    "description": {
     "en": "television station in Minas Gerais, Brazil",
@@ -971,7 +971,7 @@
    "youtubeChannelId": "UCOFMoDHG-vKXs-f5vcG7JaQ",
    "youtubeVideoId": "1jzMjVT2ZJg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10377072",
    "description": {
     "en": "television station in Pernambuco, Brazil",
@@ -995,7 +995,7 @@
    "youtubeChannelId": "UCoK3R5BtoYTmVblO_3wpGGg",
    "youtubeVideoId": "CmV-ATiBa74",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7672349",
    "description": {
     "en": "television station in Salvador, Bahia",
@@ -1018,9 +1018,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC5R9fUkH1iru752mgABqpGw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "juySS4M8x6Q",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q18275293",
    "description": {
     "en": "television station in Acre, Brazil",
@@ -1089,7 +1089,7 @@
    "youtubeChannelId": "UC-lgd682nAX962k_DxllU1g",
    "youtubeVideoId": "mJrKrWz9Q_o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q110920533",
    "description": {
     "en": "Record-affiliated TV station in Bacabal, Maranhão, Brazil",
@@ -1112,7 +1112,7 @@
    "youtubeChannelId": "UC9GobOkoAvmuw3pXSjwQnIg",
    "youtubeVideoId": "YrsCLAS_ANg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10356621",
    "description": {
     "pt-BR": "emissora de televisão brasileira de Cornélio Procópio, PR"
@@ -1134,7 +1134,7 @@
    "youtubeChannelId": "UCDes47D0_xrzOm_r7b9RQAQ",
    "youtubeVideoId": "ubP2t2KvTF4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10356627",
    "description": {
     "pt-BR": "emissora de televisão brasileira de Toledo, PR"
@@ -1156,7 +1156,7 @@
    "youtubeChannelId": "UClG5ECaZCBQCzCpSqI7hWUA",
    "youtubeVideoId": "UDKdbCSADSs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10356628",
    "description": {
     "pt-BR": "emissora de televisão brasileira de Maringá, PR"
@@ -1178,7 +1178,7 @@
    "youtubeChannelId": "UCfgLINec5p8KFyWVnogp1BA",
    "youtubeVideoId": "wkZ6_fzWIXc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10366361",
    "description": {
     "pt-BR": "emissora de televisão brasileira de Araçatuba, SP"
@@ -1246,7 +1246,7 @@
    "youtubeChannelId": "UCBiZg7ojHPU8ShY7s8xQ6bg",
    "youtubeVideoId": "KhzLnE6A47g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7276770",
    "description": {
     "en": "Brazilian regional television network based in Paraná",
@@ -1274,7 +1274,7 @@
    "youtubeChannelId": "UC3croy4Mmkr_CpssQihMytw",
    "youtubeVideoId": "U-AMGHhn4NQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10377135",
    "description": {
     "en": "television station in Bahia, Brazil",
@@ -1296,7 +1296,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC4WNZYa1d0HVzdVWlfJEGjw",
-   "youtubeVideoId": "TfQJw3V_T74",
+   "youtubeVideoId": "AWVQCZCKCrM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q132181341",
@@ -1395,7 +1395,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ",
-   "youtubeVideoId": "iGzQAU7RBc0",
+   "youtubeVideoId": "TJhdbJYsF7g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7672422",
@@ -1424,7 +1424,7 @@
    "youtubeChannelId": "UC-ZkSRh-7UEuwXJQ9UMCFJA",
    "youtubeVideoId": "7Ss_2o6VxIE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6137650",
    "description": {
     "en": "Brazilian legislative television network",
@@ -1525,7 +1525,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "NZii1powS_c",
+   "youtubeVideoId": "zPUcumWC7gA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -1555,7 +1555,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "ASV2_1odd3o",
+   "youtubeVideoId": "4C67UhwQsPg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -1582,7 +1582,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "1gBnNEc7xyg",
+   "youtubeVideoId": "KBWTNrTg0sc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10365899",
@@ -1608,7 +1608,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "uqV778RlqcA",
+   "youtubeVideoId": "kSu__BVXVcc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
@@ -1751,7 +1751,7 @@
    "youtubeChannelId": "UC1utYBZoJk4zUN3KsTbAIKQ",
    "youtubeVideoId": "f9TmjRab1lg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10365620",
    "description": {
     "en": "Brazilian radio station in São Paulo city",
@@ -1777,7 +1777,7 @@
    "youtubeChannelId": "UCx5Fpaof_T0-4qpztpbjlWg",
    "youtubeVideoId": "4ex-doEA4_I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q113018493",
    "description": {
     "en": "radio station in Piauí, Brazil",
@@ -1798,7 +1798,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCIkAO7iHS6R9AtcABE9MdRQ",
-   "youtubeVideoId": "klusJYAi3yE",
+   "youtubeVideoId": "Q1IACbrCAaU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q10272846",
@@ -1826,7 +1826,7 @@
    "youtubeChannelId": "UCEmUHwR_7CXNttDPGJuujpA",
    "youtubeVideoId": "po9fj7Z8gIE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10377200",
    "description": {
     "en": "television station in Pará, Brazil",
@@ -1848,9 +1848,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCPpcVh9-JbPxyJq99S1p_Wg",
-   "youtubeVideoId": "aOOhwUDy8g4",
+   "youtubeVideoId": "Tpcs1VTFQDY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q10376992",
    "description": {
     "pt-BR": "emissora de televisão brasileira de Aracaju, SE"

@@ -1,17 +1,14 @@
 {
  "schema": 2,
  "code": "PE",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "pe.latina",
-  "pe.larepublica",
+  "pe.pbo",
   "pe.rpp",
   "pe.willax",
-  "pe.tvperunoticias",
-  "pe.atv",
-  "pe.elcomercio",
   "pe.congreso",
-  "pe.exitosa"
+  "pe.radionacional"
  ],
  "channels": [
   {
@@ -22,9 +19,9 @@
     "es"
    ],
    "youtubeChannelId": "UCgR0st4ZLABi-LQcWNu3wnQ",
-   "youtubeVideoId": "qB9L5yrAMLg",
+   "youtubeVideoId": "lRVUd7GAfnE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -42,7 +39,7 @@
    "youtubeChannelId": "UC-B7Xv56uNRDkj0vC3QW8Cg",
    "youtubeVideoId": "VrACSQpQLfM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1330217",
    "description": {
     "en": "Peruvian newspaper",
@@ -73,7 +70,7 @@
     "es"
    ],
    "youtubeChannelId": "UC5j8-2FT0ZMMBkmK72R4aeA",
-   "youtubeVideoId": "dbc6l0-K9bI",
+   "youtubeVideoId": "REypCPAp9MI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3090686",
@@ -121,7 +118,7 @@
     "es"
    ],
    "youtubeChannelId": "UCort3mldTtMErPqprSlSfng",
-   "youtubeVideoId": "bKQkrUQit7s",
+   "youtubeVideoId": "L6AxbKEIbN0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q24038962",
@@ -149,7 +146,7 @@
    "youtubeChannelId": "UCkZCoc42IipR1ucqJmIehsA",
    "youtubeVideoId": "MLVn_VGlifw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630941",
    "description": {
     "en": "Peruvian news television channel",
@@ -173,7 +170,7 @@
    "youtubeChannelId": "UCYG5uXS3xdsoaXIxum1pAEw",
    "youtubeVideoId": "0SATQKE-uLg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -216,7 +213,7 @@
    "youtubeChannelId": "UCLtGUPjKLqa3zgdmhKCZONg",
    "youtubeVideoId": "5IXsInArg5s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1324020",
    "description": {
     "en": "newspaper from Peru",
@@ -467,7 +464,7 @@
    "youtubeChannelId": "UCxgO_rak_BKZP8VNVmYqbWg",
    "youtubeVideoId": "s7exaesiDZQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24035627",
    "description": {
     "en": "Peruvian radio station",
@@ -489,7 +486,7 @@
     "es"
    ],
    "youtubeChannelId": "UCVW7J-lF26d3G3X8i2zmKow",
-   "youtubeVideoId": "_TgDGqeZzyQ",
+   "youtubeVideoId": "zdXecYiDOsA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6096493",

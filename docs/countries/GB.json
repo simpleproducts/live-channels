@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.independent",
-  "gb.mirror",
-  "gb.thesun",
-  "gb.manchestereveningnews",
   "gb.bbcnewsarabic",
-  "gb.alhiwartv"
+  "gb.alhiwartv",
+  "gb.timesradio",
+  "gb.babytvnurseryrhymescarto",
+  "gb.talksport",
+  "gb.mtaonline1"
  ],
  "channels": [
   {
@@ -430,7 +430,7 @@
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
    "youtubeVideoId": "Ldqv5EbEvRc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -486,7 +486,7 @@
    "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q",
    "youtubeVideoId": "Ob5c4g_KXdY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -504,7 +504,7 @@
    "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g",
    "youtubeVideoId": "ytfzVqMuITw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q208875",
    "description": {
     "en": "British tabloid newspaper",
@@ -664,7 +664,7 @@
    "youtubeChannelId": "UCPFSLlkwCqpy23jwYDwAPrg",
    "youtubeVideoId": "wBwAurZL2yQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3070672",
    "description": {
     "en": "newspaper covering the Manchester area of the United Kingdom",

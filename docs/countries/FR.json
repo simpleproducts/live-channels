@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -676,9 +676,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCafjyDNKyp3_gpiFgU42Slg",
-   "youtubeVideoId": "0K3gKsFt1zM",
+   "youtubeVideoId": "tCOCSmI1PI4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2935872",
    "description": {
     "fr": "chaîne de télévision généraliste française"
@@ -745,7 +745,7 @@
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
    "youtubeVideoId": "5IOTKYLLh0c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -786,7 +786,7 @@
    "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA",
    "youtubeVideoId": "AlXzwJgCGC0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3410428",
    "description": {
     "en": "French parliamentary television channel",
@@ -808,9 +808,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCR5V8BTvlkyYtw6T_9swNEw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "4KYoFPcPp8U",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q3415245",
    "description": {
     "en": "French sports news publisher",

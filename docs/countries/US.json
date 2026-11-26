@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -11,7 +11,7 @@
   "us.salemnewschannel",
   "us.nbcnews",
   "us.livenow",
-  "us.msnow"
+  "us.pbsnewshour"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "dlQf_B0OGrA",
+   "youtubeVideoId": "k_ygu0jVZ3o",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -429,9 +429,9 @@
     "en"
    ],
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-   "youtubeVideoId": "2qVuRMqRBIs",
+   "youtubeVideoId": "CfsGyfdf-lI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -603,7 +603,7 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "4W2U0738Lis",
+   "youtubeVideoId": "GjX7SROH1s4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q13973",
@@ -763,9 +763,9 @@
     "en"
    ],
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-   "youtubeVideoId": "f2nr8zBIbdo",
+   "youtubeVideoId": "Yov6ZwszG7g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -781,7 +781,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8Ioh4atNDO5a0Vy2qFmauQ",
-   "youtubeVideoId": "4fQG849p6wE",
+   "youtubeVideoId": "P8jwNb7rnqY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1334450",
@@ -1210,7 +1210,7 @@
     "en"
    ],
    "youtubeChannelId": "UCMGZ8pfQHgZ6Yj0-92PMENg",
-   "youtubeVideoId": "vdWDj3uFUHg",
+   "youtubeVideoId": "isNLdOYoJk8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q111426457",
@@ -2920,9 +2920,9 @@
     "en"
    ],
    "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ",
-   "youtubeVideoId": "zFXxGsHd5eE",
+   "youtubeVideoId": "ZpJlociXFyM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q35525",
    "description": {
     "en": "official residence and office of the President of the United States",
@@ -3301,7 +3301,7 @@
    "youtubeChannelId": "UC_MJPm4CvGV9PMV5QA8HlpQ",
    "youtubeVideoId": "Tk7w6VmZvGo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q125107089",
    "description": {},
    "wikipedia": {},

@@ -3,8 +3,8 @@
  "languages": ["sq"],
  "defaultTiles": ["teve1", "syritv"],
  "channels": [
-  {"id": "teve1", "name": "TËVË 1", "category": "news", "youtubeChannelId": "UCm7xhcX-x1Yi3E0WYy4RiZQ", "youtubeVideoId": "0V4YaiyfncU", "embeddable": true, "live": true, "liveSince": "2026-11-26T15:12:46Z", "wikidata": "Q112195066"},
-  {"id": "syritv", "name": "SYRI TV", "category": "news", "youtubeChannelId": "UCrhOdWxeea0IF_H7jV4y7tQ", "youtubeVideoId": "et0PaX1UVJs", "embeddable": true, "live": true, "liveSince": "2026-11-26T14:56:42Z", "wikidata": "Q115801956"},
+  {"id": "teve1", "name": "TËVË 1", "category": "news", "youtubeChannelId": "UCm7xhcX-x1Yi3E0WYy4RiZQ", "youtubeVideoId": "0V4YaiyfncU", "embeddable": true, "live": false, "wikidata": "Q112195066"},
+  {"id": "syritv", "name": "SYRI TV", "category": "news", "youtubeChannelId": "UCrhOdWxeea0IF_H7jV4y7tQ", "youtubeVideoId": "et0PaX1UVJs", "embeddable": true, "live": false, "wikidata": "Q115801956"},
   {"id": "topchannelalbania", "name": "Top Channel Albania", "category": "broadcast", "youtubeChannelId": "UCyny-dfYPbE-CjAkzkZqF8A", "live": false, "wikidata": "Q968899"},
   {"id": "rtsh", "name": "RTSH", "category": "broadcast", "youtubeChannelId": "UCpiewjt_Bvzkebn6l1hwWOg", "youtubeVideoId": "0oFmX49l_DU", "embeddable": true, "live": false, "wikidata": "Q1334457"}
  ]

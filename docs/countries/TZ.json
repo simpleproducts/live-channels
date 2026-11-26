@@ -1,9 +1,9 @@
 {
  "schema": 2,
  "code": "TZ",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
-  "tz.itvtanzania"
+  "tz.ariseandshinetanzania"
  ],
  "channels": [
   {
@@ -17,7 +17,7 @@
    "youtubeChannelId": "UCRmReUqNqc-GSZeD48QKjhQ",
    "youtubeVideoId": "tA6siEYy91I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q124391607",
    "description": {
     "en": "Tanzanian commercial TV network",
@@ -58,9 +58,9 @@
     "en"
    ],
    "youtubeChannelId": "UC7WineEJjDvj7K1bbYNXYww",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "ghR6lX3bzc0",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q125343715",
    "description": {
     "de": "tansanianischer Fernsehsender"

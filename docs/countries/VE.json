@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "ve.vpitv",
+  "ve.noticiasvenevision",
   "ve.laiguanatv",
   "ve.telesurenglish",
   "ve.vtv",
@@ -84,9 +85,9 @@
     "es"
    ],
    "youtubeChannelId": "UCR1tLg8fy9dklmhZPf0qCWQ",
-   "youtubeVideoId": "kL3bUNW5wJo",
+   "youtubeVideoId": "zoswSXinno4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5825366",
    "description": {
     "es": "Noticiero venezolano emitido por el canal Venevisión.",
@@ -126,7 +127,7 @@
     "es"
    ],
    "youtubeChannelId": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
-   "youtubeVideoId": "ZTiDJsp60wI",
+   "youtubeVideoId": "EB9nYbwXRrY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q141914802",
@@ -162,7 +163,7 @@
     "es"
    ],
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-   "youtubeVideoId": "1UGqr0iflzQ",
+   "youtubeVideoId": "0dWa0b3EQP0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5770016",

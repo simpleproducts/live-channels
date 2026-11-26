@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
-  "mx.nmas",
-  "mx.excelsior",
-  "mx.latinus",
   "mx.heraldo",
-  "mx.unotv",
-  "mx.aristegui"
+  "mx.sinembargoalaire",
+  "mx.multimedios",
+  "mx.canalonce",
+  "mx.distritocomedia",
+  "mx.radioformula"
  ],
  "channels": [
   {
@@ -42,7 +42,7 @@
    "youtubeChannelId": "UCUsm-fannqOY02PNN67C0KA",
    "youtubeVideoId": "-wptIZ-mApI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -78,7 +78,7 @@
    "youtubeChannelId": "UClqo4ZAAZ01HQdCTlovCgkA",
    "youtubeVideoId": "u9K2pHqHgo8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16492985",
    "description": {
     "en": "Television channel",
@@ -123,7 +123,7 @@
    "youtubeChannelId": "UC-FVhfqCwhzpJ4DTJOMMofA",
    "youtubeVideoId": "8FlJnQ5WY9w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -139,7 +139,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "zE5Ia76dTXw",
+   "youtubeVideoId": "1Vn6zblaMDk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65047709",
@@ -171,7 +171,7 @@
    "youtubeChannelId": "UC-bk3CDvTwt2TqPHykduhcQ",
    "youtubeVideoId": "hS_zoRPQ2UQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q39080697",
    "description": {
     "es": "generador de contenidos en México"
@@ -211,7 +211,7 @@
    "youtubeChannelId": "UCafNntv_qTQB26AvbEQNHPw",
    "youtubeVideoId": "S4lxA3Mu5Pc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q61998946",
    "description": {
     "en": "Mexico online newspaper",
@@ -254,7 +254,7 @@
     "es"
    ],
    "youtubeChannelId": "UCt7k7y_xTkkc1Jeh7cdAjDQ",
-   "youtubeVideoId": "8g1yC0zIaIc",
+   "youtubeVideoId": "BecFKzf0r6A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q111978975",
@@ -353,7 +353,7 @@
    "youtubeChannelId": "UCvKhnicGlLpJWfgAcmX8zXQ",
    "youtubeVideoId": "z-WOoYuBF18",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q15623489",
    "description": {
     "en": "Mexican public TV network",
@@ -378,7 +378,7 @@
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
    "youtubeVideoId": "JNq8h-1o0Dg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -545,7 +545,7 @@
    "youtubeChannelId": "UCvzHrtf9by1-UY67SfZse8w",
    "youtubeVideoId": "B-gMHPwu8Hk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5440529",
    "description": {
     "en": "national government of the United Mexican States",
@@ -616,7 +616,7 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "OYpXkqSURes",
+   "youtubeVideoId": "APHjqRSdp4E",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20847624",
@@ -641,7 +641,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "LG8cSNidb-c",
+   "youtubeVideoId": "5K_w77cAgp0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -695,7 +695,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "V8-onDHOcH8",
+   "youtubeVideoId": "hT6QmWLR-88",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -715,7 +715,7 @@
    "youtubeChannelId": "UCwFaHK7ir817prgY5Y-qemw",
    "youtubeVideoId": "Ah2Vxndyv6M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q42908534",
    "description": {
     "en": "Mexican public TV network",

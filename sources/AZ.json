@@ -4,8 +4,8 @@
  "defaultTiles": ["tvmusavat"],
  "channels": [
   {"id": "tvmusavat", "name": "Tv Musavat", "category": "news", "youtubeChannelId": "UCtvU8QAYnxFGCH7v9-dUOYw", "live": false, "wikidata": "Q12847974"},
-  {"id": "ictimaitv", "name": "İCTİMAİ TV", "category": "broadcast", "youtubeChannelId": "UCCYhaH52lUEmfUjX-_OBAHg", "youtubeVideoId": "bdwLuXNO1v4", "embeddable": true, "live": true, "liveSince": "2026-11-26T13:32:03Z", "wikidata": "Q343446"},
-  {"id": "aztv", "name": "AZTV", "category": "broadcast", "youtubeChannelId": "UCVf7OL0jKiO1OMHN_qaNf0w", "youtubeVideoId": "2RJRS3DD_R8", "embeddable": true, "live": true, "liveSince": "2026-11-26T12:27:24Z", "wikidata": "Q616799"},
-  {"id": "bakutv", "name": "Baku TV", "category": "broadcast", "youtubeChannelId": "UCINwqO8Scgq___xJAVjfn7g", "youtubeVideoId": "0YnSY3rPhOQ", "embeddable": true, "live": true, "liveSince": "2026-11-26T14:59:35Z", "wikidata": "Q119252675"}
+  {"id": "ictimaitv", "name": "İCTİMAİ TV", "category": "broadcast", "youtubeChannelId": "UCCYhaH52lUEmfUjX-_OBAHg", "youtubeVideoId": "bdwLuXNO1v4", "embeddable": true, "live": false, "wikidata": "Q343446"},
+  {"id": "aztv", "name": "AZTV", "category": "broadcast", "youtubeChannelId": "UCVf7OL0jKiO1OMHN_qaNf0w", "youtubeVideoId": "d90qwnufr_s", "embeddable": true, "live": true, "liveSince": "2026-11-26T19:23:52Z", "wikidata": "Q616799"},
+  {"id": "bakutv", "name": "Baku TV", "category": "broadcast", "youtubeChannelId": "UCINwqO8Scgq___xJAVjfn7g", "youtubeVideoId": "DwvCI98fY6M", "embeddable": true, "live": true, "liveSince": "2026-11-26T13:57:18Z", "wikidata": "Q119252675"}
  ]
 }

@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "MA",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
-  "ma.m24tv",
-  "ma.medradioofficiel",
-  "ma.radiomars"
+  "ma.m24tv"
  ],
  "channels": [
   {
@@ -40,7 +38,7 @@
    "youtubeChannelId": "UCgEL_zmaQl_8FzOLscGIA-g",
    "youtubeVideoId": "soXRviXLPWk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q25451081",
    "description": {
     "en": "radio station in Morocco",
@@ -95,7 +93,7 @@
    "youtubeChannelId": "UCGBuA7vzbaAzrImRWmI8Iwg",
    "youtubeVideoId": "0Q3ZzJGy9gw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3416731",
    "description": {
     "en": "Moroccan sports radio station",

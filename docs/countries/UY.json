@@ -1,12 +1,15 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
+  "uy.elobservadoruy",
   "uy.ladiaria",
   "uy.tnu",
   "uy.carve",
   "uy.delsol",
+  "uy.canal10",
+  "uy.tvciudad",
   "uy.universal"
  ],
  "channels": [
@@ -18,9 +21,9 @@
     "es"
    ],
    "youtubeChannelId": "UCLvbVJDsVX4-qoyladIiVaQ",
-   "youtubeVideoId": "QK-HK3NB_MQ",
+   "youtubeVideoId": "8zOft44Tl0o",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q892935",
    "description": {
     "en": "Uruguayan newspaper",
@@ -100,7 +103,7 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "m75bCX5bh84",
+   "youtubeVideoId": "WzEVFBuai6w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1775667",
@@ -140,9 +143,9 @@
     "es"
    ],
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
-   "youtubeVideoId": "erdZBHy-kJg",
+   "youtubeVideoId": "TDKaRW2C43s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -227,9 +230,9 @@
     "es"
    ],
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
-   "youtubeVideoId": "zekYh8cZU9I",
+   "youtubeVideoId": "nehjeTfQaJ8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -326,7 +329,7 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "JEVfJ46UE4g",
+   "youtubeVideoId": "4wL9o0OqNpg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -362,7 +365,7 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "AnAw50Idy5U",
+   "youtubeVideoId": "TFxarYHpyrM",
    "embeddable": true,
    "live": true,
    "wikidata": null,

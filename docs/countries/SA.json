@@ -1,14 +1,14 @@
 {
  "schema": 2,
  "code": "SA",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "sa.alekhbariya",
   "sa.asharq",
   "sa.asharqbusiness",
   "sa.quran",
   "sa.iqraatv",
-  "sa.almajdtvnetwork"
+  "sa.sunnah"
  ],
  "channels": [
   {
@@ -133,9 +133,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCROKYPep-UuODNwyipe6JMw",
-   "youtubeVideoId": "DLnqQHiDbaI",
+   "youtubeVideoId": "10aUPlTW8wQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16120241",
    "description": {
     "en": "A Saudi television channel broadcasting from Medina 24 hours a day",
@@ -186,7 +186,7 @@
    "youtubeChannelId": "UCwrOzs_R_1zmb5HZr3DDilg",
    "youtubeVideoId": "LTYt52GWf4E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4121863",
    "description": {
     "en": "Television Saudi Network",

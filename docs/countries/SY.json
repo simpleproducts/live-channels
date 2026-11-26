@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "SY",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "sy.syriannewschannel",
-  "sy.syriatv",
-  "sy.alsouriya"
+  "sy.syriatv"
  ],
  "channels": [
   {
@@ -72,7 +71,7 @@
    "youtubeChannelId": "UCUoKu7F5tdWfSLyfiiySKYg",
    "youtubeVideoId": "_hAr1YYM1M4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7663132",
    "description": {
     "en": "television channel",

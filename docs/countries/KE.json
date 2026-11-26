@@ -1,14 +1,13 @@
 {
  "schema": 2,
  "code": "KE",
- "version": 2026112615,
+ "version": 2026112623,
  "defaultTiles": [
   "ke.citizentv",
+  "ke.ntv",
   "ke.ktn",
   "ke.k24",
-  "ke.ntv",
   "ke.tv47",
-  "ke.parliament",
   "ke.radiocitizen"
  ],
  "channels": [
@@ -191,7 +190,7 @@
    "youtubeChannelId": "UCXuseB7juWB7DIgTJcwtHFQ",
    "youtubeVideoId": "SsFSBx8Duu0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
