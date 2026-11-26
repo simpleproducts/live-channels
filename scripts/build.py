@@ -29,6 +29,7 @@ import json
 import os
 import re
 import sys
+import threading
 import time
 import urllib.error
 import urllib.parse
@@ -79,8 +80,11 @@ def http_json(url, data=None, key=None):
     key = key or (url + "|" + (data or ""))
     path = _cache_path(key)
     if os.path.exists(path) and (OFFLINE or time.time() - os.path.getmtime(path) < TTL):
-        with open(path, encoding="utf-8") as f:
-            return json.load(f)
+        try:
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
+        except ValueError:
+            pass  # truncated or corrupt cache entry: fetch it again
     if OFFLINE:
         return None
     headers = {"User-Agent": UA, "Accept": "application/json, application/sparql-results+json"}
@@ -92,8 +96,12 @@ def http_json(url, data=None, key=None):
             with urllib.request.urlopen(urllib.request.Request(url, data=body, headers=headers), timeout=90) as r:
                 out = json.load(r)
             os.makedirs(CACHE, exist_ok=True)
-            with open(path, "w", encoding="utf-8") as f:
+            # Threads can fetch the same URL at once: write to a private file, then rename it into place,
+            # so a reader never sees a half-written cache entry.
+            tmp = "%s.%d.%d.tmp" % (path, os.getpid(), threading.get_ident())
+            with open(tmp, "w", encoding="utf-8") as f:
                 json.dump(out, f, ensure_ascii=False)
+            os.replace(tmp, path)
             return out
         except urllib.error.HTTPError as e:
             if e.code == 404:
