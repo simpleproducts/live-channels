@@ -8,7 +8,7 @@
   {"id": "republika", "name": "Telewizja Republika", "category": "news", "youtubeChannelId": "UCc282c_TN8xIba_Z6GaDnQw", "youtubeVideoId": "dzntyCTgJMQ", "embeddable": true, "live": true, "liveSince": "2023-12-20T13:02:48Z"},
   {"id": "wpolsce24", "name": "wPolsce24", "category": "news", "youtubeChannelId": "UCPiu4CZlknkTworskK79CPg", "youtubeVideoId": "jkDQs_xNYVQ", "embeddable": true, "live": true, "liveSince": "2026-10-19T12:43:19Z"},
   {"id": "tvpworld", "name": "TVP World", "category": "news", "youtubeChannelId": "UCBjUPsHj7bXt24SUWNoZ0zA", "youtubeVideoId": "tvXWIgsWuK0", "embeddable": true, "live": true, "liveSince": "2026-07-21T16:51:14Z", "languages": ["en"]},
-  {"id": "vottak", "name": "ВОТ ТАК", "category": "news", "youtubeChannelId": "UCSqO8lV-ric7ow5G5q9roWw", "live": false, "languages": ["ru"], "wikidata": "Q134391702"},
+  {"id": "vottak", "name": "ВОТ ТАК", "category": "news", "youtubeChannelId": "UCSqO8lV-ric7ow5G5q9roWw", "youtubeVideoId": "i29JNni86bI", "embeddable": true, "live": true, "liveSince": "2026-11-26T15:00:14Z", "languages": ["ru"], "wikidata": "Q134391702"},
   {"id": "life", "name": "БЕЛСАТ LIFE", "category": "broadcast", "youtubeChannelId": "UCa1QVip2HeQwoXENc98QTFQ", "live": false, "languages": ["be"], "wikidata": "Q187409"},
   {"id": "sejm", "name": "Sejm RP", "category": "government", "youtubeChannelId": "UCN5seY_Oy_GiJRhF06GfRlw", "youtubeVideoId": "ervCX9f14os", "embeddable": true, "live": false, "languages": ["pl"]},
   {"id": "tvpsport", "name": "TVP Sport", "category": "sports", "youtubeChannelId": "UCalwFtq-BVcszKLZ5k2vbLw", "live": false, "wikidata": "Q1026357"},

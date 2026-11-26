@@ -1,17 +1,13 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
-  "th.thaipbs",
   "th.thairath",
-  "th.ch7news",
-  "th.ch3news",
-  "th.pptv",
   "th.amarin",
-  "th.workpoint",
   "th.topnews",
-  "th.thestandard"
+  "th.gmm25thailand",
+  "th.tpchannel"
  ],
  "channels": [
   {
@@ -24,7 +20,7 @@
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
    "youtubeVideoId": "Vra8oFgD7M0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2603792",
    "description": {
     "en": "Thai public service broadcaster",
@@ -72,7 +68,7 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "Y9Lw-fULldw",
+   "youtubeVideoId": "uSH9_nHf0Uw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -92,7 +88,7 @@
    "youtubeChannelId": "UCirZPTc9IoKM_DsA9aKbc4g",
    "youtubeVideoId": "NsRU-NTelMs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -110,7 +106,7 @@
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
    "youtubeVideoId": "2l12sruuHT0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -146,7 +142,7 @@
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
    "youtubeVideoId": "mYPxquHJ_h0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",
@@ -170,7 +166,7 @@
     "th"
    ],
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
-   "youtubeVideoId": "h8r527vRmq4",
+   "youtubeVideoId": "Tj1AQ1L-NgY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -208,7 +204,7 @@
    "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ",
    "youtubeVideoId": "v2i4KyoQpnI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -224,7 +220,7 @@
     "th"
    ],
    "youtubeChannelId": "UCeF5sxjXSdWq80n3RA9gBpw",
-   "youtubeVideoId": "IuQVBXr6lNw",
+   "youtubeVideoId": "KZ-SWiUxaSY",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -262,7 +258,7 @@
    "youtubeChannelId": "UCk1v3FzlMu3r34LYgoHpH2w",
    "youtubeVideoId": "xRIUzsieFR8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -443,9 +439,9 @@
     "th"
    ],
    "youtubeChannelId": "UCTP5z0kFg6-nPcZ79gTC67Q",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "XVEtoqpnHDE",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q20574161",
    "description": {
     "en": "Thai Television Channel managed by GMM Channel Co., Ltd.",
@@ -488,7 +484,7 @@
     "th"
    ],
    "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A",
-   "youtubeVideoId": "0uA30QSPtws",
+   "youtubeVideoId": "-qtPERBkNjw",
    "embeddable": true,
    "live": true,
    "wikidata": null,

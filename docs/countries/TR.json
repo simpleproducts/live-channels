@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
   "tr.cnnturk",
   "tr.haberturk",
@@ -403,7 +403,7 @@
    "youtubeChannelId": "UC6T0L26KS1NHMPbTwI1L4Eg",
    "youtubeVideoId": "SaIcQi7BAQE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6098857",
    "description": {
     "en": "Turkish news network",
@@ -487,7 +487,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCVKWwHoLwUMMa80cu_1uapA",
-   "youtubeVideoId": "kB5yi2BGlNE",
+   "youtubeVideoId": "wP1-sKX-qC0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61077381",
@@ -534,9 +534,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCbaLyHJp6S9Lsj6oT9aJsQw",
-   "youtubeVideoId": "afJ0ZPmGpdI",
+   "youtubeVideoId": "9T2nqw96Fis",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q25474977",
    "description": {
     "tr": "TV kanalı",
@@ -557,9 +557,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCun2Dl8daN--PBivgQJZn_w",
-   "youtubeVideoId": "BlzZ7MXajEQ",
+   "youtubeVideoId": "ScaqQcAonZw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q21525554",
    "description": {
     "en": "Turkish news website",
@@ -994,9 +994,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCFJBVnqU3i74W3HeIcGFmYQ",
-   "youtubeVideoId": "tC92nLsI880",
+   "youtubeVideoId": "o1Geas3Vvxg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7672099",
    "description": {
     "en": "Turkish entertainment channel",
@@ -1067,7 +1067,7 @@
    "youtubeChannelId": "UCtKWl45pxZ40aqtD2RA_xlA",
    "youtubeVideoId": "m3RWR0TmEL0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q97260733",
    "description": {
     "en": "radio station in Beyoğlu, Turkey",
@@ -1180,9 +1180,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCjkRA7KEdp7PDKDUs396XHg",
-   "youtubeVideoId": "rn7ZwJqI9ec",
+   "youtubeVideoId": "hJt-giM1J78",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6068332",
    "description": {
     "en": "Turkish horse racing tv station",

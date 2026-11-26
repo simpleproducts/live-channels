@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -743,9 +743,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw",
-   "youtubeVideoId": "6YLk0HttPmA",
+   "youtubeVideoId": "5IOTKYLLh0c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -784,9 +784,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA",
-   "youtubeVideoId": "A2wnYkH2kxs",
+   "youtubeVideoId": "AlXzwJgCGC0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3410428",
    "description": {
     "en": "French parliamentary television channel",

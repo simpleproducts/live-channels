@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026112601,
+ "version": 2026112615,
  "defaultTiles": [
   "ca.cbcnews",
   "ca.theweathernetwork",
-  "ca.lovenature"
+  "ca.lovenature",
+  "ca.cpac"
  ],
  "channels": [
   {
@@ -370,9 +371,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
-   "youtubeVideoId": "DJrJ3AIeOIg",
+   "youtubeVideoId": "pF9GOpynnp4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931869",
    "description": {
     "en": "Canadian parliamentary broadcaster",

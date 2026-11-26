@@ -3,8 +3,8 @@
  "languages": ["sw", "en"],
  "defaultTiles": ["itvtanzania", "hopechanneltanzania", "ariseandshinetanzania"],
  "channels": [
-  {"id": "itvtanzania", "name": "ITV Tanzania", "category": "broadcast", "youtubeChannelId": "UCRmReUqNqc-GSZeD48QKjhQ", "live": false, "wikidata": "Q124391607"},
-  {"id": "hopechanneltanzania", "name": "Hope Channel Tanzania", "category": "religious", "youtubeChannelId": "UCd-Q13Ld2cuutzCcQk7OD8w", "youtubeVideoId": "FiecAJS2q_Y", "embeddable": true, "live": true, "liveSince": "2026-11-26T02:00:14Z", "wikidata": "Q115209378"},
+  {"id": "itvtanzania", "name": "ITV Tanzania", "category": "broadcast", "youtubeChannelId": "UCRmReUqNqc-GSZeD48QKjhQ", "youtubeVideoId": "tA6siEYy91I", "embeddable": true, "live": true, "liveSince": "2026-11-26T15:00:23Z", "wikidata": "Q124391607"},
+  {"id": "hopechanneltanzania", "name": "Hope Channel Tanzania", "category": "religious", "youtubeChannelId": "UCd-Q13Ld2cuutzCcQk7OD8w", "youtubeVideoId": "FiecAJS2q_Y", "embeddable": true, "live": false, "wikidata": "Q115209378"},
   {"id": "ariseandshinetanzania", "name": "Arise and Shine TV", "category": "religious", "youtubeChannelId": "UC7WineEJjDvj7K1bbYNXYww", "live": false, "wikidata": "Q125343715"}
  ]
 }

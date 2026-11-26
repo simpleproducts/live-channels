@@ -1,14 +1,10 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
   "vn.antv",
-  "vn.thanhnien",
-  "vn.vtcnews",
-  "vn.baotienphongnews",
-  "vn.vtv8aitruyenhinhvietnam",
-  "vn.htvthethao"
+  "vn.baotienphongnews"
  ],
  "channels": [
   {
@@ -19,7 +15,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "4HLr3GRcup0",
+   "youtubeVideoId": "6z1giHcYhoU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -57,7 +53,7 @@
    "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg",
    "youtubeVideoId": "ymArNlF7lzI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7710368",
    "description": {
     "en": "Vietnamese newspaper",
@@ -126,7 +122,7 @@
    "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg",
    "youtubeVideoId": "0U7hd5xWsyE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q108492472",
    "description": {},
    "wikipedia": {},
@@ -142,7 +138,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCotkNLf_Y3jfbLWuSFUCSBQ",
-   "youtubeVideoId": "MSns1mnOsMY",
+   "youtubeVideoId": "urA70orVGjQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7801032",
@@ -336,7 +332,7 @@
    "youtubeChannelId": "UCKSzIR-Eb4gol3Zj0kAjHNw",
    "youtubeVideoId": "krMgYZnvK-I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24958410",
    "description": {
     "en": "Vietnamese television channel",
@@ -379,7 +375,7 @@
    "youtubeChannelId": "UC_OBG47Y3PswSHnMWSlrgZA",
    "youtubeVideoId": "F7oWGtQGrdA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16480856",
    "description": {
     "en": "Vietnamese television channel",

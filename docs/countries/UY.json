@@ -1,15 +1,13 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
-  "uy.elobservadoruy",
   "uy.ladiaria",
   "uy.tnu",
   "uy.carve",
   "uy.delsol",
-  "uy.sarandi",
-  "uy.elpaisuy"
+  "uy.universal"
  ],
  "channels": [
   {
@@ -54,9 +52,9 @@
     "es"
    ],
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
-   "youtubeVideoId": "KeHAKU-tW_w",
+   "youtubeVideoId": "Agxp1EQzOPk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -102,9 +100,9 @@
     "es"
    ],
    "youtubeChannelId": "UCMHQqhtbpxfcnPPYpryapHA",
-   "youtubeVideoId": "xRs-W3QHIpI",
+   "youtubeVideoId": "m75bCX5bh84",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1775667",
    "description": {
     "en": "national public television network of Uruguay",
@@ -303,9 +301,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "QooYio9tMnw",
+   "youtubeVideoId": "2F6Q5NkmqcY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16953379",
    "description": {
     "en": "radio station in Uruguay",
@@ -328,9 +326,9 @@
     "es"
    ],
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
-   "youtubeVideoId": "tJtBSrsdjag",
+   "youtubeVideoId": "JEVfJ46UE4g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,9 +362,9 @@
     "es"
    ],
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
-   "youtubeVideoId": "FfGRv2P3rTw",
+   "youtubeVideoId": "AnAw50Idy5U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

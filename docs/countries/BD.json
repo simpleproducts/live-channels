@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "BD",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
   "bd.atnnews",
   "bd.independenttelevision",
@@ -9,9 +9,7 @@
   "bd.channel24",
   "bd.ekhontv",
   "bd.somoytv",
-  "bd.ntvnews",
-  "bd.maasranganews",
-  "bd.jagonews"
+  "bd.tsports"
  ],
  "channels": [
   {
@@ -159,7 +157,7 @@
    "youtubeChannelId": "UCUDQdVsKssximyFwg4IxnOQ",
    "youtubeVideoId": "YP6BaUGxl2o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7025410",
    "description": {
     "en": "Bangladeshi television channel",
@@ -205,7 +203,7 @@
    "youtubeChannelId": "UCHR-p802PibDYG1btNJcOew",
    "youtubeVideoId": "r1n8tJbhGzo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6721245",
    "description": {
     "en": "Bangladeshi TV channel"
@@ -247,7 +245,7 @@
     "bn"
    ],
    "youtubeChannelId": "UCxHoBXkY88Tb8z1Ssj6CWsQ",
-   "youtubeVideoId": "1na8me3DYKM",
+   "youtubeVideoId": "xT612Vzhcm0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q26327",
@@ -361,7 +359,7 @@
    "youtubeChannelId": "UCWJkfdG6J2HUxOHrORuHZ2g",
    "youtubeVideoId": "NVop7KMiW38",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q61362171",
    "description": {
     "en": "Bangladeshi online news portal",
@@ -433,7 +431,7 @@
    "youtubeChannelId": "UC9zgYOQB6zkleAQjW53DLeQ",
    "youtubeVideoId": "eXGqFrFiLXA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q192284",
    "description": {
     "en": "Bangladeshi Television channel"
@@ -541,9 +539,9 @@
     "bn"
    ],
    "youtubeChannelId": "UC2t9imwIR7xlDfma3CmRKJQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "OSE_cW0L6jc",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q102037696",
    "description": {
     "en": "Bangladesh's first sports channel"

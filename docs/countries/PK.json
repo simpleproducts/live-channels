@@ -1,9 +1,8 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
-  "pk.samaa",
   "pk.geonews",
   "pk.arynews",
   "pk.dunyanews",
@@ -11,7 +10,8 @@
   "pk.92news",
   "pk.dawnnews",
   "pk.ptvnews",
-  "pk.humnews"
+  "pk.humnews",
+  "pk.gnn"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ur"
    ],
    "youtubeChannelId": "UCJekW1Vj5fCVEGdye_mBN6Q",
-   "youtubeVideoId": "MLDQM0QL_-4",
+   "youtubeVideoId": "FqW-m8Fzpmk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7388622",

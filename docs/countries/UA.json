@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
   "ua.suspilne",
   "ua.espreso",
   "ua.5kanal",
   "ua.united24",
   "ua.tv",
-  "ua.ukrainianindependentinfo",
   "ua.tsn",
   "ua.faktyictv",
-  "ua.kyiv24"
+  "ua.kyiv24",
+  "ua.24kanal"
  ],
  "channels": [
   {
@@ -45,7 +45,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-   "youtubeVideoId": "Ik1AjUlyST8",
+   "youtubeVideoId": "oJ0oXqtsfAg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4449066",
@@ -163,7 +163,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "Skiz4MZkjAQ",
+   "youtubeVideoId": "69uqCM_JhFc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",
@@ -251,9 +251,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ",
-   "youtubeVideoId": "0JeZrU3AhNY",
+   "youtubeVideoId": "huYSh4zDTYk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4030314",
    "description": {
     "en": "Ukrainian 24-hour news TV channel",
@@ -501,7 +501,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCKCVeAihEfJr-pGH7B73Wyg",
-   "youtubeVideoId": "RzMo_IEUxrU",
+   "youtubeVideoId": "pQfZ2DGKoR8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2095222",
@@ -811,9 +811,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCxAljB9DmPsN10Me6YYHDww",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "ybcHuZ5R_gE",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q116871524",
    "description": {},
    "wikipedia": {},
@@ -875,9 +875,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCVoPOHZYyNUr1GiVnRVm2ig",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Bro62P-FFpo",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q50398001",
    "description": {
     "en": "radio station in Ukraine",

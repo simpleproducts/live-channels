@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AL",
- "version": 2026112601,
+ "version": 2026112615,
  "defaultTiles": [
   "al.teve1",
   "al.syritv"
@@ -15,9 +15,9 @@
     "sq"
    ],
    "youtubeChannelId": "UCm7xhcX-x1Yi3E0WYy4RiZQ",
-   "youtubeVideoId": "ZTQCV7Dwz8s",
+   "youtubeVideoId": "0V4YaiyfncU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q112195066",
    "description": {},
    "wikipedia": {},
@@ -33,9 +33,9 @@
     "sq"
    ],
    "youtubeChannelId": "UCrhOdWxeea0IF_H7jV4y7tQ",
-   "youtubeVideoId": "OTgij_2znJE",
+   "youtubeVideoId": "et0PaX1UVJs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q115801956",
    "description": {
     "en": "Abanian television channel and news agency"

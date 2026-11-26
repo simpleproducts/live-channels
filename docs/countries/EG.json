@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026112601,
+ "version": 2026112615,
  "defaultTiles": [
   "eg.alqahera",
   "eg.alghad",
-  "eg.alkaherawalnas",
-  "eg.masperozaman"
+  "eg.extranews",
+  "eg.alkaherawalnas"
  ],
  "channels": [
   {
@@ -41,9 +41,9 @@
     "ar"
    ],
    "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw",
-   "youtubeVideoId": "8VCTcGHYwhA",
+   "youtubeVideoId": "t-nlbp-3J6I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -179,7 +179,7 @@
    "youtubeChannelId": "UColf1L4k9OVGwzuwNkzEOLg",
    "youtubeVideoId": "1f4Euja4GYM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q25453713",
    "description": {
     "en": "Egyptian tv channel",

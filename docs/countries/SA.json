@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "SA",
- "version": 2026112601,
+ "version": 2026112615,
  "defaultTiles": [
   "sa.alekhbariya",
   "sa.asharq",
   "sa.asharqbusiness",
   "sa.quran",
-  "sa.iqraatv"
+  "sa.iqraatv",
+  "sa.almajdtvnetwork"
  ],
  "channels": [
   {
@@ -183,9 +184,9 @@
     "ar"
    ],
    "youtubeChannelId": "UCwrOzs_R_1zmb5HZr3DDilg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "LTYt52GWf4E",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q4121863",
    "description": {
     "en": "Television Saudi Network",

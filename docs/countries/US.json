@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -10,8 +10,8 @@
   "us.foxnews",
   "us.salemnewschannel",
   "us.nbcnews",
-  "us.realamerica39svoice",
-  "us.nmasunivision"
+  "us.livenow",
+  "us.msnow"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "9ERRSqJNoSQ",
+   "youtubeVideoId": "dlQf_B0OGrA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,9 +239,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "ittTOE93Irc",
+   "youtubeVideoId": "2-apL7shGVM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q121917610",
    "description": {
     "en": "FAST TV channel and news service"
@@ -603,9 +603,9 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "mQZmbMSfYB8",
+   "youtubeVideoId": "4W2U0738Lis",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -781,9 +781,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8Ioh4atNDO5a0Vy2qFmauQ",
-   "youtubeVideoId": "vCSm6qUXXR8",
+   "youtubeVideoId": "4fQG849p6wE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1334450",
    "description": {
     "en": "television station",
@@ -1210,7 +1210,7 @@
     "en"
    ],
    "youtubeChannelId": "UCMGZ8pfQHgZ6Yj0-92PMENg",
-   "youtubeVideoId": "EWiq9B-MKn4",
+   "youtubeVideoId": "vdWDj3uFUHg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q111426457",
@@ -2083,7 +2083,7 @@
    "youtubeChannelId": "UCNXjJ4Igw2Ir8774eBNb4yA",
    "youtubeVideoId": "wwtmwyHjBEQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6336552",
    "description": {
     "en": "CBS television affiliate in Jefferson City, Missouri, United States",
@@ -3299,9 +3299,9 @@
     "fa"
    ],
    "youtubeChannelId": "UC_MJPm4CvGV9PMV5QA8HlpQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Tk7w6VmZvGo",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q125107089",
    "description": {},
    "wikipedia": {},

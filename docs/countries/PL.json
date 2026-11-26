@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026112601,
+ "version": 2026112615,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
   "pl.tvpworld",
+  "pl.vottak",
   "pl.radiozet"
  ],
  "channels": [
@@ -154,9 +155,9 @@
     "ru"
    ],
    "youtubeChannelId": "UCSqO8lV-ric7ow5G5q9roWw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "i29JNni86bI",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q134391702",
    "description": {
     "ru": "Польский телеканал и веб-ресурс на русском языке",

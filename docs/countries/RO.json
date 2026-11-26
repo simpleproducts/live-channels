@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "RO",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
   "ro.romaniatv",
-  "ro.dcnewsro",
+  "ro.gandul",
   "ro.trinitastv"
  ],
  "channels": [
@@ -16,7 +16,7 @@
     "ro"
    ],
    "youtubeChannelId": "UC5Bb0itu0pB46xykW32ck0g",
-   "youtubeVideoId": "ls6qmE9wlxw",
+   "youtubeVideoId": "G8oRWo1IV-0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7363432",
@@ -88,9 +88,9 @@
     "ro"
    ],
    "youtubeChannelId": "UCQDHc1PDTAxM-8ca9ssR0bQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "UdtHgub3EvQ",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q954232",
    "description": {
     "en": "Romanian online newspaper",
@@ -152,7 +152,7 @@
    "youtubeChannelId": "UCM0GcCS1HPUhVxRVOvxg2ag",
    "youtubeVideoId": "Xd6habjfKJg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q18539605",
    "description": {
     "en": "Romanian online newspaper"

@@ -10,6 +10,6 @@
   {"id": "telesurenglish", "name": "teleSUR English", "category": "news", "youtubeChannelId": "UCmuTmpLY35O3csvhyA6vrkg", "youtubeVideoId": "bp3Rg7kkBKw", "embeddable": true, "live": true, "liveSince": "2026-11-13T00:18:30Z", "languages": ["en"]},
   {"id": "laiguanatv", "name": "La Iguana TV", "category": "news", "youtubeChannelId": "UCCc2H9_eNnU7ucq2n7Sh3Rg", "youtubeVideoId": "ZTiDJsp60wI", "embeddable": true, "live": true, "liveSince": "2026-11-26T01:33:17Z", "wikidata": "Q141914802"},
   {"id": "vtv", "name": "VTV", "category": "broadcast", "youtubeChannelId": "UC_8sCVycu3FXidPNoZwOHqA", "youtubeVideoId": "N8Fv_ak2rxs", "embeddable": true, "live": true, "liveSince": "2026-11-09T23:55:36Z", "languages": ["es"]},
-  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "fS8mKpvgF5g", "embeddable": true, "live": false, "wikidata": "Q5770016"}
+  {"id": "unionradio", "name": "Unión Radio", "category": "radio", "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ", "youtubeVideoId": "1UGqr0iflzQ", "embeddable": true, "live": true, "liveSince": "2026-11-26T15:12:18Z", "wikidata": "Q5770016"}
  ]
 }

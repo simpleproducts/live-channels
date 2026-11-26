@@ -1,11 +1,12 @@
 {
  "schema": 2,
  "code": "RU",
- "version": 2026112605,
+ "version": 2026112615,
  "defaultTiles": [
   "ru.currenttime",
   "ru.euronewsru",
-  "ru.zhivoygvozd",
+  "ru.tvrain",
+  "ru.popularpolitics",
   "ru.tvsoyuz"
  ],
  "channels": [
@@ -17,9 +18,9 @@
     "ru"
    ],
    "youtubeChannelId": "UCdubelOloxR3wzwJG9x8YqQ",
-   "youtubeVideoId": "IZioQzDe_ew",
+   "youtubeVideoId": "L7791PnqDbU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q155172",
    "description": {
     "en": "Russian-language television channel",
@@ -125,9 +126,9 @@
     "ru"
    ],
    "youtubeChannelId": "UC7Elc-kLydl-NAV4g204pDQ",
-   "youtubeVideoId": "bNE6ppKqo9o",
+   "youtubeVideoId": "LVAvZ2WCGtk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q113048544",
    "description": {
     "en": "Russian-language online media",
@@ -181,7 +182,7 @@
    "youtubeChannelId": "UCWAIvx2yYLK_xTYD4F2mUNw",
    "youtubeVideoId": "Ivdwnj9ZxrY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q749928",
    "description": {
     "en": "Russian radio station",
@@ -225,7 +226,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCmT_7bJwaBtmKqhBpwV6hmA",
-   "youtubeVideoId": "Q4wP4jLvxOE",
+   "youtubeVideoId": "8HpPfVwc-AI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4430446",

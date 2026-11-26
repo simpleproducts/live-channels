@@ -15,7 +15,7 @@
   {"id": "aptnnews", "name": "APTN News", "category": "news", "youtubeChannelId": "UCA-IcIBtmwCirNr1f-n_SRA", "live": false, "wikidata": "Q2819340"},
   {"id": "bnn", "name": "BNN Bloomberg", "category": "economy", "youtubeChannelId": "UC5aNPmKYwbudeNngDMTY3lw", "live": false},
   {"id": "cp24", "name": "CP24", "category": "regional", "youtubeChannelId": "UCs3o4RhBiP2wcwqkZR2QVLw", "live": false},
-  {"id": "cpac", "name": "CPAC", "category": "government", "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ", "youtubeVideoId": "DJrJ3AIeOIg", "embeddable": true, "live": false, "languages": ["en", "fr"]},
+  {"id": "cpac", "name": "CPAC", "category": "government", "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ", "youtubeVideoId": "pF9GOpynnp4", "embeddable": true, "live": true, "liveSince": "2026-11-26T14:55:02Z", "languages": ["en", "fr"]},
   {"id": "saltlightmedia", "name": "Salt + Light Media", "category": "religious", "youtubeChannelId": "UCCXCw4PeDbuezlKDTJ5hWAg", "live": false, "wikidata": "Q3546722"},
   {"id": "lovenature", "name": "Love Nature", "category": "culture", "youtubeChannelId": "UCRZPkuHwaoKwTP3CYPdVldg", "youtubeVideoId": "QhahoVG0BfI", "embeddable": true, "live": true, "liveSince": "2026-03-05T20:44:06Z", "wikidata": "Q3347892"}
  ]

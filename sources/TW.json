@@ -4,7 +4,7 @@
  "defaultTiles": ["chungtientelevision", "ctitvnews", "formosatvnewsnetwork", "tvbsnews", "nexttv", "ettodaynews", "udnvideo", "thelibertytimes", "thecentralnewsagencycnat"],
  "channels": [
   {"id": "chungtientelevision", "name": "中天電視", "category": "news", "youtubeChannelId": "UC5l1Yto5oOIgRXlI4p4VKbw", "youtubeVideoId": "vr3XyVCR4T0", "embeddable": true, "live": true, "liveSince": "2024-11-04T06:04:22Z", "wikidata": "Q699106"},
-  {"id": "ctitvnews", "name": "CTITV NEWS", "category": "news", "youtubeChannelId": "UCpu3bemTQwAU8PqM4kJdoEQ", "youtubeVideoId": "DzDt_3S5wss", "embeddable": true, "live": true, "liveSince": "2026-11-26T02:58:53Z", "wikidata": "Q5014664"},
+  {"id": "ctitvnews", "name": "CTITV NEWS", "category": "news", "youtubeChannelId": "UCpu3bemTQwAU8PqM4kJdoEQ", "youtubeVideoId": "DzDt_3S5wss", "embeddable": true, "live": false, "wikidata": "Q5014664"},
   {"id": "formosatvnewsnetwork", "name": "民視新聞", "category": "news", "youtubeChannelId": "UC2VmWn8dAqkzlQqvy02E1PA", "youtubeVideoId": "ylYJSBUgaMA", "embeddable": true, "live": true, "liveSince": "2022-09-13T04:42:38Z", "wikidata": "Q5427254"},
   {"id": "tvbsnews", "name": "TVBS NEWS", "category": "news", "youtubeChannelId": "UC5nwNW4KdC0SzrhF9BXEYOQ", "youtubeVideoId": "m_dhMSvUCIc", "embeddable": true, "live": true, "liveSince": "2023-05-07T02:30:09Z", "wikidata": "Q7672150"},
   {"id": "nexttv", "name": "壹電視NEXT TV", "category": "news", "youtubeChannelId": "UC6hWBu1hfbNNk8Yeokd5aZQ", "youtubeVideoId": "70IHFyMJ8gY", "embeddable": true, "live": false, "wikidata": "Q10931647"},
