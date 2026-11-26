@@ -4,7 +4,6 @@
  "version": 2026112601,
  "defaultTiles": [
   "ro.romaniatv",
-  "ro.alephnews",
   "ro.trinitastv"
  ],
  "channels": [
@@ -47,7 +46,7 @@
    "youtubeChannelId": "UC9OlWHkFGBz08r7OXwqx3Sg",
    "youtubeVideoId": "I_v29WJp_HY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q131442430",
    "description": {
     "en": "Romanian news television channel",

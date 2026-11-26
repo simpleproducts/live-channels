@@ -6,12 +6,12 @@
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
-  "es.elpais",
-  "es.eltorotv",
-  "es.eldebate",
   "es.3cat324",
   "es.canalsur",
-  "es.eitb"
+  "es.eitb",
+  "es.rtvcanarias",
+  "es.laseptima",
+  "es.tvg"
  ],
  "channels": [
   {
@@ -99,7 +99,7 @@
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
    "youtubeVideoId": "htkdBU7X5b0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -326,7 +326,7 @@
    "youtubeChannelId": "UC2T6NU6-JLWzAzaGdqvNyzA",
    "youtubeVideoId": "P0pDxSt6VN8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3064786",
    "description": {
     "en": "Spanish television network",
@@ -427,7 +427,7 @@
    "youtubeChannelId": "UC8FOhz3iXhF1iqqzAFfBjmA",
    "youtubeVideoId": "xX5Qs5ZIbkc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q114050859",
    "description": {
     "en": "Spanish online newspaper since 2021",
@@ -968,7 +968,7 @@
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
    "youtubeVideoId": "EYgZpIADfLY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",

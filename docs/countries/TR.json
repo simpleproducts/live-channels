@@ -4,14 +4,14 @@
  "version": 2026112601,
  "defaultTiles": [
   "tr.cnnturk",
-  "tr.trthaber",
   "tr.haberturk",
   "tr.ntv",
   "tr.sozcu",
   "tr.ahaber",
   "tr.tgrthaber",
   "tr.haberglobal",
-  "tr.tv100"
+  "tr.tv100",
+  "tr.24tv"
  ],
  "channels": [
   {
@@ -70,7 +70,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCBgTP2LOFVPmq15W-RH-WXA",
-   "youtubeVideoId": "SiB4y9mXhHI",
+   "youtubeVideoId": "wQyRme4Sans",
    "embeddable": true,
    "live": true,
    "wikidata": "Q535725",
@@ -231,7 +231,7 @@
    "youtubeChannelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
    "youtubeVideoId": "JV5w1MhzcfQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6063045",
    "description": {
     "en": "Turkish public radio and television broadcaster",
@@ -403,7 +403,7 @@
    "youtubeChannelId": "UC6T0L26KS1NHMPbTwI1L4Eg",
    "youtubeVideoId": "NFSWAM119I8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6098857",
    "description": {
     "en": "Turkish news network",
@@ -489,7 +489,7 @@
    "youtubeChannelId": "UCVKWwHoLwUMMa80cu_1uapA",
    "youtubeVideoId": "LcxX7_HZfBE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q61077381",
    "description": {
     "en": "Turkey-based cable television channel",
@@ -536,7 +536,7 @@
    "youtubeChannelId": "UCbaLyHJp6S9Lsj6oT9aJsQw",
    "youtubeVideoId": "afJ0ZPmGpdI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q25474977",
    "description": {
     "tr": "TV kanalı",
@@ -559,7 +559,7 @@
    "youtubeChannelId": "UCun2Dl8daN--PBivgQJZn_w",
    "youtubeVideoId": "BlzZ7MXajEQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q21525554",
    "description": {
     "en": "Turkish news website",
@@ -752,7 +752,7 @@
    "youtubeChannelId": "UCxx-W7y5qIoFKHp7W-Efhcw",
    "youtubeVideoId": "YE24LNEJcJc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20402644",
    "description": {
     "en": "television channel",
@@ -964,7 +964,7 @@
    "youtubeChannelId": "UCib1E6oJRLd2pXkxqzxyg7A",
    "youtubeVideoId": "b_EOXIGlAf8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q262070",
    "description": {
     "en": "television station",
@@ -996,7 +996,7 @@
    "youtubeChannelId": "UCFJBVnqU3i74W3HeIcGFmYQ",
    "youtubeVideoId": "tC92nLsI880",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7672099",
    "description": {
     "en": "Turkish entertainment channel",
@@ -1092,7 +1092,7 @@
    "youtubeChannelId": "UClCgbxpUpdi6I1p-bATd1OA",
    "youtubeVideoId": "8US71bDpcLA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096587",
    "description": {
     "tr": "Meltem TV, Türkiye'de 25 Aralık 1994'te kurulan televizyon kanalıdır.",
@@ -1182,7 +1182,7 @@
    "youtubeChannelId": "UCjkRA7KEdp7PDKDUs396XHg",
    "youtubeVideoId": "rn7ZwJqI9ec",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6068332",
    "description": {
     "en": "Turkish horse racing tv station",
@@ -1204,7 +1204,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCJElRTCNEmLemgirqvsW63Q",
-   "youtubeVideoId": "eAcDPqsj1mM",
+   "youtubeVideoId": "DwFLd1Mg0eE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q20473868",

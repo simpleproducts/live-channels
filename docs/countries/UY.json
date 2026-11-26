@@ -1,16 +1,11 @@
 {
  "schema": 2,
  "code": "UY",
- "version": 2026112512,
+ "version": 2026112601,
  "defaultTiles": [
-  "uy.ladiaria",
-  "uy.elpaisuy",
   "uy.carve",
-  "uy.delsol",
-  "uy.sarandi",
-  "uy.tvciudad",
-  "uy.parlamento",
-  "uy.universal"
+  "uy.canal10",
+  "uy.vtv"
  ],
  "channels": [
   {
@@ -57,7 +52,7 @@
    "youtubeChannelId": "UCu0rrtxKLExB_fNSAJ_SU9A",
    "youtubeVideoId": "KeHAKU-tW_w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1292957",
    "description": {
     "en": "Uruguayan newspaper",
@@ -87,7 +82,7 @@
    "youtubeChannelId": "UC3QAqpAruUVvqKuWOzmkItg",
    "youtubeVideoId": "fBHM_wzwUes",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -143,9 +138,9 @@
     "es"
    ],
    "youtubeChannelId": "UCJI9kSwvvHX2CJeF8iZ6x8Q",
-   "youtubeVideoId": "Y-FAX6RWzPA",
+   "youtubeVideoId": "erdZBHy-kJg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2436756",
    "description": {
     "en": "free-to-air Uruguayan TV channel based in Montevideo, launched in 1956",
@@ -212,9 +207,9 @@
     "es"
    ],
    "youtubeChannelId": "UCA4VRT895OOPPHq-pc2V2CQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "h8jbyO-aRAs",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -232,7 +227,7 @@
    "youtubeChannelId": "UCcEFFCUo9fD5DK1FcclyKUA",
    "youtubeVideoId": "zekYh8cZU9I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q17630938",
    "description": {
     "en": "Television channel of Montevideo",
@@ -258,7 +253,7 @@
    "youtubeChannelId": "UCvy9D0ZwbNmvNfyQUl3RQnQ",
    "youtubeVideoId": "ylCoqnSgNOc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1501988",
    "description": {
     "en": "Bicameral legislature of Uruguay",
@@ -304,7 +299,7 @@
     "es"
    ],
    "youtubeChannelId": "UC8Ax1knAw4A1Gbwfg4chaKQ",
-   "youtubeVideoId": "-ZZq6gCqUi0",
+   "youtubeVideoId": "QooYio9tMnw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16953379",
@@ -331,7 +326,7 @@
    "youtubeChannelId": "UCwxfiP2WBmLEblsrGgwWNMA",
    "youtubeVideoId": "tJtBSrsdjag",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -349,7 +344,7 @@
    "youtubeChannelId": "UC0HcjuycMRw7SbZ7s4CnaGQ",
    "youtubeVideoId": "6NLkQiqMwwE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -367,7 +362,7 @@
    "youtubeChannelId": "UCYfmi4AKY-kMDkt7BtvOKxg",
    "youtubeVideoId": "FfGRv2P3rTw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

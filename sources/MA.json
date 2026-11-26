@@ -3,10 +3,10 @@
  "languages": ["ar", "fr"],
  "defaultTiles": ["m24tv"],
  "channels": [
-  {"id": "m24tv", "name": "M24TV", "category": "news", "youtubeChannelId": "UCxzxd8IK9u5WieWqRS7ULjw", "youtubeVideoId": "IssB8zo3uM0", "embeddable": true, "live": true, "liveSince": "2026-11-04T00:00:00Z", "wikidata": "Q110741266"},
+  {"id": "m24tv", "name": "M24TV", "category": "news", "youtubeChannelId": "UCxzxd8IK9u5WieWqRS7ULjw", "youtubeVideoId": "IssB8zo3uM0", "embeddable": true, "live": true, "liveSince": "2026-11-05T00:46:23Z", "wikidata": "Q110741266"},
   {"id": "medradioofficiel", "name": "MedRadio", "category": "radio", "youtubeChannelId": "UCgEL_zmaQl_8FzOLscGIA-g", "live": false, "wikidata": "Q25451081"},
   {"id": "radiochadafm", "name": "Radio Chada FM", "category": "radio", "youtubeChannelId": "UCr_1Tio_MlHkWeEABoyg-QA", "live": false, "wikidata": "Q2947458"},
-  {"id": "radiomars", "name": "Radio Mars", "category": "radio", "youtubeChannelId": "UCGBuA7vzbaAzrImRWmI8Iwg", "youtubeVideoId": "503ccgqAGjM", "embeddable": true, "live": true, "liveSince": "2026-11-25T18:00:00Z", "wikidata": "Q3416731"},
+  {"id": "radiomars", "name": "Radio Mars", "category": "radio", "youtubeChannelId": "UCGBuA7vzbaAzrImRWmI8Iwg", "youtubeVideoId": "503ccgqAGjM", "embeddable": true, "live": false, "wikidata": "Q3416731"},
   {"id": "medinafm", "name": "Medina FM", "category": "radio", "youtubeChannelId": "UCZxvB2-FYGYt4DRNUF5EJsQ", "live": false, "wikidata": "Q3304022"},
   {"id": "radioaswat", "name": "Radio Aswat", "category": "radio", "youtubeChannelId": "UC1qvMMpzeoZoogITNnIYtMA", "live": false, "wikidata": "Q2868676"}
  ]

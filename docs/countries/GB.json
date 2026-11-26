@@ -6,12 +6,12 @@
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
-  "gb.skynews",
-  "gb.reuters",
-  "gb.guardian",
-  "gb.independent",
   "gb.mirror",
-  "gb.express"
+  "gb.bbcnewsarabic",
+  "gb.alhiwartv",
+  "gb.timesradio",
+  "gb.babytvnurseryrhymescarto",
+  "gb.talksport"
  ],
  "channels": [
   {
@@ -24,7 +24,7 @@
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
    "youtubeVideoId": "Yi3sPK3Ls54",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",
@@ -174,7 +174,7 @@
    "youtubeChannelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
    "youtubeVideoId": "aImPqBavIAI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q130879",
    "description": {
     "en": "international news agency",
@@ -356,7 +356,7 @@
    "youtubeChannelId": "UCIRYBXDze5krPDzAEOxFGVA",
    "youtubeVideoId": "s5LIe7f1mNM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5614018",
    "description": {
     "en": "British news website",
@@ -430,7 +430,7 @@
    "youtubeChannelId": "UCshwRhftzkiov5wKR7M_LsQ",
    "youtubeVideoId": "4_gXNgKUV7A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11149",
    "description": {
     "en": "British national daily newspaper",
@@ -558,7 +558,7 @@
    "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA",
    "youtubeVideoId": "sah7bpqDtu8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -576,7 +576,7 @@
    "youtubeChannelId": "UCZinho9wu3iAeRpUXvAMzBQ",
    "youtubeVideoId": "imDKwoLh7Ik",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q12978896",
    "description": {
     "en": "London-based multimedia company",
@@ -664,7 +664,7 @@
    "youtubeChannelId": "UCPFSLlkwCqpy23jwYDwAPrg",
    "youtubeVideoId": "BfiP76cNTtc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3070672",
    "description": {
     "en": "newspaper covering the Manchester area of the United Kingdom",

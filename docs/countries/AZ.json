@@ -3,7 +3,6 @@
  "code": "AZ",
  "version": 2026112601,
  "defaultTiles": [
-  "az.ictimaitv",
   "az.aztv",
   "az.bakutv"
  ],
@@ -38,7 +37,7 @@
    "youtubeChannelId": "UCCYhaH52lUEmfUjX-_OBAHg",
    "youtubeVideoId": "GaiAhlgcBdU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q343446",
    "description": {
     "en": "Azerbaijani public television station",
@@ -131,7 +130,7 @@
     "az"
    ],
    "youtubeChannelId": "UCINwqO8Scgq___xJAVjfn7g",
-   "youtubeVideoId": "mbc_LfSzz-M",
+   "youtubeVideoId": "DJW6OpJhnTw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q119252675",

@@ -4,6 +4,7 @@
  "version": 2026112601,
  "defaultTiles": [
   "hk.phoenixtv",
+  "hk.nownews",
   "hk.passiontimeshk"
  ],
  "channels": [
@@ -51,9 +52,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCg8EwsqYmiw7G267xxPyXsg",
-   "youtubeVideoId": "vu0SRdqhXQs",
+   "youtubeVideoId": "sugnXnBmnK0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q10883984",
    "description": {
     "en": "news website based in Taiwan",
@@ -78,7 +79,7 @@
     "zh"
    ],
    "youtubeChannelId": "UCoAf_IAZKhnUb0AajE5VSyA",
-   "youtubeVideoId": "nS8NM_LWxZo",
+   "youtubeVideoId": "wupgTbqYqJE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q15904208",

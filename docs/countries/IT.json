@@ -5,8 +5,7 @@
  "defaultTiles": [
   "it.euronewsit",
   "it.camera",
-  "it.senato",
-  "it.rai"
+  "it.senato"
  ],
  "channels": [
   {
@@ -213,7 +212,7 @@
    "youtubeChannelId": "UCKUzdt2sELyxd6mz-bAx3bA",
    "youtubeVideoId": "y5RaQVx9-OM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q19616",
    "description": {
     "en": "state-owned Italian broadcasting company",

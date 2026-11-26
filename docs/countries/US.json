@@ -5,13 +5,13 @@
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
-  "us.livenow",
   "us.newsmax",
   "us.foxweather",
   "us.foxnews",
   "us.salemnewschannel",
   "us.cbsnews",
-  "us.nbcnews"
+  "us.nbcnews",
+  "us.realamerica39svoice"
  ],
  "channels": [
   {
@@ -133,7 +133,7 @@
     "en"
    ],
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
-   "youtubeVideoId": "qQKeNs9is20",
+   "youtubeVideoId": "vVieIWEkISc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q861764",
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "-LSuaW99Bn0",
+   "youtubeVideoId": "9ERRSqJNoSQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -241,7 +241,7 @@
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
    "youtubeVideoId": "ittTOE93Irc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q121917610",
    "description": {
     "en": "FAST TV channel and news service"
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "p1OhtCNJT3I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -493,7 +493,7 @@
    "youtubeChannelId": "UC52X5wxOL_s5yw0dQk7NtgA",
    "youtubeVideoId": "BNe1VyZphFM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q40469",
    "description": {
     "en": "American not-for-profit news agency",
@@ -783,7 +783,7 @@
    "youtubeChannelId": "UC8Ioh4atNDO5a0Vy2qFmauQ",
    "youtubeVideoId": "vCSm6qUXXR8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1334450",
    "description": {
     "en": "television station",
@@ -881,7 +881,7 @@
    "youtubeChannelId": "UCSHyZxDokOBevPI5rXymIaw",
    "youtubeVideoId": "5y0OGj91kIw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q228389",
    "description": {
     "en": "United States international broadcaster",
@@ -937,7 +937,7 @@
    "youtubeChannelId": "UCkohPTwjkan3z7_cPylpTKg",
    "youtubeVideoId": "q8S1P6ynNIM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q8035879",
    "description": {
     "en": "Chinese language broadsheet newspaper published in North America",
@@ -1210,7 +1210,7 @@
     "en"
    ],
    "youtubeChannelId": "UCMGZ8pfQHgZ6Yj0-92PMENg",
-   "youtubeVideoId": "EbdVTXI-oNw",
+   "youtubeVideoId": "ouPBljBadp8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q111426457",
@@ -1855,7 +1855,7 @@
    "youtubeChannelId": "UCIjSUWHWp6KohfnR5OQTXnQ",
    "youtubeVideoId": "tFuciq0hm6o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1540364",
    "description": {
     "en": "Fox flagship television station in New York City",
@@ -2081,9 +2081,9 @@
     "en"
    ],
    "youtubeChannelId": "UCNXjJ4Igw2Ir8774eBNb4yA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "fLf-O3trpko",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q6336552",
    "description": {
     "en": "CBS television affiliate in Jefferson City, Missouri, United States",
@@ -2246,7 +2246,7 @@
    "youtubeChannelId": "UCHyFuvaP40uvL0RE48NbsMw",
    "youtubeVideoId": "6eZ9sNgE0I8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7954042",
    "description": {
     "en": "NBC television affiliate in Omaha, Nebraska, United States",
@@ -2578,7 +2578,7 @@
    "youtubeChannelId": "UCqdOvfSmM2NKRNE0FSbATuw",
    "youtubeVideoId": "NJidthD4Z-I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7956506",
    "description": {
     "en": "Fox-owned television station in Philadelphia, Pennsylvania",
@@ -2775,9 +2775,9 @@
     "en"
    ],
    "youtubeChannelId": "UCBnLE14tUHTDyDc8Xij9rAg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "h28UiD2816U",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q16842281",
    "description": {
     "en": "television series",
@@ -3132,7 +3132,7 @@
     "en"
    ],
    "youtubeChannelId": "UCwY9B5_8QDGP8niZhBtTh8w",
-   "youtubeVideoId": "VrVq9b69r_E",
+   "youtubeVideoId": "G1m-EDNXY7g",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7672568",

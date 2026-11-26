@@ -3,12 +3,12 @@
  "languages": ["vi"],
  "defaultTiles": ["antv", "qpvn", "htvnews", "hanoitv", "vov", "thanhnien", "tuoitre"],
  "channels": [
-  {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "D9G9BpYF8IM", "embeddable": true, "live": true, "liveSince": "2026-11-25T12:45:10Z", "languages": ["vi"]},
+  {"id": "antv", "name": "ANTV", "category": "news", "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg", "youtubeVideoId": "4HLr3GRcup0", "embeddable": true, "live": true, "liveSince": "2026-11-26T00:07:37Z", "languages": ["vi"]},
   {"id": "qpvn", "name": "QPVN", "category": "news", "youtubeChannelId": "UCnOk3kjev4rLlkC6_jzXUfw", "youtubeVideoId": "Xul0K4Xycmg", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "thanhnien", "name": "Báo Thanh Niên", "category": "news", "youtubeChannelId": "UCIW9cGgoRuGJnky3K3tbzNg", "youtubeVideoId": "yR2Hr-DUO8E", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "tuoitre", "name": "Báo Tuổi Trẻ", "category": "news", "youtubeChannelId": "UC47WI-kZXFf0H_f7pvaNCEQ", "youtubeVideoId": "yLTmi7Qj6ys", "embeddable": true, "live": false, "languages": ["vi"]},
-  {"id": "vtcnews", "name": "VTC News", "category": "news", "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg", "youtubeVideoId": "yi3aawdcHZE", "embeddable": true, "live": true, "liveSince": "2026-11-25T12:00:11Z", "languages": ["vi"]},
-  {"id": "baotienphongnews", "name": "Báo Tiền Phong News", "category": "news", "youtubeChannelId": "UCotkNLf_Y3jfbLWuSFUCSBQ", "youtubeVideoId": "x0mE-J6EkhM", "embeddable": true, "live": true, "liveSince": "2026-11-25T09:00:00Z", "wikidata": "Q7801032"},
+  {"id": "vtcnews", "name": "VTC News", "category": "news", "youtubeChannelId": "UC68VHcQS5x-WNFmf5cAFtgg", "youtubeVideoId": "yi3aawdcHZE", "embeddable": true, "live": false, "languages": ["vi"]},
+  {"id": "baotienphongnews", "name": "Báo Tiền Phong News", "category": "news", "youtubeChannelId": "UCotkNLf_Y3jfbLWuSFUCSBQ", "youtubeVideoId": "MSns1mnOsMY", "embeddable": true, "live": true, "liveSince": "2026-11-25T22:34:49Z", "wikidata": "Q7801032"},
   {"id": "vietnamnewsagencymediadi", "name": "Vietnam News Agency", "category": "news", "youtubeChannelId": "UCmBT5CqUxf3-K5_IU9tVtBg", "live": false, "wikidata": "Q10825953"},
   {"id": "vietnamthegioi", "name": "Việt Nam & Thế Giới", "category": "broadcast", "youtubeChannelId": "UCnj2uChd-yhQk6t3hTGM8tA", "live": false, "wikidata": "Q10828467"},
   {"id": "vtv10aitruyenhinhvietnam", "name": "VTV10", "category": "broadcast", "youtubeChannelId": "UCk2LTxj-wLiAnmgjnZ_a8Iw", "live": false, "wikidata": "Q10832314"},
@@ -17,7 +17,7 @@
   {"id": "hanoitv", "name": "Hanoi Radio Television", "category": "regional", "youtubeChannelId": "UC7_mgS3z22z0WhR7COJ8E2w", "youtubeVideoId": "UDcupaBO3K0", "embeddable": true, "live": false, "languages": ["vi"]},
   {"id": "vtv8aitruyenhinhvietnam", "name": "VTV8", "category": "regional", "youtubeChannelId": "UCKSzIR-Eb4gol3Zj0kAjHNw", "live": false, "wikidata": "Q24958410"},
   {"id": "baovaphatthanhtruyenhinh", "name": "Đà Nẵng TV", "category": "regional", "youtubeChannelId": "UCp7D27kB0DUbFOs3iWExtTQ", "live": false, "wikidata": "Q30921140"},
-  {"id": "htvthethao", "name": "HTV Thể Thao", "category": "sports", "youtubeChannelId": "UC_OBG47Y3PswSHnMWSlrgZA", "live": false, "wikidata": "Q16480856"},
+  {"id": "htvthethao", "name": "HTV Thể Thao", "category": "sports", "youtubeChannelId": "UC_OBG47Y3PswSHnMWSlrgZA", "youtubeVideoId": "Kfd4FkzMyOU", "embeddable": true, "live": true, "liveSince": "2026-11-26T01:20:01Z", "wikidata": "Q16480856"},
   {"id": "vtvthethao", "name": "VTV Thể Thao", "category": "sports", "youtubeChannelId": "UCrI4iNMPZ2vT_G-TqRO6yrw", "live": false, "wikidata": "Q10832301"},
   {"id": "vov", "name": "VOV", "category": "radio", "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg", "youtubeVideoId": "mi_Polbub4o", "embeddable": true, "live": false, "languages": ["vi"]}
  ]

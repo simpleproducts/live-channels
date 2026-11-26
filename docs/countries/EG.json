@@ -5,11 +5,8 @@
  "defaultTiles": [
   "eg.alqahera",
   "eg.alghad",
-  "eg.extranews",
   "eg.alkaherawalnas",
-  "eg.masperozaman",
-  "eg.koraplus",
-  "eg.alahlytv"
+  "eg.masperozaman"
  ],
  "channels": [
   {
@@ -46,7 +43,7 @@
    "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw",
    "youtubeVideoId": "8VCTcGHYwhA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -205,7 +202,7 @@
    "youtubeChannelId": "UCoTREVo1yJwXXDY0TbTA4EQ",
    "youtubeVideoId": "lY9aYELxpYM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q132058274",
    "description": {
     "en": "Electronic sports newspaper and Digital TV platform",
@@ -228,7 +225,7 @@
    "youtubeChannelId": "UCmeqakSoEdmxEtTnCFSbunw",
    "youtubeVideoId": "vmdzHRKnqZc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4702164",
    "description": {
     "en": "Sports television channel for Al Ahly SC Egypt",

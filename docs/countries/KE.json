@@ -7,9 +7,6 @@
   "ke.ktn",
   "ke.k24",
   "ke.tv47",
-  "ke.ntv",
-  "ke.kbc",
-  "ke.parliament",
   "ke.radiocitizen"
  ],
  "channels": [
@@ -43,7 +40,7 @@
    "youtubeChannelId": "UCqBJ47FjJcl61fmSbcadAVg",
    "youtubeVideoId": "8qVmVbyGAr4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -98,7 +95,7 @@
     "sw"
    ],
    "youtubeChannelId": "UC_zA9UIWE1fB-jfFk_DBSYw",
-   "youtubeVideoId": "ccSgqyp4310",
+   "youtubeVideoId": "lqfO1CAoous",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -119,7 +116,7 @@
    "youtubeChannelId": "UCypNjM5hP1qcUqQZe57jNfg",
    "youtubeVideoId": "trYMgHG9hIw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6392548",
    "description": {
     "en": "state-run media organisation of Kenya",
@@ -192,7 +189,7 @@
    "youtubeChannelId": "UCXuseB7juWB7DIgTJcwtHFQ",
    "youtubeVideoId": "To82N9FoVkc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

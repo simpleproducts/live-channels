@@ -4,14 +4,14 @@
  "version": 2026112601,
  "defaultTiles": [
   "ua.suspilne",
-  "ua.tsn",
   "ua.faktyictv",
   "ua.espreso",
-  "ua.kyiv24",
   "ua.5kanal",
   "ua.united24",
   "ua.tv",
-  "ua.ukrainianindependentinfo"
+  "ua.ukrainianindependentinfo",
+  "ua.myukraina",
+  "ua.freedom"
  ],
  "channels": [
   {
@@ -47,7 +47,7 @@
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
    "youtubeVideoId": "8IVwgZyEAIQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4449066",
    "description": {
     "en": "news division of the Ukrainian television network 1+1",
@@ -147,7 +147,7 @@
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
    "youtubeVideoId": "9PKQgVUlnP4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -163,7 +163,7 @@
     "ru"
    ],
    "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA",
-   "youtubeVideoId": "4V0sek54cJc",
+   "youtubeVideoId": "Skiz4MZkjAQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q27638992",
@@ -338,7 +338,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCEduOt4TK8TtOaznB45TrhA",
-   "youtubeVideoId": "jMmPMOUrdWg",
+   "youtubeVideoId": "4fWP7laQZdY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q115118046",
@@ -450,7 +450,7 @@
     "ru"
    ],
    "youtubeChannelId": "UC1sx9fpIKKs780MrgWH41JQ",
-   "youtubeVideoId": "GPPNPdPnMMM",
+   "youtubeVideoId": "ZHPUbiOcii4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q12096008",
@@ -859,7 +859,7 @@
    "youtubeChannelId": "UCCKMcQ8NpxeEN0h8LLe-y6Q",
    "youtubeVideoId": "qDYp5UFdwzM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q128911972",
    "description": {},
    "wikipedia": {},

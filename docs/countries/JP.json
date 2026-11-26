@@ -4,14 +4,14 @@
  "version": 2026112601,
  "defaultTiles": [
   "jp.fnn",
-  "jp.weathernews",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
+  "jp.weathernews",
+  "jp.kyodo",
+  "jp.sankei",
   "jp.nhkworld",
-  "jp.mbs",
-  "jp.satv",
-  "jp.ytv"
+  "jp.mbs"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "a4mXqkKi3cw",
+   "youtubeVideoId": "XTIVnNXuJSw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "yMCHBxxLmP4",
+   "youtubeVideoId": "8ZIiYNIeTlU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "wm5kl_muPVs",
+   "youtubeVideoId": "S-8pyr5NgZ4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "r8arrQyehLM",
+   "youtubeVideoId": "kj3pxudjzmk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -222,9 +222,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
-   "youtubeVideoId": "9CS3qLhADGw",
+   "youtubeVideoId": "x2O7K4V2bT4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q779730",
    "description": {
     "en": "news agency",
@@ -300,9 +300,9 @@
     "ja"
    ],
    "youtubeChannelId": "UC1zYGo1jIIjMVDTLL3dydow",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "kcAhnE2T4j8",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q1197261",
    "description": {
     "en": "Japanese newspaper",
@@ -718,9 +718,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Z5Yh-bdW-ho",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q843432",
    "description": {
     "en": "company",
@@ -964,9 +964,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q",
-   "youtubeVideoId": "x6DwGvmgZeI",
+   "youtubeVideoId": "EENM2KW7s54",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q843448",
    "description": {
     "en": "radio station in Tokyo",

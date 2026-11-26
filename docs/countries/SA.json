@@ -7,7 +7,6 @@
   "sa.asharq",
   "sa.asharqbusiness",
   "sa.quran",
-  "sa.sunnah",
   "sa.iqraatv"
  ],
  "channels": [
@@ -135,7 +134,7 @@
    "youtubeChannelId": "UCROKYPep-UuODNwyipe6JMw",
    "youtubeVideoId": "DLnqQHiDbaI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16120241",
    "description": {
     "en": "A Saudi television channel broadcasting from Medina 24 hours a day",

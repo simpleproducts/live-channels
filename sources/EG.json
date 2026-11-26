@@ -4,15 +4,15 @@
  "defaultTiles": ["alqahera", "extranews", "alghad", "sadaelbalad", "alnahar"],
  "channels": [
   {"id": "alqahera", "name": "Al Qahera News", "category": "news", "youtubeChannelId": "UCktyejXTxWaKfrgp1Oq7CMQ", "youtubeVideoId": "GtBCVKHHz7E", "embeddable": true, "live": true, "liveSince": "2026-11-12T13:48:32Z", "languages": ["ar"]},
-  {"id": "extranews", "name": "eXtra news", "category": "news", "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw", "youtubeVideoId": "8VCTcGHYwhA", "embeddable": true, "live": true, "liveSince": "2026-11-25T07:10:48Z", "languages": ["ar"]},
+  {"id": "extranews", "name": "eXtra news", "category": "news", "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw", "youtubeVideoId": "8VCTcGHYwhA", "embeddable": true, "live": false, "languages": ["ar"]},
   {"id": "alghad", "name": "Alghad TV", "category": "news", "youtubeChannelId": "UCH4UNKBHSNwstan99YDoCVg", "youtubeVideoId": "e72W2O8nFk8", "embeddable": true, "live": true, "liveSince": "2026-11-20T01:23:16Z", "languages": ["ar"]},
   {"id": "elwatannews", "name": "ElWatan News - جريدة الوطن", "category": "news", "youtubeChannelId": "UChCCLbpmrhgCI1rS3-1GLjQ", "live": false, "wikidata": "Q12205286"},
   {"id": "sadaelbalad", "name": "Sada El Balad", "category": "broadcast", "youtubeChannelId": "UCJWuV-EkLmRrGZ4afwUBenw", "youtubeVideoId": "NXpmBC4zb1A", "embeddable": true, "live": false, "languages": ["ar"]},
   {"id": "alnahar", "name": "Al Nahar TV", "category": "broadcast", "youtubeChannelId": "UCtpL6HyBK-z16GbJguHf3JQ", "youtubeVideoId": "0keMKnJnbs8", "embeddable": true, "live": false, "languages": ["ar"]},
-  {"id": "alkaherawalnas", "name": "القاهرة والناس", "category": "broadcast", "youtubeChannelId": "UCzWdc0aUo0IDk5ysLrt04hw", "youtubeVideoId": "RBYbt3n9Zs8", "embeddable": true, "live": true, "liveSince": "2026-09-13T00:00:00Z", "wikidata": "Q3546991"},
-  {"id": "masperozaman", "name": "ماسبيرو زمان", "category": "broadcast", "youtubeChannelId": "UColf1L4k9OVGwzuwNkzEOLg", "youtubeVideoId": "1f4Euja4GYM", "embeddable": true, "live": true, "liveSince": "2026-11-15T00:00:00Z", "wikidata": "Q25453713"},
-  {"id": "koraplus", "name": "kora plus", "category": "sports", "youtubeChannelId": "UCoTREVo1yJwXXDY0TbTA4EQ", "youtubeVideoId": "lY9aYELxpYM", "embeddable": true, "live": true, "liveSince": "2026-11-25T20:00:00Z", "wikidata": "Q132058274"},
-  {"id": "alahlytv", "name": "Al AHLY TV", "category": "sports", "youtubeChannelId": "UCmeqakSoEdmxEtTnCFSbunw", "youtubeVideoId": "vmdzHRKnqZc", "embeddable": true, "live": true, "liveSince": "2026-11-25T19:00:00Z", "wikidata": "Q4702164"},
+  {"id": "alkaherawalnas", "name": "القاهرة والناس", "category": "broadcast", "youtubeChannelId": "UCzWdc0aUo0IDk5ysLrt04hw", "youtubeVideoId": "RBYbt3n9Zs8", "embeddable": true, "live": true, "liveSince": "2026-09-13T14:21:57Z", "wikidata": "Q3546991"},
+  {"id": "masperozaman", "name": "ماسبيرو زمان", "category": "broadcast", "youtubeChannelId": "UColf1L4k9OVGwzuwNkzEOLg", "youtubeVideoId": "1f4Euja4GYM", "embeddable": true, "live": true, "liveSince": "2026-11-15T21:41:58Z", "wikidata": "Q25453713"},
+  {"id": "koraplus", "name": "kora plus", "category": "sports", "youtubeChannelId": "UCoTREVo1yJwXXDY0TbTA4EQ", "youtubeVideoId": "lY9aYELxpYM", "embeddable": true, "live": false, "wikidata": "Q132058274"},
+  {"id": "alahlytv", "name": "Al AHLY TV", "category": "sports", "youtubeChannelId": "UCmeqakSoEdmxEtTnCFSbunw", "youtubeVideoId": "vmdzHRKnqZc", "embeddable": true, "live": false, "wikidata": "Q4702164"},
   {"id": "aghapytv", "name": "Aghapy TV", "category": "religious", "youtubeChannelId": "UC97YtaFaO3lUTcG4dCmgr5Q", "live": false, "wikidata": "Q390496"},
   {"id": "ctvegypt", "name": "CTV Egypt", "category": "religious", "youtubeChannelId": "UCYohbAToXhhGvZONgZ1xAGw", "live": false, "wikidata": "Q847733"}
  ]

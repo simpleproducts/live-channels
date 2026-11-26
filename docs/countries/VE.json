@@ -6,8 +6,7 @@
   "ve.vpitv",
   "ve.laiguanatv",
   "ve.telesurenglish",
-  "ve.vtv",
-  "ve.unionradio"
+  "ve.vtv"
  ],
  "channels": [
   {
@@ -164,7 +163,7 @@
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
    "youtubeVideoId": "fS8mKpvgF5g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5770016",
    "description": {
     "en": "Venezuela",

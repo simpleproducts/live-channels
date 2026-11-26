@@ -14,13 +14,13 @@
   {"id": "tv5monde", "name": "TV5MONDE Info", "category": "news", "youtubeChannelId": "UCzKH70qfN_yuXq3s91fdwmg", "youtubeVideoId": "qCXqcxt5OVQ", "embeddable": true, "live": false},
   {"id": "laprovence", "name": "La Provence", "category": "news", "youtubeChannelId": "UC2i-BljAg1w_MMMA1JuFm7w", "live": false, "wikidata": "Q1799045"},
   {"id": "afp", "name": "AFP", "category": "news", "youtubeChannelId": "UCckz6n8QccTd6K_xdwKqa0A", "live": false, "wikidata": "Q40464"},
-  {"id": "montecarlodoualiya", "name": "مونت كارلو الدولية / Monte Carlo Doualiya", "category": "broadcast", "youtubeChannelId": "UCzyAonkXMAIi8bp7_05PV-Q", "youtubeVideoId": "zP95pzO99zw", "embeddable": true, "live": true, "liveSince": "2026-10-29T00:00:00Z", "languages": ["ar"], "wikidata": "Q3322519"},
+  {"id": "montecarlodoualiya", "name": "مونت كارلو الدولية / Monte Carlo Doualiya", "category": "broadcast", "youtubeChannelId": "UCzyAonkXMAIi8bp7_05PV-Q", "youtubeVideoId": "zP95pzO99zw", "embeddable": true, "live": true, "liveSince": "2026-10-29T16:34:26Z", "languages": ["ar"], "wikidata": "Q3322519"},
   {"id": "bfmbusiness", "name": "BFM Business", "category": "economy", "youtubeChannelId": "UCUsBMOIUl_ad6JUOC16DpmQ", "live": false, "wikidata": "Q2877016"},
-  {"id": "bsmart", "name": "B SMART", "category": "economy", "youtubeChannelId": "UCHKib3PFscrSEFOINC2ZJCQ", "youtubeVideoId": "L_v2sHkaPco", "embeddable": true, "live": true, "liveSince": "2026-11-25T08:00:00Z", "wikidata": "Q99205506"},
-  {"id": "canal10televisionradio", "name": "Canal 10", "category": "regional", "youtubeChannelId": "UCafjyDNKyp3_gpiFgU42Slg", "youtubeVideoId": "woRRmBiqiPU", "embeddable": true, "live": true, "liveSince": "2026-11-25T19:00:00Z", "wikidata": "Q2935872"},
+  {"id": "bsmart", "name": "B SMART", "category": "economy", "youtubeChannelId": "UCHKib3PFscrSEFOINC2ZJCQ", "youtubeVideoId": "L_v2sHkaPco", "embeddable": true, "live": true, "liveSince": "2026-11-25T08:11:14Z", "wikidata": "Q99205506"},
+  {"id": "canal10televisionradio", "name": "Canal 10", "category": "regional", "youtubeChannelId": "UCafjyDNKyp3_gpiFgU42Slg", "youtubeVideoId": "0K3gKsFt1zM", "embeddable": true, "live": true, "liveSince": "2026-11-26T01:16:24Z", "wikidata": "Q2935872"},
   {"id": "demaintv", "name": "demaintv", "category": "regional", "youtubeChannelId": "UCvGQ0lxN0jn4Ia5l9FxnWUQ", "live": false, "wikidata": "Q3021981"},
   {"id": "francetvicibretagne", "name": "France TV - ICI Bretagne", "category": "regional", "youtubeChannelId": "UCW3mewW-ZMdk3byz5F8gfHA", "live": false, "wikidata": "Q3080593"},
-  {"id": "assemblee", "name": "Assemblée nationale", "category": "government", "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw", "youtubeVideoId": "6YLk0HttPmA", "embeddable": true, "live": true, "liveSince": "2026-11-25T12:45:17Z"},
+  {"id": "assemblee", "name": "Assemblée nationale", "category": "government", "youtubeChannelId": "UCnflyRN1KOXDp6VM-_EZJgw", "youtubeVideoId": "6YLk0HttPmA", "embeddable": true, "live": false},
   {"id": "lcp", "name": "LCP - Assemblée nationale", "category": "government", "youtubeChannelId": "UCHGFbA0KWBgf6gMbyUCZeCQ", "youtubeVideoId": "4QExo85B19Q", "embeddable": true, "live": false, "wikidata": "Q3205960"},
   {"id": "publicsenat", "name": "Public Sénat", "category": "government", "youtubeChannelId": "UCTa1bPArjpvNMgSHAb_pflA", "youtubeVideoId": "A2wnYkH2kxs", "embeddable": true, "live": false},
   {"id": "rmcsport", "name": "RMCSport", "category": "sports", "youtubeChannelId": "UCR5V8BTvlkyYtw6T_9swNEw", "live": false, "wikidata": "Q3415245"},
@@ -31,7 +31,7 @@
   {"id": "nrj", "name": "NRJ", "category": "radio", "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A", "youtubeVideoId": "0hwd0Q5FV_8", "embeddable": true, "live": false, "languages": ["fr"]},
   {"id": "lignedroitelamatinaleder", "name": "Radio Courtoisie", "category": "radio", "youtubeChannelId": "UCIA3flGw7EPkw9c7S-qGjbQ", "live": false, "wikidata": "Q2209224"},
   {"id": "skyrockfm", "name": "Skyrock FM", "category": "radio", "youtubeChannelId": "UC5BYACI8gIm3wDlVnhKFG5A", "live": false, "wikidata": "Q3486468"},
-  {"id": "ktotv", "name": "KTO TV", "category": "religious", "youtubeChannelId": "UCg0L6cPMNLv1gjsyzYqMG7g", "youtubeVideoId": "gcRVTjVGmiY", "embeddable": true, "live": true, "wikidata": "Q539409"},
+  {"id": "ktotv", "name": "KTO TV", "category": "religious", "youtubeChannelId": "UCg0L6cPMNLv1gjsyzYqMG7g", "youtubeVideoId": "gcRVTjVGmiY", "embeddable": true, "live": false, "wikidata": "Q539409"},
   {"id": "arte", "name": "ARTE", "category": "culture", "youtubeChannelId": "UCwI-JbGNsojunnHbFAc0M4Q", "youtubeVideoId": "NGGoBavjtiw", "embeddable": true, "live": false}
  ]
 }
