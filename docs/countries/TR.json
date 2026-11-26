@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "tr.cnnturk",
   "tr.haberturk",
@@ -401,9 +401,9 @@
     "tr"
    ],
    "youtubeChannelId": "UC6T0L26KS1NHMPbTwI1L4Eg",
-   "youtubeVideoId": "NFSWAM119I8",
+   "youtubeVideoId": "SaIcQi7BAQE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6098857",
    "description": {
     "en": "Turkish news network",
@@ -487,9 +487,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCVKWwHoLwUMMa80cu_1uapA",
-   "youtubeVideoId": "LcxX7_HZfBE",
+   "youtubeVideoId": "kB5yi2BGlNE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q61077381",
    "description": {
     "en": "Turkey-based cable television channel",
@@ -1065,9 +1065,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCtKWl45pxZ40aqtD2RA_xlA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "m3RWR0TmEL0",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q97260733",
    "description": {
     "en": "radio station in Beyoğlu, Turkey",

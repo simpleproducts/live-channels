@@ -1,12 +1,9 @@
 {
  "schema": 2,
  "code": "GR",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
-  "gr.open",
-  "gr.enachannelgreece",
-  "gr.besttv",
-  "gr.4etv"
+  "gr.open"
  ],
  "channels": [
   {
@@ -17,9 +14,9 @@
     "el"
    ],
    "youtubeChannelId": "UCllCEPTcZ_GplDaFsdq_utA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Sf63Eyt_1xA",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q19571549",
    "description": {
     "en": "Greek television channel"

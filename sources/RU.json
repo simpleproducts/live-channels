@@ -8,7 +8,7 @@
   {"id": "euronewsru", "name": "Euronews по-русски", "category": "news", "youtubeChannelId": "UCFzJjgVicCtFxJ5B0P_ei8A", "youtubeVideoId": "lwYzwdBiaho", "embeddable": true, "live": true, "liveSince": "2022-12-14T11:45:38Z", "languages": ["ru"]},
   {"id": "popularpolitics", "name": "Популярная политика", "category": "news", "youtubeChannelId": "UC7Elc-kLydl-NAV4g204pDQ", "youtubeVideoId": "bNE6ppKqo9o", "embeddable": true, "live": false, "languages": ["ru"]},
   {"id": "rtvi", "name": "RTVI", "category": "news", "youtubeChannelId": "UCPU28A9z_ka_R5dQfecHJlA", "live": false, "languages": ["ru"]},
-  {"id": "zhivoygvozd", "name": "Живой гвоздь", "category": "radio", "youtubeChannelId": "UCWAIvx2yYLK_xTYD4F2mUNw", "youtubeVideoId": "rKtBYUFpPjg", "embeddable": true, "live": false, "languages": ["ru"]},
-  {"id": "tvsoyuz", "name": "tvsoyuz", "category": "religious", "youtubeChannelId": "UCmT_7bJwaBtmKqhBpwV6hmA", "live": false, "wikidata": "Q4430446"}
+  {"id": "zhivoygvozd", "name": "Живой гвоздь", "category": "radio", "youtubeChannelId": "UCWAIvx2yYLK_xTYD4F2mUNw", "youtubeVideoId": "Ivdwnj9ZxrY", "embeddable": true, "live": true, "liveSince": "2026-11-26T04:55:32Z", "languages": ["ru"]},
+  {"id": "tvsoyuz", "name": "tvsoyuz", "category": "religious", "youtubeChannelId": "UCmT_7bJwaBtmKqhBpwV6hmA", "youtubeVideoId": "Q4wP4jLvxOE", "embeddable": true, "live": true, "liveSince": "2026-11-26T03:59:28Z", "wikidata": "Q4430446"}
  ]
 }

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "pk.samaa",
   "pk.geonews",
@@ -291,9 +291,9 @@
     "ur"
    ],
    "youtubeChannelId": "UCcmpeVbSSQlZRvHfdC-CRwg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "ph3AK85VIWw",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q20647024",
    "description": {
     "en": "Pakistani Urdu-language TV channel",

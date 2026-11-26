@@ -1,10 +1,12 @@
 {
  "schema": 2,
  "code": "RU",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "ru.currenttime",
-  "ru.euronewsru"
+  "ru.euronewsru",
+  "ru.zhivoygvozd",
+  "ru.tvsoyuz"
  ],
  "channels": [
   {
@@ -177,9 +179,9 @@
     "ru"
    ],
    "youtubeChannelId": "UCWAIvx2yYLK_xTYD4F2mUNw",
-   "youtubeVideoId": "rKtBYUFpPjg",
+   "youtubeVideoId": "Ivdwnj9ZxrY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q749928",
    "description": {
     "en": "Russian radio station",
@@ -223,9 +225,9 @@
     "ru"
    ],
    "youtubeChannelId": "UCmT_7bJwaBtmKqhBpwV6hmA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Q4wP4jLvxOE",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q4430446",
    "description": {
     "ru": "Телеканал «Союз» — первый православный телеканал России.",

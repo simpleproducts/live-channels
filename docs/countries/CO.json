@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.canal1",
-  "co.noticiasuno",
   "co.caracoltv",
   "co.citytv",
-  "co.rcnradio"
+  "co.rcnradio",
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -130,7 +129,7 @@
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
    "youtubeVideoId": "nG8yrVXdIjA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -184,7 +183,7 @@
    "youtubeChannelId": "UC3NUgxBBl05tthfGBS6kPkA",
    "youtubeVideoId": "dwhtxiRk46k",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7063021",
    "description": {
     "en": "television series",
@@ -435,7 +434,7 @@
    "youtubeChannelId": "UC_AZE6OOfsr7CxzPfkjnM9A",
    "youtubeVideoId": "vBbDWvsK2Bo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -501,7 +500,7 @@
    "youtubeChannelId": "UC8xfBVSEAryXew78mZbFZFg",
    "youtubeVideoId": "MLFTsgw-ybI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q8200525",
    "description": {
     "en": "radio station in Colombia",
@@ -524,7 +523,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "xnb-wgskA7M",
+   "youtubeVideoId": "A7IkAx0JPb8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -554,7 +553,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "MwFjnrwZIW0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -583,7 +582,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "fWDlVPsJJIE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -723,7 +722,7 @@
    "youtubeChannelId": "UCiVHAfsq_UPsw8cm0sylDRw",
    "youtubeVideoId": "4vEYrA7FhR0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5964328",
    "description": {
     "en": "Colombian radio station",

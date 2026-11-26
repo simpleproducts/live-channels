@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
+  "ph.gma",
+  "ph.oneph",
   "ph.net25",
   "ph.onenewsph",
-  "ph.dzxlnews",
-  "ph.dzrh",
-  "ph.house",
-  "ph.onesports",
-  "ph.teleradyo"
+  "ph.anc",
+  "ph.inquirer",
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -23,7 +23,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "mLyS33cPl4g",
+   "youtubeVideoId": "UJaWZNBAKLA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -60,9 +60,9 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "S-zD3w9n4IU",
+   "youtubeVideoId": "1q3PfhvuBxg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -88,9 +88,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "02OD4zCO4bc",
+   "youtubeVideoId": "I2SXxr_FH6c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -107,9 +107,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "SVCS0BmZWtQ",
+   "youtubeVideoId": "AprKen2bnf4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -174,7 +174,7 @@
     "en"
    ],
    "youtubeChannelId": "UCnYlMfpbCIg54cEyUiE42vw",
-   "youtubeVideoId": "_LpbHqHgpjU",
+   "youtubeVideoId": "ViLXgcdW_7Y",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -241,9 +241,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvRAX-ujvZ0eTMLGG2vki9w",
-   "youtubeVideoId": "rUjN1lPgDLY",
+   "youtubeVideoId": "uN2ov-rgurM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q97657682",
    "description": {
     "en": "News website from the Philippines"
@@ -262,7 +262,7 @@
     "en"
    ],
    "youtubeChannelId": "UCzEAC4xGrhpShopTYgBhGJA",
-   "youtubeVideoId": "IiXd1NMMeSM",
+   "youtubeVideoId": "4pwOdJiow1k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q55627576",
@@ -289,7 +289,7 @@
    "youtubeChannelId": "UC0x58b8W1OdhFcr3RJmJbmg",
    "youtubeVideoId": "Ty0_p49dcgg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3551666",
    "description": {
     "en": "radio station in Mega Manila",
@@ -312,9 +312,9 @@
     "en"
    ],
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
-   "youtubeVideoId": "-2xLNULa5PM",
+   "youtubeVideoId": "BBRomxAui1M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -451,9 +451,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPJWi44tskVVMNyKzYrPoGg",
-   "youtubeVideoId": "ZdzosiG4czc",
+   "youtubeVideoId": "luEyzUVdYrs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1418426",
    "description": {
     "en": "upper house of the Congress of the Philippines",
@@ -603,7 +603,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "vRE_994Nb4I",
+   "youtubeVideoId": "d1hXbqagaYE",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -665,7 +665,7 @@
     "en"
    ],
    "youtubeChannelId": "UCiDFC9vocweG8qWZOVSHVLw",
-   "youtubeVideoId": "jn8lYDp8SXk",
+   "youtubeVideoId": "vMTBxWit-NA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q85755437",
@@ -690,7 +690,7 @@
    "youtubeChannelId": "UC1f5yN0Hdibzm3JqqUswKvA",
    "youtubeVideoId": "CKE90KWFscQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3545756",
    "description": {
     "en": "radio station in the Philippines",
@@ -712,9 +712,9 @@
     "en"
    ],
    "youtubeChannelId": "UCOUVnDQoatGEuN35FrAV0Aw",
-   "youtubeVideoId": "RaLS1WgQJs0",
+   "youtubeVideoId": "_IRTUD0NMVI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5206882",
    "description": {
     "en": "radio station in Iloilo City, Philippines",

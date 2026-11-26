@@ -1,11 +1,9 @@
 {
  "schema": 2,
  "code": "TZ",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
-  "tz.itvtanzania",
-  "tz.hopechanneltanzania",
-  "tz.ariseandshinetanzania"
+  "tz.hopechanneltanzania"
  ],
  "channels": [
   {
@@ -41,9 +39,9 @@
     "en"
    ],
    "youtubeChannelId": "UCd-Q13Ld2cuutzCcQk7OD8w",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "FiecAJS2q_Y",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q115209378",
    "description": {},
    "wikipedia": {},

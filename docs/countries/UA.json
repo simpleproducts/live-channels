@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "ua.suspilne",
-  "ua.faktyictv",
   "ua.espreso",
   "ua.5kanal",
   "ua.united24",
   "ua.tv",
   "ua.ukrainianindependentinfo",
-  "ua.myukraina",
-  "ua.freedom"
+  "ua.tsn",
+  "ua.faktyictv",
+  "ua.kyiv24"
  ],
  "channels": [
   {
@@ -45,9 +45,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-   "youtubeVideoId": "8IVwgZyEAIQ",
+   "youtubeVideoId": "Ik1AjUlyST8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4449066",
    "description": {
     "en": "news division of the Ukrainian television network 1+1",
@@ -77,7 +77,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA",
-   "youtubeVideoId": "io2Efaod0Hc",
+   "youtubeVideoId": "Tmz8k47ZXlQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4041002",
@@ -145,9 +145,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
-   "youtubeVideoId": "9PKQgVUlnP4",
+   "youtubeVideoId": "gPMyCL6qJuc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -340,7 +340,7 @@
    "youtubeChannelId": "UCEduOt4TK8TtOaznB45TrhA",
    "youtubeVideoId": "4fWP7laQZdY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q115118046",
    "description": {
     "en": "Ukrainian information channel",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UC97O_ce8Rm7rE0hjE82joaA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "itJqyYHaEh4",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q4329488",
    "description": {
     "en": "leading Ukrainian online news and media platform covering politics, economy, entertainment, sports, and lifestyle.",
@@ -791,7 +791,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCwALNfmBX8f2XKt2xe4PMBA",
-   "youtubeVideoId": "LiuZEa8jOio",
+   "youtubeVideoId": "DMQZluU-iww",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65155990",

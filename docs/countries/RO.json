@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "RO",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "ro.romaniatv",
+  "ro.dcnewsro",
   "ro.trinitastv"
  ],
  "channels": [
@@ -149,9 +150,9 @@
     "ro"
    ],
    "youtubeChannelId": "UCM0GcCS1HPUhVxRVOvxg2ag",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Xd6habjfKJg",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q18539605",
    "description": {
     "en": "Romanian online newspaper"

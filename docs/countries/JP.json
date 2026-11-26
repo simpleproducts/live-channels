@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
   "jp.tbs",
   "jp.ntvnews",
   "jp.weathernews",
-  "jp.kyodo",
   "jp.sankei",
   "jp.nhkworld",
-  "jp.mbs"
+  "jp.mbs",
+  "jp.satv"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "XTIVnNXuJSw",
+   "youtubeVideoId": "THSYlL1TYqs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "8ZIiYNIeTlU",
+   "youtubeVideoId": "oUQo6tkTnWI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "kj3pxudjzmk",
+   "youtubeVideoId": "KwLUqJUI13I",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -224,7 +224,7 @@
    "youtubeChannelId": "UCwJXtk_1CKlCrh7YJDP2uPw",
    "youtubeVideoId": "x2O7K4V2bT4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q779730",
    "description": {
     "en": "news agency",
@@ -598,7 +598,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
-   "youtubeVideoId": "gf0_Tz6wIL0",
+   "youtubeVideoId": "N98x9W_C11M",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -720,7 +720,7 @@
    "youtubeChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
    "youtubeVideoId": "Z5Yh-bdW-ho",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q843432",
    "description": {
     "en": "company",
@@ -966,7 +966,7 @@
    "youtubeChannelId": "UCtK2jtkcUh59o3RdfinlZ4Q",
    "youtubeVideoId": "EENM2KW7s54",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q843448",
    "description": {
     "en": "radio station in Tokyo",

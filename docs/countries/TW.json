@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TW",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "tw.chungtientelevision",
   "tw.formosatvnewsnetwork",
@@ -11,7 +11,7 @@
   "tw.globlenewschannel",
   "tw.mnews",
   "tw.ctitvnews",
-  "tw.nexttv"
+  "tw.ustv"
  ],
  "channels": [
   {
@@ -55,7 +55,7 @@
     "zh"
    ],
    "youtubeChannelId": "UCpu3bemTQwAU8PqM4kJdoEQ",
-   "youtubeVideoId": "mqvPHM-ZLG4",
+   "youtubeVideoId": "DzDt_3S5wss",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5014664",
@@ -141,7 +141,7 @@
    "youtubeChannelId": "UC6hWBu1hfbNNk8Yeokd5aZQ",
    "youtubeVideoId": "70IHFyMJ8gY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10931647",
    "description": {
     "en": "Taiwanese television station",
@@ -169,7 +169,7 @@
    "youtubeChannelId": "UCl3aKvzB7uC5mTlVEWiCogA",
    "youtubeVideoId": "IUD-HIBTlR0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10847025",
    "description": {
     "en": "Taiwanese news website",
@@ -195,7 +195,7 @@
    "youtubeChannelId": "UC2M61YK4ntt9iK-23XhDwcw",
    "youtubeVideoId": "59fLAr5yBRY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q697153",
    "description": {
     "en": "newspaper in Taiwan",
@@ -234,7 +234,7 @@
    "youtubeChannelId": "UCrbctXCueK60wHFE2o8YL-Q",
    "youtubeVideoId": "u-MVThzDiBU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q697462",
    "description": {
     "en": "Taiwanese daily newspaper",
@@ -275,7 +275,7 @@
    "youtubeChannelId": "UC7ymKGCl6EVLh7z6sq7TBZA",
    "youtubeVideoId": "bTS8N9wcsX8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q697130",
    "description": {
     "en": "Taiwan's state-owned news agency",
@@ -338,7 +338,7 @@
    "youtubeChannelId": "UCHBv5vSp3pETSLq8oWTsmqA",
    "youtubeVideoId": "vqrWcVdc5hI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5384778",
    "description": {
     "en": "Taiwanese television channel",
@@ -605,7 +605,7 @@
    "youtubeChannelId": "UCCKuLtumYbtQsSRASl9H_iw",
    "youtubeVideoId": "E8xbWK62Vb0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q698965",
    "description": {
     "en": "radio broadcasting company of the Republic of China",
@@ -698,7 +698,7 @@
    "youtubeChannelId": "UCUaf4I5TYCExf9mWzv1cB_A",
    "youtubeVideoId": "gL7yDNeuuvo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5969604",
    "description": {
     "en": "radio station in Taiwan",

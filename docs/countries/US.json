@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -9,9 +9,9 @@
   "us.foxweather",
   "us.foxnews",
   "us.salemnewschannel",
-  "us.cbsnews",
   "us.nbcnews",
-  "us.realamerica39svoice"
+  "us.realamerica39svoice",
+  "us.nmasunivision"
  ],
  "channels": [
   {
@@ -135,7 +135,7 @@
    "youtubeChannelId": "UC8p1vwvWtl6T73JiExfWs1g",
    "youtubeVideoId": "vVieIWEkISc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q861764",
    "description": {
     "en": "news division of the American television and radio service CBS",
@@ -1210,7 +1210,7 @@
     "en"
    ],
    "youtubeChannelId": "UCMGZ8pfQHgZ6Yj0-92PMENg",
-   "youtubeVideoId": "ouPBljBadp8",
+   "youtubeVideoId": "EWiq9B-MKn4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q111426457",
@@ -2081,7 +2081,7 @@
     "en"
    ],
    "youtubeChannelId": "UCNXjJ4Igw2Ir8774eBNb4yA",
-   "youtubeVideoId": "fLf-O3trpko",
+   "youtubeVideoId": "wwtmwyHjBEQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6336552",
@@ -2777,7 +2777,7 @@
    "youtubeChannelId": "UCBnLE14tUHTDyDc8Xij9rAg",
    "youtubeVideoId": "h28UiD2816U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16842281",
    "description": {
     "en": "television series",
@@ -3134,7 +3134,7 @@
    "youtubeChannelId": "UCwY9B5_8QDGP8niZhBtTh8w",
    "youtubeVideoId": "G1m-EDNXY7g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7672568",
    "description": {
     "en": "podcast network",
@@ -3555,9 +3555,9 @@
     "en"
    ],
    "youtubeChannelId": "UCkEBDbzLyH-LbB2FgMoSMaQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "AxJrZQhrc1I",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q43429",
    "description": {
     "en": "American basic cable and satellite television channel",

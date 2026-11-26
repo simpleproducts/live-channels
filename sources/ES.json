@@ -30,7 +30,7 @@
   {"id": "senado", "name": "Senado de España", "category": "government", "youtubeChannelId": "UCvux6CMNQuTBRZn3aaoTH7w", "youtubeVideoId": "AVj5ZIPcoao", "embeddable": true, "live": false},
   {"id": "mundodeportivo", "name": "Mundo Deportivo", "category": "sports", "youtubeChannelId": "UCWSZJ4r3s5xk8zICXEveFpg", "live": false, "wikidata": "Q1458864"},
   {"id": "diarioas", "name": "Diario AS", "category": "sports", "youtubeChannelId": "UCXISYK3xagaK5DHnhQ4X0hw", "live": false, "wikidata": "Q719880"},
-  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "EYgZpIADfLY", "embeddable": true, "live": false, "wikidata": "Q1025113"},
+  {"id": "ser", "name": "Cadena SER", "category": "radio", "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q", "youtubeVideoId": "WZNbJO5hb-A", "embeddable": true, "live": true, "liveSince": "2026-11-26T04:19:06Z", "wikidata": "Q1025113"},
   {"id": "ondacero", "name": "Onda Cero", "category": "radio", "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA", "youtubeVideoId": "GpFScR-Viuo", "embeddable": true, "live": false, "wikidata": "Q2748448"},
   {"id": "cope", "name": "COPE", "category": "radio", "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ", "youtubeVideoId": "1tiqNtuoRqs", "embeddable": true, "live": false, "wikidata": "Q2748488"},
   {"id": "esradio", "name": "esRadio", "category": "radio", "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw", "youtubeVideoId": "fDuY3NiZAGA", "embeddable": true, "live": false, "wikidata": "Q3390195"},

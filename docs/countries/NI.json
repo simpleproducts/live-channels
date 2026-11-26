@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "NI",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
-  "ni.confidencialnicaragua",
-  "ni.laprensanicaragua"
+  "ni.vivanicaragua13"
  ],
  "channels": [
   {
@@ -113,9 +112,9 @@
     "es"
    ],
    "youtubeChannelId": "UCAWB76NUxj1OWEE_yaOfBLg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "riayUs6cqrQ",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2935877",
    "description": {
     "en": "television channel",

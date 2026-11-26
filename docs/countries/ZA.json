@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
-  "za.radio702",
-  "za.cnbcafrica"
+  "za.cnbcafrica",
+  "za.radio702"
  ],
  "channels": [
   {

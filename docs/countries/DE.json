@@ -1,15 +1,16 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026112601,
+ "version": 2026112605,
  "defaultTiles": [
   "de.euronewsde",
+  "de.nius",
   "de.dwnews",
   "de.dwespanol",
   "de.dw",
   "de.tvberlin",
-  "de.sat1",
-  "de.bundestag"
+  "de.bundestag",
+  "de.sat1"
  ],
  "channels": [
   {
@@ -450,9 +451,9 @@
     "de"
    ],
    "youtubeChannelId": "UCQGqiGhMjc_p4lZEhSTb12g",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "IXREP_TOoE0",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q120979051",
    "description": {
     "en": "German right-wing populist news platform",
