@@ -3,7 +3,7 @@
  "languages": ["ar"],
  "defaultTiles": ["syriannewschannel", "syriatv"],
  "channels": [
-  {"id": "syriannewschannel", "name": "قناة الإخبارية السورية", "category": "news", "youtubeChannelId": "UClm30t2F4FHzzkN9Irtr-8A", "youtubeVideoId": "93RiCjjE-yA", "embeddable": true, "live": true, "liveSince": "2026-11-15T08:54:50Z", "wikidata": "Q11641908"},
+  {"id": "syriannewschannel", "name": "قناة الإخبارية السورية", "category": "news", "youtubeChannelId": "UClm30t2F4FHzzkN9Irtr-8A", "youtubeVideoId": "w8iBCN2YEew", "embeddable": true, "live": true, "liveSince": "2026-11-27T12:50:52Z", "wikidata": "Q11641908"},
   {"id": "syriatv", "name": "Syria TV", "category": "news", "youtubeChannelId": "UCJsZ22yL1IW0R2u0jnnyYog", "youtubeVideoId": "h6cB5IUmVF0", "embeddable": true, "live": true, "liveSince": "2026-07-25T06:52:11Z", "wikidata": "Q60572782"},
   {"id": "alsouriya", "name": "Al Souriya", "category": "broadcast", "youtubeChannelId": "UCUoKu7F5tdWfSLyfiiySKYg", "youtubeVideoId": "_hAr1YYM1M4", "embeddable": true, "live": false, "wikidata": "Q7663132"},
   {"id": "radiodamascus", "name": "إذاعة دمشق", "category": "radio", "youtubeChannelId": "UCuRhKxUq_3-NP1D8aKfIHLw", "live": false, "wikidata": "Q20393961"}

@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "RU",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "ru.currenttime",
-  "ru.euronewsru",
-  "ru.popularpolitics",
-  "ru.zhivoygvozd"
+  "ru.euronewsru"
  ],
  "channels": [
   {
@@ -127,7 +125,7 @@
    "youtubeChannelId": "UC7Elc-kLydl-NAV4g204pDQ",
    "youtubeVideoId": "93xHkQ1s3pk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q113048544",
    "description": {
     "en": "Russian-language online media",
@@ -181,7 +179,7 @@
    "youtubeChannelId": "UCWAIvx2yYLK_xTYD4F2mUNw",
    "youtubeVideoId": "FNXk7fpGXhM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q749928",
    "description": {
     "en": "Russian radio station",

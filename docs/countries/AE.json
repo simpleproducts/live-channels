@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "AE",
- "version": 2026112615,
+ "version": 2026112719,
  "defaultTiles": [
   "ae.alarabiya",
   "ae.skynewsarabia",
@@ -9,8 +9,7 @@
   "ae.almashhad",
   "ae.cnbcarabia",
   "ae.alarabiyabusiness",
-  "ae.alarabiyafm",
-  "ae.spacetoon"
+  "ae.alarabiyafm"
  ],
  "channels": [
   {
@@ -252,7 +251,7 @@
    "youtubeChannelId": "UCuQKih3Ac3NABADQKQdeV6A",
    "youtubeVideoId": "I2M3ta6Z7kY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q497465",
    "description": {
     "en": "Arabic-language children's television channel",

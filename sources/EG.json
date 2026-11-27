@@ -13,7 +13,7 @@
   {"id": "masperozaman", "name": "ماسبيرو زمان", "category": "broadcast", "youtubeChannelId": "UColf1L4k9OVGwzuwNkzEOLg", "youtubeVideoId": "1f4Euja4GYM", "embeddable": true, "live": false, "wikidata": "Q25453713"},
   {"id": "koraplus", "name": "kora plus", "category": "sports", "youtubeChannelId": "UCoTREVo1yJwXXDY0TbTA4EQ", "youtubeVideoId": "lY9aYELxpYM", "embeddable": true, "live": false, "wikidata": "Q132058274"},
   {"id": "alahlytv", "name": "Al AHLY TV", "category": "sports", "youtubeChannelId": "UCmeqakSoEdmxEtTnCFSbunw", "youtubeVideoId": "vmdzHRKnqZc", "embeddable": true, "live": false, "wikidata": "Q4702164"},
-  {"id": "aghapytv", "name": "Aghapy TV", "category": "religious", "youtubeChannelId": "UC97YtaFaO3lUTcG4dCmgr5Q", "youtubeVideoId": "g8nq2fvOc1I", "embeddable": true, "live": true, "liveSince": "2026-11-27T08:09:21Z", "wikidata": "Q390496"},
+  {"id": "aghapytv", "name": "Aghapy TV", "category": "religious", "youtubeChannelId": "UC97YtaFaO3lUTcG4dCmgr5Q", "youtubeVideoId": "g8nq2fvOc1I", "embeddable": true, "live": false, "wikidata": "Q390496"},
   {"id": "ctvegypt", "name": "CTV Egypt", "category": "religious", "youtubeChannelId": "UCYohbAToXhhGvZONgZ1xAGw", "live": false, "wikidata": "Q847733"}
  ]
 }

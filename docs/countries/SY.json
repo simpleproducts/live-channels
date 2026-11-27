@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "SY",
- "version": 2026112623,
+ "version": 2026112719,
  "defaultTiles": [
-  "sy.syriannewschannel",
-  "sy.syriatv"
+  "sy.syriatv",
+  "sy.syriannewschannel"
  ],
  "channels": [
   {
@@ -15,7 +15,7 @@
     "ar"
    ],
    "youtubeChannelId": "UClm30t2F4FHzzkN9Irtr-8A",
-   "youtubeVideoId": "93RiCjjE-yA",
+   "youtubeVideoId": "w8iBCN2YEew",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11641908",

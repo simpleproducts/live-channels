@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "za.sabcnews",
-  "za.enca",
+  "za.newzroom",
   "za.cnbcafrica",
   "za.radio702",
-  "za.parliament"
+  "za.sabcsport"
  ],
  "channels": [
   {
@@ -44,7 +44,7 @@
    "youtubeChannelId": "UCI3RT5PGmdi1KVp9FG_CneA",
    "youtubeVideoId": "VVpxIcrrSp0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5323690",
    "description": {
     "en": "24-hour television news broadcaster owned by e.tv",
@@ -65,9 +65,9 @@
     "en"
    ],
    "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ",
-   "youtubeVideoId": "4BW_Gn14C-Y",
+   "youtubeVideoId": "ip1MBzneP-A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -138,7 +138,7 @@
    "youtubeChannelId": "UC-JR9Voq8LwxPCxKwqieRpQ",
    "youtubeVideoId": "NPsGwR0jtwI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2185780",
    "description": {
     "en": "legislative body of South Africa",
@@ -208,9 +208,9 @@
     "en"
    ],
    "youtubeChannelId": "UCfqRpFJSVSUKMO-LwrvPUOw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Xnx3phAVpC4",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q107584236",
    "description": {
     "en": "South African television channel"

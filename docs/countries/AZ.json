@@ -1,9 +1,9 @@
 {
  "schema": 2,
  "code": "AZ",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
-  "az.ictimaitv",
+  "az.aztv",
   "az.bakutv"
  ],
  "channels": [
@@ -37,7 +37,7 @@
    "youtubeChannelId": "UCCYhaH52lUEmfUjX-_OBAHg",
    "youtubeVideoId": "p8bPtmaek6I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q343446",
    "description": {
     "en": "Azerbaijani public television station",
@@ -81,9 +81,9 @@
     "az"
    ],
    "youtubeChannelId": "UCVf7OL0jKiO1OMHN_qaNf0w",
-   "youtubeVideoId": "d90qwnufr_s",
+   "youtubeVideoId": "Bz-6Bfx87tE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q616799",
    "description": {
     "en": "state-controlled national television station in Azerbaijan",
@@ -130,7 +130,7 @@
     "az"
    ],
    "youtubeChannelId": "UCINwqO8Scgq___xJAVjfn7g",
-   "youtubeVideoId": "LAaJ2v1jdqA",
+   "youtubeVideoId": "MzazK7Qda3w",
    "embeddable": true,
    "live": true,
    "wikidata": "Q119252675",

@@ -1,13 +1,12 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "eg.alqahera",
   "eg.alghad",
   "eg.extranews",
-  "eg.alkaherawalnas",
-  "eg.aghapytv"
+  "eg.alkaherawalnas"
  ],
  "channels": [
   {
@@ -250,7 +249,7 @@
    "youtubeChannelId": "UC97YtaFaO3lUTcG4dCmgr5Q",
    "youtubeVideoId": "g8nq2fvOc1I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q390496",
    "description": {
     "en": "Coptic Christian TV channel",

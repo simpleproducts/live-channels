@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
+  "es.elpais",
+  "es.elmundo",
   "es.eltorotv",
-  "es.canalred",
-  "es.3cat324",
-  "es.canalsur",
-  "es.eitb",
-  "es.rtvcanarias"
+  "es.theobjective",
+  "es.eldebate",
+  "es.3cat324"
  ],
  "channels": [
   {
@@ -97,9 +97,9 @@
     "en"
    ],
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
-   "youtubeVideoId": "1nECvKLHxO8",
+   "youtubeVideoId": "A1jfyHlmh1E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -169,9 +169,9 @@
     "es"
    ],
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
-   "youtubeVideoId": "FmuK8Qc2ObQ",
+   "youtubeVideoId": "mtm9pTUoiRc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -324,7 +324,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2T6NU6-JLWzAzaGdqvNyzA",
-   "youtubeVideoId": "g8FdzBL1o5U",
+   "youtubeVideoId": "NzLbIufUB-U",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3064786",
@@ -402,9 +402,9 @@
     "es"
    ],
    "youtubeChannelId": "UCkCYv06O4w0GOfdW2Ey8jvg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "lPYebFzt_BM",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q30034736",
    "description": {
     "en": "Spanish online newspaper",
@@ -425,9 +425,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8FOhz3iXhF1iqqzAFfBjmA",
-   "youtubeVideoId": "xX5Qs5ZIbkc",
+   "youtubeVideoId": "9Kq0CenMqHk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q114050859",
    "description": {
     "en": "Spanish online newspaper since 2021",
@@ -452,7 +452,7 @@
    "youtubeChannelId": "UC3PhLH0Rj2e_-0hNvwTLxGA",
    "youtubeVideoId": "lL0niZF7MAs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q119628658",
    "description": {
     "en": "television channel",
@@ -916,9 +916,9 @@
     "es"
    ],
    "youtubeChannelId": "UCXISYK3xagaK5DHnhQ4X0hw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "w3u-DdSppvQ",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q719880",
    "description": {
     "en": "Spanish sports newspaper",
@@ -966,7 +966,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "CDDiXkgeOIo",
+   "youtubeVideoId": "xFvaxoYhFEQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1025113",
@@ -1011,7 +1011,7 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "YJsgG0VowVI",
+   "youtubeVideoId": "A2O2K4R5aSs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2748448",
@@ -1077,7 +1077,7 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "sdKuLirukpE",
+   "youtubeVideoId": "_Vae8lDog9A",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3390195",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "V0GDjPS1kSo",
+   "youtubeVideoId": "rXLzsP5wouM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "Oggz41WR__Y",
+   "youtubeVideoId": "IMKf4U2_sok",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -189,7 +189,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-   "youtubeVideoId": "o5bkfJhSsxM",
+   "youtubeVideoId": "dMhISwoGsjI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492412",
@@ -598,7 +598,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCgrmHAblzN-QzMMgl2oNRog",
-   "youtubeVideoId": "qDDrPSA49G8",
+   "youtubeVideoId": "Z8Kkqx4N0pw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -718,9 +718,9 @@
     "ja"
    ],
    "youtubeChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-   "youtubeVideoId": "TKz3_IpZm0M",
+   "youtubeVideoId": "ZUUT4-AWezM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q843432",
    "description": {
     "en": "company",
@@ -754,7 +754,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCF5te9Y8oBT7oVJNyQkhWWQ",
-   "youtubeVideoId": "lSZ8zltsIXo",
+   "youtubeVideoId": "LiuD3KS6Ay0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843469",
@@ -891,7 +891,7 @@
    "youtubeChannelId": "UCoslznRuvXIAriI5z51-DPg",
    "youtubeVideoId": "t0ALyzk0m7M",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q328268",
    "description": {
     "en": "Japanese commercial TV station in Kobe, Hyogo Prefecture",

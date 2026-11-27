@@ -1,16 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
+  "co.rtvc",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.bluradio"
+  "co.teleantioquianoticias"
  ],
  "channels": [
   {
@@ -145,9 +146,9 @@
     "es"
    ],
    "youtubeChannelId": "UCykAfJIwT4VSQDFdRrZ1DXA",
-   "youtubeVideoId": "TvAfdjlfe0k",
+   "youtubeVideoId": "rDlw8L-_u10",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -364,9 +365,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "hjDKkCwRBQk",
+   "youtubeVideoId": "VnqRdloK5hU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -408,9 +409,9 @@
     "es"
    ],
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
-   "youtubeVideoId": "rFWAVXAWzN8",
+   "youtubeVideoId": "KeRIA5YvTsY",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -450,9 +451,9 @@
     "es"
    ],
    "youtubeChannelId": "UC34ir-riqZUiCOy90X5AFjg",
-   "youtubeVideoId": "iGGGWcVyvus",
+   "youtubeVideoId": "C_cjvQbJHHE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7697153",
    "description": {
     "en": "television channel",
@@ -523,7 +524,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "KsUU3JNnY_0",
+   "youtubeVideoId": "CK_dB02WS5U",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -580,9 +581,9 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "OLzbY-quLY8",
+   "youtubeVideoId": "spaTvQFWJm8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -605,9 +606,9 @@
     "es"
    ],
    "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A",
-   "youtubeVideoId": "rYp-SmYldsk",
+   "youtubeVideoId": "OvNPM8XvrFA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5843056",
    "description": {
     "en": "public radio network in Columbia",

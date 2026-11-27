@@ -1,15 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
+  "mx.heraldo",
   "mx.multimedios",
   "mx.canalonce",
-  "mx.wradio",
-  "mx.distritocomedia"
+  "mx.distritocomedia",
+  "mx.imagentv",
+  "mx.canalcongreso"
  ],
  "channels": [
   {
@@ -137,9 +139,9 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "1Vn6zblaMDk",
+   "youtubeVideoId": "PnU5BuOoQe8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -374,9 +376,9 @@
     "es"
    ],
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
-   "youtubeVideoId": "JNq8h-1o0Dg",
+   "youtubeVideoId": "jG4mPeU6F_s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -567,9 +569,9 @@
     "es"
    ],
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
-   "youtubeVideoId": "OFT0tUHt880",
+   "youtubeVideoId": "Mbwkw0w-MB4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -639,7 +641,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "xBdtavNE3Nc",
+   "youtubeVideoId": "JfhtCAkmnFQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -675,9 +677,9 @@
     "es"
    ],
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
-   "youtubeVideoId": "8CSFvJopzec",
+   "youtubeVideoId": "CM2zMAeXYNk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -693,9 +695,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
-   "youtubeVideoId": "hT6QmWLR-88",
+   "youtubeVideoId": "VeBwc-Cr27c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

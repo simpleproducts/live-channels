@@ -8,13 +8,13 @@
   {"id": "faktyictv", "name": "Факти ICTV", "category": "news", "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA", "youtubeVideoId": "FC8ddpc28VE", "embeddable": true, "live": true, "liveSince": "2026-11-27T04:58:34Z"},
   {"id": "espreso", "name": "Еспресо", "category": "news", "youtubeChannelId": "UCMEiyV8N2J93GdPNltPYM6w", "youtubeVideoId": "ScdUZNkwcYc", "embeddable": true, "live": true, "liveSince": "2024-02-27T18:12:49Z"},
   {"id": "kyiv24", "name": "Київ24", "category": "news", "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA", "youtubeVideoId": "83AM1LB0dz0", "embeddable": true, "live": true, "liveSince": "2026-11-27T04:56:03Z"},
-  {"id": "freedom", "name": "FREEДOM", "category": "news", "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA", "youtubeVideoId": "KxV2aOTwo3s", "embeddable": true, "live": true, "liveSince": "2026-11-26T20:36:19Z", "languages": ["ru"]},
-  {"id": "pryamiy", "name": "Прямий", "category": "news", "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA", "youtubeVideoId": "C3ZUFpBtCdk", "embeddable": true, "live": true, "liveSince": "2026-11-27T08:18:14Z"},
+  {"id": "freedom", "name": "FREEДOM", "category": "news", "youtubeChannelId": "UCt3igz3aIXfS108KV_jZsMA", "youtubeVideoId": "imk5fOqMBtg", "embeddable": true, "live": true, "liveSince": "2026-11-27T16:29:35Z", "languages": ["ru"]},
+  {"id": "pryamiy", "name": "Прямий", "category": "news", "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA", "youtubeVideoId": "GefMSno-HT4", "embeddable": true, "live": true, "liveSince": "2026-11-27T17:59:47Z"},
   {"id": "5kanal", "name": "5 канал", "category": "news", "youtubeChannelId": "UCkyrSWEcjZKpIwMxiPfOcgg", "youtubeVideoId": "0jkTYCaRBKA", "embeddable": true, "live": true, "liveSince": "2026-11-16T12:12:23Z"},
-  {"id": "24kanal", "name": "24 Канал", "category": "news", "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ", "youtubeVideoId": "KWuHQBSqDxM", "embeddable": true, "live": true, "liveSince": "2026-11-27T08:20:49Z"},
+  {"id": "24kanal", "name": "24 Канал", "category": "news", "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ", "youtubeVideoId": "KWuHQBSqDxM", "embeddable": true, "live": false},
   {"id": "united24", "name": "UNITED24", "category": "news", "youtubeChannelId": "UCX-xHRN9CnoXto5gcPskANA", "youtubeVideoId": "oGvn8UqLEKE", "embeddable": true, "live": true, "liveSince": "2026-11-23T09:33:54Z", "languages": ["en", "uk"]},
   {"id": "tv", "name": "Апостроф TV", "category": "news", "youtubeChannelId": "UC0lnIB2qcArjFJPtq79WGZA", "youtubeVideoId": "vpSMFQyQKj0", "embeddable": true, "live": true, "liveSince": "2026-10-13T21:03:35Z", "wikidata": "Q107710688"},
-  {"id": "myukraina", "name": "Ми - Україна", "category": "news", "youtubeChannelId": "UCEduOt4TK8TtOaznB45TrhA", "youtubeVideoId": "C1sYfCQ5OV0", "embeddable": true, "live": true, "liveSince": "2026-11-27T08:31:40Z", "wikidata": "Q115118046"},
+  {"id": "myukraina", "name": "Ми - Україна", "category": "news", "youtubeChannelId": "UCEduOt4TK8TtOaznB45TrhA", "youtubeVideoId": "C1sYfCQ5OV0", "embeddable": true, "live": false, "wikidata": "Q115118046"},
   {"id": "armytvukrainianmilitaryc", "name": "Army TV", "category": "news", "youtubeChannelId": "UCWRZ7gEgbry5FI2-46EX3jA", "live": false, "wikidata": "Q117831704"},
   {"id": "radiosvobodaukraine", "name": "Радіо Свобода", "category": "news", "youtubeChannelId": "UC7qnYpVcuFbURi3E2E6_f6Q", "live": false, "wikidata": "Q85999798"},
   {"id": "ukrinform", "name": "Ukrinform", "category": "news", "youtubeChannelId": "UCaDkCK6iFHPE0lmpaYL-WxQ", "live": false, "wikidata": "Q987030"},
@@ -33,6 +33,6 @@
   {"id": "tv7plus", "name": "TV7plus", "category": "regional", "youtubeChannelId": "UCxAljB9DmPsN10Me6YYHDww", "youtubeVideoId": "ybcHuZ5R_gE", "embeddable": true, "live": false, "wikidata": "Q116871524"},
   {"id": "rada", "name": "Телеканал Рада", "category": "government", "youtubeChannelId": "UC5V8mErVFOpcQXEb3y9IMZw", "youtubeVideoId": "ApdD9Z5m2g0", "embeddable": true, "live": true, "liveSince": "2026-11-25T10:42:17Z"},
   {"id": "megogosport", "name": "MEGOGO SPORT", "category": "sports", "youtubeChannelId": "UCCKMcQ8NpxeEN0h8LLe-y6Q", "youtubeVideoId": "qDYp5UFdwzM", "embeddable": true, "live": false, "wikidata": "Q128911972"},
-  {"id": "radionv", "name": "Radio NV", "category": "radio", "youtubeChannelId": "UCVoPOHZYyNUr1GiVnRVm2ig", "youtubeVideoId": "Nl_oX-PaaU4", "embeddable": true, "live": true, "liveSince": "2026-11-27T06:03:31Z", "wikidata": "Q50398001"}
+  {"id": "radionv", "name": "Radio NV", "category": "radio", "youtubeChannelId": "UCVoPOHZYyNUr1GiVnRVm2ig", "youtubeVideoId": "Nl_oX-PaaU4", "embeddable": true, "live": false, "wikidata": "Q50398001"}
  ]
 }

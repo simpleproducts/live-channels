@@ -1,15 +1,13 @@
 {
  "schema": 2,
  "code": "PL",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "pl.tvpinfo",
   "pl.republika",
   "pl.wpolsce24",
   "pl.tvpworld",
-  "pl.vottak",
-  "pl.radiozet",
-  "pl.kanalzero"
+  "pl.radiozet"
  ],
  "channels": [
   {
@@ -158,7 +156,7 @@
    "youtubeChannelId": "UCSqO8lV-ric7ow5G5q9roWw",
    "youtubeVideoId": "Ks4m1VNK0OU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q134391702",
    "description": {
     "ru": "Польский телеканал и веб-ресурс на русском языке",
@@ -309,7 +307,7 @@
    "youtubeChannelId": "UClhEl4bMD8_escGCCTmRAYg",
    "youtubeVideoId": "XsZ_uZNgQb0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q124607345",
    "description": {
     "en": "Polish online general-interest channel",

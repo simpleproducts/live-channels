@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
   "ng.ntalive",
-  "ng.businessdaytelevision"
+  "ng.trusttvnews",
+  "ng.dovetelevision"
  ],
  "channels": [
   {
@@ -95,9 +96,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTlqstA2Wrt4fimd_VWKr8g",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "P2ePUBkkgiA",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q109578701",
    "description": {
     "de": "Fernsehsender aus Nigeria"
@@ -159,7 +160,7 @@
    "youtubeChannelId": "UCsVZWCV-LutMa89JgR8-KGw",
    "youtubeVideoId": "6Vw0K6uUT7I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16733394",
    "description": {
     "en": "Nigerian business newspaper",
@@ -181,9 +182,9 @@
     "en"
    ],
    "youtubeChannelId": "UCbgM7xAXYYB6eX_CipYlTQw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "S2Tan0Kx3Ak",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q99519020",
    "description": {
     "en": "television station of The Redeemed Christian Church of God",

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "br.jovempan",
   "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
+  "br.uol",
+  "br.metropoles",
+  "br.tv247",
   "br.tvthsbtvale",
-  "br.canalgov",
-  "br.gaucha",
-  "br.riotvcamara",
-  "br.cbn"
+  "br.canalgov"
  ],
  "channels": [
   {
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "1_Q1JGxz4xg",
+   "youtubeVideoId": "8dIpLooACvg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "YZxNCedxAeM",
+   "youtubeVideoId": "E5kWdYly2l0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -181,9 +181,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
-   "youtubeVideoId": "BZF_esWDIDU",
+   "youtubeVideoId": "ZNrNfPrL2Ds",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -199,9 +199,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
-   "youtubeVideoId": "1LocTleAmbI",
+   "youtubeVideoId": "URO5sipZa1M",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -265,9 +265,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCRuy5PigeeBuecKnwqhM4yg",
-   "youtubeVideoId": "sOw1RYuN3sk",
+   "youtubeVideoId": "mwpx3dxabUA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q9663951",
    "description": {
     "en": "digital newspaper",
@@ -492,9 +492,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCd7VVhgnd2eCv9JEghvR_1w",
-   "youtubeVideoId": "kKAxXySdJxM",
+   "youtubeVideoId": "7O6Tt8iN7Os",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1090363",
    "description": {
     "en": "Brazilian broadcast television network",
@@ -559,9 +559,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCumKvcgpO2MCQ45pi-fXf_g",
-   "youtubeVideoId": "d8pUxn8bdY8",
+   "youtubeVideoId": "X1egveCuBY8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q18242204",
    "description": {
     "en": "Television network",
@@ -1018,9 +1018,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC5R9fUkH1iru752mgABqpGw",
-   "youtubeVideoId": "juySS4M8x6Q",
+   "youtubeVideoId": "ik5fB8LNc0E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q18275293",
    "description": {
     "en": "television station in Acre, Brazil",
@@ -1318,9 +1318,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCy_naU-R1MwrRNXkVXcUiIw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Ag3e33ByY08",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q9669650",
    "description": {
     "pt-BR": "estação de rádio brasileira de Campinas, SP",
@@ -1525,7 +1525,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "XRq7UzsDwPA",
+   "youtubeVideoId": "hVo59E2i_GE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -1555,7 +1555,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "BOXiAYM-yxE",
+   "youtubeVideoId": "danEvS_Ntqk",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -1582,9 +1582,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
-   "youtubeVideoId": "KBWTNrTg0sc",
+   "youtubeVideoId": "eYJR82XG6WE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q10365899",
    "description": {
     "en": "Brazilian radio station in Minas Gerais",
@@ -1608,7 +1608,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "_MR-fciZtq8",
+   "youtubeVideoId": "TQJfpzcCK7E",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
@@ -1653,9 +1653,9 @@
     "pt"
    ],
    "youtubeChannelId": "UCcrwxZP-L12EFr150HTFk3w",
-   "youtubeVideoId": "MddmGwTLUvI",
+   "youtubeVideoId": "Xs7fesPHvZU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -1749,9 +1749,9 @@
     "pt"
    ],
    "youtubeChannelId": "UC1utYBZoJk4zUN3KsTbAIKQ",
-   "youtubeVideoId": "f9TmjRab1lg",
+   "youtubeVideoId": "TPkll_UQf44",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q10365620",
    "description": {
     "en": "Brazilian radio station in São Paulo city",

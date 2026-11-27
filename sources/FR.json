@@ -26,11 +26,11 @@
   {"id": "rmcsport", "name": "RMCSport", "category": "sports", "youtubeChannelId": "UCR5V8BTvlkyYtw6T_9swNEw", "youtubeVideoId": "4KYoFPcPp8U", "embeddable": true, "live": false, "wikidata": "Q3415245"},
   {"id": "rfi", "name": "RFI", "category": "radio", "youtubeChannelId": "UCm4fSpMpPIZ9z6KHoezLUAg", "youtubeVideoId": "OAoLGxrlBPY", "embeddable": true, "live": true, "liveSince": "2026-06-12T09:33:38Z"},
   {"id": "franceinter", "name": "France Inter", "category": "radio", "youtubeChannelId": "UCJldRgT_D7Am-ErRHQZ90uw", "youtubeVideoId": "AL9R3GSsfEI", "embeddable": true, "live": true, "liveSince": "2026-11-03T11:39:59Z", "languages": ["fr"]},
-  {"id": "sudradio", "name": "Sud Radio", "category": "radio", "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ", "youtubeVideoId": "7hfeHD4VzOM", "embeddable": true, "live": true, "liveSince": "2026-11-07T10:21:39Z", "languages": ["fr"]},
+  {"id": "sudradio", "name": "Sud Radio", "category": "radio", "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ", "youtubeVideoId": "7hfeHD4VzOM", "embeddable": true, "live": false, "languages": ["fr"]},
   {"id": "rmc", "name": "RMC", "category": "radio", "youtubeChannelId": "UCgGb7tN3tIH5_Kk05D1J_bA", "embeddable": false, "live": false, "languages": ["fr"]},
   {"id": "nrj", "name": "NRJ", "category": "radio", "youtubeChannelId": "UCCXCqCR3s-McFHDGnl4ta_A", "youtubeVideoId": "0hwd0Q5FV_8", "embeddable": true, "live": false, "languages": ["fr"]},
-  {"id": "lignedroitelamatinaleder", "name": "Radio Courtoisie", "category": "radio", "youtubeChannelId": "UCIA3flGw7EPkw9c7S-qGjbQ", "youtubeVideoId": "zHu-CGpkF3g", "embeddable": true, "live": true, "liveSince": "2026-11-27T06:00:05Z", "wikidata": "Q2209224"},
-  {"id": "skyrockfm", "name": "Skyrock FM", "category": "radio", "youtubeChannelId": "UC5BYACI8gIm3wDlVnhKFG5A", "live": false, "wikidata": "Q3486468"},
+  {"id": "lignedroitelamatinaleder", "name": "Radio Courtoisie", "category": "radio", "youtubeChannelId": "UCIA3flGw7EPkw9c7S-qGjbQ", "youtubeVideoId": "zHu-CGpkF3g", "embeddable": true, "live": false, "wikidata": "Q2209224"},
+  {"id": "skyrockfm", "name": "Skyrock FM", "category": "radio", "youtubeChannelId": "UC5BYACI8gIm3wDlVnhKFG5A", "youtubeVideoId": "Sc4FX_pjGZI", "embeddable": true, "live": true, "liveSince": "2026-11-27T18:55:29Z", "wikidata": "Q3486468"},
   {"id": "ktotv", "name": "KTO TV", "category": "religious", "youtubeChannelId": "UCg0L6cPMNLv1gjsyzYqMG7g", "youtubeVideoId": "gcRVTjVGmiY", "embeddable": true, "live": false, "wikidata": "Q539409"},
   {"id": "arte", "name": "ARTE", "category": "culture", "youtubeChannelId": "UCwI-JbGNsojunnHbFAc0M4Q", "youtubeVideoId": "NGGoBavjtiw", "embeddable": true, "live": false}
  ]

@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.phoenix",
+  "de.zdfheute",
   "de.dwnews",
   "de.dwespanol",
   "de.dw",
   "de.tvberlin",
-  "de.sat1",
-  "de.bundestag"
+  "de.sat1"
  ],
  "channels": [
   {
@@ -22,7 +21,7 @@
     "de"
    ],
    "youtubeChannelId": "UCZMsvbAhhRblVGXmEXW8TSA",
-   "youtubeVideoId": "PryrJiYu2zg",
+   "youtubeVideoId": "jsBBizygSVw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1959672",
@@ -66,7 +65,7 @@
    "youtubeChannelId": "UCwyiPnNlT8UABRmGmU0T9jg",
    "youtubeVideoId": "alGwIRVdH3E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3381361",
    "description": {
     "en": "television station in Germany",
@@ -145,9 +144,9 @@
     "de"
    ],
    "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ",
-   "youtubeVideoId": "sejyoCl1S2o",
+   "youtubeVideoId": "Rru3SJ5Zrt0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q132108",
    "description": {
     "en": "German TV news program",
@@ -505,7 +504,7 @@
    "youtubeChannelId": "UCbh5D3EdIHP4YQA5X-eK1ug",
    "youtubeVideoId": "Zu_yos4WKpw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q154797",
    "description": {
     "en": "legislature of Germany; parliament",

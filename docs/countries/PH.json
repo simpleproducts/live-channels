@@ -1,17 +1,10 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "ph.untv",
-  "ph.abscbn",
-  "ph.gma",
-  "ph.news5",
-  "ph.onenewsph",
-  "ph.dzxlnews",
-  "ph.anc",
-  "ph.dzrh",
-  "ph.senate"
+  "ph.dzrh"
  ],
  "channels": [
   {
@@ -25,7 +18,7 @@
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
    "youtubeVideoId": "N4KN9WiVNzo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -62,7 +55,7 @@
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
    "youtubeVideoId": "56Jf9Ahbe0c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5513725",
    "description": {
     "en": "news division of GMA Network Inc.",
@@ -90,7 +83,7 @@
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
    "youtubeVideoId": "A1yWouxjaT0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -134,7 +127,7 @@
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
    "youtubeVideoId": "1vkp_7LJllE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -264,7 +257,7 @@
    "youtubeChannelId": "UCzEAC4xGrhpShopTYgBhGJA",
    "youtubeVideoId": "9qVL7xU6uk8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q55627576",
    "description": {
     "en": "news channel in the Philippines",
@@ -289,7 +282,7 @@
    "youtubeChannelId": "UC0x58b8W1OdhFcr3RJmJbmg",
    "youtubeVideoId": "e5SOvS8bjq8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3551666",
    "description": {
     "en": "radio station in Mega Manila",
@@ -374,7 +367,7 @@
    "youtubeChannelId": "UCZTlGPEnQ66TFG0m6Wa3KFQ",
    "youtubeVideoId": "aDEEV5PuUZ0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3547823",
    "description": {
     "en": "radio station in Mega Manila",
@@ -398,7 +391,7 @@
    "youtubeChannelId": "UCiFx0kZFjR29u0uJxTSq5MQ",
    "youtubeVideoId": "t5NUDfuLuGQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4015057",
    "description": {
     "en": "commercial television network in the Philippines",
@@ -453,7 +446,7 @@
    "youtubeChannelId": "UCPJWi44tskVVMNyKzYrPoGg",
    "youtubeVideoId": "WODfWh4yPDA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1418426",
    "description": {
     "en": "upper house of the Congress of the Philippines",
@@ -561,7 +554,7 @@
    "youtubeChannelId": "UCXDG9ue-emCN8Ad3h7lERqQ",
    "youtubeVideoId": "W_937pYjR98",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q60769590",
    "description": {
     "en": "Philippine sports television network",
@@ -605,7 +598,7 @@
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
    "youtubeVideoId": "iJE5-d89ri8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -643,7 +636,7 @@
    "youtubeChannelId": "UC934DvzBQQnB5qBJpc50obg",
    "youtubeVideoId": "ZBIPie2ig_A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6691186",
    "description": {
     "en": "Broadcast radio network in the Philippines",
@@ -667,7 +660,7 @@
    "youtubeChannelId": "UCiDFC9vocweG8qWZOVSHVLw",
    "youtubeVideoId": "r7ap-CN0oHI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q85755437",
    "description": {
     "en": "radio station in Palo"
@@ -690,7 +683,7 @@
    "youtubeChannelId": "UC1f5yN0Hdibzm3JqqUswKvA",
    "youtubeVideoId": "Tsh-2rAoGnc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3545756",
    "description": {
     "en": "radio station in the Philippines",
@@ -738,7 +731,7 @@
    "youtubeChannelId": "UCBb8SMaygsCq8Mo0cJA0b9g",
    "youtubeVideoId": "pwp7ZzTX6MU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q141126212",
    "description": {
     "en": "Broadcast radio network in the Philippines"

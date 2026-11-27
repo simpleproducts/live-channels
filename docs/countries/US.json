@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -11,7 +11,7 @@
   "us.salemnewschannel",
   "us.nbcnews",
   "us.livenow",
-  "us.msnow"
+  "us.scripps"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "k_ygu0jVZ3o",
+   "youtubeVideoId": "gKULTIDM-8s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -239,7 +239,7 @@
     "en"
    ],
    "youtubeChannelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
-   "youtubeVideoId": "2-apL7shGVM",
+   "youtubeVideoId": "pu49AmFJRp4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q121917610",
@@ -291,9 +291,9 @@
     "en"
    ],
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
-   "youtubeVideoId": "p1OhtCNJT3I",
+   "youtubeVideoId": "PbqnmWAgkAg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -603,7 +603,7 @@
     "en"
    ],
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-   "youtubeVideoId": "GjX7SROH1s4",
+   "youtubeVideoId": "EIqVYck-K20",
    "embeddable": true,
    "live": true,
    "wikidata": "Q13973",
@@ -1210,9 +1210,9 @@
     "en"
    ],
    "youtubeChannelId": "UCMGZ8pfQHgZ6Yj0-92PMENg",
-   "youtubeVideoId": "isNLdOYoJk8",
+   "youtubeVideoId": "nxByzSHa-ls",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q111426457",
    "description": {
     "en": "American conservative television channel",
@@ -2922,7 +2922,7 @@
    "youtubeChannelId": "UCYxRlFDqcWM4y7FfpiAN3KQ",
    "youtubeVideoId": "ZpJlociXFyM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q35525",
    "description": {
     "en": "official residence and office of the President of the United States",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TW",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "tw.chungtientelevision",
   "tw.formosatvnewsnetwork",
@@ -10,8 +10,8 @@
   "tw.inews",
   "tw.globlenewschannel",
   "tw.mnews",
-  "tw.ctitvnews",
-  "tw.ustv"
+  "tw.ustv",
+  "tw.57"
  ],
  "channels": [
   {
@@ -57,7 +57,7 @@
    "youtubeChannelId": "UCpu3bemTQwAU8PqM4kJdoEQ",
    "youtubeVideoId": "W_7YZtS_iXs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5014664",
    "description": {
     "en": "Pro-People's Republic of China online news channels in the Republic of China (Taiwan)",

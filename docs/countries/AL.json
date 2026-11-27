@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "AL",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
-  "al.syritv",
-  "al.rtsh"
+  "al.teve1",
+  "al.syritv"
  ],
  "channels": [
   {
@@ -35,7 +35,7 @@
    "youtubeChannelId": "UCrhOdWxeea0IF_H7jV4y7tQ",
    "youtubeVideoId": "bdKWe2PzcCE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q115801956",
    "description": {
     "en": "Abanian television channel and news agency"
@@ -99,7 +99,7 @@
    "youtubeChannelId": "UCpiewjt_Bvzkebn6l1hwWOg",
    "youtubeVideoId": "M3fedEcKMcc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1334457",
    "description": {
     "en": "Albanian public broadcasting company",

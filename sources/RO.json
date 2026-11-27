@@ -3,15 +3,15 @@
  "languages": ["ro"],
  "defaultTiles": ["romaniatv", "alephnews", "primanews", "gandul", "adevarul", "dcnewsro"],
  "channels": [
-  {"id": "romaniatv", "name": "Romania TV", "category": "news", "youtubeChannelId": "UC5Bb0itu0pB46xykW32ck0g", "youtubeVideoId": "MQIusNloVuM", "embeddable": true, "live": true, "liveSince": "2026-11-27T07:20:29Z", "wikidata": "Q7363432"},
+  {"id": "romaniatv", "name": "Romania TV", "category": "news", "youtubeChannelId": "UC5Bb0itu0pB46xykW32ck0g", "youtubeVideoId": "p3A6s4yw1TY", "embeddable": true, "live": true, "liveSince": "2026-11-27T12:57:44Z", "wikidata": "Q7363432"},
   {"id": "alephnews", "name": "Aleph News", "category": "news", "youtubeChannelId": "UC9OlWHkFGBz08r7OXwqx3Sg", "youtubeVideoId": "I_v29WJp_HY", "embeddable": true, "live": false, "wikidata": "Q131442430"},
   {"id": "primanews", "name": "Prima News", "category": "news", "youtubeChannelId": "UCKjvqO6SaQdjGaqcnT7zDew", "live": false, "wikidata": "Q118949488"},
-  {"id": "gandul", "name": "Gândul", "category": "news", "youtubeChannelId": "UCQDHc1PDTAxM-8ca9ssR0bQ", "youtubeVideoId": "UdtHgub3EvQ", "embeddable": true, "live": false, "wikidata": "Q954232"},
+  {"id": "gandul", "name": "Gândul", "category": "news", "youtubeChannelId": "UCQDHc1PDTAxM-8ca9ssR0bQ", "youtubeVideoId": "2U15DF2Tejw", "embeddable": true, "live": true, "liveSince": "2026-11-27T18:30:09Z", "wikidata": "Q954232"},
   {"id": "adevarul", "name": "Adevărul", "category": "news", "youtubeChannelId": "UC7mCSbw-7a7m3U1W0wxy2VA", "live": false, "wikidata": "Q426356"},
   {"id": "dcnewsro", "name": "DCNEWS RO", "category": "news", "youtubeChannelId": "UCM0GcCS1HPUhVxRVOvxg2ag", "youtubeVideoId": "Xd6habjfKJg", "embeddable": true, "live": false, "wikidata": "Q18539605"},
   {"id": "antena1", "name": "Antena 1", "category": "broadcast", "youtubeChannelId": "UCbyawH6yI56MxZid7m2yLiA", "live": false, "wikidata": "Q658376"},
   {"id": "digifmnewsicradio", "name": "Digi FM", "category": "radio", "youtubeChannelId": "UCRWXfuZFnbyF5waJJao1YEg", "live": false, "wikidata": "Q25462988"},
   {"id": "trinitastv", "name": "TRINITAS TV", "category": "religious", "youtubeChannelId": "UCcqFHIDYfKsaJ5KXZjzW7ZQ", "youtubeVideoId": "W3OEty_o2AU", "embeddable": true, "live": true, "liveSince": "2026-10-27T11:07:30Z", "wikidata": "Q12742552"},
-  {"id": "cancan", "name": "Cancan", "category": "entertainment", "youtubeChannelId": "UCLvPuOCRIk8-fmUVbGY6K7w", "live": false, "wikidata": "Q18538556"}
+  {"id": "cancan", "name": "Cancan", "category": "entertainment", "youtubeChannelId": "UCLvPuOCRIk8-fmUVbGY6K7w", "youtubeVideoId": "wsqxg7gvTdw", "embeddable": true, "live": true, "liveSince": "2026-11-27T16:00:09Z", "wikidata": "Q18538556"}
  ]
 }

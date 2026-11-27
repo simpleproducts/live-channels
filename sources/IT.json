@@ -16,7 +16,7 @@
   {"id": "inter", "name": "Inter", "category": "sports", "youtubeChannelId": "UCvXzEblUa0cfny4HAJ_ZOWw", "live": false, "wikidata": "Q2259328"},
   {"id": "radiodeejay", "name": "Radio Deejay", "category": "radio", "youtubeChannelId": "UCuNnpwvG5E-hGKM2F-U5YRg", "youtubeVideoId": "46dcDwT06n0", "embeddable": true, "live": false},
   {"id": "rtl1025", "name": "RTL 102.5", "category": "radio", "youtubeChannelId": "UCdRQAy9c5cJ4oQG_US3qq-g", "live": false, "wikidata": "Q1812894"},
-  {"id": "radio24", "name": "Radio 24", "category": "radio", "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA", "youtubeVideoId": "LJIH3D5xVB0", "embeddable": true, "live": false, "languages": ["it"]},
+  {"id": "radio24", "name": "Radio 24", "category": "radio", "youtubeChannelId": "UCuiPzxEpLJLTRu2HXzY3gfA", "youtubeVideoId": "N_5XNB45YZY", "embeddable": true, "live": true, "liveSince": "2026-11-27T17:35:49Z", "languages": ["it"]},
   {"id": "romereportsinenglish", "name": "ROME REPORTS in English", "category": "religious", "youtubeChannelId": "UCxshhzR907v2w6DjICyAgLQ", "live": false, "languages": ["en"], "wikidata": "Q64821996"}
  ]
 }

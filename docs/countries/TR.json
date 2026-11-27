@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "tr.cnnturk",
   "tr.trthaber",
@@ -401,9 +401,9 @@
     "tr"
    ],
    "youtubeChannelId": "UC6T0L26KS1NHMPbTwI1L4Eg",
-   "youtubeVideoId": "SaIcQi7BAQE",
+   "youtubeVideoId": "XKVyZgL1P0A",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6098857",
    "description": {
     "en": "Turkish news network",
@@ -487,7 +487,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCVKWwHoLwUMMa80cu_1uapA",
-   "youtubeVideoId": "vGNMNHcJ2IU",
+   "youtubeVideoId": "ruKIue8SPDE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61077381",
@@ -534,7 +534,7 @@
     "tr"
    ],
    "youtubeChannelId": "UCbaLyHJp6S9Lsj6oT9aJsQw",
-   "youtubeVideoId": "oLO_rfiOOvQ",
+   "youtubeVideoId": "1-3fGV77bDE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q25474977",
@@ -1092,7 +1092,7 @@
    "youtubeChannelId": "UClCgbxpUpdi6I1p-bATd1OA",
    "youtubeVideoId": "dgmP8xJpC-w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6096587",
    "description": {
     "tr": "Meltem TV, Türkiye'de 25 Aralık 1994'te kurulan televizyon kanalıdır.",

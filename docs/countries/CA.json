@@ -1,11 +1,13 @@
 {
  "schema": 2,
  "code": "CA",
- "version": 2026112623,
+ "version": 2026112719,
  "defaultTiles": [
   "ca.cbcnews",
   "ca.theweathernetwork",
-  "ca.lovenature"
+  "ca.aptnnews",
+  "ca.lovenature",
+  "ca.cpac"
  ],
  "channels": [
   {
@@ -289,9 +291,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCA-IcIBtmwCirNr1f-n_SRA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "fFVvVRtYipA",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2819340",
    "description": {
     "en": "Canadian national news program focusing on aboriginal issues",
@@ -370,9 +372,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ",
-   "youtubeVideoId": "pF9GOpynnp4",
+   "youtubeVideoId": "NLqsW9kixdI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2931869",
    "description": {
     "en": "Canadian parliamentary broadcaster",

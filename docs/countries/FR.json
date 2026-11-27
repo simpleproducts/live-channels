@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -930,7 +930,7 @@
    "youtubeChannelId": "UCESTwDXpoMgiYBHipMdKTkQ",
    "youtubeVideoId": "7hfeHD4VzOM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q372375",
    "description": {
     "en": "French radio station",
@@ -1008,7 +1008,7 @@
    "youtubeChannelId": "UCIA3flGw7EPkw9c7S-qGjbQ",
    "youtubeVideoId": "zHu-CGpkF3g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2209224",
    "description": {
     "en": "French radio station and cultural associative union",
@@ -1038,9 +1038,9 @@
     "fr"
    ],
    "youtubeChannelId": "UC5BYACI8gIm3wDlVnhKFG5A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Sc4FX_pjGZI",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q3486468",
    "description": {
     "en": "French radio station",

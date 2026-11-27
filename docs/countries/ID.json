@@ -1,14 +1,12 @@
 {
  "schema": 2,
  "code": "ID",
- "version": 2026112708,
+ "version": 2026112719,
  "defaultTiles": [
   "id.kompastv",
   "id.cnnid",
   "id.metrotv",
-  "id.inews",
-  "id.tribuntimur",
-  "id.rcti"
+  "id.inews"
  ],
  "channels": [
   {
@@ -223,7 +221,7 @@
    "youtubeChannelId": "UCK6c4qk3hRaa6fMIEZrhiXQ",
    "youtubeVideoId": "QYdH16Hwyu0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q12522332",
    "description": {
     "en": "daily newspaper published in South Sulawesi, Indonesia",
@@ -367,7 +365,7 @@
    "youtubeChannelId": "UCE9-bV_MCGgLnH7v4HSApDg",
    "youtubeVideoId": "i8j4PcR1dcA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5257835",
    "description": {
     "en": "television network in Indonesia",

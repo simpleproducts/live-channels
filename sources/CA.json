@@ -12,10 +12,10 @@
   {"id": "thenational", "name": "CBC News: The National", "category": "news", "youtubeChannelId": "UCKjU3KzdbJE1EFcHVqXC3_g", "youtubeVideoId": "jtF39OxrOiE", "embeddable": true, "live": false},
   {"id": "canadianpress", "name": "The Canadian Press", "category": "news", "youtubeChannelId": "UCj6EKBe990fanr4MSh45Alw", "youtubeVideoId": "Lc3r_hUlvJo", "embeddable": true, "live": false},
   {"id": "theweathernetwork", "name": "The Weather Network", "category": "news", "youtubeChannelId": "UClQK9j4uUAnrZamq1_FhtcQ", "youtubeVideoId": "8QqfFfN6-tg", "embeddable": true, "live": true, "liveSince": "2026-11-04T14:08:50Z", "wikidata": "Q664520"},
-  {"id": "aptnnews", "name": "APTN News", "category": "news", "youtubeChannelId": "UCA-IcIBtmwCirNr1f-n_SRA", "live": false, "wikidata": "Q2819340"},
+  {"id": "aptnnews", "name": "APTN News", "category": "news", "youtubeChannelId": "UCA-IcIBtmwCirNr1f-n_SRA", "youtubeVideoId": "fFVvVRtYipA", "embeddable": true, "live": true, "liveSince": "2026-11-27T18:45:30Z", "wikidata": "Q2819340"},
   {"id": "bnn", "name": "BNN Bloomberg", "category": "economy", "youtubeChannelId": "UC5aNPmKYwbudeNngDMTY3lw", "live": false},
   {"id": "cp24", "name": "CP24", "category": "regional", "youtubeChannelId": "UCs3o4RhBiP2wcwqkZR2QVLw", "live": false},
-  {"id": "cpac", "name": "CPAC", "category": "government", "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ", "youtubeVideoId": "pF9GOpynnp4", "embeddable": true, "live": false, "languages": ["en", "fr"]},
+  {"id": "cpac", "name": "CPAC", "category": "government", "youtubeChannelId": "UCFZSV_So_OaXgXVzgu58tJQ", "youtubeVideoId": "NLqsW9kixdI", "embeddable": true, "live": true, "liveSince": "2026-11-27T18:23:50Z", "languages": ["en", "fr"]},
   {"id": "saltlightmedia", "name": "Salt + Light Media", "category": "religious", "youtubeChannelId": "UCCXCw4PeDbuezlKDTJ5hWAg", "live": false, "wikidata": "Q3546722"},
   {"id": "lovenature", "name": "Love Nature", "category": "culture", "youtubeChannelId": "UCRZPkuHwaoKwTP3CYPdVldg", "youtubeVideoId": "QhahoVG0BfI", "embeddable": true, "live": true, "liveSince": "2026-03-05T20:44:06Z", "wikidata": "Q3347892"}
  ]
