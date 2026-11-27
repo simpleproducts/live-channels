@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "ph.untv",
   "ph.abscbn",
   "ph.gma",
+  "ph.news5",
+  "ph.onenewsph",
+  "ph.dzxlnews",
   "ph.anc",
   "ph.dzrh",
-  "ph.ptv",
-  "ph.teleradyo",
-  "ph.bombo",
-  "ph.loveradio"
+  "ph.senate"
  ],
  "channels": [
   {
@@ -23,7 +23,7 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "4FjRG_5Yc3E",
+   "youtubeVideoId": "N4KN9WiVNzo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4261635",
@@ -60,7 +60,7 @@
     "en"
    ],
    "youtubeChannelId": "UCqYw-CTd1dU2yGI71sEyqNw",
-   "youtubeVideoId": "_l9izkfuzEU",
+   "youtubeVideoId": "56Jf9Ahbe0c",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5513725",
@@ -88,7 +88,7 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "keJd6Xr5JI4",
+   "youtubeVideoId": "A1yWouxjaT0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -132,9 +132,9 @@
     "en"
    ],
    "youtubeChannelId": "UCN7ChsGhcFqyhGVKoG1uaQg",
-   "youtubeVideoId": "nTbF6uMKuxs",
+   "youtubeVideoId": "1vkp_7LJllE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -262,9 +262,9 @@
     "en"
    ],
    "youtubeChannelId": "UCzEAC4xGrhpShopTYgBhGJA",
-   "youtubeVideoId": "4pwOdJiow1k",
+   "youtubeVideoId": "9qVL7xU6uk8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q55627576",
    "description": {
     "en": "news channel in the Philippines",
@@ -287,9 +287,9 @@
     "en"
    ],
    "youtubeChannelId": "UC0x58b8W1OdhFcr3RJmJbmg",
-   "youtubeVideoId": "Ty0_p49dcgg",
+   "youtubeVideoId": "e5SOvS8bjq8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3551666",
    "description": {
     "en": "radio station in Mega Manila",
@@ -314,7 +314,7 @@
    "youtubeChannelId": "UCJCUbMaY593_4SN1QPG7NFQ",
    "youtubeVideoId": "MDeSF5fPeFs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3550660",
    "description": {
     "en": "state television network in the Philippines",
@@ -451,9 +451,9 @@
     "en"
    ],
    "youtubeChannelId": "UCPJWi44tskVVMNyKzYrPoGg",
-   "youtubeVideoId": "luEyzUVdYrs",
+   "youtubeVideoId": "WODfWh4yPDA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1418426",
    "description": {
     "en": "upper house of the Congress of the Philippines",
@@ -559,9 +559,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXDG9ue-emCN8Ad3h7lERqQ",
-   "youtubeVideoId": "heVL3S4Q3xk",
+   "youtubeVideoId": "W_937pYjR98",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q60769590",
    "description": {
     "en": "Philippine sports television network",
@@ -603,7 +603,7 @@
     "en"
    ],
    "youtubeChannelId": "UCs_VNu-FQ0WcJnD4QkmIL5w",
-   "youtubeVideoId": "oGoKg47uNg8",
+   "youtubeVideoId": "iJE5-d89ri8",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -624,7 +624,7 @@
    "youtubeChannelId": "UCVVw9u0pZ3nnWxx7WyE8YkQ",
    "youtubeVideoId": "ZvQ-00AZ-K4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -665,7 +665,7 @@
     "en"
    ],
    "youtubeChannelId": "UCiDFC9vocweG8qWZOVSHVLw",
-   "youtubeVideoId": "mcgil73OrvQ",
+   "youtubeVideoId": "r7ap-CN0oHI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q85755437",
@@ -688,7 +688,7 @@
     "en"
    ],
    "youtubeChannelId": "UC1f5yN0Hdibzm3JqqUswKvA",
-   "youtubeVideoId": "3gAqnME4wgU",
+   "youtubeVideoId": "Tsh-2rAoGnc",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3545756",
@@ -714,7 +714,7 @@
    "youtubeChannelId": "UCOUVnDQoatGEuN35FrAV0Aw",
    "youtubeVideoId": "TvBBHyXdIX4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5206882",
    "description": {
     "en": "radio station in Iloilo City, Philippines",

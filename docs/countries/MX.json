@@ -1,17 +1,15 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
-  "mx.heraldo",
-  "mx.sinembargoalaire",
   "mx.multimedios",
   "mx.canalonce",
-  "mx.distritocomedia",
-  "mx.radioformula"
+  "mx.wradio",
+  "mx.distritocomedia"
  ],
  "channels": [
   {
@@ -141,7 +139,7 @@
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
    "youtubeVideoId": "1Vn6zblaMDk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q65047709",
    "description": {
     "en": "Mexican daily newspaper",
@@ -256,7 +254,7 @@
    "youtubeChannelId": "UCt7k7y_xTkkc1Jeh7cdAjDQ",
    "youtubeVideoId": "BecFKzf0r6A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q111978975",
    "description": {
     "en": "Mexican news publisher",
@@ -618,7 +616,7 @@
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
    "youtubeVideoId": "APHjqRSdp4E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -641,7 +639,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "5K_w77cAgp0",
+   "youtubeVideoId": "xBdtavNE3Nc",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -679,7 +677,7 @@
    "youtubeChannelId": "UCckBTKevnC_JOB_q0OO9dgg",
    "youtubeVideoId": "8CSFvJopzec",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -697,7 +695,7 @@
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
    "youtubeVideoId": "hT6QmWLR-88",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

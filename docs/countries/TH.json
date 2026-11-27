@@ -1,14 +1,17 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "th.thaipbs",
   "th.thairath",
-  "th.ch7news",
-  "th.tnn",
+  "th.ch3news",
+  "th.amarin",
+  "th.nation",
   "th.workpoint",
-  "th.topnews"
+  "th.topnews",
+  "th.9mcot",
+  "th.8thaich8"
  ],
  "channels": [
   {
@@ -19,7 +22,7 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "v2oybDYBgAQ",
+   "youtubeVideoId": "kzs4yPfaeFM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2603792",
@@ -69,7 +72,7 @@
     "th"
    ],
    "youtubeChannelId": "UCrFDdD-EE05N7gjwZho2wqw",
-   "youtubeVideoId": "HAk_UnB2OtU",
+   "youtubeVideoId": "ualiYOLtLGw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -87,9 +90,9 @@
     "th"
    ],
    "youtubeChannelId": "UCirZPTc9IoKM_DsA9aKbc4g",
-   "youtubeVideoId": "NsRU-NTelMs",
+   "youtubeVideoId": "kSysgj7h2iU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -107,7 +110,7 @@
    "youtubeChannelId": "UC2OtDM92rLjt4mm43ED1Q-w",
    "youtubeVideoId": "Mm4-hDPwY08",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -125,7 +128,7 @@
    "youtubeChannelId": "UCqUBA96OsqMgSFvTwLXY9yw",
    "youtubeVideoId": "kxkndZPe_ns",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -167,9 +170,9 @@
     "th"
    ],
    "youtubeChannelId": "UCzMoibQRslh_1bTuW0YXc6A",
-   "youtubeVideoId": "Tj1AQ1L-NgY",
+   "youtubeVideoId": "gchjjnECevw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -185,9 +188,9 @@
     "th"
    ],
    "youtubeChannelId": "UCIoFfVIOrRRbI-WVdDhTTwg",
-   "youtubeVideoId": "DSmB4pvngb4",
+   "youtubeVideoId": "b1YMJZxtNog",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -203,7 +206,7 @@
     "th"
    ],
    "youtubeChannelId": "UC3WyfUir0HD8sFI4AVAl6SQ",
-   "youtubeVideoId": "7E-BuQiCItU",
+   "youtubeVideoId": "18wB7vXt6lg",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -316,9 +319,9 @@
     "th"
    ],
    "youtubeChannelId": "UC59st8OON3dV50gHefqUlsg",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "IuNBcwUAAaE",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q1087488",
    "description": {
     "en": "Thai free-to-air television network",
@@ -413,9 +416,9 @@
     "th"
    ],
    "youtubeChannelId": "UCtBu8Wb2BUoduUXJS9Uss7Q",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "U5hIBB9cEuc",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q16307715",
    "description": {
     "en": "television channel in Thailand",
@@ -485,9 +488,9 @@
     "th"
    ],
    "youtubeChannelId": "UC6O1yfOqU2BCkpegGMish7A",
-   "youtubeVideoId": "-qtPERBkNjw",
+   "youtubeVideoId": "UVhvXBYIYCU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

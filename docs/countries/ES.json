@@ -1,13 +1,13 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
-  "es.elpais",
-  "es.elmundo",
+  "es.eltorotv",
+  "es.canalred",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
@@ -99,7 +99,7 @@
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
    "youtubeVideoId": "1nECvKLHxO8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -171,7 +171,7 @@
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
    "youtubeVideoId": "FmuK8Qc2ObQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -324,9 +324,9 @@
     "es"
    ],
    "youtubeChannelId": "UC2T6NU6-JLWzAzaGdqvNyzA",
-   "youtubeVideoId": "P0pDxSt6VN8",
+   "youtubeVideoId": "g8FdzBL1o5U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3064786",
    "description": {
     "en": "Spanish television network",
@@ -450,9 +450,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3PhLH0Rj2e_-0hNvwTLxGA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "lL0niZF7MAs",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q119628658",
    "description": {
     "en": "television channel",
@@ -966,7 +966,7 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "WZNbJO5hb-A",
+   "youtubeVideoId": "CDDiXkgeOIo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1025113",
@@ -1011,7 +1011,7 @@
     "es"
    ],
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
-   "youtubeVideoId": "nDUXxvJMdeE",
+   "youtubeVideoId": "YJsgG0VowVI",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2748448",
@@ -1046,7 +1046,7 @@
    "youtubeChannelId": "UC-9V-k1ugOGSePgIw3UevTQ",
    "youtubeVideoId": "5usZwwNGTkA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2748488",
    "description": {
     "en": "the Spanish private national radio of the Spanish Catholic Church",
@@ -1077,9 +1077,9 @@
     "es"
    ],
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
-   "youtubeVideoId": "fDuY3NiZAGA",
+   "youtubeVideoId": "sdKuLirukpE",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

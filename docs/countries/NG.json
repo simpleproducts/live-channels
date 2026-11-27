@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
-  "ng.ait"
+  "ng.ntalive",
+  "ng.businessdaytelevision"
  ],
  "channels": [
   {
@@ -76,9 +77,9 @@
     "en"
    ],
    "youtubeChannelId": "UCaiRlJZKn0bMRNutRWArrrg",
-   "youtubeVideoId": "R7rp4T0MTRQ",
+   "youtubeVideoId": "lFXwUuNX9mk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -116,7 +117,7 @@
    "youtubeChannelId": "UCBJvTeuSKEpZZV3E5EKEd4g",
    "youtubeVideoId": "ZW5E20jOSKM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q979027",
    "description": {
     "en": "broadcast network",
@@ -156,9 +157,9 @@
     "en"
    ],
    "youtubeChannelId": "UCsVZWCV-LutMa89JgR8-KGw",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "6Vw0K6uUT7I",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q16733394",
    "description": {
     "en": "Nigerian business newspaper",

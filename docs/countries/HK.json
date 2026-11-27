@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026112615,
+ "version": 2026112708,
  "defaultTiles": [
-  "hk.phoenixtv"
+  "hk.phoenixtv",
+  "hk.passiontimeshk"
  ],
  "channels": [
   {
@@ -77,9 +78,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCoAf_IAZKhnUb0AajE5VSyA",
-   "youtubeVideoId": "lWHIhhG7MTs",
+   "youtubeVideoId": "JIRq6cbQgms",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q15904208",
    "description": {
     "en": "Hong Kong news company",

@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "GR",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
-  "gr.open"
+  "gr.open",
+  "gr.enachannelgreece"
  ],
  "channels": [
   {
@@ -14,7 +15,7 @@
     "el"
    ],
    "youtubeChannelId": "UCllCEPTcZ_GplDaFsdq_utA",
-   "youtubeVideoId": "clLMdWa4z6U",
+   "youtubeVideoId": "kyMpnB7nYog",
    "embeddable": true,
    "live": true,
    "wikidata": "Q19571549",
@@ -36,9 +37,9 @@
     "el"
    ],
    "youtubeChannelId": "UC_E3ROtebnZXH708dOeBgDQ",
-   "youtubeVideoId": "-noCuZD44uk",
+   "youtubeVideoId": "SVBCgFfqlJU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q22026457",
    "description": {
     "en": "television station in Greece"

@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.noticiasuno",
   "co.caracoltv",
   "co.citytv",
   "co.rcnradio",
-  "co.canalcapital"
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -184,7 +183,7 @@
    "youtubeChannelId": "UC3NUgxBBl05tthfGBS6kPkA",
    "youtubeVideoId": "HP_-i3DZyCM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7063021",
    "description": {
     "en": "television series",
@@ -341,7 +340,7 @@
    "youtubeChannelId": "UCeSx6aU8UGIIHxGCQPbYY_A",
    "youtubeVideoId": "IaGXMNMPcMI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5030992",
    "description": {
     "en": "Colombian channel television",
@@ -411,7 +410,7 @@
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
    "youtubeVideoId": "rFWAVXAWzN8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -453,7 +452,7 @@
    "youtubeChannelId": "UC34ir-riqZUiCOy90X5AFjg",
    "youtubeVideoId": "iGGGWcVyvus",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7697153",
    "description": {
     "en": "television channel",
@@ -524,7 +523,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "lgR7-onGxgI",
+   "youtubeVideoId": "KsUU3JNnY_0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -554,7 +553,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "qe5elHrJM-E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -583,7 +582,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "OLzbY-quLY8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -669,7 +668,7 @@
    "youtubeChannelId": "UCFQhKIlC4_KtYmZYo2ZfQCQ",
    "youtubeVideoId": "OQbVCMMzq8o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -705,7 +704,7 @@
    "youtubeChannelId": "UCQvBn9c3suKF626FtUljQ-A",
    "youtubeVideoId": "qzzjp0o-E0o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

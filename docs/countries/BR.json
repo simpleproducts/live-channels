@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "BR",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
-  "br.recordnews",
   "br.jovempan",
+  "br.recordnews",
   "br.cnnbrasil",
   "br.sbtnews",
-  "br.canalrural",
-  "br.metropoles",
-  "br.tv247",
   "br.tvthsbtvale",
-  "br.canalgov"
+  "br.canalgov",
+  "br.gaucha",
+  "br.riotvcamara",
+  "br.cbn"
  ],
  "channels": [
   {
@@ -22,7 +22,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-   "youtubeVideoId": "m1nEPhOY5To",
+   "youtubeVideoId": "B1_QbvkD-WM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3056409",
@@ -52,7 +52,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCvdwhh_fDyWccR42-rReZLw",
-   "youtubeVideoId": "sPawuxQP15A",
+   "youtubeVideoId": "1_Q1JGxz4xg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q61037218",
@@ -136,7 +136,7 @@
     "pt"
    ],
    "youtubeChannelId": "UC376n347Ob5Lwzq2WGzF1AA",
-   "youtubeVideoId": "uRJFuVLl_RU",
+   "youtubeVideoId": "YZxNCedxAeM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q135520615",
@@ -161,7 +161,7 @@
    "youtubeChannelId": "UCcmbSgSpK0dQhw3IBaBGo-g",
    "youtubeVideoId": "S1K_cXWeNkg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q9693797",
    "description": {
     "pt-BR": "emissora de televisão brasileira"
@@ -201,7 +201,7 @@
    "youtubeChannelId": "UC9mdw2mmn49ZuqGOpSri7Fw",
    "youtubeVideoId": "1LocTleAmbI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q56350071",
    "description": {
     "en": "Brazilian news portal",
@@ -267,7 +267,7 @@
    "youtubeChannelId": "UCRuy5PigeeBuecKnwqhM4yg",
    "youtubeVideoId": "sOw1RYuN3sk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q9663951",
    "description": {
     "en": "digital newspaper",
@@ -1020,7 +1020,7 @@
    "youtubeChannelId": "UC5R9fUkH1iru752mgABqpGw",
    "youtubeVideoId": "juySS4M8x6Q",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q18275293",
    "description": {
     "en": "television station in Acre, Brazil",
@@ -1298,7 +1298,7 @@
    "youtubeChannelId": "UC4WNZYa1d0HVzdVWlfJEGjw",
    "youtubeVideoId": "AWVQCZCKCrM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q132181341",
    "description": {
     "pt-BR": "Rede de televisão regional brasileira"
@@ -1397,7 +1397,7 @@
    "youtubeChannelId": "UCLgti7NuK0RuW9wty-fxPjQ",
    "youtubeVideoId": "TJhdbJYsF7g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7672422",
    "description": {
     "en": "Brazilian television network",
@@ -1525,7 +1525,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCbiGwU0-W1XCDUrt3BTVrag",
-   "youtubeVideoId": "zPUcumWC7gA",
+   "youtubeVideoId": "XRq7UzsDwPA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385857",
@@ -1555,7 +1555,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCWijW6tW0iI5ghsAbWDFtTg",
-   "youtubeVideoId": "4C67UhwQsPg",
+   "youtubeVideoId": "BOXiAYM-yxE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4854200",
@@ -1584,7 +1584,7 @@
    "youtubeChannelId": "UC9T0ZAarQHL4cJGFzORVsFg",
    "youtubeVideoId": "KBWTNrTg0sc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10365899",
    "description": {
     "en": "Brazilian radio station in Minas Gerais",
@@ -1608,7 +1608,7 @@
     "pt"
    ],
    "youtubeChannelId": "UCF453hXTROcm9CfCERYUjtQ",
-   "youtubeVideoId": "kSu__BVXVcc",
+   "youtubeVideoId": "_MR-fciZtq8",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7385855",
@@ -1800,7 +1800,7 @@
    "youtubeChannelId": "UCIkAO7iHS6R9AtcABE9MdRQ",
    "youtubeVideoId": "Q1IACbrCAaU",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10272846",
    "description": {
     "en": "radio station in São Paulo, Brazil",
@@ -1850,7 +1850,7 @@
    "youtubeChannelId": "UCPpcVh9-JbPxyJq99S1p_Wg",
    "youtubeVideoId": "Tpcs1VTFQDY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10376992",
    "description": {
     "pt-BR": "emissora de televisão brasileira de Aracaju, SE"

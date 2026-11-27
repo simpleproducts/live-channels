@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "vn.antv",
-  "vn.baotienphongnews"
+  "vn.baotienphongnews",
+  "vn.htvthethao"
  ],
  "channels": [
   {
@@ -15,7 +16,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "8hGOebs_RYU",
+   "youtubeVideoId": "OGxjifY0qCA",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -373,9 +374,9 @@
     "vi"
    ],
    "youtubeChannelId": "UC_OBG47Y3PswSHnMWSlrgZA",
-   "youtubeVideoId": "F7oWGtQGrdA",
+   "youtubeVideoId": "PvJp3fZe3bg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q16480856",
    "description": {
     "en": "Vietnamese television channel",

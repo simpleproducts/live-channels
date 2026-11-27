@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "UA",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "ua.suspilne",
   "ua.espreso",
@@ -10,8 +10,8 @@
   "ua.tv",
   "ua.tsn",
   "ua.faktyictv",
-  "ua.ukrainianindependentinfo",
-  "ua.tv2"
+  "ua.kyiv24",
+  "ua.pryamiy"
  ],
  "channels": [
   {
@@ -77,7 +77,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCG26bSkEjJc7SqGsxoHNnbA",
-   "youtubeVideoId": "uJYkr2jti1E",
+   "youtubeVideoId": "FC8ddpc28VE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4041002",
@@ -145,9 +145,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCT8m5Ltxs5tkhRzvHeAPrtA",
-   "youtubeVideoId": "gPMyCL6qJuc",
+   "youtubeVideoId": "83AM1LB0dz0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -191,9 +191,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCH9H_b9oJtSHBovh94yB5HA",
-   "youtubeVideoId": "bfQQ1jIDZaU",
+   "youtubeVideoId": "C3ZUFpBtCdk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q38633974",
    "description": {
     "en": "Ukrainian TV channel",
@@ -251,9 +251,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCEC4D0dTTJr_EEnEJz15hnQ",
-   "youtubeVideoId": "huYSh4zDTYk",
+   "youtubeVideoId": "KWuHQBSqDxM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4030314",
    "description": {
     "en": "Ukrainian 24-hour news TV channel",
@@ -338,9 +338,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCEduOt4TK8TtOaznB45TrhA",
-   "youtubeVideoId": "4fWP7laQZdY",
+   "youtubeVideoId": "C1sYfCQ5OV0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q115118046",
    "description": {
     "en": "Ukrainian information channel",
@@ -473,9 +473,9 @@
     "en"
    ],
    "youtubeChannelId": "UC97O_ce8Rm7rE0hjE82joaA",
-   "youtubeVideoId": "itJqyYHaEh4",
+   "youtubeVideoId": "UnATJ40pdXs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4329488",
    "description": {
     "en": "leading Ukrainian online news and media platform covering politics, economy, entertainment, sports, and lifestyle.",
@@ -501,7 +501,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCKCVeAihEfJr-pGH7B73Wyg",
-   "youtubeVideoId": "y4BKfEYcg7g",
+   "youtubeVideoId": "dInsHAgk2R4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2095222",
@@ -791,7 +791,7 @@
     "uk"
    ],
    "youtubeChannelId": "UCwALNfmBX8f2XKt2xe4PMBA",
-   "youtubeVideoId": "DMQZluU-iww",
+   "youtubeVideoId": "_nnTtfC5wDA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65155990",
@@ -875,9 +875,9 @@
     "uk"
    ],
    "youtubeChannelId": "UCVoPOHZYyNUr1GiVnRVm2ig",
-   "youtubeVideoId": "Bro62P-FFpo",
+   "youtubeVideoId": "Nl_oX-PaaU4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q50398001",
    "description": {
     "en": "radio station in Ukraine",

@@ -1,8 +1,10 @@
 {
  "schema": 2,
  "code": "TZ",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
+  "tz.itvtanzania",
+  "tz.hopechanneltanzania",
   "tz.ariseandshinetanzania"
  ],
  "channels": [
@@ -60,7 +62,7 @@
    "youtubeChannelId": "UC7WineEJjDvj7K1bbYNXYww",
    "youtubeVideoId": "ghR6lX3bzc0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q125343715",
    "description": {
     "de": "tansanianischer Fernsehsender"

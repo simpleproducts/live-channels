@@ -3,7 +3,7 @@
  "languages": ["ro"],
  "defaultTiles": ["romaniatv", "alephnews", "primanews", "gandul", "adevarul", "dcnewsro"],
  "channels": [
-  {"id": "romaniatv", "name": "Romania TV", "category": "news", "youtubeChannelId": "UC5Bb0itu0pB46xykW32ck0g", "youtubeVideoId": "G8oRWo1IV-0", "embeddable": true, "live": true, "liveSince": "2026-11-26T07:24:11Z", "wikidata": "Q7363432"},
+  {"id": "romaniatv", "name": "Romania TV", "category": "news", "youtubeChannelId": "UC5Bb0itu0pB46xykW32ck0g", "youtubeVideoId": "MQIusNloVuM", "embeddable": true, "live": true, "liveSince": "2026-11-27T07:20:29Z", "wikidata": "Q7363432"},
   {"id": "alephnews", "name": "Aleph News", "category": "news", "youtubeChannelId": "UC9OlWHkFGBz08r7OXwqx3Sg", "youtubeVideoId": "I_v29WJp_HY", "embeddable": true, "live": false, "wikidata": "Q131442430"},
   {"id": "primanews", "name": "Prima News", "category": "news", "youtubeChannelId": "UCKjvqO6SaQdjGaqcnT7zDew", "live": false, "wikidata": "Q118949488"},
   {"id": "gandul", "name": "Gândul", "category": "news", "youtubeChannelId": "UCQDHc1PDTAxM-8ca9ssR0bQ", "youtubeVideoId": "UdtHgub3EvQ", "embeddable": true, "live": false, "wikidata": "Q954232"},

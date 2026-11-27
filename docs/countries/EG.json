@@ -1,12 +1,13 @@
 {
  "schema": 2,
  "code": "EG",
- "version": 2026112615,
+ "version": 2026112708,
  "defaultTiles": [
   "eg.alqahera",
   "eg.alghad",
   "eg.extranews",
-  "eg.alkaherawalnas"
+  "eg.alkaherawalnas",
+  "eg.aghapytv"
  ],
  "channels": [
   {
@@ -41,7 +42,7 @@
     "ar"
    ],
    "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw",
-   "youtubeVideoId": "t-nlbp-3J6I",
+   "youtubeVideoId": "MVe2G9vL84w",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -247,9 +248,9 @@
     "ar"
    ],
    "youtubeChannelId": "UC97YtaFaO3lUTcG4dCmgr5Q",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "g8nq2fvOc1I",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q390496",
    "description": {
     "en": "Coptic Christian TV channel",

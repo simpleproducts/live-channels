@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -11,7 +11,7 @@
   "us.salemnewschannel",
   "us.nbcnews",
   "us.livenow",
-  "us.pbsnewshour"
+  "us.msnow"
  ],
  "channels": [
   {
@@ -431,7 +431,7 @@
    "youtubeChannelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
    "youtubeVideoId": "CfsGyfdf-lI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7118447",
    "description": {
     "en": "daily public television news program in the United States",
@@ -765,7 +765,7 @@
    "youtubeChannelId": "UCg40OxZ1GYh3u3jBntB6DLg",
    "youtubeVideoId": "Yov6ZwszG7g",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -783,7 +783,7 @@
    "youtubeChannelId": "UC8Ioh4atNDO5a0Vy2qFmauQ",
    "youtubeVideoId": "P8jwNb7rnqY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1334450",
    "description": {
     "en": "television station",
@@ -1212,7 +1212,7 @@
    "youtubeChannelId": "UCMGZ8pfQHgZ6Yj0-92PMENg",
    "youtubeVideoId": "isNLdOYoJk8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q111426457",
    "description": {
     "en": "American conservative television channel",

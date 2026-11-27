@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -22,7 +22,7 @@
     "ko"
    ],
    "youtubeChannelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-   "youtubeVideoId": "FGUyaExdY78",
+   "youtubeVideoId": "15YS1tJ0T6s",
    "embeddable": true,
    "live": true,
    "wikidata": "Q487590",
@@ -89,7 +89,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "el8idF1bj0k",
+   "youtubeVideoId": "jDz9viNS3vA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6495373",
@@ -127,7 +127,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCcQTRi69dsVYHN3exePtZ1A",
-   "youtubeVideoId": "3CupRwBLYfY",
+   "youtubeVideoId": "dCoyEpYHiF4",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -145,7 +145,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-   "youtubeVideoId": "5lIkaGHwX0Q",
+   "youtubeVideoId": "_TJ_JXyrEY0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -163,7 +163,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-   "youtubeVideoId": "T766fBH1uAw",
+   "youtubeVideoId": "rqu_BFEK9Wk",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "wp2BGvrcVn4",
+   "youtubeVideoId": "Fa3vZ2u75Jo",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -226,7 +226,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCWlV3Lz_55UaX4JsMj-z__Q",
-   "youtubeVideoId": "BfDQWinXFAg",
+   "youtubeVideoId": "Ay635rNN_is",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -244,7 +244,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
-   "youtubeVideoId": "WLDDpaWoXTQ",
+   "youtubeVideoId": "iN-B86dOXVQ",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -262,9 +262,9 @@
     "en"
    ],
    "youtubeChannelId": "UCzznO4xSV8BKnUBPyswtCUw",
-   "youtubeVideoId": "jeBWuz-5avQ",
+   "youtubeVideoId": "xhEBcZFoy4s",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -486,7 +486,7 @@
    "youtubeChannelId": "UC6kZpTl39-_SqfBrF1-N2oQ",
    "youtubeVideoId": "XswZcYBbBLE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -592,7 +592,7 @@
     "ko"
    ],
    "youtubeChannelId": "UC1ifSsWUG241rRfK0ezYCgA",
-   "youtubeVideoId": "aorjAJtU7dw",
+   "youtubeVideoId": "ffCXO96nuck",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -628,9 +628,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCr0LBUePUC5XnejgV4JmboA",
-   "youtubeVideoId": "Uh8Fuu1PkjM",
+   "youtubeVideoId": "EGGhDeY1nZU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -646,9 +646,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCV5FUnJ-dcymMrHINxrH1mA",
-   "youtubeVideoId": "utUb-p6C3Ck",
+   "youtubeVideoId": "U6uF_DQCQ6g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q5208189",
    "description": {
     "en": "television station in Daegu, South Korea",
@@ -775,9 +775,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCRvrYUbatHPDc-snY-jCG0A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "A2ZySLqWgrE",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q1576864",
    "description": {
     "en": "TV and radio station in South Korea",
@@ -836,7 +836,7 @@
    "youtubeChannelId": "UCV1i2By7x5vWxA5K7JVomdQ",
    "youtubeVideoId": "sX9JQ-q2G5s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q625883",
    "description": {
     "zh-Hans": "KBS济州放送总局 是位于韩国济州特别自治道的韓国放送公社（KBS）的地域总局。",
@@ -864,7 +864,7 @@
    "youtubeChannelId": "UCpzc0K6Y6AxQq9m3dPtQWXw",
    "youtubeVideoId": "aogvyBDNd0w",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q626100",
    "description": {
     "zh-Hans": "KBS全州放送总局 是位于韩国全罗北道的韓国放送公社（KBS）的地域总局。",
@@ -1072,9 +1072,9 @@
     "ko"
    ],
    "youtubeChannelId": "UC_kyhuCGhgbur6g7NJ_Nrqw",
-   "youtubeVideoId": "Vdqg1ci_0nA",
+   "youtubeVideoId": "7nvhqFegC5w",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q12596397",
    "description": {
     "en": "South Korean TV station",
@@ -1122,7 +1122,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCMLJc_D3jgFcS_48G7i4V0A",
-   "youtubeVideoId": "OFfwNsijtOI",
+   "youtubeVideoId": "GhQOf2-3B4o",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1399,7 +1399,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
-   "youtubeVideoId": "_F-W7hSol0M",
+   "youtubeVideoId": "L8Gdti6ANoo",
    "embeddable": true,
    "live": true,
    "wikidata": null,

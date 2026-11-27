@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "PK",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
+  "pk.samaa",
   "pk.geonews",
   "pk.arynews",
   "pk.dunyanews",
@@ -10,8 +11,7 @@
   "pk.92news",
   "pk.dawnnews",
   "pk.ptvnews",
-  "pk.humnews",
-  "pk.gnn"
+  "pk.humnews"
  ],
  "channels": [
   {

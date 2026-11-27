@@ -9,11 +9,11 @@
   {"id": "tvone", "name": "tvOneNews", "category": "news", "youtubeChannelId": "UCER4rvDnRBPr_ncYW4UCZjg", "youtubeVideoId": "lyOUMaY-Clo", "embeddable": true, "live": false},
   {"id": "inews", "name": "iNews", "category": "news", "youtubeChannelId": "UCoSkllfpgmFHtbVK835QaQg", "youtubeVideoId": "YFqTvI7dSc0", "embeddable": true, "live": true, "liveSince": "2026-11-18T15:43:45Z", "wikidata": "Q4213609"},
   {"id": "beritasatu", "name": "BeritaSatu", "category": "news", "youtubeChannelId": "UCqLsfkQSM0yfyGvONAGWd3Q", "youtubeVideoId": "aVT10PHJ-04", "embeddable": true, "live": false},
-  {"id": "tribuntimur", "name": "Tribun Timur", "category": "news", "youtubeChannelId": "UCK6c4qk3hRaa6fMIEZrhiXQ", "youtubeVideoId": "hqyWwEHPqVQ", "embeddable": true, "live": false, "wikidata": "Q12522332"},
+  {"id": "tribuntimur", "name": "Tribun Timur", "category": "news", "youtubeChannelId": "UCK6c4qk3hRaa6fMIEZrhiXQ", "youtubeVideoId": "QYdH16Hwyu0", "embeddable": true, "live": true, "liveSince": "2026-11-27T08:24:36Z", "wikidata": "Q12522332"},
   {"id": "antaranews", "name": "ANTARA News", "category": "news", "youtubeChannelId": "UCC-C46T69Ymv3WBeYMAFMRQ", "live": false, "wikidata": "Q571116"},
   {"id": "cnbcid", "name": "CNBC Indonesia", "category": "economy", "youtubeChannelId": "UCGN9JsnkvK05v2lnTI_-uGA", "live": false, "wikidata": "Q25469731"},
-  {"id": "tvri", "name": "TVRI Nasional", "category": "broadcast", "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ", "youtubeVideoId": "tt4Cs8M-gLg", "embeddable": true, "live": true, "liveSince": "2026-11-26T22:46:31Z"},
-  {"id": "rcti", "name": "RCTI", "category": "broadcast", "youtubeChannelId": "UCE9-bV_MCGgLnH7v4HSApDg", "youtubeVideoId": "f2VTJrvhXpY", "embeddable": true, "live": false, "wikidata": "Q5257835"},
+  {"id": "tvri", "name": "TVRI Nasional", "category": "broadcast", "youtubeChannelId": "UCyIMsCzDRm8_y_6wM26_PWQ", "youtubeVideoId": "tt4Cs8M-gLg", "embeddable": true, "live": false},
+  {"id": "rcti", "name": "RCTI", "category": "broadcast", "youtubeChannelId": "UCE9-bV_MCGgLnH7v4HSApDg", "youtubeVideoId": "i8j4PcR1dcA", "embeddable": true, "live": true, "liveSince": "2026-11-27T08:00:37Z", "wikidata": "Q5257835"},
   {"id": "tvriworld", "name": "TVRI World", "category": "broadcast", "youtubeChannelId": "UCR2p5aYh29pVfgh2xvtq8Nw", "live": false, "wikidata": "Q97587290"},
   {"id": "kompastvjambi", "name": "KOMPASTV JAMBI", "category": "regional", "youtubeChannelId": "UCKaq83ZVkCk5g2Kqdr4aLeA", "youtubeVideoId": "oFOFLiYYXhc", "embeddable": true, "live": false, "wikidata": "Q115114658"}
  ]

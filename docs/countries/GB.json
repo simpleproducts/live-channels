@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
   "gb.talktv",
+  "gb.skynews",
   "gb.bbcnewsarabic",
   "gb.alhiwartv",
   "gb.timesradio",
   "gb.babytvnurseryrhymescarto",
-  "gb.talksport",
-  "gb.mtaonline1"
+  "gb.talksport"
  ],
  "channels": [
   {
@@ -22,9 +22,9 @@
     "en"
    ],
    "youtubeChannelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-   "youtubeVideoId": "Yi3sPK3Ls54",
+   "youtubeVideoId": "Ad_pjt3o7vk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q217228",
    "description": {
     "en": "British 24-hour television news channel",

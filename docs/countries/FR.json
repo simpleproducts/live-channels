@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -678,7 +678,7 @@
    "youtubeChannelId": "UCafjyDNKyp3_gpiFgU42Slg",
    "youtubeVideoId": "tCOCSmI1PI4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2935872",
    "description": {
     "fr": "chaîne de télévision généraliste française"
@@ -810,7 +810,7 @@
    "youtubeChannelId": "UCR5V8BTvlkyYtw6T_9swNEw",
    "youtubeVideoId": "4KYoFPcPp8U",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3415245",
    "description": {
     "en": "French sports news publisher",
@@ -1006,9 +1006,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCIA3flGw7EPkw9c7S-qGjbQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "zHu-CGpkF3g",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q2209224",
    "description": {
     "en": "French radio station and cultural associative union",

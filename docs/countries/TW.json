@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TW",
- "version": 2026112623,
+ "version": 2026112708,
  "defaultTiles": [
   "tw.chungtientelevision",
   "tw.formosatvnewsnetwork",
@@ -55,7 +55,7 @@
     "zh"
    ],
    "youtubeChannelId": "UCpu3bemTQwAU8PqM4kJdoEQ",
-   "youtubeVideoId": "6B1OaF4ym44",
+   "youtubeVideoId": "W_7YZtS_iXs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5014664",
@@ -605,7 +605,7 @@
    "youtubeChannelId": "UCCKuLtumYbtQsSRASl9H_iw",
    "youtubeVideoId": "GWQhMIRDkvc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q698965",
    "description": {
     "en": "radio broadcasting company of the Republic of China",
@@ -640,7 +640,7 @@
    "youtubeChannelId": "UCJ5rBA0z4WFGtUTS83sAb_A",
    "youtubeVideoId": "c4pZvJdUJfw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3247910",
    "description": {
     "en": "radio station based in Taipei, Taiwan",
@@ -667,7 +667,7 @@
    "youtubeChannelId": "UCTTq-Hhcb_eUq0-dWpdlvpg",
    "youtubeVideoId": "TjNBI47yWZQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5871347",
    "description": {
     "en": "pop music radio station",
@@ -698,7 +698,7 @@
    "youtubeChannelId": "UCUaf4I5TYCExf9mWzv1cB_A",
    "youtubeVideoId": "IxiWqwfIR1I",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5969604",
    "description": {
     "en": "radio station in Taiwan",
@@ -726,7 +726,7 @@
    "youtubeChannelId": "UCS5EoJjZ3vZzjoPCezowCdA",
    "youtubeVideoId": "dqldx4Os_Uo",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q10956162",
    "description": {
     "en": "Taiwanese radio station",
