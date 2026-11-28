@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "DE",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "de.euronewsde",
   "de.welt",
-  "de.zdfheute",
   "de.dwnews",
   "de.dwespanol",
   "de.dw",
@@ -146,7 +145,7 @@
    "youtubeChannelId": "UCeqKIgPQfNInOswGRWt48kQ",
    "youtubeVideoId": "Rru3SJ5Zrt0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q132108",
    "description": {
     "en": "German TV news program",

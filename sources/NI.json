@@ -5,7 +5,7 @@
  "channels": [
   {"id": "confidencialnicaragua", "name": "Confidencial Nicaragua", "category": "news", "youtubeChannelId": "UCMBDmj_hrxj8CV-bpa8nSCQ", "live": false, "wikidata": "Q5160091"},
   {"id": "laprensanicaragua", "name": "La Prensa Nicaragua", "category": "news", "youtubeChannelId": "UCc3cBMPnUvyP4-pz_nYuXGg", "live": false, "wikidata": "Q3211909"},
-  {"id": "canal4nicaragua", "name": "Canal 4 Nicaragua", "category": "broadcast", "youtubeChannelId": "UCWIsW6Kqu-swX6xH9jSQXow", "youtubeVideoId": "Whoh2Ztp560", "embeddable": true, "live": true, "liveSince": "2026-11-27T18:01:36Z", "wikidata": "Q2935898"},
-  {"id": "vivanicaragua13", "name": "Viva Nicaragua 13", "category": "broadcast", "youtubeChannelId": "UCAWB76NUxj1OWEE_yaOfBLg", "youtubeVideoId": "FX_vx_u1gFk", "embeddable": true, "live": true, "liveSince": "2026-11-27T18:52:56Z", "wikidata": "Q2935877"}
+  {"id": "canal4nicaragua", "name": "Canal 4 Nicaragua", "category": "broadcast", "youtubeChannelId": "UCWIsW6Kqu-swX6xH9jSQXow", "youtubeVideoId": "Whoh2Ztp560", "embeddable": true, "live": false, "wikidata": "Q2935898"},
+  {"id": "vivanicaragua13", "name": "Viva Nicaragua 13", "category": "broadcast", "youtubeChannelId": "UCAWB76NUxj1OWEE_yaOfBLg", "youtubeVideoId": "FX_vx_u1gFk", "embeddable": true, "live": false, "wikidata": "Q2935877"}
  ]
 }

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.rtvc",
+  "co.canal1",
+  "co.noticiasuno",
+  "co.pulzo",
   "co.caracoltv",
-  "co.citytv",
-  "co.rcnradio",
-  "co.teleantioquianoticias"
+  "co.citytv"
  ],
  "channels": [
   {
@@ -128,9 +128,9 @@
     "es"
    ],
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
-   "youtubeVideoId": "nG8yrVXdIjA",
+   "youtubeVideoId": "fnJH1uxFABs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -148,7 +148,7 @@
    "youtubeChannelId": "UCykAfJIwT4VSQDFdRrZ1DXA",
    "youtubeVideoId": "rDlw8L-_u10",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -182,9 +182,9 @@
     "es"
    ],
    "youtubeChannelId": "UC3NUgxBBl05tthfGBS6kPkA",
-   "youtubeVideoId": "HP_-i3DZyCM",
+   "youtubeVideoId": "GeFIqRlMPDA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7063021",
    "description": {
     "en": "television series",
@@ -208,9 +208,9 @@
     "es"
    ],
    "youtubeChannelId": "UCEOTRMgfd7uXZD6goFTQP6A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "S2tMUk8w7gk",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q62129644",
    "description": {
     "es": "Pulzo es un medio de comunicación, fundado en 2014 por Luis Fernando Santos, Guillermo Franco y otros integrantes de InQlab, sociedad registrada en Panamá que pertenece al grupo Santo Domingo."
@@ -365,7 +365,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-   "youtubeVideoId": "VnqRdloK5hU",
+   "youtubeVideoId": "YahSzrxHi0o",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -383,9 +383,9 @@
     "es"
    ],
    "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
-   "youtubeVideoId": "VLqWonvsNVw",
+   "youtubeVideoId": "yZ4oLptZ9uw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6140409",
    "description": {
     "en": "Colombian television network",
@@ -411,7 +411,7 @@
    "youtubeChannelId": "UCZudXgtqD1e5L8g92MPZKCw",
    "youtubeVideoId": "KeRIA5YvTsY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5547733",
    "description": {
     "en": "free-to-air Colombian regional TV channel",
@@ -433,9 +433,9 @@
     "es"
    ],
    "youtubeChannelId": "UC_AZE6OOfsr7CxzPfkjnM9A",
-   "youtubeVideoId": "vBbDWvsK2Bo",
+   "youtubeVideoId": "bt7wwSHeRf8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -453,7 +453,7 @@
    "youtubeChannelId": "UC34ir-riqZUiCOy90X5AFjg",
    "youtubeVideoId": "C_cjvQbJHHE",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7697153",
    "description": {
     "en": "television channel",
@@ -475,9 +475,9 @@
     "es"
    ],
    "youtubeChannelId": "UCoIrkYZ161GtRP9yl_F-YRA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "YZfZ8NFDvPk",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q6140430",
    "description": {
     "en": "Colombian public television channel",
@@ -499,9 +499,9 @@
     "es"
    ],
    "youtubeChannelId": "UC8xfBVSEAryXew78mZbFZFg",
-   "youtubeVideoId": "MLFTsgw-ybI",
+   "youtubeVideoId": "pAzT1mgtfTQ",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q8200525",
    "description": {
     "en": "radio station in Colombia",
@@ -552,9 +552,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
-   "youtubeVideoId": "qe5elHrJM-E",
+   "youtubeVideoId": "TbVf-6k3Cmg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -581,7 +581,7 @@
     "es"
    ],
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
-   "youtubeVideoId": "spaTvQFWJm8",
+   "youtubeVideoId": "aiIX9s_OjO4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2840179",
@@ -606,7 +606,7 @@
     "es"
    ],
    "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A",
-   "youtubeVideoId": "OvNPM8XvrFA",
+   "youtubeVideoId": "DgwJKjx04Dg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q5843056",

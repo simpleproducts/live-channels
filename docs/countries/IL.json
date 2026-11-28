@@ -1,11 +1,10 @@
 {
  "schema": 2,
  "code": "IL",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "il.i24he",
-  "il.c14",
-  "il.9"
+  "il.c14"
  ],
  "channels": [
   {
@@ -100,7 +99,7 @@
     "he"
    ],
    "youtubeChannelId": "UCisowXt5wZkp2sR3rFh9lnQ",
-   "youtubeVideoId": "U4LF3xVJdmU",
+   "youtubeVideoId": "nbVOdDImppA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q136932915",
@@ -154,7 +153,7 @@
    "youtubeChannelId": "UCixtbfonx_QIjS1DB96zcFg",
    "youtubeVideoId": "4pdqBgON9zc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2910200",
    "description": {
     "en": "Russian-speaking Israeli television channel",

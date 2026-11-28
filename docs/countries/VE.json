@@ -1,13 +1,12 @@
 {
  "schema": 2,
  "code": "VE",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "ve.vpitv",
   "ve.laiguanatv",
   "ve.telesurenglish",
-  "ve.vtv",
-  "ve.unionradio"
+  "ve.vtv"
  ],
  "channels": [
   {
@@ -126,7 +125,7 @@
     "es"
    ],
    "youtubeChannelId": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
-   "youtubeVideoId": "Pbf5uric0VY",
+   "youtubeVideoId": "la08oh3TCLA",
    "embeddable": true,
    "live": true,
    "wikidata": "Q141914802",
@@ -144,7 +143,7 @@
     "es"
    ],
    "youtubeChannelId": "UC_8sCVycu3FXidPNoZwOHqA",
-   "youtubeVideoId": "N8Fv_ak2rxs",
+   "youtubeVideoId": "kzuEqBabs1c",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -164,7 +163,7 @@
    "youtubeChannelId": "UC9LrWd-4NU7NJYhBvwIgFkQ",
    "youtubeVideoId": "nzCwBIrNe8o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5770016",
    "description": {
     "en": "Venezuela",

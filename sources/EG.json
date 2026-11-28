@@ -4,7 +4,7 @@
  "defaultTiles": ["alqahera", "extranews", "alghad", "sadaelbalad", "alnahar"],
  "channels": [
   {"id": "alqahera", "name": "Al Qahera News", "category": "news", "youtubeChannelId": "UCktyejXTxWaKfrgp1Oq7CMQ", "youtubeVideoId": "GtBCVKHHz7E", "embeddable": true, "live": true, "liveSince": "2026-11-12T13:48:32Z", "languages": ["ar"]},
-  {"id": "extranews", "name": "eXtra news", "category": "news", "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw", "youtubeVideoId": "MVe2G9vL84w", "embeddable": true, "live": true, "liveSince": "2026-11-27T01:54:21Z", "languages": ["ar"]},
+  {"id": "extranews", "name": "eXtra news", "category": "news", "youtubeChannelId": "UC65F33K2cXk9hGDbOQYhTOw", "youtubeVideoId": "MVe2G9vL84w", "embeddable": true, "live": false, "languages": ["ar"]},
   {"id": "alghad", "name": "Alghad TV", "category": "news", "youtubeChannelId": "UCH4UNKBHSNwstan99YDoCVg", "youtubeVideoId": "e72W2O8nFk8", "embeddable": true, "live": true, "liveSince": "2026-11-20T01:23:16Z", "languages": ["ar"]},
   {"id": "elwatannews", "name": "ElWatan News - جريدة الوطن", "category": "news", "youtubeChannelId": "UChCCLbpmrhgCI1rS3-1GLjQ", "live": false, "wikidata": "Q12205286"},
   {"id": "sadaelbalad", "name": "Sada El Balad", "category": "broadcast", "youtubeChannelId": "UCJWuV-EkLmRrGZ4afwUBenw", "youtubeVideoId": "NXpmBC4zb1A", "embeddable": true, "live": false, "languages": ["ar"]},

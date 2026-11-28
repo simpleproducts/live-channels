@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
@@ -11,7 +11,7 @@
   "us.salemnewschannel",
   "us.nbcnews",
   "us.livenow",
-  "us.scripps"
+  "us.msnow"
  ],
  "channels": [
   {
@@ -189,7 +189,7 @@
     "en"
    ],
    "youtubeChannelId": "UCeY0bbntWzzVIaj2z3QigXg",
-   "youtubeVideoId": "gKULTIDM-8s",
+   "youtubeVideoId": "0vNukUbpBbU",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2877626",
@@ -293,7 +293,7 @@
    "youtubeChannelId": "UCTln5ss6h6L_xNfMeujfPbg",
    "youtubeVideoId": "PbqnmWAgkAg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16957649",
    "description": {
     "en": "United States news network",
@@ -1210,7 +1210,7 @@
     "en"
    ],
    "youtubeChannelId": "UCMGZ8pfQHgZ6Yj0-92PMENg",
-   "youtubeVideoId": "nxByzSHa-ls",
+   "youtubeVideoId": "z_Ho0kdjXOQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q111426457",

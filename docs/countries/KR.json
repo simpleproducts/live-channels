@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "KR",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "kr.ytn",
   "kr.yonhap",
@@ -59,7 +59,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-   "youtubeVideoId": "BnJZlR1rUb4",
+   "youtubeVideoId": "aDfL7mHQ7jQ",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16162835",
@@ -89,7 +89,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-   "youtubeVideoId": "jDz9viNS3vA",
+   "youtubeVideoId": "7n4OTKQsqZg",
    "embeddable": true,
    "live": true,
    "wikidata": "Q6495373",
@@ -181,7 +181,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCfq4V1DAuaojnr2ryvWNysw",
-   "youtubeVideoId": "cNMCb3fHENA",
+   "youtubeVideoId": "m9lxbfV6lmE",
    "embeddable": true,
    "live": true,
    "wikidata": "Q492438",
@@ -244,7 +244,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
-   "youtubeVideoId": "iN-B86dOXVQ",
+   "youtubeVideoId": "sMMUrJbax_Q",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -424,9 +424,9 @@
     "ko"
    ],
    "youtubeChannelId": "UCz2tPcPyYNpTHHd3FdRduVA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "6WPbaHD6STI",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q11664010",
    "description": {
     "ja": "韓国・道路交通公団が運営するラジオ放送ネットワーク",
@@ -592,7 +592,7 @@
     "ko"
    ],
    "youtubeChannelId": "UC1ifSsWUG241rRfK0ezYCgA",
-   "youtubeVideoId": "m7kN76wfn1c",
+   "youtubeVideoId": "1UNuMudBxcU",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -1399,7 +1399,7 @@
     "ko"
    ],
    "youtubeChannelId": "UCZdBJIbJz0P9xyFipgOj1fA",
-   "youtubeVideoId": "L8Gdti6ANoo",
+   "youtubeVideoId": "19FbOPuQw3A",
    "embeddable": true,
    "live": true,
    "wikidata": null,

@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "CN",
- "version": 2026112605,
+ "version": 2026112802,
  "defaultTiles": [
   "cn.cgtneurope",
-  "cn.cgtnfr"
+  "cn.cgtnfr",
+  "cn.cgtn"
  ],
  "channels": [
   {
@@ -15,9 +16,9 @@
     "en"
    ],
    "youtubeChannelId": "UCgrNz-aDmcr2uuto8_DL2jg",
-   "youtubeVideoId": "OEs-c1-V7O4",
+   "youtubeVideoId": "IEikSgHXZec",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q28089296",
    "description": {
     "en": "Chinese international state-media organization",

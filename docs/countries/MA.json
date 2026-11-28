@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "MA",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
-  "ma.m24tv",
-  "ma.radiomars"
+  "ma.m24tv"
  ],
  "channels": [
   {
@@ -94,7 +93,7 @@
    "youtubeChannelId": "UCGBuA7vzbaAzrImRWmI8Iwg",
    "youtubeVideoId": "mPGEdQXuyXQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3416731",
    "description": {
     "en": "Moroccan sports radio station",

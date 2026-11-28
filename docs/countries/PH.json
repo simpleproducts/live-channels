@@ -1,10 +1,16 @@
 {
  "schema": 2,
  "code": "PH",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "ph.untv",
-  "ph.dzrh"
+  "ph.abscbn",
+  "ph.oneph",
+  "ph.anc",
+  "ph.dzrh",
+  "ph.house",
+  "ph.onesports",
+  "ph.dyvlaksyonradyo819khz"
  ],
  "channels": [
   {
@@ -16,9 +22,9 @@
     "en"
    ],
    "youtubeChannelId": "UCE2606prvXQc_noEqKxVJXA",
-   "youtubeVideoId": "N4KN9WiVNzo",
+   "youtubeVideoId": "vuA2PtPll_g",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4261635",
    "description": {
     "en": "cable news TV channel of ABS-CBN Corporation",
@@ -81,9 +87,9 @@
     "en"
    ],
    "youtubeChannelId": "UCvi6hEzLM-Z_unKPSuuzKvg",
-   "youtubeVideoId": "A1yWouxjaT0",
+   "youtubeVideoId": "M2DESYOuhCs",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -100,9 +106,9 @@
     "en"
    ],
    "youtubeChannelId": "UCi-D5IxBR2HahDyfJfqy7jA",
-   "youtubeVideoId": "AprKen2bnf4",
+   "youtubeVideoId": "NtwGKrrkxYw",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q65074302",
    "description": {
     "en": "Philippine television channel",
@@ -497,9 +503,9 @@
     "en"
    ],
    "youtubeChannelId": "UCtGmCfZ4O1zrl9c8BEhGvRg",
-   "youtubeVideoId": "f62zsY-KVVU",
+   "youtubeVideoId": "fQhc5t9K8BA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q678545",
    "description": {
     "en": "lower house of the Congress of the Philippines",
@@ -552,9 +558,9 @@
     "en"
    ],
    "youtubeChannelId": "UCXDG9ue-emCN8Ad3h7lERqQ",
-   "youtubeVideoId": "W_937pYjR98",
+   "youtubeVideoId": "rP160oVLkhA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q60769590",
    "description": {
     "en": "Philippine sports television network",
@@ -658,9 +664,9 @@
     "en"
    ],
    "youtubeChannelId": "UCiDFC9vocweG8qWZOVSHVLw",
-   "youtubeVideoId": "r7ap-CN0oHI",
+   "youtubeVideoId": "k1ADzI8ifmc",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q85755437",
    "description": {
     "en": "radio station in Palo"

@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "SY",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
-  "sy.syriatv",
-  "sy.syriannewschannel"
+  "sy.syriatv"
  ],
  "channels": [
   {
@@ -17,7 +16,7 @@
    "youtubeChannelId": "UClm30t2F4FHzzkN9Irtr-8A",
    "youtubeVideoId": "w8iBCN2YEew",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q11641908",
    "description": {
     "en": "television station based in Damascus, Syria",

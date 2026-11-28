@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
-  "es.elpais",
-  "es.elmundo",
   "es.eltorotv",
-  "es.theobjective",
-  "es.eldebate",
-  "es.3cat324"
+  "es.3cat324",
+  "es.canalsur",
+  "es.eitb",
+  "es.rtvcanarias",
+  "es.laseptima"
  ],
  "channels": [
   {
@@ -99,7 +99,7 @@
    "youtubeChannelId": "UCnsvJeZO4RigQ898WdDNoBw",
    "youtubeVideoId": "A1jfyHlmh1E",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q50009",
    "description": {
     "en": "Spanish newspaper",
@@ -171,7 +171,7 @@
    "youtubeChannelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
    "youtubeVideoId": "mtm9pTUoiRc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q921217",
    "description": {
     "en": "Spanish daily newspaper",
@@ -324,7 +324,7 @@
     "es"
    ],
    "youtubeChannelId": "UC2T6NU6-JLWzAzaGdqvNyzA",
-   "youtubeVideoId": "NzLbIufUB-U",
+   "youtubeVideoId": "_K18MdPRqQY",
    "embeddable": true,
    "live": true,
    "wikidata": "Q3064786",
@@ -404,7 +404,7 @@
    "youtubeChannelId": "UCkCYv06O4w0GOfdW2Ey8jvg",
    "youtubeVideoId": "lPYebFzt_BM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q30034736",
    "description": {
     "en": "Spanish online newspaper",
@@ -427,7 +427,7 @@
    "youtubeChannelId": "UC8FOhz3iXhF1iqqzAFfBjmA",
    "youtubeVideoId": "9Kq0CenMqHk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q114050859",
    "description": {
     "en": "Spanish online newspaper since 2021",
@@ -916,7 +916,7 @@
     "es"
    ],
    "youtubeChannelId": "UCXISYK3xagaK5DHnhQ4X0hw",
-   "youtubeVideoId": "w3u-DdSppvQ",
+   "youtubeVideoId": "Oo_69qCrp80",
    "embeddable": true,
    "live": true,
    "wikidata": "Q719880",
@@ -968,7 +968,7 @@
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
    "youtubeVideoId": "xFvaxoYhFEQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",
@@ -1013,7 +1013,7 @@
    "youtubeChannelId": "UCPd-Lf5gQkAJD5XdTmT_GGA",
    "youtubeVideoId": "A2O2K4R5aSs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2748448",
    "description": {
     "en": "Spanish radio station",
@@ -1079,7 +1079,7 @@
    "youtubeChannelId": "UC1IYhBFQbBWIxirTRbcfIUw",
    "youtubeVideoId": "_Vae8lDog9A",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3390195",
    "description": {
     "en": "network of private radio stations",

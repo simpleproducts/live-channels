@@ -1,10 +1,11 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026112623,
+ "version": 2026112802,
  "defaultTiles": [
   "my.awani",
   "my.beritartm",
+  "my.buletintv3",
   "my.suriamalaysia"
  ],
  "channels": [
@@ -80,9 +81,9 @@
     "ms"
    ],
    "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA",
-   "youtubeVideoId": "SoNMPt3Xqpc",
+   "youtubeVideoId": "6ioi7R0QcG0",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1087303",
    "description": {
     "en": "Malaysian private television station",

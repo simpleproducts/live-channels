@@ -1,14 +1,13 @@
 {
  "schema": 2,
  "code": "BD",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "bd.atnnews",
   "bd.independenttelevision",
   "bd.jamunatv",
   "bd.channel24",
   "bd.ekhontv",
-  "bd.rtvnews",
   "bd.somoytv"
  ],
  "channels": [
@@ -135,7 +134,7 @@
    "youtubeChannelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
    "youtubeVideoId": "o2VLy51KPds",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7277893",
    "description": {
     "en": "television channel from Bangladesh"

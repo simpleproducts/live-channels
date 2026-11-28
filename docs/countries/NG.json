@@ -1,14 +1,13 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
   "ng.ntalive",
-  "ng.trusttvnews",
-  "ng.dovetelevision"
+  "ng.trusttvnews"
  ],
  "channels": [
   {
@@ -184,7 +183,7 @@
    "youtubeChannelId": "UCbgM7xAXYYB6eX_CipYlTQw",
    "youtubeVideoId": "S2Tan0Kx3Ak",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q99519020",
    "description": {
     "en": "television station of The Redeemed Christian Church of God",

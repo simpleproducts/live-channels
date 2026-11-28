@@ -5,7 +5,7 @@
  "channels": [
   {"id": "awani", "name": "Astro AWANI", "category": "news", "youtubeChannelId": "UC5dYmq91e5_g54krpO06NJw", "youtubeVideoId": "mkVyNaGee8A", "embeddable": true, "live": true, "liveSince": "2025-06-25T04:17:12Z"},
   {"id": "beritartm", "name": "Berita RTM", "category": "news", "youtubeChannelId": "UCjUxj4cyy_F0tVCT8WfmdZQ", "youtubeVideoId": "mVboHERRZRQ", "embeddable": true, "live": true, "liveSince": "2026-11-19T02:09:05Z", "wikidata": "Q96679596"},
-  {"id": "buletintv3", "name": "Buletin TV3", "category": "news", "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA", "youtubeVideoId": "SoNMPt3Xqpc", "embeddable": true, "live": false, "wikidata": "Q1087303"},
+  {"id": "buletintv3", "name": "Buletin TV3", "category": "news", "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA", "youtubeVideoId": "6ioi7R0QcG0", "embeddable": true, "live": true, "liveSince": "2026-11-28T01:28:36Z", "wikidata": "Q1087303"},
   {"id": "sinarharian", "name": "Sinar Harian", "category": "news", "youtubeChannelId": "UCY4WxCgJjIJghSQifLSs3yg", "youtubeVideoId": "vobZaIdmKng", "embeddable": true, "live": false, "wikidata": "Q7521805"},
   {"id": "kinitv", "name": "KiniTV", "category": "news", "youtubeChannelId": "UC9ULnkwvyofZ_sWrzRpyvrg", "youtubeVideoId": "eEPclLBUKDc", "embeddable": true, "live": false, "wikidata": "Q4918709"},
   {"id": "beritaharian", "name": "Berita Harian", "category": "news", "youtubeChannelId": "UCoV8oT-GyqYSJkxzuAKG3Jw", "youtubeVideoId": "o9VwYBnCGso", "embeddable": true, "live": false, "wikidata": "Q2211269"},

@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "MX",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "mx.milenio",
   "mx.aztecanoticias",
   "mx.adnnoticias",
   "mx.heraldo",
+  "mx.sinembargoalaire",
   "mx.multimedios",
   "mx.canalonce",
   "mx.distritocomedia",
-  "mx.imagentv",
-  "mx.canalcongreso"
+  "mx.tvazteca"
  ],
  "channels": [
   {
@@ -139,7 +139,7 @@
     "es"
    ],
    "youtubeChannelId": "UC7E9Dj_lmrJdDrH2Bg7rNqQ",
-   "youtubeVideoId": "PnU5BuOoQe8",
+   "youtubeVideoId": "mtfYiw9Wnbs",
    "embeddable": true,
    "live": true,
    "wikidata": "Q65047709",
@@ -254,9 +254,9 @@
     "es"
    ],
    "youtubeChannelId": "UCt7k7y_xTkkc1Jeh7cdAjDQ",
-   "youtubeVideoId": "BecFKzf0r6A",
+   "youtubeVideoId": "MzmCuvuUZ4U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q111978975",
    "description": {
     "en": "Mexican news publisher",
@@ -378,7 +378,7 @@
    "youtubeChannelId": "UCl5JKSQsl-_WSU1rz7_BCJA",
    "youtubeVideoId": "jG4mPeU6F_s",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q27031787",
    "description": {
     "en": "Mexican television network",
@@ -410,9 +410,9 @@
     "es"
    ],
    "youtubeChannelId": "UCNVrBkfp4_TG9x4h5kvLeAQ",
-   "youtubeVideoId": "ht9cQ93Kf6A",
+   "youtubeVideoId": "oi3p6KVTXgI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -571,7 +571,7 @@
    "youtubeChannelId": "UC0qf7R7Vq3H8JSNYfIs3uKg",
    "youtubeVideoId": "Mbwkw0w-MB4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5746883",
    "description": {
     "en": "Mexican television channel covering congressional proceedings",
@@ -616,9 +616,9 @@
     "es"
    ],
    "youtubeChannelId": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-   "youtubeVideoId": "APHjqRSdp4E",
+   "youtubeVideoId": "PeXgYAE0s9c",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q20847624",
    "description": {
     "en": "Mexican news/talk radio network",
@@ -641,7 +641,7 @@
     "es"
    ],
    "youtubeChannelId": "UCvBOzeIHYAxyucUBGxGlYWw",
-   "youtubeVideoId": "JfhtCAkmnFQ",
+   "youtubeVideoId": "MY1-S-lK9x0",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -697,7 +697,7 @@
    "youtubeChannelId": "UC2Rzh4jFfYnk2VkUSDwCpyA",
    "youtubeVideoId": "VeBwc-Cr27c",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

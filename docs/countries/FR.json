@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -676,9 +676,9 @@
     "fr"
    ],
    "youtubeChannelId": "UCafjyDNKyp3_gpiFgU42Slg",
-   "youtubeVideoId": "tCOCSmI1PI4",
+   "youtubeVideoId": "xJx62tnyvoM",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q2935872",
    "description": {
     "fr": "chaîne de télévision généraliste française"
@@ -1040,7 +1040,7 @@
    "youtubeChannelId": "UC5BYACI8gIm3wDlVnhKFG5A",
    "youtubeVideoId": "Sc4FX_pjGZI",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3486468",
    "description": {
     "en": "French radio station",

@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "JP",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "jp.fnn",
   "jp.ann",
@@ -22,7 +22,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-   "youtubeVideoId": "_ItcKivtEMU",
+   "youtubeVideoId": "BoCVMQjOR1Q",
    "embeddable": true,
    "live": true,
    "wikidata": "Q843772",
@@ -60,7 +60,7 @@
     "ja"
    ],
    "youtubeChannelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-   "youtubeVideoId": "rXLzsP5wouM",
+   "youtubeVideoId": "8U-tBagQD-0",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16143608",
@@ -87,7 +87,7 @@
     "ja"
    ],
    "youtubeChannelId": "UCuTAXTexrhetbOe3zgskJBQ",
-   "youtubeVideoId": "IMKf4U2_sok",
+   "youtubeVideoId": "CI6GytK4QMM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q11504671",
@@ -720,7 +720,7 @@
    "youtubeChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
    "youtubeVideoId": "ZUUT4-AWezM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q843432",
    "description": {
     "en": "company",

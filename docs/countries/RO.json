@@ -1,12 +1,10 @@
 {
  "schema": 2,
  "code": "RO",
- "version": 2026112719,
+ "version": 2026112802,
  "defaultTiles": [
   "ro.romaniatv",
-  "ro.gandul",
-  "ro.trinitastv",
-  "ro.cancan"
+  "ro.trinitastv"
  ],
  "channels": [
   {
@@ -91,7 +89,7 @@
    "youtubeChannelId": "UCQDHc1PDTAxM-8ca9ssR0bQ",
    "youtubeVideoId": "2U15DF2Tejw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q954232",
    "description": {
     "en": "Romanian online newspaper",
@@ -252,7 +250,7 @@
    "youtubeChannelId": "UCLvPuOCRIk8-fmUVbGY6K7w",
    "youtubeVideoId": "wsqxg7gvTdw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q18538556",
    "description": {
     "en": "newspaper"
