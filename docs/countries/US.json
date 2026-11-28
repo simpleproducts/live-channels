@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "US",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "us.abcnews",
   "us.cnn",
+  "us.livenow",
   "us.newsmax",
   "us.foxweather",
   "us.foxnews",
   "us.salemnewschannel",
   "us.nbcnews",
-  "us.livenow",
-  "us.msnow"
+  "us.realamerica39svoice"
  ],
  "channels": [
   {
@@ -605,7 +605,7 @@
    "youtubeChannelId": "UCaXkIU1QidjPwiAYu6GcHjg",
    "youtubeVideoId": "EIqVYck-K20",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q13973",
    "description": {
     "en": "American television news channel",
@@ -1210,7 +1210,7 @@
     "en"
    ],
    "youtubeChannelId": "UCMGZ8pfQHgZ6Yj0-92PMENg",
-   "youtubeVideoId": "z_Ho0kdjXOQ",
+   "youtubeVideoId": "f5VIEW8XJ28",
    "embeddable": true,
    "live": true,
    "wikidata": "Q111426457",

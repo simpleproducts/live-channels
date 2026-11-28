@@ -1,17 +1,17 @@
 {
  "schema": 2,
  "code": "ES",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "es.rtve24h",
   "es.euronewses",
   "es.libertaddigital",
-  "es.eltorotv",
   "es.3cat324",
   "es.canalsur",
   "es.eitb",
   "es.rtvcanarias",
-  "es.laseptima"
+  "es.laseptima",
+  "es.ser"
  ],
  "channels": [
   {
@@ -326,7 +326,7 @@
    "youtubeChannelId": "UC2T6NU6-JLWzAzaGdqvNyzA",
    "youtubeVideoId": "_K18MdPRqQY",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q3064786",
    "description": {
     "en": "Spanish television network",
@@ -918,7 +918,7 @@
    "youtubeChannelId": "UCXISYK3xagaK5DHnhQ4X0hw",
    "youtubeVideoId": "Oo_69qCrp80",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q719880",
    "description": {
     "en": "Spanish sports newspaper",
@@ -966,9 +966,9 @@
     "es"
    ],
    "youtubeChannelId": "UCQ2Fej5pr1ipVeBWTX8Sc_Q",
-   "youtubeVideoId": "xFvaxoYhFEQ",
+   "youtubeVideoId": "PFjNMCyZrtU",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1025113",
    "description": {
     "en": "radio station",

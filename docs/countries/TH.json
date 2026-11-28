@@ -1,10 +1,9 @@
 {
  "schema": 2,
  "code": "TH",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
-  "th.thaipbs",
-  "th.pptv"
+  "th.thaipbs"
  ],
  "channels": [
   {
@@ -15,7 +14,7 @@
     "th"
    ],
    "youtubeChannelId": "UC5TOFhyb_LxL2VG_Zenhpzw",
-   "youtubeVideoId": "wA3teArV-ps",
+   "youtubeVideoId": "pBNOrjrrNts",
    "embeddable": true,
    "live": true,
    "wikidata": "Q2603792",
@@ -139,7 +138,7 @@
    "youtubeChannelId": "UC7FCQJFK1sfwD_uobB45Xng",
    "youtubeVideoId": "fKXZYUzQqAQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q16306127",
    "description": {
     "en": "Thai television station",

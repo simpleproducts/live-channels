@@ -1,14 +1,16 @@
 {
  "schema": 2,
  "code": "BD",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "bd.atnnews",
   "bd.independenttelevision",
-  "bd.jamunatv",
   "bd.channel24",
   "bd.ekhontv",
-  "bd.somoytv"
+  "bd.somoytv",
+  "bd.jamunatv",
+  "bd.ntvnews",
+  "bd.tsports"
  ],
  "channels": [
   {
@@ -114,7 +116,7 @@
     "bn"
    ],
    "youtubeChannelId": "UCN6sm8iHiPd0cnoUardDAnw",
-   "youtubeVideoId": "P9j_bo_dg44",
+   "youtubeVideoId": "EbUNZEQFZ78",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -154,9 +156,9 @@
     "bn"
    ],
    "youtubeChannelId": "UCUDQdVsKssximyFwg4IxnOQ",
-   "youtubeVideoId": "YP6BaUGxl2o",
+   "youtubeVideoId": "Y8ZAGlkLLto",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q7025410",
    "description": {
     "en": "Bangladeshi television channel",
@@ -538,9 +540,9 @@
     "bn"
    ],
    "youtubeChannelId": "UC2t9imwIR7xlDfma3CmRKJQ",
-   "youtubeVideoId": "OSE_cW0L6jc",
+   "youtubeVideoId": "qthiJuXWDqk",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q102037696",
    "description": {
     "en": "Bangladesh's first sports channel"

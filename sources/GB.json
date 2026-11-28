@@ -16,7 +16,7 @@
   {"id": "mirror", "name": "The Mirror", "category": "news", "youtubeChannelId": "UC3EmxrWVl7K8xBH_UVIWY4Q", "youtubeVideoId": "Ob5c4g_KXdY", "embeddable": true, "live": false},
   {"id": "thesun", "name": "The Sun", "category": "news", "youtubeChannelId": "UCIzXayRP7-P0ANpq-nD-h5g", "youtubeVideoId": "fBeT-CKAID4", "embeddable": true, "live": true, "liveSince": "2026-11-27T12:11:45Z"},
   {"id": "express", "name": "Daily Express", "category": "news", "youtubeChannelId": "UCz8omIXCPabFEgblrC_VIfA", "youtubeVideoId": "sah7bpqDtu8", "embeddable": true, "live": false},
-  {"id": "ibctamil", "name": "IBC Tamil", "category": "news", "youtubeChannelId": "UCZinho9wu3iAeRpUXvAMzBQ", "youtubeVideoId": "imDKwoLh7Ik", "embeddable": true, "live": false, "languages": ["ta"], "wikidata": "Q12978896"},
+  {"id": "ibctamil", "name": "IBC Tamil", "category": "news", "youtubeChannelId": "UCZinho9wu3iAeRpUXvAMzBQ", "youtubeVideoId": "cIAg0bD64Co", "embeddable": true, "live": true, "liveSince": "2026-11-28T10:22:05Z", "languages": ["ta"], "wikidata": "Q12978896"},
   {"id": "bbcnews2", "name": "BBC News Україна", "category": "news", "youtubeChannelId": "UCZctsW8Tpx8Tz9Ln4KUmR3g", "live": false, "languages": ["uk"], "wikidata": "Q3631725"},
   {"id": "thenewarab", "name": "The New Arab", "category": "news", "youtubeChannelId": "UCtTSYCBRRUStmL2oQLaqbDQ", "live": false, "languages": ["ar"], "wikidata": "Q20389499"},
   {"id": "manchestereveningnews", "name": "Manchester Evening News", "category": "news", "youtubeChannelId": "UCPFSLlkwCqpy23jwYDwAPrg", "youtubeVideoId": "wBwAurZL2yQ", "embeddable": true, "live": false, "wikidata": "Q3070672"},

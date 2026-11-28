@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "TR",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "tr.cnnturk",
   "tr.trthaber",
@@ -401,9 +401,9 @@
     "tr"
    ],
    "youtubeChannelId": "UC6T0L26KS1NHMPbTwI1L4Eg",
-   "youtubeVideoId": "XKVyZgL1P0A",
+   "youtubeVideoId": "4HlrIPrd_0U",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q6098857",
    "description": {
     "en": "Turkish news network",
@@ -487,9 +487,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCVKWwHoLwUMMa80cu_1uapA",
-   "youtubeVideoId": "ruKIue8SPDE",
+   "youtubeVideoId": "C2M1MkDe0pg",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q61077381",
    "description": {
     "en": "Turkey-based cable television channel",
@@ -587,9 +587,9 @@
     "tr"
    ],
    "youtubeChannelId": "UCGKYksAES1ORYtiWgEI55rQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "zwFKWKbK4YY",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q124759824",
    "description": {
     "en": "Sakarya-based local news website",
@@ -846,7 +846,7 @@
    "youtubeChannelId": "UCFoe1tg8MuHjRzmqXtV816A",
    "youtubeVideoId": "RXzn_Ie-Ulc",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1723591",
    "description": {
     "en": "Turkey-based cable television channel",

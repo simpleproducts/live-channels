@@ -1,9 +1,10 @@
 {
  "schema": 2,
  "code": "AU",
- "version": 2026112708,
+ "version": 2026112810,
  "defaultTiles": [
-  "au.abcnews"
+  "au.abcnews",
+  "au.9news"
  ],
  "channels": [
   {
@@ -53,9 +54,9 @@
     "en"
    ],
    "youtubeChannelId": "UCIYLOcEUX6TbBo7HQVF2PKA",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "4fGru8oYpnc",
+   "embeddable": true,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

@@ -1,10 +1,10 @@
 {
  "schema": 2,
  "code": "AL",
- "version": 2026112719,
+ "version": 2026112810,
  "defaultTiles": [
-  "al.teve1",
-  "al.syritv"
+  "al.syritv",
+  "al.topchannelalbania"
  ],
  "channels": [
   {
@@ -33,9 +33,9 @@
     "sq"
    ],
    "youtubeChannelId": "UCrhOdWxeea0IF_H7jV4y7tQ",
-   "youtubeVideoId": "bdKWe2PzcCE",
+   "youtubeVideoId": "FgUp66RSIFI",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q115801956",
    "description": {
     "en": "Abanian television channel and news agency"
@@ -55,9 +55,9 @@
     "sq"
    ],
    "youtubeChannelId": "UCyny-dfYPbE-CjAkzkZqF8A",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "1lHzchwD_2Y",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q968899",
    "description": {
     "en": "Albanian television network",

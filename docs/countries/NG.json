@@ -1,13 +1,14 @@
 {
  "schema": 2,
  "code": "NG",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "ng.channelstv",
   "ng.arisenews",
   "ng.tvcnews",
   "ng.ntalive",
-  "ng.trusttvnews"
+  "ng.trusttvnews",
+  "ng.nta"
  ],
  "channels": [
   {
@@ -139,9 +140,9 @@
     "en"
    ],
    "youtubeChannelId": "UCLLWAXn5F415g2kNAcE_T1g",
-   "youtubeVideoId": "MsQvK9t483E",
+   "youtubeVideoId": "rZW8YAG4DkA",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": null,
    "description": {},
    "wikipedia": {},

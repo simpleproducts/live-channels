@@ -1,17 +1,16 @@
 {
  "schema": 2,
  "code": "CO",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "co.ntn24",
   "co.noticiascaracol",
   "co.noticiasrcn",
   "co.eltiempo",
-  "co.canal1",
-  "co.noticiasuno",
-  "co.pulzo",
   "co.caracoltv",
-  "co.citytv"
+  "co.citytv",
+  "co.rcnradio",
+  "co.bluradio"
  ],
  "channels": [
   {
@@ -130,7 +129,7 @@
    "youtubeChannelId": "UCFL53cSDsmpEinezLSleHBA",
    "youtubeVideoId": "fnJH1uxFABs",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -184,7 +183,7 @@
    "youtubeChannelId": "UC3NUgxBBl05tthfGBS6kPkA",
    "youtubeVideoId": "GeFIqRlMPDA",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q7063021",
    "description": {
     "en": "television series",
@@ -210,7 +209,7 @@
    "youtubeChannelId": "UCEOTRMgfd7uXZD6goFTQP6A",
    "youtubeVideoId": "S2tMUk8w7gk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q62129644",
    "description": {
     "es": "Pulzo es un medio de comunicación, fundado en 2014 por Luis Fernando Santos, Guillermo Franco y otros integrantes de InQlab, sociedad registrada en Panamá que pertenece al grupo Santo Domingo."
@@ -367,7 +366,7 @@
    "youtubeChannelId": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
    "youtubeVideoId": "YahSzrxHi0o",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -385,7 +384,7 @@
    "youtubeChannelId": "UCeq_SgWZDF8h-ujzwBXI5jQ",
    "youtubeVideoId": "yZ4oLptZ9uw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6140409",
    "description": {
     "en": "Colombian television network",
@@ -435,7 +434,7 @@
    "youtubeChannelId": "UC_AZE6OOfsr7CxzPfkjnM9A",
    "youtubeVideoId": "bt7wwSHeRf8",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": null,
    "description": {},
    "wikipedia": {},
@@ -477,7 +476,7 @@
    "youtubeChannelId": "UCoIrkYZ161GtRP9yl_F-YRA",
    "youtubeVideoId": "YZfZ8NFDvPk",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q6140430",
    "description": {
     "en": "Colombian public television channel",
@@ -501,7 +500,7 @@
    "youtubeChannelId": "UC8xfBVSEAryXew78mZbFZFg",
    "youtubeVideoId": "pAzT1mgtfTQ",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q8200525",
    "description": {
     "en": "radio station in Colombia",
@@ -524,7 +523,7 @@
     "es"
    ],
    "youtubeChannelId": "UCUYokk2dJxFZf7NgxTL-ROg",
-   "youtubeVideoId": "CK_dB02WS5U",
+   "youtubeVideoId": "9nrPr4m500k",
    "embeddable": true,
    "live": true,
    "wikidata": "Q4672090",
@@ -554,7 +553,7 @@
    "youtubeChannelId": "UCNAJlRrXYFi8jo889TbxPiw",
    "youtubeVideoId": "TbVf-6k3Cmg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q4382447",
    "description": {
     "en": "radio network in Colombia",
@@ -583,7 +582,7 @@
    "youtubeChannelId": "UC6GkkHjigCzoVgvtYg8UB9g",
    "youtubeVideoId": "aiIX9s_OjO4",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2840179",
    "description": {
     "en": "radio station",
@@ -608,7 +607,7 @@
    "youtubeChannelId": "UCb3zBdj2HbRQBR4-A4AQ91A",
    "youtubeVideoId": "DgwJKjx04Dg",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q5843056",
    "description": {
     "en": "public radio network in Columbia",

@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "ZA",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
+  "za.sabcnews",
   "za.newzroom",
   "za.cnbcafrica",
   "za.radio702"
@@ -16,9 +17,9 @@
     "en"
    ],
    "youtubeChannelId": "UC8yH-uI81UUtEMDsowQyx1g",
-   "youtubeVideoId": "S_-k1JBckU8",
+   "youtubeVideoId": "z3QKB6Fge58",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q48767445",
    "description": {
     "en": "news channel owned by the South African Broadcasting Corporation",
@@ -63,7 +64,7 @@
     "en"
    ],
    "youtubeChannelId": "UCQMML3hAsx-Mz9j9ZN0tThQ",
-   "youtubeVideoId": "ip1MBzneP-A",
+   "youtubeVideoId": "l3pcAkt_bz8",
    "embeddable": true,
    "live": true,
    "wikidata": null,

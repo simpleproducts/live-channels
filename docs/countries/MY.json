@@ -1,12 +1,12 @@
 {
  "schema": 2,
  "code": "MY",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "my.awani",
   "my.beritartm",
-  "my.buletintv3",
-  "my.suriamalaysia"
+  "my.suriamalaysia",
+  "my.aifm"
  ],
  "channels": [
   {
@@ -83,7 +83,7 @@
    "youtubeChannelId": "UC2p8wkJVSjsMsRv0MjTikgA",
    "youtubeVideoId": "6ioi7R0QcG0",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1087303",
    "description": {
     "en": "Malaysian private television station",
@@ -311,9 +311,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCywk3jQt1NzS4iSdyCYa45g",
-   "youtubeVideoId": "MMNe5qCRd90",
+   "youtubeVideoId": "2RZcMd1j4F4",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q1705610",
    "description": {
     "en": "Malaysian radio station",

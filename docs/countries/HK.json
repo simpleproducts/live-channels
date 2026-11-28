@@ -1,9 +1,12 @@
 {
  "schema": 2,
  "code": "HK",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "hk.phoenixtv",
+  "hk.cablenews",
+  "hk.nownews",
+  "hk.passiontimeshk",
   "hk.rthk"
  ],
  "channels": [
@@ -44,6 +47,24 @@
    "city": null
   },
   {
+   "id": "hk.cablenews",
+   "name": "有線新聞 Cable News",
+   "category": "news",
+   "languages": [
+    "zh"
+   ],
+   "youtubeChannelId": "UC_q7e5XYJB0JDGagcF0KW0w",
+   "youtubeVideoId": "EOggg-ybFGQ",
+   "embeddable": true,
+   "live": true,
+   "wikidata": null,
+   "description": {},
+   "wikipedia": {},
+   "logo": null,
+   "website": null,
+   "city": null
+  },
+  {
    "id": "hk.nownews",
    "name": "Now 新聞",
    "category": "news",
@@ -51,9 +72,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCg8EwsqYmiw7G267xxPyXsg",
-   "youtubeVideoId": "-t6QnSCBwl4",
+   "youtubeVideoId": "T_e9H_S9m2I",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q10883984",
    "description": {
     "en": "news website based in Taiwan",
@@ -78,9 +99,9 @@
     "zh"
    ],
    "youtubeChannelId": "UCoAf_IAZKhnUb0AajE5VSyA",
-   "youtubeVideoId": "JIRq6cbQgms",
+   "youtubeVideoId": "qelc01BGQ3E",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q15904208",
    "description": {
     "en": "Hong Kong news company",
@@ -214,7 +235,7 @@
     "zh"
    ],
    "youtubeChannelId": "UC6of7UYhctnYmqABjUqzuxw",
-   "youtubeVideoId": "5DZMkQ15a4Q",
+   "youtubeVideoId": "4xkZI386dtM",
    "embeddable": true,
    "live": true,
    "wikidata": "Q1153480",

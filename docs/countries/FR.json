@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "FR",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "fr.france24",
   "fr.franceinfo",
@@ -678,7 +678,7 @@
    "youtubeChannelId": "UCafjyDNKyp3_gpiFgU42Slg",
    "youtubeVideoId": "xJx62tnyvoM",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q2935872",
    "description": {
     "fr": "chaîne de télévision généraliste française"

@@ -1,12 +1,11 @@
 {
  "schema": 2,
  "code": "VN",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "vn.antv",
   "vn.baotienphongnews",
-  "vn.vov",
-  "vn.vtv8aitruyenhinhvietnam",
+  "vn.baovaphatthanhtruyenhinh",
   "vn.htvthethao"
  ],
  "channels": [
@@ -18,7 +17,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-   "youtubeVideoId": "wVoiDNct2BY",
+   "youtubeVideoId": "NYykjJK0YUw",
    "embeddable": true,
    "live": true,
    "wikidata": null,
@@ -141,7 +140,7 @@
     "vi"
    ],
    "youtubeChannelId": "UCotkNLf_Y3jfbLWuSFUCSBQ",
-   "youtubeVideoId": "2aRO2O43gkE",
+   "youtubeVideoId": "H7mQMdu-af4",
    "embeddable": true,
    "live": true,
    "wikidata": "Q7801032",
@@ -335,7 +334,7 @@
    "youtubeChannelId": "UCKSzIR-Eb4gol3Zj0kAjHNw",
    "youtubeVideoId": "axzwsQfFxKw",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q24958410",
    "description": {
     "en": "Vietnamese television channel",
@@ -356,9 +355,9 @@
     "vi"
    ],
    "youtubeChannelId": "UCp7D27kB0DUbFOs3iWExtTQ",
-   "youtubeVideoId": null,
-   "embeddable": null,
-   "live": false,
+   "youtubeVideoId": "Ma-ga7eyXc4",
+   "embeddable": true,
+   "live": true,
    "wikidata": "Q30921140",
    "description": {
     "en": "Vietnamese television channel"
@@ -376,7 +375,7 @@
     "vi"
    ],
    "youtubeChannelId": "UC_OBG47Y3PswSHnMWSlrgZA",
-   "youtubeVideoId": "Q3p8z_n0qqA",
+   "youtubeVideoId": "XST3TpvG8Iw",
    "embeddable": true,
    "live": true,
    "wikidata": "Q16480856",
@@ -421,7 +420,7 @@
    "youtubeChannelId": "UCHCos7l5Nol2OZfFFkDXckg",
    "youtubeVideoId": "nlYF7z5aq20",
    "embeddable": true,
-   "live": true,
+   "live": false,
    "wikidata": "Q1141479",
    "description": {
     "en": "national radio broadcaster of Vietnam",

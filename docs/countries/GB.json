@@ -1,7 +1,7 @@
 {
  "schema": 2,
  "code": "GB",
- "version": 2026112802,
+ "version": 2026112810,
  "defaultTiles": [
   "gb.bbcnews",
   "gb.gbnews",
@@ -9,9 +9,9 @@
   "gb.thesun",
   "gb.bbcnewsarabic",
   "gb.alhiwartv",
+  "gb.ibctamil",
   "gb.timesradio",
-  "gb.babytvnurseryrhymescarto",
-  "gb.talksport"
+  "gb.babytvnurseryrhymescarto"
  ],
  "channels": [
   {
@@ -574,9 +574,9 @@
     "ta"
    ],
    "youtubeChannelId": "UCZinho9wu3iAeRpUXvAMzBQ",
-   "youtubeVideoId": "imDKwoLh7Ik",
+   "youtubeVideoId": "cIAg0bD64Co",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q12978896",
    "description": {
     "en": "London-based multimedia company",

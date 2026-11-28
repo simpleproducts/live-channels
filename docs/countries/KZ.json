@@ -1,8 +1,9 @@
 {
  "schema": 2,
  "code": "KZ",
- "version": 2026112623,
+ "version": 2026112810,
  "defaultTiles": [
+  "kz.24kz",
   "kz.qazaqstantv"
  ],
  "channels": [
@@ -15,9 +16,9 @@
     "ru"
    ],
    "youtubeChannelId": "UCnAFKvDuqBGkIfV8Vn0J_CQ",
-   "youtubeVideoId": "zZrslgu3260",
+   "youtubeVideoId": "cTkTulj2Qw8",
    "embeddable": true,
-   "live": false,
+   "live": true,
    "wikidata": "Q4030316",
    "description": {
     "en": "24-hour TV news channel in Kazakhstan",
